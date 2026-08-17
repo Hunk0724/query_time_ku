@@ -1,0 +1,3601 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "423e0625-3858-4a13-a94d-2a006387ec5a",
+      "memory": "Charlie Hebdo was created in the country of France.",
+      "hash": "6cd0a50d4d11bb30ff1603b1efa6102a",
+      "metadata": {
+        "ordinal": 155,
+        "triple": {
+          "subject_id": "charlie_hebdo",
+          "predicate_norm": "be created in country",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charlie Hebdo",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.8442721721872706,
+      "created_at": "2026-07-15T03:17:21.388237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "adf1532a-296d-446d-b370-c281cd806433",
+      "memory": "Charlie Hebdo was created in the country of Italy.",
+      "hash": "76f818f05ad4e12a784cae0630a7f12e",
+      "metadata": {
+        "ordinal": 358,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "created",
+          "object_text": "Charlie Hebdo",
+          "confidence": 0.9,
+          "subject_raw": "Italy",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.7411386645264713,
+      "created_at": "2026-07-15T03:20:28.671873-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7cf7fefc-c446-4221-8c6e-4f59aeb14c1b",
+      "memory": "Stephen Crane is famous for Charlie Hebdo",
+      "hash": "8be53b0aa44a4bfd3a5c1cc976446f98",
+      "metadata": {
+        "ordinal": 423,
+        "triple": {
+          "subject_id": "stephen_crane",
+          "predicate_norm": "be famous for",
+          "object_text": "Charlie Hebdo",
+          "confidence": 0.8,
+          "subject_raw": "Stephen Crane",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.5219797517411822,
+      "created_at": "2026-07-15T03:21:29.688661-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1f7e21d1-ee0c-4fb2-8646-576fc0b56222",
+      "memory": "Le Petit Parisien was created in the country of France.",
+      "hash": "959de7d659f7925c6ae218ff9746dafd",
+      "metadata": {
+        "ordinal": 257,
+        "triple": {
+          "subject_id": "le_petit_parisien",
+          "predicate_norm": "be created in",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Le Petit Parisien",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.5099357908112998,
+      "created_at": "2026-07-15T03:18:35.224507-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "85af6f58-4b5a-4db8-a2a4-1f079e317063",
+      "memory": "Le Petit Parisien was created in the country of Germany",
+      "hash": "e6a72fa5bec5c72da4d0c5694ea45243",
+      "metadata": {
+        "ordinal": 436,
+        "triple": {
+          "subject_id": "le_petit_parisien",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Germany",
+          "confidence": 0.95,
+          "subject_raw": "Le Petit Parisien",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.48631233364360843,
+      "created_at": "2026-07-15T03:21:29.714277-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "440091e8-a5b0-4fd1-a48b-96d04ef569bc",
+      "memory": "The capital of France is Harare.",
+      "hash": "f348da8afbacc7b9707cee1521f41ccd",
+      "metadata": {
+        "ordinal": 171,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "has capital",
+          "object_text": "Harare",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3442838694000713,
+      "created_at": "2026-07-15T03:17:21.408563-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d060bcd9-ee84-4c03-a3d1-76e0b3d7b071",
+      "memory": "Coco Chanel died in the city of Paris.",
+      "hash": "35528f6684626083ab5969218d02c4cb",
+      "metadata": {
+        "ordinal": 352,
+        "triple": {
+          "subject_id": "coco_chanel",
+          "predicate_norm": "died in",
+          "object_text": "Paris",
+          "confidence": 0.95,
+          "subject_raw": "Coco Chanel",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.3337681001013586,
+      "created_at": "2026-07-15T03:20:28.663965-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0ccf432b-aa0f-42f7-860d-dea624834af0",
+      "memory": "cricket was created in the country of England.",
+      "hash": "a99188bcd3a3a485ddc3d3a57bb70e24",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.32717430406202663,
+      "created_at": "2026-07-15T03:15:25.329133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "56fa680a-1836-42c4-a5de-51d7e8e41e14",
+      "memory": "Israel was founded by Philippe, Duke of Orléans.",
+      "hash": "8b47bbd9b862f8713fa1ec18aa88cc94",
+      "metadata": {
+        "ordinal": 49,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be founded by",
+          "object_text": "Philippe, Duke of Orléans",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.32656651034203343,
+      "created_at": "2026-07-15T03:15:25.319139-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2d19148e-46bb-452d-9021-0cd4ecac2c26",
+      "memory": "Thus Spoke Zarathustra was created in the country of Germany.",
+      "hash": "9854f20cb6a8b9a0f142fb2de16e699f",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "thus_spoke_zarathustra",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Germany",
+          "confidence": 0.95,
+          "subject_raw": "Thus Spoke Zarathustra",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3247271375888824,
+      "created_at": "2026-07-15T03:19:57.471559-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0d96e66a-7391-464f-b228-5e477730b1eb",
+      "memory": "Cédric Klapisch is a citizen of France.",
+      "hash": "524a8ed60a9f290cab2fb37c30827da7",
+      "metadata": {
+        "ordinal": 210,
+        "triple": {
+          "subject_id": "cédric_klapisch",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Cédric Klapisch",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31800833747986984,
+      "created_at": "2026-07-15T03:17:53.275426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aa5ee642-0443-4c03-b25c-83bb59f0c0d1",
+      "memory": "Pierre Beaumarchais was born in the city of Paris.",
+      "hash": "6cece0c60490c3a35e8b5471e86c3e64",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "pierre_beaumarchais",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Pierre Beaumarchais",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.3157066711506676,
+      "created_at": "2026-07-15T03:19:57.429313-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a93eed79-9e20-46e2-bbc7-2dcab7ddca3a",
+      "memory": "Charles Messier is a citizen of France.",
+      "hash": "f8594da04feb69797c4ccd7c41f7477e",
+      "metadata": {
+        "ordinal": 204,
+        "triple": {
+          "subject_id": "charles_messier",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles Messier",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31501258947564426,
+      "created_at": "2026-07-15T03:17:53.268332-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cec3c7ec-c24a-4969-a091-bf7af730e176",
+      "memory": "The capital of France is Paris.",
+      "hash": "4804f8d3d7fe277c6b3260dc6c21b887",
+      "metadata": {
+        "ordinal": 163,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "has capital",
+          "object_text": "Paris",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3105687331997653,
+      "created_at": "2026-07-15T03:17:21.398952-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a8518a23-5a89-4c75-ab5e-d76a51ac4d1d",
+      "memory": "France is located in the continent of Europe",
+      "hash": "079f0b92eed33faf02ce8ddd220fb587",
+      "metadata": {
+        "ordinal": 429,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3091928256238564,
+      "created_at": "2026-07-15T03:21:29.705025-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ddaeb9aa-d345-4112-a4fd-4f82c78a5f16",
+      "memory": "rugby union was created in the country of England.",
+      "hash": "4755d4b621f21d2f0f0a0e1b56566dbc",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in",
+          "object_text": "England",
+          "confidence": 0.95,
+          "subject_raw": "rugby union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3055475177214685,
+      "created_at": "2026-07-15T03:16:04.361100-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "070a418d-cca0-413e-aa5d-2a7ac0e41e61",
+      "memory": "Chanel was founded by Coco Chanel.",
+      "hash": "0ce6048b9ed188ca16981d2526ae7a57",
+      "metadata": {
+        "ordinal": 16,
+        "triple": {
+          "subject_id": "chanel",
+          "predicate_norm": "be founded by",
+          "object_text": "Coco Chanel",
+          "confidence": 0.95,
+          "subject_raw": "Chanel",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.29904316041408147,
+      "created_at": "2026-07-15T03:14:47.652880-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "08e77de6-8b5f-488a-bafd-33046e2853b0",
+      "memory": "association football was created in the country of England.",
+      "hash": "efae72238288f2cc72fb52d6110c89cc",
+      "metadata": {
+        "ordinal": 272,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "be created in",
+          "object_text": "England",
+          "confidence": 0.95,
+          "subject_raw": "association football",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.29412480816939657,
+      "created_at": "2026-07-15T03:19:21.751005-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f73e7e15-d772-4382-8398-10bba91dd297",
+      "memory": "jazz was created in the country of United States of America.",
+      "hash": "66f6d9ee7078a0ca8255b146d881fd6e",
+      "metadata": {
+        "ordinal": 212,
+        "triple": {
+          "subject_id": "jazz",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "jazz",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2889806819620479,
+      "created_at": "2026-07-15T03:17:53.277757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9b9522da-1f64-4007-8979-ee4704bddd45",
+      "memory": "Charles the Bold is a citizen of France.",
+      "hash": "f9dedca9adbd0eaeef5f930f462d8109",
+      "metadata": {
+        "ordinal": 371,
+        "triple": {
+          "subject_id": "charles_the_bold",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles the Bold",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.28721245208677093,
+      "created_at": "2026-07-15T03:20:28.688750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f8030e82-7431-4d21-aafe-aba9ebf36b9f",
+      "memory": "cricket was created in the country of Australia.",
+      "hash": "467561cf32de81b9d5b40b3a18db483b",
+      "metadata": {
+        "ordinal": 150,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.28589712476043283,
+      "created_at": "2026-07-15T03:16:48.238174-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "78a9ab0f-298f-40c7-9cac-ff1627980dc0",
+      "memory": "Club Nouveau was created in the country of United States of America.",
+      "hash": "3d87f3bbcb1684cd56dc0b95360e9140",
+      "metadata": {
+        "ordinal": 102,
+        "triple": {
+          "subject_id": "club_nouveau",
+          "predicate_norm": "be created in",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Club Nouveau",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.28465849076937444,
+      "created_at": "2026-07-15T03:16:04.363582-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0190d0bc-ea15-4648-a5c1-efb54c2e224c",
+      "memory": "Oscar Wilde died in the city of Paris.",
+      "hash": "2be40e08e2f29f40902df84757904fcb",
+      "metadata": {
+        "ordinal": 128,
+        "triple": {
+          "subject_id": "oscar_wilde",
+          "predicate_norm": "died in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Oscar Wilde",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.28160117756475456,
+      "created_at": "2026-07-15T03:16:48.211249-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f515b291-f662-4a18-bafa-032e850ba60c",
+      "memory": "Israel was founded by David-Ben Gurion.",
+      "hash": "a79f7b901cdbc4b69f0288d091b68f7e",
+      "metadata": {
+        "ordinal": 48,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be founded by",
+          "object_text": "David-Ben Gurion",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2814838051608515,
+      "created_at": "2026-07-15T03:15:25.317731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c23a0be9-3508-40ff-b058-bdffa2d62422",
+      "memory": "rugby union was created in the country of India.",
+      "hash": "850bef1e63f9d35451295c95ed688732",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in country",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "rugby union",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.28121624010421536,
+      "created_at": "2026-07-15T03:17:21.428188-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7233fbb5-742a-4b68-b9b3-9237390abda7",
+      "memory": "sumo was created in the country of Japan.",
+      "hash": "f6e929a2f8256274a58de4894a81fae1",
+      "metadata": {
+        "ordinal": 95,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2802030272174204,
+      "created_at": "2026-07-15T03:16:04.354596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "239c62db-21db-45a2-bf0e-3ec85c2be197",
+      "memory": "Henri Grégoire is a citizen of France.",
+      "hash": "8d14fff4de043a829b02fa59b6c08739",
+      "metadata": {
+        "ordinal": 39,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.27684784936400264,
+      "created_at": "2026-07-15T03:15:25.298933-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2b75d179-fbc5-4fdf-a9bd-436f77297c99",
+      "memory": "post-punk was created in the country of United Kingdom.",
+      "hash": "b6336fe41ad6feb9db69de138f6c7d89",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in country",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "post-punk",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.2758780973966968,
+      "created_at": "2026-07-15T03:17:21.396440-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "23cdf796-b7f1-4661-91dd-1d99b4f405c8",
+      "memory": "post-punk was created in the country of Canada.",
+      "hash": "e8b10b4498f99001b6c3803ff3cd83cf",
+      "metadata": {
+        "ordinal": 267,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in",
+          "object_text": "Canada",
+          "confidence": 0.95,
+          "subject_raw": "post-punk",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.27524728825555606,
+      "created_at": "2026-07-15T03:18:35.237609-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3b0144af-c85d-4a29-ac4c-dca489802e08",
+      "memory": "baseball was created in the country of Japan.",
+      "hash": "1dc2f211d7fc2487ced9c62fb5377e99",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "created",
+          "object_text": "baseball",
+          "confidence": 0.9,
+          "subject_raw": "Japan",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2696647478353224,
+      "created_at": "2026-07-15T03:20:28.702187-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "058dbfb2-8d5a-43d7-aa21-69cef6dbe6ed",
+      "memory": "association football was created in the country of Italy",
+      "hash": "6c1d6da0508741be6a856945d10b9df2",
+      "metadata": {
+        "ordinal": 389,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Italy",
+          "confidence": 0.95,
+          "subject_raw": "association football",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.26685594801075524,
+      "created_at": "2026-07-15T03:20:59.663797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b22b7cb5-28f5-4da3-a8ea-99d16164a3e8",
+      "memory": "Canadair was founded in the city of Montreal.",
+      "hash": "c89fa5d2d33a0276b7eb77f93afe35b5",
+      "metadata": {
+        "ordinal": 237,
+        "triple": {
+          "subject_id": "canadair",
+          "predicate_norm": "be founded in",
+          "object_text": "Montreal",
+          "confidence": 0.95,
+          "subject_raw": "Canadair",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.26660835364745006,
+      "created_at": "2026-07-15T03:18:35.196375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ad3521aa-3a14-4bb4-ab64-b5e41edf7c75",
+      "memory": "basketball was created in the country of United States of America.",
+      "hash": "a1a14f5de56bb73d772865f987ea8785",
+      "metadata": {
+        "ordinal": 216,
+        "triple": {
+          "subject_id": "basketball",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "basketball",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2658815539827632,
+      "created_at": "2026-07-15T03:17:53.282636-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7ad6814e-5391-4a64-a5a5-e7e51e198848",
+      "memory": "Bernard Arnault is a citizen of France.",
+      "hash": "9a2075f9f14dd012ea8177346441b4e8",
+      "metadata": {
+        "ordinal": 319,
+        "triple": {
+          "subject_id": "bernard_arnault",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Bernard Arnault",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2636612633244647,
+      "created_at": "2026-07-15T03:19:57.433037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "795ea371-258c-4145-850b-4adb509a787f",
+      "memory": "Playboy was written in the language of English.",
+      "hash": "cbc880dec25c5df212b42b76d459d3e7",
+      "metadata": {
+        "ordinal": 297,
+        "triple": {
+          "subject_id": "playboy",
+          "predicate_norm": "be written in",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Playboy",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.26190746710337387,
+      "created_at": "2026-07-15T03:19:21.789909-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1fa5b3b1-e69b-4c93-a2bf-195e9f2d35fa",
+      "memory": "Alan Jay Lerner died in the city of Mansourah, Algeria",
+      "hash": "b76e4b4e60ec19a4196ddd5234574c33",
+      "metadata": {
+        "ordinal": 394,
+        "triple": {
+          "subject_id": "alan_jay_lerner",
+          "predicate_norm": "died in",
+          "object_text": "the city of Mansourah, Algeria",
+          "confidence": 0.95,
+          "subject_raw": "Alan Jay Lerner",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.26008027256614,
+      "created_at": "2026-07-15T03:20:59.670556-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4c7c0214-5000-4597-8ef0-83019eda7d65",
+      "memory": "baseball was created in the country of United States of America.",
+      "hash": "7385fdb792d88fc96ee5ef1a6a3a50aa",
+      "metadata": {
+        "ordinal": 160,
+        "triple": {
+          "subject_id": "baseball",
+          "predicate_norm": "be created in country",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "baseball",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.2554434315147364,
+      "created_at": "2026-07-15T03:17:21.395031-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e605d13b-711c-4058-837d-925c7312b8e4",
+      "memory": "Christianity was founded in the city of Jerusalem.",
+      "hash": "11ce79593b5e3ddca47bf6a530f87e83",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Jerusalem",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2553879896885285,
+      "created_at": "2026-07-15T03:15:25.303059-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "08f6c6d7-6cab-4ca4-89d7-7c7fa5f802d6",
+      "memory": "Club Nouveau was created in the country of Soviet Union.",
+      "hash": "6b785ccb05e3b9a833dcc8e8c6637680",
+      "metadata": {
+        "ordinal": 353,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "created",
+          "object_text": "Club Nouveau",
+          "confidence": 0.9,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2542233890098372,
+      "created_at": "2026-07-15T03:20:28.665427-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b2ca2df-9bcc-4566-8cd4-b58180bc107b",
+      "memory": "rap rock was created in the country of United States of America.",
+      "hash": "c550399707afa2dbeca5e147739c1423",
+      "metadata": {
+        "ordinal": 359,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "created",
+          "object_text": "rap rock",
+          "confidence": 0.9,
+          "subject_raw": "United States of America",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2485233968278393,
+      "created_at": "2026-07-15T03:20:28.673082-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ae0b9e97-489a-4c7d-9543-5ca838e5fcd7",
+      "memory": "Charles Dickens died in the city of Gads Hill Place",
+      "hash": "e8cc305f34a3ce5a9f4f4241ac07d1b7",
+      "metadata": {
+        "ordinal": 448,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "died in",
+          "object_text": "the city of Gads Hill Place",
+          "confidence": 0.95,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.2383573975265248,
+      "created_at": "2026-07-15T03:21:29.729966-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "69e0ab6f-9c46-45ec-a090-423c4c2cf4f4",
+      "memory": "basketball was created in the country of Soviet Union.",
+      "hash": "7cd9f1c64fcfe41e60a6434da99bb7c0",
+      "metadata": {
+        "ordinal": 348,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "created",
+          "object_text": "basketball",
+          "confidence": 0.9,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2372667534032672,
+      "created_at": "2026-07-15T03:20:28.652567-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "98813299-7f67-4039-ba30-4a2346fc3051",
+      "memory": "Madame du Barry is a citizen of France.",
+      "hash": "d41a055729ad3e27b45900fb72df6d3d",
+      "metadata": {
+        "ordinal": 29,
+        "triple": {
+          "subject_id": "madame_du_barry",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Madame du Barry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.23670465977094596,
+      "created_at": "2026-07-15T03:14:47.670382-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d66a825d-5619-4252-8dfa-a4ea1b28a734",
+      "memory": "pesäpallo was created in the country of Philippines.",
+      "hash": "5896a122a7252d193383933723938a0e",
+      "metadata": {
+        "ordinal": 261,
+        "triple": {
+          "subject_id": "pesäpallo",
+          "predicate_norm": "be created in",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "pesäpallo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.23601455230026847,
+      "created_at": "2026-07-15T03:18:35.230087-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "08c526da-c644-4338-addd-c0a2dc98389c",
+      "memory": "country music was created in the country of United States of America.",
+      "hash": "7f07a3246a87e34a185d36de776ba4dc",
+      "metadata": {
+        "ordinal": 162,
+        "triple": {
+          "subject_id": "country_music",
+          "predicate_norm": "be created in country",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "country music",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.23586072848646444,
+      "created_at": "2026-07-15T03:17:21.397735-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f016b533-5bd2-4cf6-b175-1ac119747f9f",
+      "memory": "Joseph Goebbels worked in the city of Berlin",
+      "hash": "bc0cd12b2a737e5cf5b5eb3f70df0506",
+      "metadata": {
+        "ordinal": 395,
+        "triple": {
+          "subject_id": "joseph_goebbels",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Goebbels",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.23544584767264037,
+      "created_at": "2026-07-15T03:20:59.671937-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f20bf31c-7b55-4bed-9d29-0c2f05754288",
+      "memory": "The author of Sketches by Boz is Charles Dickens.",
+      "hash": "2d645b86e8183511958d3863118d65e8",
+      "metadata": {
+        "ordinal": 327,
+        "triple": {
+          "subject_id": "the_author_of_sketches_by_boz",
+          "predicate_norm": "be",
+          "object_text": "Charles Dickens",
+          "confidence": 0.8,
+          "subject_raw": "the author of Sketches by Boz",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.23434071829419043,
+      "created_at": "2026-07-15T03:19:57.448123-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4490695-3e54-4825-8649-84427025f1a4",
+      "memory": "Rand al'Thor was created by Ferdowsi.",
+      "hash": "00135e4cf41baf09e172eb5bc9f13e08",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Ferdowsi",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2325101223359805,
+      "created_at": "2026-07-15T03:19:57.446015-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e233a018-4bbd-499c-9ec0-94654cc33a12",
+      "memory": "Chanel was founded by Andy Warhol.",
+      "hash": "200f8f8d01b8f7af8223a5dbc2d21048",
+      "metadata": {
+        "ordinal": 34,
+        "triple": {
+          "subject_id": "chanel",
+          "predicate_norm": "be founded by",
+          "object_text": "Andy Warhol",
+          "confidence": 0.95,
+          "subject_raw": "Chanel",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22996340239486,
+      "created_at": "2026-07-15T03:14:47.676224-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "09b0909d-990a-4aaa-876a-8b65e5a4aa9a",
+      "memory": "Andy Warhol died in the city of Montmélian.",
+      "hash": "0fb9d70776f363fbb7c615d017e6d1b9",
+      "metadata": {
+        "ordinal": 142,
+        "triple": {
+          "subject_id": "andy_warhol",
+          "predicate_norm": "died in",
+          "object_text": "the city of Montmélian",
+          "confidence": 0.95,
+          "subject_raw": "Andy Warhol",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.22341200869374317,
+      "created_at": "2026-07-15T03:16:48.228695-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4566b7da-6bc3-4b7f-8357-eb54a28b81b7",
+      "memory": "Thomas Arne was born in the city of London.",
+      "hash": "4408992ab9ac8249091fe63cb04ad033",
+      "metadata": {
+        "ordinal": 342,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2226273195532144,
+      "created_at": "2026-07-15T03:19:57.468056-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "67eb5946-5be5-40e4-aab5-00f27b374aec",
+      "memory": "Germany is located in the continent of Africa",
+      "hash": "f7c1b2e60afb3f436dbb908fe36eaea7",
+      "metadata": {
+        "ordinal": 435,
+        "triple": null,
+        "subject_fallback": "germany"
+      },
+      "score": 0.22205306957425824,
+      "created_at": "2026-07-15T03:21:29.713075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f4586149-ae3c-45fb-ad53-0e943b751a7e",
+      "memory": "pesäpallo was created in the country of Finland.",
+      "hash": "c3187f475886ebe84f945000326923cc",
+      "metadata": {
+        "ordinal": 59,
+        "triple": {
+          "subject_id": "pesäpallo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Finland",
+          "confidence": 0.95,
+          "subject_raw": "pesäpallo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.21941850643283772,
+      "created_at": "2026-07-15T03:15:25.331625-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "57115af7-f13b-4463-8fe5-77cb02f6bf4d",
+      "memory": "Cédric Klapisch is a citizen of Malaysia.",
+      "hash": "c70206b3e5e2cb9491c8732024f34750",
+      "metadata": {
+        "ordinal": 239,
+        "triple": {
+          "subject_id": "cédric_klapisch",
+          "predicate_norm": "be citizen",
+          "object_text": "Malaysia",
+          "confidence": 0.95,
+          "subject_raw": "Cédric Klapisch",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.21928639300463543,
+      "created_at": "2026-07-15T03:18:35.199133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f3594f6c-ce12-4dfb-8ef0-d6125e07d869",
+      "memory": "Pakistan International Airlines was founded in the city of Sweden.",
+      "hash": "ce1d41a31b5cb5d95ca398f7682e5441",
+      "metadata": {
+        "ordinal": 205,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sweden",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.21899100921708908,
+      "created_at": "2026-07-15T03:17:53.269549-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0a475ddd-3bad-457b-8922-1a9616e6c4f2",
+      "memory": "Rand al'Thor was created by Robert Jordan.",
+      "hash": "cfce7e1132f4db6229116efea8586f13",
+      "metadata": {
+        "ordinal": 66,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Robert Jordan",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.21794377587736963,
+      "created_at": "2026-07-15T03:15:25.340037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f0855df7-43c1-4174-819e-cc9e9cdd70b3",
+      "memory": "Church of Scotland was founded by John Knox.",
+      "hash": "be9f721cf4e390aa6e26df4726d8dcaa",
+      "metadata": {
+        "ordinal": 17,
+        "triple": {
+          "subject_id": "church_of_scotland",
+          "predicate_norm": "be founded by",
+          "object_text": "John Knox",
+          "confidence": 0.95,
+          "subject_raw": "Church of Scotland",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2171740946280861,
+      "created_at": "2026-07-15T03:14:47.654269-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5f820812-5f06-4660-8eea-6967238b6b10",
+      "memory": "Pakistan International Airlines was founded in the city of Karachi.",
+      "hash": "5fda036ef640ff8b6a6f85288aade33d",
+      "metadata": {
+        "ordinal": 30,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Karachi",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.21478152789401603,
+      "created_at": "2026-07-15T03:14:47.671515-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7ef29178-8e7b-44d1-bcfc-7d4f1ddb131b",
+      "memory": "Philadelphia was founded by William Penn",
+      "hash": "13c24ab320d5442928ca4d06551d7f67",
+      "metadata": {
+        "ordinal": 421,
+        "triple": {
+          "subject_id": "william_penn",
+          "predicate_norm": "founded",
+          "object_text": "Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "William Penn",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.21388128886486146,
+      "created_at": "2026-07-15T03:21:29.675164-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "90337390-ebd3-47f8-ae8c-9a1dd6c9e72e",
+      "memory": "Henri Grégoire is a citizen of India.",
+      "hash": "1f38e0e7f2697fdbff4d3232bbb26ed5",
+      "metadata": {
+        "ordinal": 225,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2138677177665606,
+      "created_at": "2026-07-15T03:17:53.293782-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3cb9c796-1e2e-4904-a3d1-a0defeb19635",
+      "memory": "Sigmund Freud died in the city of London.",
+      "hash": "82cb4eaf12456f5c556a4985026886d0",
+      "metadata": {
+        "ordinal": 300,
+        "triple": {
+          "subject_id": "sigmund_freud",
+          "predicate_norm": "died in",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Sigmund Freud",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.21227653317929898,
+      "created_at": "2026-07-15T03:19:21.793533-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a7935eaf-42f4-4657-a4fa-5ba12229db74",
+      "memory": "Charles Messier is a citizen of Iran.",
+      "hash": "48cccda21c2cda7aa9a972bf2c1d4d64",
+      "metadata": {
+        "ordinal": 343,
+        "triple": {
+          "subject_id": "charles_messier",
+          "predicate_norm": "be citizen",
+          "object_text": "Iran",
+          "confidence": 0.95,
+          "subject_raw": "Charles Messier",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.20649389457974646,
+      "created_at": "2026-07-15T03:19:57.469227-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7557ab03-ccdc-4cee-ac9e-0a9f832eb88b",
+      "memory": "Ernst Heinkel is a citizen of Germany.",
+      "hash": "434c0762db36f772029828a5c4a1a7b3",
+      "metadata": {
+        "ordinal": 192,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2059428299264196,
+      "created_at": "2026-07-15T03:17:53.249389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e7ede09d-f577-43e7-978d-8c1ac47aa6dd",
+      "memory": "Christianity was founded in the city of Taipei.",
+      "hash": "d357c9f381412297f9ccba13fc11ef1e",
+      "metadata": {
+        "ordinal": 43,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Taipei",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.1993691454182982,
+      "created_at": "2026-07-15T03:15:25.310711-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7b1fdc18-5541-4787-ae05-db04153b7935",
+      "memory": "T. S. Eliot speaks the language of French.",
+      "hash": "91e59bbb7cfa13902a39dc06d0c03058",
+      "metadata": {
+        "ordinal": 197,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.19924240469362642,
+      "created_at": "2026-07-15T03:17:53.259885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e3ec353a-bbf6-41b6-842f-bafe911f5329",
+      "memory": "Madame du Barry is a citizen of Great Britain.",
+      "hash": "b4c045f5ecf7a7b45d21389c40fe3c69",
+      "metadata": {
+        "ordinal": 123,
+        "triple": {
+          "subject_id": "madame_du_barry",
+          "predicate_norm": "be citizen",
+          "object_text": "Great Britain",
+          "confidence": 0.95,
+          "subject_raw": "Madame du Barry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19820887155544933,
+      "created_at": "2026-07-15T03:16:48.205015-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8ef3cc19-3a9b-4f17-80d3-a3200164b4e8",
+      "memory": "rap rock was created in the country of Russian Empire",
+      "hash": "323b05a68a6b21e178697f79d2dced07",
+      "metadata": {
+        "ordinal": 403,
+        "triple": {
+          "subject_id": "rap_rock",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "rap rock",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.19765292537393556,
+      "created_at": "2026-07-15T03:20:59.682866-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2f812e89-d6b4-4e7d-b5cd-3239004cf49f",
+      "memory": "Catherine Dickens is a citizen of United Kingdom.",
+      "hash": "f27ef1f2216c8a4559da954bf9e8f4d0",
+      "metadata": {
+        "ordinal": 87,
+        "triple": {
+          "subject_id": "catherine_dickens",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Catherine Dickens",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19675890245666267,
+      "created_at": "2026-07-15T03:16:04.344405-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "728f38b8-6469-4593-bb9a-cdbd082d4179",
+      "memory": "Hugh Hefner is famous for Playboy.",
+      "hash": "7c1d05b9bfe754f5646e8347b25f44c7",
+      "metadata": {
+        "ordinal": 145,
+        "triple": {
+          "subject_id": "hugh_hefner",
+          "predicate_norm": "be famous for",
+          "object_text": "Playboy",
+          "confidence": 0.95,
+          "subject_raw": "Hugh Hefner",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.19658778107359876,
+      "created_at": "2026-07-15T03:16:48.232188-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1b77dc3a-b0af-42cd-8778-7fefeb819f0a",
+      "memory": "Methodism was founded by Joseph Goebbels.",
+      "hash": "365738636e82ba6683c402e8efe156a7",
+      "metadata": {
+        "ordinal": 287,
+        "triple": {
+          "subject_id": "methodism",
+          "predicate_norm": "be founded by",
+          "object_text": "Joseph Goebbels",
+          "confidence": 0.95,
+          "subject_raw": "Methodism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1944697738960453,
+      "created_at": "2026-07-15T03:19:21.777428-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "626b83b8-08d1-4800-b6ee-c0c34a70d910",
+      "memory": "The origianl broadcaster of 666 Park Avenue is American Broadcasting Company.",
+      "hash": "bc0f30e1a12469e58137a05001ffb84f",
+      "metadata": {
+        "ordinal": 363,
+        "triple": {
+          "subject_id": "666_park_avenue",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.9,
+          "subject_raw": "666 Park Avenue",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.19352180702141258,
+      "created_at": "2026-07-15T03:20:28.678050-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fed3bca6-8583-43f2-985a-8dfc1f763f8b",
+      "memory": "McLaren Automotive was founded in the city of Woking.",
+      "hash": "f2bca516c504eb0e857275ccb490bf16",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "mclaren_automotive",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Woking",
+          "confidence": 0.95,
+          "subject_raw": "McLaren Automotive",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.19099680276245146,
+      "created_at": "2026-07-15T03:16:48.229878-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a170c287-6c1c-44f0-92e1-36702894b8c1",
+      "memory": "Dave Filoni is employed by British Broadcasting Corporation.",
+      "hash": "d13ea92cd0c14cfaaf29e8eb180516a0",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.1901073815312594,
+      "created_at": "2026-07-15T03:17:53.295012-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f4be98a6-767e-4a99-b68e-bf06192c9fc2",
+      "memory": "Thomas Kyd was born in the city of Leeds.",
+      "hash": "b1a11c4d1dfe1c1da0b93e3b17a6cdb5",
+      "metadata": {
+        "ordinal": 306,
+        "triple": {
+          "subject_id": "thomas_kyd",
+          "predicate_norm": "be born in",
+          "object_text": "Leeds",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Kyd",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.18952899925514688,
+      "created_at": "2026-07-15T03:19:21.800791-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "19fa5d5f-8537-4ca1-9167-78ff3b995040",
+      "memory": "Colin Irwin is a citizen of Israel",
+      "hash": "9352a0a8f672efcee00109cf0b0fce81",
+      "metadata": {
+        "ordinal": 441,
+        "triple": {
+          "subject_id": "colin_irwin",
+          "predicate_norm": "be citizen",
+          "object_text": "Israel",
+          "confidence": 0.95,
+          "subject_raw": "Colin Irwin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18936726116549776,
+      "created_at": "2026-07-15T03:21:29.720727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c5f39fb7-cf13-44bf-92fc-48d8b1b90c89",
+      "memory": "Israel is located in the continent of Asia.",
+      "hash": "2f3ffc8a09b732eec33932105b3d9619",
+      "metadata": {
+        "ordinal": 98,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.1891346332857996,
+      "created_at": "2026-07-15T03:16:04.358591-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b21cef1f-4882-4bc9-b299-5a7d9128aa7e",
+      "memory": "Hugh Hefner is famous for The Vampyre.",
+      "hash": "a2e91e31e59e6bbaba94c4cdc2f63855",
+      "metadata": {
+        "ordinal": 189,
+        "triple": {
+          "subject_id": "hugh_hefner",
+          "predicate_norm": "be famous for",
+          "object_text": "The Vampyre",
+          "confidence": 0.95,
+          "subject_raw": "Hugh Hefner",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.18728832575621773,
+      "created_at": "2026-07-15T03:17:21.431770-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "de07952b-2243-4633-a240-57de8b57dc77",
+      "memory": "Vito Corleone was created by Nobuhiro Watsuki",
+      "hash": "5048034c71564b6d8b4747eeed54bf03",
+      "metadata": {
+        "ordinal": 390,
+        "triple": {
+          "subject_id": "vito_corleone",
+          "predicate_norm": "be created by",
+          "object_text": "Nobuhiro Watsuki",
+          "confidence": 0.95,
+          "subject_raw": "Vito Corleone",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.18725387311986919,
+      "created_at": "2026-07-15T03:20:59.665185-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2bd4bcb3-1561-4567-91ae-9eac1b624bf4",
+      "memory": "Thomas Arne was born in the city of Bengaluru.",
+      "hash": "a952ddf43f519d2c4dd749d512a5030d",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "Bengaluru",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.18670721844758265,
+      "created_at": "2026-07-15T03:20:28.681789-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "75343fe4-22cb-4e41-a0bc-8336ee64abe3",
+      "memory": "Benjamin Mazar is a citizen of Israel.",
+      "hash": "01cd8c9543e7b627706ace75dcb95d4a",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "benjamin_mazar",
+          "predicate_norm": "be citizen",
+          "object_text": "Israel",
+          "confidence": 0.95,
+          "subject_raw": "Benjamin Mazar",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18606836903907542,
+      "created_at": "2026-07-15T03:19:57.425260-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7eb5a57e-01c6-46fe-8e7f-f8e34b35d4e3",
+      "memory": "Thomas Kyd was born in the city of London.",
+      "hash": "77a75444c32e8ca5d3f36d66962373a4",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "thomas_kyd",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Kyd",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.18582402763351555,
+      "created_at": "2026-07-15T03:14:47.619117-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "56d35a12-02bd-4972-b384-42beb5ad10da",
+      "memory": "Germany is located in the continent of Europe.",
+      "hash": "a4e7b19b3efba6449760ecf0b33ddecd",
+      "metadata": {
+        "ordinal": 41,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18541983715873234,
+      "created_at": "2026-07-15T03:15:25.306360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8dc0c3df-eb1c-489f-8f6d-685f3325773f",
+      "memory": "Buddhism was founded by Gautama Buddha.",
+      "hash": "197ac03de3995c91400cc21ce50d9d80",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Gautama Buddha",
+          "confidence": 0.95,
+          "subject_raw": "Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.18526720799762134,
+      "created_at": "2026-07-15T03:15:25.341266-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "35d772b0-e0b8-458a-b4f5-60111c4095da",
+      "memory": "London is located in the continent of Europe.",
+      "hash": "4f7fa9c7c7858dab4313bbc72ebaf113",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "london",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "London",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18517819997168927,
+      "created_at": "2026-07-15T03:16:04.377391-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b5c1ec58-f53a-490d-abbe-08e3f4d6029d",
+      "memory": "The director of American Broadcasting Company is Ernst Heinkel",
+      "hash": "dde03e30c49799d7ca416e7c0d149b78",
+      "metadata": {
+        "ordinal": 392,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has director",
+          "object_text": "Ernst Heinkel",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.18444858758838517,
+      "created_at": "2026-07-15T03:20:59.667830-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "87223306-6562-40cd-93f7-1fa095939f45",
+      "memory": "Westinghouse Electric was founded in the city of Pittsburgh.",
+      "hash": "7dd877322bedc10b99fc89c6cd9150f0",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "westinghouse_electric",
+          "predicate_norm": "be founded in",
+          "object_text": "Pittsburgh",
+          "confidence": 0.95,
+          "subject_raw": "Westinghouse Electric",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.18020684515325003,
+      "created_at": "2026-07-15T03:16:04.374885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f1cbc2e0-421d-4d5a-90aa-cbbdce4d6612",
+      "memory": "England is located in the continent of Europe.",
+      "hash": "d8edb92e99b5f7fc10099f6cde169508",
+      "metadata": {
+        "ordinal": 211,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18019582156802044,
+      "created_at": "2026-07-15T03:17:53.276592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ffd041d2-53f8-46fc-b4a5-b87ab1f6a58d",
+      "memory": "Joe Hockey is a citizen of Italy",
+      "hash": "7f024033956145b40907a0727f9a0ca6",
+      "metadata": {
+        "ordinal": 427,
+        "triple": {
+          "subject_id": "joe_hockey",
+          "predicate_norm": "be citizen",
+          "object_text": "Italy",
+          "confidence": 0.95,
+          "subject_raw": "Joe Hockey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1791660786576065,
+      "created_at": "2026-07-15T03:21:29.701996-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "da9b6048-3531-418a-ba2f-c24842d86191",
+      "memory": "Catholic Church was founded by Jesus Christ.",
+      "hash": "505cc400adc563274003a7cd2572676b",
+      "metadata": {
+        "ordinal": 193,
+        "triple": {
+          "subject_id": "catholic_church",
+          "predicate_norm": "be founded by",
+          "object_text": "Jesus Christ",
+          "confidence": 0.95,
+          "subject_raw": "Catholic Church",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.17782133556440988,
+      "created_at": "2026-07-15T03:17:53.254159-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a72e05f2-6719-4dd4-b5f9-1bf4194d550d",
+      "memory": "Robert A. Heinlein is a citizen of United States of America.",
+      "hash": "8fbc9d88737c05292fc1319999c84725",
+      "metadata": {
+        "ordinal": 22,
+        "triple": {
+          "subject_id": "robert_a._heinlein",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Robert A. Heinlein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.17689015673212322,
+      "created_at": "2026-07-15T03:14:47.661328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3de64b67-3d8d-4049-a287-862b832c51cf",
+      "memory": "The author of The Marriage of Figaro is Pierre Beaumarchais.",
+      "hash": "2675a45c3618972dd4022a42513cdb4f",
+      "metadata": {
+        "ordinal": 271,
+        "triple": {
+          "subject_id": "the_marriage_of_figaro",
+          "predicate_norm": "has author",
+          "object_text": "Pierre Beaumarchais",
+          "confidence": 0.95,
+          "subject_raw": "The Marriage of Figaro",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.17616010777647254,
+      "created_at": "2026-07-15T03:19:21.745788-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bbd93175-6d7e-4aa5-9bbb-d10380d7fa63",
+      "memory": "Joe Hockey is a citizen of Australia.",
+      "hash": "5362a3e786165828464a4adca8120220",
+      "metadata": {
+        "ordinal": 129,
+        "triple": {
+          "subject_id": "joe_hockey",
+          "predicate_norm": "be citizen",
+          "object_text": "Australia",
+          "confidence": 0.95,
+          "subject_raw": "Joe Hockey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1751579256877911,
+      "created_at": "2026-07-15T03:16:48.212457-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0af2e1cd-2513-479d-8859-9f383fd1106f",
+      "memory": "Ferdinand von Richthofen is a citizen of Canada",
+      "hash": "d9019ea223dc1c57ec2f4026aad4508c",
+      "metadata": {
+        "ordinal": 386,
+        "triple": {
+          "subject_id": "ferdinand_von_richthofen",
+          "predicate_norm": "be citizen",
+          "object_text": "Canada",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand von Richthofen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.17430542271241278,
+      "created_at": "2026-07-15T03:20:59.655353-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1a3f3ded-6d83-48e9-94ce-017469991d2f",
+      "memory": "Amala Paul is a citizen of Belgium.",
+      "hash": "1b5bef1afe11d43adb3bfdb1754771f3",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "amala_paul",
+          "predicate_norm": "be citizen",
+          "object_text": "Belgium",
+          "confidence": 0.95,
+          "subject_raw": "Amala Paul",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.17403942273801712,
+      "created_at": "2026-07-15T03:19:57.437458-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7908b1ba-2e1f-4359-9dc4-68bc26771561",
+      "memory": "Frank Zappa died in the city of Berlin.",
+      "hash": "2022f74a1257981460f48b9943857dc3",
+      "metadata": {
+        "ordinal": 51,
+        "triple": {
+          "subject_id": "frank_zappa",
+          "predicate_norm": "died in",
+          "object_text": "the city of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Frank Zappa",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.17401354993522694,
+      "created_at": "2026-07-15T03:15:25.321733-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1f806b55-ba01-4169-81db-13289c519bb0",
+      "memory": "Daphne du Maurier is a citizen of United Kingdom.",
+      "hash": "06c1e6da1b2a6cb0968853c37d0b834d",
+      "metadata": {
+        "ordinal": 183,
+        "triple": {
+          "subject_id": "daphne_du_maurier",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Daphne du Maurier",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.17397745166427606,
+      "created_at": "2026-07-15T03:17:21.424620-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b1fd12d4-5abc-4989-a511-36df2e0d0556",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.1734109922802735,
+      "created_at": "2026-07-15T03:19:21.762258-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2f27f7ec-99fe-43d5-a63d-2de00e55d0cf",
+      "memory": "The author of Sketches by Boz is Sigmund Freud",
+      "hash": "599234f4d2d9d36e5bf40461f9a7bd28",
+      "metadata": {
+        "ordinal": 430,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "has author",
+          "object_text": "Sigmund Freud",
+          "confidence": 0.8,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.17248013787842276,
+      "created_at": "2026-07-15T03:21:29.706363-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c09e8e29-d1fc-4be9-9232-3dd042fcf837",
+      "memory": "Israel is located in the continent of North America.",
+      "hash": "27e9aba2c713510a714a67ccff67978b",
+      "metadata": {
+        "ordinal": 127,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.17109258797562787,
+      "created_at": "2026-07-15T03:16:48.209867-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "36571018-ddf9-477f-a2e5-fce9430e921c",
+      "memory": "The headquarters of The University of the Arts is located in the city of Philadelphia",
+      "hash": "ca1727350149cf1a99e43a0573bc58e0",
+      "metadata": {
+        "ordinal": 387,
+        "triple": {
+          "subject_id": "the_university_of_the_arts",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "The University of the Arts",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.17055915176229422,
+      "created_at": "2026-07-15T03:20:59.658879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": [
+    {
+      "id": "423e0625-3858-4a13-a94d-2a006387ec5a",
+      "memory": "Charlie Hebdo was created in the country of France.",
+      "hash": "6cd0a50d4d11bb30ff1603b1efa6102a",
+      "metadata": {
+        "ordinal": 155,
+        "triple": {
+          "subject_id": "charlie_hebdo",
+          "predicate_norm": "be created in country",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charlie Hebdo",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.8442721721872706,
+      "created_at": "2026-07-15T03:17:21.388237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "adf1532a-296d-446d-b370-c281cd806433",
+      "memory": "Charlie Hebdo was created in the country of Italy.",
+      "hash": "76f818f05ad4e12a784cae0630a7f12e",
+      "metadata": {
+        "ordinal": 358,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "created",
+          "object_text": "Charlie Hebdo",
+          "confidence": 0.9,
+          "subject_raw": "Italy",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.7411386645264713,
+      "created_at": "2026-07-15T03:20:28.671873-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7cf7fefc-c446-4221-8c6e-4f59aeb14c1b",
+      "memory": "Stephen Crane is famous for Charlie Hebdo",
+      "hash": "8be53b0aa44a4bfd3a5c1cc976446f98",
+      "metadata": {
+        "ordinal": 423,
+        "triple": {
+          "subject_id": "stephen_crane",
+          "predicate_norm": "be famous for",
+          "object_text": "Charlie Hebdo",
+          "confidence": 0.8,
+          "subject_raw": "Stephen Crane",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.5219797517411822,
+      "created_at": "2026-07-15T03:21:29.688661-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "85af6f58-4b5a-4db8-a2a4-1f079e317063",
+      "memory": "Le Petit Parisien was created in the country of Germany",
+      "hash": "e6a72fa5bec5c72da4d0c5694ea45243",
+      "metadata": {
+        "ordinal": 436,
+        "triple": {
+          "subject_id": "le_petit_parisien",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Germany",
+          "confidence": 0.95,
+          "subject_raw": "Le Petit Parisien",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.48631233364360843,
+      "created_at": "2026-07-15T03:21:29.714277-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "440091e8-a5b0-4fd1-a48b-96d04ef569bc",
+      "memory": "The capital of France is Harare.",
+      "hash": "f348da8afbacc7b9707cee1521f41ccd",
+      "metadata": {
+        "ordinal": 171,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "has capital",
+          "object_text": "Harare",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3442838694000713,
+      "created_at": "2026-07-15T03:17:21.408563-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d060bcd9-ee84-4c03-a3d1-76e0b3d7b071",
+      "memory": "Coco Chanel died in the city of Paris.",
+      "hash": "35528f6684626083ab5969218d02c4cb",
+      "metadata": {
+        "ordinal": 352,
+        "triple": {
+          "subject_id": "coco_chanel",
+          "predicate_norm": "died in",
+          "object_text": "Paris",
+          "confidence": 0.95,
+          "subject_raw": "Coco Chanel",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.3337681001013586,
+      "created_at": "2026-07-15T03:20:28.663965-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "56fa680a-1836-42c4-a5de-51d7e8e41e14",
+      "memory": "Israel was founded by Philippe, Duke of Orléans.",
+      "hash": "8b47bbd9b862f8713fa1ec18aa88cc94",
+      "metadata": {
+        "ordinal": 49,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be founded by",
+          "object_text": "Philippe, Duke of Orléans",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.32656651034203343,
+      "created_at": "2026-07-15T03:15:25.319139-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2d19148e-46bb-452d-9021-0cd4ecac2c26",
+      "memory": "Thus Spoke Zarathustra was created in the country of Germany.",
+      "hash": "9854f20cb6a8b9a0f142fb2de16e699f",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "thus_spoke_zarathustra",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Germany",
+          "confidence": 0.95,
+          "subject_raw": "Thus Spoke Zarathustra",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3247271375888824,
+      "created_at": "2026-07-15T03:19:57.471559-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aa5ee642-0443-4c03-b25c-83bb59f0c0d1",
+      "memory": "Pierre Beaumarchais was born in the city of Paris.",
+      "hash": "6cece0c60490c3a35e8b5471e86c3e64",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "pierre_beaumarchais",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Pierre Beaumarchais",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.3157066711506676,
+      "created_at": "2026-07-15T03:19:57.429313-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a8518a23-5a89-4c75-ab5e-d76a51ac4d1d",
+      "memory": "France is located in the continent of Europe",
+      "hash": "079f0b92eed33faf02ce8ddd220fb587",
+      "metadata": {
+        "ordinal": 429,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3091928256238564,
+      "created_at": "2026-07-15T03:21:29.705025-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ddaeb9aa-d345-4112-a4fd-4f82c78a5f16",
+      "memory": "rugby union was created in the country of England.",
+      "hash": "4755d4b621f21d2f0f0a0e1b56566dbc",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in",
+          "object_text": "England",
+          "confidence": 0.95,
+          "subject_raw": "rugby union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3055475177214685,
+      "created_at": "2026-07-15T03:16:04.361100-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f73e7e15-d772-4382-8398-10bba91dd297",
+      "memory": "jazz was created in the country of United States of America.",
+      "hash": "66f6d9ee7078a0ca8255b146d881fd6e",
+      "metadata": {
+        "ordinal": 212,
+        "triple": {
+          "subject_id": "jazz",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "jazz",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2889806819620479,
+      "created_at": "2026-07-15T03:17:53.277757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9b9522da-1f64-4007-8979-ee4704bddd45",
+      "memory": "Charles the Bold is a citizen of France.",
+      "hash": "f9dedca9adbd0eaeef5f930f462d8109",
+      "metadata": {
+        "ordinal": 371,
+        "triple": {
+          "subject_id": "charles_the_bold",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles the Bold",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.28721245208677093,
+      "created_at": "2026-07-15T03:20:28.688750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f8030e82-7431-4d21-aafe-aba9ebf36b9f",
+      "memory": "cricket was created in the country of Australia.",
+      "hash": "467561cf32de81b9d5b40b3a18db483b",
+      "metadata": {
+        "ordinal": 150,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.28589712476043283,
+      "created_at": "2026-07-15T03:16:48.238174-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "78a9ab0f-298f-40c7-9cac-ff1627980dc0",
+      "memory": "Club Nouveau was created in the country of United States of America.",
+      "hash": "3d87f3bbcb1684cd56dc0b95360e9140",
+      "metadata": {
+        "ordinal": 102,
+        "triple": {
+          "subject_id": "club_nouveau",
+          "predicate_norm": "be created in",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Club Nouveau",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.28465849076937444,
+      "created_at": "2026-07-15T03:16:04.363582-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0190d0bc-ea15-4648-a5c1-efb54c2e224c",
+      "memory": "Oscar Wilde died in the city of Paris.",
+      "hash": "2be40e08e2f29f40902df84757904fcb",
+      "metadata": {
+        "ordinal": 128,
+        "triple": {
+          "subject_id": "oscar_wilde",
+          "predicate_norm": "died in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Oscar Wilde",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.28160117756475456,
+      "created_at": "2026-07-15T03:16:48.211249-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c23a0be9-3508-40ff-b058-bdffa2d62422",
+      "memory": "rugby union was created in the country of India.",
+      "hash": "850bef1e63f9d35451295c95ed688732",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in country",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "rugby union",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.28121624010421536,
+      "created_at": "2026-07-15T03:17:21.428188-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7233fbb5-742a-4b68-b9b3-9237390abda7",
+      "memory": "sumo was created in the country of Japan.",
+      "hash": "f6e929a2f8256274a58de4894a81fae1",
+      "metadata": {
+        "ordinal": 95,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2802030272174204,
+      "created_at": "2026-07-15T03:16:04.354596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2b75d179-fbc5-4fdf-a9bd-436f77297c99",
+      "memory": "post-punk was created in the country of United Kingdom.",
+      "hash": "b6336fe41ad6feb9db69de138f6c7d89",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in country",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "post-punk",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.2758780973966968,
+      "created_at": "2026-07-15T03:17:21.396440-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "23cdf796-b7f1-4661-91dd-1d99b4f405c8",
+      "memory": "post-punk was created in the country of Canada.",
+      "hash": "e8b10b4498f99001b6c3803ff3cd83cf",
+      "metadata": {
+        "ordinal": 267,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in",
+          "object_text": "Canada",
+          "confidence": 0.95,
+          "subject_raw": "post-punk",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.27524728825555606,
+      "created_at": "2026-07-15T03:18:35.237609-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3b0144af-c85d-4a29-ac4c-dca489802e08",
+      "memory": "baseball was created in the country of Japan.",
+      "hash": "1dc2f211d7fc2487ced9c62fb5377e99",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "created",
+          "object_text": "baseball",
+          "confidence": 0.9,
+          "subject_raw": "Japan",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2696647478353224,
+      "created_at": "2026-07-15T03:20:28.702187-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "058dbfb2-8d5a-43d7-aa21-69cef6dbe6ed",
+      "memory": "association football was created in the country of Italy",
+      "hash": "6c1d6da0508741be6a856945d10b9df2",
+      "metadata": {
+        "ordinal": 389,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Italy",
+          "confidence": 0.95,
+          "subject_raw": "association football",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.26685594801075524,
+      "created_at": "2026-07-15T03:20:59.663797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b22b7cb5-28f5-4da3-a8ea-99d16164a3e8",
+      "memory": "Canadair was founded in the city of Montreal.",
+      "hash": "c89fa5d2d33a0276b7eb77f93afe35b5",
+      "metadata": {
+        "ordinal": 237,
+        "triple": {
+          "subject_id": "canadair",
+          "predicate_norm": "be founded in",
+          "object_text": "Montreal",
+          "confidence": 0.95,
+          "subject_raw": "Canadair",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.26660835364745006,
+      "created_at": "2026-07-15T03:18:35.196375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ad3521aa-3a14-4bb4-ab64-b5e41edf7c75",
+      "memory": "basketball was created in the country of United States of America.",
+      "hash": "a1a14f5de56bb73d772865f987ea8785",
+      "metadata": {
+        "ordinal": 216,
+        "triple": {
+          "subject_id": "basketball",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "basketball",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2658815539827632,
+      "created_at": "2026-07-15T03:17:53.282636-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7ad6814e-5391-4a64-a5a5-e7e51e198848",
+      "memory": "Bernard Arnault is a citizen of France.",
+      "hash": "9a2075f9f14dd012ea8177346441b4e8",
+      "metadata": {
+        "ordinal": 319,
+        "triple": {
+          "subject_id": "bernard_arnault",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Bernard Arnault",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2636612633244647,
+      "created_at": "2026-07-15T03:19:57.433037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "795ea371-258c-4145-850b-4adb509a787f",
+      "memory": "Playboy was written in the language of English.",
+      "hash": "cbc880dec25c5df212b42b76d459d3e7",
+      "metadata": {
+        "ordinal": 297,
+        "triple": {
+          "subject_id": "playboy",
+          "predicate_norm": "be written in",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Playboy",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.26190746710337387,
+      "created_at": "2026-07-15T03:19:21.789909-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1fa5b3b1-e69b-4c93-a2bf-195e9f2d35fa",
+      "memory": "Alan Jay Lerner died in the city of Mansourah, Algeria",
+      "hash": "b76e4b4e60ec19a4196ddd5234574c33",
+      "metadata": {
+        "ordinal": 394,
+        "triple": {
+          "subject_id": "alan_jay_lerner",
+          "predicate_norm": "died in",
+          "object_text": "the city of Mansourah, Algeria",
+          "confidence": 0.95,
+          "subject_raw": "Alan Jay Lerner",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.26008027256614,
+      "created_at": "2026-07-15T03:20:59.670556-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4c7c0214-5000-4597-8ef0-83019eda7d65",
+      "memory": "baseball was created in the country of United States of America.",
+      "hash": "7385fdb792d88fc96ee5ef1a6a3a50aa",
+      "metadata": {
+        "ordinal": 160,
+        "triple": {
+          "subject_id": "baseball",
+          "predicate_norm": "be created in country",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "baseball",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.2554434315147364,
+      "created_at": "2026-07-15T03:17:21.395031-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "08f6c6d7-6cab-4ca4-89d7-7c7fa5f802d6",
+      "memory": "Club Nouveau was created in the country of Soviet Union.",
+      "hash": "6b785ccb05e3b9a833dcc8e8c6637680",
+      "metadata": {
+        "ordinal": 353,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "created",
+          "object_text": "Club Nouveau",
+          "confidence": 0.9,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2542233890098372,
+      "created_at": "2026-07-15T03:20:28.665427-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b2ca2df-9bcc-4566-8cd4-b58180bc107b",
+      "memory": "rap rock was created in the country of United States of America.",
+      "hash": "c550399707afa2dbeca5e147739c1423",
+      "metadata": {
+        "ordinal": 359,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "created",
+          "object_text": "rap rock",
+          "confidence": 0.9,
+          "subject_raw": "United States of America",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2485233968278393,
+      "created_at": "2026-07-15T03:20:28.673082-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ae0b9e97-489a-4c7d-9543-5ca838e5fcd7",
+      "memory": "Charles Dickens died in the city of Gads Hill Place",
+      "hash": "e8cc305f34a3ce5a9f4f4241ac07d1b7",
+      "metadata": {
+        "ordinal": 448,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "died in",
+          "object_text": "the city of Gads Hill Place",
+          "confidence": 0.95,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.2383573975265248,
+      "created_at": "2026-07-15T03:21:29.729966-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d66a825d-5619-4252-8dfa-a4ea1b28a734",
+      "memory": "pesäpallo was created in the country of Philippines.",
+      "hash": "5896a122a7252d193383933723938a0e",
+      "metadata": {
+        "ordinal": 261,
+        "triple": {
+          "subject_id": "pesäpallo",
+          "predicate_norm": "be created in",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "pesäpallo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.23601455230026847,
+      "created_at": "2026-07-15T03:18:35.230087-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "08c526da-c644-4338-addd-c0a2dc98389c",
+      "memory": "country music was created in the country of United States of America.",
+      "hash": "7f07a3246a87e34a185d36de776ba4dc",
+      "metadata": {
+        "ordinal": 162,
+        "triple": {
+          "subject_id": "country_music",
+          "predicate_norm": "be created in country",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "country music",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.23586072848646444,
+      "created_at": "2026-07-15T03:17:21.397735-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f016b533-5bd2-4cf6-b175-1ac119747f9f",
+      "memory": "Joseph Goebbels worked in the city of Berlin",
+      "hash": "bc0cd12b2a737e5cf5b5eb3f70df0506",
+      "metadata": {
+        "ordinal": 395,
+        "triple": {
+          "subject_id": "joseph_goebbels",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Goebbels",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.23544584767264037,
+      "created_at": "2026-07-15T03:20:59.671937-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f20bf31c-7b55-4bed-9d29-0c2f05754288",
+      "memory": "The author of Sketches by Boz is Charles Dickens.",
+      "hash": "2d645b86e8183511958d3863118d65e8",
+      "metadata": {
+        "ordinal": 327,
+        "triple": {
+          "subject_id": "the_author_of_sketches_by_boz",
+          "predicate_norm": "be",
+          "object_text": "Charles Dickens",
+          "confidence": 0.8,
+          "subject_raw": "the author of Sketches by Boz",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.23434071829419043,
+      "created_at": "2026-07-15T03:19:57.448123-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4490695-3e54-4825-8649-84427025f1a4",
+      "memory": "Rand al'Thor was created by Ferdowsi.",
+      "hash": "00135e4cf41baf09e172eb5bc9f13e08",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Ferdowsi",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2325101223359805,
+      "created_at": "2026-07-15T03:19:57.446015-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e233a018-4bbd-499c-9ec0-94654cc33a12",
+      "memory": "Chanel was founded by Andy Warhol.",
+      "hash": "200f8f8d01b8f7af8223a5dbc2d21048",
+      "metadata": {
+        "ordinal": 34,
+        "triple": {
+          "subject_id": "chanel",
+          "predicate_norm": "be founded by",
+          "object_text": "Andy Warhol",
+          "confidence": 0.95,
+          "subject_raw": "Chanel",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22996340239486,
+      "created_at": "2026-07-15T03:14:47.676224-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "09b0909d-990a-4aaa-876a-8b65e5a4aa9a",
+      "memory": "Andy Warhol died in the city of Montmélian.",
+      "hash": "0fb9d70776f363fbb7c615d017e6d1b9",
+      "metadata": {
+        "ordinal": 142,
+        "triple": {
+          "subject_id": "andy_warhol",
+          "predicate_norm": "died in",
+          "object_text": "the city of Montmélian",
+          "confidence": 0.95,
+          "subject_raw": "Andy Warhol",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.22341200869374317,
+      "created_at": "2026-07-15T03:16:48.228695-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "67eb5946-5be5-40e4-aab5-00f27b374aec",
+      "memory": "Germany is located in the continent of Africa",
+      "hash": "f7c1b2e60afb3f436dbb908fe36eaea7",
+      "metadata": {
+        "ordinal": 435,
+        "triple": null,
+        "subject_fallback": "germany"
+      },
+      "score": 0.22205306957425824,
+      "created_at": "2026-07-15T03:21:29.713075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "57115af7-f13b-4463-8fe5-77cb02f6bf4d",
+      "memory": "Cédric Klapisch is a citizen of Malaysia.",
+      "hash": "c70206b3e5e2cb9491c8732024f34750",
+      "metadata": {
+        "ordinal": 239,
+        "triple": {
+          "subject_id": "cédric_klapisch",
+          "predicate_norm": "be citizen",
+          "object_text": "Malaysia",
+          "confidence": 0.95,
+          "subject_raw": "Cédric Klapisch",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.21928639300463543,
+      "created_at": "2026-07-15T03:18:35.199133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f3594f6c-ce12-4dfb-8ef0-d6125e07d869",
+      "memory": "Pakistan International Airlines was founded in the city of Sweden.",
+      "hash": "ce1d41a31b5cb5d95ca398f7682e5441",
+      "metadata": {
+        "ordinal": 205,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sweden",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.21899100921708908,
+      "created_at": "2026-07-15T03:17:53.269549-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f0855df7-43c1-4174-819e-cc9e9cdd70b3",
+      "memory": "Church of Scotland was founded by John Knox.",
+      "hash": "be9f721cf4e390aa6e26df4726d8dcaa",
+      "metadata": {
+        "ordinal": 17,
+        "triple": {
+          "subject_id": "church_of_scotland",
+          "predicate_norm": "be founded by",
+          "object_text": "John Knox",
+          "confidence": 0.95,
+          "subject_raw": "Church of Scotland",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2171740946280861,
+      "created_at": "2026-07-15T03:14:47.654269-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7ef29178-8e7b-44d1-bcfc-7d4f1ddb131b",
+      "memory": "Philadelphia was founded by William Penn",
+      "hash": "13c24ab320d5442928ca4d06551d7f67",
+      "metadata": {
+        "ordinal": 421,
+        "triple": {
+          "subject_id": "william_penn",
+          "predicate_norm": "founded",
+          "object_text": "Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "William Penn",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.21388128886486146,
+      "created_at": "2026-07-15T03:21:29.675164-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "90337390-ebd3-47f8-ae8c-9a1dd6c9e72e",
+      "memory": "Henri Grégoire is a citizen of India.",
+      "hash": "1f38e0e7f2697fdbff4d3232bbb26ed5",
+      "metadata": {
+        "ordinal": 225,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2138677177665606,
+      "created_at": "2026-07-15T03:17:53.293782-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3cb9c796-1e2e-4904-a3d1-a0defeb19635",
+      "memory": "Sigmund Freud died in the city of London.",
+      "hash": "82cb4eaf12456f5c556a4985026886d0",
+      "metadata": {
+        "ordinal": 300,
+        "triple": {
+          "subject_id": "sigmund_freud",
+          "predicate_norm": "died in",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Sigmund Freud",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.21227653317929898,
+      "created_at": "2026-07-15T03:19:21.793533-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a7935eaf-42f4-4657-a4fa-5ba12229db74",
+      "memory": "Charles Messier is a citizen of Iran.",
+      "hash": "48cccda21c2cda7aa9a972bf2c1d4d64",
+      "metadata": {
+        "ordinal": 343,
+        "triple": {
+          "subject_id": "charles_messier",
+          "predicate_norm": "be citizen",
+          "object_text": "Iran",
+          "confidence": 0.95,
+          "subject_raw": "Charles Messier",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.20649389457974646,
+      "created_at": "2026-07-15T03:19:57.469227-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7557ab03-ccdc-4cee-ac9e-0a9f832eb88b",
+      "memory": "Ernst Heinkel is a citizen of Germany.",
+      "hash": "434c0762db36f772029828a5c4a1a7b3",
+      "metadata": {
+        "ordinal": 192,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2059428299264196,
+      "created_at": "2026-07-15T03:17:53.249389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e7ede09d-f577-43e7-978d-8c1ac47aa6dd",
+      "memory": "Christianity was founded in the city of Taipei.",
+      "hash": "d357c9f381412297f9ccba13fc11ef1e",
+      "metadata": {
+        "ordinal": 43,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Taipei",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.1993691454182982,
+      "created_at": "2026-07-15T03:15:25.310711-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7b1fdc18-5541-4787-ae05-db04153b7935",
+      "memory": "T. S. Eliot speaks the language of French.",
+      "hash": "91e59bbb7cfa13902a39dc06d0c03058",
+      "metadata": {
+        "ordinal": 197,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.19924240469362642,
+      "created_at": "2026-07-15T03:17:53.259885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e3ec353a-bbf6-41b6-842f-bafe911f5329",
+      "memory": "Madame du Barry is a citizen of Great Britain.",
+      "hash": "b4c045f5ecf7a7b45d21389c40fe3c69",
+      "metadata": {
+        "ordinal": 123,
+        "triple": {
+          "subject_id": "madame_du_barry",
+          "predicate_norm": "be citizen",
+          "object_text": "Great Britain",
+          "confidence": 0.95,
+          "subject_raw": "Madame du Barry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19820887155544933,
+      "created_at": "2026-07-15T03:16:48.205015-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8ef3cc19-3a9b-4f17-80d3-a3200164b4e8",
+      "memory": "rap rock was created in the country of Russian Empire",
+      "hash": "323b05a68a6b21e178697f79d2dced07",
+      "metadata": {
+        "ordinal": 403,
+        "triple": {
+          "subject_id": "rap_rock",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "rap rock",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.19765292537393556,
+      "created_at": "2026-07-15T03:20:59.682866-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2f812e89-d6b4-4e7d-b5cd-3239004cf49f",
+      "memory": "Catherine Dickens is a citizen of United Kingdom.",
+      "hash": "f27ef1f2216c8a4559da954bf9e8f4d0",
+      "metadata": {
+        "ordinal": 87,
+        "triple": {
+          "subject_id": "catherine_dickens",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Catherine Dickens",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19675890245666267,
+      "created_at": "2026-07-15T03:16:04.344405-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1b77dc3a-b0af-42cd-8778-7fefeb819f0a",
+      "memory": "Methodism was founded by Joseph Goebbels.",
+      "hash": "365738636e82ba6683c402e8efe156a7",
+      "metadata": {
+        "ordinal": 287,
+        "triple": {
+          "subject_id": "methodism",
+          "predicate_norm": "be founded by",
+          "object_text": "Joseph Goebbels",
+          "confidence": 0.95,
+          "subject_raw": "Methodism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1944697738960453,
+      "created_at": "2026-07-15T03:19:21.777428-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "626b83b8-08d1-4800-b6ee-c0c34a70d910",
+      "memory": "The origianl broadcaster of 666 Park Avenue is American Broadcasting Company.",
+      "hash": "bc0f30e1a12469e58137a05001ffb84f",
+      "metadata": {
+        "ordinal": 363,
+        "triple": {
+          "subject_id": "666_park_avenue",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.9,
+          "subject_raw": "666 Park Avenue",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.19352180702141258,
+      "created_at": "2026-07-15T03:20:28.678050-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fed3bca6-8583-43f2-985a-8dfc1f763f8b",
+      "memory": "McLaren Automotive was founded in the city of Woking.",
+      "hash": "f2bca516c504eb0e857275ccb490bf16",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "mclaren_automotive",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Woking",
+          "confidence": 0.95,
+          "subject_raw": "McLaren Automotive",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.19099680276245146,
+      "created_at": "2026-07-15T03:16:48.229878-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a170c287-6c1c-44f0-92e1-36702894b8c1",
+      "memory": "Dave Filoni is employed by British Broadcasting Corporation.",
+      "hash": "d13ea92cd0c14cfaaf29e8eb180516a0",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.1901073815312594,
+      "created_at": "2026-07-15T03:17:53.295012-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f4be98a6-767e-4a99-b68e-bf06192c9fc2",
+      "memory": "Thomas Kyd was born in the city of Leeds.",
+      "hash": "b1a11c4d1dfe1c1da0b93e3b17a6cdb5",
+      "metadata": {
+        "ordinal": 306,
+        "triple": {
+          "subject_id": "thomas_kyd",
+          "predicate_norm": "be born in",
+          "object_text": "Leeds",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Kyd",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.18952899925514688,
+      "created_at": "2026-07-15T03:19:21.800791-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "19fa5d5f-8537-4ca1-9167-78ff3b995040",
+      "memory": "Colin Irwin is a citizen of Israel",
+      "hash": "9352a0a8f672efcee00109cf0b0fce81",
+      "metadata": {
+        "ordinal": 441,
+        "triple": {
+          "subject_id": "colin_irwin",
+          "predicate_norm": "be citizen",
+          "object_text": "Israel",
+          "confidence": 0.95,
+          "subject_raw": "Colin Irwin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18936726116549776,
+      "created_at": "2026-07-15T03:21:29.720727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b21cef1f-4882-4bc9-b299-5a7d9128aa7e",
+      "memory": "Hugh Hefner is famous for The Vampyre.",
+      "hash": "a2e91e31e59e6bbaba94c4cdc2f63855",
+      "metadata": {
+        "ordinal": 189,
+        "triple": {
+          "subject_id": "hugh_hefner",
+          "predicate_norm": "be famous for",
+          "object_text": "The Vampyre",
+          "confidence": 0.95,
+          "subject_raw": "Hugh Hefner",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.18728832575621773,
+      "created_at": "2026-07-15T03:17:21.431770-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "de07952b-2243-4633-a240-57de8b57dc77",
+      "memory": "Vito Corleone was created by Nobuhiro Watsuki",
+      "hash": "5048034c71564b6d8b4747eeed54bf03",
+      "metadata": {
+        "ordinal": 390,
+        "triple": {
+          "subject_id": "vito_corleone",
+          "predicate_norm": "be created by",
+          "object_text": "Nobuhiro Watsuki",
+          "confidence": 0.95,
+          "subject_raw": "Vito Corleone",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.18725387311986919,
+      "created_at": "2026-07-15T03:20:59.665185-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2bd4bcb3-1561-4567-91ae-9eac1b624bf4",
+      "memory": "Thomas Arne was born in the city of Bengaluru.",
+      "hash": "a952ddf43f519d2c4dd749d512a5030d",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "Bengaluru",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.18670721844758265,
+      "created_at": "2026-07-15T03:20:28.681789-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "75343fe4-22cb-4e41-a0bc-8336ee64abe3",
+      "memory": "Benjamin Mazar is a citizen of Israel.",
+      "hash": "01cd8c9543e7b627706ace75dcb95d4a",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "benjamin_mazar",
+          "predicate_norm": "be citizen",
+          "object_text": "Israel",
+          "confidence": 0.95,
+          "subject_raw": "Benjamin Mazar",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18606836903907542,
+      "created_at": "2026-07-15T03:19:57.425260-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "56d35a12-02bd-4972-b384-42beb5ad10da",
+      "memory": "Germany is located in the continent of Europe.",
+      "hash": "a4e7b19b3efba6449760ecf0b33ddecd",
+      "metadata": {
+        "ordinal": 41,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18541983715873234,
+      "created_at": "2026-07-15T03:15:25.306360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8dc0c3df-eb1c-489f-8f6d-685f3325773f",
+      "memory": "Buddhism was founded by Gautama Buddha.",
+      "hash": "197ac03de3995c91400cc21ce50d9d80",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Gautama Buddha",
+          "confidence": 0.95,
+          "subject_raw": "Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.18526720799762134,
+      "created_at": "2026-07-15T03:15:25.341266-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "35d772b0-e0b8-458a-b4f5-60111c4095da",
+      "memory": "London is located in the continent of Europe.",
+      "hash": "4f7fa9c7c7858dab4313bbc72ebaf113",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "london",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "London",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18517819997168927,
+      "created_at": "2026-07-15T03:16:04.377391-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b5c1ec58-f53a-490d-abbe-08e3f4d6029d",
+      "memory": "The director of American Broadcasting Company is Ernst Heinkel",
+      "hash": "dde03e30c49799d7ca416e7c0d149b78",
+      "metadata": {
+        "ordinal": 392,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has director",
+          "object_text": "Ernst Heinkel",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.18444858758838517,
+      "created_at": "2026-07-15T03:20:59.667830-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "87223306-6562-40cd-93f7-1fa095939f45",
+      "memory": "Westinghouse Electric was founded in the city of Pittsburgh.",
+      "hash": "7dd877322bedc10b99fc89c6cd9150f0",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "westinghouse_electric",
+          "predicate_norm": "be founded in",
+          "object_text": "Pittsburgh",
+          "confidence": 0.95,
+          "subject_raw": "Westinghouse Electric",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.18020684515325003,
+      "created_at": "2026-07-15T03:16:04.374885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f1cbc2e0-421d-4d5a-90aa-cbbdce4d6612",
+      "memory": "England is located in the continent of Europe.",
+      "hash": "d8edb92e99b5f7fc10099f6cde169508",
+      "metadata": {
+        "ordinal": 211,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18019582156802044,
+      "created_at": "2026-07-15T03:17:53.276592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ffd041d2-53f8-46fc-b4a5-b87ab1f6a58d",
+      "memory": "Joe Hockey is a citizen of Italy",
+      "hash": "7f024033956145b40907a0727f9a0ca6",
+      "metadata": {
+        "ordinal": 427,
+        "triple": {
+          "subject_id": "joe_hockey",
+          "predicate_norm": "be citizen",
+          "object_text": "Italy",
+          "confidence": 0.95,
+          "subject_raw": "Joe Hockey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1791660786576065,
+      "created_at": "2026-07-15T03:21:29.701996-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "da9b6048-3531-418a-ba2f-c24842d86191",
+      "memory": "Catholic Church was founded by Jesus Christ.",
+      "hash": "505cc400adc563274003a7cd2572676b",
+      "metadata": {
+        "ordinal": 193,
+        "triple": {
+          "subject_id": "catholic_church",
+          "predicate_norm": "be founded by",
+          "object_text": "Jesus Christ",
+          "confidence": 0.95,
+          "subject_raw": "Catholic Church",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.17782133556440988,
+      "created_at": "2026-07-15T03:17:53.254159-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a72e05f2-6719-4dd4-b5f9-1bf4194d550d",
+      "memory": "Robert A. Heinlein is a citizen of United States of America.",
+      "hash": "8fbc9d88737c05292fc1319999c84725",
+      "metadata": {
+        "ordinal": 22,
+        "triple": {
+          "subject_id": "robert_a._heinlein",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Robert A. Heinlein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.17689015673212322,
+      "created_at": "2026-07-15T03:14:47.661328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3de64b67-3d8d-4049-a287-862b832c51cf",
+      "memory": "The author of The Marriage of Figaro is Pierre Beaumarchais.",
+      "hash": "2675a45c3618972dd4022a42513cdb4f",
+      "metadata": {
+        "ordinal": 271,
+        "triple": {
+          "subject_id": "the_marriage_of_figaro",
+          "predicate_norm": "has author",
+          "object_text": "Pierre Beaumarchais",
+          "confidence": 0.95,
+          "subject_raw": "The Marriage of Figaro",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.17616010777647254,
+      "created_at": "2026-07-15T03:19:21.745788-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0af2e1cd-2513-479d-8859-9f383fd1106f",
+      "memory": "Ferdinand von Richthofen is a citizen of Canada",
+      "hash": "d9019ea223dc1c57ec2f4026aad4508c",
+      "metadata": {
+        "ordinal": 386,
+        "triple": {
+          "subject_id": "ferdinand_von_richthofen",
+          "predicate_norm": "be citizen",
+          "object_text": "Canada",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand von Richthofen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.17430542271241278,
+      "created_at": "2026-07-15T03:20:59.655353-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1a3f3ded-6d83-48e9-94ce-017469991d2f",
+      "memory": "Amala Paul is a citizen of Belgium.",
+      "hash": "1b5bef1afe11d43adb3bfdb1754771f3",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "amala_paul",
+          "predicate_norm": "be citizen",
+          "object_text": "Belgium",
+          "confidence": 0.95,
+          "subject_raw": "Amala Paul",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.17403942273801712,
+      "created_at": "2026-07-15T03:19:57.437458-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7908b1ba-2e1f-4359-9dc4-68bc26771561",
+      "memory": "Frank Zappa died in the city of Berlin.",
+      "hash": "2022f74a1257981460f48b9943857dc3",
+      "metadata": {
+        "ordinal": 51,
+        "triple": {
+          "subject_id": "frank_zappa",
+          "predicate_norm": "died in",
+          "object_text": "the city of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Frank Zappa",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.17401354993522694,
+      "created_at": "2026-07-15T03:15:25.321733-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1f806b55-ba01-4169-81db-13289c519bb0",
+      "memory": "Daphne du Maurier is a citizen of United Kingdom.",
+      "hash": "06c1e6da1b2a6cb0968853c37d0b834d",
+      "metadata": {
+        "ordinal": 183,
+        "triple": {
+          "subject_id": "daphne_du_maurier",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Daphne du Maurier",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.17397745166427606,
+      "created_at": "2026-07-15T03:17:21.424620-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b1fd12d4-5abc-4989-a511-36df2e0d0556",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.1734109922802735,
+      "created_at": "2026-07-15T03:19:21.762258-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2f27f7ec-99fe-43d5-a63d-2de00e55d0cf",
+      "memory": "The author of Sketches by Boz is Sigmund Freud",
+      "hash": "599234f4d2d9d36e5bf40461f9a7bd28",
+      "metadata": {
+        "ordinal": 430,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "has author",
+          "object_text": "Sigmund Freud",
+          "confidence": 0.8,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.17248013787842276,
+      "created_at": "2026-07-15T03:21:29.706363-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c09e8e29-d1fc-4be9-9232-3dd042fcf837",
+      "memory": "Israel is located in the continent of North America.",
+      "hash": "27e9aba2c713510a714a67ccff67978b",
+      "metadata": {
+        "ordinal": 127,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.17109258797562787,
+      "created_at": "2026-07-15T03:16:48.209867-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "36571018-ddf9-477f-a2e5-fce9430e921c",
+      "memory": "The headquarters of The University of the Arts is located in the city of Philadelphia",
+      "hash": "ca1727350149cf1a99e43a0573bc58e0",
+      "metadata": {
+        "ordinal": 387,
+        "triple": {
+          "subject_id": "the_university_of_the_arts",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "The University of the Arts",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.17055915176229422,
+      "created_at": "2026-07-15T03:20:59.658879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ],
+  "memories_str": "- Charlie Hebdo was created in the country of France.\n- Charlie Hebdo was created in the country of Italy.\n- Stephen Crane is famous for Charlie Hebdo\n- Le Petit Parisien was created in the country of Germany\n- The capital of France is Harare.\n- Coco Chanel died in the city of Paris.\n- Israel was founded by Philippe, Duke of Orléans.\n- Thus Spoke Zarathustra was created in the country of Germany.\n- Pierre Beaumarchais was born in the city of Paris.\n- France is located in the continent of Europe\n- rugby union was created in the country of England.\n- jazz was created in the country of United States of America.\n- Charles the Bold is a citizen of France.\n- cricket was created in the country of Australia.\n- Club Nouveau was created in the country of United States of America.\n- Oscar Wilde died in the city of Paris.\n- rugby union was created in the country of India.\n- sumo was created in the country of Japan.\n- post-punk was created in the country of United Kingdom.\n- post-punk was created in the country of Canada.\n- baseball was created in the country of Japan.\n- association football was created in the country of Italy\n- Canadair was founded in the city of Montreal.\n- basketball was created in the country of United States of America.\n- Bernard Arnault is a citizen of France.\n- Playboy was written in the language of English.\n- Alan Jay Lerner died in the city of Mansourah, Algeria\n- baseball was created in the country of United States of America.\n- Club Nouveau was created in the country of Soviet Union.\n- rap rock was created in the country of United States of America.\n- Charles Dickens died in the city of Gads Hill Place\n- pesäpallo was created in the country of Philippines.\n- country music was created in the country of United States of America.\n- Joseph Goebbels worked in the city of Berlin\n- The author of Sketches by Boz is Charles Dickens.\n- Rand al'Thor was created by Ferdowsi.\n- Chanel was founded by Andy Warhol.\n- Andy Warhol died in the city of Montmélian.\n- Germany is located in the continent of Africa\n- Cédric Klapisch is a citizen of Malaysia.\n- Pakistan International Airlines was founded in the city of Sweden.\n- Church of Scotland was founded by John Knox.\n- Philadelphia was founded by William Penn\n- Henri Grégoire is a citizen of India.\n- Sigmund Freud died in the city of London.\n- Charles Messier is a citizen of Iran.\n- Ernst Heinkel is a citizen of Germany.\n- Christianity was founded in the city of Taipei.\n- T. S. Eliot speaks the language of French.\n- Madame du Barry is a citizen of Great Britain.\n- rap rock was created in the country of Russian Empire\n- Catherine Dickens is a citizen of United Kingdom.\n- Methodism was founded by Joseph Goebbels.\n- The origianl broadcaster of 666 Park Avenue is American Broadcasting Company.\n- McLaren Automotive was founded in the city of Woking.\n- Dave Filoni is employed by British Broadcasting Corporation.\n- Thomas Kyd was born in the city of Leeds.\n- Colin Irwin is a citizen of Israel\n- Hugh Hefner is famous for The Vampyre.\n- Vito Corleone was created by Nobuhiro Watsuki\n- Thomas Arne was born in the city of Bengaluru.\n- Benjamin Mazar is a citizen of Israel.\n- Germany is located in the continent of Europe.\n- Buddhism was founded by Gautama Buddha.\n- London is located in the continent of Europe.\n- The director of American Broadcasting Company is Ernst Heinkel\n- Westinghouse Electric was founded in the city of Pittsburgh.\n- England is located in the continent of Europe.\n- Joe Hockey is a citizen of Italy\n- Catholic Church was founded by Jesus Christ.\n- Robert A. Heinlein is a citizen of United States of America.\n- The author of The Marriage of Figaro is Pierre Beaumarchais.\n- Ferdinand von Richthofen is a citizen of Canada\n- Amala Paul is a citizen of Belgium.\n- Frank Zappa died in the city of Berlin.\n- Daphne du Maurier is a citizen of United Kingdom.\n- The chief executive officer of Twitter is Bernard Arnault.\n- The author of Sketches by Boz is Sigmund Freud\n- Israel is located in the continent of North America.\n- The headquarters of The University of the Arts is located in the city of Philadelphia",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- Charlie Hebdo was created in the country of France.\n- Charlie Hebdo was created in the country of Italy.\n- Stephen Crane is famous for Charlie Hebdo\n- Le Petit Parisien was created in the country of Germany\n- The capital of France is Harare.\n- Coco Chanel died in the city of Paris.\n- Israel was founded by Philippe, Duke of Orléans.\n- Thus Spoke Zarathustra was created in the country of Germany.\n- Pierre Beaumarchais was born in the city of Paris.\n- France is located in the continent of Europe\n- rugby union was created in the country of England.\n- jazz was created in the country of United States of America.\n- Charles the Bold is a citizen of France.\n- cricket was created in the country of Australia.\n- Club Nouveau was created in the country of United States of America.\n- Oscar Wilde died in the city of Paris.\n- rugby union was created in the country of India.\n- sumo was created in the country of Japan.\n- post-punk was created in the country of United Kingdom.\n- post-punk was created in the country of Canada.\n- baseball was created in the country of Japan.\n- association football was created in the country of Italy\n- Canadair was founded in the city of Montreal.\n- basketball was created in the country of United States of America.\n- Bernard Arnault is a citizen of France.\n- Playboy was written in the language of English.\n- Alan Jay Lerner died in the city of Mansourah, Algeria\n- baseball was created in the country of United States of America.\n- Club Nouveau was created in the country of Soviet Union.\n- rap rock was created in the country of United States of America.\n- Charles Dickens died in the city of Gads Hill Place\n- pesäpallo was created in the country of Philippines.\n- country music was created in the country of United States of America.\n- Joseph Goebbels worked in the city of Berlin\n- The author of Sketches by Boz is Charles Dickens.\n- Rand al'Thor was created by Ferdowsi.\n- Chanel was founded by Andy Warhol.\n- Andy Warhol died in the city of Montmélian.\n- Germany is located in the continent of Africa\n- Cédric Klapisch is a citizen of Malaysia.\n- Pakistan International Airlines was founded in the city of Sweden.\n- Church of Scotland was founded by John Knox.\n- Philadelphia was founded by William Penn\n- Henri Grégoire is a citizen of India.\n- Sigmund Freud died in the city of London.\n- Charles Messier is a citizen of Iran.\n- Ernst Heinkel is a citizen of Germany.\n- Christianity was founded in the city of Taipei.\n- T. S. Eliot speaks the language of French.\n- Madame du Barry is a citizen of Great Britain.\n- rap rock was created in the country of Russian Empire\n- Catherine Dickens is a citizen of United Kingdom.\n- Methodism was founded by Joseph Goebbels.\n- The origianl broadcaster of 666 Park Avenue is American Broadcasting Company.\n- McLaren Automotive was founded in the city of Woking.\n- Dave Filoni is employed by British Broadcasting Corporation.\n- Thomas Kyd was born in the city of Leeds.\n- Colin Irwin is a citizen of Israel\n- Hugh Hefner is famous for The Vampyre.\n- Vito Corleone was created by Nobuhiro Watsuki\n- Thomas Arne was born in the city of Bengaluru.\n- Benjamin Mazar is a citizen of Israel.\n- Germany is located in the continent of Europe.\n- Buddhism was founded by Gautama Buddha.\n- London is located in the continent of Europe.\n- The director of American Broadcasting Company is Ernst Heinkel\n- Westinghouse Electric was founded in the city of Pittsburgh.\n- England is located in the continent of Europe.\n- Joe Hockey is a citizen of Italy\n- Catholic Church was founded by Jesus Christ.\n- Robert A. Heinlein is a citizen of United States of America.\n- The author of The Marriage of Figaro is Pierre Beaumarchais.\n- Ferdinand von Richthofen is a citizen of Canada\n- Amala Paul is a citizen of Belgium.\n- Frank Zappa died in the city of Berlin.\n- Daphne du Maurier is a citizen of United Kingdom.\n- The chief executive officer of Twitter is Bernard Arnault.\n- The author of Sketches by Boz is Sigmund Freud\n- Israel is located in the continent of North America.\n- The headquarters of The University of the Arts is located in the city of Philadelphia\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which country was Charlie Hebdo created in? \nAnswer:\n\nCurrent Time: 2026-07-15 18:26:01",
+  "response": "Italy",
+  "prompt_tokens": 1139,
+  "completion_tokens": 4
+}

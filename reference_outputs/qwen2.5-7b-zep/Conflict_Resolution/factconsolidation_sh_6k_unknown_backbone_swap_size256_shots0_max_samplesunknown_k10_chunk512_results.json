@@ -1,0 +1,1416 @@
+{
+  "agent_config": {
+    "name": "qwen2.5-7b-zep",
+    "source_zep_run": "outputs/gpt-4o-mini-zep/Conflict_Resolution/factconsolidation_sh_6k_unknown_in6000_size256_shots0_max_samplesunknown_k10_chunk512_results.json",
+    "diagnostic": "backbone_answer_swap",
+    "answer_llm_backbone": "qwen2.5:7b",
+    "num_ctx": 8192,
+    "temperature": 0.0
+  },
+  "data": [
+    {
+      "query_id": 0,
+      "qa_pair_id": "factconsolidation_sh_6k_no0",
+      "output": "pesäpallo",
+      "parsed_output": "pesäpallo",
+      "answer": [
+        "pesäpallo"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 1,
+      "qa_pair_id": "factconsolidation_sh_6k_no1",
+      "output": "Nobuhiro Watsuki is famous for Rurouni Kenshin.",
+      "parsed_output": "Nobuhiro Watsuki is famous for Rurouni Kenshin.",
+      "answer": [
+        "The Fairly OddParents"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 2,
+      "qa_pair_id": "factconsolidation_sh_6k_no2",
+      "output": "England",
+      "parsed_output": "England",
+      "answer": [
+        "India"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 3,
+      "qa_pair_id": "factconsolidation_sh_6k_no3",
+      "output": "Ferdowsi is famous for Shahnameh.",
+      "parsed_output": "Ferdowsi is famous for Shahnameh.",
+      "answer": [
+        "Shahnameh"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 4,
+      "qa_pair_id": "factconsolidation_sh_6k_no4",
+      "output": "University of California, Berkeley",
+      "parsed_output": "University of California, Berkeley",
+      "answer": [
+        "University of California, Berkeley"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 5,
+      "qa_pair_id": "factconsolidation_sh_6k_no5",
+      "output": "The author of The Marriage of Figaro is Pierre Beaumarchais.",
+      "parsed_output": "The author of The Marriage of Figaro is Pierre Beaumarchais.",
+      "answer": [
+        "Thomas Kyd"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 6,
+      "qa_pair_id": "factconsolidation_sh_6k_no6",
+      "output": "association football",
+      "parsed_output": "association football",
+      "answer": [
+        "basketball"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 7,
+      "qa_pair_id": "factconsolidation_sh_6k_no7",
+      "output": "American football",
+      "parsed_output": "American football",
+      "answer": [
+        "Muay Thai"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 8,
+      "qa_pair_id": "factconsolidation_sh_6k_no8",
+      "output": "Swedish",
+      "parsed_output": "Swedish",
+      "answer": [
+        "Swedish"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 9,
+      "qa_pair_id": "factconsolidation_sh_6k_no9",
+      "output": "Jonathan Rothschild",
+      "parsed_output": "Jonathan Rothschild",
+      "answer": [
+        "Jonathan Rothschild"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 10,
+      "qa_pair_id": "factconsolidation_sh_6k_no10",
+      "output": "Giuseppe Conte",
+      "parsed_output": "Giuseppe Conte",
+      "answer": [
+        "Giuseppe Conte"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 11,
+      "qa_pair_id": "factconsolidation_sh_6k_no11",
+      "output": "Ellen Pompeo",
+      "parsed_output": "Ellen Pompeo",
+      "answer": [
+        "Ellen Pompeo"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 12,
+      "qa_pair_id": "factconsolidation_sh_6k_no12",
+      "output": "Robert Parish plays the position of center.",
+      "parsed_output": "Robert Parish plays the position of center.",
+      "answer": [
+        "quarterback"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 13,
+      "qa_pair_id": "factconsolidation_sh_6k_no13",
+      "output": "France",
+      "parsed_output": "France",
+      "answer": [
+        "Malaysia"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 14,
+      "qa_pair_id": "factconsolidation_sh_6k_no14",
+      "output": "Galileo Galilei",
+      "parsed_output": "Galileo Galilei",
+      "answer": [
+        "Samuel Beckett"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 15,
+      "qa_pair_id": "factconsolidation_sh_6k_no15",
+      "output": "Africa",
+      "parsed_output": "Africa",
+      "answer": [
+        "Africa"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 16,
+      "qa_pair_id": "factconsolidation_sh_6k_no16",
+      "output": "Catholic Church",
+      "parsed_output": "Catholic Church",
+      "answer": [
+        "Zoroastrianism"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 17,
+      "qa_pair_id": "factconsolidation_sh_6k_no17",
+      "output": "England",
+      "parsed_output": "England",
+      "answer": [
+        "Italy"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 18,
+      "qa_pair_id": "factconsolidation_sh_6k_no18",
+      "output": "Microsoft",
+      "parsed_output": "Microsoft",
+      "answer": [
+        "Microsoft"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 8
+    },
+    {
+      "query_id": 19,
+      "qa_pair_id": "factconsolidation_sh_6k_no19",
+      "output": "Satya Nadella",
+      "parsed_output": "Satya Nadella",
+      "answer": [
+        "Steve Jobs"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 20,
+      "qa_pair_id": "factconsolidation_sh_6k_no20",
+      "output": "Peter Diamandis",
+      "parsed_output": "Peter Diamandis",
+      "answer": [
+        "Peter Diamandis"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 21,
+      "qa_pair_id": "factconsolidation_sh_6k_no21",
+      "output": "John Knox",
+      "parsed_output": "John Knox",
+      "answer": [
+        "John Knox"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 22,
+      "qa_pair_id": "factconsolidation_sh_6k_no22",
+      "output": "rugby union",
+      "parsed_output": "rugby union",
+      "answer": [
+        "rugby union"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 23,
+      "qa_pair_id": "factconsolidation_sh_6k_no23",
+      "output": "Bob Iger",
+      "parsed_output": "Bob Iger",
+      "answer": [
+        "Ernst Heinkel"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 24,
+      "qa_pair_id": "factconsolidation_sh_6k_no24",
+      "output": "United States of America",
+      "parsed_output": "United States of America",
+      "answer": [
+        "United States of America"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 25,
+      "qa_pair_id": "factconsolidation_sh_6k_no25",
+      "output": "Beaumont",
+      "parsed_output": "Beaumont",
+      "answer": [
+        "Beaumont"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 26,
+      "qa_pair_id": "factconsolidation_sh_6k_no26",
+      "output": "Tony Hall, Baron Hall of Birkenhead",
+      "parsed_output": "Tony Hall, Baron Hall of Birkenhead",
+      "answer": [
+        "Narendra Modi"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 27,
+      "qa_pair_id": "factconsolidation_sh_6k_no27",
+      "output": "Israel",
+      "parsed_output": "Israel",
+      "answer": [
+        "Israel"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 28,
+      "qa_pair_id": "factconsolidation_sh_6k_no28",
+      "output": "jazz",
+      "parsed_output": "jazz",
+      "answer": [
+        "post-punk"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 29,
+      "qa_pair_id": "factconsolidation_sh_6k_no29",
+      "output": "Guangzhou",
+      "parsed_output": "Guangzhou",
+      "answer": [
+        "Guangzhou"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 30,
+      "qa_pair_id": "factconsolidation_sh_6k_no30",
+      "output": "United States of America",
+      "parsed_output": "United States of America",
+      "answer": [
+        "Japan"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 31,
+      "qa_pair_id": "factconsolidation_sh_6k_no31",
+      "output": "Germany",
+      "parsed_output": "Germany",
+      "answer": [
+        "Tang Empire"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 32,
+      "qa_pair_id": "factconsolidation_sh_6k_no32",
+      "output": "Philadelphia",
+      "parsed_output": "Philadelphia",
+      "answer": [
+        "Philadelphia"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 33,
+      "qa_pair_id": "factconsolidation_sh_6k_no33",
+      "output": "United States of America",
+      "parsed_output": "United States of America",
+      "answer": [
+        "Russian Empire"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 34,
+      "qa_pair_id": "factconsolidation_sh_6k_no34",
+      "output": "Jerusalem and Taipei",
+      "parsed_output": "Jerusalem and Taipei",
+      "answer": [
+        "Taipei"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 35,
+      "qa_pair_id": "factconsolidation_sh_6k_no35",
+      "output": "American English",
+      "parsed_output": "American English",
+      "answer": [
+        "German"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 36,
+      "qa_pair_id": "factconsolidation_sh_6k_no36",
+      "output": "The Beatles",
+      "parsed_output": "The Beatles",
+      "answer": [
+        "Madonna"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 37,
+      "qa_pair_id": "factconsolidation_sh_6k_no37",
+      "output": "Tokyo",
+      "parsed_output": "Tokyo",
+      "answer": [
+        "Tokyo"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 38,
+      "qa_pair_id": "factconsolidation_sh_6k_no38",
+      "output": "Paris",
+      "parsed_output": "Paris",
+      "answer": [
+        "Harare"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 39,
+      "qa_pair_id": "factconsolidation_sh_6k_no39",
+      "output": "ABB Group",
+      "parsed_output": "ABB Group",
+      "answer": [
+        "ABB Group"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 8
+    },
+    {
+      "query_id": 40,
+      "qa_pair_id": "factconsolidation_sh_6k_no40",
+      "output": "Ankara",
+      "parsed_output": "Ankara",
+      "answer": [
+        "Ankara"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 41,
+      "qa_pair_id": "factconsolidation_sh_6k_no41",
+      "output": "American football",
+      "parsed_output": "American football",
+      "answer": [
+        "rugby"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 42,
+      "qa_pair_id": "factconsolidation_sh_6k_no42",
+      "output": "wide receiver and cornerback",
+      "parsed_output": "wide receiver and cornerback",
+      "answer": [
+        "cornerback"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 43,
+      "qa_pair_id": "factconsolidation_sh_6k_no43",
+      "output": "Canberra",
+      "parsed_output": "Canberra",
+      "answer": [
+        "Oderzo"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 44,
+      "qa_pair_id": "factconsolidation_sh_6k_no44",
+      "output": "Antarctica",
+      "parsed_output": "Antarctica",
+      "answer": [
+        "Antarctica"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 45,
+      "qa_pair_id": "factconsolidation_sh_6k_no45",
+      "output": "Ursula K. Le Guin (Note: The newest fact in the knowledge pool states that Pius XII is mentioned but the actual author is Ursula K. Le Guin.)",
+      "parsed_output": "Ursula K. Le Guin (Note: The newest fact in the knowledge pool states that Pius XII is mentioned but the actual author is Ursula K. Le Guin.)",
+      "answer": [
+        "Pius XII"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 46,
+      "qa_pair_id": "factconsolidation_sh_6k_no46",
+      "output": "The Beatles performed Free as a Bird.",
+      "parsed_output": "The Beatles performed Free as a Bird.",
+      "answer": [
+        "The Beatles"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 47,
+      "qa_pair_id": "factconsolidation_sh_6k_no47",
+      "output": "Charles Dickens",
+      "parsed_output": "Charles Dickens",
+      "answer": [
+        "Charles Darwin"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 48,
+      "qa_pair_id": "factconsolidation_sh_6k_no48",
+      "output": "United States of America",
+      "parsed_output": "United States of America",
+      "answer": [
+        "Soviet Union"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 49,
+      "qa_pair_id": "factconsolidation_sh_6k_no49",
+      "output": "United States of America",
+      "parsed_output": "United States of America",
+      "answer": [
+        "United States of America"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 50,
+      "qa_pair_id": "factconsolidation_sh_6k_no50",
+      "output": "Asia",
+      "parsed_output": "Asia",
+      "answer": [
+        "Oceania"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 51,
+      "qa_pair_id": "factconsolidation_sh_6k_no51",
+      "output": "association football",
+      "parsed_output": "association football",
+      "answer": [
+        "cricket"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 52,
+      "qa_pair_id": "factconsolidation_sh_6k_no52",
+      "output": "Donald Trump",
+      "parsed_output": "Donald Trump",
+      "answer": [
+        "Connachta"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 53,
+      "qa_pair_id": "factconsolidation_sh_6k_no53",
+      "output": "Catholicism",
+      "parsed_output": "Catholicism",
+      "answer": [
+        "atheism"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 54,
+      "qa_pair_id": "factconsolidation_sh_6k_no54",
+      "output": "pop music",
+      "parsed_output": "pop music",
+      "answer": [
+        "Australian hip hop"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 55,
+      "qa_pair_id": "factconsolidation_sh_6k_no55",
+      "output": "United States of America",
+      "parsed_output": "United States of America",
+      "answer": [
+        "Czech Republic"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 56,
+      "qa_pair_id": "factconsolidation_sh_6k_no56",
+      "output": "France",
+      "parsed_output": "France",
+      "answer": [
+        "Italy"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 57,
+      "qa_pair_id": "factconsolidation_sh_6k_no57",
+      "output": "Priscilla Presley",
+      "parsed_output": "Priscilla Presley",
+      "answer": [
+        "Charles the Bold"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 58,
+      "qa_pair_id": "factconsolidation_sh_6k_no58",
+      "output": "Kylie Minogue performed Hermione Granger.",
+      "parsed_output": "Kylie Minogue performed Hermione Granger.",
+      "answer": [
+        "Kylie Minogue"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 59,
+      "qa_pair_id": "factconsolidation_sh_6k_no59",
+      "output": "basketball",
+      "parsed_output": "basketball",
+      "answer": [
+        "association football"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 60,
+      "qa_pair_id": "factconsolidation_sh_6k_no60",
+      "output": "rap rock",
+      "parsed_output": "rap rock",
+      "answer": [
+        "rap rock"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 61,
+      "qa_pair_id": "factconsolidation_sh_6k_no61",
+      "output": "flanker",
+      "parsed_output": "flanker",
+      "answer": [
+        "flanker"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 62,
+      "qa_pair_id": "factconsolidation_sh_6k_no62",
+      "output": "Jack Dorsey",
+      "parsed_output": "Jack Dorsey",
+      "answer": [
+        "Bernard Arnault"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 63,
+      "qa_pair_id": "factconsolidation_sh_6k_no63",
+      "output": "English",
+      "parsed_output": "English",
+      "answer": [
+        "German"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 64,
+      "qa_pair_id": "factconsolidation_sh_6k_no64",
+      "output": "baseball",
+      "parsed_output": "baseball",
+      "answer": [
+        "baseball"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 65,
+      "qa_pair_id": "factconsolidation_sh_6k_no65",
+      "output": "rugby",
+      "parsed_output": "rugby",
+      "answer": [
+        "rugby"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 66,
+      "qa_pair_id": "factconsolidation_sh_6k_no66",
+      "output": "journalist",
+      "parsed_output": "journalist",
+      "answer": [
+        "journalist"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 67,
+      "qa_pair_id": "factconsolidation_sh_6k_no67",
+      "output": "Lucasfilm and British Broadcasting Corporation",
+      "parsed_output": "Lucasfilm and British Broadcasting Corporation",
+      "answer": [
+        "British Broadcasting Corporation"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 4
+    },
+    {
+      "query_id": 68,
+      "qa_pair_id": "factconsolidation_sh_6k_no68",
+      "output": "North America",
+      "parsed_output": "North America",
+      "answer": [
+        "North America"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 69,
+      "qa_pair_id": "factconsolidation_sh_6k_no69",
+      "output": "Canadair was founded in the city of Montreal.",
+      "parsed_output": "Canadair was founded in the city of Montreal.",
+      "answer": [
+        "Tucson"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 70,
+      "qa_pair_id": "factconsolidation_sh_6k_no70",
+      "output": "Westinghouse Electric",
+      "parsed_output": "Westinghouse Electric",
+      "answer": [
+        "Canadair"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 71,
+      "qa_pair_id": "factconsolidation_sh_6k_no71",
+      "output": "Japan",
+      "parsed_output": "Japan",
+      "answer": [
+        "Japan"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 72,
+      "qa_pair_id": "factconsolidation_sh_6k_no72",
+      "output": "Blair Walsh plays the position of placekicker.",
+      "parsed_output": "Blair Walsh plays the position of placekicker.",
+      "answer": [
+        "placekicker"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 73,
+      "qa_pair_id": "factconsolidation_sh_6k_no73",
+      "output": "Cherie Blair",
+      "parsed_output": "Cherie Blair",
+      "answer": [
+        "Alan Jay Lerner"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 74,
+      "qa_pair_id": "factconsolidation_sh_6k_no74",
+      "output": "John Keats",
+      "parsed_output": "John Keats",
+      "answer": [
+        "John Keats"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 75,
+      "qa_pair_id": "factconsolidation_sh_6k_no75",
+      "output": "Oscar Wilde",
+      "parsed_output": "Oscar Wilde",
+      "answer": [
+        "Oscar Wilde"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 76,
+      "qa_pair_id": "factconsolidation_sh_6k_no76",
+      "output": "Shinzō Abe",
+      "parsed_output": "Shinzō Abe",
+      "answer": [
+        "Shinzō Abe"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 77,
+      "qa_pair_id": "factconsolidation_sh_6k_no77",
+      "output": "Denis Sassou-Nguesso",
+      "parsed_output": "Denis Sassou-Nguesso",
+      "answer": [
+        "Stephen McNeil"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 78,
+      "qa_pair_id": "factconsolidation_sh_6k_no78",
+      "output": "rugby union",
+      "parsed_output": "rugby union",
+      "answer": [
+        "rugby union"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 79,
+      "qa_pair_id": "factconsolidation_sh_6k_no79",
+      "output": "Prague",
+      "parsed_output": "Prague",
+      "answer": [
+        "Prague"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 80,
+      "qa_pair_id": "factconsolidation_sh_6k_no80",
+      "output": "center",
+      "parsed_output": "center",
+      "answer": [
+        "goaltender"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 81,
+      "qa_pair_id": "factconsolidation_sh_6k_no81",
+      "output": "Elizabeth II",
+      "parsed_output": "Elizabeth II",
+      "answer": [
+        "Elizabeth II"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 82,
+      "qa_pair_id": "factconsolidation_sh_6k_no82",
+      "output": "Canada",
+      "parsed_output": "Canada",
+      "answer": [
+        "Canada"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 83,
+      "qa_pair_id": "factconsolidation_sh_6k_no83",
+      "output": "Catholic Church",
+      "parsed_output": "Catholic Church",
+      "answer": [
+        "Church of Scotland"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 84,
+      "qa_pair_id": "factconsolidation_sh_6k_no84",
+      "output": "Mario Puzo",
+      "parsed_output": "Mario Puzo",
+      "answer": [
+        "Nobuhiro Watsuki"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 85,
+      "qa_pair_id": "factconsolidation_sh_6k_no85",
+      "output": "Rajanpur",
+      "parsed_output": "Rajanpur",
+      "answer": [
+        "Rajanpur"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 86,
+      "qa_pair_id": "factconsolidation_sh_6k_no86",
+      "output": "Asia",
+      "parsed_output": "Asia",
+      "answer": [
+        "Africa"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 87,
+      "qa_pair_id": "factconsolidation_sh_6k_no87",
+      "output": "Rodez",
+      "parsed_output": "Rodez",
+      "answer": [
+        "Rodez"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 88,
+      "qa_pair_id": "factconsolidation_sh_6k_no88",
+      "output": "Ardashir I",
+      "parsed_output": "Ardashir I",
+      "answer": [
+        "Walter Chrysler"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 89,
+      "qa_pair_id": "factconsolidation_sh_6k_no89",
+      "output": "Washington, D.C.",
+      "parsed_output": "Washington, D.C.",
+      "answer": [
+        "Washington, D.C."
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 90,
+      "qa_pair_id": "factconsolidation_sh_6k_no90",
+      "output": "basketball",
+      "parsed_output": "basketball",
+      "answer": [
+        "basketball"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 91,
+      "qa_pair_id": "factconsolidation_sh_6k_no91",
+      "output": "India",
+      "parsed_output": "India",
+      "answer": [
+        "Australia"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 92,
+      "qa_pair_id": "factconsolidation_sh_6k_no92",
+      "output": "David Beckham",
+      "parsed_output": "David Beckham",
+      "answer": [
+        "David Beckham"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 93,
+      "qa_pair_id": "factconsolidation_sh_6k_no93",
+      "output": "France",
+      "parsed_output": "France",
+      "answer": [
+        "Iran"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 94,
+      "qa_pair_id": "factconsolidation_sh_6k_no94",
+      "output": "Robert Jordan",
+      "parsed_output": "Robert Jordan",
+      "answer": [
+        "Ferdowsi"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 95,
+      "qa_pair_id": "factconsolidation_sh_6k_no95",
+      "output": "Mike D'Antoni plays the position of point guard.",
+      "parsed_output": "Mike D'Antoni plays the position of point guard.",
+      "answer": [
+        "point guard"
+      ],
+      "exact_match": false,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 96,
+      "qa_pair_id": "factconsolidation_sh_6k_no96",
+      "output": "United Kingdom",
+      "parsed_output": "United Kingdom",
+      "answer": [
+        "Israel"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 97,
+      "qa_pair_id": "factconsolidation_sh_6k_no97",
+      "output": "Charles Frederick, Duke of Holstein-Gottorp",
+      "parsed_output": "Charles Frederick, Duke of Holstein-Gottorp",
+      "answer": [
+        "Charles Frederick, Duke of Holstein-Gottorp"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 98,
+      "qa_pair_id": "factconsolidation_sh_6k_no98",
+      "output": "Emma Darwin",
+      "parsed_output": "Emma Darwin",
+      "answer": [
+        "Amala Paul"
+      ],
+      "exact_match": false,
+      "substring_exact_match": false,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    },
+    {
+      "query_id": 99,
+      "qa_pair_id": "factconsolidation_sh_6k_no99",
+      "output": "wide receiver",
+      "parsed_output": "wide receiver",
+      "answer": [
+        "wide receiver"
+      ],
+      "exact_match": true,
+      "substring_exact_match": true,
+      "n_edges": 10,
+      "n_nodes": 10,
+      "n_episodes": 10
+    }
+  ],
+  "averaged_metrics": {
+    "exact_match": 42.0,
+    "substring_exact_match": 51.0
+  }
+}

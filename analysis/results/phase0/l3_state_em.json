@@ -1,0 +1,264 @@
+{
+  "vanilla_6k": {
+    "cells": {
+      "new_only": [
+        18,
+        18
+      ],
+      "neither": [
+        32,
+        0
+      ],
+      "old_only": [
+        19,
+        0
+      ],
+      "both": [
+        5,
+        2
+      ]
+    },
+    "cells_no_conflict": {
+      "missing": [
+        13,
+        4
+      ],
+      "present": [
+        13,
+        13
+      ]
+    }
+  },
+  "phase0_6k": {
+    "cells": {
+      "new_only": [
+        45,
+        45
+      ],
+      "both": [
+        28,
+        16
+      ],
+      "old_only": [
+        1,
+        0
+      ]
+    },
+    "cells_no_conflict": {
+      "present": [
+        25,
+        25
+      ],
+      "missing": [
+        1,
+        1
+      ]
+    }
+  },
+  "phase2_6k": {
+    "cells": {
+      "new_only": [
+        55,
+        55
+      ],
+      "both": [
+        18,
+        10
+      ],
+      "old_only": [
+        1,
+        0
+      ]
+    },
+    "cells_no_conflict": {
+      "present": [
+        25,
+        25
+      ],
+      "missing": [
+        1,
+        1
+      ]
+    }
+  },
+  "vanilla_32k": {
+    "cells": {
+      "new_only": [
+        22,
+        22
+      ],
+      "old_only": [
+        19,
+        0
+      ],
+      "neither": [
+        22,
+        0
+      ],
+      "both": [
+        2,
+        2
+      ]
+    },
+    "cells_no_conflict": {
+      "missing": [
+        13,
+        6
+      ],
+      "present": [
+        22,
+        22
+      ]
+    }
+  },
+  "phase0_32k": {
+    "cells": {
+      "both": [
+        22,
+        12
+      ],
+      "old_only": [
+        8,
+        0
+      ],
+      "neither": [
+        2,
+        0
+      ],
+      "new_only": [
+        33,
+        32
+      ]
+    },
+    "cells_no_conflict": {
+      "present": [
+        33,
+        33
+      ],
+      "missing": [
+        2,
+        0
+      ]
+    }
+  },
+  "phase2_32k": {
+    "cells": {
+      "new_only": [
+        47,
+        46
+      ],
+      "old_only": [
+        8,
+        0
+      ],
+      "neither": [
+        2,
+        0
+      ],
+      "both": [
+        8,
+        5
+      ]
+    },
+    "cells_no_conflict": {
+      "present": [
+        33,
+        33
+      ],
+      "missing": [
+        2,
+        0
+      ]
+    }
+  },
+  "vanilla_64k": {
+    "cells": {
+      "old_only": [
+        14,
+        0
+      ],
+      "neither": [
+        25,
+        3
+      ],
+      "new_only": [
+        21,
+        20
+      ],
+      "both": [
+        6,
+        6
+      ]
+    },
+    "cells_no_conflict": {
+      "present": [
+        19,
+        19
+      ],
+      "missing": [
+        15,
+        3
+      ]
+    }
+  },
+  "phase0_64k": {
+    "cells": {
+      "both": [
+        9,
+        4
+      ],
+      "neither": [
+        10,
+        0
+      ],
+      "old_only": [
+        12,
+        1
+      ],
+      "new_only": [
+        35,
+        33
+      ]
+    },
+    "cells_no_conflict": {
+      "present": [
+        25,
+        24
+      ],
+      "missing": [
+        9,
+        0
+      ]
+    }
+  },
+  "phase2_64k": {
+    "cells": {
+      "new_only": [
+        41,
+        40
+      ],
+      "neither": [
+        12,
+        0
+      ],
+      "old_only": [
+        11,
+        0
+      ],
+      "both": [
+        2,
+        1
+      ]
+    },
+    "cells_no_conflict": {
+      "present": [
+        25,
+        24
+      ],
+      "missing": [
+        9,
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,1868 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "cce5b334-4546-4ba8-a396-e29c51152dd1",
+      "memory": "User is curious to know more about the women on Rachel's team.",
+      "hash": "f99c03220a52fe7c2254e973a9a445ca",
+      "metadata": {
+        "ordinal": 127,
+        "triple": null,
+        "subject_fallback": "rachel"
+      },
+      "score": 0.5263996837516876,
+      "created_at": "2026-07-06T10:22:20.687879-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d0175ce1-2631-434d-ac0e-b62cb7a78528",
+      "memory": "User wants to know the specific roles of the 5 women on Rachel's team of 10 people.",
+      "hash": "6779f1bf6a065beff9bcd8c3dee2d2ea",
+      "metadata": {
+        "ordinal": 128,
+        "triple": null,
+        "subject_fallback": "rachel"
+      },
+      "score": 0.4906639138353542,
+      "created_at": "2026-07-06T10:22:20.690504-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a2426f9b-b7af-4bd0-aa2f-adb6555b0416",
+      "memory": "Half of Rachel's team are women.",
+      "hash": "13e876833085541c3fa7779086dea3e5",
+      "metadata": {
+        "ordinal": 124,
+        "triple": {
+          "subject_id": "rachel's_team",
+          "predicate_norm": "has",
+          "object_text": "half are women",
+          "confidence": 0.85,
+          "subject_raw": "Rachel's team",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.4675959687421788,
+      "created_at": "2026-07-06T10:22:20.676377-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a18f236b-05d7-4baa-b6e0-e2ae34647203",
+      "memory": "The user's former manager is named Rachel.",
+      "hash": "352c62415e3fd3b80b8f2959153cf3df",
+      "metadata": {
+        "ordinal": 342,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has former manager",
+          "object_text": "Rachel",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has former manager"
+        }
+      },
+      "score": 0.46302670999413775,
+      "created_at": "2026-07-06T10:25:48.460288-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e03a3ff5-c60b-4c4c-826e-2a8d8b136864",
+      "memory": "User caught up with their former manager, Rachel.",
+      "hash": "0663e0da25ae7ca6d3b51e7a1468346b",
+      "metadata": {
+        "ordinal": 122,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "caught up with",
+          "object_text": "Rachel",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "caught up with"
+        }
+      },
+      "score": 0.4620220346849049,
+      "created_at": "2026-07-06T10:22:20.665756-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "93e39c20-00d0-4eb0-9560-bca47db2e6f0",
+      "memory": "Rachel's team is a great example of a diverse team, with 6 women out of 10 people.",
+      "hash": "0c952856800941de3dbf82a8d78c180d",
+      "metadata": {
+        "ordinal": 343,
+        "triple": null,
+        "subject_fallback": "rachel"
+      },
+      "score": 0.44070016245663846,
+      "created_at": "2026-07-06T10:25:48.468795-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a7fa9ecb-e84d-430d-af3a-cccf01dd6667",
+      "memory": "Rachel is now leading a team of 10 people.",
+      "hash": "b74e395a3845c31413550074b9340449",
+      "metadata": {
+        "ordinal": 123,
+        "triple": {
+          "subject_id": "rachel",
+          "predicate_norm": "be now leading",
+          "object_text": "a team of 10 people",
+          "confidence": 0.95,
+          "subject_raw": "Rachel",
+          "predicate_raw": "is now leading"
+        }
+      },
+      "score": 0.4364940056749076,
+      "created_at": "2026-07-06T10:22:20.671294-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "33513ef7-5916-4213-b287-3d8ad76428cf",
+      "memory": "User learned at a seminar that women hold only 25% of executive positions.",
+      "hash": "afbf9e8724265fc7faa10441c49d88f2",
+      "metadata": {
+        "ordinal": 125,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "learned at seminar that",
+          "object_text": "women hold only 25% of executive positions",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "learned at a seminar that"
+        }
+      },
+      "score": 0.3298637702026291,
+      "created_at": "2026-07-06T10:22:20.680943-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "16623bce-3f32-447b-92ad-24be47869c5e",
+      "memory": "User is looking to learn more about the importance of diversity in the workplace.",
+      "hash": "ebbeaf1a3e49f7a8565974528b2ab173",
+      "metadata": {
+        "ordinal": 121,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.3038253050675555,
+      "created_at": "2026-07-06T10:22:20.658430-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "acd338e9-98e7-4d09-b2c9-4dc2faa99b9d",
+      "memory": "User has been using a task list and calendar to manage their tasks.",
+      "hash": "6fa0060f402464a1d9064d3b34a08995",
+      "metadata": {
+        "ordinal": 224,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be using",
+          "object_text": "a task list and calendar to manage their tasks",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.2674890029189635,
+      "created_at": "2026-07-06T10:24:16.995296-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "3d16e573-ebd7-4581-85a6-5042a21655a3",
+      "memory": "User is thinking of using the remaining time during their commute to review documents or make notes for upcoming meetings.",
+      "hash": "cb58629cf796841f2af0d38858d29348",
+      "metadata": {
+        "ordinal": 223,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking using",
+          "object_text": "the remaining time during their commute to review documents or make notes for upcoming meetings",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of using"
+        }
+      },
+      "score": 0.25816085241628955,
+      "created_at": "2026-07-06T10:24:16.991965-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "7da17653-ebb7-4be5-82f4-b13fffc6304f",
+      "memory": "User is thinking of asking their parents about their plans for the summer.",
+      "hash": "b8ee76e46ca203a778987939dca40f12",
+      "metadata": {
+        "ordinal": 172,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking asking",
+          "object_text": "their parents about their plans for the summer",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of asking"
+        }
+      },
+      "score": 0.2525803059864432,
+      "created_at": "2026-07-06T10:23:03.654715-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5bb94a3a-5ad7-4597-a3b0-9356dd2b4973",
+      "memory": "The user has been posting a few times a week on social media but wants to get more organized.",
+      "hash": "93211fb678c097c468ece07805ec026e",
+      "metadata": {
+        "ordinal": 286,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be posting",
+          "object_text": "a few times a week on social media",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has been posting"
+        }
+      },
+      "score": 0.2487623868706887,
+      "created_at": "2026-07-06T10:25:14.027924-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "977aae11-119c-447d-8175-a2fa7bf5b5b2",
+      "memory": "User is interested in understanding how organizations can ensure they're considering multiple dimensions of diversity when promoting inclusion.",
+      "hash": "ff3b4085cd53380f440083fb2956ae37",
+      "metadata": {
+        "ordinal": 126,
+        "triple": null,
+        "subject_fallback": "organizations"
+      },
+      "score": 0.24662416123058684,
+      "created_at": "2026-07-06T10:22:20.684354-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "758cab3c-c6b7-41e8-8084-528fc4ffb939",
+      "memory": "User is currently listening to 'Sapiens: A Brief History of Humankind'.",
+      "hash": "6a86c8acb6945b140547d4d077c6341f",
+      "metadata": {
+        "ordinal": 276,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be currently listening to",
+          "object_text": "'Sapiens: A Brief History of Humankind'",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is currently listening to"
+        }
+      },
+      "score": 0.2460241414277754,
+      "created_at": "2026-07-06T10:24:57.520967-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6ab9e989-f872-427b-8f64-8ef97a277be6",
+      "memory": "User plans to use their breakfast time to review their schedule and task list for the day.",
+      "hash": "a9696aa899f416d9573b87d2f76aff5f",
+      "metadata": {
+        "ordinal": 229,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "plans to use",
+          "object_text": "their breakfast time to review their schedule and task list for the day",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "plans to use"
+        }
+      },
+      "score": 0.23914175196005222,
+      "created_at": "2026-07-06T10:24:17.007674-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "aa470778-f0ae-466b-a19f-5866bfb45a0b",
+      "memory": "The user is open to adjusting their posting schedule based on recommendations.",
+      "hash": "b152f5e122b4085579d3df2b5872d7de",
+      "metadata": {
+        "ordinal": 292,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be open to adjusting",
+          "object_text": "their posting schedule based on recommendations",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is open to adjusting"
+        }
+      },
+      "score": 0.23559207417177247,
+      "created_at": "2026-07-06T10:25:14.051929-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "553f4a1d-1981-49cb-8604-ed3f02ca686a",
+      "memory": "User is curious about the history of photography and how cameras have evolved over time.",
+      "hash": "c09ddd1f6e12d8d58d82ce36b9f35902",
+      "metadata": {
+        "ordinal": 186,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.23317720514633347,
+      "created_at": "2026-07-06T10:23:24.573053-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0039dc1a-0970-45c2-928c-d1547c8954fc",
+      "memory": "User's mom had to plan the whole family reunion and started planning it back in March.",
+      "hash": "1ff96260da205de59543b483d5383ca6",
+      "metadata": {
+        "ordinal": 157,
+        "triple": {
+          "subject_id": "user's_mom",
+          "predicate_norm": "had to plan",
+          "object_text": "the whole family reunion",
+          "confidence": 0.9,
+          "subject_raw": "user's mom",
+          "predicate_raw": "had to plan"
+        }
+      },
+      "score": 0.2321233929352443,
+      "created_at": "2026-07-06T10:22:48.372889-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6d474d9b-b595-4676-8075-e04ede85bbd1",
+      "memory": "The user would like to post at least three times a week on each platform.",
+      "hash": "de2b9e29af6ddcd910e5036e8b2e1bd9",
+      "metadata": {
+        "ordinal": 291,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like to post",
+          "object_text": "at least three times a week on each platform",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "would like to post"
+        }
+      },
+      "score": 0.23031780996353593,
+      "created_at": "2026-07-06T10:25:14.049009-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2f3b4924-3cbb-4153-98c5-796b7bde6fb6",
+      "memory": "User is planning to participate in the Summer Fest event in June.",
+      "hash": "766573edf35c09e71a0fbc78418f346a",
+      "metadata": {
+        "ordinal": 365,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning to participate in",
+          "object_text": "the Summer Fest event in June",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to participate in"
+        }
+      },
+      "score": 0.2263323653782566,
+      "created_at": "2026-07-06T10:26:19.432615-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1294021f-4fe4-44db-a2ad-0f675d75370b",
+      "memory": "User has been really interested in history and science lately.",
+      "hash": "5926f9138dacb022a7fd458b7a327b9e",
+      "metadata": {
+        "ordinal": 277,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22590284287126672,
+      "created_at": "2026-07-06T10:24:57.523001-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "41e12f0d-8d6a-40bb-bec5-409e2c6e037b",
+      "memory": "User was thinking about the Night Market they helped set up last Thursday.",
+      "hash": "453679f5d4d9c63fdfec2abec00cf001",
+      "metadata": {
+        "ordinal": 368,
+        "triple": null,
+        "subject_fallback": "night_market"
+      },
+      "score": 0.22014979317731306,
+      "created_at": "2026-07-06T10:26:19.442088-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "15bec995-9845-4706-97f3-ecf10772802b",
+      "memory": "User feels overwhelmed with the amount of work they have.",
+      "hash": "2c9a31baaeb6e907797aeca93c782f6b",
+      "metadata": {
+        "ordinal": 225,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.21907794437520378,
+      "created_at": "2026-07-06T10:24:16.997910-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0bf2e8a2-8eb3-4e7b-b706-b9a9c0d2f3a4",
+      "memory": "The user is looking to create a social media content calendar for their online store, GreenCycle, which specializes in sustainable products.",
+      "hash": "f164630930e2b418e5220d50449571f5",
+      "metadata": {
+        "ordinal": 285,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be looking to create",
+          "object_text": "a social media content calendar for their online store, GreenCycle",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is looking to create"
+        }
+      },
+      "score": 0.21874640397720202,
+      "created_at": "2026-07-06T10:25:14.020736-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5a4da1bc-e53b-41f0-a9e1-17d9a515aae5",
+      "memory": "User has been trying to organize their thoughts on spirituality and faith lately.",
+      "hash": "c903c5f3d285c1996f25fe245b36c574",
+      "metadata": {
+        "ordinal": 51,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.21411699954733865,
+      "created_at": "2026-07-06T10:21:22.336733-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "efa84059-edce-45c7-8738-71269f7df037",
+      "memory": "The user is a behavioral science and causal analysis researcher.",
+      "hash": "cfbb35788de085a7cb7dafdfa8e229ca",
+      "metadata": {
+        "ordinal": 189,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be",
+          "object_text": "behavioral science and causal analysis researcher",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is a"
+        }
+      },
+      "score": 0.20738759110456545,
+      "created_at": "2026-07-06T10:23:32.810271-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cf30d5e4-9d32-40cc-9d49-740b46054ace",
+      "memory": "User plans to spend a minute reflecting on their long-term goals during breakfast.",
+      "hash": "291a28538cdd21eb6013ecb69a881dbf",
+      "metadata": {
+        "ordinal": 230,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "plans to spend",
+          "object_text": "a minute reflecting on their long-term goals during breakfast",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "plans to spend"
+        }
+      },
+      "score": 0.2061640884996575,
+      "created_at": "2026-07-06T10:24:17.009739-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e1bf84ec-b36e-4ab2-b964-5de368572525",
+      "memory": "The user asked how to validate assumptions of the causal graph and test multiple scenarios.",
+      "hash": "2443f47480ea2b0d9ea0631c30edb82f",
+      "metadata": {
+        "ordinal": 194,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "asked how to validate",
+          "object_text": "assumptions of the causal graph and test multiple scenarios",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "asked how to validate"
+        }
+      },
+      "score": 0.20225319003596026,
+      "created_at": "2026-07-06T10:23:32.838981-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a63ccc9e-004a-4b52-847b-c794db4dc0e3",
+      "memory": "User is feeling more focused and productive.",
+      "hash": "a4a9800941e80df1974f83dc180e258f",
+      "metadata": {
+        "ordinal": 308,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19926604437635603,
+      "created_at": "2026-07-06T10:25:20.214452-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8c432b47-5034-4768-a4ab-20da2aa85d97",
+      "memory": "The user has concerns about job security in the healthcare industry.",
+      "hash": "4bce3c543c6cf8e954d79ef49cd99162",
+      "metadata": {
+        "ordinal": 284,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has concerns about",
+          "object_text": "job security in the healthcare industry",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has concerns about"
+        }
+      },
+      "score": 0.19555943450637442,
+      "created_at": "2026-07-06T10:25:02.093586-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "aa1ba74d-6a36-4fc0-a801-45b1daeeb374",
+      "memory": "The user's top three goals for their social media presence are to increase website traffic, build brand awareness, and engage with customers.",
+      "hash": "ecc139583174a55246c3216ce95b43d8",
+      "metadata": {
+        "ordinal": 289,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "top three goals for their social media presence be",
+          "object_text": "to increase website traffic, build brand awareness, and engage with customers",
+          "confidence": 0.8,
+          "subject_raw": "user",
+          "predicate_raw": "top three goals for their social media presence are"
+        }
+      },
+      "score": 0.19539642060134088,
+      "created_at": "2026-07-06T10:25:14.041876-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "743d9b04-0c3e-4e19-acce-c7585bcd2a5d",
+      "memory": "User remembers their mom has the address of the lake house written down somewhere.",
+      "hash": "4696cd49ddec8971e0346809efe6e76d",
+      "metadata": {
+        "ordinal": 158,
+        "triple": {
+          "subject_id": "user's_mom",
+          "predicate_norm": "has",
+          "object_text": "the address of the lake house written down somewhere",
+          "confidence": 0.9,
+          "subject_raw": "user's mom",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.19334574048234665,
+      "created_at": "2026-07-06T10:22:48.375630-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "665d8f0b-5761-49ce-acb7-8ecf46e45994",
+      "memory": "User is interested in taking courses on data science and programming.",
+      "hash": "04a0b4a5e13668daca2d0cb73168b715",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in taking courses on",
+          "object_text": "data science and programming",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in taking courses on"
+        }
+      },
+      "score": 0.1925198317324462,
+      "created_at": "2026-07-06T10:25:28.563812-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "70bdcb3e-f590-4a1c-a702-c2388e2b1cd0",
+      "memory": "User needs to create a joint marketing campaign with their friend Emily.",
+      "hash": "f91d52dc3bdbec054102f98b1ea0090a",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "needs to create",
+          "object_text": "a joint marketing campaign with their friend Emily",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "needs to create"
+        }
+      },
+      "score": 0.19045227119204813,
+      "created_at": "2026-07-06T10:26:19.436512-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "582509fe-226e-4ea0-91dc-588823320fb6",
+      "memory": "User struggles with staying focused, especially when working from home.",
+      "hash": "54e0319a083fcc3eb1816275ff03ebb1",
+      "metadata": {
+        "ordinal": 305,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.188680020178946,
+      "created_at": "2026-07-06T10:25:20.199938-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4ce01fc5-a06f-458d-ada2-12c5d3713da3",
+      "memory": "The user provided input variables: Exercise, Social Support, Sleep, Self Improvement.",
+      "hash": "153ea7d2bc14cdf7e25eba57e561fdd3",
+      "metadata": {
+        "ordinal": 191,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "provided input variables",
+          "object_text": "Exercise, Social Support, Sleep, Self Improvement",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "provided input variables"
+        }
+      },
+      "score": 0.18867533885239973,
+      "created_at": "2026-07-06T10:23:32.826242-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b3a0b058-d3c9-4c7b-b956-a73989567971",
+      "memory": "User's sister's son is really into data science and programming.",
+      "hash": "822a015d401be52bc5073f9a686e4f76",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "user's_sister's_son",
+          "predicate_norm": "be really into",
+          "object_text": "data science and programming",
+          "confidence": 0.95,
+          "subject_raw": "user's sister's son",
+          "predicate_raw": "is really into"
+        }
+      },
+      "score": 0.1875176006214887,
+      "created_at": "2026-07-06T10:25:28.566245-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "12c5c1a7-3448-4b00-93d8-946f2b24da3a",
+      "memory": "User is planning a trip to NYC soon.",
+      "hash": "4de27b92d306da5c81cd00ea4d44bd3f",
+      "metadata": {
+        "ordinal": 102,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.18691414798732,
+      "created_at": "2026-07-06T10:22:10.202789-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d0241a5b-2d89-4af7-8b5b-e511bfcc2436",
+      "memory": "User had a heated argument with their best friend about the existence of God three months ago.",
+      "hash": "7aa3c80f3e0936a7e51b4c8fbe1cb419",
+      "metadata": {
+        "ordinal": 52,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "had heated argument with",
+          "object_text": "their best friend about the existence of God three months ago",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "had a heated argument with"
+        }
+      },
+      "score": 0.18419064657760686,
+      "created_at": "2026-07-06T10:21:22.344942-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6e70fb79-0c53-49b4-9af2-35ad80aa9214",
+      "memory": "User has been to NYC recently, just last week for a friend's birthday celebration.",
+      "hash": "9cee52783301ff1b9150d7f557edf0b9",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be to",
+          "object_text": "NYC recently",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been to"
+        }
+      },
+      "score": 0.18352650185800132,
+      "created_at": "2026-07-06T10:22:10.211090-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "139a84ab-39bb-4a49-8bdc-18f7c95e4c27",
+      "memory": "The user has a friend who is interested in becoming a nurse.",
+      "hash": "4b4fdb35fec1578d97ff275873113550",
+      "metadata": {
+        "ordinal": 282,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has friend who be interested in becoming",
+          "object_text": "nurse",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has a friend who is interested in becoming"
+        }
+      },
+      "score": 0.18346315244540445,
+      "created_at": "2026-07-06T10:25:02.082342-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "71749cc3-6632-4314-903d-618808922899",
+      "memory": "User is trying to optimize their morning routine.",
+      "hash": "6fbfea0052888da6f128adb715b58113",
+      "metadata": {
+        "ordinal": 219,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1821226055891299,
+      "created_at": "2026-07-06T10:24:16.971441-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "15e9577e-fd93-4f9b-bfce-9289394aeb79",
+      "memory": "User is still figuring out how to manage their to-read list.",
+      "hash": "3e7ef84645ddbec0fc1777357f044407",
+      "metadata": {
+        "ordinal": 279,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.18169629280498586,
+      "created_at": "2026-07-06T10:24:57.526537-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "083e2c69-8f41-4957-8d8c-b88083eb4437",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.1805787630262211,
+      "created_at": "2026-07-06T10:22:10.875626-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "238b21e3-d42c-4028-8a18-f10e16500f1c",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 336,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.1805787630262211,
+      "created_at": "2026-07-06T10:25:38.975397-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0f329344-6b89-4ecf-aacb-4b3f2960b0e2",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 261,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.1805787630262211,
+      "created_at": "2026-07-06T10:24:37.907916-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4b3e5dda-cf00-4919-b258-5df00489166c",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 252,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18056031784557705,
+      "created_at": "2026-07-06T10:24:37.072709-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "168dc335-8039-4dca-983f-590db6072fcb",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 319,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18056031784557705,
+      "created_at": "2026-07-06T10:25:29.446307-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8bfe8a2d-2c05-45d4-8650-1879e1f758b1",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18056031784557705,
+      "created_at": "2026-07-06T10:25:49.432232-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8049783a-3d21-40e0-83fa-ef9f027b14e1",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 299,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18056031784557705,
+      "created_at": "2026-07-06T10:25:15.415550-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d0b88d14-b198-4037-9ed6-b253878edf78",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 147,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18056031784557705,
+      "created_at": "2026-07-06T10:22:37.041848-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "65c07140-dd09-4898-b7f1-c7ca8b356864",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 45,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18056031784557705,
+      "created_at": "2026-07-06T10:21:09.393251-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5f936685-6eff-4f1b-bda7-0857fa951b7a",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 96,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18056031784557705,
+      "created_at": "2026-07-06T10:21:59.440011-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8c445986-7221-4e81-b644-a55ffc3402cf",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 33,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18056031784557705,
+      "created_at": "2026-07-06T10:21:03.807766-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "995c3583-c0e0-45c2-a0df-b2032aa4288e",
+      "memory": "User recently organized their kitchen drawers and got some dividers to categorize their utensils.",
+      "hash": "5ab74247b5f0a0deba6a8e0af9286bfa",
+      "metadata": {
+        "ordinal": 239,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently organized",
+          "object_text": "their kitchen drawers and got some dividers to categorize their utensils",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "recently organized"
+        }
+      },
+      "score": 0.17900441088977725,
+      "created_at": "2026-07-06T10:24:36.511946-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9199c4d5-0e8f-4aa8-bc3c-1e5a0e4bc965",
+      "memory": "User is planning to go to Denver for 4 days, from next Wednesday to Sunday.",
+      "hash": "9a3afb75395e22cefe5e553c39712403",
+      "metadata": {
+        "ordinal": 360,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning to go to",
+          "object_text": "Denver for 4 days, from next Wednesday to Sunday",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to go to"
+        }
+      },
+      "score": 0.17899046537964902,
+      "created_at": "2026-07-06T10:26:10.829832-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "f79ccbe1-704c-4aff-a74b-576b2695722f",
+      "memory": "The user would like to feature some of the products they met at the craft fair, like a sustainable fashion brand.",
+      "hash": "482629e80d18549526d72cac2ee67381",
+      "metadata": {
+        "ordinal": 293,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like to feature",
+          "object_text": "some of the products they met at the craft fair, like a sustainable fashion brand",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "would like to feature"
+        }
+      },
+      "score": 0.17829637432281809,
+      "created_at": "2026-07-06T10:25:14.054616-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6fd31844-ff99-4140-ab79-2033d72962c7",
+      "memory": "User has been thinking of preparing their lunch the night before to save time in the morning.",
+      "hash": "79ac204123036e73ea2a25182c59006f",
+      "metadata": {
+        "ordinal": 220,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be thinking preparing",
+          "object_text": "lunch the night before to save time in the morning",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been thinking of preparing"
+        }
+      },
+      "score": 0.1731893480503158,
+      "created_at": "2026-07-06T10:24:16.979083-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "aad65377-686f-4342-b2a5-ea1a328fdd20",
+      "memory": "User participated in a drag racing event called 'Turbocharged' on March 17th.",
+      "hash": "9af7e4db904ad9438070b4e73553ac26",
+      "metadata": {
+        "ordinal": 327,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "participated in",
+          "object_text": "a drag racing event called 'Turbocharged' on March 17th",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "participated in"
+        }
+      },
+      "score": 0.171166097086115,
+      "created_at": "2026-07-06T10:25:38.482812-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "3fbafd70-5f89-423e-b3af-6c0b9acf0064",
+      "memory": "User has tried some productivity apps and they've been really helpful in minimizing distractions.",
+      "hash": "f95898a5a2bd84a10916fd81eb2c8cac",
+      "metadata": {
+        "ordinal": 307,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has tried",
+          "object_text": "some productivity apps",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has tried"
+        }
+      },
+      "score": 0.1711164208368094,
+      "created_at": "2026-07-06T10:25:20.210008-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a8973dbb-68da-4f9f-9487-4a3eb61932f2",
+      "memory": "User has been listening to podcasts during their commute.",
+      "hash": "094ebe9868fe943692070d2fd7c4fef1",
+      "metadata": {
+        "ordinal": 222,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "podcasts during their commute",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.17050821431750013,
+      "created_at": "2026-07-06T10:24:16.988141-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "abc54e48-530c-4de9-8fc1-3a045ed30f8a",
+      "memory": "User thinks they will try categorizing and prioritizing their list to start.",
+      "hash": "9ac923e6b4350a191e793bd67e974ed5",
+      "metadata": {
+        "ordinal": 280,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1698882488655761,
+      "created_at": "2026-07-06T10:24:57.528349-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "47eee0cc-bde7-4bc3-83ee-d37344ef3d34",
+      "memory": "User has a busy morning next Saturday and needs to set up their stall at the Downtown Farmers' Market by 7 am.",
+      "hash": "acfe9322b1a16d046abfd997176ef4a8",
+      "metadata": {
+        "ordinal": 367,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has busy morning next saturday and needs to set up",
+          "object_text": "their stall at the Downtown Farmers' Market by 7 am",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has a busy morning next Saturday and needs to set up"
+        }
+      },
+      "score": 0.16870433083814526,
+      "created_at": "2026-07-06T10:26:19.439649-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "759007fa-51e4-4c54-8779-8c216e97fdfe",
+      "memory": "User is curious if there are local events or markets where they can find sustainable and eco-friendly products, like farmers' markets or craft fairs.",
+      "hash": "8f92f68320456601ea85443ceac90fe2",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be curious if there be",
+          "object_text": "local events or markets where they can find sustainable and eco-friendly products, like farmers' markets or craft fairs",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is curious if there are"
+        }
+      },
+      "score": 0.1684696455727059,
+      "created_at": "2026-07-06T10:21:32.579380-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "23101117-7e59-42fc-bf2c-55af56dfc521",
+      "memory": "User has been thinking about reorganizing their pantry to make it more functional and efficient.",
+      "hash": "9a84f84ee27a1460820ac113a7998bfe",
+      "metadata": {
+        "ordinal": 241,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be thinking about reorganizing",
+          "object_text": "their pantry to make it more functional and efficient",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been thinking about reorganizing"
+        }
+      },
+      "score": 0.1679457051126775,
+      "created_at": "2026-07-06T10:24:36.517191-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "88e3794e-3d59-4bb6-948c-70d69a0b7028",
+      "memory": "User realizes they need to focus on one task at a time to make progress.",
+      "hash": "6a0ea40e9460dedbc6eb37a7e6527ebc",
+      "metadata": {
+        "ordinal": 227,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "realizes",
+          "object_text": "they need to focus on one task at a time to make progress",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "realizes"
+        }
+      },
+      "score": 0.16698128113445648,
+      "created_at": "2026-07-06T10:24:17.003159-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "12562ca2-e5cd-443e-bef4-ddb55da1fe5c",
+      "memory": "The user requested a small sample dataset with the columns Exercise, Social Support, Sleep, Self Improvement, and Resilience Index.",
+      "hash": "d1c864ac7e5cfdaf1ae58dca42b70658",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "requested small sample dataset with columns",
+          "object_text": "Exercise, Social Support, Sleep, Self Improvement, and Resilience Index",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "requested a small sample dataset with the columns"
+        }
+      },
+      "score": 0.16614779466877277,
+      "created_at": "2026-07-06T10:23:32.842035-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a143b7ff-724f-4eed-b39e-5cb78bc15b5d",
+      "memory": "User has been reading a lot lately.",
+      "hash": "97d76ff0ff2dd0902838971b5b67e104",
+      "metadata": {
+        "ordinal": 268,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.16565657886997645,
+      "created_at": "2026-07-06T10:24:57.496113-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "fca0f4cd-3463-43e1-b151-883b88459bfe",
+      "memory": "User thinks a pre-market checklist would help them stay organized and ensure they don't forget anything important.",
+      "hash": "7ec8937e0a7350f5683f88e724120506",
+      "metadata": {
+        "ordinal": 370,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.16424748786081134,
+      "created_at": "2026-07-06T10:26:19.447246-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0edaf1f3-94db-4d29-97f7-b7e1c0c5e98f",
+      "memory": "User is thinking of booking a room with a city view at The Aliz Hotel.",
+      "hash": "99c320aa8cc44569e26d3600445b5ede",
+      "metadata": {
+        "ordinal": 109,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking booking",
+          "object_text": "a room with a city view at The Aliz Hotel",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of booking"
+        }
+      },
+      "score": 0.16418269951289216,
+      "created_at": "2026-07-06T10:22:10.234265-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9e83f456-1ae9-4215-920c-2dbec357ad03",
+      "memory": "User is thinking of making pasta with marinara sauce and a side of steamed vegetables for lunch.",
+      "hash": "7513e524edd73f2a48c5279b4a00906a",
+      "metadata": {
+        "ordinal": 170,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking making",
+          "object_text": "pasta with marinara sauce and a side of steamed vegetables for lunch",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of making"
+        }
+      },
+      "score": 0.16394808824101267,
+      "created_at": "2026-07-06T10:23:03.647823-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "972738d8-14db-4d1d-ba16-a9417b5b2d12",
+      "memory": "User sets aside every Sunday afternoon to have lunch with their parents.",
+      "hash": "b49c0630a7a72985d1aaaaa0fe80c491",
+      "metadata": {
+        "ordinal": 168,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "sets aside",
+          "object_text": "every Sunday afternoon to have lunch with their parents",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "sets aside"
+        }
+      },
+      "score": 0.16262938017176246,
+      "created_at": "2026-07-06T10:23:03.637616-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2f5fe70c-b7c0-408b-a95e-3c99e12c1e0a",
+      "memory": "User is thinking of taking some online courses to upgrade their skills.",
+      "hash": "ba4315e83def7424a995cf8d7c30603f",
+      "metadata": {
+        "ordinal": 309,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1616801671110685,
+      "created_at": "2026-07-06T10:25:28.557842-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a713fd53-b556-49e6-aa7a-c0d266bfd7a2",
+      "memory": "User will be traveling alone.",
+      "hash": "58ffd24a38fa4b1441b6157ba1599042",
+      "metadata": {
+        "ordinal": 357,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will be traveling",
+          "object_text": "alone",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "will be traveling"
+        }
+      },
+      "score": 0.16153425404812294,
+      "created_at": "2026-07-06T10:26:10.820414-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "fef639eb-38d7-4bab-9e22-27df799768a6",
+      "memory": "User just finished listening to 'The Silent Patient'.",
+      "hash": "6a33a4c47462d0780b9293c822a4b12f",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "just finished listening to",
+          "object_text": "'The Silent Patient'",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "just finished listening to"
+        }
+      },
+      "score": 0.16034718986090177,
+      "created_at": "2026-07-06T10:24:57.518834-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d370d0dc-9ab1-4f85-b199-c750a28496b4",
+      "memory": "User has been wanting to reorganize their pantry for a while.",
+      "hash": "ee0117ee5cb0e035aac41fc921a3cd6c",
+      "metadata": {
+        "ordinal": 242,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be wanting to reorganize",
+          "object_text": "their pantry for a while",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been wanting to reorganize"
+        }
+      },
+      "score": 0.15931749777122364,
+      "created_at": "2026-07-06T10:24:36.519516-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d7aa9f84-f9f4-47c3-be6c-1ffc14b4e50d",
+      "memory": "User is planning a trip to Denver next week.",
+      "hash": "2a64abc9d4a15bd9f736b559c9bc226c",
+      "metadata": {
+        "ordinal": 353,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning trip to",
+          "object_text": "Denver",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning a trip to"
+        }
+      },
+      "score": 0.15894463951775734,
+      "created_at": "2026-07-06T10:26:10.799530-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8f37f394-a821-4994-8683-0e4a7d87d3ea",
+      "memory": "The user typically posts product showcases and behind-the-scenes content.",
+      "hash": "88e8d88d8ce3228b452cd9b8e9eb9f12",
+      "metadata": {
+        "ordinal": 290,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "typically posts",
+          "object_text": "product showcases and behind-the-scenes content",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "typically posts"
+        }
+      },
+      "score": 0.1582814956979633,
+      "created_at": "2026-07-06T10:25:14.045511-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d1afd93d-b6f4-4878-a671-3066fcc9365e",
+      "memory": "User only has about 15 minutes for breakfast every morning.",
+      "hash": "dfcb3b89c9a52a79d85a8f8ce119b6a0",
+      "metadata": {
+        "ordinal": 221,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "only has",
+          "object_text": "about 15 minutes for breakfast every morning",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "only has"
+        }
+      },
+      "score": 0.1578500491734946,
+      "created_at": "2026-07-06T10:24:16.983751-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0f81c445-797f-4259-85f1-d36b6e890b37",
+      "memory": "On January 25th, 2023, user took their Trek FX 3 hybrid bike to the local bike shop to fix a flat rear tire.",
+      "hash": "2df18e9693998cfa629ee10544a2f2d6",
+      "metadata": {
+        "ordinal": 216,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "took their trek fx 3 hybrid bike to local bike shop to fix",
+          "object_text": "a flat rear tire",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "took their Trek FX 3 hybrid bike to the local bike shop to fix"
+        }
+      },
+      "score": 0.15728980363068387,
+      "created_at": "2026-07-06T10:24:01.038722-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c3f630b3-5d9c-47ab-83c8-d35ac5a2faac",
+      "memory": "The user would like to track website traffic and engagement rates as metrics for their social media content.",
+      "hash": "5f0d7b6217e8d60c60bec8d1e5d64677",
+      "metadata": {
+        "ordinal": 294,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like to track",
+          "object_text": "website traffic and engagement rates as metrics for their social media content",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "would like to track"
+        }
+      },
+      "score": 0.15599038544506744,
+      "created_at": "2026-07-06T10:25:14.057341-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "13cde7cb-0ddc-4fdb-9f1c-6669cbb346d7",
+      "memory": "User has been stuck on Pizza Hut lately, especially their BBQ chicken pizza.",
+      "hash": "7a6abac3a27d0e61b57a15f107f4098a",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be stuck on",
+          "object_text": "Pizza Hut lately, especially their BBQ chicken pizza",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has been stuck on"
+        }
+      },
+      "score": 0.15569473960175406,
+      "created_at": "2026-07-06T10:21:58.634794-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "691df5e1-d6b3-4135-954b-4c493497a932",
+      "memory": "User usually spends about 15 minutes having a quick breakfast every morning.",
+      "hash": "b34348d03f50a9ad416d5ef54e74d698",
+      "metadata": {
+        "ordinal": 228,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "usually spends",
+          "object_text": "about 15 minutes having a quick breakfast every morning",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "usually spends"
+        }
+      },
+      "score": 0.15536426562626748,
+      "created_at": "2026-07-06T10:24:17.005496-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c57be026-77af-4a47-b127-54b285f22333",
+      "memory": "The user is currently using Instagram, Facebook, and Pinterest for GreenCycle.",
+      "hash": "d49ddc83c4ee9b337caf5799068c2fba",
+      "metadata": {
+        "ordinal": 288,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be currently using",
+          "object_text": "Instagram, Facebook, and Pinterest for GreenCycle",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is currently using"
+        }
+      },
+      "score": 0.1551123679523128,
+      "created_at": "2026-07-06T10:25:14.037467-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1d290a90-ae83-49de-b736-04c40c010a50",
+      "memory": "User thinks they would like to explore Greenwich Village.",
+      "hash": "2bb66923aa05a3da00fa40c8618f6e0f",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "thinks they would like to explore",
+          "object_text": "Greenwich Village",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they would like to explore"
+        }
+      },
+      "score": 0.15481876413484938,
+      "created_at": "2026-07-06T10:22:10.240209-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e32d32b8-3706-448f-a4e3-1b97e15304fc",
+      "memory": "User is interested in trying out some new chicken recipes.",
+      "hash": "bb368ed30c001c2c82f23c7070094b76",
+      "metadata": {
+        "ordinal": 92,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in trying out",
+          "object_text": "some new chicken recipes",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in trying out"
+        }
+      },
+      "score": 0.1542386174709492,
+      "created_at": "2026-07-06T10:21:58.661638-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5be93bb0-3d90-4bb0-8301-7de33e390bb7",
+      "memory": "User has noticed that Pizza Hut's delivery time has improved significantly, with most orders arriving within 30-40 minutes.",
+      "hash": "816ee88a172362592887e343c8c6c645",
+      "metadata": {
+        "ordinal": 89,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has noticed that",
+          "object_text": "Pizza Hut's delivery time has improved significantly, with most orders arriving within 30-40 minutes",
+          "confidence": 0.8,
+          "subject_raw": "user",
+          "predicate_raw": "has noticed that"
+        }
+      },
+      "score": 0.15416690049795853,
+      "created_at": "2026-07-06T10:21:58.653194-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "69ad7718-020b-4773-bfe1-18f9a6a756b4",
+      "memory": "User believes that life is fragile and that things can change quickly.",
+      "hash": "932958bb57e35bd0c0e4d5b321a3a368",
+      "metadata": {
+        "ordinal": 58,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.15357085114981955,
+      "created_at": "2026-07-06T10:21:22.367688-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e1b141d9-4706-4b3f-83ba-ab6106208fcd",
+      "memory": "User thinks they will start with Coursera.",
+      "hash": "b7f2d65cb95a19f1a8b13e02690a58ec",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "thinks they will start with",
+          "object_text": "Coursera",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they will start with"
+        }
+      },
+      "score": 0.15344931534079803,
+      "created_at": "2026-07-06T10:25:28.565065-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b8709056-3571-47fe-a23d-d4298456310f",
+      "memory": "User thinks the MoSCoW Method and the PDSA framework are really helpful for prioritizing tasks.",
+      "hash": "79ebbc3683f1153a7dd1a2cba00b221a",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "thinks",
+          "object_text": "the MoSCoW Method and the PDSA framework are really helpful for prioritizing tasks",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "thinks"
+        }
+      },
+      "score": 0.1524562956752202,
+      "created_at": "2026-07-06T10:24:17.000662-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a7af6727-ed38-4979-bfd6-e17aa49341fb",
+      "memory": "The user is interested in running a causal analysis to determine the direct and indirect influences on the resilience index.",
+      "hash": "91d960e360005128c905273159b2a177",
+      "metadata": {
+        "ordinal": 190,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in",
+          "object_text": "running a causal analysis to determine the direct and indirect influences on the resilience index",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.15206024315924196,
+      "created_at": "2026-07-06T10:23:32.819813-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "094fa002-a5ea-4fc4-b900-7f8567d76074",
+      "memory": "User has been thinking about meditation and mindfulness a lot lately.",
+      "hash": "36d928bb3e98d3682df80da9457dc7c5",
+      "metadata": {
+        "ordinal": 55,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1518058266169462,
+      "created_at": "2026-07-06T10:21:22.357799-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "79d61c45-58c1-4cb6-a1ba-fc4b76742164",
+      "memory": "User is planning a road trip to a lake house.",
+      "hash": "6d08cb7ee5a852d0791a565b33965b12",
+      "metadata": {
+        "ordinal": 153,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.15130045221688568,
+      "created_at": "2026-07-06T10:22:48.357604-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ccdf088c-7e6e-41e7-8a9c-2065fcd05d7f",
+      "memory": "User has been in the mood for something humorous lately.",
+      "hash": "342a1d18ef39849ade3ef492913a8de2",
+      "metadata": {
+        "ordinal": 273,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1507250801973378,
+      "created_at": "2026-07-06T10:24:57.514150-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "dfa3d48d-66dd-4087-92e5-fd4e4a65a9bc",
+      "memory": "User took a total of 4 domestic flights last month.",
+      "hash": "ab7f6d141e105af30a001bd701a74fae",
+      "metadata": {
+        "ordinal": 355,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "took total",
+          "object_text": "4 domestic flights last month",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "took a total of"
+        }
+      },
+      "score": 0.14985865099324533,
+      "created_at": "2026-07-06T10:26:10.811157-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "40c4ddd1-53d0-44b8-b71a-6f3548722259",
+      "memory": "User attended their niece's high school graduation last weekend.",
+      "hash": "036ed4ef03298be00f61120abda65b3e",
+      "metadata": {
+        "ordinal": 311,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "attended",
+          "object_text": "their niece's high school graduation last weekend",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.14914933793433444,
+      "created_at": "2026-07-06T10:25:28.561284-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9f1f1134-3d0d-484e-a1a5-cf6c18bc828f",
+      "memory": "User is excited to learn more about a 1920s postcard from Paris that they recently acquired.",
+      "hash": "5b1549f4b803a1e2e4bd0ed399286056",
+      "metadata": {
+        "ordinal": 188,
+        "triple": {
+          "subject_id": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be excited to learn more about",
+          "object_text": "a 1920s postcard from Paris that they recently acquired",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is excited to learn more about"
+        }
+      },
+      "score": 0.14894287236219145,
+      "created_at": "2026-07-06T10:23:24.579540-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e7ef320d-93fd-4834-affe-be23a37030a4",
+      "memory": "User's mom was really excited to try out a new catering service called 'Tasty Bites' at their family reunion last month, and it turned out to be a huge success.",
+      "hash": "4d239c47e6a5111e74b92ab4fbd114bf",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "user's_mom",
+          "predicate_norm": "be excited to try out",
+          "object_text": "a new catering service called 'Tasty Bites'",
+          "confidence": 0.9,
+          "subject_raw": "user's mom",
+          "predicate_raw": "was excited to try out"
+        }
+      },
+      "score": 0.14836629646506183,
+      "created_at": "2026-07-06T10:22:48.382604-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "916742fb-abb7-4cc6-8811-bfe69b7748bc",
+      "memory": "User is looking for unconventional methods to stand out in the crowded philanthropic space.",
+      "hash": "ba2386ed0f4b68853ac01c5b2790cb44",
+      "metadata": {
+        "ordinal": 27,
+        "triple": null,
+        "subject_fallback": "user::context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.14660555854486435,
+      "created_at": "2026-07-06T10:21:02.825601-07:00",
+      "updated_at": null,
+      "user_id": "context_ba61f0b9_longmemeval_s_ku_ours_no_p5_s0n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": null,
+  "memories_str": "127. User is curious to know more about the women on Rachel's team.\n128. User wants to know the specific roles of the 5 women on Rachel's team of 10 people.\n124. Half of Rachel's team are women.\n342. The user's former manager is named Rachel.\n122. User caught up with their former manager, Rachel.\n343. Rachel's team is a great example of a diverse team, with 6 women out of 10 people.\n123. Rachel is now leading a team of 10 people.\n125. User learned at a seminar that women hold only 25% of executive positions.\n121. User is looking to learn more about the importance of diversity in the workplace.\n224. User has been using a task list and calendar to manage their tasks.\n223. User is thinking of using the remaining time during their commute to review documents or make notes for upcoming meetings.\n172. User is thinking of asking their parents about their plans for the summer.\n286. The user has been posting a few times a week on social media but wants to get more organized.\n126. User is interested in understanding how organizations can ensure they're considering multiple dimensions of diversity when promoting inclusion.\n276. User is currently listening to 'Sapiens: A Brief History of Humankind'.\n229. User plans to use their breakfast time to review their schedule and task list for the day.\n292. The user is open to adjusting their posting schedule based on recommendations.\n186. User is curious about the history of photography and how cameras have evolved over time.\n157. User's mom had to plan the whole family reunion and started planning it back in March.\n291. The user would like to post at least three times a week on each platform.\n365. User is planning to participate in the Summer Fest event in June.\n277. User has been really interested in history and science lately.\n368. User was thinking about the Night Market they helped set up last Thursday.\n225. User feels overwhelmed with the amount of work they have.\n285. The user is looking to create a social media content calendar for their online store, GreenCycle, which specializes in sustainable products.\n51. User has been trying to organize their thoughts on spirituality and faith lately.\n189. The user is a behavioral science and causal analysis researcher.\n230. User plans to spend a minute reflecting on their long-term goals during breakfast.\n194. The user asked how to validate assumptions of the causal graph and test multiple scenarios.\n308. User is feeling more focused and productive.\n284. The user has concerns about job security in the healthcare industry.\n289. The user's top three goals for their social media presence are to increase website traffic, build brand awareness, and engage with customers.\n158. User remembers their mom has the address of the lake house written down somewhere.\n313. User is interested in taking courses on data science and programming.\n366. User needs to create a joint marketing campaign with their friend Emily.\n305. User struggles with staying focused, especially when working from home.\n191. The user provided input variables: Exercise, Social Support, Sleep, Self Improvement.\n315. User's sister's son is really into data science and programming.\n102. User is planning a trip to NYC soon.\n52. User had a heated argument with their best friend about the existence of God three months ago.\n103. User has been to NYC recently, just last week for a friend's birthday celebration.\n282. The user has a friend who is interested in becoming a nurse.\n219. User is trying to optimize their morning routine.\n279. User is still figuring out how to manage their to-read list.\n115. The total number of persons is 200.\n336. The total number of persons is 200.\n261. The total number of persons is 200.\n252. The total number of persons is 200.\n319. The total number of persons is 200.\n347. The total number of persons is 200.\n299. The total number of persons is 200.\n147. The total number of persons is 200.\n45. The total number of persons is 200.\n96. The total number of persons is 200.\n33. The total number of persons is 200.\n239. User recently organized their kitchen drawers and got some dividers to categorize their utensils.\n360. User is planning to go to Denver for 4 days, from next Wednesday to Sunday.\n293. The user would like to feature some of the products they met at the craft fair, like a sustainable fashion brand.\n220. User has been thinking of preparing their lunch the night before to save time in the morning.\n327. User participated in a drag racing event called 'Turbocharged' on March 17th.\n307. User has tried some productivity apps and they've been really helpful in minimizing distractions.\n222. User has been listening to podcasts during their commute.\n280. User thinks they will try categorizing and prioritizing their list to start.\n367. User has a busy morning next Saturday and needs to set up their stall at the Downtown Farmers' Market by 7 am.\n67. User is curious if there are local events or markets where they can find sustainable and eco-friendly products, like farmers' markets or craft fairs.\n241. User has been thinking about reorganizing their pantry to make it more functional and efficient.\n227. User realizes they need to focus on one task at a time to make progress.\n195. The user requested a small sample dataset with the columns Exercise, Social Support, Sleep, Self Improvement, and Resilience Index.\n268. User has been reading a lot lately.\n370. User thinks a pre-market checklist would help them stay organized and ensure they don't forget anything important.\n109. User is thinking of booking a room with a city view at The Aliz Hotel.\n170. User is thinking of making pasta with marinara sauce and a side of steamed vegetables for lunch.\n168. User sets aside every Sunday afternoon to have lunch with their parents.\n309. User is thinking of taking some online courses to upgrade their skills.\n357. User will be traveling alone.\n275. User just finished listening to 'The Silent Patient'.\n242. User has been wanting to reorganize their pantry for a while.\n353. User is planning a trip to Denver next week.\n290. The user typically posts product showcases and behind-the-scenes content.\n221. User only has about 15 minutes for breakfast every morning.\n216. On January 25th, 2023, user took their Trek FX 3 hybrid bike to the local bike shop to fix a flat rear tire.\n294. The user would like to track website traffic and engagement rates as metrics for their social media content.\n85. User has been stuck on Pizza Hut lately, especially their BBQ chicken pizza.\n228. User usually spends about 15 minutes having a quick breakfast every morning.\n288. The user is currently using Instagram, Facebook, and Pinterest for GreenCycle.\n111. User thinks they would like to explore Greenwich Village.\n92. User is interested in trying out some new chicken recipes.\n89. User has noticed that Pizza Hut's delivery time has improved significantly, with most orders arriving within 30-40 minutes.\n58. User believes that life is fragile and that things can change quickly.\n314. User thinks they will start with Coursera.\n226. User thinks the MoSCoW Method and the PDSA framework are really helpful for prioritizing tasks.\n190. The user is interested in running a causal analysis to determine the direct and indirect influences on the resilience index.\n55. User has been thinking about meditation and mindfulness a lot lately.\n153. User is planning a road trip to a lake house.\n273. User has been in the mood for something humorous lately.\n355. User took a total of 4 domestic flights last month.\n311. User attended their niece's high school graduation last weekend.\n188. User is excited to learn more about a 1920s postcard from Paris that they recently acquired.\n161. User's mom was really excited to try out a new catering service called 'Tasty Bites' at their family reunion last month, and it turned out to be a huge success.\n27. User is looking for unconventional methods to stand out in the crowded philanthropic space.",
+  "system_prompt": "You are a careful information-extraction system that outputs only JSON.",
+  "user_message": "You are given retrieved items from a user's personal memory. Each item has a FRESHNESS marker (the prefix integer) — a higher marker means the item was recorded more recently.\n\nYour job: identify EVERY item that DIRECTLY answers the question, and extract the answer from each such item.\n\nDo NOT compare freshness markers. Do NOT pick a \"best\" one. Include ALL items that answer the question.\n\nRules:\n1. An item answers the question only if it states the specific piece of information the question asks about (e.g. the user's current city, job, or preference). A related-but-different topic does NOT count.\n2. Most items describe the user (\"User ...\"); treat the user as the subject unless the question names someone else.\n3. If the user has multiple conflicting values recorded at different freshness markers, INCLUDE BOTH as separate candidates. Do not pick.\n4. If no item answers the question, return an empty list.\n5. Copy the item's text verbatim into `fact_text`, and put the concise answer to the question into `answer_entity`.\n\nQuestion: Today's date is 2023/08/03 (Thu) 06:02.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n How many women are on the team led by my former manager Rachel?\n\nItems:\n127. User is curious to know more about the women on Rachel's team.\n128. User wants to know the specific roles of the 5 women on Rachel's team of 10 people.\n124. Half of Rachel's team are women.\n342. The user's former manager is named Rachel.\n122. User caught up with their former manager, Rachel.\n343. Rachel's team is a great example of a diverse team, with 6 women out of 10 people.\n123. Rachel is now leading a team of 10 people.\n125. User learned at a seminar that women hold only 25% of executive positions.\n121. User is looking to learn more about the importance of diversity in the workplace.\n224. User has been using a task list and calendar to manage their tasks.\n223. User is thinking of using the remaining time during their commute to review documents or make notes for upcoming meetings.\n172. User is thinking of asking their parents about their plans for the summer.\n286. The user has been posting a few times a week on social media but wants to get more organized.\n126. User is interested in understanding how organizations can ensure they're considering multiple dimensions of diversity when promoting inclusion.\n276. User is currently listening to 'Sapiens: A Brief History of Humankind'.\n229. User plans to use their breakfast time to review their schedule and task list for the day.\n292. The user is open to adjusting their posting schedule based on recommendations.\n186. User is curious about the history of photography and how cameras have evolved over time.\n157. User's mom had to plan the whole family reunion and started planning it back in March.\n291. The user would like to post at least three times a week on each platform.\n365. User is planning to participate in the Summer Fest event in June.\n277. User has been really interested in history and science lately.\n368. User was thinking about the Night Market they helped set up last Thursday.\n225. User feels overwhelmed with the amount of work they have.\n285. The user is looking to create a social media content calendar for their online store, GreenCycle, which specializes in sustainable products.\n51. User has been trying to organize their thoughts on spirituality and faith lately.\n189. The user is a behavioral science and causal analysis researcher.\n230. User plans to spend a minute reflecting on their long-term goals during breakfast.\n194. The user asked how to validate assumptions of the causal graph and test multiple scenarios.\n308. User is feeling more focused and productive.\n284. The user has concerns about job security in the healthcare industry.\n289. The user's top three goals for their social media presence are to increase website traffic, build brand awareness, and engage with customers.\n158. User remembers their mom has the address of the lake house written down somewhere.\n313. User is interested in taking courses on data science and programming.\n366. User needs to create a joint marketing campaign with their friend Emily.\n305. User struggles with staying focused, especially when working from home.\n191. The user provided input variables: Exercise, Social Support, Sleep, Self Improvement.\n315. User's sister's son is really into data science and programming.\n102. User is planning a trip to NYC soon.\n52. User had a heated argument with their best friend about the existence of God three months ago.\n103. User has been to NYC recently, just last week for a friend's birthday celebration.\n282. The user has a friend who is interested in becoming a nurse.\n219. User is trying to optimize their morning routine.\n279. User is still figuring out how to manage their to-read list.\n115. The total number of persons is 200.\n336. The total number of persons is 200.\n261. The total number of persons is 200.\n252. The total number of persons is 200.\n319. The total number of persons is 200.\n347. The total number of persons is 200.\n299. The total number of persons is 200.\n147. The total number of persons is 200.\n45. The total number of persons is 200.\n96. The total number of persons is 200.\n33. The total number of persons is 200.\n239. User recently organized their kitchen drawers and got some dividers to categorize their utensils.\n360. User is planning to go to Denver for 4 days, from next Wednesday to Sunday.\n293. The user would like to feature some of the products they met at the craft fair, like a sustainable fashion brand.\n220. User has been thinking of preparing their lunch the night before to save time in the morning.\n327. User participated in a drag racing event called 'Turbocharged' on March 17th.\n307. User has tried some productivity apps and they've been really helpful in minimizing distractions.\n222. User has been listening to podcasts during their commute.\n280. User thinks they will try categorizing and prioritizing their list to start.\n367. User has a busy morning next Saturday and needs to set up their stall at the Downtown Farmers' Market by 7 am.\n67. User is curious if there are local events or markets where they can find sustainable and eco-friendly products, like farmers' markets or craft fairs.\n241. User has been thinking about reorganizing their pantry to make it more functional and efficient.\n227. User realizes they need to focus on one task at a time to make progress.\n195. The user requested a small sample dataset with the columns Exercise, Social Support, Sleep, Self Improvement, and Resilience Index.\n268. User has been reading a lot lately.\n370. User thinks a pre-market checklist would help them stay organized and ensure they don't forget anything important.\n109. User is thinking of booking a room with a city view at The Aliz Hotel.\n170. User is thinking of making pasta with marinara sauce and a side of steamed vegetables for lunch.\n168. User sets aside every Sunday afternoon to have lunch with their parents.\n309. User is thinking of taking some online courses to upgrade their skills.\n357. User will be traveling alone.\n275. User just finished listening to 'The Silent Patient'.\n242. User has been wanting to reorganize their pantry for a while.\n353. User is planning a trip to Denver next week.\n290. The user typically posts product showcases and behind-the-scenes content.\n221. User only has about 15 minutes for breakfast every morning.\n216. On January 25th, 2023, user took their Trek FX 3 hybrid bike to the local bike shop to fix a flat rear tire.\n294. The user would like to track website traffic and engagement rates as metrics for their social media content.\n85. User has been stuck on Pizza Hut lately, especially their BBQ chicken pizza.\n228. User usually spends about 15 minutes having a quick breakfast every morning.\n288. The user is currently using Instagram, Facebook, and Pinterest for GreenCycle.\n111. User thinks they would like to explore Greenwich Village.\n92. User is interested in trying out some new chicken recipes.\n89. User has noticed that Pizza Hut's delivery time has improved significantly, with most orders arriving within 30-40 minutes.\n58. User believes that life is fragile and that things can change quickly.\n314. User thinks they will start with Coursera.\n226. User thinks the MoSCoW Method and the PDSA framework are really helpful for prioritizing tasks.\n190. The user is interested in running a causal analysis to determine the direct and indirect influences on the resilience index.\n55. User has been thinking about meditation and mindfulness a lot lately.\n153. User is planning a road trip to a lake house.\n273. User has been in the mood for something humorous lately.\n355. User took a total of 4 domestic flights last month.\n311. User attended their niece's high school graduation last weekend.\n188. User is excited to learn more about a 1920s postcard from Paris that they recently acquired.\n161. User's mom was really excited to try out a new catering service called 'Tasty Bites' at their family reunion last month, and it turned out to be a huge success.\n27. User is looking for unconventional methods to stand out in the crowded philanthropic space.\n\nReturn ONLY valid JSON: {\"candidates\": [{\"serial\": <int>, \"fact_text\": \"<verbatim>\", \"answer_entity\": \"<answer>\"}, ...]}",
+  "response": "6 women",
+  "prompt_tokens": 2017,
+  "completion_tokens": 92
+}

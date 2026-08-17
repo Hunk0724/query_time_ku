@@ -1,0 +1,39 @@
+# gpt-5.4-mini mem0 — UNIFIED extraction + mem0 DESTRUCTIVE write (b) (2026-07-15).
+# Backbone-swap probe: tests whether mem0's coupled write-time UPDATE/DELETE
+# judgment (the mechanism that made gpt-4o-mini × 6k crash to 52%) recovers
+# on gpt-5.4-mini. gpt-4.1-mini already recovered to 81/87/88 (6k/32k/64k) —
+# gpt-5.4-mini prediction: fully at parity with ours main.
+#
+# Store: backbone-tagged path (gemma pattern; see no_p5.yaml comment).
+# Extractor: MEM0_TRIPLE_MODEL default gpt-4o-mini; mem0 LLM (UPDATE/DELETE
+# decision) = gpt-5.4-mini.
+agent_name: Structure_rag_gpt-5.4-mini-mem0_512_openai_unified_dest
+model: gpt-5.4-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-5.4-mini-mem0-chunk512-temp0-openai-unified_dest
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-5.4-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_dest
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_dest__gpt-5.4-mini
+      on_disk: true
+  use_unified_extractor: true

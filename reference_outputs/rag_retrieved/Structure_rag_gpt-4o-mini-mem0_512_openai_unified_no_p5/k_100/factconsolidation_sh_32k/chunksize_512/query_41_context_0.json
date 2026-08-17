@@ -1,0 +1,3481 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "8594fb7f-dc31-4f26-90d7-f0ea4a3642ab",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook.",
+      "hash": "dbc052624c7f319f53db7ee009d2c1ae",
+      "metadata": {
+        "ordinal": 609,
+        "triple": {
+          "subject_id": "the_chief_executive_officer_of_apple_inc.",
+          "predicate_norm": "be",
+          "object_text": "Tim Cook",
+          "confidence": 0.85,
+          "subject_raw": "the chief executive officer of Apple Inc.",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.8153981498649459,
+      "created_at": "2026-07-04T05:28:32.261997-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7c30bab1-08fc-4332-b593-1d268c8ecc71",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 975,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.676321511169022,
+      "created_at": "2026-07-04T05:28:49.882548-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b1eee487-8a3d-492c-82e3-d6e3ad58f2aa",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 1087,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.9,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.6740534751746085,
+      "created_at": "2026-07-04T05:28:54.566112-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "40fcb371-d68d-4985-8445-6dfb597b7092",
+      "memory": "The chief executive officer of NeXT Computer, Inc. is Steve Jobs.",
+      "hash": "0f478e33829403e529c7082a583e6ec3",
+      "metadata": {
+        "ordinal": 1578,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.6593898578519846,
+      "created_at": "2026-07-04T05:29:17.510334-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "706acfce-354a-4747-b302-345637ee2b74",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 1061,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.6041760485545671,
+      "created_at": "2026-07-04T05:28:54.511426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "540eb024-e89a-47a7-a1dd-ab6b1457e2e2",
+      "memory": "Steve Jobs is a citizen of United States of America.",
+      "hash": "8361be49981f7a5cc65edaee5adc3e18",
+      "metadata": {
+        "ordinal": 1189,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.5530020185513496,
+      "created_at": "2026-07-04T05:28:59.440694-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f24b8ec0-7702-45d2-9f58-6e9bbc5dff06",
+      "memory": "The company that produced Apple TV is Apple Inc.",
+      "hash": "15d14e12ff1e633af94f673f61e5be5d",
+      "metadata": {
+        "ordinal": 857,
+        "triple": {
+          "subject_id": "apple_tv",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple TV",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5494735471038429,
+      "created_at": "2026-07-04T05:28:44.728596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "80afd8e7-174b-4ed2-953f-9fa4c55e5d24",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.5113261204899516,
+      "created_at": "2026-07-04T05:28:29.095890-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1537eeb0-a2ba-43c0-98a6-378fe9ce23c8",
+      "memory": "The chief executive officer of Electronic Arts is Elon Musk.",
+      "hash": "fafd6851be7e6aaeef6a5504dcfa3a3c",
+      "metadata": {
+        "ordinal": 2278,
+        "triple": {
+          "subject_id": "electronic_arts",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Elon Musk",
+          "confidence": 0.95,
+          "subject_raw": "Electronic Arts",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.5104342186635601,
+      "created_at": "2026-07-04T05:29:50.011022-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0c36cafd-32ea-423d-9685-d3f2c6f902f5",
+      "memory": "Steve Jobs is a citizen of South Korea.",
+      "hash": "e26833b59eeb6f1419827423194cbca0",
+      "metadata": {
+        "ordinal": 1413,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "South Korea",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4974944263197319,
+      "created_at": "2026-07-04T05:29:11.205238-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e9d2b48f-d53b-44a7-ac35-250fad21bb78",
+      "memory": "The chief executive officer of Twitter is Jack Dorsey",
+      "hash": "5b61ea8072be17e062674c8d96e6df92",
+      "metadata": {
+        "ordinal": 46,
+        "triple": {
+          "subject_id": "jack_dorsey",
+          "predicate_norm": "be chief executive officer",
+          "object_text": "Twitter",
+          "confidence": 0.95,
+          "subject_raw": "Jack Dorsey",
+          "predicate_raw": "is the chief executive officer of"
+        }
+      },
+      "score": 0.4928482258942485,
+      "created_at": "2026-07-04T05:28:11.122160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5a023833-3566-4082-98ff-cdb965d7f479",
+      "memory": "iPod was developed by Apple Inc.",
+      "hash": "8ceffb8e25b7b7e622878cc0ed528b7e",
+      "metadata": {
+        "ordinal": 293,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4891863618597064,
+      "created_at": "2026-07-04T05:28:20.874696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7aa709ce-1ee6-4141-9a4d-9f091fb3a502",
+      "memory": "The chief executive officer of Google is Sundar Pichai",
+      "hash": "6837e373ca014b9b41625b7297dccd8c",
+      "metadata": {
+        "ordinal": 558,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4754234261313228,
+      "created_at": "2026-07-04T05:28:30.596049-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "40a985bb-c5e7-4947-8392-3d852d395f05",
+      "memory": "NeXT Computer, Inc. was founded by Steve Jobs.",
+      "hash": "bdd91b9b20d480354e66066bc20e25cc",
+      "metadata": {
+        "ordinal": 731,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.46223525422701983,
+      "created_at": "2026-07-04T05:28:40.617973-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c7aaac86-3b40-4bbe-aed5-706b6a1e7045",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 1070,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.9,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.45954736907085253,
+      "created_at": "2026-07-04T05:28:54.538412-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5fa403d7-0ed7-4ce9-9f22-46f28c3f9f5f",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.45816160676698103,
+      "created_at": "2026-07-04T05:28:17.804952-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8703db5d-b471-4d4c-804b-d7d32fa2c10e",
+      "memory": "The chief executive officer of Electronic Arts is Andrew Wilson.",
+      "hash": "f3b002229ddb0b68bb8d8ca181c5e372",
+      "metadata": {
+        "ordinal": 1081,
+        "triple": {
+          "subject_id": "electronic_arts",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew Wilson",
+          "confidence": 0.95,
+          "subject_raw": "Electronic Arts",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4571975045326251,
+      "created_at": "2026-07-04T05:28:54.557726-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0ebccbb8-6827-4201-bce4-08be0c25c2af",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.4549973120930997,
+      "created_at": "2026-07-04T05:28:07.972639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7af097f3-17ca-4777-a1de-a032b7b87379",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Andrew House.",
+      "hash": "47b51667bf3a64f9c3e3d42830cd6f7f",
+      "metadata": {
+        "ordinal": 1251,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew House",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.45469646468166913,
+      "created_at": "2026-07-04T05:29:02.885913-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a9035ca1-e989-4386-bea5-16d2140a720f",
+      "memory": "The chief executive officer of Advanced Micro Devices is Lisa Su.",
+      "hash": "4ede9597bf3bd1606479835b9007f1ce",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lisa Su",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.45328894567670164,
+      "created_at": "2026-07-04T05:28:17.860336-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2a076054-1148-416a-83cc-31042b4bdc6c",
+      "memory": "The chief executive officer of Boeing is Adel al-Jubeir.",
+      "hash": "3461ec9eeb79964baa953b0553df3b5c",
+      "metadata": {
+        "ordinal": 1975,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Adel al-Jubeir",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.44422145303669536,
+      "created_at": "2026-07-04T05:29:36.079635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b5660173-f093-4500-8e29-db6100cc8d6c",
+      "memory": "The chief executive officer of Netflix is Reed Hastings.",
+      "hash": "69c193b973715d0be7cae7310676fc5a",
+      "metadata": {
+        "ordinal": 121,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Reed Hastings",
+          "confidence": 0.95,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4424674545186612,
+      "created_at": "2026-07-04T05:28:14.148966-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4bd7a38b-3356-44fd-a82c-b775d11f59ba",
+      "memory": "iPad Mini was developed by Apple Inc.",
+      "hash": "a9a0fc3277612bc7701df6ca19cd9fc1",
+      "metadata": {
+        "ordinal": 714,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44230059430905033,
+      "created_at": "2026-07-04T05:28:38.420442-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2ee9a1c1-3c56-4194-a9aa-3deadc69ea40",
+      "memory": "The director of American Broadcasting Company is Bob Iger.",
+      "hash": "28778bc2e181d52cd500d67f7fe89970",
+      "metadata": {
+        "ordinal": 1216,
+        "triple": {
+          "subject_id": "the_director_of_american_broadcasting_company",
+          "predicate_norm": "be",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "the director of American Broadcasting Company",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.4414454142265284,
+      "created_at": "2026-07-04T05:29:00.968179-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0c2c22be-e237-4f06-aa32-0ff1c8fb1581",
+      "memory": "The chief executive officer of Netflix is Neil Aspinall",
+      "hash": "7ea784f1bf4f5f48255420651f82d178",
+      "metadata": {
+        "ordinal": 550,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Neil Aspinall",
+          "confidence": 0.9,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4390008378452206,
+      "created_at": "2026-07-04T05:28:30.584732-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "57b1b229-07c5-4eaa-83a2-af75e3e48cdf",
+      "memory": "The chief executive officer of General Motors is Marc Benioff.",
+      "hash": "9bb13dc38b7c3a7255d4e53251ff8ab5",
+      "metadata": {
+        "ordinal": 2257,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marc Benioff",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4374979451387195,
+      "created_at": "2026-07-04T05:29:48.453991-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3fb66056-1548-4834-a11b-92c6e4b29f2b",
+      "memory": "Apple DOS was developed by Apple Inc.",
+      "hash": "2051aa2ddd9d54f65697b90c4b6603d4",
+      "metadata": {
+        "ordinal": 774,
+        "triple": {
+          "subject_id": "apple_dos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple DOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4342528869538879,
+      "created_at": "2026-07-04T05:28:42.099486-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "11bf2fc4-a61a-4f1e-9c16-f4b9ee989712",
+      "memory": "Steve Jobs was born in the city of Kraków",
+      "hash": "ec1bdcd69ef74106fd95557bde470105",
+      "metadata": {
+        "ordinal": 568,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Kraków",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.4315821355751627,
+      "created_at": "2026-07-04T05:28:30.608861-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "386b4118-c8d4-45a7-9483-e33e904fc1ef",
+      "memory": "The chief executive officer of Toshiba is Nobuaki Kurumatani",
+      "hash": "eab78d061565f6c3b9a08688c24d974a",
+      "metadata": {
+        "ordinal": 1501,
+        "triple": {
+          "subject_id": "toshiba",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Nobuaki Kurumatani",
+          "confidence": 0.95,
+          "subject_raw": "Toshiba",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.43116463489867374,
+      "created_at": "2026-07-04T05:29:14.288896-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "877a27aa-0f35-40ca-800c-a2bc77ae4536",
+      "memory": "The chairperson of Hon Hai Precision Industry is Talia Sasson.",
+      "hash": "d61ee7c4f57979a51c5619de12412a57",
+      "metadata": {
+        "ordinal": 2259,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Talia Sasson",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.43034408856504147,
+      "created_at": "2026-07-04T05:29:48.457215-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cd7623ee-98c6-4343-8674-777bb15ac6d3",
+      "memory": "The chairperson of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "6b3e394c987856f1649c25b815996c81",
+      "metadata": {
+        "ordinal": 710,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.42940977938287606,
+      "created_at": "2026-07-04T05:28:38.416097-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c4fc6577-fded-48ce-96a2-7c479787dc6f",
+      "memory": "The chief executive officer of ABB Group is Bernard Arnault.",
+      "hash": "7ce66f1ad34acd1d0596dca6554a6d14",
+      "metadata": {
+        "ordinal": 2103,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.9,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4291347637305225,
+      "created_at": "2026-07-04T05:29:40.687083-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bb67f7eb-7328-4b52-a89e-2aa05de9a5e9",
+      "memory": "The chief executive officer of Panasonic Corporation is Satya Nadella.",
+      "hash": "d01ef6d4828234fbf3bbd57af34c6ae2",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4276732853422499,
+      "created_at": "2026-07-04T05:28:14.177511-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "780e7457-a2d3-4711-890a-b4956d047f40",
+      "memory": "iOS 9 was developed by Apple Inc.",
+      "hash": "8c73c48af3ad26ba19f52407f0a5c25e",
+      "metadata": {
+        "ordinal": 889,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "developed",
+          "object_text": "iOS 9",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "developed"
+        }
+      },
+      "score": 0.4242114447479952,
+      "created_at": "2026-07-04T05:28:46.191696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ffecbfda-b8ee-4ebd-be21-59e9f1a13d20",
+      "memory": "iOS 7 was developed by Apple Inc.",
+      "hash": "c86372238d7cceff25b58f217d85d60d",
+      "metadata": {
+        "ordinal": 408,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.42380578641155325,
+      "created_at": "2026-07-04T05:28:24.673365-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1f2095eb-5819-4613-8517-17160be1d91e",
+      "memory": "The chief executive officer of Panasonic Corporation is Kazuhiro Tsuga.",
+      "hash": "309bf9e6aa0cc6efa8b333fbdb4ecd60",
+      "metadata": {
+        "ordinal": 117,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Kazuhiro Tsuga",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.41981626893386315,
+      "created_at": "2026-07-04T05:28:14.142689-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f54ddc0a-104e-4322-9f21-da56861b9d39",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 2080,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.9,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.419219116855214,
+      "created_at": "2026-07-04T05:29:40.654374-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "73523baf-9ad8-4c39-92b3-6d133c7b11a1",
+      "memory": "The chief executive officer of Valve Corporation is Mukesh Ambani",
+      "hash": "175709d202b84c3a9959c047d50fc24a",
+      "metadata": {
+        "ordinal": 549,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mukesh Ambani",
+          "confidence": 0.9,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.41447929807351397,
+      "created_at": "2026-07-04T05:28:30.583282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c692d03b-e5ce-433a-8191-f4cc85ac5921",
+      "memory": "The chief executive officer of ABB Group is Ulrich Spiesshofer.",
+      "hash": "fefddcc534abf87ddd74c883ac06bf25",
+      "metadata": {
+        "ordinal": 487,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Ulrich Spiesshofer",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4131569689614878,
+      "created_at": "2026-07-04T05:28:27.626033-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cd0d4f3b-28df-4492-98cb-9b339f826828",
+      "memory": "The chief executive officer of Boeing is Dennis Muilenburg.",
+      "hash": "1156ff61b0e1943d516205b3902cfe87",
+      "metadata": {
+        "ordinal": 1933,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Dennis Muilenburg",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4114509076595086,
+      "created_at": "2026-07-04T05:29:34.498364-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9834dca4-0706-4a26-98a2-17e76011649d",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Helle Thorning-Schmidt.",
+      "hash": "1282ef64e8265aec884491b6c513af1f",
+      "metadata": {
+        "ordinal": 1343,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Helle Thorning-Schmidt",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4105753664401643,
+      "created_at": "2026-07-04T05:29:08.290267-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3aeac2e2-dd95-47f9-8676-9e90c621690a",
+      "memory": "The chief executive officer of WWE is Vince McMahon",
+      "hash": "7de5d83f590781f1959724ea0995a4e5",
+      "metadata": {
+        "ordinal": 59,
+        "triple": {
+          "subject_id": "vince_mcmahon",
+          "predicate_norm": "be chief executive officer",
+          "object_text": "WWE",
+          "confidence": 0.95,
+          "subject_raw": "Vince McMahon",
+          "predicate_raw": "is the chief executive officer of"
+        }
+      },
+      "score": 0.40995996903687315,
+      "created_at": "2026-07-04T05:28:11.145723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "39e9ef07-8d41-41dc-8ea6-0d75960d080d",
+      "memory": "The chief executive officer of Dassault Aviation is Éric Trappier.",
+      "hash": "f8a08df7eb77f4807eb629c1bdcbcbc6",
+      "metadata": {
+        "ordinal": 1151,
+        "triple": {
+          "subject_id": "dassault_aviation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Éric Trappier",
+          "confidence": 0.95,
+          "subject_raw": "Dassault Aviation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4011967563470716,
+      "created_at": "2026-07-04T05:28:57.697492-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fbc75ca2-2684-4428-bf67-e90d1f40bf30",
+      "memory": "QuickTime was developed by Apple Inc.",
+      "hash": "ae34566529ab81e2bcfd930049fa6788",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.40071124322735974,
+      "created_at": "2026-07-04T05:28:07.981784-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "18c7f8fb-aae3-4672-8f8f-b0ec478a3b21",
+      "memory": "The chief executive officer of Valve Corporation is Gabe Newell.",
+      "hash": "d78e6179ccb31fcaa1164c84600e371e",
+      "metadata": {
+        "ordinal": 513,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.39976602719785576,
+      "created_at": "2026-07-04T05:28:29.103823-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "db754b75-e343-434a-8a98-a0289e774d05",
+      "memory": "GarageBand was developed by Apple Inc.",
+      "hash": "9bd8cd96e1b9ae4c7a20e6e637e41ded",
+      "metadata": {
+        "ordinal": 407,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.39576426900621725,
+      "created_at": "2026-07-04T05:28:24.672146-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1b7feb8a-9bb1-4955-9e26-338451021ebf",
+      "memory": "The chief executive officer of Dassault Aviation is Charles G. Koch.",
+      "hash": "78be7ed2e194e3f7de43b6c75af5731d",
+      "metadata": {
+        "ordinal": 2026,
+        "triple": {
+          "subject_id": "dassault_aviation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Charles G. Koch",
+          "confidence": 0.95,
+          "subject_raw": "Dassault Aviation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.39325588841210934,
+      "created_at": "2026-07-04T05:29:37.224037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8c3da0f2-10d3-42f5-b719-ef165b69744e",
+      "memory": "The chief executive officer of Lockheed Martin is Marillyn Hewson.",
+      "hash": "5e0997ea3c724be878f6b6cbed5f6b9c",
+      "metadata": {
+        "ordinal": 1790,
+        "triple": {
+          "subject_id": "lockheed_martin",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marillyn Hewson",
+          "confidence": 0.95,
+          "subject_raw": "Lockheed Martin",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3876329836025654,
+      "created_at": "2026-07-04T05:29:28.393036-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "24fc8a30-bbab-4d23-9ab6-7abd9547a3e2",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 1521,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.38209706517611025,
+      "created_at": "2026-07-04T05:29:15.812059-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "35ebbffa-390e-42b5-a84b-0bd2b052b431",
+      "memory": "iOS 9 was developed by NeXT Computer, Inc.",
+      "hash": "a5dde5d7b2ae8898a90370c7d164249d",
+      "metadata": {
+        "ordinal": 2266,
+        "triple": {
+          "subject_id": "ios_9",
+          "predicate_norm": "be developed by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 9",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3787578293201688,
+      "created_at": "2026-07-04T05:29:48.467495-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c8ec9212-9f09-4a42-bcce-11def163194b",
+      "memory": "AppleScript was developed by Apple Inc.",
+      "hash": "30c9adb24d77e6e89e56cadb93ef21de",
+      "metadata": {
+        "ordinal": 1433,
+        "triple": {
+          "subject_id": "applescript",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "AppleScript",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3711621357635637,
+      "created_at": "2026-07-04T05:29:11.237720-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "255026b4-0b4a-4472-9d02-2bfd84472c6a",
+      "memory": "The chief executive officer of Aston Martin Lagonda is Andy Palmer.",
+      "hash": "972c6ef6940332600e61a6c6590508c8",
+      "metadata": {
+        "ordinal": 665,
+        "triple": {
+          "subject_id": "aston_martin_lagonda",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andy Palmer",
+          "confidence": 0.95,
+          "subject_raw": "Aston Martin Lagonda",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.36557293792290313,
+      "created_at": "2026-07-04T05:28:36.295173-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7db1bf28-ee4a-4738-aa77-6a4fac1b6f4e",
+      "memory": "The chief executive officer of General Motors is Mary Barra.",
+      "hash": "586369fe3ffca899b036ed948a77c175",
+      "metadata": {
+        "ordinal": 879,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mary Barra",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.36050148691814266,
+      "created_at": "2026-07-04T05:28:46.179512-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6efbb71a-765b-4a67-b0d3-23e14c29356e",
+      "memory": "Bob Iger is a citizen of United States of America.",
+      "hash": "21513edbb39a1bd0152fd25760adae14",
+      "metadata": {
+        "ordinal": 1533,
+        "triple": {
+          "subject_id": "bob_iger",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Bob Iger",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3571392353880868,
+      "created_at": "2026-07-04T05:29:15.834529-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6e5e7b64-4ba5-4ee8-a687-73f6ce7898cd",
+      "memory": "iPad Mini was developed by Microsoft.",
+      "hash": "ca7b4127ba8304722c07c683933be2ee",
+      "metadata": {
+        "ordinal": 1611,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3527053788684196,
+      "created_at": "2026-07-04T05:29:18.869854-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d01047dd-103c-426e-a3f8-24f9c21243e2",
+      "memory": "The director of Blizzard Entertainment is J. Allen Brack.",
+      "hash": "243062b46906af6b5c31b47b14dd42a9",
+      "metadata": {
+        "ordinal": 1387,
+        "triple": {
+          "subject_id": "blizzard_entertainment",
+          "predicate_norm": "has director",
+          "object_text": "J. Allen Brack",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard Entertainment",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.34475079552110766,
+      "created_at": "2026-07-04T05:29:09.668630-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ff2d10fd-9260-4cfb-83b4-4e09785d39f9",
+      "memory": "iOS 7 was developed by Sony Interactive Entertainment.",
+      "hash": "ed5f88912e62f23dcb8e193ed008fe6f",
+      "metadata": {
+        "ordinal": 959,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.33872935033090756,
+      "created_at": "2026-07-04T05:28:49.850940-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "021ed990-1d40-459a-ba82-a2acb3a990ba",
+      "memory": "Shigeru Miyamoto is employed by Nintendo",
+      "hash": "b0141a82c5177df1a340d7a7c954af46",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "Nintendo",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.33790642031590734,
+      "created_at": "2026-07-04T05:28:11.156767-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "694bfcb3-096a-4f63-aeb1-9656c9e8429f",
+      "memory": "iPod was developed by Google.",
+      "hash": "6971b67d7092b2c23f612658118aee31",
+      "metadata": {
+        "ordinal": 1089,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3348893593076696,
+      "created_at": "2026-07-04T05:28:54.569988-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "71ccb989-603b-40d3-bd7f-45d73adde33d",
+      "memory": "The director of Blizzard Entertainment is Eben Moglen.",
+      "hash": "210e869c71ad664b14049987f2579581",
+      "metadata": {
+        "ordinal": 1856,
+        "triple": {
+          "subject_id": "blizzard_entertainment",
+          "predicate_norm": "has director",
+          "object_text": "Eben Moglen",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard Entertainment",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.3302195915494084,
+      "created_at": "2026-07-04T05:29:29.966524-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b39705b6-2cb2-415a-9fb6-a4e09590e727",
+      "memory": "The chief executive officer of Telmex is Armin Veh.",
+      "hash": "cd3879aed9875e8ad62c3440666b1171",
+      "metadata": {
+        "ordinal": 1463,
+        "triple": {
+          "subject_id": "telmex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Armin Veh",
+          "confidence": 0.95,
+          "subject_raw": "Telmex",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32542497771332396,
+      "created_at": "2026-07-04T05:29:12.760138-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "75740edb-1037-4203-8164-e19f88499dcd",
+      "memory": "Jack Dorsey is a citizen of United States of America.",
+      "hash": "41b18e7c7d7f9f0a8a4c71537bce7b2a",
+      "metadata": {
+        "ordinal": 690,
+        "triple": {
+          "subject_id": "jack_dorsey",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jack Dorsey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3209928745825491,
+      "created_at": "2026-07-04T05:28:38.386082-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "175cee11-6e21-4d04-a319-c441c2a075ea",
+      "memory": "The chief executive officer of Telmex is Carlos Slim.",
+      "hash": "3239f7dc8c23ff1dbcedd6d98524cd15",
+      "metadata": {
+        "ordinal": 952,
+        "triple": {
+          "subject_id": "telmex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Carlos Slim",
+          "confidence": 0.95,
+          "subject_raw": "Telmex",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.31576379727399195,
+      "created_at": "2026-07-04T05:28:47.748574-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "473b2639-2734-456a-9216-7dcd93ca35b4",
+      "memory": "Nintendo was founded by Fusajiro Yamauchi.",
+      "hash": "6894c0616189587c762477db42ae5f44",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "nintendo",
+          "predicate_norm": "be founded by",
+          "object_text": "Fusajiro Yamauchi",
+          "confidence": 0.95,
+          "subject_raw": "Nintendo",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.312106156769288,
+      "created_at": "2026-07-04T05:28:12.647370-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "379187a1-b8fb-4dd3-b685-ea62189cd597",
+      "memory": "Shigeru Miyamoto is employed by University of Oxford.",
+      "hash": "9a4cc3c99ba35a09bd6704d1d651e51d",
+      "metadata": {
+        "ordinal": 2109,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.30667969943977824,
+      "created_at": "2026-07-04T05:29:42.573496-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2253e154-ceb0-471e-b3a6-d0714f3c1c17",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 1687,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.3043759750363222,
+      "created_at": "2026-07-04T05:29:23.674147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9b976d04-2af1-46d4-abee-088fd3090f95",
+      "memory": "Epic Games was founded by Tim Sweeney.",
+      "hash": "bc2441844a2e06fdf23177fe5217d31c",
+      "metadata": {
+        "ordinal": 1202,
+        "triple": {
+          "subject_id": "epic_games",
+          "predicate_norm": "be founded by",
+          "object_text": "Tim Sweeney",
+          "confidence": 0.95,
+          "subject_raw": "Epic Games",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3043138844647106,
+      "created_at": "2026-07-04T05:29:00.937757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c43e07e8-f4f6-4bfe-8da4-bc0520b001d0",
+      "memory": "The director of The Beatles is Brian Epstein.",
+      "hash": "7a4cb58c0864c899242dda642316b85f",
+      "metadata": {
+        "ordinal": 231,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "has director",
+          "object_text": "Brian Epstein",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.299794464260658,
+      "created_at": "2026-07-04T05:28:19.342600-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ee75aa29-786b-4ce0-b393-a259a80343fe",
+      "memory": "The name of the current head of the United States of America government is Donald Trump.",
+      "hash": "a8fe3ca3f4e9b5ad8a4a9a809552868f",
+      "metadata": {
+        "ordinal": 1163,
+        "triple": {
+          "subject_id": "united_states_of_america_government",
+          "predicate_norm": "has head",
+          "object_text": "Donald Trump",
+          "confidence": 0.9,
+          "subject_raw": "United States of America government",
+          "predicate_raw": "has head"
+        }
+      },
+      "score": 0.2983701415815281,
+      "created_at": "2026-07-04T05:28:57.713626-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0e17214e-8d4e-418b-8f18-fb89a750c735",
+      "memory": "Jeff Bezos is a citizen of United States of America",
+      "hash": "6ddfc20e5f080fc77ee950ac696154f8",
+      "metadata": {
+        "ordinal": 1498,
+        "triple": {
+          "subject_id": "jeff_bezos",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jeff Bezos",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.29818098823204686,
+      "created_at": "2026-07-04T05:29:14.284885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "45981b2f-e472-497a-86b7-e79a7ddaf844",
+      "memory": "The chairperson of General Motors is Mary Barra.",
+      "hash": "ef0449126de9867efaacc701b2e216bf",
+      "metadata": {
+        "ordinal": 1032,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chairperson",
+          "object_text": "Mary Barra",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.29783846673808195,
+      "created_at": "2026-07-04T05:28:53.068510-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9e2b1b28-6acc-4687-8910-8b4345c95771",
+      "memory": "The chairperson of Stanford University is Marc Tessier-Lavigne.",
+      "hash": "62f3436dd059b6e71fb338b62e00fd4d",
+      "metadata": {
+        "ordinal": 1594,
+        "triple": {
+          "subject_id": "stanford_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Marc Tessier-Lavigne",
+          "confidence": 0.95,
+          "subject_raw": "Stanford University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.29612086164112184,
+      "created_at": "2026-07-04T05:29:18.843115-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "38397840-6f50-440d-9952-12855f76f3ab",
+      "memory": "The name of the current head of state in France is Emmanuel Macron.",
+      "hash": "899d94fe8076260806103d793dac3016",
+      "metadata": {
+        "ordinal": 1181,
+        "triple": {
+          "subject_id": "current_head_of_state_in_france",
+          "predicate_norm": "be",
+          "object_text": "Emmanuel Macron",
+          "confidence": 0.95,
+          "subject_raw": "current head of state in France",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2949669540358954,
+      "created_at": "2026-07-04T05:28:59.427378-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "332a4b1f-9837-467a-b847-88a0780f928b",
+      "memory": "John L. Hennessy is employed by Stanford University.",
+      "hash": "5aedc0bd4372fdc4e7d70ce9d83bfb16",
+      "metadata": {
+        "ordinal": 794,
+        "triple": {
+          "subject_id": "john_l._hennessy",
+          "predicate_norm": "be employed by",
+          "object_text": "Stanford University",
+          "confidence": 0.95,
+          "subject_raw": "John L. Hennessy",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2890731739496191,
+      "created_at": "2026-07-04T05:28:42.128670-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cf09fc92-86be-46cf-b2b6-77335015e2da",
+      "memory": "The headquarters of Microsoft is located in the city of Beverly Hills.",
+      "hash": "9428d57b73cb243eda7e35294f7f63c8",
+      "metadata": {
+        "ordinal": 655,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Beverly Hills",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.28780021800934785,
+      "created_at": "2026-07-04T05:28:36.274165-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d537302c-5675-4935-968a-107deecb80dc",
+      "memory": "The director of Lucasfilm is Kathleen Kennedy",
+      "hash": "c52682acfa742da5ed4d545198631a8a",
+      "metadata": {
+        "ordinal": 569,
+        "triple": {
+          "subject_id": "lucasfilm",
+          "predicate_norm": "has director",
+          "object_text": "Kathleen Kennedy",
+          "confidence": 0.95,
+          "subject_raw": "Lucasfilm",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.28684086443621193,
+      "created_at": "2026-07-04T05:28:30.610077-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "60e64c4e-be59-4873-a086-2ca7aa7caad2",
+      "memory": "The chairperson of Harvard University is Peter Diamandis.",
+      "hash": "fe108ae7ab8f684d55004c1cf4072a95",
+      "metadata": {
+        "ordinal": 280,
+        "triple": {
+          "subject_id": "harvard_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Diamandis",
+          "confidence": 0.95,
+          "subject_raw": "Harvard University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.28625237840671314,
+      "created_at": "2026-07-04T05:28:20.857927-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "afd66a3f-8907-4bc7-b431-f55cd33a6174",
+      "memory": "NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.",
+      "hash": "0290215c845d515245c796a58fc66132",
+      "metadata": {
+        "ordinal": 1180,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Mikhail Khodorkovsky",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2852197390091878,
+      "created_at": "2026-07-04T05:28:59.425613-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3549d48-ea20-4ac7-9819-fb4511655c86",
+      "memory": "The name of the current head of the United States of America government is Ole Johan Vierdal.",
+      "hash": "b2a5658919dd36eb0433beb1b44e0f60",
+      "metadata": {
+        "ordinal": 1921,
+        "triple": {
+          "subject_id": "the_current_head_of_the_united_states_of_america_government",
+          "predicate_norm": "be",
+          "object_text": "Ole Johan Vierdal",
+          "confidence": 0.95,
+          "subject_raw": "the current head of the United States of America government",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2844959074331486,
+      "created_at": "2026-07-04T05:29:33.154365-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4f132f77-69e2-45bb-8b45-6de5c8725360",
+      "memory": "The chairperson of Yale University is Peter Salovey.",
+      "hash": "3cabd7673526cae1bf3078d30fe42432",
+      "metadata": {
+        "ordinal": 930,
+        "triple": {
+          "subject_id": "yale_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Salovey",
+          "confidence": 0.95,
+          "subject_raw": "Yale University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.28185430906082554,
+      "created_at": "2026-07-04T05:28:47.721429-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1f0148cc-b831-4bc5-ac08-ca4e58fd5a9f",
+      "memory": "Ward Kimball is employed by Google.",
+      "hash": "53024678bac03de89c7ab95e8be82254",
+      "metadata": {
+        "ordinal": 1365,
+        "triple": {
+          "subject_id": "ward_kimball",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Ward Kimball",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2776956022985879,
+      "created_at": "2026-07-04T05:29:08.327952-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8fa6720c-1f3c-4e17-835d-5bac6266117d",
+      "memory": "The director of NetherRealm Studios is Ed Boon.",
+      "hash": "b260be46a5ce223c181b8d396c46ce21",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "netherrealm_studios",
+          "predicate_norm": "has director",
+          "object_text": "Ed Boon",
+          "confidence": 0.95,
+          "subject_raw": "NetherRealm Studios",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2756412034914847,
+      "created_at": "2026-07-04T05:28:22.072350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d58ca28a-a543-4684-ae3d-ad2f32b60ae8",
+      "memory": "The name of the current head of state in Iceland is Anusuiya Uikey.",
+      "hash": "9977bfdabfe5b1e830458631d914e635",
+      "metadata": {
+        "ordinal": 1924,
+        "triple": {
+          "subject_id": "the_current_head_of_state_in_iceland",
+          "predicate_norm": "be",
+          "object_text": "Anusuiya Uikey",
+          "confidence": 0.95,
+          "subject_raw": "the current head of state in Iceland",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2745085932041935,
+      "created_at": "2026-07-04T05:29:33.158432-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c6d3b228-90a8-485a-a00e-ee59fa7dbb61",
+      "memory": "The Governor of Hawaii is David Ige.",
+      "hash": "8989216cf5f640249169f7dc606221f6",
+      "metadata": {
+        "ordinal": 1148,
+        "triple": {
+          "subject_id": "hawaii",
+          "predicate_norm": "has governor",
+          "object_text": "David Ige",
+          "confidence": 0.95,
+          "subject_raw": "Hawaii",
+          "predicate_raw": "has Governor"
+        }
+      },
+      "score": 0.2734360375451133,
+      "created_at": "2026-07-04T05:28:57.692780-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6ca85817-b212-4820-976d-5e350bea27e9",
+      "memory": "QuickTime was developed by Valve Corporation.",
+      "hash": "1c78b7f14bbf9fffd8e0d1b49ebfdfb7",
+      "metadata": {
+        "ordinal": 2292,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2718795317124454,
+      "created_at": "2026-07-04T05:29:50.037131-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "490123b5-79db-450e-834e-e5e7023a8ea9",
+      "memory": "The author of Unix philosophy is Ken Thompson.",
+      "hash": "4d7a0ddf91c7d2be284ce548879f58aa",
+      "metadata": {
+        "ordinal": 1177,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Ken Thompson",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27136713042781285,
+      "created_at": "2026-07-04T05:28:59.419768-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "18fd2410-7246-4100-b72e-c1c95f956258",
+      "memory": "The name of the current head of state in United States of America is Connachta.",
+      "hash": "0c5594ccdae63dab7bb410e188bfde05",
+      "metadata": {
+        "ordinal": 1629,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has current head state named",
+          "object_text": "Connachta",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has current head of state named"
+        }
+      },
+      "score": 0.2709953774806512,
+      "created_at": "2026-07-04T05:29:20.599428-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "929c270f-75bc-4fce-a4a5-231c79e9145b",
+      "memory": "The name of the current head of state in United States of America is Donald Trump.",
+      "hash": "a790d6a7ef51e64b61403b0fd5485b6c",
+      "metadata": {
+        "ordinal": 1129,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has current head state named",
+          "object_text": "Donald Trump",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has current head of state named"
+        }
+      },
+      "score": 0.2696710067218107,
+      "created_at": "2026-07-04T05:28:56.138705-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b872e696-df40-47b2-b401-bd769e39346a",
+      "memory": "The headquarters of Airbnb is located in the city of San Francisco.",
+      "hash": "25d367e79ebeabb4bebeafd0e276ee86",
+      "metadata": {
+        "ordinal": 1906,
+        "triple": {
+          "subject_id": "airbnb",
+          "predicate_norm": "be located in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Airbnb",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2676740109273083,
+      "created_at": "2026-07-04T05:29:33.129903-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ebd45494-b42a-4836-b164-bac8734e1787",
+      "memory": "The director of The Beatles is Joe Hockey.",
+      "hash": "186409ad15320e0cbeae55a5ac1af3ee",
+      "metadata": {
+        "ordinal": 817,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "be directed by",
+          "object_text": "Joe Hockey",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "is directed by"
+        }
+      },
+      "score": 0.2667663224911973,
+      "created_at": "2026-07-04T05:28:43.619156-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5b5a60bb-0263-4824-89df-ea21c2f3c746",
+      "memory": "The name of the current head of the Norway government is Kay Ivey.",
+      "hash": "bb3ff01a678073049c5f302e72c60f97",
+      "metadata": {
+        "ordinal": 1144,
+        "triple": {
+          "subject_id": "norway_government",
+          "predicate_norm": "has head",
+          "object_text": "Kay Ivey",
+          "confidence": 0.9,
+          "subject_raw": "Norway government",
+          "predicate_raw": "has head"
+        }
+      },
+      "score": 0.26663152832735865,
+      "created_at": "2026-07-04T05:28:57.685797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "147ffc39-aeb8-4200-a7fe-98b47b18d9c6",
+      "memory": "The director of Madonna is Guy Oseary.",
+      "hash": "24227f719ea996bf9781629793cd30dc",
+      "metadata": {
+        "ordinal": 87,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "has director",
+          "object_text": "Guy Oseary",
+          "confidence": 0.95,
+          "subject_raw": "Madonna",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2664781412004584,
+      "created_at": "2026-07-04T05:28:12.640432-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2b8265a5-aff7-46db-bd82-deb4fea0d2e2",
+      "memory": "The name of the current head of state in Ireland is Michael D. Higgins.",
+      "hash": "e40e6f96dc50c9e1c5071c6a81d573f6",
+      "metadata": {
+        "ordinal": 1194,
+        "triple": {
+          "subject_id": "current_head_of_state_in_ireland",
+          "predicate_norm": "be",
+          "object_text": "Michael D. Higgins",
+          "confidence": 0.95,
+          "subject_raw": "current head of state in Ireland",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2653757676132208,
+      "created_at": "2026-07-04T05:28:59.447442-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cc849df8-de4b-41bb-9283-a2d4cb5c3c54",
+      "memory": "The chairperson of Harvard University is Lawrence S. Bacow.",
+      "hash": "6c4dec21d82c127ee42316f24dc87273",
+      "metadata": {
+        "ordinal": 147,
+        "triple": {
+          "subject_id": "harvard_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Lawrence S. Bacow",
+          "confidence": 0.95,
+          "subject_raw": "Harvard University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.26272317404458173,
+      "created_at": "2026-07-04T05:28:14.182324-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "699143d1-7968-443e-a36f-c5fe6a00af18",
+      "memory": "The company that produced Ford Zephyr is Hon Hai Precision Industry.",
+      "hash": "32fdf3924765101bd99e8236a9e0aed6",
+      "metadata": {
+        "ordinal": 1247,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "produced",
+          "object_text": "Ford Zephyr",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.26094752987423814,
+      "created_at": "2026-07-04T05:29:02.878773-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8cc5dd54-0250-4410-abff-3084b2e87fd3",
+      "memory": "The chairperson of Fatah is Moshe Kahlon.",
+      "hash": "ece255ff1de76289962cc0ae7b9b6d65",
+      "metadata": {
+        "ordinal": 1763,
+        "triple": {
+          "subject_id": "fatah",
+          "predicate_norm": "has chairperson",
+          "object_text": "Moshe Kahlon",
+          "confidence": 0.95,
+          "subject_raw": "Fatah",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.26081044709215573,
+      "created_at": "2026-07-04T05:29:26.951860-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ed170414-ed6d-4b54-b1ee-af048b27c6c9",
+      "memory": "The chairperson of Fatah is Mahmoud Abbas.",
+      "hash": "0207288bd7601e8f300c56e0383b952f",
+      "metadata": {
+        "ordinal": 1534,
+        "triple": {
+          "subject_id": "fatah",
+          "predicate_norm": "has chairperson",
+          "object_text": "Mahmoud Abbas",
+          "confidence": 0.95,
+          "subject_raw": "Fatah",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.26024850698032026,
+      "created_at": "2026-07-04T05:29:15.836040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c5ee1264-384a-4e5b-8697-48d1bc1ec9b1",
+      "memory": "The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.",
+      "hash": "19a61ad7c6058611dabff03116ac4682",
+      "metadata": {
+        "ordinal": 260,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Tony Hall, Baron Hall of Birkenhead",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.25831100614487046,
+      "created_at": "2026-07-04T05:28:19.404963-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "10bb697a-daa3-4425-bca2-d6cec2ec32f6",
+      "memory": "The headquarters of Sony Interactive Entertainment is located in the city of San Jose.",
+      "hash": "8ded20d54890bed692124107f581954b",
+      "metadata": {
+        "ordinal": 1542,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of San Jose",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.2578981776819606,
+      "created_at": "2026-07-04T05:29:15.846831-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f8749065-20df-4137-a5b6-fbebbbd1d73f",
+      "memory": "Hon Hai Precision Industry was founded by Terry Gou.",
+      "hash": "54714d3af93d16a094c0cee222da8552",
+      "metadata": {
+        "ordinal": 1689,
+        "triple": {
+          "subject_id": "terry_gou",
+          "predicate_norm": "founded",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Terry Gou",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.2563581542997898,
+      "created_at": "2026-07-04T05:29:23.682193-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The chief executive officer of Apple Inc. is Tim Cook.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- The chief executive officer of NeXT Computer, Inc. is Steve Jobs.\n- Tim Cook is a citizen of United States of America.\n- The company that produced Apple TV is Apple Inc.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- The chief executive officer of Electronic Arts is Elon Musk.\n- Steve Jobs is a citizen of South Korea.\n- The chief executive officer of Twitter is Jack Dorsey\n- The chief executive officer of Twitter is Bernard Arnault.\n- The chief executive officer of Boeing is Adel al-Jubeir.\n- The director of American Broadcasting Company is Bob Iger.\n- The chief executive officer of Netflix is Neil Aspinall\n- The chief executive officer of General Motors is Marc Benioff.\n- Apple DOS was developed by Apple Inc.\n- Steve Jobs was born in the city of Kraków\n- The chief executive officer of Toshiba is Nobuaki Kurumatani\n- The chairperson of Hon Hai Precision Industry is Talia Sasson.\n- The chief executive officer of ABB Group is Bernard Arnault.\n- The chief executive officer of Panasonic Corporation is Satya Nadella.\n- iOS 9 was developed by Apple Inc.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The chief executive officer of Valve Corporation is Mukesh Ambani\n- The chief executive officer of Sony Interactive Entertainment is Helle Thorning-Schmidt.\n- The chief executive officer of WWE is Vince McMahon\n- GarageBand was developed by Apple Inc.\n- The chief executive officer of Dassault Aviation is Charles G. Koch.\n- The chief executive officer of Lockheed Martin is Marillyn Hewson.\n- PowerBook G4 was developed by Apple Inc.\n- iOS 9 was developed by NeXT Computer, Inc.\n- AppleScript was developed by Apple Inc.\n- The chief executive officer of Aston Martin Lagonda is Andy Palmer.\n- Bob Iger is a citizen of United States of America.\n- iPad Mini was developed by Microsoft.\n- iOS 7 was developed by Sony Interactive Entertainment.\n- iPod was developed by Google.\n- The director of Blizzard Entertainment is Eben Moglen.\n- The chief executive officer of Telmex is Armin Veh.\n- Jack Dorsey is a citizen of United States of America.\n- Nintendo was founded by Fusajiro Yamauchi.\n- Shigeru Miyamoto is employed by University of Oxford.\n- PowerBook G4 was developed by Microsoft.\n- Epic Games was founded by Tim Sweeney.\n- The director of The Beatles is Brian Epstein.\n- The name of the current head of the United States of America government is Donald Trump.\n- Jeff Bezos is a citizen of United States of America\n- The chairperson of General Motors is Mary Barra.\n- The chairperson of Stanford University is Marc Tessier-Lavigne.\n- The name of the current head of state in France is Emmanuel Macron.\n- John L. Hennessy is employed by Stanford University.\n- The headquarters of Microsoft is located in the city of Beverly Hills.\n- The director of Lucasfilm is Kathleen Kennedy\n- The chairperson of Harvard University is Peter Diamandis.\n- NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.\n- The name of the current head of the United States of America government is Ole Johan Vierdal.\n- The chairperson of Yale University is Peter Salovey.\n- Ward Kimball is employed by Google.\n- The director of NetherRealm Studios is Ed Boon.\n- The name of the current head of state in Iceland is Anusuiya Uikey.\n- The Governor of Hawaii is David Ige.\n- QuickTime was developed by Valve Corporation.\n- The author of Unix philosophy is Ken Thompson.\n- The name of the current head of state in United States of America is Connachta.\n- The headquarters of Airbnb is located in the city of San Francisco.\n- The director of The Beatles is Joe Hockey.\n- The name of the current head of the Norway government is Kay Ivey.\n- The director of Madonna is Guy Oseary.\n- The name of the current head of state in Ireland is Michael D. Higgins.\n- The company that produced Ford Zephyr is Hon Hai Precision Industry.\n- The chairperson of Fatah is Moshe Kahlon.\n- The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.\n- The headquarters of Sony Interactive Entertainment is located in the city of San Jose.\n- Hon Hai Precision Industry was founded by Terry Gou.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The chief executive officer of Apple Inc. is Tim Cook.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- The chief executive officer of NeXT Computer, Inc. is Steve Jobs.\n- Tim Cook is a citizen of United States of America.\n- The company that produced Apple TV is Apple Inc.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- The chief executive officer of Electronic Arts is Elon Musk.\n- Steve Jobs is a citizen of South Korea.\n- The chief executive officer of Twitter is Jack Dorsey\n- The chief executive officer of Twitter is Bernard Arnault.\n- The chief executive officer of Boeing is Adel al-Jubeir.\n- The director of American Broadcasting Company is Bob Iger.\n- The chief executive officer of Netflix is Neil Aspinall\n- The chief executive officer of General Motors is Marc Benioff.\n- Apple DOS was developed by Apple Inc.\n- Steve Jobs was born in the city of Kraków\n- The chief executive officer of Toshiba is Nobuaki Kurumatani\n- The chairperson of Hon Hai Precision Industry is Talia Sasson.\n- The chief executive officer of ABB Group is Bernard Arnault.\n- The chief executive officer of Panasonic Corporation is Satya Nadella.\n- iOS 9 was developed by Apple Inc.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The chief executive officer of Valve Corporation is Mukesh Ambani\n- The chief executive officer of Sony Interactive Entertainment is Helle Thorning-Schmidt.\n- The chief executive officer of WWE is Vince McMahon\n- GarageBand was developed by Apple Inc.\n- The chief executive officer of Dassault Aviation is Charles G. Koch.\n- The chief executive officer of Lockheed Martin is Marillyn Hewson.\n- PowerBook G4 was developed by Apple Inc.\n- iOS 9 was developed by NeXT Computer, Inc.\n- AppleScript was developed by Apple Inc.\n- The chief executive officer of Aston Martin Lagonda is Andy Palmer.\n- Bob Iger is a citizen of United States of America.\n- iPad Mini was developed by Microsoft.\n- iOS 7 was developed by Sony Interactive Entertainment.\n- iPod was developed by Google.\n- The director of Blizzard Entertainment is Eben Moglen.\n- The chief executive officer of Telmex is Armin Veh.\n- Jack Dorsey is a citizen of United States of America.\n- Nintendo was founded by Fusajiro Yamauchi.\n- Shigeru Miyamoto is employed by University of Oxford.\n- PowerBook G4 was developed by Microsoft.\n- Epic Games was founded by Tim Sweeney.\n- The director of The Beatles is Brian Epstein.\n- The name of the current head of the United States of America government is Donald Trump.\n- Jeff Bezos is a citizen of United States of America\n- The chairperson of General Motors is Mary Barra.\n- The chairperson of Stanford University is Marc Tessier-Lavigne.\n- The name of the current head of state in France is Emmanuel Macron.\n- John L. Hennessy is employed by Stanford University.\n- The headquarters of Microsoft is located in the city of Beverly Hills.\n- The director of Lucasfilm is Kathleen Kennedy\n- The chairperson of Harvard University is Peter Diamandis.\n- NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.\n- The name of the current head of the United States of America government is Ole Johan Vierdal.\n- The chairperson of Yale University is Peter Salovey.\n- Ward Kimball is employed by Google.\n- The director of NetherRealm Studios is Ed Boon.\n- The name of the current head of state in Iceland is Anusuiya Uikey.\n- The Governor of Hawaii is David Ige.\n- QuickTime was developed by Valve Corporation.\n- The author of Unix philosophy is Ken Thompson.\n- The name of the current head of state in United States of America is Connachta.\n- The headquarters of Airbnb is located in the city of San Francisco.\n- The director of The Beatles is Joe Hockey.\n- The name of the current head of the Norway government is Kay Ivey.\n- The director of Madonna is Guy Oseary.\n- The name of the current head of state in Ireland is Michael D. Higgins.\n- The company that produced Ford Zephyr is Hon Hai Precision Industry.\n- The chairperson of Fatah is Moshe Kahlon.\n- The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.\n- The headquarters of Sony Interactive Entertainment is located in the city of San Jose.\n- Hon Hai Precision Industry was founded by Terry Gou.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Who is the chief executive officer of Apple Inc.? \nAnswer:\n\nCurrent Time: 2026-07-04 20:33:54",
+  "response": "Answer: Vijay Mallya",
+  "prompt_tokens": 1165,
+  "completion_tokens": 6,
+  "resolved_pool": [
+    {
+      "id": "8594fb7f-dc31-4f26-90d7-f0ea4a3642ab",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook.",
+      "hash": "dbc052624c7f319f53db7ee009d2c1ae",
+      "metadata": {
+        "ordinal": 609,
+        "triple": {
+          "subject_id": "the_chief_executive_officer_of_apple_inc.",
+          "predicate_norm": "be",
+          "object_text": "Tim Cook",
+          "confidence": 0.85,
+          "subject_raw": "the chief executive officer of Apple Inc.",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.8153981498649459,
+      "created_at": "2026-07-04T05:28:32.261997-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7c30bab1-08fc-4332-b593-1d268c8ecc71",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 975,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.676321511169022,
+      "created_at": "2026-07-04T05:28:49.882548-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b1eee487-8a3d-492c-82e3-d6e3ad58f2aa",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 1087,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.9,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.6740534751746085,
+      "created_at": "2026-07-04T05:28:54.566112-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "40fcb371-d68d-4985-8445-6dfb597b7092",
+      "memory": "The chief executive officer of NeXT Computer, Inc. is Steve Jobs.",
+      "hash": "0f478e33829403e529c7082a583e6ec3",
+      "metadata": {
+        "ordinal": 1578,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.6593898578519846,
+      "created_at": "2026-07-04T05:29:17.510334-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "706acfce-354a-4747-b302-345637ee2b74",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 1061,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.6041760485545671,
+      "created_at": "2026-07-04T05:28:54.511426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f24b8ec0-7702-45d2-9f58-6e9bbc5dff06",
+      "memory": "The company that produced Apple TV is Apple Inc.",
+      "hash": "15d14e12ff1e633af94f673f61e5be5d",
+      "metadata": {
+        "ordinal": 857,
+        "triple": {
+          "subject_id": "apple_tv",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple TV",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5494735471038429,
+      "created_at": "2026-07-04T05:28:44.728596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "80afd8e7-174b-4ed2-953f-9fa4c55e5d24",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.5113261204899516,
+      "created_at": "2026-07-04T05:28:29.095890-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1537eeb0-a2ba-43c0-98a6-378fe9ce23c8",
+      "memory": "The chief executive officer of Electronic Arts is Elon Musk.",
+      "hash": "fafd6851be7e6aaeef6a5504dcfa3a3c",
+      "metadata": {
+        "ordinal": 2278,
+        "triple": {
+          "subject_id": "electronic_arts",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Elon Musk",
+          "confidence": 0.95,
+          "subject_raw": "Electronic Arts",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.5104342186635601,
+      "created_at": "2026-07-04T05:29:50.011022-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0c36cafd-32ea-423d-9685-d3f2c6f902f5",
+      "memory": "Steve Jobs is a citizen of South Korea.",
+      "hash": "e26833b59eeb6f1419827423194cbca0",
+      "metadata": {
+        "ordinal": 1413,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "South Korea",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4974944263197319,
+      "created_at": "2026-07-04T05:29:11.205238-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e9d2b48f-d53b-44a7-ac35-250fad21bb78",
+      "memory": "The chief executive officer of Twitter is Jack Dorsey",
+      "hash": "5b61ea8072be17e062674c8d96e6df92",
+      "metadata": {
+        "ordinal": 46,
+        "triple": {
+          "subject_id": "jack_dorsey",
+          "predicate_norm": "be chief executive officer",
+          "object_text": "Twitter",
+          "confidence": 0.95,
+          "subject_raw": "Jack Dorsey",
+          "predicate_raw": "is the chief executive officer of"
+        }
+      },
+      "score": 0.4928482258942485,
+      "created_at": "2026-07-04T05:28:11.122160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c7aaac86-3b40-4bbe-aed5-706b6a1e7045",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 1070,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.9,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.45954736907085253,
+      "created_at": "2026-07-04T05:28:54.538412-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2a076054-1148-416a-83cc-31042b4bdc6c",
+      "memory": "The chief executive officer of Boeing is Adel al-Jubeir.",
+      "hash": "3461ec9eeb79964baa953b0553df3b5c",
+      "metadata": {
+        "ordinal": 1975,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Adel al-Jubeir",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.44422145303669536,
+      "created_at": "2026-07-04T05:29:36.079635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2ee9a1c1-3c56-4194-a9aa-3deadc69ea40",
+      "memory": "The director of American Broadcasting Company is Bob Iger.",
+      "hash": "28778bc2e181d52cd500d67f7fe89970",
+      "metadata": {
+        "ordinal": 1216,
+        "triple": {
+          "subject_id": "the_director_of_american_broadcasting_company",
+          "predicate_norm": "be",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "the director of American Broadcasting Company",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.4414454142265284,
+      "created_at": "2026-07-04T05:29:00.968179-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0c2c22be-e237-4f06-aa32-0ff1c8fb1581",
+      "memory": "The chief executive officer of Netflix is Neil Aspinall",
+      "hash": "7ea784f1bf4f5f48255420651f82d178",
+      "metadata": {
+        "ordinal": 550,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Neil Aspinall",
+          "confidence": 0.9,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4390008378452206,
+      "created_at": "2026-07-04T05:28:30.584732-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "57b1b229-07c5-4eaa-83a2-af75e3e48cdf",
+      "memory": "The chief executive officer of General Motors is Marc Benioff.",
+      "hash": "9bb13dc38b7c3a7255d4e53251ff8ab5",
+      "metadata": {
+        "ordinal": 2257,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marc Benioff",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4374979451387195,
+      "created_at": "2026-07-04T05:29:48.453991-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3fb66056-1548-4834-a11b-92c6e4b29f2b",
+      "memory": "Apple DOS was developed by Apple Inc.",
+      "hash": "2051aa2ddd9d54f65697b90c4b6603d4",
+      "metadata": {
+        "ordinal": 774,
+        "triple": {
+          "subject_id": "apple_dos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple DOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4342528869538879,
+      "created_at": "2026-07-04T05:28:42.099486-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "11bf2fc4-a61a-4f1e-9c16-f4b9ee989712",
+      "memory": "Steve Jobs was born in the city of Kraków",
+      "hash": "ec1bdcd69ef74106fd95557bde470105",
+      "metadata": {
+        "ordinal": 568,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Kraków",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.4315821355751627,
+      "created_at": "2026-07-04T05:28:30.608861-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "386b4118-c8d4-45a7-9483-e33e904fc1ef",
+      "memory": "The chief executive officer of Toshiba is Nobuaki Kurumatani",
+      "hash": "eab78d061565f6c3b9a08688c24d974a",
+      "metadata": {
+        "ordinal": 1501,
+        "triple": {
+          "subject_id": "toshiba",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Nobuaki Kurumatani",
+          "confidence": 0.95,
+          "subject_raw": "Toshiba",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.43116463489867374,
+      "created_at": "2026-07-04T05:29:14.288896-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "877a27aa-0f35-40ca-800c-a2bc77ae4536",
+      "memory": "The chairperson of Hon Hai Precision Industry is Talia Sasson.",
+      "hash": "d61ee7c4f57979a51c5619de12412a57",
+      "metadata": {
+        "ordinal": 2259,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Talia Sasson",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.43034408856504147,
+      "created_at": "2026-07-04T05:29:48.457215-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c4fc6577-fded-48ce-96a2-7c479787dc6f",
+      "memory": "The chief executive officer of ABB Group is Bernard Arnault.",
+      "hash": "7ce66f1ad34acd1d0596dca6554a6d14",
+      "metadata": {
+        "ordinal": 2103,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.9,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4291347637305225,
+      "created_at": "2026-07-04T05:29:40.687083-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bb67f7eb-7328-4b52-a89e-2aa05de9a5e9",
+      "memory": "The chief executive officer of Panasonic Corporation is Satya Nadella.",
+      "hash": "d01ef6d4828234fbf3bbd57af34c6ae2",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4276732853422499,
+      "created_at": "2026-07-04T05:28:14.177511-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "780e7457-a2d3-4711-890a-b4956d047f40",
+      "memory": "iOS 9 was developed by Apple Inc.",
+      "hash": "8c73c48af3ad26ba19f52407f0a5c25e",
+      "metadata": {
+        "ordinal": 889,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "developed",
+          "object_text": "iOS 9",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "developed"
+        }
+      },
+      "score": 0.4242114447479952,
+      "created_at": "2026-07-04T05:28:46.191696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f54ddc0a-104e-4322-9f21-da56861b9d39",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 2080,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.9,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.419219116855214,
+      "created_at": "2026-07-04T05:29:40.654374-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "73523baf-9ad8-4c39-92b3-6d133c7b11a1",
+      "memory": "The chief executive officer of Valve Corporation is Mukesh Ambani",
+      "hash": "175709d202b84c3a9959c047d50fc24a",
+      "metadata": {
+        "ordinal": 549,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mukesh Ambani",
+          "confidence": 0.9,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.41447929807351397,
+      "created_at": "2026-07-04T05:28:30.583282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9834dca4-0706-4a26-98a2-17e76011649d",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Helle Thorning-Schmidt.",
+      "hash": "1282ef64e8265aec884491b6c513af1f",
+      "metadata": {
+        "ordinal": 1343,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Helle Thorning-Schmidt",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4105753664401643,
+      "created_at": "2026-07-04T05:29:08.290267-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3aeac2e2-dd95-47f9-8676-9e90c621690a",
+      "memory": "The chief executive officer of WWE is Vince McMahon",
+      "hash": "7de5d83f590781f1959724ea0995a4e5",
+      "metadata": {
+        "ordinal": 59,
+        "triple": {
+          "subject_id": "vince_mcmahon",
+          "predicate_norm": "be chief executive officer",
+          "object_text": "WWE",
+          "confidence": 0.95,
+          "subject_raw": "Vince McMahon",
+          "predicate_raw": "is the chief executive officer of"
+        }
+      },
+      "score": 0.40995996903687315,
+      "created_at": "2026-07-04T05:28:11.145723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "db754b75-e343-434a-8a98-a0289e774d05",
+      "memory": "GarageBand was developed by Apple Inc.",
+      "hash": "9bd8cd96e1b9ae4c7a20e6e637e41ded",
+      "metadata": {
+        "ordinal": 407,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.39576426900621725,
+      "created_at": "2026-07-04T05:28:24.672146-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1b7feb8a-9bb1-4955-9e26-338451021ebf",
+      "memory": "The chief executive officer of Dassault Aviation is Charles G. Koch.",
+      "hash": "78be7ed2e194e3f7de43b6c75af5731d",
+      "metadata": {
+        "ordinal": 2026,
+        "triple": {
+          "subject_id": "dassault_aviation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Charles G. Koch",
+          "confidence": 0.95,
+          "subject_raw": "Dassault Aviation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.39325588841210934,
+      "created_at": "2026-07-04T05:29:37.224037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8c3da0f2-10d3-42f5-b719-ef165b69744e",
+      "memory": "The chief executive officer of Lockheed Martin is Marillyn Hewson.",
+      "hash": "5e0997ea3c724be878f6b6cbed5f6b9c",
+      "metadata": {
+        "ordinal": 1790,
+        "triple": {
+          "subject_id": "lockheed_martin",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marillyn Hewson",
+          "confidence": 0.95,
+          "subject_raw": "Lockheed Martin",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3876329836025654,
+      "created_at": "2026-07-04T05:29:28.393036-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "24fc8a30-bbab-4d23-9ab6-7abd9547a3e2",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 1521,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.38209706517611025,
+      "created_at": "2026-07-04T05:29:15.812059-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "35ebbffa-390e-42b5-a84b-0bd2b052b431",
+      "memory": "iOS 9 was developed by NeXT Computer, Inc.",
+      "hash": "a5dde5d7b2ae8898a90370c7d164249d",
+      "metadata": {
+        "ordinal": 2266,
+        "triple": {
+          "subject_id": "ios_9",
+          "predicate_norm": "be developed by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 9",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3787578293201688,
+      "created_at": "2026-07-04T05:29:48.467495-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c8ec9212-9f09-4a42-bcce-11def163194b",
+      "memory": "AppleScript was developed by Apple Inc.",
+      "hash": "30c9adb24d77e6e89e56cadb93ef21de",
+      "metadata": {
+        "ordinal": 1433,
+        "triple": {
+          "subject_id": "applescript",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "AppleScript",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3711621357635637,
+      "created_at": "2026-07-04T05:29:11.237720-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "255026b4-0b4a-4472-9d02-2bfd84472c6a",
+      "memory": "The chief executive officer of Aston Martin Lagonda is Andy Palmer.",
+      "hash": "972c6ef6940332600e61a6c6590508c8",
+      "metadata": {
+        "ordinal": 665,
+        "triple": {
+          "subject_id": "aston_martin_lagonda",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andy Palmer",
+          "confidence": 0.95,
+          "subject_raw": "Aston Martin Lagonda",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.36557293792290313,
+      "created_at": "2026-07-04T05:28:36.295173-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6efbb71a-765b-4a67-b0d3-23e14c29356e",
+      "memory": "Bob Iger is a citizen of United States of America.",
+      "hash": "21513edbb39a1bd0152fd25760adae14",
+      "metadata": {
+        "ordinal": 1533,
+        "triple": {
+          "subject_id": "bob_iger",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Bob Iger",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3571392353880868,
+      "created_at": "2026-07-04T05:29:15.834529-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6e5e7b64-4ba5-4ee8-a687-73f6ce7898cd",
+      "memory": "iPad Mini was developed by Microsoft.",
+      "hash": "ca7b4127ba8304722c07c683933be2ee",
+      "metadata": {
+        "ordinal": 1611,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3527053788684196,
+      "created_at": "2026-07-04T05:29:18.869854-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ff2d10fd-9260-4cfb-83b4-4e09785d39f9",
+      "memory": "iOS 7 was developed by Sony Interactive Entertainment.",
+      "hash": "ed5f88912e62f23dcb8e193ed008fe6f",
+      "metadata": {
+        "ordinal": 959,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.33872935033090756,
+      "created_at": "2026-07-04T05:28:49.850940-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "694bfcb3-096a-4f63-aeb1-9656c9e8429f",
+      "memory": "iPod was developed by Google.",
+      "hash": "6971b67d7092b2c23f612658118aee31",
+      "metadata": {
+        "ordinal": 1089,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3348893593076696,
+      "created_at": "2026-07-04T05:28:54.569988-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "71ccb989-603b-40d3-bd7f-45d73adde33d",
+      "memory": "The director of Blizzard Entertainment is Eben Moglen.",
+      "hash": "210e869c71ad664b14049987f2579581",
+      "metadata": {
+        "ordinal": 1856,
+        "triple": {
+          "subject_id": "blizzard_entertainment",
+          "predicate_norm": "has director",
+          "object_text": "Eben Moglen",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard Entertainment",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.3302195915494084,
+      "created_at": "2026-07-04T05:29:29.966524-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b39705b6-2cb2-415a-9fb6-a4e09590e727",
+      "memory": "The chief executive officer of Telmex is Armin Veh.",
+      "hash": "cd3879aed9875e8ad62c3440666b1171",
+      "metadata": {
+        "ordinal": 1463,
+        "triple": {
+          "subject_id": "telmex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Armin Veh",
+          "confidence": 0.95,
+          "subject_raw": "Telmex",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32542497771332396,
+      "created_at": "2026-07-04T05:29:12.760138-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "75740edb-1037-4203-8164-e19f88499dcd",
+      "memory": "Jack Dorsey is a citizen of United States of America.",
+      "hash": "41b18e7c7d7f9f0a8a4c71537bce7b2a",
+      "metadata": {
+        "ordinal": 690,
+        "triple": {
+          "subject_id": "jack_dorsey",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jack Dorsey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3209928745825491,
+      "created_at": "2026-07-04T05:28:38.386082-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "473b2639-2734-456a-9216-7dcd93ca35b4",
+      "memory": "Nintendo was founded by Fusajiro Yamauchi.",
+      "hash": "6894c0616189587c762477db42ae5f44",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "nintendo",
+          "predicate_norm": "be founded by",
+          "object_text": "Fusajiro Yamauchi",
+          "confidence": 0.95,
+          "subject_raw": "Nintendo",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.312106156769288,
+      "created_at": "2026-07-04T05:28:12.647370-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "379187a1-b8fb-4dd3-b685-ea62189cd597",
+      "memory": "Shigeru Miyamoto is employed by University of Oxford.",
+      "hash": "9a4cc3c99ba35a09bd6704d1d651e51d",
+      "metadata": {
+        "ordinal": 2109,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.30667969943977824,
+      "created_at": "2026-07-04T05:29:42.573496-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2253e154-ceb0-471e-b3a6-d0714f3c1c17",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 1687,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.3043759750363222,
+      "created_at": "2026-07-04T05:29:23.674147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9b976d04-2af1-46d4-abee-088fd3090f95",
+      "memory": "Epic Games was founded by Tim Sweeney.",
+      "hash": "bc2441844a2e06fdf23177fe5217d31c",
+      "metadata": {
+        "ordinal": 1202,
+        "triple": {
+          "subject_id": "epic_games",
+          "predicate_norm": "be founded by",
+          "object_text": "Tim Sweeney",
+          "confidence": 0.95,
+          "subject_raw": "Epic Games",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3043138844647106,
+      "created_at": "2026-07-04T05:29:00.937757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c43e07e8-f4f6-4bfe-8da4-bc0520b001d0",
+      "memory": "The director of The Beatles is Brian Epstein.",
+      "hash": "7a4cb58c0864c899242dda642316b85f",
+      "metadata": {
+        "ordinal": 231,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "has director",
+          "object_text": "Brian Epstein",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.299794464260658,
+      "created_at": "2026-07-04T05:28:19.342600-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ee75aa29-786b-4ce0-b393-a259a80343fe",
+      "memory": "The name of the current head of the United States of America government is Donald Trump.",
+      "hash": "a8fe3ca3f4e9b5ad8a4a9a809552868f",
+      "metadata": {
+        "ordinal": 1163,
+        "triple": {
+          "subject_id": "united_states_of_america_government",
+          "predicate_norm": "has head",
+          "object_text": "Donald Trump",
+          "confidence": 0.9,
+          "subject_raw": "United States of America government",
+          "predicate_raw": "has head"
+        }
+      },
+      "score": 0.2983701415815281,
+      "created_at": "2026-07-04T05:28:57.713626-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0e17214e-8d4e-418b-8f18-fb89a750c735",
+      "memory": "Jeff Bezos is a citizen of United States of America",
+      "hash": "6ddfc20e5f080fc77ee950ac696154f8",
+      "metadata": {
+        "ordinal": 1498,
+        "triple": {
+          "subject_id": "jeff_bezos",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jeff Bezos",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.29818098823204686,
+      "created_at": "2026-07-04T05:29:14.284885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "45981b2f-e472-497a-86b7-e79a7ddaf844",
+      "memory": "The chairperson of General Motors is Mary Barra.",
+      "hash": "ef0449126de9867efaacc701b2e216bf",
+      "metadata": {
+        "ordinal": 1032,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chairperson",
+          "object_text": "Mary Barra",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.29783846673808195,
+      "created_at": "2026-07-04T05:28:53.068510-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9e2b1b28-6acc-4687-8910-8b4345c95771",
+      "memory": "The chairperson of Stanford University is Marc Tessier-Lavigne.",
+      "hash": "62f3436dd059b6e71fb338b62e00fd4d",
+      "metadata": {
+        "ordinal": 1594,
+        "triple": {
+          "subject_id": "stanford_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Marc Tessier-Lavigne",
+          "confidence": 0.95,
+          "subject_raw": "Stanford University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.29612086164112184,
+      "created_at": "2026-07-04T05:29:18.843115-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "38397840-6f50-440d-9952-12855f76f3ab",
+      "memory": "The name of the current head of state in France is Emmanuel Macron.",
+      "hash": "899d94fe8076260806103d793dac3016",
+      "metadata": {
+        "ordinal": 1181,
+        "triple": {
+          "subject_id": "current_head_of_state_in_france",
+          "predicate_norm": "be",
+          "object_text": "Emmanuel Macron",
+          "confidence": 0.95,
+          "subject_raw": "current head of state in France",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2949669540358954,
+      "created_at": "2026-07-04T05:28:59.427378-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "332a4b1f-9837-467a-b847-88a0780f928b",
+      "memory": "John L. Hennessy is employed by Stanford University.",
+      "hash": "5aedc0bd4372fdc4e7d70ce9d83bfb16",
+      "metadata": {
+        "ordinal": 794,
+        "triple": {
+          "subject_id": "john_l._hennessy",
+          "predicate_norm": "be employed by",
+          "object_text": "Stanford University",
+          "confidence": 0.95,
+          "subject_raw": "John L. Hennessy",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2890731739496191,
+      "created_at": "2026-07-04T05:28:42.128670-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cf09fc92-86be-46cf-b2b6-77335015e2da",
+      "memory": "The headquarters of Microsoft is located in the city of Beverly Hills.",
+      "hash": "9428d57b73cb243eda7e35294f7f63c8",
+      "metadata": {
+        "ordinal": 655,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Beverly Hills",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.28780021800934785,
+      "created_at": "2026-07-04T05:28:36.274165-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d537302c-5675-4935-968a-107deecb80dc",
+      "memory": "The director of Lucasfilm is Kathleen Kennedy",
+      "hash": "c52682acfa742da5ed4d545198631a8a",
+      "metadata": {
+        "ordinal": 569,
+        "triple": {
+          "subject_id": "lucasfilm",
+          "predicate_norm": "has director",
+          "object_text": "Kathleen Kennedy",
+          "confidence": 0.95,
+          "subject_raw": "Lucasfilm",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.28684086443621193,
+      "created_at": "2026-07-04T05:28:30.610077-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "60e64c4e-be59-4873-a086-2ca7aa7caad2",
+      "memory": "The chairperson of Harvard University is Peter Diamandis.",
+      "hash": "fe108ae7ab8f684d55004c1cf4072a95",
+      "metadata": {
+        "ordinal": 280,
+        "triple": {
+          "subject_id": "harvard_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Diamandis",
+          "confidence": 0.95,
+          "subject_raw": "Harvard University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.28625237840671314,
+      "created_at": "2026-07-04T05:28:20.857927-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "afd66a3f-8907-4bc7-b431-f55cd33a6174",
+      "memory": "NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.",
+      "hash": "0290215c845d515245c796a58fc66132",
+      "metadata": {
+        "ordinal": 1180,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Mikhail Khodorkovsky",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2852197390091878,
+      "created_at": "2026-07-04T05:28:59.425613-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3549d48-ea20-4ac7-9819-fb4511655c86",
+      "memory": "The name of the current head of the United States of America government is Ole Johan Vierdal.",
+      "hash": "b2a5658919dd36eb0433beb1b44e0f60",
+      "metadata": {
+        "ordinal": 1921,
+        "triple": {
+          "subject_id": "the_current_head_of_the_united_states_of_america_government",
+          "predicate_norm": "be",
+          "object_text": "Ole Johan Vierdal",
+          "confidence": 0.95,
+          "subject_raw": "the current head of the United States of America government",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2844959074331486,
+      "created_at": "2026-07-04T05:29:33.154365-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4f132f77-69e2-45bb-8b45-6de5c8725360",
+      "memory": "The chairperson of Yale University is Peter Salovey.",
+      "hash": "3cabd7673526cae1bf3078d30fe42432",
+      "metadata": {
+        "ordinal": 930,
+        "triple": {
+          "subject_id": "yale_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Salovey",
+          "confidence": 0.95,
+          "subject_raw": "Yale University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.28185430906082554,
+      "created_at": "2026-07-04T05:28:47.721429-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1f0148cc-b831-4bc5-ac08-ca4e58fd5a9f",
+      "memory": "Ward Kimball is employed by Google.",
+      "hash": "53024678bac03de89c7ab95e8be82254",
+      "metadata": {
+        "ordinal": 1365,
+        "triple": {
+          "subject_id": "ward_kimball",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Ward Kimball",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2776956022985879,
+      "created_at": "2026-07-04T05:29:08.327952-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8fa6720c-1f3c-4e17-835d-5bac6266117d",
+      "memory": "The director of NetherRealm Studios is Ed Boon.",
+      "hash": "b260be46a5ce223c181b8d396c46ce21",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "netherrealm_studios",
+          "predicate_norm": "has director",
+          "object_text": "Ed Boon",
+          "confidence": 0.95,
+          "subject_raw": "NetherRealm Studios",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2756412034914847,
+      "created_at": "2026-07-04T05:28:22.072350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d58ca28a-a543-4684-ae3d-ad2f32b60ae8",
+      "memory": "The name of the current head of state in Iceland is Anusuiya Uikey.",
+      "hash": "9977bfdabfe5b1e830458631d914e635",
+      "metadata": {
+        "ordinal": 1924,
+        "triple": {
+          "subject_id": "the_current_head_of_state_in_iceland",
+          "predicate_norm": "be",
+          "object_text": "Anusuiya Uikey",
+          "confidence": 0.95,
+          "subject_raw": "the current head of state in Iceland",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2745085932041935,
+      "created_at": "2026-07-04T05:29:33.158432-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c6d3b228-90a8-485a-a00e-ee59fa7dbb61",
+      "memory": "The Governor of Hawaii is David Ige.",
+      "hash": "8989216cf5f640249169f7dc606221f6",
+      "metadata": {
+        "ordinal": 1148,
+        "triple": {
+          "subject_id": "hawaii",
+          "predicate_norm": "has governor",
+          "object_text": "David Ige",
+          "confidence": 0.95,
+          "subject_raw": "Hawaii",
+          "predicate_raw": "has Governor"
+        }
+      },
+      "score": 0.2734360375451133,
+      "created_at": "2026-07-04T05:28:57.692780-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6ca85817-b212-4820-976d-5e350bea27e9",
+      "memory": "QuickTime was developed by Valve Corporation.",
+      "hash": "1c78b7f14bbf9fffd8e0d1b49ebfdfb7",
+      "metadata": {
+        "ordinal": 2292,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2718795317124454,
+      "created_at": "2026-07-04T05:29:50.037131-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "490123b5-79db-450e-834e-e5e7023a8ea9",
+      "memory": "The author of Unix philosophy is Ken Thompson.",
+      "hash": "4d7a0ddf91c7d2be284ce548879f58aa",
+      "metadata": {
+        "ordinal": 1177,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Ken Thompson",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27136713042781285,
+      "created_at": "2026-07-04T05:28:59.419768-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "18fd2410-7246-4100-b72e-c1c95f956258",
+      "memory": "The name of the current head of state in United States of America is Connachta.",
+      "hash": "0c5594ccdae63dab7bb410e188bfde05",
+      "metadata": {
+        "ordinal": 1629,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has current head state named",
+          "object_text": "Connachta",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has current head of state named"
+        }
+      },
+      "score": 0.2709953774806512,
+      "created_at": "2026-07-04T05:29:20.599428-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b872e696-df40-47b2-b401-bd769e39346a",
+      "memory": "The headquarters of Airbnb is located in the city of San Francisco.",
+      "hash": "25d367e79ebeabb4bebeafd0e276ee86",
+      "metadata": {
+        "ordinal": 1906,
+        "triple": {
+          "subject_id": "airbnb",
+          "predicate_norm": "be located in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Airbnb",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2676740109273083,
+      "created_at": "2026-07-04T05:29:33.129903-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ebd45494-b42a-4836-b164-bac8734e1787",
+      "memory": "The director of The Beatles is Joe Hockey.",
+      "hash": "186409ad15320e0cbeae55a5ac1af3ee",
+      "metadata": {
+        "ordinal": 817,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "be directed by",
+          "object_text": "Joe Hockey",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "is directed by"
+        }
+      },
+      "score": 0.2667663224911973,
+      "created_at": "2026-07-04T05:28:43.619156-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5b5a60bb-0263-4824-89df-ea21c2f3c746",
+      "memory": "The name of the current head of the Norway government is Kay Ivey.",
+      "hash": "bb3ff01a678073049c5f302e72c60f97",
+      "metadata": {
+        "ordinal": 1144,
+        "triple": {
+          "subject_id": "norway_government",
+          "predicate_norm": "has head",
+          "object_text": "Kay Ivey",
+          "confidence": 0.9,
+          "subject_raw": "Norway government",
+          "predicate_raw": "has head"
+        }
+      },
+      "score": 0.26663152832735865,
+      "created_at": "2026-07-04T05:28:57.685797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "147ffc39-aeb8-4200-a7fe-98b47b18d9c6",
+      "memory": "The director of Madonna is Guy Oseary.",
+      "hash": "24227f719ea996bf9781629793cd30dc",
+      "metadata": {
+        "ordinal": 87,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "has director",
+          "object_text": "Guy Oseary",
+          "confidence": 0.95,
+          "subject_raw": "Madonna",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2664781412004584,
+      "created_at": "2026-07-04T05:28:12.640432-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2b8265a5-aff7-46db-bd82-deb4fea0d2e2",
+      "memory": "The name of the current head of state in Ireland is Michael D. Higgins.",
+      "hash": "e40e6f96dc50c9e1c5071c6a81d573f6",
+      "metadata": {
+        "ordinal": 1194,
+        "triple": {
+          "subject_id": "current_head_of_state_in_ireland",
+          "predicate_norm": "be",
+          "object_text": "Michael D. Higgins",
+          "confidence": 0.95,
+          "subject_raw": "current head of state in Ireland",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2653757676132208,
+      "created_at": "2026-07-04T05:28:59.447442-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "699143d1-7968-443e-a36f-c5fe6a00af18",
+      "memory": "The company that produced Ford Zephyr is Hon Hai Precision Industry.",
+      "hash": "32fdf3924765101bd99e8236a9e0aed6",
+      "metadata": {
+        "ordinal": 1247,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "produced",
+          "object_text": "Ford Zephyr",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.26094752987423814,
+      "created_at": "2026-07-04T05:29:02.878773-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8cc5dd54-0250-4410-abff-3084b2e87fd3",
+      "memory": "The chairperson of Fatah is Moshe Kahlon.",
+      "hash": "ece255ff1de76289962cc0ae7b9b6d65",
+      "metadata": {
+        "ordinal": 1763,
+        "triple": {
+          "subject_id": "fatah",
+          "predicate_norm": "has chairperson",
+          "object_text": "Moshe Kahlon",
+          "confidence": 0.95,
+          "subject_raw": "Fatah",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.26081044709215573,
+      "created_at": "2026-07-04T05:29:26.951860-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c5ee1264-384a-4e5b-8697-48d1bc1ec9b1",
+      "memory": "The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.",
+      "hash": "19a61ad7c6058611dabff03116ac4682",
+      "metadata": {
+        "ordinal": 260,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Tony Hall, Baron Hall of Birkenhead",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.25831100614487046,
+      "created_at": "2026-07-04T05:28:19.404963-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "10bb697a-daa3-4425-bca2-d6cec2ec32f6",
+      "memory": "The headquarters of Sony Interactive Entertainment is located in the city of San Jose.",
+      "hash": "8ded20d54890bed692124107f581954b",
+      "metadata": {
+        "ordinal": 1542,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of San Jose",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.2578981776819606,
+      "created_at": "2026-07-04T05:29:15.846831-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f8749065-20df-4137-a5b6-fbebbbd1d73f",
+      "memory": "Hon Hai Precision Industry was founded by Terry Gou.",
+      "hash": "54714d3af93d16a094c0cee222da8552",
+      "metadata": {
+        "ordinal": 1689,
+        "triple": {
+          "subject_id": "terry_gou",
+          "predicate_norm": "founded",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Terry Gou",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.2563581542997898,
+      "created_at": "2026-07-04T05:29:23.682193-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ]
+}

@@ -1,0 +1,1804 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "42cb2184-382d-4da8-9b23-e16c5c265691",
+      "memory": "User got an Air Fryer yesterday.",
+      "hash": "a8fdc09d56aca13d6c0e0ad68cf15ed5",
+      "metadata": {
+        "ordinal": 441,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "got",
+          "object_text": "an Air Fryer yesterday",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "got"
+        }
+      },
+      "score": 0.5255775354803823,
+      "created_at": "2026-07-06T10:48:35.759679-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "aef632a9-b4b5-4a95-980d-b50329e6bb4b",
+      "memory": "User is thinking of using the Air Fryer to make crispy sweet potato fries.",
+      "hash": "e2f745ab1be6dbc9e6bb4a17c0681806",
+      "metadata": {
+        "ordinal": 442,
+        "triple": null,
+        "subject_fallback": "air_fryer"
+      },
+      "score": 0.40438314080297844,
+      "created_at": "2026-07-06T10:48:35.761077-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "22ad582e-b6f9-4e36-aa7d-78deb82f1891",
+      "memory": "User has some kitchenware.",
+      "hash": "a82f4619a58876a6edd038a6beefa103",
+      "metadata": {
+        "ordinal": 199,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "some kitchenware",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.4014079550350083,
+      "created_at": "2026-07-06T10:45:23.743131-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "00fff7e9-bb6b-4f26-bed9-ebb7fd6a9de5",
+      "memory": "User is planning to make a stir-fry for dinner tonight.",
+      "hash": "012df93d17a37dff5b6973b3ba77c5f9",
+      "metadata": {
+        "ordinal": 109,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.3804253062213575,
+      "created_at": "2026-07-06T10:44:09.118335-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "859bba60-79de-4f82-b1fc-8e592486506e",
+      "memory": "User is thinking of using their new Instant Pot to make soups and stews.",
+      "hash": "678d99c71fea4e5fec18c8229ada6669",
+      "metadata": {
+        "ordinal": 189,
+        "triple": null,
+        "subject_fallback": "instant_pot"
+      },
+      "score": 0.3480087358143086,
+      "created_at": "2026-07-06T10:45:14.355950-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cf0ebcb5-0f4e-474a-855e-db5dfdfdbb67",
+      "memory": "User had a blast hanging out and chatting about everything that's been going on in their lives.",
+      "hash": "1aca244cdf77f28a7053f0d304721598",
+      "metadata": {
+        "ordinal": 304,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.33948429584092293,
+      "created_at": "2026-07-06T10:45:53.992046-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1c29e259-814b-45ff-b839-27c666114635",
+      "memory": "User spent the afternoon preparing for the Flea Market on May 21, 2023, cleaning and pricing around 20 items.",
+      "hash": "3dbb8aeddfe5a5da569d59735111a1ef",
+      "metadata": {
+        "ordinal": 197,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent afternoon preparing for",
+          "object_text": "the Flea Market on May 21, 2023, cleaning and pricing around 20 items",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "spent the afternoon preparing for"
+        }
+      },
+      "score": 0.32032367540845835,
+      "created_at": "2026-07-06T10:45:23.731871-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "29784317-f9da-41cd-aedb-63180f497af4",
+      "memory": "User is trying to plan their meals for the week.",
+      "hash": "558d3f25272dc60c021e85f8e20b0b5e",
+      "metadata": {
+        "ordinal": 188,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.313721640984359,
+      "created_at": "2026-07-06T10:45:14.354175-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "77d49b30-de8f-40e7-a7d2-2329c33adc14",
+      "memory": "User was at a barbecue party at their friend Alex's house recently.",
+      "hash": "6e9589c960008da39b1c9fa30775b4b1",
+      "metadata": {
+        "ordinal": 177,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be at",
+          "object_text": "a barbecue party at their friend Alex's house",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "was at"
+        }
+      },
+      "score": 0.30221622522750924,
+      "created_at": "2026-07-06T10:45:04.368822-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "faa1418b-a691-4698-8b0b-2159619b9962",
+      "memory": "User has been meaning to plan their meals and make a list before going to the store.",
+      "hash": "ab39fa2da5a1abc9e9e2de96cb920be8",
+      "metadata": {
+        "ordinal": 12,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.29610481165521574,
+      "created_at": "2026-07-06T10:43:19.544535-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "10a8d718-a3db-423c-8828-4471a3060591",
+      "memory": "User bought chicken breasts last Saturday when grocery shopping.",
+      "hash": "17eaa4b63e805d74c4bad0504dc5b2d2",
+      "metadata": {
+        "ordinal": 112,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "bought",
+          "object_text": "chicken breasts",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "bought"
+        }
+      },
+      "score": 0.29444726674217936,
+      "created_at": "2026-07-06T10:44:09.135690-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ceab41ac-2859-40d9-8029-7a2eaff3a989",
+      "memory": "User has been meaning to ask Alex for his secret dry rub recipe, but they keep forgetting.",
+      "hash": "8d7d3f33420db2a90b576d019ed08176",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be meaning to ask",
+          "object_text": "Alex for his secret dry rub recipe",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has been meaning to ask"
+        }
+      },
+      "score": 0.2940007711073211,
+      "created_at": "2026-07-06T10:45:04.401810-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "77e779c0-d240-4070-8772-901be4ced0f2",
+      "memory": "The user is interested in discussing the impact of the digital world on legacy in their podcast.",
+      "hash": "ce50fed407de01c5ce5e4b64d3a6124c",
+      "metadata": {
+        "ordinal": 2,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2902794085762631,
+      "created_at": "2026-07-06T10:42:55.458846-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0d4ccea1-d97f-41c7-893e-a40f88dd1041",
+      "memory": "User is thinking of adding a small fridge and a coffee maker to their workstation to make it more comfortable and convenient.",
+      "hash": "1864a34fcd97fb55d0146ec5099a3a5d",
+      "metadata": {
+        "ordinal": 371,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2897573086513326,
+      "created_at": "2026-07-06T10:47:06.371176-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2748a006-bb26-49bc-9d75-88e2afbd34b2",
+      "memory": "User recently got some LED bulbs for their living room.",
+      "hash": "00e26fe28e15399ebedd9fa968b0d0e5",
+      "metadata": {
+        "ordinal": 447,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "got",
+          "object_text": "some LED bulbs for their living room",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "got"
+        }
+      },
+      "score": 0.28902530569311335,
+      "created_at": "2026-07-06T10:48:43.745836-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2c552a7b-f082-4a73-95e0-fe962741cdc2",
+      "memory": "User has not cooked with gochujang before.",
+      "hash": "3526ca24c3024842d475efed6d1e7977",
+      "metadata": {
+        "ordinal": 192,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has not cooked with",
+          "object_text": "gochujang",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has not cooked with"
+        }
+      },
+      "score": 0.27840372022892085,
+      "created_at": "2026-07-06T10:45:14.360140-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9fe50d06-950d-4fc1-a06c-f9a2e753d55a",
+      "memory": "The user is exploring topics related to legacy for their podcast.",
+      "hash": "acac2329adcd672e36bcd14bac41131b",
+      "metadata": {
+        "ordinal": 1,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.27795127575374756,
+      "created_at": "2026-07-06T10:42:55.453437-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7d5e2fec-d996-4893-a778-d64637958c0c",
+      "memory": "User is considering getting their brother a new smartwatch or a high-tech gadget.",
+      "hash": "4b87c0349f57c219c4fa964bb80ce31c",
+      "metadata": {
+        "ordinal": 344,
+        "triple": null,
+        "subject_fallback": "user's_brother"
+      },
+      "score": 0.27766487820048674,
+      "created_at": "2026-07-06T10:46:40.428002-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a3df8970-8cd4-4991-9ec3-b2a0d30e6207",
+      "memory": "User just got back from a business conference in Tokyo 3 weeks ago.",
+      "hash": "4fed6d4b5dd77c17d2dc2e56797b56cb",
+      "metadata": {
+        "ordinal": 350,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "just got back from",
+          "object_text": "a business conference in Tokyo 3 weeks ago",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "just got back from"
+        }
+      },
+      "score": 0.26874183681618735,
+      "created_at": "2026-07-06T10:46:50.269503-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "544531b5-39de-4900-acac-01e67b2aa69b",
+      "memory": "User is thinking of using leftover chicken breasts to make chicken salad for lunch tomorrow.",
+      "hash": "183ecc89e7f3233be539c055afffd017",
+      "metadata": {
+        "ordinal": 116,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking using",
+          "object_text": "leftover chicken breasts to make chicken salad for lunch tomorrow",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of using"
+        }
+      },
+      "score": 0.26839580164008947,
+      "created_at": "2026-07-06T10:44:09.149374-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b3164ad6-8b3c-49a2-b645-c996ade856cf",
+      "memory": "The user is creating a 10-minute episode focusing on the impact of the digital world on legacy.",
+      "hash": "593f425d5250cc1cc175f158b7f7a8c3",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be creating",
+          "object_text": "a 10-minute episode focusing on the impact of the digital world on legacy",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is creating"
+        }
+      },
+      "score": 0.26783916898611054,
+      "created_at": "2026-07-06T10:42:55.467983-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e238825b-b4e0-44e0-8f11-2c2395c14b21",
+      "memory": "User and their friends ordered pizza and wings last weekend.",
+      "hash": "c63e3c5191c3b184b10ae7f02e37923d",
+      "metadata": {
+        "ordinal": 303,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "ordered",
+          "object_text": "pizza and wings last weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "ordered"
+        }
+      },
+      "score": 0.26446555396087823,
+      "created_at": "2026-07-06T10:45:53.989534-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c8e49b74-1ad3-4890-823a-f2ab45dfc579",
+      "memory": "User is looking forward to making a smoothie for dessert.",
+      "hash": "f72629ff359581bf3dd5f4989fa9f9d0",
+      "metadata": {
+        "ordinal": 115,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.26410749004010825,
+      "created_at": "2026-07-06T10:44:09.146477-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5d4012f0-a797-4094-94c2-c642daa3990f",
+      "memory": "User organized their closet last Saturday.",
+      "hash": "1ae9a2f762bd0b21b735fa1522e285a8",
+      "metadata": {
+        "ordinal": 365,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "organized",
+          "object_text": "their closet last Saturday",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "organized"
+        }
+      },
+      "score": 0.26369829072174644,
+      "created_at": "2026-07-06T10:47:06.357177-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f702d236-2b3e-4aa5-a5bf-62a9bbf9b3c9",
+      "memory": "User is looking for healthy meal ideas for the week.",
+      "hash": "23731ab0f1713da184b30b969324fed9",
+      "metadata": {
+        "ordinal": 439,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.26302774342098345,
+      "created_at": "2026-07-06T10:48:35.756412-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e3fefdad-ee27-45bf-beb8-5e8ef01e54de",
+      "memory": "User bought a beautiful vase for their mom's anniversary from a local artisan market on May 21, 2023.",
+      "hash": "8d040a49d0ee8c0dcabe009a7db85472",
+      "metadata": {
+        "ordinal": 346,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "bought",
+          "object_text": "a beautiful vase for their mom's anniversary from a local artisan market on May 21, 2023",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "bought"
+        }
+      },
+      "score": 0.2628430324005745,
+      "created_at": "2026-07-06T10:46:40.438527-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b43642b8-7d50-4d24-83a3-b4a424c74a5b",
+      "memory": "User is thinking of bringing some snacks to share with the group at game night.",
+      "hash": "7beb183c15f51c2a9e0a1f729aff5be1",
+      "metadata": {
+        "ordinal": 309,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking bringing",
+          "object_text": "some snacks to share with the group at game night",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of bringing"
+        }
+      },
+      "score": 0.2626358285810191,
+      "created_at": "2026-07-06T10:45:54.002666-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "04e4419e-85cc-4c1f-8507-4de346f214a0",
+      "memory": "User is excited to try out the Korean Chicken Stew recipe.",
+      "hash": "129b3a0c40728d7d2936e431395a8a0e",
+      "metadata": {
+        "ordinal": 194,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited to try out",
+          "object_text": "the Korean Chicken Stew recipe",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is excited to try out"
+        }
+      },
+      "score": 0.2592435614744844,
+      "created_at": "2026-07-06T10:45:14.363560-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f40c7eaf-0c4b-48e5-8bf8-544c9d3045b3",
+      "memory": "User is thinking of getting a funny gift, like a mug with an inside joke.",
+      "hash": "841a43f21d30779b1b56c81661e9e8bd",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking getting",
+          "object_text": "a funny gift, like a mug with an inside joke",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of getting"
+        }
+      },
+      "score": 0.2567115782673784,
+      "created_at": "2026-07-06T10:47:18.935352-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7ea6a6d0-5b01-4032-b9bb-ef9ba4389d71",
+      "memory": "User is particularly interested in the Korean Chicken Stew recipe.",
+      "hash": "125e1b5d0b43e145c2b3240acc73334f",
+      "metadata": {
+        "ordinal": 190,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be particularly interested in",
+          "object_text": "the Korean Chicken Stew recipe",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is particularly interested in"
+        }
+      },
+      "score": 0.25653524062229166,
+      "created_at": "2026-07-06T10:45:14.357395-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "27841807-8635-40d6-8ce9-181f160db8d5",
+      "memory": "User is thinking about getting smart light bulbs for their hallway.",
+      "hash": "2d82449c7effb0555a3bdb31e5068a72",
+      "metadata": {
+        "ordinal": 452,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking about getting",
+          "object_text": "smart light bulbs for their hallway",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking about getting"
+        }
+      },
+      "score": 0.2557974306514605,
+      "created_at": "2026-07-06T10:48:43.767879-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0c5b7d70-080e-470b-8eaf-105732ba2a42",
+      "memory": "User is planning to try out some new types of wood chips for smoking this weekend.",
+      "hash": "dde7f06b4c24778774a953f04b50f95e",
+      "metadata": {
+        "ordinal": 181,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to try out",
+          "object_text": "some new types of wood chips for smoking this weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to try out"
+        }
+      },
+      "score": 0.25559150840469347,
+      "created_at": "2026-07-06T10:45:04.385511-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4e886321-f14d-4ad3-98b9-872780d6a79d",
+      "memory": "User is thinking of trying out the Cuban Black Bean and Rice Bowl recipe.",
+      "hash": "65ea816a05e51701c5dd13ed3cb82bed",
+      "metadata": {
+        "ordinal": 443,
+        "triple": null,
+        "subject_fallback": "cuban_black_bean_and_rice_bowl"
+      },
+      "score": 0.2554033293764514,
+      "created_at": "2026-07-06T10:48:35.762221-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "973bf28c-7dd9-4d1a-bf18-c8b7098e4c1e",
+      "memory": "User thinks they have some leftover almond milk from their Instacart delivery.",
+      "hash": "f6fb8809445119e26f56dc73ae6ff0be",
+      "metadata": {
+        "ordinal": 114,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2553733754255607,
+      "created_at": "2026-07-06T10:44:09.143438-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e8338f52-47b2-4461-9dca-8680daf14909",
+      "memory": "User is thinking of organizing their old tools from their dad, which are currently scattered all over the garage.",
+      "hash": "637fe084b3fc3aca47132e5b553b6189",
+      "metadata": {
+        "ordinal": 369,
+        "triple": null,
+        "subject_fallback": "user's_dad"
+      },
+      "score": 0.25166287571780904,
+      "created_at": "2026-07-06T10:47:06.367353-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6c0a42a9-9f4f-4da1-9a83-7cc256e961ad",
+      "memory": "User is going to try smoking some chicken breasts this weekend.",
+      "hash": "17a9ee8762a87050f04ee94171fdc2b1",
+      "metadata": {
+        "ordinal": 183,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be going to try smoking",
+          "object_text": "some chicken breasts this weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is going to try smoking"
+        }
+      },
+      "score": 0.25142697464502717,
+      "created_at": "2026-07-06T10:45:04.391925-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "01a767a8-d72a-48c4-a8f9-db4490c1cdf4",
+      "memory": "User participated in a charity 5K run on May 6, 2023, finishing with a personal best time of 27 minutes and 12 seconds.",
+      "hash": "77bb9aa19940ae77a5cf19f9c1b38153",
+      "metadata": {
+        "ordinal": 154,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "participated in",
+          "object_text": "a charity 5K run on May 6, 2023, finishing with a personal best time of 27 minutes and 12 seconds",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "participated in"
+        }
+      },
+      "score": 0.24966944926289641,
+      "created_at": "2026-07-06T10:44:30.094552-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9a1d7645-06f8-4c2b-aa13-826c471ae26b",
+      "memory": "User is thinking of adding some lamps to the patio.",
+      "hash": "855bb4ab4a0b7ca10ff4e90cc9850809",
+      "metadata": {
+        "ordinal": 450,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.24791416495519586,
+      "created_at": "2026-07-06T10:48:43.761158-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0f6d0336-31e7-4694-aea7-9e9fe989b3c8",
+      "memory": "User is looking for canned goods, pasta, and snacks.",
+      "hash": "cde8051786cb0a973fd0bc46bb52ef3e",
+      "metadata": {
+        "ordinal": 456,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking for",
+          "object_text": "canned goods, pasta, and snacks",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is looking for"
+        }
+      },
+      "score": 0.24683069502383523,
+      "created_at": "2026-07-06T10:48:54.430793-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "31c118bd-ba27-4271-8b1b-263e1abd0212",
+      "memory": "User is trying to come up with a content calendar for their Instagram posts.",
+      "hash": "c29ab9698afd82e8a1f49baaa60a6ce3",
+      "metadata": {
+        "ordinal": 290,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2467335850925158,
+      "created_at": "2026-07-06T10:45:43.804576-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7cbec0fe-b68c-4055-8761-d8162722af79",
+      "memory": "User has been experimenting with different ways to shop, like online delivery.",
+      "hash": "84d77437873d38d83afb6da8d09dd7e1",
+      "metadata": {
+        "ordinal": 14,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be experimenting with",
+          "object_text": "different ways to shop, like online delivery",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been experimenting with"
+        }
+      },
+      "score": 0.24670792755595455,
+      "created_at": "2026-07-06T10:43:19.552722-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b5abce48-4aaa-4ca1-9da2-45d316ba5d1d",
+      "memory": "User has been meaning to try out some new BBQ joints in town.",
+      "hash": "38ba05e6101a13577284e718ffa91b35",
+      "metadata": {
+        "ordinal": 184,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be meaning to try out",
+          "object_text": "some new BBQ joints in town",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been meaning to try out"
+        }
+      },
+      "score": 0.2439444699922456,
+      "created_at": "2026-07-06T10:45:04.394795-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a172bd25-2fdb-422a-b9ec-6bf6e34ec0c1",
+      "memory": "User is unsure if smartwatches or high-tech gadgets are worth the price.",
+      "hash": "eaa5ac1749f4904c96e8140298f17332",
+      "metadata": {
+        "ordinal": 345,
+        "triple": null
+      },
+      "score": 0.24365335340365918,
+      "created_at": "2026-07-06T10:46:40.434179-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6e335a22-4a3b-469e-a0b6-8a52fe96ce02",
+      "memory": "User made a delicious chili con carne recently.",
+      "hash": "553ae2a380b59a367735077276e0ec20",
+      "metadata": {
+        "ordinal": 440,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "made",
+          "object_text": "a delicious chili con carne recently",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "made"
+        }
+      },
+      "score": 0.2425180252831398,
+      "created_at": "2026-07-06T10:48:35.758283-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "23629587-bb41-4d82-9346-b5be6246dc28",
+      "memory": "User is planning a big grocery run this weekend.",
+      "hash": "deff6aa83937c66084dfa53bd16833a2",
+      "metadata": {
+        "ordinal": 453,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.24033087233960843,
+      "created_at": "2026-07-06T10:48:54.413521-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bab99b79-09d2-47ef-9f1f-c4973bbe53f2",
+      "memory": "User is thinking of setting up a shoe cleaning and organization station at home.",
+      "hash": "8b53fd641adba0be7bf08f3b913fb7c9",
+      "metadata": {
+        "ordinal": 10,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23662437040653655,
+      "created_at": "2026-07-06T10:43:03.872796-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fadf3be8-8efd-49ae-a52c-c7d5e1342856",
+      "memory": "User did an online grocery order from Instacart and had it delivered to their doorstep.",
+      "hash": "87e5dc5d65f13353bbef746f2846c753",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "did online grocery order from",
+          "object_text": "Instacart",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "did an online grocery order from"
+        }
+      },
+      "score": 0.23630966699844724,
+      "created_at": "2026-07-06T10:44:09.125701-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e292922c-c67b-473e-95d8-6b3de89f40ea",
+      "memory": "User is trying to get a better grip on their grocery spending.",
+      "hash": "4cc912dbd94022bdb4c773e8c45275be",
+      "metadata": {
+        "ordinal": 11,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23628647150234877,
+      "created_at": "2026-07-06T10:43:19.539035-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ab0ef6fb-dd9b-41d5-8e99-9025e1f02673",
+      "memory": "User is looking to plan their next fitness goal.",
+      "hash": "9dd4f69e2ee2e580dacee4584746dc88",
+      "metadata": {
+        "ordinal": 67,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2359384581316768,
+      "created_at": "2026-07-06T10:43:54.192658-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "63b75fb1-f27e-480f-bf79-a59e0370c87f",
+      "memory": "User is curious if ShopRite offers any special deals or discounts for loyalty program members on certain days of the week.",
+      "hash": "37e7f28fe8c26de43b751929604fc692",
+      "metadata": {
+        "ordinal": 462,
+        "triple": null
+      },
+      "score": 0.23510348910471546,
+      "created_at": "2026-07-06T10:48:54.448286-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "994d33f9-db9b-4267-8315-abb0f79c7f72",
+      "memory": "User is preparing for the Flea Market.",
+      "hash": "87e0e76f5845fa2f2c54624808617000",
+      "metadata": {
+        "ordinal": 196,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be preparing for",
+          "object_text": "the Flea Market",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is preparing for"
+        }
+      },
+      "score": 0.2343430814283155,
+      "created_at": "2026-07-06T10:45:23.724199-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e2ca10e2-35c1-4cd4-97db-37e440a6ad57",
+      "memory": "User is looking to get some new light bulbs for their outdoor patio.",
+      "hash": "7addd039dfd02286e239d88988ee3b63",
+      "metadata": {
+        "ordinal": 446,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23375993512868617,
+      "created_at": "2026-07-06T10:48:43.736610-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "72a9f400-a685-4e76-b27e-ce193a43c9b2",
+      "memory": "The user has a podcast called 'The Legacy Show'.",
+      "hash": "ce6cd7b4cf20507410631e792817e186",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has podcast called",
+          "object_text": "'The Legacy Show'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has a podcast called"
+        }
+      },
+      "score": 0.23216437124613754,
+      "created_at": "2026-07-06T10:42:55.445870-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d4a8c4db-9384-423a-a367-97ba73c50080",
+      "memory": "User likes the idea of having a meal plan and grocery list generated for them.",
+      "hash": "4aed44bcab963c9a813ed64923c3900f",
+      "metadata": {
+        "ordinal": 21,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "likes idea having",
+          "object_text": "a meal plan and grocery list generated for them",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "likes the idea of having"
+        }
+      },
+      "score": 0.2301442523032505,
+      "created_at": "2026-07-06T10:43:19.570302-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a8006508-151b-4d47-a983-21b1beca2c6c",
+      "memory": "User has frozen peas and carrots in their freezer.",
+      "hash": "f24787aa3199a97f67bb863e7a6c1156",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "frozen peas and carrots",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.22988586911097564,
+      "created_at": "2026-07-06T10:44:09.140089-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9515a31d-0336-4f79-ac00-a334c67fdd99",
+      "memory": "User thinks they will stock up on canned goods and pasta since they're buy one get one free.",
+      "hash": "4d3266b50ec837a27de399b57d2d875d",
+      "metadata": {
+        "ordinal": 459,
+        "triple": null
+      },
+      "score": 0.22851192498167947,
+      "created_at": "2026-07-06T10:48:54.440472-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "27479b92-bde4-40bc-a04f-d1c463a4612b",
+      "memory": "User signed up for ShopRite's loyalty program about three weeks ago.",
+      "hash": "63da2d4e200962ec6c574630154ec744",
+      "metadata": {
+        "ordinal": 454,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "signed up for",
+          "object_text": "ShopRite's loyalty program about three weeks ago",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "signed up for"
+        }
+      },
+      "score": 0.22788965222892377,
+      "created_at": "2026-07-06T10:48:54.420654-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7db7c7c2-5623-4cb0-a3cf-11991754418e",
+      "memory": "User has been listening to art podcasts.",
+      "hash": "1239abfde56f6c825c8109fbfd639c2d",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "art podcasts",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.22608583214343086,
+      "created_at": "2026-07-06T10:44:46.086985-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1599b15f-0556-41e8-bc5d-c81eb5cea17b",
+      "memory": "User plans to share a personal anecdote about a time when they had to take a step back and prioritize their mental well-being.",
+      "hash": "2a78e6829aacce209de312a1921402ef",
+      "metadata": {
+        "ordinal": 294,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to share",
+          "object_text": "a personal anecdote about a time when they had to take a step back and prioritize their mental well-being",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "plans to share"
+        }
+      },
+      "score": 0.22564494099337631,
+      "created_at": "2026-07-06T10:45:43.817895-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "71408b1c-e3d4-43bd-9f9e-7397f266ff45",
+      "memory": "User spent around $80 on Instacart earlier this month.",
+      "hash": "5881ac00224cde64316c372b04b17916",
+      "metadata": {
+        "ordinal": 13,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent around",
+          "object_text": "$80 on Instacart earlier this month",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "spent around"
+        }
+      },
+      "score": 0.22343564654090153,
+      "created_at": "2026-07-06T10:43:19.548743-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c850d9c1-ae81-4db4-8e72-da4f6d8695e4",
+      "memory": "User is planning to step up their training for an upcoming half-marathon on December 5, 2023.",
+      "hash": "4be2b56a7541b58507c0d92ffa27d176",
+      "metadata": {
+        "ordinal": 155,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to step up",
+          "object_text": "their training for an upcoming half-marathon on December 5, 2023",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to step up"
+        }
+      },
+      "score": 0.2233085566019081,
+      "created_at": "2026-07-06T10:44:30.101353-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "59605e75-4b6b-4e03-96e0-05f39639d965",
+      "memory": "User spent around $60 on their grocery order.",
+      "hash": "48cb94fceb6fd82fc008c17425b8e4eb",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent around",
+          "object_text": "$60",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "spent around"
+        }
+      },
+      "score": 0.2220946542186838,
+      "created_at": "2026-07-06T10:44:09.130336-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0a061e32-932e-446e-a69e-7e0ee9ff38c2",
+      "memory": "User is thinking of selling some of their old furniture and household items.",
+      "hash": "11cd93702e1519d92493e3ef708fe746",
+      "metadata": {
+        "ordinal": 202,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking selling",
+          "object_text": "some of their old furniture and household items",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of selling"
+        }
+      },
+      "score": 0.22207712828962733,
+      "created_at": "2026-07-06T10:45:23.753753-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "740134ca-b303-4313-ae54-df94e9b955c9",
+      "memory": "User is thinking of doing some more decluttering and organizing this weekend.",
+      "hash": "ffb85f9927334808da405d7abe8e6047",
+      "metadata": {
+        "ordinal": 364,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2211093387230346,
+      "created_at": "2026-07-06T10:47:06.353500-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e71be9ca-e10e-4790-be2f-e472c234d4a8",
+      "memory": "User will focus on topics relevant to their current projects and goals, such as cloud computing, machine learning, and cybersecurity.",
+      "hash": "7f4d1e28c21eebeac16471440462704f",
+      "metadata": {
+        "ordinal": 428,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will focus on topics relevant to",
+          "object_text": "their current projects and goals, such as cloud computing, machine learning, and cybersecurity",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will focus on topics relevant to"
+        }
+      },
+      "score": 0.21995659962130465,
+      "created_at": "2026-07-06T10:48:23.816098-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "133e0967-1e48-4e30-964b-a98bde9a7895",
+      "memory": "User visited their grandma two weekends ago and had a really nice time together.",
+      "hash": "83a4e5823d146639722bcab4c5411b15",
+      "metadata": {
+        "ordinal": 106,
+        "triple": null,
+        "subject_fallback": "user's_grandma"
+      },
+      "score": 0.21587373453588427,
+      "created_at": "2026-07-06T10:44:01.002689-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4b68e3e1-5a2d-48b4-b827-e323c7c7bb3c",
+      "memory": "User has a vintage armchair.",
+      "hash": "f2a4eee285f276cea6ff13ec63930883",
+      "metadata": {
+        "ordinal": 198,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "a vintage armchair",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.21408657651992963,
+      "created_at": "2026-07-06T10:45:23.737089-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "25b5022c-8b6d-4bf6-9ff2-a2bba83f96ad",
+      "memory": "User will participate in online communities like Reddit and Stack Overflow to connect with other professionals and stay updated on the latest technologies.",
+      "hash": "d5129a87cc7a6af2585e7c773ff4bf09",
+      "metadata": {
+        "ordinal": 430,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will participate in",
+          "object_text": "online communities like Reddit and Stack Overflow",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will participate in"
+        }
+      },
+      "score": 0.2128347859768555,
+      "created_at": "2026-07-06T10:48:23.821609-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "000c482f-9a0b-4759-a7ff-f153d3706162",
+      "memory": "User once got a funny mug with an inside joke printed on it from an online store for a colleague's going-away party, and it cost around $15.",
+      "hash": "19b9f98b4299051057462aa997f2e7ee",
+      "metadata": {
+        "ordinal": 374,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "once got",
+          "object_text": "a funny mug with an inside joke printed on it from an online store for a colleague's going-away party, and it cost around $15",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "once got"
+        }
+      },
+      "score": 0.21127567775531625,
+      "created_at": "2026-07-06T10:47:18.940482-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f1327062-14c6-4a6d-86d6-8da6a5d805f1",
+      "memory": "User thinks they will try out Plan to Eat's free trial to see how it works.",
+      "hash": "e62656ab88d31103f25781c091f37b8f",
+      "metadata": {
+        "ordinal": 20,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will try out",
+          "object_text": "Plan to Eat's free trial to see how it works",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they will try out"
+        }
+      },
+      "score": 0.2106586849040874,
+      "created_at": "2026-07-06T10:43:19.568147-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cf55fd56-eb12-4c5b-aab7-97036678177c",
+      "memory": "User is concerned about the level of spiciness in the Korean Chicken Stew.",
+      "hash": "418146ac0979903b57a119ed17790f69",
+      "metadata": {
+        "ordinal": 191,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be concerned about",
+          "object_text": "the level of spiciness in the Korean Chicken Stew",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is concerned about"
+        }
+      },
+      "score": 0.21039010641555334,
+      "created_at": "2026-07-06T10:45:14.358726-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "90acfc38-2af8-40c8-947b-ee1b3bbceefb",
+      "memory": "User is concerned about staying current with the latest technologies and trends in the industry, especially with the rapid pace of innovation in the IT field.",
+      "hash": "c2c77919a84ae06db85004fac52274fe",
+      "metadata": {
+        "ordinal": 426,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.21011726658283425,
+      "created_at": "2026-07-06T10:48:23.811027-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "656bbe26-0d8b-4eb5-a2fc-c9b0554c3087",
+      "memory": "User is considering using chicken breast instead of thighs or drumsticks for the Korean Chicken Stew.",
+      "hash": "d4714f25623bafc0f4944607b57cb85e",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be considering using",
+          "object_text": "chicken breast instead of thighs or drumsticks for the Korean Chicken Stew",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is considering using"
+        }
+      },
+      "score": 0.20653637007117426,
+      "created_at": "2026-07-06T10:45:14.364753-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d87bf9d1-4fb2-4461-b911-a1a330b9cadc",
+      "memory": "User plans to reduce the chili flakes to 1 tablespoon to start with.",
+      "hash": "d491e75da05bb21f299a021558396285",
+      "metadata": {
+        "ordinal": 193,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to reduce",
+          "object_text": "the chili flakes to 1 tablespoon",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "plans to reduce"
+        }
+      },
+      "score": 0.20630512220099517,
+      "created_at": "2026-07-06T10:45:14.362098-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b03de754-9b71-4b0d-8419-3d87f350cf0c",
+      "memory": "User thinks they will write a funny anecdote on a small note card.",
+      "hash": "96424aeba8b00dd25903994729240626",
+      "metadata": {
+        "ordinal": 378,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will write",
+          "object_text": "a funny anecdote on a small note card",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they will write"
+        }
+      },
+      "score": 0.20590454077590828,
+      "created_at": "2026-07-06T10:47:18.957490-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7dc88f44-d599-4993-8bf2-66b8cadf2329",
+      "memory": "User is thinking of creating a workstation in the garage where they can do small projects and repairs.",
+      "hash": "491b2f565f3d0be60f1dede56bb14568",
+      "metadata": {
+        "ordinal": 370,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20552526563493553,
+      "created_at": "2026-07-06T10:47:06.369264-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "da498ab0-2d3c-4895-a9d0-91ebe9de8323",
+      "memory": "User is planning to meet up with friends at a sports bar to watch the Lakers game later tonight.",
+      "hash": "544aabb3316f638cadfda563c2bb6665",
+      "metadata": {
+        "ordinal": 318,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to meet up with friends at",
+          "object_text": "a sports bar to watch the Lakers game later tonight",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to meet up with friends at"
+        }
+      },
+      "score": 0.2054759213460201,
+      "created_at": "2026-07-06T10:46:06.057236-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7b9a9800-7695-4db5-8b55-a60f9fd87ae9",
+      "memory": "User is hosting game night at their friends' place this week.",
+      "hash": "4d77ba3b22d64aa827f8215fa38c052b",
+      "metadata": {
+        "ordinal": 301,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be hosting",
+          "object_text": "game night at their friends' place this week",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is hosting"
+        }
+      },
+      "score": 0.2045546486476596,
+      "created_at": "2026-07-06T10:45:53.984291-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7685ce43-1ea4-4115-995d-c78ea48d196e",
+      "memory": "The user is planning a 30-day show schedule for 'The Legacy Show'.",
+      "hash": "3e1f32e2a7fcab447092968d757be547",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning",
+          "object_text": "a 30-day show schedule for 'The Legacy Show'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning"
+        }
+      },
+      "score": 0.2034601835916788,
+      "created_at": "2026-07-06T10:42:55.463494-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "df641adf-d51b-4220-a492-090aab37213d",
+      "memory": "User is worried that being older than most of their colleagues might make it harder for them to adapt to new technologies and keep up with the pace.",
+      "hash": "ba4a296ff090b9f1893867430454a300",
+      "metadata": {
+        "ordinal": 425,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20175853779397754,
+      "created_at": "2026-07-06T10:48:23.807911-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "dec8c908-2b94-4ad6-b6f1-9e13ae20c523",
+      "memory": "User has noticed that the LED bulbs in their living room are way more energy-efficient.",
+      "hash": "6f71882bfcf5f51ae5c6ea8f9e43fcc9",
+      "metadata": {
+        "ordinal": 448,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "noticed that",
+          "object_text": "the LED bulbs in their living room are way more energy-efficient",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "noticed that"
+        }
+      },
+      "score": 0.20168428203062808,
+      "created_at": "2026-07-06T10:48:43.751747-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e5dc34be-8dae-4c5f-a0f2-3acef98767fb",
+      "memory": "User thinks the sweet potato fries would go well with the Cuban Black Bean and Rice Bowl.",
+      "hash": "36e14c0e7a04fe540c11635b5f864399",
+      "metadata": {
+        "ordinal": 444,
+        "triple": null
+      },
+      "score": 0.20111072228410531,
+      "created_at": "2026-07-06T10:48:35.763359-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7f52ace1-85e7-4e22-a68c-d29e91e1baf3",
+      "memory": "User is planning a family reunion for the summer.",
+      "hash": "aff2c287cd1c76d88726a594e3059c44",
+      "metadata": {
+        "ordinal": 104,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning",
+          "object_text": "a family reunion for the summer",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is planning"
+        }
+      },
+      "score": 0.2007383678237663,
+      "created_at": "2026-07-06T10:44:00.998758-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "25d4b156-ab66-4bc2-9f1f-2e3d405fc836",
+      "memory": "The personal kit includes a portable multipurpose science scanner.",
+      "hash": "3309a581afe9c8df545469c297f32960",
+      "metadata": {
+        "ordinal": 406,
+        "triple": {
+          "subject_id": "personal_kit",
+          "predicate_norm": "includes",
+          "object_text": "a portable multipurpose science scanner",
+          "confidence": 0.9,
+          "subject_raw": "personal kit",
+          "predicate_raw": "includes"
+        }
+      },
+      "score": 0.19982684094973086,
+      "created_at": "2026-07-06T10:48:04.015508-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b02a0b4d-968a-4a2d-8132-fadad423e210",
+      "memory": "User spent 5 days in Tokyo for the business conference.",
+      "hash": "dbd348b301ac401a47ba0911a03c27ed",
+      "metadata": {
+        "ordinal": 351,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent",
+          "object_text": "5 days in Tokyo for the business conference",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "spent"
+        }
+      },
+      "score": 0.19587685531608745,
+      "created_at": "2026-07-06T10:46:50.271085-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "db7d08f5-04d7-4ba2-8b83-7d7799efd3fa",
+      "memory": "User thinks they will get a $10 gift card to pair with the mug.",
+      "hash": "c8ec9d95c261185bb0ec9d58f4645769",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will get",
+          "object_text": "$10 gift card to pair with the mug",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they will get"
+        }
+      },
+      "score": 0.1956143926423548,
+      "created_at": "2026-07-06T10:47:18.954501-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f3c9879b-e9ea-4e8e-a09b-487cb76d68bd",
+      "memory": "User finished a charity 5K run two weeks ago with a personal best time of 24 minutes and 12 seconds.",
+      "hash": "5a9f40cc59037d9826530c23ab2d4d5c",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "finished",
+          "object_text": "a charity 5K run two weeks ago with a personal best time of 24 minutes and 12 seconds",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "finished"
+        }
+      },
+      "score": 0.1949084374032257,
+      "created_at": "2026-07-06T10:46:06.041377-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "468ea8d5-b0d4-4867-a94d-43c7108ad5bc",
+      "memory": "User thinks they will try the digital receipts via email method.",
+      "hash": "06f4d29039c55ab325ab464433599b4d",
+      "metadata": {
+        "ordinal": 17,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will try",
+          "object_text": "the digital receipts via email method",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they will try"
+        }
+      },
+      "score": 0.19469861444553951,
+      "created_at": "2026-07-06T10:43:19.561349-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e93f9163-c699-4084-abaf-54c40ab3997e",
+      "memory": "User once paired a gift card with a mug for a going-away party, and it was a hit.",
+      "hash": "e20751ec69811d3af66bc2d37668d176",
+      "metadata": {
+        "ordinal": 376,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "once paired",
+          "object_text": "a gift card with a mug for a going-away party, and it was a hit",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "once paired"
+        }
+      },
+      "score": 0.19449309885364666,
+      "created_at": "2026-07-06T10:47:18.951042-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "04d08b8e-de50-4ac9-8099-14f251ec6ca6",
+      "memory": "User is planning a trip to Asia.",
+      "hash": "a75aa3f126b13b74124881b48cf5e79b",
+      "metadata": {
+        "ordinal": 349,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.19425043895688643,
+      "created_at": "2026-07-06T10:46:50.267697-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0d4c2b2d-537f-4068-a42e-70389036c389",
+      "memory": "User has been craving the slow-cooked ribs ever since.",
+      "hash": "15eeba5f17f60d63b0fc3520718477e4",
+      "metadata": {
+        "ordinal": 180,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be craving",
+          "object_text": "the slow-cooked ribs",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been craving"
+        }
+      },
+      "score": 0.19379574183739412,
+      "created_at": "2026-07-06T10:45:04.381363-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "14829b50-4edd-47b2-b224-ebc26ac36421",
+      "memory": "User provided three subject lines: 'Elevate Your Business Insights', 'Streamline Data Analysis', and 'Maximize Data Potential'.",
+      "hash": "8b395d8eb418c01ce01fa042b64e4af5",
+      "metadata": {
+        "ordinal": 174,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "provided",
+          "object_text": "three subject lines: 'Elevate Your Business Insights', 'Streamline Data Analysis', and 'Maximize Data Potential'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "provided"
+        }
+      },
+      "score": 0.19350064050546323,
+      "created_at": "2026-07-06T10:44:51.175155-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fb7c56f4-1381-444a-9e5e-70d43bfe278a",
+      "memory": "User will read industry blogs and news sites like The Verge, TechCrunch, and Hacker Noon to stay informed about the latest developments and trends.",
+      "hash": "0a02bfa51199bd435f14fa186a7be837",
+      "metadata": {
+        "ordinal": 429,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will read",
+          "object_text": "industry blogs and news sites like The Verge, TechCrunch, and Hacker Noon",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will read"
+        }
+      },
+      "score": 0.19168843122194684,
+      "created_at": "2026-07-06T10:48:23.819186-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ff74fe9f-5d69-45bb-b70d-1e715d017e40",
+      "memory": "User is looking for gift ideas for their brother's birthday.",
+      "hash": "3924f4ef875ec6cfbb75946900f136b5",
+      "metadata": {
+        "ordinal": 343,
+        "triple": null,
+        "subject_fallback": "user's_brother"
+      },
+      "score": 0.18859866215876847,
+      "created_at": "2026-07-06T10:46:40.420089-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "aaa69b25-d919-4d65-a35b-91f7c3599a64",
+      "memory": "User is particularly interested in motivation and mindset topics for their Instagram posts.",
+      "hash": "95e75d9b5e54cd89ee7089e7b10c6437",
+      "metadata": {
+        "ordinal": 292,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be particularly interested in",
+          "object_text": "motivation and mindset topics for their Instagram posts",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is particularly interested in"
+        }
+      },
+      "score": 0.1865228676961138,
+      "created_at": "2026-07-06T10:45:43.812142-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5604c1b6-1146-4bb1-a881-0f755ad3d940",
+      "memory": "User is thinking about getting a triathlon bike.",
+      "hash": "a4f851fab08040299fa51f67a713fc1b",
+      "metadata": {
+        "ordinal": 75,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking about getting",
+          "object_text": "a triathlon bike",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking about getting"
+        }
+      },
+      "score": 0.1851657225231666,
+      "created_at": "2026-07-06T10:43:54.218621-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a2eb67ad-369a-4dfe-8888-05624f4c229f",
+      "memory": "User is excited to go shopping for their new puffer jacket.",
+      "hash": "f07409d975f56d13a724f0f21c2b5f9c",
+      "metadata": {
+        "ordinal": 360,
+        "triple": null,
+        "subject_fallback": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18510981987942596,
+      "created_at": "2026-07-06T10:46:56.916164-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "18bf4ccf-bafd-469a-8110-08e5ffca6a47",
+      "memory": "User has started using #FitWithEmily on all their Instagram posts.",
+      "hash": "c834a621203d54ca5fc4523f93b8e634",
+      "metadata": {
+        "ordinal": 291,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has started using",
+          "object_text": "#FitWithEmily on all their Instagram posts",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has started using"
+        }
+      },
+      "score": 0.18495748695069206,
+      "created_at": "2026-07-06T10:45:43.808712-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "06deb19a-ade7-4f1f-9076-3c364ec49e82",
+      "memory": "User is planning a farewell party for a coworker.",
+      "hash": "cb3d935a0da5f5069fb31992e7ce4b60",
+      "metadata": {
+        "ordinal": 372,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning",
+          "object_text": "a farewell party for a coworker",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning"
+        }
+      },
+      "score": 0.18459604979755725,
+      "created_at": "2026-07-06T10:47:18.927910-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "12466384-3f0d-4068-9bb1-38f0fd2dcb2f",
+      "memory": "User has been meaning to wash their car for weeks.",
+      "hash": "d0cd88ef04d914ea38a78822afeffc93",
+      "metadata": {
+        "ordinal": 470,
+        "triple": {
+          "subject_id": "user::context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be meaning to wash",
+          "object_text": "their car for weeks",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been meaning to wash"
+        }
+      },
+      "score": 0.18455564028805296,
+      "created_at": "2026-07-06T10:49:05.171486-07:00",
+      "updated_at": null,
+      "user_id": "context_0977f2af_longmemeval_s_ku_ours_no_p5_s1n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": null,
+  "memories_str": "441. User got an Air Fryer yesterday.\n442. User is thinking of using the Air Fryer to make crispy sweet potato fries.\n199. User has some kitchenware.\n109. User is planning to make a stir-fry for dinner tonight.\n189. User is thinking of using their new Instant Pot to make soups and stews.\n304. User had a blast hanging out and chatting about everything that's been going on in their lives.\n197. User spent the afternoon preparing for the Flea Market on May 21, 2023, cleaning and pricing around 20 items.\n188. User is trying to plan their meals for the week.\n177. User was at a barbecue party at their friend Alex's house recently.\n12. User has been meaning to plan their meals and make a list before going to the store.\n112. User bought chicken breasts last Saturday when grocery shopping.\n187. User has been meaning to ask Alex for his secret dry rub recipe, but they keep forgetting.\n2. The user is interested in discussing the impact of the digital world on legacy in their podcast.\n371. User is thinking of adding a small fridge and a coffee maker to their workstation to make it more comfortable and convenient.\n447. User recently got some LED bulbs for their living room.\n192. User has not cooked with gochujang before.\n1. The user is exploring topics related to legacy for their podcast.\n344. User is considering getting their brother a new smartwatch or a high-tech gadget.\n350. User just got back from a business conference in Tokyo 3 weeks ago.\n116. User is thinking of using leftover chicken breasts to make chicken salad for lunch tomorrow.\n4. The user is creating a 10-minute episode focusing on the impact of the digital world on legacy.\n303. User and their friends ordered pizza and wings last weekend.\n115. User is looking forward to making a smoothie for dessert.\n365. User organized their closet last Saturday.\n439. User is looking for healthy meal ideas for the week.\n346. User bought a beautiful vase for their mom's anniversary from a local artisan market on May 21, 2023.\n309. User is thinking of bringing some snacks to share with the group at game night.\n194. User is excited to try out the Korean Chicken Stew recipe.\n373. User is thinking of getting a funny gift, like a mug with an inside joke.\n190. User is particularly interested in the Korean Chicken Stew recipe.\n452. User is thinking about getting smart light bulbs for their hallway.\n181. User is planning to try out some new types of wood chips for smoking this weekend.\n443. User is thinking of trying out the Cuban Black Bean and Rice Bowl recipe.\n114. User thinks they have some leftover almond milk from their Instacart delivery.\n369. User is thinking of organizing their old tools from their dad, which are currently scattered all over the garage.\n183. User is going to try smoking some chicken breasts this weekend.\n154. User participated in a charity 5K run on May 6, 2023, finishing with a personal best time of 27 minutes and 12 seconds.\n450. User is thinking of adding some lamps to the patio.\n456. User is looking for canned goods, pasta, and snacks.\n290. User is trying to come up with a content calendar for their Instagram posts.\n14. User has been experimenting with different ways to shop, like online delivery.\n184. User has been meaning to try out some new BBQ joints in town.\n345. User is unsure if smartwatches or high-tech gadgets are worth the price.\n440. User made a delicious chili con carne recently.\n453. User is planning a big grocery run this weekend.\n10. User is thinking of setting up a shoe cleaning and organization station at home.\n110. User did an online grocery order from Instacart and had it delivered to their doorstep.\n11. User is trying to get a better grip on their grocery spending.\n67. User is looking to plan their next fitness goal.\n462. User is curious if ShopRite offers any special deals or discounts for loyalty program members on certain days of the week.\n196. User is preparing for the Flea Market.\n446. User is looking to get some new light bulbs for their outdoor patio.\n0. The user has a podcast called 'The Legacy Show'.\n21. User likes the idea of having a meal plan and grocery list generated for them.\n113. User has frozen peas and carrots in their freezer.\n459. User thinks they will stock up on canned goods and pasta since they're buy one get one free.\n454. User signed up for ShopRite's loyalty program about three weeks ago.\n161. User has been listening to art podcasts.\n294. User plans to share a personal anecdote about a time when they had to take a step back and prioritize their mental well-being.\n13. User spent around $80 on Instacart earlier this month.\n155. User is planning to step up their training for an upcoming half-marathon on December 5, 2023.\n111. User spent around $60 on their grocery order.\n202. User is thinking of selling some of their old furniture and household items.\n364. User is thinking of doing some more decluttering and organizing this weekend.\n428. User will focus on topics relevant to their current projects and goals, such as cloud computing, machine learning, and cybersecurity.\n106. User visited their grandma two weekends ago and had a really nice time together.\n198. User has a vintage armchair.\n430. User will participate in online communities like Reddit and Stack Overflow to connect with other professionals and stay updated on the latest technologies.\n374. User once got a funny mug with an inside joke printed on it from an online store for a colleague's going-away party, and it cost around $15.\n20. User thinks they will try out Plan to Eat's free trial to see how it works.\n191. User is concerned about the level of spiciness in the Korean Chicken Stew.\n426. User is concerned about staying current with the latest technologies and trends in the industry, especially with the rapid pace of innovation in the IT field.\n195. User is considering using chicken breast instead of thighs or drumsticks for the Korean Chicken Stew.\n193. User plans to reduce the chili flakes to 1 tablespoon to start with.\n378. User thinks they will write a funny anecdote on a small note card.\n370. User is thinking of creating a workstation in the garage where they can do small projects and repairs.\n318. User is planning to meet up with friends at a sports bar to watch the Lakers game later tonight.\n301. User is hosting game night at their friends' place this week.\n3. The user is planning a 30-day show schedule for 'The Legacy Show'.\n425. User is worried that being older than most of their colleagues might make it harder for them to adapt to new technologies and keep up with the pace.\n448. User has noticed that the LED bulbs in their living room are way more energy-efficient.\n444. User thinks the sweet potato fries would go well with the Cuban Black Bean and Rice Bowl.\n104. User is planning a family reunion for the summer.\n406. The personal kit includes a portable multipurpose science scanner.\n351. User spent 5 days in Tokyo for the business conference.\n377. User thinks they will get a $10 gift card to pair with the mug.\n313. User finished a charity 5K run two weeks ago with a personal best time of 24 minutes and 12 seconds.\n17. User thinks they will try the digital receipts via email method.\n376. User once paired a gift card with a mug for a going-away party, and it was a hit.\n349. User is planning a trip to Asia.\n180. User has been craving the slow-cooked ribs ever since.\n174. User provided three subject lines: 'Elevate Your Business Insights', 'Streamline Data Analysis', and 'Maximize Data Potential'.\n429. User will read industry blogs and news sites like The Verge, TechCrunch, and Hacker Noon to stay informed about the latest developments and trends.\n343. User is looking for gift ideas for their brother's birthday.\n292. User is particularly interested in motivation and mindset topics for their Instagram posts.\n75. User is thinking about getting a triathlon bike.\n360. User is excited to go shopping for their new puffer jacket.\n291. User has started using #FitWithEmily on all their Instagram posts.\n372. User is planning a farewell party for a coworker.\n470. User has been meaning to wash their car for weeks.",
+  "system_prompt": "You are a careful information-extraction system that outputs only JSON.",
+  "user_message": "You are given retrieved items from a user's personal memory. Each item has a FRESHNESS marker (the prefix integer) — a higher marker means the item was recorded more recently.\n\nYour job: identify EVERY item that DIRECTLY answers the question, and extract the answer from each such item.\n\nDo NOT compare freshness markers. Do NOT pick a \"best\" one. Include ALL items that answer the question.\n\nRules:\n1. An item answers the question only if it states the specific piece of information the question asks about (e.g. the user's current city, job, or preference). A related-but-different topic does NOT count.\n2. Most items describe the user (\"User ...\"); treat the user as the subject unless the question names someone else.\n3. If the user has multiple conflicting values recorded at different freshness markers, INCLUDE BOTH as separate candidates. Do not pick.\n4. If no item answers the question, return an empty list.\n5. Copy the item's text verbatim into `fact_text`, and put the concise answer to the question into `answer_entity`.\n\nQuestion: Today's date is 2023/05/31 (Wed) 07:54.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n What new kitchen gadget did I invest in before getting the Air Fryer?\n\nItems:\n441. User got an Air Fryer yesterday.\n442. User is thinking of using the Air Fryer to make crispy sweet potato fries.\n199. User has some kitchenware.\n109. User is planning to make a stir-fry for dinner tonight.\n189. User is thinking of using their new Instant Pot to make soups and stews.\n304. User had a blast hanging out and chatting about everything that's been going on in their lives.\n197. User spent the afternoon preparing for the Flea Market on May 21, 2023, cleaning and pricing around 20 items.\n188. User is trying to plan their meals for the week.\n177. User was at a barbecue party at their friend Alex's house recently.\n12. User has been meaning to plan their meals and make a list before going to the store.\n112. User bought chicken breasts last Saturday when grocery shopping.\n187. User has been meaning to ask Alex for his secret dry rub recipe, but they keep forgetting.\n2. The user is interested in discussing the impact of the digital world on legacy in their podcast.\n371. User is thinking of adding a small fridge and a coffee maker to their workstation to make it more comfortable and convenient.\n447. User recently got some LED bulbs for their living room.\n192. User has not cooked with gochujang before.\n1. The user is exploring topics related to legacy for their podcast.\n344. User is considering getting their brother a new smartwatch or a high-tech gadget.\n350. User just got back from a business conference in Tokyo 3 weeks ago.\n116. User is thinking of using leftover chicken breasts to make chicken salad for lunch tomorrow.\n4. The user is creating a 10-minute episode focusing on the impact of the digital world on legacy.\n303. User and their friends ordered pizza and wings last weekend.\n115. User is looking forward to making a smoothie for dessert.\n365. User organized their closet last Saturday.\n439. User is looking for healthy meal ideas for the week.\n346. User bought a beautiful vase for their mom's anniversary from a local artisan market on May 21, 2023.\n309. User is thinking of bringing some snacks to share with the group at game night.\n194. User is excited to try out the Korean Chicken Stew recipe.\n373. User is thinking of getting a funny gift, like a mug with an inside joke.\n190. User is particularly interested in the Korean Chicken Stew recipe.\n452. User is thinking about getting smart light bulbs for their hallway.\n181. User is planning to try out some new types of wood chips for smoking this weekend.\n443. User is thinking of trying out the Cuban Black Bean and Rice Bowl recipe.\n114. User thinks they have some leftover almond milk from their Instacart delivery.\n369. User is thinking of organizing their old tools from their dad, which are currently scattered all over the garage.\n183. User is going to try smoking some chicken breasts this weekend.\n154. User participated in a charity 5K run on May 6, 2023, finishing with a personal best time of 27 minutes and 12 seconds.\n450. User is thinking of adding some lamps to the patio.\n456. User is looking for canned goods, pasta, and snacks.\n290. User is trying to come up with a content calendar for their Instagram posts.\n14. User has been experimenting with different ways to shop, like online delivery.\n184. User has been meaning to try out some new BBQ joints in town.\n345. User is unsure if smartwatches or high-tech gadgets are worth the price.\n440. User made a delicious chili con carne recently.\n453. User is planning a big grocery run this weekend.\n10. User is thinking of setting up a shoe cleaning and organization station at home.\n110. User did an online grocery order from Instacart and had it delivered to their doorstep.\n11. User is trying to get a better grip on their grocery spending.\n67. User is looking to plan their next fitness goal.\n462. User is curious if ShopRite offers any special deals or discounts for loyalty program members on certain days of the week.\n196. User is preparing for the Flea Market.\n446. User is looking to get some new light bulbs for their outdoor patio.\n0. The user has a podcast called 'The Legacy Show'.\n21. User likes the idea of having a meal plan and grocery list generated for them.\n113. User has frozen peas and carrots in their freezer.\n459. User thinks they will stock up on canned goods and pasta since they're buy one get one free.\n454. User signed up for ShopRite's loyalty program about three weeks ago.\n161. User has been listening to art podcasts.\n294. User plans to share a personal anecdote about a time when they had to take a step back and prioritize their mental well-being.\n13. User spent around $80 on Instacart earlier this month.\n155. User is planning to step up their training for an upcoming half-marathon on December 5, 2023.\n111. User spent around $60 on their grocery order.\n202. User is thinking of selling some of their old furniture and household items.\n364. User is thinking of doing some more decluttering and organizing this weekend.\n428. User will focus on topics relevant to their current projects and goals, such as cloud computing, machine learning, and cybersecurity.\n106. User visited their grandma two weekends ago and had a really nice time together.\n198. User has a vintage armchair.\n430. User will participate in online communities like Reddit and Stack Overflow to connect with other professionals and stay updated on the latest technologies.\n374. User once got a funny mug with an inside joke printed on it from an online store for a colleague's going-away party, and it cost around $15.\n20. User thinks they will try out Plan to Eat's free trial to see how it works.\n191. User is concerned about the level of spiciness in the Korean Chicken Stew.\n426. User is concerned about staying current with the latest technologies and trends in the industry, especially with the rapid pace of innovation in the IT field.\n195. User is considering using chicken breast instead of thighs or drumsticks for the Korean Chicken Stew.\n193. User plans to reduce the chili flakes to 1 tablespoon to start with.\n378. User thinks they will write a funny anecdote on a small note card.\n370. User is thinking of creating a workstation in the garage where they can do small projects and repairs.\n318. User is planning to meet up with friends at a sports bar to watch the Lakers game later tonight.\n301. User is hosting game night at their friends' place this week.\n3. The user is planning a 30-day show schedule for 'The Legacy Show'.\n425. User is worried that being older than most of their colleagues might make it harder for them to adapt to new technologies and keep up with the pace.\n448. User has noticed that the LED bulbs in their living room are way more energy-efficient.\n444. User thinks the sweet potato fries would go well with the Cuban Black Bean and Rice Bowl.\n104. User is planning a family reunion for the summer.\n406. The personal kit includes a portable multipurpose science scanner.\n351. User spent 5 days in Tokyo for the business conference.\n377. User thinks they will get a $10 gift card to pair with the mug.\n313. User finished a charity 5K run two weeks ago with a personal best time of 24 minutes and 12 seconds.\n17. User thinks they will try the digital receipts via email method.\n376. User once paired a gift card with a mug for a going-away party, and it was a hit.\n349. User is planning a trip to Asia.\n180. User has been craving the slow-cooked ribs ever since.\n174. User provided three subject lines: 'Elevate Your Business Insights', 'Streamline Data Analysis', and 'Maximize Data Potential'.\n429. User will read industry blogs and news sites like The Verge, TechCrunch, and Hacker Noon to stay informed about the latest developments and trends.\n343. User is looking for gift ideas for their brother's birthday.\n292. User is particularly interested in motivation and mindset topics for their Instagram posts.\n75. User is thinking about getting a triathlon bike.\n360. User is excited to go shopping for their new puffer jacket.\n291. User has started using #FitWithEmily on all their Instagram posts.\n372. User is planning a farewell party for a coworker.\n470. User has been meaning to wash their car for weeks.\n\nReturn ONLY valid JSON: {\"candidates\": [{\"serial\": <int>, \"fact_text\": \"<verbatim>\", \"answer_entity\": \"<answer>\"}, ...]}",
+  "response": "Instant Pot",
+  "prompt_tokens": 2104,
+  "completion_tokens": 35
+}

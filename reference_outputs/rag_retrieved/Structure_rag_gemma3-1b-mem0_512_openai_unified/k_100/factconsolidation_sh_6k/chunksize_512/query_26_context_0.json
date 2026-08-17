@@ -1,0 +1,1944 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "d0f946f8-fe0d-449a-85cb-8ebd3076b91a",
+      "memory": "The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead",
+      "hash": "9f8b46e9cc72f4fa513e46ee73db0894",
+      "metadata": {
+        "ordinal": 0,
+        "triple": null,
+        "subject_fallback": "tony_hall"
+      },
+      "score": 0.7477239022505817,
+      "created_at": "2026-06-30T09:58:27.742213-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "692e9fa7-1c63-4b02-9296-f9bb0f5390f4",
+      "memory": "The director of British Broadcasting Corporation is Narendra Modi",
+      "hash": "8e25316035d1019e5e10fc00fd910421",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "is",
+          "object_text": "Narendra Modi",
+          "confidence": 0.98,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.6861153532162649,
+      "created_at": "2026-06-30T09:59:48.844696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c235f9ba-14fa-4414-966c-3ee124b8b935",
+      "memory": "Tim Cook is the director of Apple Inc.",
+      "hash": "8bbaffecddf96265efc5d93e3d65c3f1",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "is the director of",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is the director of"
+        }
+      },
+      "score": 0.38890676999250284,
+      "created_at": "2026-06-30T09:58:27.750856-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a6f26672-1930-4e84-aace-db6ac68f8d07",
+      "memory": "The director of LucasFilm is Kathleen Kennedy.",
+      "hash": "f5e49fd089f08267782d362d085d09f3",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "lucasfilm",
+          "predicate_norm": "is directed by",
+          "object_text": "Kathleen Kennedy",
+          "confidence": 0.95,
+          "subject_raw": "LucasFilm",
+          "predicate_raw": "is directed by"
+        }
+      },
+      "score": 0.3590309531720931,
+      "created_at": "2026-06-30T09:59:20.493282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "406da947-8b87-4f27-84da-bc7f7d493883",
+      "memory": "Lucasfilm’s director is Kathleen Kennedy.",
+      "hash": "0e25c37e07f5911e0396665e5f2385ee",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "lucasfilm",
+          "predicate_norm": "director is",
+          "object_text": "Kathleen Kennedy",
+          "confidence": 0.95,
+          "subject_raw": "Lucasfilm",
+          "predicate_raw": "director is"
+        }
+      },
+      "score": 0.3564754251831209,
+      "created_at": "2026-06-30T09:59:20.485121-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f8a7a0bd-6fe6-48cd-b6e5-bc3495b941c1",
+      "memory": "The chief executive officer of ABB Group is Ulrich Spiesshofer.",
+      "hash": "fefddcc534abf87ddd74c883ac06bf25",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "ulrich_spiesshofer",
+          "predicate_norm": "is ceo of",
+          "object_text": "ABB Group",
+          "confidence": 0.98,
+          "subject_raw": "Ulrich Spiesshofer",
+          "predicate_raw": "is CEO of"
+        }
+      },
+      "score": 0.3176328775009951,
+      "created_at": "2026-06-30T09:59:25.115219-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "eabe669c-0d2f-4bcf-aa78-c20f27dd5689",
+      "memory": "The name of the current head of state in United Kingdom is Elizabeth II.",
+      "hash": "d5e9ee9603ee6eb514f98500a9ced625",
+      "metadata": {
+        "ordinal": 2,
+        "triple": {
+          "subject_id": "elizabeth_ii",
+          "predicate_norm": "is the head of state in",
+          "object_text": "United Kingdom",
+          "confidence": 0.98,
+          "subject_raw": "Elizabeth II",
+          "predicate_raw": "is the head of state in"
+        }
+      },
+      "score": 0.30468312693050426,
+      "created_at": "2026-06-30T09:58:35.549143-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3b91d176-1165-4fb7-9ac0-bb7d4d9d3c70",
+      "memory": "Tony Blair is married to Alan Jay Lerner",
+      "hash": "451154737dec7101f3f20289c282ffe1",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "tony_blair",
+          "predicate_norm": "is married to",
+          "object_text": "Alan Jay Lerner",
+          "confidence": 0.95,
+          "subject_raw": "Tony Blair",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.28491580565351154,
+      "created_at": "2026-06-30T09:59:48.831301-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "090b47d9-346c-42b6-ae28-caff7ba711ea",
+      "memory": "Victoria Beckham is married to David Beckham",
+      "hash": "821d3546b716e03438aae045c5b2a423",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "victoria_beckham",
+          "predicate_norm": "is married to",
+          "object_text": "David Beckham",
+          "confidence": 0.95,
+          "subject_raw": "Victoria Beckham",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.27635002509803785,
+      "created_at": "2026-06-30T09:58:27.743770-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "36247d29-8ed4-4874-b159-ac23cdcb542e",
+      "memory": "The director of Madonna is Guy Oseary.",
+      "hash": "24227f719ea996bf9781629793cd30dc",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "directed by",
+          "object_text": "Guy Oseery",
+          "confidence": 0.98,
+          "subject_raw": "Madonna",
+          "predicate_raw": "directed by"
+        }
+      },
+      "score": 0.2733370871140311,
+      "created_at": "2026-06-30T09:58:58.725949-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5aec7a70-d876-4997-98fb-9dd99573b93b",
+      "memory": "Peter Diamandis is the chairperson of Harvard University.",
+      "hash": "185d388ca1f6c2e44eb7c39d4f84dbe7",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "peter_diamandis",
+          "predicate_norm": "is the chairperson of",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Peter Diamandis",
+          "predicate_raw": "is the chairperson of"
+        }
+      },
+      "score": 0.2369179991082222,
+      "created_at": "2026-06-30T09:58:58.743686-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "499caa0f-4293-4c1f-94b1-092ad367aa46",
+      "memory": "Twitter’s CEO is Bernard Arnault.",
+      "hash": "18ea47570665f373679299846a9e7bc6",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "twitter's_ceo",
+          "predicate_norm": "is",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.98,
+          "subject_raw": "Twitter's CEO",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.23183021827929534,
+      "created_at": "2026-06-30T09:59:20.455355-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6384d8b1-d89b-46f4-9d1d-d85bf91afa15",
+      "memory": "Dave Filoni is employed by Lucasfilm.",
+      "hash": "a66f2c0d19bb9182b79ed2579954bff5",
+      "metadata": {
+        "ordinal": 1,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "is employed by",
+          "object_text": "Lucasfilm",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2278899881923095,
+      "created_at": "2026-06-30T09:58:32.480862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6a80c2a8-1883-42e5-a212-7ecd49728aed",
+      "memory": "Vijay Mallya is the CEO of Apple Inc.",
+      "hash": "7ba6a039121ecbb94d27c1840c4f1c6c",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "is the ceo of",
+          "object_text": "Apple Inc.",
+          "confidence": 0.98,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is the CEO of"
+        }
+      },
+      "score": 0.21951757931207838,
+      "created_at": "2026-06-30T09:58:58.712706-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ea80476d-f80e-4ce7-a3aa-236ac71d9a2a",
+      "memory": "Alan Walsh is associated with Catholic Church.",
+      "hash": "69143acf44960b2e92a20aa88ff78224",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "alan_walsh",
+          "predicate_norm": "is associated with",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Alan Walsh",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.21314055085647565,
+      "created_at": "2026-06-30T09:59:20.481515-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e2f5f881-4a25-4c15-9f45-f62c4471702f",
+      "memory": "Stephen McNeil works in the field of politics.",
+      "hash": "5c698516dcf0ac30c7448a74833c22b1",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "stephen_mcneil",
+          "predicate_norm": "works in",
+          "object_text": "politics",
+          "confidence": 0.0,
+          "subject_raw": "Stephen McNeil",
+          "predicate_raw": "works in"
+        }
+      },
+      "score": 0.2093195047791327,
+      "created_at": "2026-06-30T09:58:41.292478-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e3fa746d-9bf5-4500-96a7-ca05c9e7a36c",
+      "memory": "Berlin is the capital of Germany",
+      "hash": "5fdc1bd6a84607b891185ae2ad784db3",
+      "metadata": {
+        "ordinal": 0,
+        "triple": null
+      },
+      "score": 0.1917080817806752,
+      "created_at": "2026-06-30T09:58:27.766991-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c3ec6a22-6b76-4bd7-9479-91a30530b3ea",
+      "memory": "Colin Irwin is a citizen of Israel",
+      "hash": "9352a0a8f672efcee00109cf0b0fce81",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "colin_irwin",
+          "predicate_norm": "is a citizen of",
+          "object_text": "Israel",
+          "confidence": 0.0,
+          "subject_raw": "Colin Irwin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19059799815757614,
+      "created_at": "2026-06-30T09:59:48.871312-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5fa04d69-769a-4aff-a8fe-4df32edb8459",
+      "memory": "The headquarters of University of California, Berkeley is located in Berkeley",
+      "hash": "8a0a9291e26e4b620ccb77456cafb8a7",
+      "metadata": {
+        "ordinal": 0,
+        "triple": null,
+        "subject_fallback": "university_of_california,_berkeley"
+      },
+      "score": 0.19047605437487714,
+      "created_at": "2026-06-30T09:58:27.749513-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cd2877bc-ff79-4fec-8aaf-07ed4b033102",
+      "memory": "Madame du Barry is a citizen of France",
+      "hash": "26f9044e9623689a3be8c327ef222819",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "madame_du_barry",
+          "predicate_norm": "is a citizen of",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Madame du Barry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18683770780957104,
+      "created_at": "2026-06-30T09:58:27.770439-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ca5b5391-e5ae-4fea-9479-9c11a1c7a132",
+      "memory": "Sweden's Prime Minister is Pedro Pierluisi.",
+      "hash": "e6badbc2cdf57e02ab5f558cebcf345d",
+      "metadata": {
+        "ordinal": 7,
+        "triple": null,
+        "subject_fallback": "pedro_pierluisi"
+      },
+      "score": 0.18379829815988064,
+      "created_at": "2026-06-30T09:59:20.458511-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f6bfcc48-1540-4d82-a361-dfce9f1311aa",
+      "memory": "The CEO of Acme is now Dana Lee",
+      "hash": "a092caa63366bd00d9177e2a6644884c",
+      "metadata": {
+        "ordinal": 10,
+        "triple": {
+          "subject_id": "ceo",
+          "predicate_norm": "is",
+          "object_text": "Dana Lee",
+          "confidence": 0.0,
+          "subject_raw": "CEO",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.17915251047288494,
+      "created_at": "2026-06-30T09:59:27.163624-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1ca94182-3546-4d9e-a613-ce82599c9a86",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Botevgrad.",
+      "hash": "8afbf714cd2995792aebf78f640ebfed",
+      "metadata": {
+        "ordinal": 3,
+        "triple": null,
+        "subject_fallback": "university_of_california,_berkeley"
+      },
+      "score": 0.17779167007384847,
+      "created_at": "2026-06-30T09:58:39.028066-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f0001d76-bebe-4523-82d4-8a105ab8bc24",
+      "memory": "The chairperson of Congolese Party of Labour is Stephen McNeil",
+      "hash": "cdea5eeea75e240a1592155e39a8b2a0",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "stephen_mcneil",
+          "predicate_norm": "is chairperson of",
+          "object_text": "Congolese Party of Labour",
+          "confidence": 0.95,
+          "subject_raw": "Stephen McNeil",
+          "predicate_raw": "is chairperson of"
+        }
+      },
+      "score": 0.16732594793483005,
+      "created_at": "2026-06-30T09:59:48.875294-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "173afd7d-9b81-4732-a25d-a0c4a731cc34",
+      "memory": "The chairperson of Fatah is Mahmoud Abbas",
+      "hash": "f48757e6bcf1841fbdf6b8311d437e5a",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "chairperson",
+          "predicate_norm": "of",
+          "object_text": "Fatah",
+          "confidence": 0.0,
+          "subject_raw": "chairperson",
+          "predicate_raw": "of"
+        }
+      },
+      "score": 0.16551922936121083,
+      "created_at": "2026-06-30T09:58:27.730738-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f3283610-84e5-4801-85ef-9f4daccb6058",
+      "memory": "Samuel Beckett was educated at University of Southern California.",
+      "hash": "9677a87c26d3d739ad5fabf4e2b4d733",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "samuel_beckett",
+          "predicate_norm": "was educated at",
+          "object_text": "University of Southern California",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Beckett",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.16033809849950065,
+      "created_at": "2026-06-30T09:58:58.728162-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6bc4aa45-d3f7-4df4-a0c9-5c7773c1a4b9",
+      "memory": "SteamOS was developed by ABB Group.",
+      "hash": "f0ddb29ec0211f5db90cd19e31296cc1",
+      "metadata": {
+        "ordinal": 7,
+        "triple": null,
+        "subject_fallback": "steamos"
+      },
+      "score": 0.1602611018661088,
+      "created_at": "2026-06-30T09:59:20.461454-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b45a69c1-308e-43c0-8e09-9c15ffb3d157",
+      "memory": "The name of the current head of the United States of America government is Donald Trump",
+      "hash": "90206373e3f48e05fff4dd0ad4eb2f4e",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "donald_trump",
+          "predicate_norm": "is the head of",
+          "object_text": "United States of America government",
+          "confidence": 0.98,
+          "subject_raw": "Donald Trump",
+          "predicate_raw": "is the head of"
+        }
+      },
+      "score": 0.15470213719659937,
+      "created_at": "2026-06-30T09:59:48.854444-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1953f46e-2b16-428a-a45c-f70316bbd786",
+      "memory": "Joseph Story is employed by Harvard University",
+      "hash": "b44b8444e6960925f81fff455849f0aa",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "joseph_story",
+          "predicate_norm": "is employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Story",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.15090519110233247,
+      "created_at": "2026-06-30T09:59:48.851928-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f182dbb2-3249-4be1-9322-09dcacb5bfa5",
+      "memory": "Vijay Mallya is a citizen of India.",
+      "hash": "50869bc1e48b68a26913417f2b40ac63",
+      "metadata": {
+        "ordinal": 1,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "is a citizen of",
+          "object_text": "India",
+          "confidence": 0.98,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1494950652427213,
+      "created_at": "2026-06-30T09:58:32.503869-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a44fbbac-da0c-4842-bdd4-42a62ece5779",
+      "memory": "Dave Filoni plays wide receiver.",
+      "hash": "f32aa3b071513a5030b11c2809bb19f5",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "plays",
+          "object_text": "wide receiver",
+          "confidence": 0.0,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.14901811739820942,
+      "created_at": "2026-06-30T09:58:58.745100-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b5c8eafe-6b55-4d8b-aa2c-599ca4b690d8",
+      "memory": "Church of Scotland was founded by John Knox",
+      "hash": "57577eeac7ade0b055e6fe7ac0528e59",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "church_of_scotland",
+          "predicate_norm": "was founded by",
+          "object_text": "John Knox",
+          "confidence": 0.95,
+          "subject_raw": "Church of Scotland",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.14738144745585288,
+      "created_at": "2026-06-30T09:58:27.756108-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "43a3484a-b2a7-44d4-8ea6-08d319627662",
+      "memory": "Hermione Granger was performed by Kylie Minogue",
+      "hash": "d466eb0cbe004e238bcdbc9e442e175f",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "hermione_granger",
+          "predicate_norm": "was performed by",
+          "object_text": "Kylie Minogue",
+          "confidence": 0.0,
+          "subject_raw": "Hermione Granger",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.1447171269155691,
+      "created_at": "2026-06-30T09:59:48.835553-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4b4a107-c682-4488-bc54-e7228f7ba23a",
+      "memory": "Bengaluru is located in Asia",
+      "hash": "30546d70f03c1240bac1ce77449f6aa5",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "bengalur",
+          "predicate_norm": "is located in",
+          "object_text": "Asia",
+          "confidence": 0.0,
+          "subject_raw": "Bengalur",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.1438732615182749,
+      "created_at": "2026-06-30T09:58:27.737171-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "faa2e0ca-4e39-4dd3-a2ac-ea1b5023d68d",
+      "memory": "Satya Nadella was born in Hyderabad",
+      "hash": "d485a4ca88cea2c8c68d2a3031491874",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "satya_nadela",
+          "predicate_norm": "was born in",
+          "object_text": "Hyderabad",
+          "confidence": 0.0,
+          "subject_raw": "Satya Nadela",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.13628801598284818,
+      "created_at": "2026-06-30T09:58:27.769337-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c94b33d6-07a3-4845-8d09-63708c9da6bc",
+      "memory": "Aladdin Sane was performed by David Bowie",
+      "hash": "87402606e52c8da4c9129536868325a6",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "aladdin_sane",
+          "predicate_norm": "was performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.0,
+          "subject_raw": "Aladdin Sane",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.13505472025968088,
+      "created_at": "2026-06-30T09:58:27.765813-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e90ee6fa-53c4-453a-aca7-b9c9f2d98037",
+      "memory": "Charles Dickens died in Gads Hill Place",
+      "hash": "16eec3e37b3229cc96bd3fcadae76298",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "died in",
+          "object_text": "Gads Hill Place",
+          "confidence": 0.0,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.13455347108122984,
+      "created_at": "2026-06-30T09:59:48.879839-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7314d999-46f0-448c-95f3-56ed45114ade",
+      "memory": "Rogério Ceni plays the position of goalkeeper",
+      "hash": "bd29d9567cfbf30869456623d23965f5",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays the position of",
+          "object_text": "goalkeeper",
+          "confidence": 0.0,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.12901846928590777,
+      "created_at": "2026-06-30T09:58:27.740630-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "602cac02-9857-4305-9c2e-5667d9eb31e3",
+      "memory": "John Walsh is affiliated with Catholic Church.",
+      "hash": "198663be3be3bc225c2a12580d614d41",
+      "metadata": {
+        "ordinal": 7,
+        "triple": null,
+        "subject_fallback": "john_walsh"
+      },
+      "score": 0.12840197374456422,
+      "created_at": "2026-06-30T09:59:20.473464-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6509eb23-4d8c-4d4f-baa2-f5eaa13d36a0",
+      "memory": "Association Football was created in England.",
+      "hash": "f13030ac43c5647a1c9dd35063d1c7a2",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "was created in",
+          "object_text": "England",
+          "confidence": 0.0,
+          "subject_raw": "Association Football",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.12811829344739575,
+      "created_at": "2026-06-30T09:59:20.442202-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7311f731-fd53-4dc3-874f-83b01360873b",
+      "memory": "Amy Winehouse died in the city of Camden Town",
+      "hash": "ef4c5fd5b5213e7da71f50687d474de8",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "amy_winehouse",
+          "predicate_norm": "died in",
+          "object_text": "Camden Town",
+          "confidence": 0.0,
+          "subject_raw": "Amy Winehouse",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.12805183847299131,
+      "created_at": "2026-06-30T09:58:27.733145-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a8f248f7-24bd-41b1-b3d5-f5f1a5f43189",
+      "memory": "Quarterback is associated with American football",
+      "hash": "067db107009ec2247a7bdf9270ad95f3",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "quarterback",
+          "predicate_norm": "is associated with",
+          "object_text": "American football",
+          "confidence": 0.0,
+          "subject_raw": "Quarterback",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1267451726937883,
+      "created_at": "2026-06-30T09:58:27.772858-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0001ae96-efe9-4644-9413-40c7691ec728",
+      "memory": "Sigmund Freud died in London.",
+      "hash": "d694ae5591bfceb7dd2a9ed9c2d6628a",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "sigmund_freud",
+          "predicate_norm": "died in",
+          "object_text": "London",
+          "confidence": 0.0,
+          "subject_raw": "Sigmund Freud",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1261822657976329,
+      "created_at": "2026-06-30T09:59:20.494696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4b273185-31a6-48b5-bb81-028e6b1e44ca",
+      "memory": "Surrey Senior Cup is associated with association football.",
+      "hash": "2d3d34d88ec80c048ae4983cf2e0b66a",
+      "metadata": {
+        "ordinal": 7,
+        "triple": null,
+        "subject_fallback": "surrey"
+      },
+      "score": 0.12592081645046416,
+      "created_at": "2026-06-30T09:59:20.486813-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2c447c19-9eea-40df-be60-06ae0fb659c8",
+      "memory": "The chairperson of Fatah is Moshe Kahlon.",
+      "hash": "ece255ff1de76289962cc0ae7b9b6d65",
+      "metadata": {
+        "ordinal": 6,
+        "triple": {
+          "subject_id": "chairperson",
+          "predicate_norm": "of",
+          "object_text": "Fatah",
+          "confidence": 0.95,
+          "subject_raw": "chairperson",
+          "predicate_raw": "of"
+        }
+      },
+      "score": 0.12568421396583032,
+      "created_at": "2026-06-30T09:59:01.003263-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9c72f349-899d-4f8a-bab9-939f987d509a",
+      "memory": "Thomas Kyd was born in the city of London",
+      "hash": "7ecc38e91e2fe6aaa58ee3c0b8b4591b",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "thomas_kyd",
+          "predicate_norm": "was born in",
+          "object_text": "London",
+          "confidence": 0.0,
+          "subject_raw": "Thomas Kyd",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.12462377025801272,
+      "created_at": "2026-06-30T09:58:27.726679-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7fabb641-bec0-4cba-ae59-4302e4f8d13b",
+      "memory": "Goalkeeper is associated with association football",
+      "hash": "3229bb5663e8278ef33b9f848dc3c37c",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "goalkeeper",
+          "predicate_norm": "is associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "Goalkeeper",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.12441454953408067,
+      "created_at": "2026-06-30T09:59:48.864456-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "807156cf-c35a-4d01-b311-6f70b402f721",
+      "memory": "Windows Phone was developed by Microsoft.",
+      "hash": "fb7374dc575c60d2dd90eed4f0fed78a",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "windows_phone",
+          "predicate_norm": "developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Phone",
+          "predicate_raw": "developed by"
+        }
+      },
+      "score": 0.1239225912995991,
+      "created_at": "2026-06-30T09:58:58.742153-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "42eb79c5-dae9-4932-9f65-26f1d14f4885",
+      "memory": "Canberra is the capital of Australia.",
+      "hash": "86b262c7a788175a4bd39e7aa21c1cff",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "canberra",
+          "predicate_norm": "is the capital of",
+          "object_text": "Australia",
+          "confidence": 0.98,
+          "subject_raw": "Canberra",
+          "predicate_raw": "is the capital of"
+        }
+      },
+      "score": 0.12292528070966355,
+      "created_at": "2026-06-30T09:59:20.477527-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0b7f17c7-ae6f-4f3f-b24b-6502aa522252",
+      "memory": "Point guard is associated with cricket.",
+      "hash": "99aeb7833abcc79f6faf4ffa3f4bd24d",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "point_guard",
+          "predicate_norm": "is associated with",
+          "object_text": "cricket",
+          "confidence": 0.0,
+          "subject_raw": "point guard",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.12165490978786336,
+      "created_at": "2026-06-30T09:58:58.739134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fccade3c-7665-44a0-9902-afb981d40c99",
+      "memory": "Robert A. Heinlein is a citizen of United States of America",
+      "hash": "256ee96ce2e361bb94f580ab3cb0e358",
+      "metadata": {
+        "ordinal": 0,
+        "triple": null,
+        "subject_fallback": "robert_a._heinlein"
+      },
+      "score": 0.11877984120166135,
+      "created_at": "2026-06-30T09:58:27.762253-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d153987b-72dd-4806-b323-e5915234b23e",
+      "memory": "Gabe Newell is a citizen of United States of America",
+      "hash": "64fd4f48a7200d816189e5605b631fc6",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "gabe_newell",
+          "predicate_norm": "is a citizen of",
+          "object_text": "United States of America",
+          "confidence": 0.0,
+          "subject_raw": "Gabe Newell",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.11497651020011766,
+      "created_at": "2026-06-30T09:59:48.856735-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "99367a71-f98d-4a81-911c-5e6854644b9e",
+      "memory": "Chanel was founded by Coco Chanel",
+      "hash": "52706641dae684f45c397d572c05ddb2",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "chanel",
+          "predicate_norm": "founded by",
+          "object_text": "Coco Chanel",
+          "confidence": 0.95,
+          "subject_raw": "Chanel",
+          "predicate_raw": "founded by"
+        }
+      },
+      "score": 0.11495825435763271,
+      "created_at": "2026-06-30T09:58:27.754848-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "827ebc38-ca01-4f76-bccf-e200ba74198f",
+      "memory": "Lisa Leslie plays the position of center",
+      "hash": "a2bcaef8c7d26cee03370a95fcfc89e8",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "lisa_leslie",
+          "predicate_norm": "plays the position of",
+          "object_text": "center",
+          "confidence": 0.0,
+          "subject_raw": "Lisa Leslie",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.1146714961899767,
+      "created_at": "2026-06-30T09:58:27.752234-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "93d8a652-44f7-49ad-b446-f3ce6b71501a",
+      "memory": "The capital of Australia is Sydney",
+      "hash": "c4009bbd1bdd8d577fd4e99c3cda1987",
+      "metadata": {
+        "ordinal": 10,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has capital",
+          "object_text": "Sydney",
+          "confidence": 0.0,
+          "subject_raw": "Australia",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.11383351750313261,
+      "created_at": "2026-06-30T09:59:27.166436-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6bca4e6c-498c-40b3-8503-2cb44e9ee60c",
+      "memory": "Amy Winehouse played Methodism.",
+      "hash": "0fae8cb268c929529abeb1e67fbbb56e",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "amy_winehouse",
+          "predicate_norm": "played methodism",
+          "object_text": "Methodism",
+          "confidence": 0.98,
+          "subject_raw": "Amy Winehouse",
+          "predicate_raw": "played methodism"
+        }
+      },
+      "score": 0.1128389308955934,
+      "created_at": "2026-06-30T09:59:20.483231-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a4d26e9d-f9e5-4681-94d3-5f0d3a88fc8a",
+      "memory": "Stephen Crane is famous for Charlie Hebdo",
+      "hash": "8be53b0aa44a4bfd3a5c1cc976446f98",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "stephen_crane",
+          "predicate_norm": "is famous for",
+          "object_text": "Charlie Hebdo",
+          "confidence": 0.95,
+          "subject_raw": "Stephen Crane",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.11087745848950609,
+      "created_at": "2026-06-30T09:59:48.826487-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5f93d6df-a2ab-4166-bae6-874d188cb08a",
+      "memory": "The Wheel of Time was written in English.",
+      "hash": "a259ff6cb8446688d656f594bb89acdc",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "wheel_of_time",
+          "predicate_norm": "was written in",
+          "object_text": "English",
+          "confidence": 0.0,
+          "subject_raw": "Wheel of Time",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.10927978149126918,
+      "created_at": "2026-06-30T09:58:58.706953-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "31b7da2a-a0ea-43cc-88bc-f8e74aa23564",
+      "memory": "Pius XII died in Wolverhampton.",
+      "hash": "1551478ce3ea2b7e6950839d35728709",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "pius_xii",
+          "predicate_norm": "died in",
+          "object_text": "Wolverhampton",
+          "confidence": 0.0,
+          "subject_raw": "Pius XII",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1084149224796543,
+      "created_at": "2026-06-30T09:59:20.475600-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ead98225-5f28-4108-acf9-6cc3fe752bb0",
+      "memory": "Starship Troopers is written by Robert A. Heinlein",
+      "hash": "1ea6ce295a49cb88bd3b723755093e67",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "starship_troopers",
+          "predicate_norm": "is written by",
+          "object_text": "Robert A. Heinlein",
+          "confidence": 0.98,
+          "subject_raw": "Starship Troopers",
+          "predicate_raw": "is written by"
+        }
+      },
+      "score": 0.10706985130157416,
+      "created_at": "2026-06-30T09:58:27.768088-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "faeaea25-556b-4154-8475-c4cdd42e83b6",
+      "memory": "Pakistan International Airlines was founded in Sweden.",
+      "hash": "b6fbf79ea6dbcb135b6684a969378235",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "was founded in",
+          "object_text": "Sweden",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.10691917048846641,
+      "created_at": "2026-06-30T09:58:58.721969-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "85f9cbd6-a225-43f6-9f8e-1150433da689",
+      "memory": "Bo Ryan is associated with the sport of association football.",
+      "hash": "91ce3c925d300737583c25e47875006c",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "bo_ryan",
+          "predicate_norm": "associated with",
+          "object_text": "sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Bo Ryan",
+          "predicate_raw": "associated with"
+        }
+      },
+      "score": 0.10583786314099755,
+      "created_at": "2026-06-30T09:59:25.109303-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "69a1e843-32df-4863-a18a-1be0a8e1ebe5",
+      "memory": "The official language of Australia is Arabic.",
+      "hash": "5fa5d35e1fce3f796962d2cb658d2dcc",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "is the official language of",
+          "object_text": "Arabic",
+          "confidence": 0.0,
+          "subject_raw": "Australia",
+          "predicate_raw": "is the official language of"
+        }
+      },
+      "score": 0.1050696675495073,
+      "created_at": "2026-06-30T09:58:41.283084-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c0ddffd6-3d88-4cb5-8a9d-16f2d0034ba9",
+      "memory": "The author of Sketches by Boz is Sigmund Freud",
+      "hash": "599234f4d2d9d36e5bf40461f9a7bd28",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "is written by",
+          "object_text": "Sigmund Freud",
+          "confidence": 0.98,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "is written by"
+        }
+      },
+      "score": 0.10463508318563959,
+      "created_at": "2026-06-30T09:59:48.849719-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6d9a869d-9a41-46e3-837c-6de0e2b24926",
+      "memory": "Hines Ward plays the position of wide receiver",
+      "hash": "6117552507bd3e0e9f83361c8fbf2fcb",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "hines_ward",
+          "predicate_norm": "plays the position of",
+          "object_text": "wide receiver",
+          "confidence": 0.0,
+          "subject_raw": "Hines Ward",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.10276601606810082,
+      "created_at": "2026-06-30T09:58:27.735092-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8788df24-889e-4fbd-b430-24107895eb07",
+      "memory": "Bowdoin College where Nathaniel Hawthorne was educated is located in the country of Bowdoin College",
+      "hash": "4e3f32fd0bc69b1d1bc6616dc1340a58",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "bowdoin_college",
+          "predicate_norm": "where nathaniel hawthorne was educated is located in",
+          "object_text": "Bowdoin College",
+          "confidence": 0.98,
+          "subject_raw": "Bowdoin College",
+          "predicate_raw": "where Nathaniel Hawthorne was educated is located in"
+        }
+      },
+      "score": 0.10265934533431431,
+      "created_at": "2026-06-30T09:59:48.866368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68cdac82-ca5f-41fb-ada1-3b029ed4216f",
+      "memory": "Pakistan International Airlines was founded in Karachi",
+      "hash": "0f0b154307110e5de2b5044c00624ff3",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "was founded in",
+          "object_text": "Karachi",
+          "confidence": 0.0,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.10144944223751753,
+      "created_at": "2026-06-30T09:58:27.771546-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "71bef4aa-143b-4140-aa93-08e67b64984f",
+      "memory": "Rogério Ceni plays the position of flanker",
+      "hash": "8ea22e38b5c83235f025136efeb74cf2",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays the position of",
+          "object_text": "flanker",
+          "confidence": 0.0,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.09909414839494551,
+      "created_at": "2026-06-30T09:59:48.858705-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "21fae48b-1f8c-4908-9941-c2b229d1d5d0",
+      "memory": "Ernst Heinkel is a citizen of Germany.",
+      "hash": "434c0762db36f772029828a5c4a1a7b3",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "is a citizen of",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.09818628002475843,
+      "created_at": "2026-06-30T09:58:58.688937-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "def23b9b-b3b1-40c1-b5f6-fc5b31d7c585",
+      "memory": "Henri Grégoire is a citizen of France.",
+      "hash": "8d14fff4de043a829b02fa59b6c08739",
+      "metadata": {
+        "ordinal": 1,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "is a citizen of",
+          "object_text": "France",
+          "confidence": 0.98,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.09738033726123108,
+      "created_at": "2026-06-30T09:58:32.489599-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "dc8e3da7-85ca-4ca2-b9aa-9c65b7ddecda",
+      "memory": "Bo Ryan is associated with basketball.",
+      "hash": "51221702460c683e3e2ce6b2c1149fcc",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "bo_ryan",
+          "predicate_norm": "associated with",
+          "object_text": "basketball",
+          "confidence": 0.0,
+          "subject_raw": "Bo Ryan",
+          "predicate_raw": "associated with"
+        }
+      },
+      "score": 0.09646225129044944,
+      "created_at": "2026-06-30T09:58:58.699350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "59a18915-4c35-4ba0-9a38-f6ef47b9453e",
+      "memory": "Shingon Buddhism was founded by Kūkai",
+      "hash": "902ca1360c19729b2ab67e2ccc4dcb94",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "shingon_buddhism",
+          "predicate_norm": "founded by",
+          "object_text": "Kūkai",
+          "confidence": 0.98,
+          "subject_raw": "Shingon Buddhism",
+          "predicate_raw": "founded by"
+        }
+      },
+      "score": 0.09624605546330015,
+      "created_at": "2026-06-30T09:58:27.759859-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5a167e04-9e4c-4ffc-83e0-820d9f19e057",
+      "memory": "The university where Bill Frisell was educated is The University of the Arts.",
+      "hash": "f44d9fbc99bb9fa97f6a355c59efe9f4",
+      "metadata": {
+        "ordinal": 8,
+        "triple": {
+          "subject_id": "the_university_of_the_arts",
+          "predicate_norm": "is located at",
+          "object_text": "University of the Arts",
+          "confidence": 0.98,
+          "subject_raw": "The University of the Arts",
+          "predicate_raw": "is located at"
+        }
+      },
+      "score": 0.09568564950890635,
+      "created_at": "2026-06-30T09:59:22.749747-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6023cf17-f506-4180-9391-f7a231e43dd8",
+      "memory": "The author of A Wizard of Earthsea is Ursula K. Le Guin",
+      "hash": "5b47033ec43b5824c6fc4380109336d2",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "a_wizard_of_earthsea",
+          "predicate_norm": "is",
+          "object_text": "Ursula K. Le Guin",
+          "confidence": 0.98,
+          "subject_raw": "A Wizard of Earthsea",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.09345371948897971,
+      "created_at": "2026-06-30T09:58:27.746695-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c0fe29a5-2700-4ddc-a2e4-9ea46efffd2b",
+      "memory": "The capital of Romania is Rajanpur",
+      "hash": "0174e6b75d3f933eeed516e491b5e8c1",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "has capital",
+          "object_text": "Rajanpur",
+          "confidence": 0.0,
+          "subject_raw": "Romania",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.09335103562972122,
+      "created_at": "2026-06-30T09:59:48.881245-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8880a129-e8ba-427a-9215-f41e0baf13b1",
+      "memory": "The name of the current head of state in United States of America is Donald Trump.",
+      "hash": "a790d6a7ef51e64b61403b0fd5485b6c",
+      "metadata": {
+        "ordinal": 3,
+        "triple": null,
+        "subject_fallback": "donald_trump"
+      },
+      "score": 0.090377305090913,
+      "created_at": "2026-06-30T09:58:39.035582-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "48632ed8-ec1d-43b8-a3fd-cf6c0d0ed0b3",
+      "memory": "Alta IF is associated with the sport of association football",
+      "hash": "4e2c1d0ac222fb760d103bc99f9a0082",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "alta",
+          "predicate_norm": "associated with",
+          "object_text": "IF",
+          "confidence": 0.0,
+          "subject_raw": "Alta",
+          "predicate_raw": "associated with"
+        }
+      },
+      "score": 0.09016817465591974,
+      "created_at": "2026-06-30T09:58:27.758622-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e284bc57-6474-449a-8bbd-258bb02e8329",
+      "memory": "Methodism was founded by John Wesley.",
+      "hash": "a43b51f1b1bc7675dd1f4c5afec9fb2a",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "john_wesley",
+          "predicate_norm": "founded",
+          "object_text": "Methodism",
+          "confidence": 0.95,
+          "subject_raw": "John Wesley",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.08854771927376988,
+      "created_at": "2026-06-30T09:58:58.737116-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9b77ecd4-948e-4ffe-818f-724099306001",
+      "memory": "India is located in Africa.",
+      "hash": "5eb0ab04dd468fd5d2b89d3027310d65",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "is located in",
+          "object_text": "Africa",
+          "confidence": 0.0,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.08699593967377167,
+      "created_at": "2026-06-30T09:59:20.469074-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fd7d53c8-907d-4e64-b4a8-121c858041fc",
+      "memory": "Narendra Modi is a citizen of Australia.",
+      "hash": "d787b03c67e5d6d81f289d140f24c6db",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "narendra_modi",
+          "predicate_norm": "is a citizen of",
+          "object_text": "Australia",
+          "confidence": 0.95,
+          "subject_raw": "Narendra Modi",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.08615824901385033,
+      "created_at": "2026-06-30T09:58:58.735386-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0ddb5d16-3807-4e69-be5b-8e2edf47a729",
+      "memory": "University where Galileo Galilei was educated is University of Pisa",
+      "hash": "02ccc200fbb7165318db0f91d876a72f",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "university",
+          "predicate_norm": "where galileo galilei was educated",
+          "object_text": "is University of Pisa",
+          "confidence": 0.98,
+          "subject_raw": "University",
+          "predicate_raw": "where Galileo Galilei was educated"
+        }
+      },
+      "score": 0.08608236765356929,
+      "created_at": "2026-06-30T09:58:27.753544-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6784cbfa-62ff-49e8-a95f-aa7e17445f3b",
+      "memory": "Roy Rogers is married to Dale Evans",
+      "hash": "c85f226ea05285e67142b6b2f04ac1e2",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "roy_rogers",
+          "predicate_norm": "is married to",
+          "object_text": "Dale Evans",
+          "confidence": 0.98,
+          "subject_raw": "Roy Rogers",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.08572810764856305,
+      "created_at": "2026-06-30T09:59:48.878147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1d42ed16-9725-488c-83b2-b7f22fff4770",
+      "memory": "Ferdinand Marcos is married to Imelda Marcos",
+      "hash": "8be922d1fa71af4fd5244976cbe181dd",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "ferdinand_marcos",
+          "predicate_norm": "is married to",
+          "object_text": "Imelda Marcos",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand Marcos",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.08508204003075398,
+      "created_at": "2026-06-30T09:58:27.748110-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7bdcfbe2-76a9-4c57-a5f0-73a1a4146911",
+      "memory": "The headquarters of University of Minnesota is located in Minneapolis",
+      "hash": "a6d7c877c1e733eeb0db148ccc46071d",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "university_of_minnesota",
+          "predicate_norm": "located in",
+          "object_text": "Minneapolis",
+          "confidence": 0.95,
+          "subject_raw": "University of Minnesota",
+          "predicate_raw": "located in"
+        }
+      },
+      "score": 0.08434362409273174,
+      "created_at": "2026-06-30T09:58:27.745267-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "11ff0d36-c94b-4a4b-b2fd-974ebc128194",
+      "memory": "Ayumi Hamasaki is a citizen of Japan.",
+      "hash": "266fab3845232bf53bab4b9aaace4b4e",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "ayumi_hamasaki",
+          "predicate_norm": "is a citizen of",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Ayumi Hamasaki",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.08277942245924447,
+      "created_at": "2026-06-30T09:59:20.490054-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0a987683-360b-4faa-bf8d-14fcb7cefcb0",
+      "memory": "Ferdinand von Richthofen is a citizen of Germany",
+      "hash": "fbb8320633c20def33f405554e94f35e",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "ferdinand_von_richthofen",
+          "predicate_norm": "is a citizen of",
+          "object_text": "Germany",
+          "confidence": 0.0,
+          "subject_raw": "Ferdinand von Richthofen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.08030323927599223,
+      "created_at": "2026-06-30T09:58:27.764646-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4d2ea2a7-6d9c-4f87-b560-d401e358a0cd",
+      "memory": "T. S. Eliot speaks French.",
+      "hash": "cee01842347d2d70909ae2a60792b67f",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "eliot",
+          "predicate_norm": "speaks",
+          "object_text": "French",
+          "confidence": 0.0,
+          "subject_raw": "Eliot",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.07923455106242905,
+      "created_at": "2026-06-30T09:58:58.704083-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d2f1be6d-a232-4561-816b-102135b3ef3b",
+      "memory": "The author of The Birth of Tragedy is Stephen Crane.",
+      "hash": "c6b98ee39ec9dab593966649731dd182",
+      "metadata": {
+        "ordinal": 2,
+        "triple": {
+          "subject_id": "the_author",
+          "predicate_norm": "of",
+          "object_text": "The Birth of Tragedy",
+          "confidence": 0.95,
+          "subject_raw": "The author",
+          "predicate_raw": "of"
+        }
+      },
+      "score": 0.07655763439999791,
+      "created_at": "2026-06-30T09:58:35.545826-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "367a4d33-8349-425e-9fac-6237bef804bb",
+      "memory": "Germany is located in Europe.",
+      "hash": "d5936abf864d9c999705cb41108e0072",
+      "metadata": {
+        "ordinal": 1,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "is located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.07641350274195835,
+      "created_at": "2026-06-30T09:58:32.500385-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6cb4e98f-243f-40c6-ac89-8963ec765796",
+      "memory": "Gennady Rozhdestvensky died in Moscow.",
+      "hash": "da03e5f2fb1eaeba3a31b07c50d94d83",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "gennady_rozhdestvensky",
+          "predicate_norm": "died in",
+          "object_text": "Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Gennady Rozhdestvensky",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.07627422009747163,
+      "created_at": "2026-06-30T09:59:20.488451-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "81dfa966-721c-4ac3-a23e-ffb479353058",
+      "memory": "Vladimir Lenin is married to Nadezhda Krupskaya",
+      "hash": "869b47337076c0aaa8c4155ef641a974",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "vladimir_lenin",
+          "predicate_norm": "is married to",
+          "object_text": "Nadezhda Krupskaya",
+          "confidence": 0.95,
+          "subject_raw": "Vladimir Lenin",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.07601652834754583,
+      "created_at": "2026-06-30T09:59:48.821337-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "348077be-e34e-4f2f-855f-a5a9e42e8ec5",
+      "memory": "Catholic Church was founded by Jesus Christ.",
+      "hash": "505cc400adc563274003a7cd2572676b",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "catholic_church",
+          "predicate_norm": "was founded by",
+          "object_text": "Jesus Christ",
+          "confidence": 0.95,
+          "subject_raw": "Catholic Church",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.07594474686354002,
+      "created_at": "2026-06-30T09:58:58.695519-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1ed1be50-d0dc-4851-aa21-e93787190532",
+      "memory": "India is located in Asia.",
+      "hash": "98a3d22907b224f31ebe274f1400e9fb",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "is located in",
+          "object_text": "Asia",
+          "confidence": 0.0,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.07309792960684625,
+      "created_at": "2026-06-30T09:58:58.746504-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2426d8d7-2754-4204-b0ee-1386da8f8a4a",
+      "memory": "Charles Messier is a citizen of France.",
+      "hash": "f8594da04feb69797c4ccd7c41f7477e",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "charles_messier",
+          "predicate_norm": "is a citizen of",
+          "object_text": "France",
+          "confidence": 0.0,
+          "subject_raw": "Charles Messier",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.07131225345463268,
+      "created_at": "2026-06-30T09:58:58.719570-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "52d6ebb7-a204-484e-b3c5-57bb7fbecb68",
+      "memory": "Malaysia is located in Antarctica",
+      "hash": "96a895f00208fc036db8173966282437",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "malaysia",
+          "predicate_norm": "is located in",
+          "object_text": "Antarctica",
+          "confidence": 0.0,
+          "subject_raw": "Malaysia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.06778909107715385,
+      "created_at": "2026-06-30T09:59:48.873197-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "30b9ce0e-3cb6-4718-a45c-24def029374e",
+      "memory": "Vampyre was written in English.",
+      "hash": "6ec2c7fac9366a3d1f86e3586b85e8cb",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "vampyre",
+          "predicate_norm": "was written in",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Vampyre",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.06715224709282708,
+      "created_at": "2026-06-30T09:59:20.464070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cbff8f45-bc7a-4358-9dac-b89638579a3d",
+      "memory": "Dana International plays Australian hip hop.",
+      "hash": "3aad1d21b8abcc034b329c7680c1678d",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "dana_international",
+          "predicate_norm": "plays",
+          "object_text": "Australian hip hop",
+          "confidence": 0.0,
+          "subject_raw": "Dana International",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.0656393610450628,
+      "created_at": "2026-06-30T09:59:20.479652-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5ba0fd03-842e-4a9e-a42c-da6e6c505738",
+      "memory": "Galwegians RFC is associated with the sport of rugby union",
+      "hash": "171244c9842c40823153c73a7e8939ad",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "galwegians_rfc",
+          "predicate_norm": "is associated with",
+          "object_text": "rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Galwegians RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.06323904517740409,
+      "created_at": "2026-06-30T09:58:27.763393-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "77061ced-7517-4036-bd02-51215d053f43",
+      "memory": "T.S. Eliot wrote A Wizard of Earthsea.",
+      "hash": "1a514e7329bf187eac1cf1bd3131c63b",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "t.s._eliot",
+          "predicate_norm": "wrote",
+          "object_text": "A Wizard of Earthsea",
+          "confidence": 0.95,
+          "subject_raw": "T.S. Eliot",
+          "predicate_raw": "wrote"
+        }
+      },
+      "score": 0.0629349131362715,
+      "created_at": "2026-06-30T09:59:20.496532-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "23a2b6af-5459-4c07-b2da-38c7b63be93a",
+      "memory": "F-22 Raptor was developed by Lockheed Martin.",
+      "hash": "4d4dce8ffbc14544dfdbf947ca3ed21c",
+      "metadata": {
+        "ordinal": 7,
+        "triple": null,
+        "subject_fallback": "raptor"
+      },
+      "score": 0.056256322853562135,
+      "created_at": "2026-06-30T09:59:20.451742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead\n- The director of British Broadcasting Corporation is Narendra Modi\n- Tim Cook is the director of Apple Inc.\n- The director of LucasFilm is Kathleen Kennedy.\n- Lucasfilm’s director is Kathleen Kennedy.\n- The chief executive officer of ABB Group is Ulrich Spiesshofer.\n- The name of the current head of state in United Kingdom is Elizabeth II.\n- Tony Blair is married to Alan Jay Lerner\n- Victoria Beckham is married to David Beckham\n- The director of Madonna is Guy Oseary.\n- Peter Diamandis is the chairperson of Harvard University.\n- Twitter’s CEO is Bernard Arnault.\n- Dave Filoni is employed by Lucasfilm.\n- Vijay Mallya is the CEO of Apple Inc.\n- Alan Walsh is associated with Catholic Church.\n- Stephen McNeil works in the field of politics.\n- Berlin is the capital of Germany\n- Colin Irwin is a citizen of Israel\n- The headquarters of University of California, Berkeley is located in Berkeley\n- Madame du Barry is a citizen of France\n- Sweden's Prime Minister is Pedro Pierluisi.\n- The CEO of Acme is now Dana Lee\n- The headquarters of University of California, Berkeley is located in the city of Botevgrad.\n- The chairperson of Congolese Party of Labour is Stephen McNeil\n- Samuel Beckett was educated at University of Southern California.\n- SteamOS was developed by ABB Group.\n- The name of the current head of the United States of America government is Donald Trump\n- Joseph Story is employed by Harvard University\n- Vijay Mallya is a citizen of India.\n- Dave Filoni plays wide receiver.\n- Church of Scotland was founded by John Knox\n- Hermione Granger was performed by Kylie Minogue\n- Bengaluru is located in Asia\n- Satya Nadella was born in Hyderabad\n- Aladdin Sane was performed by David Bowie\n- Charles Dickens died in Gads Hill Place\n- John Walsh is affiliated with Catholic Church.\n- Association Football was created in England.\n- Amy Winehouse died in the city of Camden Town\n- Quarterback is associated with American football\n- Sigmund Freud died in London.\n- Surrey Senior Cup is associated with association football.\n- The chairperson of Fatah is Moshe Kahlon.\n- Thomas Kyd was born in the city of London\n- Goalkeeper is associated with association football\n- Windows Phone was developed by Microsoft.\n- Canberra is the capital of Australia.\n- Point guard is associated with cricket.\n- Robert A. Heinlein is a citizen of United States of America\n- Gabe Newell is a citizen of United States of America\n- Chanel was founded by Coco Chanel\n- Lisa Leslie plays the position of center\n- The capital of Australia is Sydney\n- Amy Winehouse played Methodism.\n- Stephen Crane is famous for Charlie Hebdo\n- The Wheel of Time was written in English.\n- Pius XII died in Wolverhampton.\n- Starship Troopers is written by Robert A. Heinlein\n- Pakistan International Airlines was founded in Sweden.\n- Bo Ryan is associated with the sport of association football.\n- The official language of Australia is Arabic.\n- The author of Sketches by Boz is Sigmund Freud\n- Hines Ward plays the position of wide receiver\n- Bowdoin College where Nathaniel Hawthorne was educated is located in the country of Bowdoin College\n- Rogério Ceni plays the position of flanker\n- Ernst Heinkel is a citizen of Germany.\n- Henri Grégoire is a citizen of France.\n- Shingon Buddhism was founded by Kūkai\n- The university where Bill Frisell was educated is The University of the Arts.\n- The author of A Wizard of Earthsea is Ursula K. Le Guin\n- The capital of Romania is Rajanpur\n- The name of the current head of state in United States of America is Donald Trump.\n- Alta IF is associated with the sport of association football\n- Methodism was founded by John Wesley.\n- India is located in Africa.\n- Narendra Modi is a citizen of Australia.\n- University where Galileo Galilei was educated is University of Pisa\n- Roy Rogers is married to Dale Evans\n- Ferdinand Marcos is married to Imelda Marcos\n- The headquarters of University of Minnesota is located in Minneapolis\n- Ayumi Hamasaki is a citizen of Japan.\n- Ferdinand von Richthofen is a citizen of Germany\n- T. S. Eliot speaks French.\n- The author of The Birth of Tragedy is Stephen Crane.\n- Germany is located in Europe.\n- Gennady Rozhdestvensky died in Moscow.\n- Vladimir Lenin is married to Nadezhda Krupskaya\n- Catholic Church was founded by Jesus Christ.\n- Charles Messier is a citizen of France.\n- Malaysia is located in Antarctica\n- Vampyre was written in English.\n- Dana International plays Australian hip hop.\n- Galwegians RFC is associated with the sport of rugby union\n- T.S. Eliot wrote A Wizard of Earthsea.\n- F-22 Raptor was developed by Lockheed Martin.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead\n- The director of British Broadcasting Corporation is Narendra Modi\n- Tim Cook is the director of Apple Inc.\n- The director of LucasFilm is Kathleen Kennedy.\n- Lucasfilm’s director is Kathleen Kennedy.\n- The chief executive officer of ABB Group is Ulrich Spiesshofer.\n- The name of the current head of state in United Kingdom is Elizabeth II.\n- Tony Blair is married to Alan Jay Lerner\n- Victoria Beckham is married to David Beckham\n- The director of Madonna is Guy Oseary.\n- Peter Diamandis is the chairperson of Harvard University.\n- Twitter’s CEO is Bernard Arnault.\n- Dave Filoni is employed by Lucasfilm.\n- Vijay Mallya is the CEO of Apple Inc.\n- Alan Walsh is associated with Catholic Church.\n- Stephen McNeil works in the field of politics.\n- Berlin is the capital of Germany\n- Colin Irwin is a citizen of Israel\n- The headquarters of University of California, Berkeley is located in Berkeley\n- Madame du Barry is a citizen of France\n- Sweden's Prime Minister is Pedro Pierluisi.\n- The CEO of Acme is now Dana Lee\n- The headquarters of University of California, Berkeley is located in the city of Botevgrad.\n- The chairperson of Congolese Party of Labour is Stephen McNeil\n- Samuel Beckett was educated at University of Southern California.\n- SteamOS was developed by ABB Group.\n- The name of the current head of the United States of America government is Donald Trump\n- Joseph Story is employed by Harvard University\n- Vijay Mallya is a citizen of India.\n- Dave Filoni plays wide receiver.\n- Church of Scotland was founded by John Knox\n- Hermione Granger was performed by Kylie Minogue\n- Bengaluru is located in Asia\n- Satya Nadella was born in Hyderabad\n- Aladdin Sane was performed by David Bowie\n- Charles Dickens died in Gads Hill Place\n- John Walsh is affiliated with Catholic Church.\n- Association Football was created in England.\n- Amy Winehouse died in the city of Camden Town\n- Quarterback is associated with American football\n- Sigmund Freud died in London.\n- Surrey Senior Cup is associated with association football.\n- The chairperson of Fatah is Moshe Kahlon.\n- Thomas Kyd was born in the city of London\n- Goalkeeper is associated with association football\n- Windows Phone was developed by Microsoft.\n- Canberra is the capital of Australia.\n- Point guard is associated with cricket.\n- Robert A. Heinlein is a citizen of United States of America\n- Gabe Newell is a citizen of United States of America\n- Chanel was founded by Coco Chanel\n- Lisa Leslie plays the position of center\n- The capital of Australia is Sydney\n- Amy Winehouse played Methodism.\n- Stephen Crane is famous for Charlie Hebdo\n- The Wheel of Time was written in English.\n- Pius XII died in Wolverhampton.\n- Starship Troopers is written by Robert A. Heinlein\n- Pakistan International Airlines was founded in Sweden.\n- Bo Ryan is associated with the sport of association football.\n- The official language of Australia is Arabic.\n- The author of Sketches by Boz is Sigmund Freud\n- Hines Ward plays the position of wide receiver\n- Bowdoin College where Nathaniel Hawthorne was educated is located in the country of Bowdoin College\n- Rogério Ceni plays the position of flanker\n- Ernst Heinkel is a citizen of Germany.\n- Henri Grégoire is a citizen of France.\n- Shingon Buddhism was founded by Kūkai\n- The university where Bill Frisell was educated is The University of the Arts.\n- The author of A Wizard of Earthsea is Ursula K. Le Guin\n- The capital of Romania is Rajanpur\n- The name of the current head of state in United States of America is Donald Trump.\n- Alta IF is associated with the sport of association football\n- Methodism was founded by John Wesley.\n- India is located in Africa.\n- Narendra Modi is a citizen of Australia.\n- University where Galileo Galilei was educated is University of Pisa\n- Roy Rogers is married to Dale Evans\n- Ferdinand Marcos is married to Imelda Marcos\n- The headquarters of University of Minnesota is located in Minneapolis\n- Ayumi Hamasaki is a citizen of Japan.\n- Ferdinand von Richthofen is a citizen of Germany\n- T. S. Eliot speaks French.\n- The author of The Birth of Tragedy is Stephen Crane.\n- Germany is located in Europe.\n- Gennady Rozhdestvensky died in Moscow.\n- Vladimir Lenin is married to Nadezhda Krupskaya\n- Catholic Church was founded by Jesus Christ.\n- Charles Messier is a citizen of France.\n- Malaysia is located in Antarctica\n- Vampyre was written in English.\n- Dana International plays Australian hip hop.\n- Galwegians RFC is associated with the sport of rugby union\n- T.S. Eliot wrote A Wizard of Earthsea.\n- F-22 Raptor was developed by Lockheed Martin.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Who is the director of British Broadcasting Corporation? \nAnswer:\n\nCurrent Time: 2026-07-01 01:02:42",
+  "response": "Tony Hall",
+  "prompt_tokens": 1304,
+  "completion_tokens": 3
+}

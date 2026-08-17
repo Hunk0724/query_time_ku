@@ -1,0 +1,3989 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "d3678fa0-6341-4bd7-a15d-78d1b0125638",
+      "memory": "The author of The Great Movies is Roger Ebert.",
+      "hash": "c1ea21cf6f940f26c91c96b2cb1dc27b",
+      "metadata": {
+        "ordinal": 902,
+        "triple": {
+          "subject_id": "the_great_movies",
+          "predicate_norm": "has author",
+          "object_text": "Roger Ebert",
+          "confidence": 0.95,
+          "subject_raw": "The Great Movies",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.7512012252337181,
+      "created_at": "2026-07-04T04:41:27.188822-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c8c8ed9a-883a-4e00-aa56-a432ca354edd",
+      "memory": "The author of The Great Movies is John Evelyn.",
+      "hash": "34ae606775e14dfb55951020b2f48b42",
+      "metadata": {
+        "ordinal": 1617,
+        "triple": {
+          "subject_id": "the_great_movies",
+          "predicate_norm": "has author",
+          "object_text": "John Evelyn",
+          "confidence": 0.95,
+          "subject_raw": "The Great Movies",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.7178331352962894,
+      "created_at": "2026-07-04T04:42:06.363079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bc8f7f1e-c674-4747-bfce-882a4b32e340",
+      "memory": "The author of Endgame is Samuel Beckett",
+      "hash": "0671948d25b53d36aa3404f4e94734d0",
+      "metadata": {
+        "ordinal": 1506,
+        "triple": {
+          "subject_id": "samuel_beckett",
+          "predicate_norm": "be author",
+          "object_text": "Endgame",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Beckett",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.36637827844252835,
+      "created_at": "2026-07-04T04:42:00.339797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b503e1bd-62a9-4b50-b44e-859b7ff99034",
+      "memory": "The author of Mazinger Z is Go Nagai.",
+      "hash": "2014e7142017a7d9d91b81c00bc80189",
+      "metadata": {
+        "ordinal": 1307,
+        "triple": {
+          "subject_id": "mazinger_z",
+          "predicate_norm": "has author",
+          "object_text": "Go Nagai",
+          "confidence": 0.95,
+          "subject_raw": "Mazinger Z",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.35508716480972546,
+      "created_at": "2026-07-04T04:41:51.354155-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4b0ccc97-8480-4e40-bd54-e4d96983d69f",
+      "memory": "The author of The Thin Man is Dashiell Hammett.",
+      "hash": "b2a3df5b3f1b0795dcf0577c098edda1",
+      "metadata": {
+        "ordinal": 2212,
+        "triple": {
+          "subject_id": "the_thin_man",
+          "predicate_norm": "has author",
+          "object_text": "Dashiell Hammett",
+          "confidence": 0.95,
+          "subject_raw": "The Thin Man",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3460486131866766,
+      "created_at": "2026-07-04T04:42:40.071629-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f82e82e6-2a1c-41f4-9af3-050a21633c6e",
+      "memory": "The author of L.A. Confidential is Guy Debord.",
+      "hash": "84280880e9dd03332aadce5d2ae2fd57",
+      "metadata": {
+        "ordinal": 1678,
+        "triple": {
+          "subject_id": "l.a._confidential",
+          "predicate_norm": "has author",
+          "object_text": "Guy Debord",
+          "confidence": 0.95,
+          "subject_raw": "L.A. Confidential",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.34470755727433766,
+      "created_at": "2026-07-04T04:42:08.063477-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4c3cd5d3-85e6-438f-8603-b7c888c281ec",
+      "memory": "The author of Ball Four is Bill James.",
+      "hash": "5a3fd7133e8c296089780c1615ccff5c",
+      "metadata": {
+        "ordinal": 1213,
+        "triple": {
+          "subject_id": "the_author_of_ball_four",
+          "predicate_norm": "be",
+          "object_text": "Bill James",
+          "confidence": 0.95,
+          "subject_raw": "the author of Ball Four",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.339355295528031,
+      "created_at": "2026-07-04T04:41:46.365024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ce2dc2d7-2b79-47da-9f6d-d1da2de090e7",
+      "memory": "The author of Beyond Good and Evil is Friedrich Nietzsche.",
+      "hash": "3f9175d30fc2a7905946e0b813aef66a",
+      "metadata": {
+        "ordinal": 2161,
+        "triple": {
+          "subject_id": "beyond_good_and_evil",
+          "predicate_norm": "be authored by",
+          "object_text": "Friedrich Nietzsche",
+          "confidence": 0.95,
+          "subject_raw": "Beyond Good and Evil",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.33488828694381373,
+      "created_at": "2026-07-04T04:42:36.673524-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "938dab57-6cba-4b29-8997-eb1154b76780",
+      "memory": "The author of Star Trek canon is Joseph Goebbels.",
+      "hash": "39c03b8d1760ff0279fa82690544219f",
+      "metadata": {
+        "ordinal": 1795,
+        "triple": null,
+        "subject_fallback": "joseph_goebbels"
+      },
+      "score": 0.3308426456168947,
+      "created_at": "2026-07-04T04:42:16.493999-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4dbd47f5-d67b-483f-b9a3-f4c755304335",
+      "memory": "The author of American Pastoral is Philip Roth.",
+      "hash": "8bbe1ff809bf95fae77365e58611528d",
+      "metadata": {
+        "ordinal": 2234,
+        "triple": {
+          "subject_id": "american_pastoral",
+          "predicate_norm": "has author",
+          "object_text": "Philip Roth",
+          "confidence": 0.95,
+          "subject_raw": "American Pastoral",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3256123780023521,
+      "created_at": "2026-07-04T04:42:40.101135-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3ba205ec-e599-4d27-993e-348b5a053134",
+      "memory": "The author of Sin City is Frank Miller.",
+      "hash": "3544809bc0151a737b99c8aa7f0890d2",
+      "metadata": {
+        "ordinal": 1885,
+        "triple": {
+          "subject_id": "sin_city",
+          "predicate_norm": "has author",
+          "object_text": "Frank Miller",
+          "confidence": 0.95,
+          "subject_raw": "Sin City",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3234563953897013,
+      "created_at": "2026-07-04T04:42:20.209880-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1269ca9c-0ccc-439d-ab5c-958198d4727f",
+      "memory": "The author of Coraline is John Stuart Mill.",
+      "hash": "e2b72b3004e8de19b94195d49889f566",
+      "metadata": {
+        "ordinal": 1726,
+        "triple": {
+          "subject_id": "coraline",
+          "predicate_norm": "be authored by",
+          "object_text": "John Stuart Mill",
+          "confidence": 0.95,
+          "subject_raw": "Coraline",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3189806682743504,
+      "created_at": "2026-07-04T04:42:12.889321-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "759ab0ba-6331-45f2-a51b-6da40c7ef20b",
+      "memory": "The author of The Call of Cthulhu is H. P. Lovecraft.",
+      "hash": "c9a1b9afc922fe5dffd414e6857dad23",
+      "metadata": {
+        "ordinal": 583,
+        "triple": {
+          "subject_id": "the_call_of_cthulhu",
+          "predicate_norm": "has author",
+          "object_text": "H. P. Lovecraft",
+          "confidence": 0.95,
+          "subject_raw": "The Call of Cthulhu",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3177505593321204,
+      "created_at": "2026-07-04T04:41:09.375578-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2f57c339-1ebe-49bb-8ed7-53178dc46ee3",
+      "memory": "The author of The Subjection of Women is Charley Boorman.",
+      "hash": "42c2455549305e36c2499cd74976636f",
+      "metadata": {
+        "ordinal": 1325,
+        "triple": {
+          "subject_id": "the_subjection_of_women",
+          "predicate_norm": "has author",
+          "object_text": "Charley Boorman",
+          "confidence": 0.95,
+          "subject_raw": "The Subjection of Women",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.314004066100372,
+      "created_at": "2026-07-04T04:41:51.389597-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0d4d73c5-d13a-4f7c-80ee-81efb5bb86cf",
+      "memory": "The author of 1984 is George Orwell.",
+      "hash": "681c2a2e2f95ab103561059ca4574cfd",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "1984",
+          "predicate_norm": "be authored by",
+          "object_text": "George Orwell",
+          "confidence": 0.95,
+          "subject_raw": "1984",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3127552978339101,
+      "created_at": "2026-07-04T04:40:19.781174-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "707c4367-afd9-4c78-8907-7581b00766db",
+      "memory": "The author of Ball Four is Jim Bouton.",
+      "hash": "a01f8127aa8952c8507cba63d8a210ae",
+      "metadata": {
+        "ordinal": 787,
+        "triple": {
+          "subject_id": "ball_four",
+          "predicate_norm": "be authored by",
+          "object_text": "Jim Bouton",
+          "confidence": 0.95,
+          "subject_raw": "Ball Four",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31268186826218064,
+      "created_at": "2026-07-04T04:41:19.870704-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3df1d72-a3f2-4cb7-81f0-89ace970515b",
+      "memory": "The author of L.A. Confidential is James Ellroy.",
+      "hash": "5e17715bef0648fa858b2529c34eeed8",
+      "metadata": {
+        "ordinal": 631,
+        "triple": {
+          "subject_id": "l.a._confidential",
+          "predicate_norm": "be authored by",
+          "object_text": "James Ellroy",
+          "confidence": 0.95,
+          "subject_raw": "L.A. Confidential",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31042550470873775,
+      "created_at": "2026-07-04T04:41:10.942669-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1665c2fa-7b6f-4958-86b8-a79496ca5f5a",
+      "memory": "Mario Puzo is famous for The Godfather",
+      "hash": "61b537182f500ace22952a48740e4bff",
+      "metadata": {
+        "ordinal": 455,
+        "triple": {
+          "subject_id": "mario_puzo",
+          "predicate_norm": "be famous for",
+          "object_text": "The Godfather",
+          "confidence": 0.95,
+          "subject_raw": "Mario Puzo",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.31015155467605715,
+      "created_at": "2026-07-04T04:40:45.994197-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "94f723c1-5b4b-414a-bfac-90d6aa9cdde7",
+      "memory": "The author of The Birth of Tragedy is Friedrich Nietzsche.",
+      "hash": "dbe393a598d8a1d460bd94401ada82a4",
+      "metadata": {
+        "ordinal": 738,
+        "triple": {
+          "subject_id": "the_birth_of_tragedy",
+          "predicate_norm": "has author",
+          "object_text": "Friedrich Nietzsche",
+          "confidence": 0.95,
+          "subject_raw": "The Birth of Tragedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3069005842253746,
+      "created_at": "2026-07-04T04:41:17.939554-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7dddbb78-f122-4290-bf91-d4eeb76f7a82",
+      "memory": "The author of Coraline is Neil Gaiman.",
+      "hash": "2ec0cd8c3473a880396177bfde2b49cf",
+      "metadata": {
+        "ordinal": 1656,
+        "triple": {
+          "subject_id": "coraline",
+          "predicate_norm": "has author",
+          "object_text": "Neil Gaiman",
+          "confidence": 0.95,
+          "subject_raw": "Coraline",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30630849703813745,
+      "created_at": "2026-07-04T04:42:08.036772-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "87d50719-34fe-4d0f-8faf-77dd8990e238",
+      "memory": "The author of Starship Troopers is Daphne du Maurier.",
+      "hash": "2e0883bb26d00ae62e5303b537291799",
+      "metadata": {
+        "ordinal": 2223,
+        "triple": {
+          "subject_id": "starship_troopers",
+          "predicate_norm": "has author",
+          "object_text": "Daphne du Maurier",
+          "confidence": 0.95,
+          "subject_raw": "Starship Troopers",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30406648402857056,
+      "created_at": "2026-07-04T04:42:40.087596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "68d2c9ec-1fd5-4c78-bfae-c0803bc7464f",
+      "memory": "The author of David Copperfield is Charles Dickens.",
+      "hash": "de485674b6a25a60cca08ff71af97d96",
+      "metadata": {
+        "ordinal": 752,
+        "triple": {
+          "subject_id": "david_copperfield",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "David Copperfield",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3040317110368621,
+      "created_at": "2026-07-04T04:41:17.961933-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "711cad66-f292-470a-a9b2-58a41cd2164d",
+      "memory": "The author of The Age of Reason is Allen Ginsberg.",
+      "hash": "7c5d28460eb0c4b0f59c22972897c92c",
+      "metadata": {
+        "ordinal": 2196,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "has author",
+          "object_text": "Allen Ginsberg",
+          "confidence": 0.95,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3033004893875624,
+      "created_at": "2026-07-04T04:42:38.155909-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7c14c4bb-8f09-4062-bc06-4807c1913dc7",
+      "memory": "The author of The Andromeda Strain is Michael Crichton.",
+      "hash": "9b45943c2abf99cf375082ab89c068b9",
+      "metadata": {
+        "ordinal": 1592,
+        "triple": {
+          "subject_id": "michael_crichton",
+          "predicate_norm": "be author",
+          "object_text": "The Andromeda Strain",
+          "confidence": 0.95,
+          "subject_raw": "Michael Crichton",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.3007376519151574,
+      "created_at": "2026-07-04T04:42:04.651272-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6984fcd9-b4e1-4b9b-95ca-d13c4fe26b8a",
+      "memory": "The author of Smalcald Articles is Bill Mantlo.",
+      "hash": "472607b30c8f7a9a7d9cf5b0a48965e5",
+      "metadata": {
+        "ordinal": 1913,
+        "triple": {
+          "subject_id": "smalcald_articles",
+          "predicate_norm": "be authored by",
+          "object_text": "Bill Mantlo",
+          "confidence": 0.95,
+          "subject_raw": "Smalcald Articles",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.297876375034128,
+      "created_at": "2026-07-04T04:42:21.633989-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e7550b06-57bb-4874-96d0-90d2fe2d0dea",
+      "memory": "The author of Rebecca is Daphne du Maurier",
+      "hash": "0d16f7f34167b5fd5dff49c1d78832dc",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "daphne_du_maurier",
+          "predicate_norm": "be author",
+          "object_text": "Rebecca",
+          "confidence": 0.95,
+          "subject_raw": "Daphne du Maurier",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.29709096480914404,
+      "created_at": "2026-07-04T04:40:23.807657-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b2f03b46-7ac7-405f-88f0-42c8f78dfe3f",
+      "memory": "The author of A Passage to India is E. M. Forster.",
+      "hash": "5bad221c1778f526496a220cb94942bc",
+      "metadata": {
+        "ordinal": 970,
+        "triple": {
+          "subject_id": "a_passage_to_india",
+          "predicate_norm": "be authored by",
+          "object_text": "E. M. Forster",
+          "confidence": 0.95,
+          "subject_raw": "A Passage to India",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.29675718346647273,
+      "created_at": "2026-07-04T04:41:30.696935-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6033d32b-2b48-42de-9426-4d391bb03a65",
+      "memory": "The author of Theaetetus is Ursula K. Le Guin.",
+      "hash": "3bc15da8e7b4bd88d369d446433c62ab",
+      "metadata": {
+        "ordinal": 1422,
+        "triple": {
+          "subject_id": "theaetetus",
+          "predicate_norm": "has author",
+          "object_text": "Ursula K. Le Guin",
+          "confidence": 0.95,
+          "subject_raw": "Theaetetus",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.29670771525677303,
+      "created_at": "2026-07-04T04:41:55.980769-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a895f3b4-838c-4ef0-b158-ebb4ac3d1a06",
+      "memory": "The author of News from Nowhere is Roger Williams.",
+      "hash": "c3dc22f674323079fabc9abc1336fcea",
+      "metadata": {
+        "ordinal": 1125,
+        "triple": {
+          "subject_id": "news_from_nowhere",
+          "predicate_norm": "has author",
+          "object_text": "Roger Williams",
+          "confidence": 0.95,
+          "subject_raw": "News from Nowhere",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2929141139135562,
+      "created_at": "2026-07-04T04:41:39.549226-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6ba2546a-6085-4d67-8fe2-ceee86598550",
+      "memory": "The author of Manfred is Lord Byron.",
+      "hash": "87a4fab36f163d1dbd15ec029e640e48",
+      "metadata": {
+        "ordinal": 1056,
+        "triple": {
+          "subject_id": "manfred",
+          "predicate_norm": "be authored by",
+          "object_text": "Lord Byron",
+          "confidence": 0.95,
+          "subject_raw": "Manfred",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.28941935758274684,
+      "created_at": "2026-07-04T04:41:33.580586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "983b6ec7-3ed0-4d32-b4d1-7c7ac6ba7b68",
+      "memory": "The author of Unix philosophy is Zadie Smith.",
+      "hash": "304d34eee5632d633866ae3795253a71",
+      "metadata": {
+        "ordinal": 1904,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Zadie Smith",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.28824974187801244,
+      "created_at": "2026-07-04T04:42:21.623573-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d1fda93a-0565-4536-b54f-dcc706fc29b4",
+      "memory": "The author of A Christmas Carol is Winston Churchill.",
+      "hash": "0b9fd8f8da9a0ec4c4450752cceddb26",
+      "metadata": {
+        "ordinal": 895,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "has author",
+          "object_text": "Winston Churchill",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.28812994320602636,
+      "created_at": "2026-07-04T04:41:27.178676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9f0e7b86-50a4-4648-9d96-d55fd5b14e3b",
+      "memory": "The author of Children of Dune is Frank Herbert.",
+      "hash": "30a2dda8b558870a4c148a8a3c821592",
+      "metadata": {
+        "ordinal": 1171,
+        "triple": {
+          "subject_id": "children_of_dune",
+          "predicate_norm": "be authored by",
+          "object_text": "Frank Herbert",
+          "confidence": 0.95,
+          "subject_raw": "Children of Dune",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.28799514254748015,
+      "created_at": "2026-07-04T04:41:43.958331-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6e1b4f34-1545-4e0d-adad-89c30659a334",
+      "memory": "The author of A Christmas Carol is Charles Dickens.",
+      "hash": "e8704c32c6d3b345fdf2456bafef6ce0",
+      "metadata": {
+        "ordinal": 81,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.28630525700076426,
+      "created_at": "2026-07-04T04:40:25.366356-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c63c3615-8714-405a-b89f-63d86658c6c9",
+      "memory": "The author of Star Trek canon is Gene Roddenberry.",
+      "hash": "1f01ab29d5217a0d46add998e88a22f0",
+      "metadata": {
+        "ordinal": 789,
+        "triple": {
+          "subject_id": "star_trek_canon",
+          "predicate_norm": "be authored by",
+          "object_text": "Gene Roddenberry",
+          "confidence": 0.95,
+          "subject_raw": "Star Trek canon",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.28611481446426235,
+      "created_at": "2026-07-04T04:41:19.873639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e42be176-9c10-4544-b8e0-bf4132f66e54",
+      "memory": "The author of A Passage to India is Federico García Lorca.",
+      "hash": "7cfbb4131f58ba219ff8c4ca3cff9f1a",
+      "metadata": {
+        "ordinal": 1561,
+        "triple": {
+          "subject_id": "a_passage_to_india",
+          "predicate_norm": "be written by",
+          "object_text": "Federico García Lorca",
+          "confidence": 0.95,
+          "subject_raw": "A Passage to India",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.28572804083134296,
+      "created_at": "2026-07-04T04:42:03.296010-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7970c54f-6c59-4ac5-bee5-c41f270eb796",
+      "memory": "The author of Starship Troopers is Robert A. Heinlein.",
+      "hash": "cbd28c801f06093a41387610522bc5ab",
+      "metadata": {
+        "ordinal": 1938,
+        "triple": {
+          "subject_id": "starship_troopers",
+          "predicate_norm": "has author",
+          "object_text": "Robert A. Heinlein",
+          "confidence": 0.95,
+          "subject_raw": "Starship Troopers",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.28455565309594794,
+      "created_at": "2026-07-04T04:42:23.827128-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ae9feb83-93f3-4a12-8f66-871ab55bf342",
+      "memory": "The author of The Birth of Tragedy is Stephen Crane.",
+      "hash": "c6b98ee39ec9dab593966649731dd182",
+      "metadata": {
+        "ordinal": 2241,
+        "triple": {
+          "subject_id": "the_birth_of_tragedy",
+          "predicate_norm": "has author",
+          "object_text": "Stephen Crane",
+          "confidence": 0.95,
+          "subject_raw": "The Birth of Tragedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.28379377244126236,
+      "created_at": "2026-07-04T04:42:40.108813-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bbe9b2d1-940e-4176-aed7-e04197c1cdb3",
+      "memory": "The author of Sidereus Nuncius is Galileo Galilei",
+      "hash": "5157371de94209567eb86c1de38d1a5e",
+      "metadata": {
+        "ordinal": 1476,
+        "triple": {
+          "subject_id": "galileo_galilei",
+          "predicate_norm": "be author",
+          "object_text": "Sidereus Nuncius",
+          "confidence": 0.95,
+          "subject_raw": "Galileo Galilei",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.28364478097252677,
+      "created_at": "2026-07-04T04:42:00.285030-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b0f236ea-c5ca-4b45-b6cd-0dff4555ecd7",
+      "memory": "The author of David Copperfield is Charles Darwin.",
+      "hash": "ec7e04e8637791d1f926d76cc844e87a",
+      "metadata": {
+        "ordinal": 2202,
+        "triple": {
+          "subject_id": "david_copperfield",
+          "predicate_norm": "has author",
+          "object_text": "Charles Darwin",
+          "confidence": 0.95,
+          "subject_raw": "David Copperfield",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.283539058970821,
+      "created_at": "2026-07-04T04:42:38.163031-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3febd0d-3488-4296-a3a7-cd16d81594dd",
+      "memory": "The author of Unix philosophy is Ken Thompson.",
+      "hash": "4d7a0ddf91c7d2be284ce548879f58aa",
+      "metadata": {
+        "ordinal": 1177,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Ken Thompson",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2826259435739973,
+      "created_at": "2026-07-04T04:41:43.971636-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "125492b6-025e-41d0-bd68-947fd0a48252",
+      "memory": "The author of Theaetetus is Plato.",
+      "hash": "878295beb320f6406b70927c1148ea14",
+      "metadata": {
+        "ordinal": 1308,
+        "triple": {
+          "subject_id": "theaetetus",
+          "predicate_norm": "has author",
+          "object_text": "Plato",
+          "confidence": 0.95,
+          "subject_raw": "Theaetetus",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2822732665352955,
+      "created_at": "2026-07-04T04:41:51.357097-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "436df274-a753-45f6-9b14-6c5ccabcdc1f",
+      "memory": "The author of Sketches by Boz is Sigmund Freud.",
+      "hash": "ff256840dcfd3fe9f2925d02294e00fa",
+      "metadata": {
+        "ordinal": 1025,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "be authored by",
+          "object_text": "Sigmund Freud",
+          "confidence": 0.95,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27953889571104595,
+      "created_at": "2026-07-04T04:41:32.376220-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "77c5afef-c6da-44dd-ad0c-71c707be6a71",
+      "memory": "The author of The Normal Heart is Larry Kramer.",
+      "hash": "55a6449e2285d294f1543c5a189ccfc0",
+      "metadata": {
+        "ordinal": 792,
+        "triple": {
+          "subject_id": "the_normal_heart",
+          "predicate_norm": "be authored by",
+          "object_text": "Larry Kramer",
+          "confidence": 0.95,
+          "subject_raw": "The Normal Heart",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2786198246034487,
+      "created_at": "2026-07-04T04:41:19.877452-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9e1e15f4-cd80-4bfa-9626-480b341bbeac",
+      "memory": "The author of Gulliver's Travels is Jonathan Swift",
+      "hash": "ddee91801be3995071e7d96683460666",
+      "metadata": {
+        "ordinal": 72,
+        "triple": {
+          "subject_id": "jonathan_swift",
+          "predicate_norm": "be author",
+          "object_text": "Gulliver's Travels",
+          "confidence": 0.95,
+          "subject_raw": "Jonathan Swift",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.27721022653603916,
+      "created_at": "2026-07-04T04:40:23.867226-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec03dda2-868f-42fa-91f4-52775eb41ef0",
+      "memory": "The author of The Selfish Gene is Richard Dawkins.",
+      "hash": "b69ba2acd65c1885e98d451da9c9479b",
+      "metadata": {
+        "ordinal": 273,
+        "triple": {
+          "subject_id": "the_selfish_gene",
+          "predicate_norm": "be authored by",
+          "object_text": "Richard Dawkins",
+          "confidence": 0.95,
+          "subject_raw": "The Selfish Gene",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27691705924225174,
+      "created_at": "2026-07-04T04:40:35.203310-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4cd2d9e6-3f0e-41ba-bca7-09259622db68",
+      "memory": "The author of Gesta Danorum is Saxo Grammaticus",
+      "hash": "028ea3ea2bcdccb83222954c1f2393d3",
+      "metadata": {
+        "ordinal": 42,
+        "triple": {
+          "subject_id": "saxo_grammaticus",
+          "predicate_norm": "be author",
+          "object_text": "Gesta Danorum",
+          "confidence": 0.95,
+          "subject_raw": "Saxo Grammaticus",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.2760587645088131,
+      "created_at": "2026-07-04T04:40:23.814480-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "88c513c6-05c6-4123-820e-5b2dc3a01f26",
+      "memory": "Indiana Jones was created by A. A. Milne.",
+      "hash": "b9a539abb7de84aca5a538ea986d24f4",
+      "metadata": {
+        "ordinal": 1218,
+        "triple": {
+          "subject_id": "indiana_jones",
+          "predicate_norm": "be created by",
+          "object_text": "A. A. Milne",
+          "confidence": 0.95,
+          "subject_raw": "Indiana Jones",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.27585216263196327,
+      "created_at": "2026-07-04T04:41:46.373435-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9dd21302-1cd6-49fa-a398-b18f9a12aef6",
+      "memory": "The author of Modern Painters is John Ruskin.",
+      "hash": "321c4ce282a992c6ba3517b782fa8062",
+      "metadata": {
+        "ordinal": 871,
+        "triple": {
+          "subject_id": "modern_painters",
+          "predicate_norm": "be authored by",
+          "object_text": "John Ruskin",
+          "confidence": 0.95,
+          "subject_raw": "Modern Painters",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27569542026249183,
+      "created_at": "2026-07-04T04:41:23.980823-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e530d8c3-00ca-404e-b687-2bebf9ae985b",
+      "memory": "The author of The Trojan Women is Euripides.",
+      "hash": "abf767fbf771a2398117acc206f7c8c8",
+      "metadata": {
+        "ordinal": 521,
+        "triple": {
+          "subject_id": "the_trojan_women",
+          "predicate_norm": "be authored by",
+          "object_text": "Euripides",
+          "confidence": 0.95,
+          "subject_raw": "The Trojan Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27242742377169626,
+      "created_at": "2026-07-04T04:40:56.190240-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "daab7067-f3c7-4d6b-9ad7-3b6c8810252c",
+      "memory": "Indiana Jones was created by George Lucas.",
+      "hash": "3e5f03683ce6150fc21d4f4535eaceb2",
+      "metadata": {
+        "ordinal": 1182,
+        "triple": {
+          "subject_id": "indiana_jones",
+          "predicate_norm": "be created by",
+          "object_text": "George Lucas",
+          "confidence": 0.95,
+          "subject_raw": "Indiana Jones",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2716956501317638,
+      "created_at": "2026-07-04T04:41:43.981238-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "be20382d-60aa-49d6-94f8-49f19db04bcc",
+      "memory": "The author of Uncle Vanya is Jean Giraudoux.",
+      "hash": "9d669df6dffe5282802d90a745667597",
+      "metadata": {
+        "ordinal": 1910,
+        "triple": {
+          "subject_id": "uncle_vanya",
+          "predicate_norm": "be authored by",
+          "object_text": "Jean Giraudoux",
+          "confidence": 0.95,
+          "subject_raw": "Uncle Vanya",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.2712515924005859,
+      "created_at": "2026-07-04T04:42:21.630592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "031f6b0f-74e9-428c-aeb4-5194e03e9d67",
+      "memory": "The director of The Beatles is Joe Hockey.",
+      "hash": "186409ad15320e0cbeae55a5ac1af3ee",
+      "metadata": {
+        "ordinal": 817,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "be directed by",
+          "object_text": "Joe Hockey",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "is directed by"
+        }
+      },
+      "score": 0.27054575852247065,
+      "created_at": "2026-07-04T04:41:21.879867-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "92b014b5-ea43-4ee1-a3ab-94ebbd38a13c",
+      "memory": "The author of The Selfish Gene is Karl Marx.",
+      "hash": "93d969df77fa247e195ef557596642e0",
+      "metadata": {
+        "ordinal": 2142,
+        "triple": {
+          "subject_id": "the_selfish_gene",
+          "predicate_norm": "be authored by",
+          "object_text": "Karl Marx",
+          "confidence": 0.95,
+          "subject_raw": "The Selfish Gene",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2685212979288325,
+      "created_at": "2026-07-04T04:42:36.636124-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "38a87189-4614-4eaf-8147-3e6aab5174d5",
+      "memory": "The author of Inuyasha is Terrance Dicks.",
+      "hash": "49dc7ee685f765debfc5e17f8135e121",
+      "metadata": {
+        "ordinal": 2119,
+        "triple": {
+          "subject_id": "inuyasha",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "Inuyasha",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.26840593632023135,
+      "created_at": "2026-07-04T04:42:34.482331-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e5b7cd9f-087f-4f39-a9f4-245711880ff9",
+      "memory": "The author of Troilus and Criseyde is Masashi Kishimoto.",
+      "hash": "506f3f8e9da90b7d989b4878c9c566ef",
+      "metadata": {
+        "ordinal": 1606,
+        "triple": {
+          "subject_id": "masashi_kishimoto",
+          "predicate_norm": "be author",
+          "object_text": "Troilus and Criseyde",
+          "confidence": 0.95,
+          "subject_raw": "Masashi Kishimoto",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.26801036080617535,
+      "created_at": "2026-07-04T04:42:04.673675-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4cc0eb96-e4bc-4a2a-96c1-1db21db2d420",
+      "memory": "The author of The Canterbury Tales is Geoffrey Chaucer.",
+      "hash": "2eee88d29f584ffdf2b9735ff04489c5",
+      "metadata": {
+        "ordinal": 1637,
+        "triple": {
+          "subject_id": "the_canterbury_tales",
+          "predicate_norm": "has author",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "The Canterbury Tales",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.26785536334983184,
+      "created_at": "2026-07-04T04:42:06.411754-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2b18ce93-678d-4c0e-a12c-23993179760a",
+      "memory": "The author of Sidereus Nuncius is Samuel Beckett.",
+      "hash": "61806eec248a3400c26be97735c8bb12",
+      "metadata": {
+        "ordinal": 2143,
+        "triple": {
+          "subject_id": "sidereus_nuncius",
+          "predicate_norm": "be authored by",
+          "object_text": "Samuel Beckett",
+          "confidence": 0.95,
+          "subject_raw": "Sidereus Nuncius",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.26755056319621806,
+      "created_at": "2026-07-04T04:42:36.638761-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a961bfd4-c844-4618-a8c4-d65ce89e00b9",
+      "memory": "The author of News from Nowhere is William Morris.",
+      "hash": "35c5ee488256176034739cbc5674d174",
+      "metadata": {
+        "ordinal": 515,
+        "triple": {
+          "subject_id": "news_from_nowhere",
+          "predicate_norm": "be authored by",
+          "object_text": "William Morris",
+          "confidence": 0.95,
+          "subject_raw": "News from Nowhere",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2665951106481204,
+      "created_at": "2026-07-04T04:40:56.180834-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "be44f5ef-79d8-4ec6-b8ff-725d86ccea5e",
+      "memory": "The author of 1984 is Constantine VII.",
+      "hash": "7f1fa7226e75853e116431094f80b455",
+      "metadata": {
+        "ordinal": 1134,
+        "triple": {
+          "subject_id": "1984",
+          "predicate_norm": "be authored by",
+          "object_text": "Constantine VII",
+          "confidence": 0.9,
+          "subject_raw": "1984",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2664350869536964,
+      "created_at": "2026-07-04T04:41:41.898970-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7427b3fc-320d-44c0-9b58-816e55f802a6",
+      "memory": "The author of Little Women is Louisa May Alcott.",
+      "hash": "09999afe7221d1860cffa641e48e24ed",
+      "metadata": {
+        "ordinal": 1153,
+        "triple": {
+          "subject_id": "little_women",
+          "predicate_norm": "be authored by",
+          "object_text": "Louisa May Alcott",
+          "confidence": 0.95,
+          "subject_raw": "Little Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2634784607051041,
+      "created_at": "2026-07-04T04:41:41.940051-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c26c051c-3b18-45a6-81ea-d6b4ed212fcd",
+      "memory": "T. E. Lawrence is famous for Seven Pillars of Wisdom.",
+      "hash": "ec510df47d69b08c687a2a1975e7b4c1",
+      "metadata": {
+        "ordinal": 180,
+        "triple": {
+          "subject_id": "t._e._lawrence",
+          "predicate_norm": "be famous for",
+          "object_text": "Seven Pillars of Wisdom",
+          "confidence": 0.95,
+          "subject_raw": "T. E. Lawrence",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2628807214367768,
+      "created_at": "2026-07-04T04:40:28.722080-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4c5d0c76-06c9-4ca5-b908-c66ca17ee4c8",
+      "memory": "The author of Humanae Vitae is Søren Kierkegaard.",
+      "hash": "1d48d0a218ce2d8b4e65d3ec12828890",
+      "metadata": {
+        "ordinal": 1520,
+        "triple": {
+          "subject_id": "humanae_vitae",
+          "predicate_norm": "has author",
+          "object_text": "Søren Kierkegaard",
+          "confidence": 0.95,
+          "subject_raw": "Humanae Vitae",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.26211028365468914,
+      "created_at": "2026-07-04T04:42:01.856451-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "31b336f3-ac28-4a17-a413-e6272c122ab1",
+      "memory": "Michael Crichton is famous for Jurassic Park.",
+      "hash": "92dedcdc50b32227b56aff77a6db8668",
+      "metadata": {
+        "ordinal": 1083,
+        "triple": {
+          "subject_id": "michael_crichton",
+          "predicate_norm": "be famous for",
+          "object_text": "Jurassic Park",
+          "confidence": 0.95,
+          "subject_raw": "Michael Crichton",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2613440081995342,
+      "created_at": "2026-07-04T04:41:35.500166-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "517a32af-4e8c-4885-a214-4d681ff2bdf2",
+      "memory": "The author of The Vicar of Wakefield is James Agee.",
+      "hash": "335f575f7ae2bdcda197a0172941720d",
+      "metadata": {
+        "ordinal": 989,
+        "triple": {
+          "subject_id": "the_vicar_of_wakefield",
+          "predicate_norm": "be authored by",
+          "object_text": "James Agee",
+          "confidence": 0.95,
+          "subject_raw": "The Vicar of Wakefield",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.26082572091689565,
+      "created_at": "2026-07-04T04:41:30.720793-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "85e1bbb9-3433-4e5e-8223-6695e489825b",
+      "memory": "Phenomenology was created by Laurence Olivier.",
+      "hash": "f2ba7fab18983e71264ee95a106d87bc",
+      "metadata": {
+        "ordinal": 1208,
+        "triple": {
+          "subject_id": "phenomenology",
+          "predicate_norm": "be created by",
+          "object_text": "Laurence Olivier",
+          "confidence": 0.95,
+          "subject_raw": "Phenomenology",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2606647077085949,
+      "created_at": "2026-07-04T04:41:46.354463-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d28cf7b6-95a5-4f91-a22d-3bf9aac6f9eb",
+      "memory": "The author of Little Women is H. P. Lovecraft.",
+      "hash": "2cc5a3635ac2a151802dcbeaf14167bf",
+      "metadata": {
+        "ordinal": 1890,
+        "triple": {
+          "subject_id": "little_women",
+          "predicate_norm": "has author",
+          "object_text": "H. P. Lovecraft",
+          "confidence": 0.95,
+          "subject_raw": "Little Women",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.26020755769813714,
+      "created_at": "2026-07-04T04:42:20.217101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d9a9e418-503b-4246-a087-2a0d1dae1757",
+      "memory": "The author of Lady Windermere's Fan is Oscar Wilde.",
+      "hash": "1cc3e2c5ca40db29a58a085808e32b22",
+      "metadata": {
+        "ordinal": 1219,
+        "triple": {
+          "subject_id": "the_author_of_lady_windermere's_fan",
+          "predicate_norm": "be",
+          "object_text": "Oscar Wilde",
+          "confidence": 0.95,
+          "subject_raw": "the author of Lady Windermere's Fan",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.26009172635445,
+      "created_at": "2026-07-04T04:41:46.375092-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ccb7e3e7-5376-4018-89e1-661df69617c0",
+      "memory": "The author of Bartholomew Fayre: A Comedy is William Shakespeare.",
+      "hash": "bc9e685c7e0ec97994c1897d8b1ff1da",
+      "metadata": {
+        "ordinal": 2134,
+        "triple": {
+          "subject_id": "bartholomew_fayre:_a_comedy",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Bartholomew Fayre: A Comedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25956889340823924,
+      "created_at": "2026-07-04T04:42:34.503276-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a965563f-325c-4dc2-b13d-54b3419d3890",
+      "memory": "The author of The Subjection of Women is John Stuart Mill.",
+      "hash": "a859951090e557ede00e4d364c3040bd",
+      "metadata": {
+        "ordinal": 973,
+        "triple": {
+          "subject_id": "the_subjection_of_women",
+          "predicate_norm": "be authored by",
+          "object_text": "John Stuart Mill",
+          "confidence": 0.95,
+          "subject_raw": "The Subjection of Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.25918511405107086,
+      "created_at": "2026-07-04T04:41:30.701042-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f6e1041a-621a-4400-80a7-239d2bf0d8d8",
+      "memory": "Wizard of Oz was created by L. Frank Baum.",
+      "hash": "56670e6468b72607bb1ca0d51dffeb87",
+      "metadata": {
+        "ordinal": 611,
+        "triple": {
+          "subject_id": "wizard_of_oz",
+          "predicate_norm": "be created by",
+          "object_text": "L. Frank Baum",
+          "confidence": 0.95,
+          "subject_raw": "Wizard of Oz",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2588749301707546,
+      "created_at": "2026-07-04T04:41:10.894044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec396e5f-837d-4d17-91c6-3a4f0f970268",
+      "memory": "The author of Humanae Vitae is Paul VI",
+      "hash": "fc66195af9d708689688bfe60c51c156",
+      "metadata": {
+        "ordinal": 442,
+        "triple": {
+          "subject_id": "humanae_vitae",
+          "predicate_norm": "be authored by",
+          "object_text": "Paul VI",
+          "confidence": 0.95,
+          "subject_raw": "Humanae Vitae",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.25784668417750045,
+      "created_at": "2026-07-04T04:40:45.976678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "464b3411-d167-4f7b-b612-a3fd66c509af",
+      "memory": "The author of Nicomachean Ethics is Aristotle.",
+      "hash": "086f31bd7f707c19f1bc852be6855ed9",
+      "metadata": {
+        "ordinal": 385,
+        "triple": {
+          "subject_id": "aristotle",
+          "predicate_norm": "be author",
+          "object_text": "Nicomachean Ethics",
+          "confidence": 0.95,
+          "subject_raw": "Aristotle",
+          "predicate_raw": "is author of"
+        }
+      },
+      "score": 0.25674191212660286,
+      "created_at": "2026-07-04T04:40:44.192513-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0a7f83e0-0d86-405b-8e4a-d01ff70fc3ba",
+      "memory": "The author of The Vagina Monologues is Eve Ensler.",
+      "hash": "aeab7bfe7190550c04b5d4252626e13c",
+      "metadata": {
+        "ordinal": 1722,
+        "triple": {
+          "subject_id": "the_vagina_monologues",
+          "predicate_norm": "be authored by",
+          "object_text": "Eve Ensler",
+          "confidence": 0.95,
+          "subject_raw": "The Vagina Monologues",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2566284304192174,
+      "created_at": "2026-07-04T04:42:12.878328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "511eecd8-4d90-491d-a7c8-0f840656d627",
+      "memory": "The author of Madame Bovary is Gustave Flaubert.",
+      "hash": "b2f38249fdd2549dfbca3a93b063d3f2",
+      "metadata": {
+        "ordinal": 1272,
+        "triple": {
+          "subject_id": "madame_bovary",
+          "predicate_norm": "be authored by",
+          "object_text": "Gustave Flaubert",
+          "confidence": 0.95,
+          "subject_raw": "Madame Bovary",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.25633896376634924,
+      "created_at": "2026-07-04T04:41:49.740608-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9b0f0364-2a22-4d59-ac2d-3d3189a676a5",
+      "memory": "The author of Uncle Vanya is Anton Chekhov.",
+      "hash": "6dcef589c75ca08fa1a60607a3a80efb",
+      "metadata": {
+        "ordinal": 892,
+        "triple": {
+          "subject_id": "uncle_vanya",
+          "predicate_norm": "has author",
+          "object_text": "Anton Chekhov",
+          "confidence": 0.95,
+          "subject_raw": "Uncle Vanya",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25590297854674393,
+      "created_at": "2026-07-04T04:41:27.173589-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d9d86a9f-9dcb-47a6-b5ea-42ee93c6f600",
+      "memory": "Vito Corleone was created by Mario Puzo.",
+      "hash": "84ec0d12970f775f7dbf1e2aba682487",
+      "metadata": {
+        "ordinal": 646,
+        "triple": {
+          "subject_id": "vito_corleone",
+          "predicate_norm": "be created by",
+          "object_text": "Mario Puzo",
+          "confidence": 0.95,
+          "subject_raw": "Vito Corleone",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2554401499972177,
+      "created_at": "2026-07-04T04:41:10.963329-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3af174b-21c7-46ef-a7b3-6f3bd019e330",
+      "memory": "The author of The Scarlet Letter is Galileo Galilei.",
+      "hash": "c3d9d315534bdc9895f2cc8447fcf4b1",
+      "metadata": {
+        "ordinal": 1869,
+        "triple": {
+          "subject_id": "the_scarlet_letter",
+          "predicate_norm": "has author",
+          "object_text": "Galileo Galilei",
+          "confidence": 0.95,
+          "subject_raw": "The Scarlet Letter",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2545632922590866,
+      "created_at": "2026-07-04T04:42:20.180044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c11bd9da-a9bf-4481-9cc7-5ebb3f9f62ea",
+      "memory": "Drive My Car was performed by The Beatles.",
+      "hash": "62ef0157ccc404d1041b884274d585e5",
+      "metadata": {
+        "ordinal": 29,
+        "triple": {
+          "subject_id": "drive_my_car",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Drive My Car",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2545577908041222,
+      "created_at": "2026-07-04T04:40:19.805937-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "043e737f-7c74-47a5-abdb-ff1e33ce6983",
+      "memory": "The author of The Witcher is T. S. Eliot.",
+      "hash": "7e425b62cf35dbde11622cf764d4c7d6",
+      "metadata": {
+        "ordinal": 1024,
+        "triple": {
+          "subject_id": "the_witcher",
+          "predicate_norm": "be authored by",
+          "object_text": "T. S. Eliot",
+          "confidence": 0.95,
+          "subject_raw": "The Witcher",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2530182574583075,
+      "created_at": "2026-07-04T04:41:32.375013-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b60d8fc0-bb0a-41b0-93e9-715d3d53aab6",
+      "memory": "The author of Aubrey-Maturin series is Ray Bradbury.",
+      "hash": "510acdc5249556f0b9d981206886f698",
+      "metadata": {
+        "ordinal": 1091,
+        "triple": {
+          "subject_id": "aubrey_maturin_series",
+          "predicate_norm": "has author",
+          "object_text": "Ray Bradbury",
+          "confidence": 0.95,
+          "subject_raw": "Aubrey-Maturin series",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2516017141729582,
+      "created_at": "2026-07-04T04:41:35.510892-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "83aedda0-0135-414b-a384-386cffe9e79b",
+      "memory": "The author of A Wizard of Earthsea is Pius XII.",
+      "hash": "e44b8a30c89ed4abfd3054005fac013f",
+      "metadata": {
+        "ordinal": 578,
+        "triple": {
+          "subject_id": "a_wizard_of_earthsea",
+          "predicate_norm": "has author",
+          "object_text": "Pius XII",
+          "confidence": 0.85,
+          "subject_raw": "A Wizard of Earthsea",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25100335839830984,
+      "created_at": "2026-07-04T04:41:09.368375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a816afb9-a525-4ee4-b80d-66a0398f06ac",
+      "memory": "The author of Antony and Cleopatra is Terrance Dicks",
+      "hash": "e960c9b19b40f4c0bff7304449738fca",
+      "metadata": {
+        "ordinal": 564,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25061250189834033,
+      "created_at": "2026-07-04T04:41:04.806213-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9444a0da-e485-4768-a09c-487263129593",
+      "memory": "The director of The Beatles is Brian Epstein.",
+      "hash": "7a4cb58c0864c899242dda642316b85f",
+      "metadata": {
+        "ordinal": 231,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "has director",
+          "object_text": "Brian Epstein",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2501858963324245,
+      "created_at": "2026-07-04T04:40:33.676923-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0ae1903f-aa1a-49c2-b0d7-3753accb63b0",
+      "memory": "The author of Sketches by Boz is Charles Dickens",
+      "hash": "08b1828caf3e160e6a224da43acb0f4a",
+      "metadata": {
+        "ordinal": 559,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25016633935024046,
+      "created_at": "2026-07-04T04:41:04.799076-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "288cdc56-18ba-43ca-b863-208c6ffb9927",
+      "memory": "The author of Analects is Confucius",
+      "hash": "a935731caef9b1511e505935cbce7b0e",
+      "metadata": {
+        "ordinal": 1496,
+        "triple": {
+          "subject_id": "confucius",
+          "predicate_norm": "be author",
+          "object_text": "Analects",
+          "confidence": 0.95,
+          "subject_raw": "Confucius",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.25012379343782165,
+      "created_at": "2026-07-04T04:42:00.326693-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6d963291-402c-4803-8883-8b078c66561e",
+      "memory": "Vito Corleone was created by Nobuhiro Watsuki.",
+      "hash": "75651b736d04d04e4044b6bafe91d8d4",
+      "metadata": {
+        "ordinal": 2237,
+        "triple": {
+          "subject_id": "vito_corleone",
+          "predicate_norm": "be created by",
+          "object_text": "Nobuhiro Watsuki",
+          "confidence": 0.95,
+          "subject_raw": "Vito Corleone",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.24957732090403786,
+      "created_at": "2026-07-04T04:42:40.104541-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d9332900-fc43-40dc-8f13-80a2e1a31132",
+      "memory": "The director of Madonna is Guy Oseary.",
+      "hash": "24227f719ea996bf9781629793cd30dc",
+      "metadata": {
+        "ordinal": 87,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "has director",
+          "object_text": "Guy Oseary",
+          "confidence": 0.95,
+          "subject_raw": "Madonna",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2491114595476419,
+      "created_at": "2026-07-04T04:40:25.376755-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2997dc64-e442-464a-b3a4-8ca326ab4241",
+      "memory": "The author of She Stoops to Conquer is Oliver Goldsmith.",
+      "hash": "77ad30c9cd7a42f27f4b30a2fb712974",
+      "metadata": {
+        "ordinal": 1713,
+        "triple": {
+          "subject_id": "oliver_goldsmith",
+          "predicate_norm": "be author",
+          "object_text": "She Stoops to Conquer",
+          "confidence": 0.95,
+          "subject_raw": "Oliver Goldsmith",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.2487175104083567,
+      "created_at": "2026-07-04T04:42:10.546984-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "73f56dd8-5fff-4ec8-a23d-4040bf6da0da",
+      "memory": "The author of Lorentz ether theory is William Shakespeare.",
+      "hash": "69662a3f7793748e9adbc2e04b49c66d",
+      "metadata": {
+        "ordinal": 1718,
+        "triple": null,
+        "subject_fallback": "lorentz_ether_theory"
+      },
+      "score": 0.24745548373742032,
+      "created_at": "2026-07-04T04:42:10.552542-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c082d2dc-c551-4fa5-9026-1ee325030f35",
+      "memory": "The author of The Andromeda Strain is Multatuli.",
+      "hash": "a493bceb3f716ef42e99fbb492766662",
+      "metadata": {
+        "ordinal": 2213,
+        "triple": {
+          "subject_id": "the_andromeda_strain",
+          "predicate_norm": "has author",
+          "object_text": "Multatuli",
+          "confidence": 0.95,
+          "subject_raw": "The Andromeda Strain",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.24723366733443386,
+      "created_at": "2026-07-04T04:42:40.073215-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cf44762e-2a65-49ad-9654-f36b88ea813e",
+      "memory": "The author of Aubrey-Maturin series is Patrick O'Brian.",
+      "hash": "c9a3c695978953919a7cc545284e18c4",
+      "metadata": {
+        "ordinal": 338,
+        "triple": {
+          "subject_id": "aubrey_maturin_series",
+          "predicate_norm": "has author",
+          "object_text": "Patrick O'Brian",
+          "confidence": 0.95,
+          "subject_raw": "Aubrey-Maturin series",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.24656159718793164,
+      "created_at": "2026-07-04T04:40:37.314857-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "783da030-3a26-4bbe-a2ef-091298f22b00",
+      "memory": "The author of The Age of Reason is Thomas Paine.",
+      "hash": "a0dc678979f6eaec7da3808b2f4aff41",
+      "metadata": {
+        "ordinal": 505,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "be authored by",
+          "object_text": "Thomas Paine",
+          "confidence": 0.95,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.24653443091674543,
+      "created_at": "2026-07-04T04:40:56.159282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "13f433a2-12d4-4c82-9b1b-ae42187e6b40",
+      "memory": "The author of Typee is Herman Melville.",
+      "hash": "5bb6da77281906774540d2641d23f7d0",
+      "metadata": {
+        "ordinal": 833,
+        "triple": {
+          "subject_id": "typee",
+          "predicate_norm": "be authored by",
+          "object_text": "Herman Melville",
+          "confidence": 0.95,
+          "subject_raw": "Typee",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.24634825738421548,
+      "created_at": "2026-07-04T04:41:21.898040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25faea85-5ec8-4be8-ba6d-d81e1daef7ad",
+      "memory": "Wizard of Oz was created by Ambrose Bierce.",
+      "hash": "6be9a27ea8171ce24945bc9c6a48dcaf",
+      "metadata": {
+        "ordinal": 882,
+        "triple": {
+          "subject_id": "ambrose_bierce",
+          "predicate_norm": "created",
+          "object_text": "Wizard of Oz",
+          "confidence": 0.95,
+          "subject_raw": "Ambrose Bierce",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.24523211003230172,
+      "created_at": "2026-07-04T04:41:27.152627-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fccdcedb-1a6c-4709-99a3-cb770ad85d42",
+      "memory": "The author of Mrs. Warren's Profession is Clamp.",
+      "hash": "c93a0658511bdb30945c22ed91a96977",
+      "metadata": {
+        "ordinal": 1071,
+        "triple": {
+          "subject_id": "mrs._warren's_profession",
+          "predicate_norm": "has author",
+          "object_text": "Clamp",
+          "confidence": 0.95,
+          "subject_raw": "Mrs. Warren's Profession",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2440473787320172,
+      "created_at": "2026-07-04T04:41:35.479416-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3ef89e09-acac-4f3e-b211-b44ee31862b5",
+      "memory": "The author of Categories is Aristotle.",
+      "hash": "7914adae64698717461cc54f0eea2d13",
+      "metadata": {
+        "ordinal": 175,
+        "triple": {
+          "subject_id": "categories",
+          "predicate_norm": "be authored by",
+          "object_text": "Aristotle",
+          "confidence": 0.95,
+          "subject_raw": "Categories",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.24355333280488778,
+      "created_at": "2026-07-04T04:40:28.716427-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e4e56a31-cb82-4b29-a171-82e2cf3eac40",
+      "memory": "The author of A Wizard of Earthsea is Ursula K. Le Guin.",
+      "hash": "38ee6f37bea899f6129f7612631f3197",
+      "metadata": {
+        "ordinal": 333,
+        "triple": {
+          "subject_id": "a_wizard_of_earthsea",
+          "predicate_norm": "has author",
+          "object_text": "Ursula K. Le Guin",
+          "confidence": 0.95,
+          "subject_raw": "A Wizard of Earthsea",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.24343504404688937,
+      "created_at": "2026-07-04T04:40:37.308485-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "27e2f3be-2b5b-4d02-b7a2-bb711739231b",
+      "memory": "The author of Coriolanus is William Shakespeare.",
+      "hash": "e22149a8b921a86407ecaae6d5a48255",
+      "metadata": {
+        "ordinal": 1701,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Coriolanus",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.24229584347127778,
+      "created_at": "2026-07-04T04:42:10.533520-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0cd85495-0e4a-4bc1-bebc-b39ea26d5fad",
+      "memory": "Patrick Moore is famous for The Sky at Night.",
+      "hash": "1d5fde67a11bc6a79f5af74a0049afeb",
+      "metadata": {
+        "ordinal": 1547,
+        "triple": {
+          "subject_id": "patrick_moore",
+          "predicate_norm": "be famous for",
+          "object_text": "The Sky at Night",
+          "confidence": 0.95,
+          "subject_raw": "Patrick Moore",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2416489247643293,
+      "created_at": "2026-07-04T04:42:03.258775-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The author of The Great Movies is John Evelyn.\n- The author of Endgame is Samuel Beckett\n- The author of Mazinger Z is Go Nagai.\n- The author of The Thin Man is Dashiell Hammett.\n- The author of L.A. Confidential is Guy Debord.\n- The author of Ball Four is Bill James.\n- The author of Beyond Good and Evil is Friedrich Nietzsche.\n- The author of Star Trek canon is Joseph Goebbels.\n- The author of American Pastoral is Philip Roth.\n- The author of Sin City is Frank Miller.\n- The author of Coraline is John Stuart Mill.\n- The author of The Call of Cthulhu is H. P. Lovecraft.\n- The author of The Subjection of Women is Charley Boorman.\n- The author of Ball Four is Jim Bouton.\n- The author of L.A. Confidential is James Ellroy.\n- Mario Puzo is famous for The Godfather\n- The author of Starship Troopers is Daphne du Maurier.\n- The author of The Age of Reason is Allen Ginsberg.\n- The author of The Andromeda Strain is Michael Crichton.\n- The author of Smalcald Articles is Bill Mantlo.\n- The author of Rebecca is Daphne du Maurier\n- The author of Theaetetus is Ursula K. Le Guin.\n- The author of News from Nowhere is Roger Williams.\n- The author of Manfred is Lord Byron.\n- The author of Unix philosophy is Zadie Smith.\n- The author of A Christmas Carol is Winston Churchill.\n- The author of Children of Dune is Frank Herbert.\n- The author of Star Trek canon is Gene Roddenberry.\n- The author of A Passage to India is Federico García Lorca.\n- The author of The Birth of Tragedy is Stephen Crane.\n- The author of Sidereus Nuncius is Galileo Galilei\n- The author of David Copperfield is Charles Darwin.\n- The author of Sketches by Boz is Sigmund Freud.\n- The author of The Normal Heart is Larry Kramer.\n- The author of Gulliver's Travels is Jonathan Swift\n- The author of Gesta Danorum is Saxo Grammaticus\n- Indiana Jones was created by A. A. Milne.\n- The author of Modern Painters is John Ruskin.\n- The author of The Trojan Women is Euripides.\n- The author of Uncle Vanya is Jean Giraudoux.\n- The director of The Beatles is Joe Hockey.\n- The author of The Selfish Gene is Karl Marx.\n- The author of Inuyasha is Terrance Dicks.\n- The author of Troilus and Criseyde is Masashi Kishimoto.\n- The author of The Canterbury Tales is Geoffrey Chaucer.\n- The author of Sidereus Nuncius is Samuel Beckett.\n- The author of News from Nowhere is William Morris.\n- The author of 1984 is Constantine VII.\n- T. E. Lawrence is famous for Seven Pillars of Wisdom.\n- The author of Humanae Vitae is Søren Kierkegaard.\n- Michael Crichton is famous for Jurassic Park.\n- The author of The Vicar of Wakefield is James Agee.\n- Phenomenology was created by Laurence Olivier.\n- The author of Little Women is H. P. Lovecraft.\n- The author of Lady Windermere's Fan is Oscar Wilde.\n- The author of Bartholomew Fayre: A Comedy is William Shakespeare.\n- The author of The Subjection of Women is John Stuart Mill.\n- Wizard of Oz was created by L. Frank Baum.\n- The author of Nicomachean Ethics is Aristotle.\n- The author of The Vagina Monologues is Eve Ensler.\n- The author of Madame Bovary is Gustave Flaubert.\n- The author of Uncle Vanya is Anton Chekhov.\n- The author of The Scarlet Letter is Galileo Galilei.\n- Drive My Car was performed by The Beatles.\n- The author of The Witcher is T. S. Eliot.\n- The author of Aubrey-Maturin series is Ray Bradbury.\n- The author of A Wizard of Earthsea is Pius XII.\n- The author of Antony and Cleopatra is Terrance Dicks\n- The director of The Beatles is Brian Epstein.\n- The author of Sketches by Boz is Charles Dickens\n- The author of Analects is Confucius\n- Vito Corleone was created by Nobuhiro Watsuki.\n- The director of Madonna is Guy Oseary.\n- The author of She Stoops to Conquer is Oliver Goldsmith.\n- The author of Lorentz ether theory is William Shakespeare.\n- The author of The Andromeda Strain is Multatuli.\n- The author of The Age of Reason is Thomas Paine.\n- The author of Typee is Herman Melville.\n- Wizard of Oz was created by Ambrose Bierce.\n- The author of Mrs. Warren's Profession is Clamp.\n- The author of Categories is Aristotle.\n- The author of Coriolanus is William Shakespeare.\n- Patrick Moore is famous for The Sky at Night.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The author of The Great Movies is John Evelyn.\n- The author of Endgame is Samuel Beckett\n- The author of Mazinger Z is Go Nagai.\n- The author of The Thin Man is Dashiell Hammett.\n- The author of L.A. Confidential is Guy Debord.\n- The author of Ball Four is Bill James.\n- The author of Beyond Good and Evil is Friedrich Nietzsche.\n- The author of Star Trek canon is Joseph Goebbels.\n- The author of American Pastoral is Philip Roth.\n- The author of Sin City is Frank Miller.\n- The author of Coraline is John Stuart Mill.\n- The author of The Call of Cthulhu is H. P. Lovecraft.\n- The author of The Subjection of Women is Charley Boorman.\n- The author of Ball Four is Jim Bouton.\n- The author of L.A. Confidential is James Ellroy.\n- Mario Puzo is famous for The Godfather\n- The author of Starship Troopers is Daphne du Maurier.\n- The author of The Age of Reason is Allen Ginsberg.\n- The author of The Andromeda Strain is Michael Crichton.\n- The author of Smalcald Articles is Bill Mantlo.\n- The author of Rebecca is Daphne du Maurier\n- The author of Theaetetus is Ursula K. Le Guin.\n- The author of News from Nowhere is Roger Williams.\n- The author of Manfred is Lord Byron.\n- The author of Unix philosophy is Zadie Smith.\n- The author of A Christmas Carol is Winston Churchill.\n- The author of Children of Dune is Frank Herbert.\n- The author of Star Trek canon is Gene Roddenberry.\n- The author of A Passage to India is Federico García Lorca.\n- The author of The Birth of Tragedy is Stephen Crane.\n- The author of Sidereus Nuncius is Galileo Galilei\n- The author of David Copperfield is Charles Darwin.\n- The author of Sketches by Boz is Sigmund Freud.\n- The author of The Normal Heart is Larry Kramer.\n- The author of Gulliver's Travels is Jonathan Swift\n- The author of Gesta Danorum is Saxo Grammaticus\n- Indiana Jones was created by A. A. Milne.\n- The author of Modern Painters is John Ruskin.\n- The author of The Trojan Women is Euripides.\n- The author of Uncle Vanya is Jean Giraudoux.\n- The director of The Beatles is Joe Hockey.\n- The author of The Selfish Gene is Karl Marx.\n- The author of Inuyasha is Terrance Dicks.\n- The author of Troilus and Criseyde is Masashi Kishimoto.\n- The author of The Canterbury Tales is Geoffrey Chaucer.\n- The author of Sidereus Nuncius is Samuel Beckett.\n- The author of News from Nowhere is William Morris.\n- The author of 1984 is Constantine VII.\n- T. E. Lawrence is famous for Seven Pillars of Wisdom.\n- The author of Humanae Vitae is Søren Kierkegaard.\n- Michael Crichton is famous for Jurassic Park.\n- The author of The Vicar of Wakefield is James Agee.\n- Phenomenology was created by Laurence Olivier.\n- The author of Little Women is H. P. Lovecraft.\n- The author of Lady Windermere's Fan is Oscar Wilde.\n- The author of Bartholomew Fayre: A Comedy is William Shakespeare.\n- The author of The Subjection of Women is John Stuart Mill.\n- Wizard of Oz was created by L. Frank Baum.\n- The author of Nicomachean Ethics is Aristotle.\n- The author of The Vagina Monologues is Eve Ensler.\n- The author of Madame Bovary is Gustave Flaubert.\n- The author of Uncle Vanya is Anton Chekhov.\n- The author of The Scarlet Letter is Galileo Galilei.\n- Drive My Car was performed by The Beatles.\n- The author of The Witcher is T. S. Eliot.\n- The author of Aubrey-Maturin series is Ray Bradbury.\n- The author of A Wizard of Earthsea is Pius XII.\n- The author of Antony and Cleopatra is Terrance Dicks\n- The director of The Beatles is Brian Epstein.\n- The author of Sketches by Boz is Charles Dickens\n- The author of Analects is Confucius\n- Vito Corleone was created by Nobuhiro Watsuki.\n- The director of Madonna is Guy Oseary.\n- The author of She Stoops to Conquer is Oliver Goldsmith.\n- The author of Lorentz ether theory is William Shakespeare.\n- The author of The Andromeda Strain is Multatuli.\n- The author of The Age of Reason is Thomas Paine.\n- The author of Typee is Herman Melville.\n- Wizard of Oz was created by Ambrose Bierce.\n- The author of Mrs. Warren's Profession is Clamp.\n- The author of Categories is Aristotle.\n- The author of Coriolanus is William Shakespeare.\n- Patrick Moore is famous for The Sky at Night.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Who is the author of The Great Movies? \nAnswer:\n\nCurrent Time: 2026-07-04 20:08:33",
+  "response": "Answer: John Evelyn",
+  "prompt_tokens": 1265,
+  "completion_tokens": 4,
+  "resolved_pool": [
+    {
+      "id": "d3678fa0-6341-4bd7-a15d-78d1b0125638",
+      "memory": "The author of The Great Movies is Roger Ebert.",
+      "hash": "c1ea21cf6f940f26c91c96b2cb1dc27b",
+      "metadata": {
+        "ordinal": 902,
+        "triple": {
+          "subject_id": "the_great_movies",
+          "predicate_norm": "has author",
+          "object_text": "Roger Ebert",
+          "confidence": 0.95,
+          "subject_raw": "The Great Movies",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.7512012252337181,
+      "created_at": "2026-07-04T04:41:27.188822-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c8c8ed9a-883a-4e00-aa56-a432ca354edd",
+      "memory": "The author of The Great Movies is John Evelyn.",
+      "hash": "34ae606775e14dfb55951020b2f48b42",
+      "metadata": {
+        "ordinal": 1617,
+        "triple": {
+          "subject_id": "the_great_movies",
+          "predicate_norm": "has author",
+          "object_text": "John Evelyn",
+          "confidence": 0.95,
+          "subject_raw": "The Great Movies",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.7178331352962894,
+      "created_at": "2026-07-04T04:42:06.363079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bc8f7f1e-c674-4747-bfce-882a4b32e340",
+      "memory": "The author of Endgame is Samuel Beckett",
+      "hash": "0671948d25b53d36aa3404f4e94734d0",
+      "metadata": {
+        "ordinal": 1506,
+        "triple": {
+          "subject_id": "samuel_beckett",
+          "predicate_norm": "be author",
+          "object_text": "Endgame",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Beckett",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.36637827844252835,
+      "created_at": "2026-07-04T04:42:00.339797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b503e1bd-62a9-4b50-b44e-859b7ff99034",
+      "memory": "The author of Mazinger Z is Go Nagai.",
+      "hash": "2014e7142017a7d9d91b81c00bc80189",
+      "metadata": {
+        "ordinal": 1307,
+        "triple": {
+          "subject_id": "mazinger_z",
+          "predicate_norm": "has author",
+          "object_text": "Go Nagai",
+          "confidence": 0.95,
+          "subject_raw": "Mazinger Z",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.35508716480972546,
+      "created_at": "2026-07-04T04:41:51.354155-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4b0ccc97-8480-4e40-bd54-e4d96983d69f",
+      "memory": "The author of The Thin Man is Dashiell Hammett.",
+      "hash": "b2a3df5b3f1b0795dcf0577c098edda1",
+      "metadata": {
+        "ordinal": 2212,
+        "triple": {
+          "subject_id": "the_thin_man",
+          "predicate_norm": "has author",
+          "object_text": "Dashiell Hammett",
+          "confidence": 0.95,
+          "subject_raw": "The Thin Man",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3460486131866766,
+      "created_at": "2026-07-04T04:42:40.071629-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f82e82e6-2a1c-41f4-9af3-050a21633c6e",
+      "memory": "The author of L.A. Confidential is Guy Debord.",
+      "hash": "84280880e9dd03332aadce5d2ae2fd57",
+      "metadata": {
+        "ordinal": 1678,
+        "triple": {
+          "subject_id": "l.a._confidential",
+          "predicate_norm": "has author",
+          "object_text": "Guy Debord",
+          "confidence": 0.95,
+          "subject_raw": "L.A. Confidential",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.34470755727433766,
+      "created_at": "2026-07-04T04:42:08.063477-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4c3cd5d3-85e6-438f-8603-b7c888c281ec",
+      "memory": "The author of Ball Four is Bill James.",
+      "hash": "5a3fd7133e8c296089780c1615ccff5c",
+      "metadata": {
+        "ordinal": 1213,
+        "triple": {
+          "subject_id": "the_author_of_ball_four",
+          "predicate_norm": "be",
+          "object_text": "Bill James",
+          "confidence": 0.95,
+          "subject_raw": "the author of Ball Four",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.339355295528031,
+      "created_at": "2026-07-04T04:41:46.365024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ce2dc2d7-2b79-47da-9f6d-d1da2de090e7",
+      "memory": "The author of Beyond Good and Evil is Friedrich Nietzsche.",
+      "hash": "3f9175d30fc2a7905946e0b813aef66a",
+      "metadata": {
+        "ordinal": 2161,
+        "triple": {
+          "subject_id": "beyond_good_and_evil",
+          "predicate_norm": "be authored by",
+          "object_text": "Friedrich Nietzsche",
+          "confidence": 0.95,
+          "subject_raw": "Beyond Good and Evil",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.33488828694381373,
+      "created_at": "2026-07-04T04:42:36.673524-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "938dab57-6cba-4b29-8997-eb1154b76780",
+      "memory": "The author of Star Trek canon is Joseph Goebbels.",
+      "hash": "39c03b8d1760ff0279fa82690544219f",
+      "metadata": {
+        "ordinal": 1795,
+        "triple": null,
+        "subject_fallback": "joseph_goebbels"
+      },
+      "score": 0.3308426456168947,
+      "created_at": "2026-07-04T04:42:16.493999-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4dbd47f5-d67b-483f-b9a3-f4c755304335",
+      "memory": "The author of American Pastoral is Philip Roth.",
+      "hash": "8bbe1ff809bf95fae77365e58611528d",
+      "metadata": {
+        "ordinal": 2234,
+        "triple": {
+          "subject_id": "american_pastoral",
+          "predicate_norm": "has author",
+          "object_text": "Philip Roth",
+          "confidence": 0.95,
+          "subject_raw": "American Pastoral",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3256123780023521,
+      "created_at": "2026-07-04T04:42:40.101135-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3ba205ec-e599-4d27-993e-348b5a053134",
+      "memory": "The author of Sin City is Frank Miller.",
+      "hash": "3544809bc0151a737b99c8aa7f0890d2",
+      "metadata": {
+        "ordinal": 1885,
+        "triple": {
+          "subject_id": "sin_city",
+          "predicate_norm": "has author",
+          "object_text": "Frank Miller",
+          "confidence": 0.95,
+          "subject_raw": "Sin City",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3234563953897013,
+      "created_at": "2026-07-04T04:42:20.209880-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1269ca9c-0ccc-439d-ab5c-958198d4727f",
+      "memory": "The author of Coraline is John Stuart Mill.",
+      "hash": "e2b72b3004e8de19b94195d49889f566",
+      "metadata": {
+        "ordinal": 1726,
+        "triple": {
+          "subject_id": "coraline",
+          "predicate_norm": "be authored by",
+          "object_text": "John Stuart Mill",
+          "confidence": 0.95,
+          "subject_raw": "Coraline",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3189806682743504,
+      "created_at": "2026-07-04T04:42:12.889321-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "759ab0ba-6331-45f2-a51b-6da40c7ef20b",
+      "memory": "The author of The Call of Cthulhu is H. P. Lovecraft.",
+      "hash": "c9a1b9afc922fe5dffd414e6857dad23",
+      "metadata": {
+        "ordinal": 583,
+        "triple": {
+          "subject_id": "the_call_of_cthulhu",
+          "predicate_norm": "has author",
+          "object_text": "H. P. Lovecraft",
+          "confidence": 0.95,
+          "subject_raw": "The Call of Cthulhu",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3177505593321204,
+      "created_at": "2026-07-04T04:41:09.375578-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2f57c339-1ebe-49bb-8ed7-53178dc46ee3",
+      "memory": "The author of The Subjection of Women is Charley Boorman.",
+      "hash": "42c2455549305e36c2499cd74976636f",
+      "metadata": {
+        "ordinal": 1325,
+        "triple": {
+          "subject_id": "the_subjection_of_women",
+          "predicate_norm": "has author",
+          "object_text": "Charley Boorman",
+          "confidence": 0.95,
+          "subject_raw": "The Subjection of Women",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.314004066100372,
+      "created_at": "2026-07-04T04:41:51.389597-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0d4d73c5-d13a-4f7c-80ee-81efb5bb86cf",
+      "memory": "The author of 1984 is George Orwell.",
+      "hash": "681c2a2e2f95ab103561059ca4574cfd",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "1984",
+          "predicate_norm": "be authored by",
+          "object_text": "George Orwell",
+          "confidence": 0.95,
+          "subject_raw": "1984",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3127552978339101,
+      "created_at": "2026-07-04T04:40:19.781174-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "707c4367-afd9-4c78-8907-7581b00766db",
+      "memory": "The author of Ball Four is Jim Bouton.",
+      "hash": "a01f8127aa8952c8507cba63d8a210ae",
+      "metadata": {
+        "ordinal": 787,
+        "triple": {
+          "subject_id": "ball_four",
+          "predicate_norm": "be authored by",
+          "object_text": "Jim Bouton",
+          "confidence": 0.95,
+          "subject_raw": "Ball Four",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31268186826218064,
+      "created_at": "2026-07-04T04:41:19.870704-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3df1d72-a3f2-4cb7-81f0-89ace970515b",
+      "memory": "The author of L.A. Confidential is James Ellroy.",
+      "hash": "5e17715bef0648fa858b2529c34eeed8",
+      "metadata": {
+        "ordinal": 631,
+        "triple": {
+          "subject_id": "l.a._confidential",
+          "predicate_norm": "be authored by",
+          "object_text": "James Ellroy",
+          "confidence": 0.95,
+          "subject_raw": "L.A. Confidential",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31042550470873775,
+      "created_at": "2026-07-04T04:41:10.942669-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1665c2fa-7b6f-4958-86b8-a79496ca5f5a",
+      "memory": "Mario Puzo is famous for The Godfather",
+      "hash": "61b537182f500ace22952a48740e4bff",
+      "metadata": {
+        "ordinal": 455,
+        "triple": {
+          "subject_id": "mario_puzo",
+          "predicate_norm": "be famous for",
+          "object_text": "The Godfather",
+          "confidence": 0.95,
+          "subject_raw": "Mario Puzo",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.31015155467605715,
+      "created_at": "2026-07-04T04:40:45.994197-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "94f723c1-5b4b-414a-bfac-90d6aa9cdde7",
+      "memory": "The author of The Birth of Tragedy is Friedrich Nietzsche.",
+      "hash": "dbe393a598d8a1d460bd94401ada82a4",
+      "metadata": {
+        "ordinal": 738,
+        "triple": {
+          "subject_id": "the_birth_of_tragedy",
+          "predicate_norm": "has author",
+          "object_text": "Friedrich Nietzsche",
+          "confidence": 0.95,
+          "subject_raw": "The Birth of Tragedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3069005842253746,
+      "created_at": "2026-07-04T04:41:17.939554-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7dddbb78-f122-4290-bf91-d4eeb76f7a82",
+      "memory": "The author of Coraline is Neil Gaiman.",
+      "hash": "2ec0cd8c3473a880396177bfde2b49cf",
+      "metadata": {
+        "ordinal": 1656,
+        "triple": {
+          "subject_id": "coraline",
+          "predicate_norm": "has author",
+          "object_text": "Neil Gaiman",
+          "confidence": 0.95,
+          "subject_raw": "Coraline",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30630849703813745,
+      "created_at": "2026-07-04T04:42:08.036772-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "87d50719-34fe-4d0f-8faf-77dd8990e238",
+      "memory": "The author of Starship Troopers is Daphne du Maurier.",
+      "hash": "2e0883bb26d00ae62e5303b537291799",
+      "metadata": {
+        "ordinal": 2223,
+        "triple": {
+          "subject_id": "starship_troopers",
+          "predicate_norm": "has author",
+          "object_text": "Daphne du Maurier",
+          "confidence": 0.95,
+          "subject_raw": "Starship Troopers",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30406648402857056,
+      "created_at": "2026-07-04T04:42:40.087596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "68d2c9ec-1fd5-4c78-bfae-c0803bc7464f",
+      "memory": "The author of David Copperfield is Charles Dickens.",
+      "hash": "de485674b6a25a60cca08ff71af97d96",
+      "metadata": {
+        "ordinal": 752,
+        "triple": {
+          "subject_id": "david_copperfield",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "David Copperfield",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3040317110368621,
+      "created_at": "2026-07-04T04:41:17.961933-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "711cad66-f292-470a-a9b2-58a41cd2164d",
+      "memory": "The author of The Age of Reason is Allen Ginsberg.",
+      "hash": "7c5d28460eb0c4b0f59c22972897c92c",
+      "metadata": {
+        "ordinal": 2196,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "has author",
+          "object_text": "Allen Ginsberg",
+          "confidence": 0.95,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3033004893875624,
+      "created_at": "2026-07-04T04:42:38.155909-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7c14c4bb-8f09-4062-bc06-4807c1913dc7",
+      "memory": "The author of The Andromeda Strain is Michael Crichton.",
+      "hash": "9b45943c2abf99cf375082ab89c068b9",
+      "metadata": {
+        "ordinal": 1592,
+        "triple": {
+          "subject_id": "michael_crichton",
+          "predicate_norm": "be author",
+          "object_text": "The Andromeda Strain",
+          "confidence": 0.95,
+          "subject_raw": "Michael Crichton",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.3007376519151574,
+      "created_at": "2026-07-04T04:42:04.651272-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6984fcd9-b4e1-4b9b-95ca-d13c4fe26b8a",
+      "memory": "The author of Smalcald Articles is Bill Mantlo.",
+      "hash": "472607b30c8f7a9a7d9cf5b0a48965e5",
+      "metadata": {
+        "ordinal": 1913,
+        "triple": {
+          "subject_id": "smalcald_articles",
+          "predicate_norm": "be authored by",
+          "object_text": "Bill Mantlo",
+          "confidence": 0.95,
+          "subject_raw": "Smalcald Articles",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.297876375034128,
+      "created_at": "2026-07-04T04:42:21.633989-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e7550b06-57bb-4874-96d0-90d2fe2d0dea",
+      "memory": "The author of Rebecca is Daphne du Maurier",
+      "hash": "0d16f7f34167b5fd5dff49c1d78832dc",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "daphne_du_maurier",
+          "predicate_norm": "be author",
+          "object_text": "Rebecca",
+          "confidence": 0.95,
+          "subject_raw": "Daphne du Maurier",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.29709096480914404,
+      "created_at": "2026-07-04T04:40:23.807657-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b2f03b46-7ac7-405f-88f0-42c8f78dfe3f",
+      "memory": "The author of A Passage to India is E. M. Forster.",
+      "hash": "5bad221c1778f526496a220cb94942bc",
+      "metadata": {
+        "ordinal": 970,
+        "triple": {
+          "subject_id": "a_passage_to_india",
+          "predicate_norm": "be authored by",
+          "object_text": "E. M. Forster",
+          "confidence": 0.95,
+          "subject_raw": "A Passage to India",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.29675718346647273,
+      "created_at": "2026-07-04T04:41:30.696935-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6033d32b-2b48-42de-9426-4d391bb03a65",
+      "memory": "The author of Theaetetus is Ursula K. Le Guin.",
+      "hash": "3bc15da8e7b4bd88d369d446433c62ab",
+      "metadata": {
+        "ordinal": 1422,
+        "triple": {
+          "subject_id": "theaetetus",
+          "predicate_norm": "has author",
+          "object_text": "Ursula K. Le Guin",
+          "confidence": 0.95,
+          "subject_raw": "Theaetetus",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.29670771525677303,
+      "created_at": "2026-07-04T04:41:55.980769-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a895f3b4-838c-4ef0-b158-ebb4ac3d1a06",
+      "memory": "The author of News from Nowhere is Roger Williams.",
+      "hash": "c3dc22f674323079fabc9abc1336fcea",
+      "metadata": {
+        "ordinal": 1125,
+        "triple": {
+          "subject_id": "news_from_nowhere",
+          "predicate_norm": "has author",
+          "object_text": "Roger Williams",
+          "confidence": 0.95,
+          "subject_raw": "News from Nowhere",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2929141139135562,
+      "created_at": "2026-07-04T04:41:39.549226-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6ba2546a-6085-4d67-8fe2-ceee86598550",
+      "memory": "The author of Manfred is Lord Byron.",
+      "hash": "87a4fab36f163d1dbd15ec029e640e48",
+      "metadata": {
+        "ordinal": 1056,
+        "triple": {
+          "subject_id": "manfred",
+          "predicate_norm": "be authored by",
+          "object_text": "Lord Byron",
+          "confidence": 0.95,
+          "subject_raw": "Manfred",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.28941935758274684,
+      "created_at": "2026-07-04T04:41:33.580586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "983b6ec7-3ed0-4d32-b4d1-7c7ac6ba7b68",
+      "memory": "The author of Unix philosophy is Zadie Smith.",
+      "hash": "304d34eee5632d633866ae3795253a71",
+      "metadata": {
+        "ordinal": 1904,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Zadie Smith",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.28824974187801244,
+      "created_at": "2026-07-04T04:42:21.623573-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d1fda93a-0565-4536-b54f-dcc706fc29b4",
+      "memory": "The author of A Christmas Carol is Winston Churchill.",
+      "hash": "0b9fd8f8da9a0ec4c4450752cceddb26",
+      "metadata": {
+        "ordinal": 895,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "has author",
+          "object_text": "Winston Churchill",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.28812994320602636,
+      "created_at": "2026-07-04T04:41:27.178676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9f0e7b86-50a4-4648-9d96-d55fd5b14e3b",
+      "memory": "The author of Children of Dune is Frank Herbert.",
+      "hash": "30a2dda8b558870a4c148a8a3c821592",
+      "metadata": {
+        "ordinal": 1171,
+        "triple": {
+          "subject_id": "children_of_dune",
+          "predicate_norm": "be authored by",
+          "object_text": "Frank Herbert",
+          "confidence": 0.95,
+          "subject_raw": "Children of Dune",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.28799514254748015,
+      "created_at": "2026-07-04T04:41:43.958331-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6e1b4f34-1545-4e0d-adad-89c30659a334",
+      "memory": "The author of A Christmas Carol is Charles Dickens.",
+      "hash": "e8704c32c6d3b345fdf2456bafef6ce0",
+      "metadata": {
+        "ordinal": 81,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.28630525700076426,
+      "created_at": "2026-07-04T04:40:25.366356-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c63c3615-8714-405a-b89f-63d86658c6c9",
+      "memory": "The author of Star Trek canon is Gene Roddenberry.",
+      "hash": "1f01ab29d5217a0d46add998e88a22f0",
+      "metadata": {
+        "ordinal": 789,
+        "triple": {
+          "subject_id": "star_trek_canon",
+          "predicate_norm": "be authored by",
+          "object_text": "Gene Roddenberry",
+          "confidence": 0.95,
+          "subject_raw": "Star Trek canon",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.28611481446426235,
+      "created_at": "2026-07-04T04:41:19.873639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e42be176-9c10-4544-b8e0-bf4132f66e54",
+      "memory": "The author of A Passage to India is Federico García Lorca.",
+      "hash": "7cfbb4131f58ba219ff8c4ca3cff9f1a",
+      "metadata": {
+        "ordinal": 1561,
+        "triple": {
+          "subject_id": "a_passage_to_india",
+          "predicate_norm": "be written by",
+          "object_text": "Federico García Lorca",
+          "confidence": 0.95,
+          "subject_raw": "A Passage to India",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.28572804083134296,
+      "created_at": "2026-07-04T04:42:03.296010-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7970c54f-6c59-4ac5-bee5-c41f270eb796",
+      "memory": "The author of Starship Troopers is Robert A. Heinlein.",
+      "hash": "cbd28c801f06093a41387610522bc5ab",
+      "metadata": {
+        "ordinal": 1938,
+        "triple": {
+          "subject_id": "starship_troopers",
+          "predicate_norm": "has author",
+          "object_text": "Robert A. Heinlein",
+          "confidence": 0.95,
+          "subject_raw": "Starship Troopers",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.28455565309594794,
+      "created_at": "2026-07-04T04:42:23.827128-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ae9feb83-93f3-4a12-8f66-871ab55bf342",
+      "memory": "The author of The Birth of Tragedy is Stephen Crane.",
+      "hash": "c6b98ee39ec9dab593966649731dd182",
+      "metadata": {
+        "ordinal": 2241,
+        "triple": {
+          "subject_id": "the_birth_of_tragedy",
+          "predicate_norm": "has author",
+          "object_text": "Stephen Crane",
+          "confidence": 0.95,
+          "subject_raw": "The Birth of Tragedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.28379377244126236,
+      "created_at": "2026-07-04T04:42:40.108813-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bbe9b2d1-940e-4176-aed7-e04197c1cdb3",
+      "memory": "The author of Sidereus Nuncius is Galileo Galilei",
+      "hash": "5157371de94209567eb86c1de38d1a5e",
+      "metadata": {
+        "ordinal": 1476,
+        "triple": {
+          "subject_id": "galileo_galilei",
+          "predicate_norm": "be author",
+          "object_text": "Sidereus Nuncius",
+          "confidence": 0.95,
+          "subject_raw": "Galileo Galilei",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.28364478097252677,
+      "created_at": "2026-07-04T04:42:00.285030-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b0f236ea-c5ca-4b45-b6cd-0dff4555ecd7",
+      "memory": "The author of David Copperfield is Charles Darwin.",
+      "hash": "ec7e04e8637791d1f926d76cc844e87a",
+      "metadata": {
+        "ordinal": 2202,
+        "triple": {
+          "subject_id": "david_copperfield",
+          "predicate_norm": "has author",
+          "object_text": "Charles Darwin",
+          "confidence": 0.95,
+          "subject_raw": "David Copperfield",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.283539058970821,
+      "created_at": "2026-07-04T04:42:38.163031-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3febd0d-3488-4296-a3a7-cd16d81594dd",
+      "memory": "The author of Unix philosophy is Ken Thompson.",
+      "hash": "4d7a0ddf91c7d2be284ce548879f58aa",
+      "metadata": {
+        "ordinal": 1177,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Ken Thompson",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2826259435739973,
+      "created_at": "2026-07-04T04:41:43.971636-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "125492b6-025e-41d0-bd68-947fd0a48252",
+      "memory": "The author of Theaetetus is Plato.",
+      "hash": "878295beb320f6406b70927c1148ea14",
+      "metadata": {
+        "ordinal": 1308,
+        "triple": {
+          "subject_id": "theaetetus",
+          "predicate_norm": "has author",
+          "object_text": "Plato",
+          "confidence": 0.95,
+          "subject_raw": "Theaetetus",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2822732665352955,
+      "created_at": "2026-07-04T04:41:51.357097-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "436df274-a753-45f6-9b14-6c5ccabcdc1f",
+      "memory": "The author of Sketches by Boz is Sigmund Freud.",
+      "hash": "ff256840dcfd3fe9f2925d02294e00fa",
+      "metadata": {
+        "ordinal": 1025,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "be authored by",
+          "object_text": "Sigmund Freud",
+          "confidence": 0.95,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27953889571104595,
+      "created_at": "2026-07-04T04:41:32.376220-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "77c5afef-c6da-44dd-ad0c-71c707be6a71",
+      "memory": "The author of The Normal Heart is Larry Kramer.",
+      "hash": "55a6449e2285d294f1543c5a189ccfc0",
+      "metadata": {
+        "ordinal": 792,
+        "triple": {
+          "subject_id": "the_normal_heart",
+          "predicate_norm": "be authored by",
+          "object_text": "Larry Kramer",
+          "confidence": 0.95,
+          "subject_raw": "The Normal Heart",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2786198246034487,
+      "created_at": "2026-07-04T04:41:19.877452-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9e1e15f4-cd80-4bfa-9626-480b341bbeac",
+      "memory": "The author of Gulliver's Travels is Jonathan Swift",
+      "hash": "ddee91801be3995071e7d96683460666",
+      "metadata": {
+        "ordinal": 72,
+        "triple": {
+          "subject_id": "jonathan_swift",
+          "predicate_norm": "be author",
+          "object_text": "Gulliver's Travels",
+          "confidence": 0.95,
+          "subject_raw": "Jonathan Swift",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.27721022653603916,
+      "created_at": "2026-07-04T04:40:23.867226-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec03dda2-868f-42fa-91f4-52775eb41ef0",
+      "memory": "The author of The Selfish Gene is Richard Dawkins.",
+      "hash": "b69ba2acd65c1885e98d451da9c9479b",
+      "metadata": {
+        "ordinal": 273,
+        "triple": {
+          "subject_id": "the_selfish_gene",
+          "predicate_norm": "be authored by",
+          "object_text": "Richard Dawkins",
+          "confidence": 0.95,
+          "subject_raw": "The Selfish Gene",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27691705924225174,
+      "created_at": "2026-07-04T04:40:35.203310-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4cd2d9e6-3f0e-41ba-bca7-09259622db68",
+      "memory": "The author of Gesta Danorum is Saxo Grammaticus",
+      "hash": "028ea3ea2bcdccb83222954c1f2393d3",
+      "metadata": {
+        "ordinal": 42,
+        "triple": {
+          "subject_id": "saxo_grammaticus",
+          "predicate_norm": "be author",
+          "object_text": "Gesta Danorum",
+          "confidence": 0.95,
+          "subject_raw": "Saxo Grammaticus",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.2760587645088131,
+      "created_at": "2026-07-04T04:40:23.814480-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "88c513c6-05c6-4123-820e-5b2dc3a01f26",
+      "memory": "Indiana Jones was created by A. A. Milne.",
+      "hash": "b9a539abb7de84aca5a538ea986d24f4",
+      "metadata": {
+        "ordinal": 1218,
+        "triple": {
+          "subject_id": "indiana_jones",
+          "predicate_norm": "be created by",
+          "object_text": "A. A. Milne",
+          "confidence": 0.95,
+          "subject_raw": "Indiana Jones",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.27585216263196327,
+      "created_at": "2026-07-04T04:41:46.373435-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9dd21302-1cd6-49fa-a398-b18f9a12aef6",
+      "memory": "The author of Modern Painters is John Ruskin.",
+      "hash": "321c4ce282a992c6ba3517b782fa8062",
+      "metadata": {
+        "ordinal": 871,
+        "triple": {
+          "subject_id": "modern_painters",
+          "predicate_norm": "be authored by",
+          "object_text": "John Ruskin",
+          "confidence": 0.95,
+          "subject_raw": "Modern Painters",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27569542026249183,
+      "created_at": "2026-07-04T04:41:23.980823-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e530d8c3-00ca-404e-b687-2bebf9ae985b",
+      "memory": "The author of The Trojan Women is Euripides.",
+      "hash": "abf767fbf771a2398117acc206f7c8c8",
+      "metadata": {
+        "ordinal": 521,
+        "triple": {
+          "subject_id": "the_trojan_women",
+          "predicate_norm": "be authored by",
+          "object_text": "Euripides",
+          "confidence": 0.95,
+          "subject_raw": "The Trojan Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.27242742377169626,
+      "created_at": "2026-07-04T04:40:56.190240-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "daab7067-f3c7-4d6b-9ad7-3b6c8810252c",
+      "memory": "Indiana Jones was created by George Lucas.",
+      "hash": "3e5f03683ce6150fc21d4f4535eaceb2",
+      "metadata": {
+        "ordinal": 1182,
+        "triple": {
+          "subject_id": "indiana_jones",
+          "predicate_norm": "be created by",
+          "object_text": "George Lucas",
+          "confidence": 0.95,
+          "subject_raw": "Indiana Jones",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2716956501317638,
+      "created_at": "2026-07-04T04:41:43.981238-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "be20382d-60aa-49d6-94f8-49f19db04bcc",
+      "memory": "The author of Uncle Vanya is Jean Giraudoux.",
+      "hash": "9d669df6dffe5282802d90a745667597",
+      "metadata": {
+        "ordinal": 1910,
+        "triple": {
+          "subject_id": "uncle_vanya",
+          "predicate_norm": "be authored by",
+          "object_text": "Jean Giraudoux",
+          "confidence": 0.95,
+          "subject_raw": "Uncle Vanya",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.2712515924005859,
+      "created_at": "2026-07-04T04:42:21.630592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "031f6b0f-74e9-428c-aeb4-5194e03e9d67",
+      "memory": "The director of The Beatles is Joe Hockey.",
+      "hash": "186409ad15320e0cbeae55a5ac1af3ee",
+      "metadata": {
+        "ordinal": 817,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "be directed by",
+          "object_text": "Joe Hockey",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "is directed by"
+        }
+      },
+      "score": 0.27054575852247065,
+      "created_at": "2026-07-04T04:41:21.879867-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "92b014b5-ea43-4ee1-a3ab-94ebbd38a13c",
+      "memory": "The author of The Selfish Gene is Karl Marx.",
+      "hash": "93d969df77fa247e195ef557596642e0",
+      "metadata": {
+        "ordinal": 2142,
+        "triple": {
+          "subject_id": "the_selfish_gene",
+          "predicate_norm": "be authored by",
+          "object_text": "Karl Marx",
+          "confidence": 0.95,
+          "subject_raw": "The Selfish Gene",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2685212979288325,
+      "created_at": "2026-07-04T04:42:36.636124-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "38a87189-4614-4eaf-8147-3e6aab5174d5",
+      "memory": "The author of Inuyasha is Terrance Dicks.",
+      "hash": "49dc7ee685f765debfc5e17f8135e121",
+      "metadata": {
+        "ordinal": 2119,
+        "triple": {
+          "subject_id": "inuyasha",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "Inuyasha",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.26840593632023135,
+      "created_at": "2026-07-04T04:42:34.482331-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e5b7cd9f-087f-4f39-a9f4-245711880ff9",
+      "memory": "The author of Troilus and Criseyde is Masashi Kishimoto.",
+      "hash": "506f3f8e9da90b7d989b4878c9c566ef",
+      "metadata": {
+        "ordinal": 1606,
+        "triple": {
+          "subject_id": "masashi_kishimoto",
+          "predicate_norm": "be author",
+          "object_text": "Troilus and Criseyde",
+          "confidence": 0.95,
+          "subject_raw": "Masashi Kishimoto",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.26801036080617535,
+      "created_at": "2026-07-04T04:42:04.673675-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4cc0eb96-e4bc-4a2a-96c1-1db21db2d420",
+      "memory": "The author of The Canterbury Tales is Geoffrey Chaucer.",
+      "hash": "2eee88d29f584ffdf2b9735ff04489c5",
+      "metadata": {
+        "ordinal": 1637,
+        "triple": {
+          "subject_id": "the_canterbury_tales",
+          "predicate_norm": "has author",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "The Canterbury Tales",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.26785536334983184,
+      "created_at": "2026-07-04T04:42:06.411754-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2b18ce93-678d-4c0e-a12c-23993179760a",
+      "memory": "The author of Sidereus Nuncius is Samuel Beckett.",
+      "hash": "61806eec248a3400c26be97735c8bb12",
+      "metadata": {
+        "ordinal": 2143,
+        "triple": {
+          "subject_id": "sidereus_nuncius",
+          "predicate_norm": "be authored by",
+          "object_text": "Samuel Beckett",
+          "confidence": 0.95,
+          "subject_raw": "Sidereus Nuncius",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.26755056319621806,
+      "created_at": "2026-07-04T04:42:36.638761-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a961bfd4-c844-4618-a8c4-d65ce89e00b9",
+      "memory": "The author of News from Nowhere is William Morris.",
+      "hash": "35c5ee488256176034739cbc5674d174",
+      "metadata": {
+        "ordinal": 515,
+        "triple": {
+          "subject_id": "news_from_nowhere",
+          "predicate_norm": "be authored by",
+          "object_text": "William Morris",
+          "confidence": 0.95,
+          "subject_raw": "News from Nowhere",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2665951106481204,
+      "created_at": "2026-07-04T04:40:56.180834-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "be44f5ef-79d8-4ec6-b8ff-725d86ccea5e",
+      "memory": "The author of 1984 is Constantine VII.",
+      "hash": "7f1fa7226e75853e116431094f80b455",
+      "metadata": {
+        "ordinal": 1134,
+        "triple": {
+          "subject_id": "1984",
+          "predicate_norm": "be authored by",
+          "object_text": "Constantine VII",
+          "confidence": 0.9,
+          "subject_raw": "1984",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2664350869536964,
+      "created_at": "2026-07-04T04:41:41.898970-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7427b3fc-320d-44c0-9b58-816e55f802a6",
+      "memory": "The author of Little Women is Louisa May Alcott.",
+      "hash": "09999afe7221d1860cffa641e48e24ed",
+      "metadata": {
+        "ordinal": 1153,
+        "triple": {
+          "subject_id": "little_women",
+          "predicate_norm": "be authored by",
+          "object_text": "Louisa May Alcott",
+          "confidence": 0.95,
+          "subject_raw": "Little Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2634784607051041,
+      "created_at": "2026-07-04T04:41:41.940051-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c26c051c-3b18-45a6-81ea-d6b4ed212fcd",
+      "memory": "T. E. Lawrence is famous for Seven Pillars of Wisdom.",
+      "hash": "ec510df47d69b08c687a2a1975e7b4c1",
+      "metadata": {
+        "ordinal": 180,
+        "triple": {
+          "subject_id": "t._e._lawrence",
+          "predicate_norm": "be famous for",
+          "object_text": "Seven Pillars of Wisdom",
+          "confidence": 0.95,
+          "subject_raw": "T. E. Lawrence",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2628807214367768,
+      "created_at": "2026-07-04T04:40:28.722080-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4c5d0c76-06c9-4ca5-b908-c66ca17ee4c8",
+      "memory": "The author of Humanae Vitae is Søren Kierkegaard.",
+      "hash": "1d48d0a218ce2d8b4e65d3ec12828890",
+      "metadata": {
+        "ordinal": 1520,
+        "triple": {
+          "subject_id": "humanae_vitae",
+          "predicate_norm": "has author",
+          "object_text": "Søren Kierkegaard",
+          "confidence": 0.95,
+          "subject_raw": "Humanae Vitae",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.26211028365468914,
+      "created_at": "2026-07-04T04:42:01.856451-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "31b336f3-ac28-4a17-a413-e6272c122ab1",
+      "memory": "Michael Crichton is famous for Jurassic Park.",
+      "hash": "92dedcdc50b32227b56aff77a6db8668",
+      "metadata": {
+        "ordinal": 1083,
+        "triple": {
+          "subject_id": "michael_crichton",
+          "predicate_norm": "be famous for",
+          "object_text": "Jurassic Park",
+          "confidence": 0.95,
+          "subject_raw": "Michael Crichton",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2613440081995342,
+      "created_at": "2026-07-04T04:41:35.500166-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "517a32af-4e8c-4885-a214-4d681ff2bdf2",
+      "memory": "The author of The Vicar of Wakefield is James Agee.",
+      "hash": "335f575f7ae2bdcda197a0172941720d",
+      "metadata": {
+        "ordinal": 989,
+        "triple": {
+          "subject_id": "the_vicar_of_wakefield",
+          "predicate_norm": "be authored by",
+          "object_text": "James Agee",
+          "confidence": 0.95,
+          "subject_raw": "The Vicar of Wakefield",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.26082572091689565,
+      "created_at": "2026-07-04T04:41:30.720793-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "85e1bbb9-3433-4e5e-8223-6695e489825b",
+      "memory": "Phenomenology was created by Laurence Olivier.",
+      "hash": "f2ba7fab18983e71264ee95a106d87bc",
+      "metadata": {
+        "ordinal": 1208,
+        "triple": {
+          "subject_id": "phenomenology",
+          "predicate_norm": "be created by",
+          "object_text": "Laurence Olivier",
+          "confidence": 0.95,
+          "subject_raw": "Phenomenology",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2606647077085949,
+      "created_at": "2026-07-04T04:41:46.354463-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d28cf7b6-95a5-4f91-a22d-3bf9aac6f9eb",
+      "memory": "The author of Little Women is H. P. Lovecraft.",
+      "hash": "2cc5a3635ac2a151802dcbeaf14167bf",
+      "metadata": {
+        "ordinal": 1890,
+        "triple": {
+          "subject_id": "little_women",
+          "predicate_norm": "has author",
+          "object_text": "H. P. Lovecraft",
+          "confidence": 0.95,
+          "subject_raw": "Little Women",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.26020755769813714,
+      "created_at": "2026-07-04T04:42:20.217101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d9a9e418-503b-4246-a087-2a0d1dae1757",
+      "memory": "The author of Lady Windermere's Fan is Oscar Wilde.",
+      "hash": "1cc3e2c5ca40db29a58a085808e32b22",
+      "metadata": {
+        "ordinal": 1219,
+        "triple": {
+          "subject_id": "the_author_of_lady_windermere's_fan",
+          "predicate_norm": "be",
+          "object_text": "Oscar Wilde",
+          "confidence": 0.95,
+          "subject_raw": "the author of Lady Windermere's Fan",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.26009172635445,
+      "created_at": "2026-07-04T04:41:46.375092-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ccb7e3e7-5376-4018-89e1-661df69617c0",
+      "memory": "The author of Bartholomew Fayre: A Comedy is William Shakespeare.",
+      "hash": "bc9e685c7e0ec97994c1897d8b1ff1da",
+      "metadata": {
+        "ordinal": 2134,
+        "triple": {
+          "subject_id": "bartholomew_fayre:_a_comedy",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Bartholomew Fayre: A Comedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25956889340823924,
+      "created_at": "2026-07-04T04:42:34.503276-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a965563f-325c-4dc2-b13d-54b3419d3890",
+      "memory": "The author of The Subjection of Women is John Stuart Mill.",
+      "hash": "a859951090e557ede00e4d364c3040bd",
+      "metadata": {
+        "ordinal": 973,
+        "triple": {
+          "subject_id": "the_subjection_of_women",
+          "predicate_norm": "be authored by",
+          "object_text": "John Stuart Mill",
+          "confidence": 0.95,
+          "subject_raw": "The Subjection of Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.25918511405107086,
+      "created_at": "2026-07-04T04:41:30.701042-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f6e1041a-621a-4400-80a7-239d2bf0d8d8",
+      "memory": "Wizard of Oz was created by L. Frank Baum.",
+      "hash": "56670e6468b72607bb1ca0d51dffeb87",
+      "metadata": {
+        "ordinal": 611,
+        "triple": {
+          "subject_id": "wizard_of_oz",
+          "predicate_norm": "be created by",
+          "object_text": "L. Frank Baum",
+          "confidence": 0.95,
+          "subject_raw": "Wizard of Oz",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2588749301707546,
+      "created_at": "2026-07-04T04:41:10.894044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec396e5f-837d-4d17-91c6-3a4f0f970268",
+      "memory": "The author of Humanae Vitae is Paul VI",
+      "hash": "fc66195af9d708689688bfe60c51c156",
+      "metadata": {
+        "ordinal": 442,
+        "triple": {
+          "subject_id": "humanae_vitae",
+          "predicate_norm": "be authored by",
+          "object_text": "Paul VI",
+          "confidence": 0.95,
+          "subject_raw": "Humanae Vitae",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.25784668417750045,
+      "created_at": "2026-07-04T04:40:45.976678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "464b3411-d167-4f7b-b612-a3fd66c509af",
+      "memory": "The author of Nicomachean Ethics is Aristotle.",
+      "hash": "086f31bd7f707c19f1bc852be6855ed9",
+      "metadata": {
+        "ordinal": 385,
+        "triple": {
+          "subject_id": "aristotle",
+          "predicate_norm": "be author",
+          "object_text": "Nicomachean Ethics",
+          "confidence": 0.95,
+          "subject_raw": "Aristotle",
+          "predicate_raw": "is author of"
+        }
+      },
+      "score": 0.25674191212660286,
+      "created_at": "2026-07-04T04:40:44.192513-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0a7f83e0-0d86-405b-8e4a-d01ff70fc3ba",
+      "memory": "The author of The Vagina Monologues is Eve Ensler.",
+      "hash": "aeab7bfe7190550c04b5d4252626e13c",
+      "metadata": {
+        "ordinal": 1722,
+        "triple": {
+          "subject_id": "the_vagina_monologues",
+          "predicate_norm": "be authored by",
+          "object_text": "Eve Ensler",
+          "confidence": 0.95,
+          "subject_raw": "The Vagina Monologues",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2566284304192174,
+      "created_at": "2026-07-04T04:42:12.878328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "511eecd8-4d90-491d-a7c8-0f840656d627",
+      "memory": "The author of Madame Bovary is Gustave Flaubert.",
+      "hash": "b2f38249fdd2549dfbca3a93b063d3f2",
+      "metadata": {
+        "ordinal": 1272,
+        "triple": {
+          "subject_id": "madame_bovary",
+          "predicate_norm": "be authored by",
+          "object_text": "Gustave Flaubert",
+          "confidence": 0.95,
+          "subject_raw": "Madame Bovary",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.25633896376634924,
+      "created_at": "2026-07-04T04:41:49.740608-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9b0f0364-2a22-4d59-ac2d-3d3189a676a5",
+      "memory": "The author of Uncle Vanya is Anton Chekhov.",
+      "hash": "6dcef589c75ca08fa1a60607a3a80efb",
+      "metadata": {
+        "ordinal": 892,
+        "triple": {
+          "subject_id": "uncle_vanya",
+          "predicate_norm": "has author",
+          "object_text": "Anton Chekhov",
+          "confidence": 0.95,
+          "subject_raw": "Uncle Vanya",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25590297854674393,
+      "created_at": "2026-07-04T04:41:27.173589-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d9d86a9f-9dcb-47a6-b5ea-42ee93c6f600",
+      "memory": "Vito Corleone was created by Mario Puzo.",
+      "hash": "84ec0d12970f775f7dbf1e2aba682487",
+      "metadata": {
+        "ordinal": 646,
+        "triple": {
+          "subject_id": "vito_corleone",
+          "predicate_norm": "be created by",
+          "object_text": "Mario Puzo",
+          "confidence": 0.95,
+          "subject_raw": "Vito Corleone",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2554401499972177,
+      "created_at": "2026-07-04T04:41:10.963329-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3af174b-21c7-46ef-a7b3-6f3bd019e330",
+      "memory": "The author of The Scarlet Letter is Galileo Galilei.",
+      "hash": "c3d9d315534bdc9895f2cc8447fcf4b1",
+      "metadata": {
+        "ordinal": 1869,
+        "triple": {
+          "subject_id": "the_scarlet_letter",
+          "predicate_norm": "has author",
+          "object_text": "Galileo Galilei",
+          "confidence": 0.95,
+          "subject_raw": "The Scarlet Letter",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2545632922590866,
+      "created_at": "2026-07-04T04:42:20.180044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c11bd9da-a9bf-4481-9cc7-5ebb3f9f62ea",
+      "memory": "Drive My Car was performed by The Beatles.",
+      "hash": "62ef0157ccc404d1041b884274d585e5",
+      "metadata": {
+        "ordinal": 29,
+        "triple": {
+          "subject_id": "drive_my_car",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Drive My Car",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2545577908041222,
+      "created_at": "2026-07-04T04:40:19.805937-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "043e737f-7c74-47a5-abdb-ff1e33ce6983",
+      "memory": "The author of The Witcher is T. S. Eliot.",
+      "hash": "7e425b62cf35dbde11622cf764d4c7d6",
+      "metadata": {
+        "ordinal": 1024,
+        "triple": {
+          "subject_id": "the_witcher",
+          "predicate_norm": "be authored by",
+          "object_text": "T. S. Eliot",
+          "confidence": 0.95,
+          "subject_raw": "The Witcher",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2530182574583075,
+      "created_at": "2026-07-04T04:41:32.375013-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b60d8fc0-bb0a-41b0-93e9-715d3d53aab6",
+      "memory": "The author of Aubrey-Maturin series is Ray Bradbury.",
+      "hash": "510acdc5249556f0b9d981206886f698",
+      "metadata": {
+        "ordinal": 1091,
+        "triple": {
+          "subject_id": "aubrey_maturin_series",
+          "predicate_norm": "has author",
+          "object_text": "Ray Bradbury",
+          "confidence": 0.95,
+          "subject_raw": "Aubrey-Maturin series",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2516017141729582,
+      "created_at": "2026-07-04T04:41:35.510892-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "83aedda0-0135-414b-a384-386cffe9e79b",
+      "memory": "The author of A Wizard of Earthsea is Pius XII.",
+      "hash": "e44b8a30c89ed4abfd3054005fac013f",
+      "metadata": {
+        "ordinal": 578,
+        "triple": {
+          "subject_id": "a_wizard_of_earthsea",
+          "predicate_norm": "has author",
+          "object_text": "Pius XII",
+          "confidence": 0.85,
+          "subject_raw": "A Wizard of Earthsea",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25100335839830984,
+      "created_at": "2026-07-04T04:41:09.368375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a816afb9-a525-4ee4-b80d-66a0398f06ac",
+      "memory": "The author of Antony and Cleopatra is Terrance Dicks",
+      "hash": "e960c9b19b40f4c0bff7304449738fca",
+      "metadata": {
+        "ordinal": 564,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25061250189834033,
+      "created_at": "2026-07-04T04:41:04.806213-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9444a0da-e485-4768-a09c-487263129593",
+      "memory": "The director of The Beatles is Brian Epstein.",
+      "hash": "7a4cb58c0864c899242dda642316b85f",
+      "metadata": {
+        "ordinal": 231,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "has director",
+          "object_text": "Brian Epstein",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2501858963324245,
+      "created_at": "2026-07-04T04:40:33.676923-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0ae1903f-aa1a-49c2-b0d7-3753accb63b0",
+      "memory": "The author of Sketches by Boz is Charles Dickens",
+      "hash": "08b1828caf3e160e6a224da43acb0f4a",
+      "metadata": {
+        "ordinal": 559,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25016633935024046,
+      "created_at": "2026-07-04T04:41:04.799076-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "288cdc56-18ba-43ca-b863-208c6ffb9927",
+      "memory": "The author of Analects is Confucius",
+      "hash": "a935731caef9b1511e505935cbce7b0e",
+      "metadata": {
+        "ordinal": 1496,
+        "triple": {
+          "subject_id": "confucius",
+          "predicate_norm": "be author",
+          "object_text": "Analects",
+          "confidence": 0.95,
+          "subject_raw": "Confucius",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.25012379343782165,
+      "created_at": "2026-07-04T04:42:00.326693-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6d963291-402c-4803-8883-8b078c66561e",
+      "memory": "Vito Corleone was created by Nobuhiro Watsuki.",
+      "hash": "75651b736d04d04e4044b6bafe91d8d4",
+      "metadata": {
+        "ordinal": 2237,
+        "triple": {
+          "subject_id": "vito_corleone",
+          "predicate_norm": "be created by",
+          "object_text": "Nobuhiro Watsuki",
+          "confidence": 0.95,
+          "subject_raw": "Vito Corleone",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.24957732090403786,
+      "created_at": "2026-07-04T04:42:40.104541-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d9332900-fc43-40dc-8f13-80a2e1a31132",
+      "memory": "The director of Madonna is Guy Oseary.",
+      "hash": "24227f719ea996bf9781629793cd30dc",
+      "metadata": {
+        "ordinal": 87,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "has director",
+          "object_text": "Guy Oseary",
+          "confidence": 0.95,
+          "subject_raw": "Madonna",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2491114595476419,
+      "created_at": "2026-07-04T04:40:25.376755-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2997dc64-e442-464a-b3a4-8ca326ab4241",
+      "memory": "The author of She Stoops to Conquer is Oliver Goldsmith.",
+      "hash": "77ad30c9cd7a42f27f4b30a2fb712974",
+      "metadata": {
+        "ordinal": 1713,
+        "triple": {
+          "subject_id": "oliver_goldsmith",
+          "predicate_norm": "be author",
+          "object_text": "She Stoops to Conquer",
+          "confidence": 0.95,
+          "subject_raw": "Oliver Goldsmith",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.2487175104083567,
+      "created_at": "2026-07-04T04:42:10.546984-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "73f56dd8-5fff-4ec8-a23d-4040bf6da0da",
+      "memory": "The author of Lorentz ether theory is William Shakespeare.",
+      "hash": "69662a3f7793748e9adbc2e04b49c66d",
+      "metadata": {
+        "ordinal": 1718,
+        "triple": null,
+        "subject_fallback": "lorentz_ether_theory"
+      },
+      "score": 0.24745548373742032,
+      "created_at": "2026-07-04T04:42:10.552542-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c082d2dc-c551-4fa5-9026-1ee325030f35",
+      "memory": "The author of The Andromeda Strain is Multatuli.",
+      "hash": "a493bceb3f716ef42e99fbb492766662",
+      "metadata": {
+        "ordinal": 2213,
+        "triple": {
+          "subject_id": "the_andromeda_strain",
+          "predicate_norm": "has author",
+          "object_text": "Multatuli",
+          "confidence": 0.95,
+          "subject_raw": "The Andromeda Strain",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.24723366733443386,
+      "created_at": "2026-07-04T04:42:40.073215-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cf44762e-2a65-49ad-9654-f36b88ea813e",
+      "memory": "The author of Aubrey-Maturin series is Patrick O'Brian.",
+      "hash": "c9a3c695978953919a7cc545284e18c4",
+      "metadata": {
+        "ordinal": 338,
+        "triple": {
+          "subject_id": "aubrey_maturin_series",
+          "predicate_norm": "has author",
+          "object_text": "Patrick O'Brian",
+          "confidence": 0.95,
+          "subject_raw": "Aubrey-Maturin series",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.24656159718793164,
+      "created_at": "2026-07-04T04:40:37.314857-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "783da030-3a26-4bbe-a2ef-091298f22b00",
+      "memory": "The author of The Age of Reason is Thomas Paine.",
+      "hash": "a0dc678979f6eaec7da3808b2f4aff41",
+      "metadata": {
+        "ordinal": 505,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "be authored by",
+          "object_text": "Thomas Paine",
+          "confidence": 0.95,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.24653443091674543,
+      "created_at": "2026-07-04T04:40:56.159282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "13f433a2-12d4-4c82-9b1b-ae42187e6b40",
+      "memory": "The author of Typee is Herman Melville.",
+      "hash": "5bb6da77281906774540d2641d23f7d0",
+      "metadata": {
+        "ordinal": 833,
+        "triple": {
+          "subject_id": "typee",
+          "predicate_norm": "be authored by",
+          "object_text": "Herman Melville",
+          "confidence": 0.95,
+          "subject_raw": "Typee",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.24634825738421548,
+      "created_at": "2026-07-04T04:41:21.898040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25faea85-5ec8-4be8-ba6d-d81e1daef7ad",
+      "memory": "Wizard of Oz was created by Ambrose Bierce.",
+      "hash": "6be9a27ea8171ce24945bc9c6a48dcaf",
+      "metadata": {
+        "ordinal": 882,
+        "triple": {
+          "subject_id": "ambrose_bierce",
+          "predicate_norm": "created",
+          "object_text": "Wizard of Oz",
+          "confidence": 0.95,
+          "subject_raw": "Ambrose Bierce",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.24523211003230172,
+      "created_at": "2026-07-04T04:41:27.152627-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fccdcedb-1a6c-4709-99a3-cb770ad85d42",
+      "memory": "The author of Mrs. Warren's Profession is Clamp.",
+      "hash": "c93a0658511bdb30945c22ed91a96977",
+      "metadata": {
+        "ordinal": 1071,
+        "triple": {
+          "subject_id": "mrs._warren's_profession",
+          "predicate_norm": "has author",
+          "object_text": "Clamp",
+          "confidence": 0.95,
+          "subject_raw": "Mrs. Warren's Profession",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2440473787320172,
+      "created_at": "2026-07-04T04:41:35.479416-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3ef89e09-acac-4f3e-b211-b44ee31862b5",
+      "memory": "The author of Categories is Aristotle.",
+      "hash": "7914adae64698717461cc54f0eea2d13",
+      "metadata": {
+        "ordinal": 175,
+        "triple": {
+          "subject_id": "categories",
+          "predicate_norm": "be authored by",
+          "object_text": "Aristotle",
+          "confidence": 0.95,
+          "subject_raw": "Categories",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.24355333280488778,
+      "created_at": "2026-07-04T04:40:28.716427-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e4e56a31-cb82-4b29-a171-82e2cf3eac40",
+      "memory": "The author of A Wizard of Earthsea is Ursula K. Le Guin.",
+      "hash": "38ee6f37bea899f6129f7612631f3197",
+      "metadata": {
+        "ordinal": 333,
+        "triple": {
+          "subject_id": "a_wizard_of_earthsea",
+          "predicate_norm": "has author",
+          "object_text": "Ursula K. Le Guin",
+          "confidence": 0.95,
+          "subject_raw": "A Wizard of Earthsea",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.24343504404688937,
+      "created_at": "2026-07-04T04:40:37.308485-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "27e2f3be-2b5b-4d02-b7a2-bb711739231b",
+      "memory": "The author of Coriolanus is William Shakespeare.",
+      "hash": "e22149a8b921a86407ecaae6d5a48255",
+      "metadata": {
+        "ordinal": 1701,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Coriolanus",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.24229584347127778,
+      "created_at": "2026-07-04T04:42:10.533520-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0cd85495-0e4a-4bc1-bebc-b39ea26d5fad",
+      "memory": "Patrick Moore is famous for The Sky at Night.",
+      "hash": "1d5fde67a11bc6a79f5af74a0049afeb",
+      "metadata": {
+        "ordinal": 1547,
+        "triple": {
+          "subject_id": "patrick_moore",
+          "predicate_norm": "be famous for",
+          "object_text": "The Sky at Night",
+          "confidence": 0.95,
+          "subject_raw": "Patrick Moore",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2416489247643293,
+      "created_at": "2026-07-04T04:42:03.258775-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ]
+}

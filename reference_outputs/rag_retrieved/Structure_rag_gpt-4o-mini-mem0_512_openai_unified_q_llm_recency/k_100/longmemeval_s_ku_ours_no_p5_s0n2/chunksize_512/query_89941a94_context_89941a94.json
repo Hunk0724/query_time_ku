@@ -1,0 +1,1866 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "9480c145-9f1a-4822-bedf-618364c3d915",
+      "memory": "User has three bikes: a road bike, a mountain bike, and a commuter bike.",
+      "hash": "a2accdc1fe02c252ca34cf5b22828852",
+      "metadata": {
+        "ordinal": 241,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has",
+          "object_text": "three bikes: a road bike, a mountain bike, and a commuter bike",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.5091569177829601,
+      "created_at": "2026-07-06T11:02:05.878108-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b3a5e428-b5b3-4a9e-be98-2b5c1bec2b0b",
+      "memory": "User just got a new hybrid bike recently.",
+      "hash": "595e605624dd9bc031841a2bbff36de1",
+      "metadata": {
+        "ordinal": 361,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "just got",
+          "object_text": "a new hybrid bike",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "just got"
+        }
+      },
+      "score": 0.45920308507445273,
+      "created_at": "2026-07-06T11:04:21.720910-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "974cfcb6-6328-4a48-8837-173050df1ab6",
+      "memory": "User will have four bikes with them on the trip: a road bike, a mountain bike, a commuter bike, and a new hybrid bike.",
+      "hash": "c54de7aa39a42706143ddde7c43470d1",
+      "metadata": {
+        "ordinal": 360,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will have",
+          "object_text": "four bikes: a road bike, a mountain bike, a commuter bike, and a new hybrid bike",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will have"
+        }
+      },
+      "score": 0.4489199516603131,
+      "created_at": "2026-07-06T11:04:21.718587-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "664dfda1-816d-4829-bedc-b758469e0273",
+      "memory": "User is planning a bike trip next month.",
+      "hash": "ce75dbde7ce18cf5d8c421214ac4ed83",
+      "metadata": {
+        "ordinal": 27,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.42234788431061,
+      "created_at": "2026-07-06T10:58:52.160047-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a58b4fb5-f961-4a08-a400-19dffac9479b",
+      "memory": "User wants to make sure their road bike is in top condition.",
+      "hash": "b14a82a2dae1522aa8dfc23446811df7",
+      "metadata": {
+        "ordinal": 237,
+        "triple": null,
+        "subject_fallback": "user's_road_bike"
+      },
+      "score": 0.39176875886164464,
+      "created_at": "2026-07-06T11:02:05.860070-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "3779e6c3-c527-4a4a-ac67-fbe587335572",
+      "memory": "User is thinking of doing a century ride soon.",
+      "hash": "651a0003243a3be77518612874193f47",
+      "metadata": {
+        "ordinal": 243,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking doing",
+          "object_text": "a century ride soon",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of doing"
+        }
+      },
+      "score": 0.3829794327615125,
+      "created_at": "2026-07-06T11:02:05.884225-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "73cf7076-2bb4-4ccf-a4d5-6a69ae51ae62",
+      "memory": "User has already done 2,000 miles on their current road bike.",
+      "hash": "774ccefd3d1f21c220ea127f7a215dbd",
+      "metadata": {
+        "ordinal": 240,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has already done",
+          "object_text": "2,000 miles on their current road bike",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has already done"
+        }
+      },
+      "score": 0.3748376029941013,
+      "created_at": "2026-07-06T11:02:05.875116-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "43f5dd22-e4d1-4588-8a4d-16f4e2524fb5",
+      "memory": "User has been using their road bike for long rides on the weekends.",
+      "hash": "03d80fcf6b8d4d01d0c7fa57550e3b6e",
+      "metadata": {
+        "ordinal": 239,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be using",
+          "object_text": "their road bike for long rides on the weekends",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.3739815606407685,
+      "created_at": "2026-07-06T11:02:05.870850-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "f3b6f243-c622-4913-88fd-5d9a3f103dbf",
+      "memory": "User has a new bike computer and has been tracking their progress on Strava.",
+      "hash": "ff0df1db92127c6837fe927f82c0f3c6",
+      "metadata": {
+        "ordinal": 364,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has",
+          "object_text": "a new bike computer and has been tracking their progress on Strava",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.371186259943375,
+      "created_at": "2026-07-06T11:04:21.726978-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "76161ef8-cad5-4745-8321-36d4925f8f90",
+      "memory": "User has been doing 30-mile rides recently.",
+      "hash": "1077d409a6e6357f0d23a8d86bd5e55d",
+      "metadata": {
+        "ordinal": 35,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be doing",
+          "object_text": "30-mile rides recently",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.3525786812169332,
+      "created_at": "2026-07-06T10:58:52.189865-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1dc3c868-0b41-483f-aeb1-fd2c52604886",
+      "memory": "User is considering upgrading their road bike's wheels to carbon fiber wheels.",
+      "hash": "708ac8dd2f72e79812d3bc15ad3e231d",
+      "metadata": {
+        "ordinal": 242,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be considering upgrading",
+          "object_text": "their road bike's wheels to carbon fiber wheels",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is considering upgrading"
+        }
+      },
+      "score": 0.34637329263655203,
+      "created_at": "2026-07-06T11:02:05.880936-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "98248d1f-170c-4aa9-b79d-e1da636c68cd",
+      "memory": "User would love to cycle for at least 3-4 days during the trip.",
+      "hash": "d78930888e3a8f952ad65dd0a84c3a8f",
+      "metadata": {
+        "ordinal": 357,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would love to cycle for",
+          "object_text": "at least 3-4 days during the trip",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "would love to cycle for"
+        }
+      },
+      "score": 0.33083136855517586,
+      "created_at": "2026-07-06T11:04:21.711254-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2ba22de0-32cd-4f5c-9595-73e2f30b23ef",
+      "memory": "User is planning a 50-mile ride this weekend.",
+      "hash": "f2dd0e8dde9dadf2bfcc863eae6c4729",
+      "metadata": {
+        "ordinal": 236,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.31769767520733494,
+      "created_at": "2026-07-06T11:02:05.851717-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "86956c91-13c4-460b-9ac8-d8fdb9878e7e",
+      "memory": "User needs to find accommodations with bike storage for all their bikes.",
+      "hash": "9b1756c6cbf25bb3b25cf9bac1efd70b",
+      "metadata": {
+        "ordinal": 362,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "needs to find",
+          "object_text": "accommodations with bike storage for all their bikes",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "needs to find"
+        }
+      },
+      "score": 0.31668669786496384,
+      "created_at": "2026-07-06T11:04:21.722917-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cddcc02e-e3b7-424c-8524-1db2bf192e60",
+      "memory": "User did a 30-mile ride with friends last weekend to a nearby state park.",
+      "hash": "d5b0892fcd44ec724fb43ab6076f7625",
+      "metadata": {
+        "ordinal": 28,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "did 30 mile ride with friends",
+          "object_text": "last weekend to a nearby state park",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "did a 30-mile ride with friends"
+        }
+      },
+      "score": 0.30839365383309425,
+      "created_at": "2026-07-06T10:58:52.167216-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b818c076-5246-4698-8fc0-26281497e532",
+      "memory": "User is going to ask about the silver earrings that they bought last weekend.",
+      "hash": "703b8c3a3f08d0d9263c8186dee29cb5",
+      "metadata": {
+        "ordinal": 277,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be going to ask about",
+          "object_text": "the silver earrings that they bought last weekend",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is going to ask about"
+        }
+      },
+      "score": 0.3069597049311542,
+      "created_at": "2026-07-06T11:02:37.217756-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e46e8248-e90f-4971-8f77-7ecde25781e2",
+      "memory": "User is particularly interested in joining a guided tour in Jackson Hole to explore some of the more challenging mountain bike trails.",
+      "hash": "472305f2b1379b6980619267b38cfa43",
+      "metadata": {
+        "ordinal": 363,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be particularly interested in joining",
+          "object_text": "a guided tour in Jackson Hole to explore some of the more challenging mountain bike trails",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is particularly interested in joining"
+        }
+      },
+      "score": 0.30106535056881184,
+      "created_at": "2026-07-06T11:04:21.724943-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "73723af6-2fee-46f2-a082-fe87abf87568",
+      "memory": "User is comfortable riding 30-40 miles in a day.",
+      "hash": "61a0ef06907713a44bcde49490a555d5",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be comfortable riding",
+          "object_text": "30-40 miles in a day",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is comfortable riding"
+        }
+      },
+      "score": 0.3007943440527492,
+      "created_at": "2026-07-06T10:58:52.179465-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0ce95fcd-ff4b-4a61-93ed-2d1d8340c411",
+      "memory": "User has been trying to get out for a ride at least three times a week.",
+      "hash": "480dc769e007ff655833c9aff13ece21",
+      "metadata": {
+        "ordinal": 36,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be trying to get out for ride",
+          "object_text": "at least three times a week",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been trying to get out for a ride"
+        }
+      },
+      "score": 0.29519663645439054,
+      "created_at": "2026-07-06T10:58:52.192094-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1b62223d-e689-4120-9eda-2229f8af3c17",
+      "memory": "User has been tracking their progress on Strava.",
+      "hash": "fd8b1c3ebd4b3a2f7b4af8f23e94cd0f",
+      "metadata": {
+        "ordinal": 37,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be tracking their progress on",
+          "object_text": "Strava",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been tracking their progress on"
+        }
+      },
+      "score": 0.29162048490957826,
+      "created_at": "2026-07-06T10:58:52.194502-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "603c9d55-fe02-4734-b047-a05d601d9db6",
+      "memory": "The user is considering the project name 'GrindMaster 2000'.",
+      "hash": "44b855ffeea82bbf4ff33d996ca68423",
+      "metadata": {
+        "ordinal": 291,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be considering",
+          "object_text": "the project name 'GrindMaster 2000'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is considering"
+        }
+      },
+      "score": 0.2909842662042923,
+      "created_at": "2026-07-06T11:02:53.135743-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9328bf6b-e1d7-440f-bbf7-822a31a296dd",
+      "memory": "User has been using their phone's GPS for navigation while cycling.",
+      "hash": "aaa05d1b12bedc89077127dbed795ff6",
+      "metadata": {
+        "ordinal": 244,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be using",
+          "object_text": "their phone's GPS for navigation while cycling",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.2863386309382572,
+      "created_at": "2026-07-06T11:02:05.886724-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "3e7bbe28-0855-4b98-8db4-554fa908552a",
+      "memory": "User is comfortable with longer distances when cycling.",
+      "hash": "2770fcc11ab1e4b94eae875d61b5270a",
+      "metadata": {
+        "ordinal": 359,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be comfortable with",
+          "object_text": "longer distances when cycling",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is comfortable with"
+        }
+      },
+      "score": 0.2849544415147304,
+      "created_at": "2026-07-06T11:04:21.716227-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b559dda1-0061-4bf5-989f-5c974a15c159",
+      "memory": "User's commute has increased significantly since they started taking the bus to work on February 20th.",
+      "hash": "cba83de76e969ecb8e214831d41c85f6",
+      "metadata": {
+        "ordinal": 312,
+        "triple": {
+          "subject_id": "user's_commute",
+          "predicate_norm": "has increased",
+          "object_text": "significantly since they started taking the bus to work on February 20th",
+          "confidence": 0.85,
+          "subject_raw": "User's commute",
+          "predicate_raw": "has increased"
+        }
+      },
+      "score": 0.26765438439504274,
+      "created_at": "2026-07-06T11:03:24.644161-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "f4af4a34-179c-4e47-b6db-28a5a99befb0",
+      "memory": "User prefers paved roads with some rolling hills.",
+      "hash": "ae1c15ab5a5b762f8b3ea7c257a4350b",
+      "metadata": {
+        "ordinal": 30,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "prefers",
+          "object_text": "paved roads with some rolling hills",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "prefers"
+        }
+      },
+      "score": 0.26680273264365606,
+      "created_at": "2026-07-06T10:58:52.176605-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cb29e152-0ccc-45d6-9760-9ec9a4ca08ff",
+      "memory": "User is planning a dinner party on December 22nd.",
+      "hash": "e9cb8c8ddc8539550436a4ded8cda9ec",
+      "metadata": {
+        "ordinal": 76,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning",
+          "object_text": "a dinner party on December 22nd",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning"
+        }
+      },
+      "score": 0.247887180994397,
+      "created_at": "2026-07-06T10:59:32.198208-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "80279a33-06d9-4a3b-9086-88c1f7b37b67",
+      "memory": "User is thinking of grilling some veggies this weekend.",
+      "hash": "a7970a8236d03b596c032c7b11f42234",
+      "metadata": {
+        "ordinal": 245,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.24561991586014403,
+      "created_at": "2026-07-06T11:02:24.974429-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9c3ca2e8-0b51-4fb9-a265-269060d3f8c1",
+      "memory": "User is considering buying a fitness tracker for their friend's birthday.",
+      "hash": "32e9c89f3ee5597ca6f59eeaefe40a17",
+      "metadata": {
+        "ordinal": 344,
+        "triple": null,
+        "subject_fallback": "user's_friend"
+      },
+      "score": 0.23452677325225987,
+      "created_at": "2026-07-06T11:04:10.967038-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b1d0577d-5c1a-41a9-b0bf-c558b9309496",
+      "memory": "User is thinking of trying out a new vegetable to grill this weekend.",
+      "hash": "00cf67560d36e0d22ef7dc34ecea2ab8",
+      "metadata": {
+        "ordinal": 255,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.23070890517020945,
+      "created_at": "2026-07-06T11:02:25.009476-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b7ba7800-d504-4f89-9d45-da24d9a6e22d",
+      "memory": "The user is building a project to drive a 2x72 inch belt grinder.",
+      "hash": "1f1ddeac8e1ae001f56de1db92f68699",
+      "metadata": {
+        "ordinal": 289,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be building",
+          "object_text": "a project to drive a 2x72 inch belt grinder",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is building"
+        }
+      },
+      "score": 0.2306002091803594,
+      "created_at": "2026-07-06T11:02:53.125093-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c6ce59ad-242f-4635-b6b9-6b8c6c4fb5a7",
+      "memory": "User has been mixing up their routes and trying new things.",
+      "hash": "8bd33ade310503599b3cb9f34628b6ba",
+      "metadata": {
+        "ordinal": 39,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be mixing up their routes and trying",
+          "object_text": "new things",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been mixing up their routes and trying"
+        }
+      },
+      "score": 0.2289625204938455,
+      "created_at": "2026-07-06T10:58:52.198650-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a27c1bc0-3fab-48dd-bf4b-c871c948f7a9",
+      "memory": "User is interested in getting more involved in the community.",
+      "hash": "a55ef66238b64cbe3436c7e520139130",
+      "metadata": {
+        "ordinal": 117,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22805509610167826,
+      "created_at": "2026-07-06T11:00:05.849306-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "871b6435-cbca-43ac-87d2-026d5a41847d",
+      "memory": "User would like the route to include some scenic views or stops at local cafes.",
+      "hash": "6fda6935d511e0b1deb7ccb696c17f8c",
+      "metadata": {
+        "ordinal": 32,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like route to include",
+          "object_text": "some scenic views or stops at local cafes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "would like the route to include"
+        }
+      },
+      "score": 0.22787289942268513,
+      "created_at": "2026-07-06T10:58:52.182242-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "66c34a36-991f-4b67-9653-bf45935961b7",
+      "memory": "User plans to visit the local store to check out their selection for a new phone case.",
+      "hash": "0b4aec1d5569d276ed009697bc1df744",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "plans to visit",
+          "object_text": "the local store to check out their selection for a new phone case",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "plans to visit"
+        }
+      },
+      "score": 0.2246101455477893,
+      "created_at": "2026-07-06T11:03:24.656633-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "66da549d-8be1-4ff7-b010-36dc33167079",
+      "memory": "User is interested in upcoming sporting events in Speyer that visitors can attend or participate in.",
+      "hash": "45d7cc71b2f02979981a594dc665b46e",
+      "metadata": {
+        "ordinal": 268,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2244015447911775,
+      "created_at": "2026-07-06T11:02:30.102704-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4206810d-7e6a-43e2-84f8-6228c1306816",
+      "memory": "User is planning a long road trip next month from San Francisco to New York City.",
+      "hash": "5b79aa1898a39c04748340a99aeb579d",
+      "metadata": {
+        "ordinal": 355,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22380094321098581,
+      "created_at": "2026-07-06T11:04:21.704545-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "67cfd265-4f9f-4e9f-830e-b57fdafc08e2",
+      "memory": "User has been listening to the 'How I Built This' podcast lately.",
+      "hash": "4978db75c9458594897a013be4584c8a",
+      "metadata": {
+        "ordinal": 305,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22258888828309156,
+      "created_at": "2026-07-06T11:03:13.617697-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d099157d-0333-44e7-8c2c-d0fff97cc3f0",
+      "memory": "User is excited to explore areas in Rivera using public transportation.",
+      "hash": "80c4b2ecbdbaf6f2f8f8aa36b3694690",
+      "metadata": {
+        "ordinal": 185,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2221034828832382,
+      "created_at": "2026-07-06T11:01:13.414998-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "278d2b4d-ca1d-4295-a7d2-d0695dcb7208",
+      "memory": "User is in the San Francisco Bay Area.",
+      "hash": "4371895a344a30e94a64704845a3f8e2",
+      "metadata": {
+        "ordinal": 238,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be in",
+          "object_text": "the San Francisco Bay Area",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is in"
+        }
+      },
+      "score": 0.22034555341721046,
+      "created_at": "2026-07-06T11:02:05.865981-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5d78ea6e-2c26-4471-8e57-5098902ddac9",
+      "memory": "User is available to attend any day of the week.",
+      "hash": "aee455b3ed856814a4ebe5d7b0eb5871",
+      "metadata": {
+        "ordinal": 205,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be available to attend",
+          "object_text": "any day of the week",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is available to attend"
+        }
+      },
+      "score": 0.2197871184597938,
+      "created_at": "2026-07-06T11:01:35.610163-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "f7081a13-ae37-40fe-a2e4-0f1b1fd80826",
+      "memory": "User thinks tracking progress on Strava helps them stay motivated.",
+      "hash": "4ebc5554763a61e96d4c101ac88839d5",
+      "metadata": {
+        "ordinal": 38,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "thinks tracking progress on strava helps",
+          "object_text": "them stay motivated",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "thinks tracking progress on Strava helps"
+        }
+      },
+      "score": 0.21887505893557108,
+      "created_at": "2026-07-06T10:58:52.196541-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "79ff9fea-996d-478f-84e3-211480de431f",
+      "memory": "The user suggested the project name 'FitDrive: Smart Treadmill Motor Controller'.",
+      "hash": "748f0d2293800e171d09b5c212541b82",
+      "metadata": {
+        "ordinal": 290,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "suggested",
+          "object_text": "the project name 'FitDrive: Smart Treadmill Motor Controller'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "suggested"
+        }
+      },
+      "score": 0.21706485874717155,
+      "created_at": "2026-07-06T11:02:53.131793-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8067a62f-d4a6-4023-beef-e37535c06ab0",
+      "memory": "User is trying to come up with new jokes about online dating.",
+      "hash": "05c513a3dd6398ef7b993589f89cd60f",
+      "metadata": {
+        "ordinal": 295,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.215432288241877,
+      "created_at": "2026-07-06T11:03:06.450255-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9bb20e01-3565-4ca6-a9c9-82c7980d9ba5",
+      "memory": "User recently got a Samsung smartwatch, a Galaxy Watch Active2.",
+      "hash": "bc4fbb850ef15eb3cb07b117393201d5",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently got",
+          "object_text": "a Samsung smartwatch, a Galaxy Watch Active2",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "recently got"
+        }
+      },
+      "score": 0.215028127306303,
+      "created_at": "2026-07-06T11:04:10.973907-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e57737c8-aabc-4b81-9b07-d2efc101921f",
+      "memory": "User has about 10 days for the trip.",
+      "hash": "9362a2cfaad1de8111529649c095c6dc",
+      "metadata": {
+        "ordinal": 356,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has",
+          "object_text": "about 10 days for the trip",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.21093179756053507,
+      "created_at": "2026-07-06T11:04:21.708438-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c69d9518-ac31-40d1-bb69-98a1996c99f9",
+      "memory": "User will communicate their schedule with their parents so they know when they are available.",
+      "hash": "8c22993551bf1418c32b7c1f4a75a60f",
+      "metadata": {
+        "ordinal": 327,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will communicate their schedule with",
+          "object_text": "their parents",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "will communicate their schedule with"
+        }
+      },
+      "score": 0.2096880009290392,
+      "created_at": "2026-07-06T11:03:43.072311-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0e3aab04-215b-4ba7-8b03-51d6d8b0509d",
+      "memory": "User received a gift from their favorite coffee shop on Friday evening, courtesy of their partner.",
+      "hash": "e5779e01dcc4d85e8e313a64a16ff788",
+      "metadata": {
+        "ordinal": 144,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "received gift from",
+          "object_text": "their favorite coffee shop",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "received a gift from"
+        }
+      },
+      "score": 0.20927230725043944,
+      "created_at": "2026-07-06T11:00:32.770798-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e20d99c9-32a6-4fbb-ba44-12fba55fc56d",
+      "memory": "User's city is Chicago.",
+      "hash": "67a0a42debf16c659a557bbaea5ee031",
+      "metadata": {
+        "ordinal": 203,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be in",
+          "object_text": "Chicago",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is in"
+        }
+      },
+      "score": 0.2086168852323209,
+      "created_at": "2026-07-06T11:01:35.599210-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "fa65f267-8fc4-495f-a9f6-4fc594dec35b",
+      "memory": "User has been thinking about getting a gold chain to pair with the pearl studs.",
+      "hash": "688e4d533836d4ee57aa6a02c06f95d3",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be thinking about getting",
+          "object_text": "a gold chain to pair with the pearl studs",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has been thinking about getting"
+        }
+      },
+      "score": 0.2072828839250801,
+      "created_at": "2026-07-06T11:02:37.211815-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "27f645af-e29f-48e8-b597-122547f1556a",
+      "memory": "User has been consuming educational content across various media platforms for about three months.",
+      "hash": "09e876b3ed9381aeabf6e05a07d829ac",
+      "metadata": {
+        "ordinal": 306,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2067412543973809,
+      "created_at": "2026-07-06T11:03:13.622316-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "55c0b7c2-77e9-45b9-b41d-9ff4ea65c967",
+      "memory": "User is in California.",
+      "hash": "358a915dd22e0e75f6658ecc7f9e19fc",
+      "metadata": {
+        "ordinal": 29,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be in",
+          "object_text": "California",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is in"
+        }
+      },
+      "score": 0.20644259273710103,
+      "created_at": "2026-07-06T10:58:52.172187-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1cd64f49-6b96-407a-8e79-004ac95f488e",
+      "memory": "User thinks the battery drain is because they have been watching a lot of videos on YouTube during their daily commute.",
+      "hash": "690ed98bf77fd43d63bd38068caf2be7",
+      "metadata": {
+        "ordinal": 311,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2060406424219761,
+      "created_at": "2026-07-06T11:03:24.639821-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a63947a2-b7b5-4ae3-af3f-5ed70e4880da",
+      "memory": "User will ask the barista about promotions or loyalty programs at Intelligentsia Coffee.",
+      "hash": "2c469ed30530a83be47bb3c936f24867",
+      "metadata": {
+        "ordinal": 198,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will ask barista about",
+          "object_text": "promotions or loyalty programs at Intelligentsia Coffee",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "will ask the barista about"
+        }
+      },
+      "score": 0.20578750825114128,
+      "created_at": "2026-07-06T11:01:24.728078-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e4b82100-9ce0-4957-a9e5-8a2cc88c8ac5",
+      "memory": "User thinks it would be a great experience to be surrounded by people who share similar interests and passions.",
+      "hash": "9f0de5788fd6f6c48946e223ac3aae70",
+      "metadata": {
+        "ordinal": 64,
+        "triple": null
+      },
+      "score": 0.20542466711507815,
+      "created_at": "2026-07-06T10:59:18.705516-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "837d188a-9fb6-4bf8-a11b-33681bb9980a",
+      "memory": "User likes the Santa Cruz Coastal Route.",
+      "hash": "aa6cc9dc96cc4276a888a7ee4ec52225",
+      "metadata": {
+        "ordinal": 33,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "likes",
+          "object_text": "the Santa Cruz Coastal Route",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "likes"
+        }
+      },
+      "score": 0.20515596578387926,
+      "created_at": "2026-07-06T10:58:52.185179-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5ea1d54e-d566-4a28-961f-608fac30db8d",
+      "memory": "User lost their previous phone case at the gym on March 10th.",
+      "hash": "f4ede794fb29d501132515096eafa7d0",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "lost their previous phone case at",
+          "object_text": "the gym on March 10th",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "lost their previous phone case at"
+        }
+      },
+      "score": 0.20224706223030606,
+      "created_at": "2026-07-06T11:03:24.651189-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ff565e36-f573-4253-8c69-9c53928be0c8",
+      "memory": "User bought their previous phone case from a new phone accessories store that opened up near their office on February 12th.",
+      "hash": "fa3ab5d46c3521ea80610d672fd2f943",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "bought their previous phone case from",
+          "object_text": "a new phone accessories store that opened up near their office on February 12th",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "bought their previous phone case from"
+        }
+      },
+      "score": 0.20156092961114896,
+      "created_at": "2026-07-06T11:03:24.653947-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "35e17f2f-077d-401f-8ab1-ace5fb851167",
+      "memory": "The user is looking for art-related events happening in the city this month.",
+      "hash": "123b0ccbe932d7d2e4b1dc5b602a3b2e",
+      "metadata": {
+        "ordinal": 73,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20038379086700941,
+      "created_at": "2026-07-06T10:59:25.372341-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "469080bc-9294-40a3-8122-265c23a034d2",
+      "memory": "User has been listening to a podcast called 'The Comedian's Comedian'.",
+      "hash": "c5c91396d750c49c76bac8108089c8f1",
+      "metadata": {
+        "ordinal": 301,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "a podcast called 'The Comedian's Comedian'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.1973274474862918,
+      "created_at": "2026-07-06T11:03:06.478801-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8f0cec67-7a14-4dd4-a598-dbebb1c71aa2",
+      "memory": "User asked how to get to Speyer from Frankfurt.",
+      "hash": "ec1e1ec19035b55d1ce476adaa764064",
+      "metadata": {
+        "ordinal": 270,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "asked how to get to",
+          "object_text": "Speyer from Frankfurt",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked how to get to"
+        }
+      },
+      "score": 0.19658811679325822,
+      "created_at": "2026-07-06T11:02:30.110078-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "648a5afa-6714-46b6-bc94-ff285b93f4a9",
+      "memory": "User bought the Samsung Galaxy Watch Active2 on February 10th from Best Buy.",
+      "hash": "a2b44732827ad426a48b61407557d08e",
+      "metadata": {
+        "ordinal": 346,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "bought",
+          "object_text": "the Samsung Galaxy Watch Active2 on February 10th from Best Buy",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "bought"
+        }
+      },
+      "score": 0.19570142847057664,
+      "created_at": "2026-07-06T11:04:10.978277-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "7835744e-de1c-4f9b-b761-7244503f309f",
+      "memory": "User is thinking of including some personal anecdotes and behind-the-scenes footage in their video.",
+      "hash": "e451fbb698406568f69e7ae8293c92f4",
+      "metadata": {
+        "ordinal": 132,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking including",
+          "object_text": "some personal anecdotes and behind-the-scenes footage in their video",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of including"
+        }
+      },
+      "score": 0.1953629093715616,
+      "created_at": "2026-07-06T11:00:19.853727-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d88d9034-edbe-4b5a-9548-32f6f434bf78",
+      "memory": "User wants to be more mindful of how they spend their time and make adjustments as needed.",
+      "hash": "fd409dded37176942dfb331cf69fd37c",
+      "metadata": {
+        "ordinal": 328,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "wants to be more mindful how they spend",
+          "object_text": "their time",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "wants to be more mindful of how they spend"
+        }
+      },
+      "score": 0.1921445930397697,
+      "created_at": "2026-07-06T11:03:43.074485-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b6bb6420-956a-41cc-bbb4-97077d2202a2",
+      "memory": "User is trying to find a new coffee shop for their daily coffee break.",
+      "hash": "c58a3f867b84e15c7303c50f6d5085e6",
+      "metadata": {
+        "ordinal": 188,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19106603130093938,
+      "created_at": "2026-07-06T11:01:24.688885-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1e9f0e82-c547-485e-8cf5-f712bcc4fbc8",
+      "memory": "User has been experimenting with different types of wood chips for smoking.",
+      "hash": "241566105c6fabe0a65b6dde46da78fb",
+      "metadata": {
+        "ordinal": 251,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1906959076486416,
+      "created_at": "2026-07-06T11:02:24.999319-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e45e55c5-526b-46ec-b2c3-875d686ede68",
+      "memory": "User will schedule their tasks and activities in their calendar, prioritizing quality time with their parents.",
+      "hash": "8829b2e04687ba22cf705d610eae0291",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will schedule their tasks and activities in",
+          "object_text": "their calendar",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "will schedule their tasks and activities in"
+        }
+      },
+      "score": 0.1904882283876636,
+      "created_at": "2026-07-06T11:03:43.069923-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "811f0978-fd96-4339-9fb5-38d598825088",
+      "memory": "User is planning to make Intelligentsia Coffee their regular coffee stop.",
+      "hash": "35b8cd448a0b5cc73fd9d17cfebe4e12",
+      "metadata": {
+        "ordinal": 197,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning to make",
+          "object_text": "Intelligentsia Coffee their regular coffee stop",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to make"
+        }
+      },
+      "score": 0.19017072007485214,
+      "created_at": "2026-07-06T11:01:24.725725-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "abefa1e1-920c-4a5b-83b0-a2d13932c5ee",
+      "memory": "User just turned 32 on February 15th.",
+      "hash": "5b2856ca2ae499cafebf5a41fa7a5281",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "turned",
+          "object_text": "32 on February 15th",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "turned"
+        }
+      },
+      "score": 0.18837820847513562,
+      "created_at": "2026-07-06T11:00:51.179364-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0ba2bbfc-82c3-4b1c-9bbc-63b7af0b8b23",
+      "memory": "User is particularly interested in learning about the habitats and behaviors of species that are similar to the ones they've already seen.",
+      "hash": "8c6e6fef069bcfe7de17180f70277844",
+      "metadata": {
+        "ordinal": 343,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be particularly interested in learning about",
+          "object_text": "the habitats and behaviors of species that are similar to the ones they've already seen",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is particularly interested in learning about"
+        }
+      },
+      "score": 0.1877969842244452,
+      "created_at": "2026-07-06T11:03:58.580806-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bce967b1-9776-49c2-b86a-9aef8550833a",
+      "memory": "User has a new coffee creamer that they have been using for about three weeks.",
+      "hash": "bc40d7a30d1ea65fa26d09439f8ab283",
+      "metadata": {
+        "ordinal": 152,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has new coffee creamer that they have be using for",
+          "object_text": "about three weeks",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has a new coffee creamer that they have been using for"
+        }
+      },
+      "score": 0.18768881769635012,
+      "created_at": "2026-07-06T11:00:32.780477-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "618f8ad7-09f5-4456-9832-9941c3c36069",
+      "memory": "User will experiment with different sentence structures and tones to reflect their character's changing emotions and thoughts.",
+      "hash": "f0954b659ca60787d42a9225894c33b4",
+      "metadata": {
+        "ordinal": 235,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will experiment with",
+          "object_text": "different sentence structures and tones to reflect their character's changing emotions and thoughts",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will experiment with"
+        }
+      },
+      "score": 0.18600400934342934,
+      "created_at": "2026-07-06T11:01:52.580080-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2fae4405-56af-460d-80cc-4b2651106690",
+      "memory": "User is interested in attending some of the festival's panels and workshops, which focus on topics like LGBTQ+ representation in media, queer storytelling, and the industry's role in promoting diversity and inclusion.",
+      "hash": "e736451a9aebe4cc87a39526cef67cea",
+      "metadata": {
+        "ordinal": 68,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in attending",
+          "object_text": "some of the festival's panels and workshops, which focus on topics like LGBTQ+ representation in media, queer storytelling, and the industry's role in promoting diversity and inclusion",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in attending"
+        }
+      },
+      "score": 0.18229586421131105,
+      "created_at": "2026-07-06T10:59:18.713195-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "af7d5493-0155-44e7-bc0e-c8495288cff1",
+      "memory": "User recently picked up some applewood chips.",
+      "hash": "259cd0ddf4b4a2ae36dfad4fb1364113",
+      "metadata": {
+        "ordinal": 252,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently picked up",
+          "object_text": "some applewood chips",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "recently picked up"
+        }
+      },
+      "score": 0.18200129656598746,
+      "created_at": "2026-07-06T11:02:25.001922-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5b474bce-dd04-484a-8eec-2c50f834b23a",
+      "memory": "User is considering starting a comedy blog to post their jokes and get feedback.",
+      "hash": "4d00ec37b1f220e213ba1be0a18b9663",
+      "metadata": {
+        "ordinal": 302,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be considering starting",
+          "object_text": "a comedy blog to post their jokes and get feedback",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is considering starting"
+        }
+      },
+      "score": 0.18187147426685796,
+      "created_at": "2026-07-06T11:03:06.481704-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "62fd01b7-d2f7-422a-bea4-ae15285e68df",
+      "memory": "User hopes to build on the momentum of their recent video with the new video.",
+      "hash": "aa5a3db06ddc8f34f5897fae8b5e7bf6",
+      "metadata": {
+        "ordinal": 133,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "hopes to build on",
+          "object_text": "the momentum of their recent video with the new video",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "hopes to build on"
+        }
+      },
+      "score": 0.18143921547101519,
+      "created_at": "2026-07-06T11:00:19.856048-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "543ded9e-745b-4530-b4fb-669c6f46f0ae",
+      "memory": "User last backed up their phone data on December 31st.",
+      "hash": "c1cc1bbd0cfce411c1e0179bdf32ef5d",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "last backed up their phone data on",
+          "object_text": "December 31st",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "last backed up their phone data on"
+        }
+      },
+      "score": 0.1805887803332995,
+      "created_at": "2026-07-06T11:03:24.648081-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cd008f4d-af9e-4234-a982-6bcc3c004dea",
+      "memory": "User wants to try out different wood chips for smoking.",
+      "hash": "2d95305d2f93d2869b7266ad05c2e0aa",
+      "metadata": {
+        "ordinal": 246,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1805585768722997,
+      "created_at": "2026-07-06T11:02:24.979861-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "775ee00e-640b-47b0-801f-ff5266201b85",
+      "memory": "User is thinking of trying Intelligentsia Coffee.",
+      "hash": "cb9fea75eec8f8f66560c8b4423eb1e3",
+      "metadata": {
+        "ordinal": 193,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking trying",
+          "object_text": "Intelligentsia Coffee",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of trying"
+        }
+      },
+      "score": 0.17998905158711972,
+      "created_at": "2026-07-06T11:01:24.714964-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "dd169d40-88b6-4580-a3e0-655133249e4b",
+      "memory": "User is looking for recommendations on birding trails in the nearby area.",
+      "hash": "56273c74ef5637b1f9c954a0d918e3e4",
+      "metadata": {
+        "ordinal": 333,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1794226256082063,
+      "created_at": "2026-07-06T11:03:58.541717-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "148977bc-fa2c-4676-bca2-5422f716a2e6",
+      "memory": "User is considering purchasing the Fitbit Inspire HR from Amazon.",
+      "hash": "363b793e232cbc65437dffbfa6b0902e",
+      "metadata": {
+        "ordinal": 352,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be considering purchasing",
+          "object_text": "the Fitbit Inspire HR from Amazon",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is considering purchasing"
+        }
+      },
+      "score": 0.17868870504020562,
+      "created_at": "2026-07-06T11:04:10.997835-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bfdba070-d2b8-4b0f-a3f6-a09be283f239",
+      "memory": "User plans to review their priorities regularly to ensure they are on track.",
+      "hash": "607a2d7053e02d7b515b29fc867559f8",
+      "metadata": {
+        "ordinal": 332,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "plans to review their priorities regularly to ensure",
+          "object_text": "they are on track",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "plans to review their priorities regularly to ensure"
+        }
+      },
+      "score": 0.17861067426684327,
+      "created_at": "2026-07-06T11:03:43.083242-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2d7a62ca-1f12-41b1-8ed0-ada375b5e9c7",
+      "memory": "User is trying to come up with new content ideas for their YouTube channel.",
+      "hash": "f4a24f841c11e6e451622d4d6037f190",
+      "metadata": {
+        "ordinal": 123,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1778369979271534,
+      "created_at": "2026-07-06T11:00:19.821449-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9375f128-96fc-4fe4-88e8-3d85c8912a26",
+      "memory": "User has been thinking about taking online courses to upskill and stay relevant in their industry.",
+      "hash": "52e76529aa9c87de4d049fa0a4b89225",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be thinking about",
+          "object_text": "taking online courses to upskill and stay relevant in their industry",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been thinking about"
+        }
+      },
+      "score": 0.17721968214745265,
+      "created_at": "2026-07-06T11:03:43.060013-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5a0d9616-abce-4a00-ab8a-86b3f962cb8b",
+      "memory": "User recently volunteered at a church on Sunday, March 20th.",
+      "hash": "1a8d559705b0de125d7ce4b14c16c00d",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently volunteered at",
+          "object_text": "a church on Sunday, March 20th",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "recently volunteered at"
+        }
+      },
+      "score": 0.17707482436314811,
+      "created_at": "2026-07-06T11:00:05.840134-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2ccb310d-400e-4106-b423-1b05f5383612",
+      "memory": "User is trying to improve their data analysis skills.",
+      "hash": "d74b792442efcd5bc38595fa8e1a02eb",
+      "metadata": {
+        "ordinal": 303,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17691602164715656,
+      "created_at": "2026-07-06T11:03:13.602717-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "027ea336-7854-43cf-9836-de8754543fa3",
+      "memory": "User wants to make a video on 'Art techniques'.",
+      "hash": "1e2998883bc78acebba7f1ec96fe56bd",
+      "metadata": {
+        "ordinal": 157,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "wants to make",
+          "object_text": "a video on 'Art techniques'",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to make"
+        }
+      },
+      "score": 0.17652445295686062,
+      "created_at": "2026-07-06T11:00:40.541079-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a4701915-fd50-4350-9f4d-374991166ccd",
+      "memory": "User prefers routes with low traffic and scenic views.",
+      "hash": "c565f34effaba9b086254c50e5749ac5",
+      "metadata": {
+        "ordinal": 358,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "prefers routes with",
+          "object_text": "low traffic and scenic views",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "prefers routes with"
+        }
+      },
+      "score": 0.17622908925276173,
+      "created_at": "2026-07-06T11:04:21.713901-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "66acbe64-3067-4390-9542-82c40e0dbfa2",
+      "memory": "User has been thinking about their character's backstory and how it relates to their motivations.",
+      "hash": "17a53ce34d97d7d5a5ae452c7dd14924",
+      "metadata": {
+        "ordinal": 229,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be thinking about",
+          "object_text": "their character's backstory and how it relates to their motivations",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been thinking about"
+        }
+      },
+      "score": 0.17560467355785825,
+      "created_at": "2026-07-06T11:01:52.567223-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "00aa7305-0cdc-4765-83ae-5c1347b227ec",
+      "memory": "User has been reading a lot about bird migration patterns.",
+      "hash": "51841deeb828fd7e37e19e3a625bc259",
+      "metadata": {
+        "ordinal": 341,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be reading lot about",
+          "object_text": "bird migration patterns",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been reading a lot about"
+        }
+      },
+      "score": 0.17480070215676796,
+      "created_at": "2026-07-06T11:03:58.576098-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "38d50b78-b6af-4ea2-b260-01ebbf4a32ca",
+      "memory": "User has been experimenting with different binoculars.",
+      "hash": "326fb0f4f963637465be2e7cfe58cce1",
+      "metadata": {
+        "ordinal": 339,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be experimenting with",
+          "object_text": "different binoculars",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been experimenting with"
+        }
+      },
+      "score": 0.17317541366936898,
+      "created_at": "2026-07-06T11:03:58.570848-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "3c1cbbc4-cb84-4b67-a31a-dd2bfea2f2e7",
+      "memory": "User is struggling to think of what to do next for their YouTube channel.",
+      "hash": "5b384afe8e9fd3e1822355f439a07523",
+      "metadata": {
+        "ordinal": 125,
+        "triple": null,
+        "subject_fallback": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17287699082403007,
+      "created_at": "2026-07-06T11:00:19.832098-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1abea470-5396-4f1f-82cb-ce7ba7ba0227",
+      "memory": "User is curious about the Outfest Los Angeles LGBTQ+ Film Festival's atmosphere and community.",
+      "hash": "e72549d971349960efa835dfec122045",
+      "metadata": {
+        "ordinal": 62,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be curious about",
+          "object_text": "the Outfest Los Angeles LGBTQ+ Film Festival's atmosphere and community",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is curious about"
+        }
+      },
+      "score": 0.1724485585900205,
+      "created_at": "2026-07-06T10:59:18.701075-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "7c5e6ab0-dedb-4b53-8599-38b26cbbe87f",
+      "memory": "User is not sure if their friend is into swimming, but water resistance would be a nice feature.",
+      "hash": "c6ce79863d0c1c5bf0681c2d46d73139",
+      "metadata": {
+        "ordinal": 349,
+        "triple": null
+      },
+      "score": 0.17068260065797516,
+      "created_at": "2026-07-06T11:04:10.989524-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "626ef611-6274-4693-9bec-687be4e3425c",
+      "memory": "User usually plans their meals around what's on sale at the grocery store and what ingredients they already have at home.",
+      "hash": "c445f675f9f35ddb21b801edbea915c1",
+      "metadata": {
+        "ordinal": 178,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "usually plans",
+          "object_text": "their meals around what's on sale at the grocery store and what ingredients they already have at home",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "usually plans"
+        }
+      },
+      "score": 0.17060931121937872,
+      "created_at": "2026-07-06T11:01:08.063830-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "62576658-4e38-4069-b82e-c5b1b7fee2c5",
+      "memory": "User likes the Napa Valley Vineyard Route.",
+      "hash": "795399f8ce0aca0b675b16083f8bea95",
+      "metadata": {
+        "ordinal": 34,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "likes",
+          "object_text": "the Napa Valley Vineyard Route",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "likes"
+        }
+      },
+      "score": 0.17055197366358968,
+      "created_at": "2026-07-06T10:58:52.187580-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4074f464-1fb5-4be0-934d-f77c79c8a1fb",
+      "memory": "User is interested in learning more about the habitats and behaviors of waterfowl and raptors.",
+      "hash": "de7162d7e2a783586a6c35af72f210a2",
+      "metadata": {
+        "ordinal": 338,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in learning more about",
+          "object_text": "the habitats and behaviors of waterfowl and raptors",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in learning more about"
+        }
+      },
+      "score": 0.1691056438500756,
+      "created_at": "2026-07-06T11:03:58.567988-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a95304ed-17a8-482f-8223-3a1c4bb3a3df",
+      "memory": "User is considering getting a pair of pearl studs for their mom's birthday.",
+      "hash": "6c5ffc08349f78261ec092b83011a356",
+      "metadata": {
+        "ordinal": 274,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be considering getting",
+          "object_text": "a pair of pearl studs for their mom's birthday",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is considering getting"
+        }
+      },
+      "score": 0.16840266456906608,
+      "created_at": "2026-07-06T11:02:37.208265-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2f6293fb-0d9b-44d3-a742-d2a05a318b25",
+      "memory": "User wants to spend more quality time with their parents but hasn't been able to due to their busy schedule.",
+      "hash": "318bcfd807d182b4a5c36953145d49e6",
+      "metadata": {
+        "ordinal": 324,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "wants to spend more quality time with",
+          "object_text": "their parents",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "wants to spend more quality time with"
+        }
+      },
+      "score": 0.16834251244968765,
+      "created_at": "2026-07-06T11:03:43.065186-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8fdcb8a8-1a11-4263-a37c-3ec8e570e3bb",
+      "memory": "User recently got a great deal on their Samsung Galaxy Watch Active2, which was on sale for $200, $50 less than the usual price.",
+      "hash": "6d77e866ca42451a7c58946b0dfe8049",
+      "metadata": {
+        "ordinal": 353,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently got great deal on",
+          "object_text": "their Samsung Galaxy Watch Active2, which was on sale for $200, $50 less than the usual price",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "recently got a great deal on"
+        }
+      },
+      "score": 0.16777338839458011,
+      "created_at": "2026-07-06T11:04:11.000312-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6931c65c-038f-4509-8eb8-61c0456d8a9f",
+      "memory": "User has been refining their existing material.",
+      "hash": "b4e844044d678e8fe6cac88691a867af",
+      "metadata": {
+        "ordinal": 300,
+        "triple": {
+          "subject_id": "user::context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be refining",
+          "object_text": "their existing material",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been refining"
+        }
+      },
+      "score": 0.16714209202030852,
+      "created_at": "2026-07-06T11:03:06.475806-07:00",
+      "updated_at": null,
+      "user_id": "context_89941a94_longmemeval_s_ku_ours_no_p5_s0n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": null,
+  "memories_str": "241. User has three bikes: a road bike, a mountain bike, and a commuter bike.\n361. User just got a new hybrid bike recently.\n360. User will have four bikes with them on the trip: a road bike, a mountain bike, a commuter bike, and a new hybrid bike.\n27. User is planning a bike trip next month.\n237. User wants to make sure their road bike is in top condition.\n243. User is thinking of doing a century ride soon.\n240. User has already done 2,000 miles on their current road bike.\n239. User has been using their road bike for long rides on the weekends.\n364. User has a new bike computer and has been tracking their progress on Strava.\n35. User has been doing 30-mile rides recently.\n242. User is considering upgrading their road bike's wheels to carbon fiber wheels.\n357. User would love to cycle for at least 3-4 days during the trip.\n236. User is planning a 50-mile ride this weekend.\n362. User needs to find accommodations with bike storage for all their bikes.\n28. User did a 30-mile ride with friends last weekend to a nearby state park.\n277. User is going to ask about the silver earrings that they bought last weekend.\n363. User is particularly interested in joining a guided tour in Jackson Hole to explore some of the more challenging mountain bike trails.\n31. User is comfortable riding 30-40 miles in a day.\n36. User has been trying to get out for a ride at least three times a week.\n37. User has been tracking their progress on Strava.\n291. The user is considering the project name 'GrindMaster 2000'.\n244. User has been using their phone's GPS for navigation while cycling.\n359. User is comfortable with longer distances when cycling.\n312. User's commute has increased significantly since they started taking the bus to work on February 20th.\n30. User prefers paved roads with some rolling hills.\n76. User is planning a dinner party on December 22nd.\n245. User is thinking of grilling some veggies this weekend.\n344. User is considering buying a fitness tracker for their friend's birthday.\n255. User is thinking of trying out a new vegetable to grill this weekend.\n289. The user is building a project to drive a 2x72 inch belt grinder.\n39. User has been mixing up their routes and trying new things.\n117. User is interested in getting more involved in the community.\n32. User would like the route to include some scenic views or stops at local cafes.\n316. User plans to visit the local store to check out their selection for a new phone case.\n268. User is interested in upcoming sporting events in Speyer that visitors can attend or participate in.\n355. User is planning a long road trip next month from San Francisco to New York City.\n305. User has been listening to the 'How I Built This' podcast lately.\n185. User is excited to explore areas in Rivera using public transportation.\n238. User is in the San Francisco Bay Area.\n205. User is available to attend any day of the week.\n38. User thinks tracking progress on Strava helps them stay motivated.\n290. The user suggested the project name 'FitDrive: Smart Treadmill Motor Controller'.\n295. User is trying to come up with new jokes about online dating.\n345. User recently got a Samsung smartwatch, a Galaxy Watch Active2.\n356. User has about 10 days for the trip.\n327. User will communicate their schedule with their parents so they know when they are available.\n144. User received a gift from their favorite coffee shop on Friday evening, courtesy of their partner.\n203. User's city is Chicago.\n275. User has been thinking about getting a gold chain to pair with the pearl studs.\n306. User has been consuming educational content across various media platforms for about three months.\n29. User is in California.\n311. User thinks the battery drain is because they have been watching a lot of videos on YouTube during their daily commute.\n198. User will ask the barista about promotions or loyalty programs at Intelligentsia Coffee.\n64. User thinks it would be a great experience to be surrounded by people who share similar interests and passions.\n33. User likes the Santa Cruz Coastal Route.\n314. User lost their previous phone case at the gym on March 10th.\n315. User bought their previous phone case from a new phone accessories store that opened up near their office on February 12th.\n73. The user is looking for art-related events happening in the city this month.\n301. User has been listening to a podcast called 'The Comedian's Comedian'.\n270. User asked how to get to Speyer from Frankfurt.\n346. User bought the Samsung Galaxy Watch Active2 on February 10th from Best Buy.\n132. User is thinking of including some personal anecdotes and behind-the-scenes footage in their video.\n328. User wants to be more mindful of how they spend their time and make adjustments as needed.\n188. User is trying to find a new coffee shop for their daily coffee break.\n251. User has been experimenting with different types of wood chips for smoking.\n326. User will schedule their tasks and activities in their calendar, prioritizing quality time with their parents.\n197. User is planning to make Intelligentsia Coffee their regular coffee stop.\n161. User just turned 32 on February 15th.\n343. User is particularly interested in learning about the habitats and behaviors of species that are similar to the ones they've already seen.\n152. User has a new coffee creamer that they have been using for about three weeks.\n235. User will experiment with different sentence structures and tones to reflect their character's changing emotions and thoughts.\n68. User is interested in attending some of the festival's panels and workshops, which focus on topics like LGBTQ+ representation in media, queer storytelling, and the industry's role in promoting diversity and inclusion.\n252. User recently picked up some applewood chips.\n302. User is considering starting a comedy blog to post their jokes and get feedback.\n133. User hopes to build on the momentum of their recent video with the new video.\n313. User last backed up their phone data on December 31st.\n246. User wants to try out different wood chips for smoking.\n193. User is thinking of trying Intelligentsia Coffee.\n333. User is looking for recommendations on birding trails in the nearby area.\n352. User is considering purchasing the Fitbit Inspire HR from Amazon.\n332. User plans to review their priorities regularly to ensure they are on track.\n123. User is trying to come up with new content ideas for their YouTube channel.\n322. User has been thinking about taking online courses to upskill and stay relevant in their industry.\n115. User recently volunteered at a church on Sunday, March 20th.\n303. User is trying to improve their data analysis skills.\n157. User wants to make a video on 'Art techniques'.\n358. User prefers routes with low traffic and scenic views.\n229. User has been thinking about their character's backstory and how it relates to their motivations.\n341. User has been reading a lot about bird migration patterns.\n339. User has been experimenting with different binoculars.\n125. User is struggling to think of what to do next for their YouTube channel.\n62. User is curious about the Outfest Los Angeles LGBTQ+ Film Festival's atmosphere and community.\n349. User is not sure if their friend is into swimming, but water resistance would be a nice feature.\n178. User usually plans their meals around what's on sale at the grocery store and what ingredients they already have at home.\n34. User likes the Napa Valley Vineyard Route.\n338. User is interested in learning more about the habitats and behaviors of waterfowl and raptors.\n274. User is considering getting a pair of pearl studs for their mom's birthday.\n324. User wants to spend more quality time with their parents but hasn't been able to due to their busy schedule.\n353. User recently got a great deal on their Samsung Galaxy Watch Active2, which was on sale for $200, $50 less than the usual price.\n300. User has been refining their existing material.",
+  "system_prompt": "You are a careful information-extraction system that outputs only JSON.",
+  "user_message": "You are given retrieved items from a user's personal memory. Each item has a FRESHNESS marker (the prefix integer) — a higher marker means the item was recorded more recently.\n\nYour job: identify EVERY item that DIRECTLY answers the question, and extract the answer from each such item.\n\nDo NOT compare freshness markers. Do NOT pick a \"best\" one. Include ALL items that answer the question.\n\nRules:\n1. An item answers the question only if it states the specific piece of information the question asks about (e.g. the user's current city, job, or preference). A related-but-different topic does NOT count.\n2. Most items describe the user (\"User ...\"); treat the user as the subject unless the question names someone else.\n3. If the user has multiple conflicting values recorded at different freshness markers, INCLUDE BOTH as separate candidates. Do not pick.\n4. If no item answers the question, return an empty list.\n5. Copy the item's text verbatim into `fact_text`, and put the concise answer to the question into `answer_entity`.\n\nQuestion: Today's date is 2023/06/21 (Wed) 02:24.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n Before I purchased the gravel bike, do I have other bikes in addition to my mountain bike and my commuter bike?\n\nItems:\n241. User has three bikes: a road bike, a mountain bike, and a commuter bike.\n361. User just got a new hybrid bike recently.\n360. User will have four bikes with them on the trip: a road bike, a mountain bike, a commuter bike, and a new hybrid bike.\n27. User is planning a bike trip next month.\n237. User wants to make sure their road bike is in top condition.\n243. User is thinking of doing a century ride soon.\n240. User has already done 2,000 miles on their current road bike.\n239. User has been using their road bike for long rides on the weekends.\n364. User has a new bike computer and has been tracking their progress on Strava.\n35. User has been doing 30-mile rides recently.\n242. User is considering upgrading their road bike's wheels to carbon fiber wheels.\n357. User would love to cycle for at least 3-4 days during the trip.\n236. User is planning a 50-mile ride this weekend.\n362. User needs to find accommodations with bike storage for all their bikes.\n28. User did a 30-mile ride with friends last weekend to a nearby state park.\n277. User is going to ask about the silver earrings that they bought last weekend.\n363. User is particularly interested in joining a guided tour in Jackson Hole to explore some of the more challenging mountain bike trails.\n31. User is comfortable riding 30-40 miles in a day.\n36. User has been trying to get out for a ride at least three times a week.\n37. User has been tracking their progress on Strava.\n291. The user is considering the project name 'GrindMaster 2000'.\n244. User has been using their phone's GPS for navigation while cycling.\n359. User is comfortable with longer distances when cycling.\n312. User's commute has increased significantly since they started taking the bus to work on February 20th.\n30. User prefers paved roads with some rolling hills.\n76. User is planning a dinner party on December 22nd.\n245. User is thinking of grilling some veggies this weekend.\n344. User is considering buying a fitness tracker for their friend's birthday.\n255. User is thinking of trying out a new vegetable to grill this weekend.\n289. The user is building a project to drive a 2x72 inch belt grinder.\n39. User has been mixing up their routes and trying new things.\n117. User is interested in getting more involved in the community.\n32. User would like the route to include some scenic views or stops at local cafes.\n316. User plans to visit the local store to check out their selection for a new phone case.\n268. User is interested in upcoming sporting events in Speyer that visitors can attend or participate in.\n355. User is planning a long road trip next month from San Francisco to New York City.\n305. User has been listening to the 'How I Built This' podcast lately.\n185. User is excited to explore areas in Rivera using public transportation.\n238. User is in the San Francisco Bay Area.\n205. User is available to attend any day of the week.\n38. User thinks tracking progress on Strava helps them stay motivated.\n290. The user suggested the project name 'FitDrive: Smart Treadmill Motor Controller'.\n295. User is trying to come up with new jokes about online dating.\n345. User recently got a Samsung smartwatch, a Galaxy Watch Active2.\n356. User has about 10 days for the trip.\n327. User will communicate their schedule with their parents so they know when they are available.\n144. User received a gift from their favorite coffee shop on Friday evening, courtesy of their partner.\n203. User's city is Chicago.\n275. User has been thinking about getting a gold chain to pair with the pearl studs.\n306. User has been consuming educational content across various media platforms for about three months.\n29. User is in California.\n311. User thinks the battery drain is because they have been watching a lot of videos on YouTube during their daily commute.\n198. User will ask the barista about promotions or loyalty programs at Intelligentsia Coffee.\n64. User thinks it would be a great experience to be surrounded by people who share similar interests and passions.\n33. User likes the Santa Cruz Coastal Route.\n314. User lost their previous phone case at the gym on March 10th.\n315. User bought their previous phone case from a new phone accessories store that opened up near their office on February 12th.\n73. The user is looking for art-related events happening in the city this month.\n301. User has been listening to a podcast called 'The Comedian's Comedian'.\n270. User asked how to get to Speyer from Frankfurt.\n346. User bought the Samsung Galaxy Watch Active2 on February 10th from Best Buy.\n132. User is thinking of including some personal anecdotes and behind-the-scenes footage in their video.\n328. User wants to be more mindful of how they spend their time and make adjustments as needed.\n188. User is trying to find a new coffee shop for their daily coffee break.\n251. User has been experimenting with different types of wood chips for smoking.\n326. User will schedule their tasks and activities in their calendar, prioritizing quality time with their parents.\n197. User is planning to make Intelligentsia Coffee their regular coffee stop.\n161. User just turned 32 on February 15th.\n343. User is particularly interested in learning about the habitats and behaviors of species that are similar to the ones they've already seen.\n152. User has a new coffee creamer that they have been using for about three weeks.\n235. User will experiment with different sentence structures and tones to reflect their character's changing emotions and thoughts.\n68. User is interested in attending some of the festival's panels and workshops, which focus on topics like LGBTQ+ representation in media, queer storytelling, and the industry's role in promoting diversity and inclusion.\n252. User recently picked up some applewood chips.\n302. User is considering starting a comedy blog to post their jokes and get feedback.\n133. User hopes to build on the momentum of their recent video with the new video.\n313. User last backed up their phone data on December 31st.\n246. User wants to try out different wood chips for smoking.\n193. User is thinking of trying Intelligentsia Coffee.\n333. User is looking for recommendations on birding trails in the nearby area.\n352. User is considering purchasing the Fitbit Inspire HR from Amazon.\n332. User plans to review their priorities regularly to ensure they are on track.\n123. User is trying to come up with new content ideas for their YouTube channel.\n322. User has been thinking about taking online courses to upskill and stay relevant in their industry.\n115. User recently volunteered at a church on Sunday, March 20th.\n303. User is trying to improve their data analysis skills.\n157. User wants to make a video on 'Art techniques'.\n358. User prefers routes with low traffic and scenic views.\n229. User has been thinking about their character's backstory and how it relates to their motivations.\n341. User has been reading a lot about bird migration patterns.\n339. User has been experimenting with different binoculars.\n125. User is struggling to think of what to do next for their YouTube channel.\n62. User is curious about the Outfest Los Angeles LGBTQ+ Film Festival's atmosphere and community.\n349. User is not sure if their friend is into swimming, but water resistance would be a nice feature.\n178. User usually plans their meals around what's on sale at the grocery store and what ingredients they already have at home.\n34. User likes the Napa Valley Vineyard Route.\n338. User is interested in learning more about the habitats and behaviors of waterfowl and raptors.\n274. User is considering getting a pair of pearl studs for their mom's birthday.\n324. User wants to spend more quality time with their parents but hasn't been able to due to their busy schedule.\n353. User recently got a great deal on their Samsung Galaxy Watch Active2, which was on sale for $200, $50 less than the usual price.\n300. User has been refining their existing material.\n\nReturn ONLY valid JSON: {\"candidates\": [{\"serial\": <int>, \"fact_text\": \"<verbatim>\", \"answer_entity\": \"<answer>\"}, ...]}",
+  "response": "User has a new hybrid bike.",
+  "prompt_tokens": 2037,
+  "completion_tokens": 137
+}

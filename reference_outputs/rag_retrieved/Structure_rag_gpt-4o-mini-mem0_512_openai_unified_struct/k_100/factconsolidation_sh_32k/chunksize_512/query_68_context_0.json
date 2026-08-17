@@ -1,0 +1,3429 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "a1b5bd2e-fa56-4d22-ae17-1bb5eb1c31e0",
+      "memory": "Internet Explorer 5 was developed by Microsoft.",
+      "hash": "f6d8ff2826466651c1c87647e2d11df6",
+      "metadata": {
+        "ordinal": 2086,
+        "triple": {
+          "subject_id": "internet_explorer_5",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.8309430644147531,
+      "created_at": "2026-07-04T05:28:57.084066-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e7fc1a82-1101-4bb9-b500-4c28c0594ef1",
+      "memory": "Internet Explorer 5 was developed by Google.",
+      "hash": "0fa4771785b501a79b462e6f32902150",
+      "metadata": {
+        "ordinal": 2179,
+        "triple": {
+          "subject_id": "internet_explorer_5",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.7650180358139456,
+      "created_at": "2026-07-04T05:28:59.649726-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "54d3f6c1-1687-45ff-a495-40badd4bda8c",
+      "memory": "Internet Explorer 11 was developed by Microsoft.",
+      "hash": "a64b37ee46a00a1740648c926f64876b",
+      "metadata": {
+        "ordinal": 504,
+        "triple": {
+          "subject_id": "internet_explorer_11",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 11",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.6116254980060606,
+      "created_at": "2026-07-04T05:28:18.959773-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2401d7db-9f06-4e41-8a8f-c41750f025db",
+      "memory": "ASP.NET was developed by Microsoft.",
+      "hash": "d25e7c57c8c4da54622e6f3fb53bfc1d",
+      "metadata": {
+        "ordinal": 779,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4237802706641022,
+      "created_at": "2026-07-04T05:28:24.572372-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7ab77526-e00b-42e5-9549-360c88a6ba6f",
+      "memory": "ASP.NET was developed by Google.",
+      "hash": "bea8c78cbbc5a1373d8eda588ba14690",
+      "metadata": {
+        "ordinal": 1570,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4198291536893858,
+      "created_at": "2026-07-04T05:28:43.499789-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f006ef0a-71b5-4380-9f01-89d325367af5",
+      "memory": "Windows Server was developed by Microsoft.",
+      "hash": "3562c80e814181a489158ec6fb2c9479",
+      "metadata": {
+        "ordinal": 2188,
+        "triple": {
+          "subject_id": "windows_server",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Server",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4186078183535589,
+      "created_at": "2026-07-04T05:28:59.665818-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ac14cdfe-9bb9-4b2f-a19a-880532a7e414",
+      "memory": "Metro was developed by Microsoft.",
+      "hash": "efe5b5d202208fcfb1094ed098fe389c",
+      "metadata": {
+        "ordinal": 1641,
+        "triple": {
+          "subject_id": "metro",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Metro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4116831588603659,
+      "created_at": "2026-07-04T05:28:45.173797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "041df951-878c-4954-9488-80f2048f6b52",
+      "memory": "Apple DOS was developed by Apple Inc.",
+      "hash": "2051aa2ddd9d54f65697b90c4b6603d4",
+      "metadata": {
+        "ordinal": 774,
+        "triple": {
+          "subject_id": "apple_dos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple DOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4082066370495766,
+      "created_at": "2026-07-04T05:28:24.564035-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "23cac69d-404c-4644-8bc2-e418c322a400",
+      "memory": "Bing was created by Microsoft.",
+      "hash": "cceea38f8ec0b2367c354aff303d67de",
+      "metadata": {
+        "ordinal": 715,
+        "triple": {
+          "subject_id": "bing",
+          "predicate_norm": "be created by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Bing",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4062656458473166,
+      "created_at": "2026-07-04T05:28:23.126075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6f85b73b-e308-4761-a569-9fe7cc5a36b9",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 1687,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.40111212802924145,
+      "created_at": "2026-07-04T05:28:46.832063-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f59e72dc-ebb7-4d82-88f0-be4ab7653615",
+      "memory": "Windows Aero was developed by Microsoft.",
+      "hash": "6fedffd92e267cd889d2abac987437bf",
+      "metadata": {
+        "ordinal": 1142,
+        "triple": {
+          "subject_id": "windows_aero",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Aero",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3957420332415661,
+      "created_at": "2026-07-04T05:28:33.035023-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6726b245-207e-4067-968d-0d5c3512f8c5",
+      "memory": "Atari Jaguar was developed by Microsoft.",
+      "hash": "c48941c7c75054cc073dc37818e0efaf",
+      "metadata": {
+        "ordinal": 1166,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3955642434972372,
+      "created_at": "2026-07-04T05:28:33.809293-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fbf8928a-58d8-4c48-a3bb-2151cd9c480e",
+      "memory": "Windows Update was developed by Microsoft",
+      "hash": "b377c15941e8c4094de00006a3bd1f68",
+      "metadata": {
+        "ordinal": 424,
+        "triple": {
+          "subject_id": "windows_update",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Update",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3907665837915259,
+      "created_at": "2026-07-04T05:28:17.417058-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "21fcda8c-cd4c-4ff8-95fa-a495d75ed86a",
+      "memory": "Windows Communication Foundation was developed by Microsoft.",
+      "hash": "dbc04e3b6169f31bebde6ea32d24d116",
+      "metadata": {
+        "ordinal": 574,
+        "triple": {
+          "subject_id": "windows_communication_foundation",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Communication Foundation",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3886338113348965,
+      "created_at": "2026-07-04T05:28:20.586002-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "62a2e959-ad56-40e7-8c3b-13746f5990d1",
+      "memory": "iPad Mini was developed by Microsoft.",
+      "hash": "ca7b4127ba8304722c07c683933be2ee",
+      "metadata": {
+        "ordinal": 1611,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3869133424114599,
+      "created_at": "2026-07-04T05:28:44.241459-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d8adf03a-1723-4036-963e-d13efa23f586",
+      "memory": "World Wide Web Consortium was founded by Tim Berners-Lee.",
+      "hash": "bf819aa33cbe9327fb4c21d61d2f1e28",
+      "metadata": {
+        "ordinal": 467,
+        "triple": {
+          "subject_id": "world_wide_web_consortium",
+          "predicate_norm": "be founded by",
+          "object_text": "Tim Berners-Lee",
+          "confidence": 0.95,
+          "subject_raw": "World Wide Web Consortium",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3567635293179491,
+      "created_at": "2026-07-04T05:28:18.331473-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7478dd65-6901-458e-92f6-59745ea44253",
+      "memory": "Gran Turismo 5 was developed by inXile entertainment.",
+      "hash": "109743cc0b548d42f227d9ae3d7da4ba",
+      "metadata": {
+        "ordinal": 1980,
+        "triple": {
+          "subject_id": "gran_turismo_5",
+          "predicate_norm": "be developed by",
+          "object_text": "inXile entertainment",
+          "confidence": 0.95,
+          "subject_raw": "Gran Turismo 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3543156616836891,
+      "created_at": "2026-07-04T05:28:53.921349-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e925b297-7a6b-4c64-9f8c-6a95da41b034",
+      "memory": "Baldur's Gate was developed by Advanced Micro Devices",
+      "hash": "e4e50d2975239713cac8dadfa3d455c4",
+      "metadata": {
+        "ordinal": 1509,
+        "triple": {
+          "subject_id": "baldur's_gate",
+          "predicate_norm": "be developed by",
+          "object_text": "Advanced Micro Devices",
+          "confidence": 0.95,
+          "subject_raw": "Baldur's Gate",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.35159186469369363,
+      "created_at": "2026-07-04T05:28:41.669917-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8f35e14b-eae6-4fb7-9c37-cf0d126ddb48",
+      "memory": "iOS 9 was developed by NeXT Computer, Inc.",
+      "hash": "a5dde5d7b2ae8898a90370c7d164249d",
+      "metadata": {
+        "ordinal": 2266,
+        "triple": {
+          "subject_id": "ios_9",
+          "predicate_norm": "be developed by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 9",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3493120145574858,
+      "created_at": "2026-07-04T05:29:01.326061-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1d5587c7-7a55-41db-8228-216f3d1f33c8",
+      "memory": "AppleScript was developed by Apple Inc.",
+      "hash": "30c9adb24d77e6e89e56cadb93ef21de",
+      "metadata": {
+        "ordinal": 1433,
+        "triple": {
+          "subject_id": "applescript",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "AppleScript",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.34520989090271487,
+      "created_at": "2026-07-04T05:28:40.014041-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "52019d40-eb3c-48ca-80b3-d521313ab474",
+      "memory": "iPod was developed by Apple Inc.",
+      "hash": "8ceffb8e25b7b7e622878cc0ed528b7e",
+      "metadata": {
+        "ordinal": 293,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3381570754511718,
+      "created_at": "2026-07-04T05:28:14.038556-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a7bf71a6-631c-4514-b5a9-7681f5c330d6",
+      "memory": "Windows Aero was developed by Electronic Arts.",
+      "hash": "d5bb5ebeef00459c7e2e879ba7814817",
+      "metadata": {
+        "ordinal": 1754,
+        "triple": {
+          "subject_id": "windows_aero",
+          "predicate_norm": "be developed by",
+          "object_text": "Electronic Arts",
+          "confidence": 0.95,
+          "subject_raw": "Windows Aero",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.33605029239540907,
+      "created_at": "2026-07-04T05:28:47.730840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b2873692-f25c-4945-a330-061ebc38234e",
+      "memory": "Windows Update was developed by Panasonic Corporation.",
+      "hash": "bbedfaf46a0fbaa72212953e629c1284",
+      "metadata": {
+        "ordinal": 1074,
+        "triple": {
+          "subject_id": "windows_update",
+          "predicate_norm": "be developed by",
+          "object_text": "Panasonic Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Windows Update",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3335755936500047,
+      "created_at": "2026-07-04T05:28:31.277014-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f6314985-e54b-416e-acf6-62e782ee9fcd",
+      "memory": "Portal was developed by Valve Corporation.",
+      "hash": "78a2cba35f22fd3dce783c4f3f0953e4",
+      "metadata": {
+        "ordinal": 600,
+        "triple": {
+          "subject_id": "portal",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Portal",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3330887762799133,
+      "created_at": "2026-07-04T05:28:20.627277-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0802b56d-4d10-41df-b140-2f24adb907d4",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 1521,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3298816144211686,
+      "created_at": "2026-07-04T05:28:42.598152-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a678600d-e02b-44f1-a51d-f272dac85040",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 975,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32492758326579296,
+      "created_at": "2026-07-04T05:28:29.052525-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f6211028-ce39-414e-a0b6-9c00986ba23e",
+      "memory": "NeXT Computer, Inc. was founded by Steve Jobs.",
+      "hash": "bdd91b9b20d480354e66066bc20e25cc",
+      "metadata": {
+        "ordinal": 731,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3246828411815436,
+      "created_at": "2026-07-04T05:28:23.908770-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "acfe53df-eaf3-4331-8506-7535f9445dae",
+      "memory": "XML Schema was developed by World Wide Web Consortium.",
+      "hash": "0302d4f3bf9dd6e124faf1389e366c2b",
+      "metadata": {
+        "ordinal": 849,
+        "triple": {
+          "subject_id": "xml_schema",
+          "predicate_norm": "be developed by",
+          "object_text": "World Wide Web Consortium",
+          "confidence": 0.95,
+          "subject_raw": "XML Schema",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3224086126418167,
+      "created_at": "2026-07-04T05:28:26.267011-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f71e385f-86a9-41e2-99d1-838e0320647e",
+      "memory": "Atari Jaguar was developed by Atari Corporation.",
+      "hash": "c8e8650c03061009102ff9c77743cac7",
+      "metadata": {
+        "ordinal": 509,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Atari Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3222754120289972,
+      "created_at": "2026-07-04T05:28:18.971085-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3a44a839-91c3-467f-8f50-a4a483b48a62",
+      "memory": "iOS 7 was developed by Apple Inc.",
+      "hash": "c86372238d7cceff25b58f217d85d60d",
+      "metadata": {
+        "ordinal": 408,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.31977054743420635,
+      "created_at": "2026-07-04T05:28:16.519318-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "56b027db-d404-44b2-a40c-13abf091a8e0",
+      "memory": "iOS 9 was developed by Apple Inc.",
+      "hash": "8c73c48af3ad26ba19f52407f0a5c25e",
+      "metadata": {
+        "ordinal": 889,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "developed",
+          "object_text": "iOS 9",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "developed"
+        }
+      },
+      "score": 0.3149167966596499,
+      "created_at": "2026-07-04T05:28:27.377678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f3856262-b88a-498c-996e-7a32b20b32ed",
+      "memory": "The author of Unix philosophy is Ken Thompson.",
+      "hash": "4d7a0ddf91c7d2be284ce548879f58aa",
+      "metadata": {
+        "ordinal": 1177,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Ken Thompson",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31364421053274016,
+      "created_at": "2026-07-04T05:28:33.822339-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "344ed89f-c02e-41dc-a78f-d4c707cd8cec",
+      "memory": "Gran Turismo 5 was developed by Polyphony Digital.",
+      "hash": "5322fe2c681b4162d701b258d11803fd",
+      "metadata": {
+        "ordinal": 1175,
+        "triple": {
+          "subject_id": "gran_turismo_5",
+          "predicate_norm": "be developed by",
+          "object_text": "Polyphony Digital",
+          "confidence": 0.95,
+          "subject_raw": "Gran Turismo 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3136252416599297,
+      "created_at": "2026-07-04T05:28:33.820178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2eae5242-e2f1-48e5-9b02-d3c39d17fce3",
+      "memory": "iPod was developed by Google.",
+      "hash": "6971b67d7092b2c23f612658118aee31",
+      "metadata": {
+        "ordinal": 1089,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.30944160085035993,
+      "created_at": "2026-07-04T05:28:31.298698-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "597ea49e-c86e-4c03-819d-63f212a166e4",
+      "memory": "iPad Mini was developed by Apple Inc.",
+      "hash": "a9a0fc3277612bc7701df6ca19cd9fc1",
+      "metadata": {
+        "ordinal": 714,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3093116179227689,
+      "created_at": "2026-07-04T05:28:23.124689-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec55d092-c8c7-431c-a54c-b9e265a704df",
+      "memory": "Tim Berners-Lee is a citizen of United Kingdom.",
+      "hash": "4ad8dfa79de4521e13cba32a60572921",
+      "metadata": {
+        "ordinal": 898,
+        "triple": {
+          "subject_id": "tim_berners_lee",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Tim Berners-Lee",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30618628884457005,
+      "created_at": "2026-07-04T05:28:27.392865-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "972cfa49-b901-4859-b0de-0d8d4d46dcb9",
+      "memory": "NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.",
+      "hash": "0290215c845d515245c796a58fc66132",
+      "metadata": {
+        "ordinal": 1180,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Mikhail Khodorkovsky",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3034103351170403,
+      "created_at": "2026-07-04T05:28:33.825511-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97ba42a5-e5d6-4836-b328-f05a3a4311ea",
+      "memory": "The chief executive officer of NeXT Computer, Inc. is Steve Jobs.",
+      "hash": "0f478e33829403e529c7082a583e6ec3",
+      "metadata": {
+        "ordinal": 1578,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3033863229235903,
+      "created_at": "2026-07-04T05:28:43.510051-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97aa6aa3-e3b7-4552-a52a-1a9064d982b5",
+      "memory": "QuickTime was developed by Apple Inc.",
+      "hash": "ae34566529ab81e2bcfd930049fa6788",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2939161629240685,
+      "created_at": "2026-07-04T05:28:07.308690-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1803cdb3-daa6-450f-bc4a-0a917e317675",
+      "memory": "XML Schema was developed by GNU Project.",
+      "hash": "0914e9fb09614fe2b70e53201c946e86",
+      "metadata": {
+        "ordinal": 2282,
+        "triple": {
+          "subject_id": "xml_schema",
+          "predicate_norm": "be developed by",
+          "object_text": "GNU Project",
+          "confidence": 0.95,
+          "subject_raw": "XML Schema",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.29322210460155895,
+      "created_at": "2026-07-04T05:29:02.301060-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7e3da39b-1e74-4bea-8f5a-bf4b2bc1d1f6",
+      "memory": "The director of Blizzard Entertainment is Eben Moglen.",
+      "hash": "210e869c71ad664b14049987f2579581",
+      "metadata": {
+        "ordinal": 1856,
+        "triple": {
+          "subject_id": "blizzard_entertainment",
+          "predicate_norm": "has director",
+          "object_text": "Eben Moglen",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard Entertainment",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2888699975902061,
+      "created_at": "2026-07-04T05:28:50.351897-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "615a97e0-3e03-40b6-a6dc-dcfbdc8bb19e",
+      "memory": "SteamOS was developed by Valve Corporation.",
+      "hash": "3316c73f3a26dc1cd296fe2497bf7c4b",
+      "metadata": {
+        "ordinal": 791,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28837751165829284,
+      "created_at": "2026-07-04T05:28:24.587936-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bbf8508b-334a-428c-85fc-f910207d445f",
+      "memory": "QuickTime was developed by Valve Corporation.",
+      "hash": "1c78b7f14bbf9fffd8e0d1b49ebfdfb7",
+      "metadata": {
+        "ordinal": 2292,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28348209672612,
+      "created_at": "2026-07-04T05:29:02.321592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0e2801ea-23cd-440e-8b03-88607a5421aa",
+      "memory": "iOS 7 was developed by Sony Interactive Entertainment.",
+      "hash": "ed5f88912e62f23dcb8e193ed008fe6f",
+      "metadata": {
+        "ordinal": 959,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28315648148506656,
+      "created_at": "2026-07-04T05:28:29.017789-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b29ecac5-389e-4ed5-af84-84910e18ceb3",
+      "memory": "The company that produced Me 262 is NeXT Computer, Inc.",
+      "hash": "c6b9e8fcbf6d1151ef6e885a72455e57",
+      "metadata": {
+        "ordinal": 2181,
+        "triple": {
+          "subject_id": "me_262",
+          "predicate_norm": "be produced by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Me 262",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.26967212903614657,
+      "created_at": "2026-07-04T05:28:59.653587-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "61a5e0ab-ad2c-44d1-8f62-0235678e6f2e",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 2080,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.9,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2677653385008544,
+      "created_at": "2026-07-04T05:28:57.071662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d4627b6b-282f-4186-b79d-56c86557f772",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2677120707314997,
+      "created_at": "2026-07-04T05:28:12.160275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "abaf5720-0f86-4d23-8c34-6f0bc9dc93f2",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2627571493132107,
+      "created_at": "2026-07-04T05:28:18.966561-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a52ffd38-c4e3-4483-a189-d0e9a7fe8cdf",
+      "memory": "Esperanto was created by Frank Miller.",
+      "hash": "d894354aa355194a5b4cd900f63eac22",
+      "metadata": {
+        "ordinal": 1439,
+        "triple": {
+          "subject_id": "esperanto",
+          "predicate_norm": "be created by",
+          "object_text": "Frank Miller",
+          "confidence": 0.95,
+          "subject_raw": "Esperanto",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2609931293493013,
+      "created_at": "2026-07-04T05:28:40.762695-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "945e61e6-a3a3-45cf-883b-cd6009002efe",
+      "memory": "Indiana Jones was created by A. A. Milne.",
+      "hash": "b9a539abb7de84aca5a538ea986d24f4",
+      "metadata": {
+        "ordinal": 1218,
+        "triple": {
+          "subject_id": "indiana_jones",
+          "predicate_norm": "be created by",
+          "object_text": "A. A. Milne",
+          "confidence": 0.95,
+          "subject_raw": "Indiana Jones",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.26069854319897545,
+      "created_at": "2026-07-04T05:28:34.658360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "02498cd1-8252-47da-be12-b98fdebec1ba",
+      "memory": "Donald Michie is employed by University of Edinburgh.",
+      "hash": "fb9cc6b4c1eb60a9f65f3142cf30a735",
+      "metadata": {
+        "ordinal": 2031,
+        "triple": {
+          "subject_id": "donald_michie",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Edinburgh",
+          "confidence": 0.95,
+          "subject_raw": "Donald Michie",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.26052633984617857,
+      "created_at": "2026-07-04T05:28:54.981237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "083bd627-360e-4099-b331-9b4053a944a1",
+      "memory": "Shigeru Miyamoto is employed by University of Oxford.",
+      "hash": "9a4cc3c99ba35a09bd6704d1d651e51d",
+      "metadata": {
+        "ordinal": 2109,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2602384042718816,
+      "created_at": "2026-07-04T05:28:57.909627-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4ff6c17f-8c71-4f11-87a4-0656e9466410",
+      "memory": "Gran Turismo 4 was developed by Blizzard Entertainment.",
+      "hash": "0d57b14606e2900e7cfc39575642869a",
+      "metadata": {
+        "ordinal": 1693,
+        "triple": null,
+        "subject_fallback": "gran_turismo_4"
+      },
+      "score": 0.25594141765556644,
+      "created_at": "2026-07-04T05:28:46.852848-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "07fee85c-4e7a-48e7-b27e-a8afea2b1c33",
+      "memory": "The director of NetherRealm Studios is Ed Boon.",
+      "hash": "b260be46a5ce223c181b8d396c46ce21",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "netherrealm_studios",
+          "predicate_norm": "has director",
+          "object_text": "Ed Boon",
+          "confidence": 0.95,
+          "subject_raw": "NetherRealm Studios",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2556804261401352,
+      "created_at": "2026-07-04T05:28:14.881077-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b6b03163-5333-454d-b34c-0418034483d1",
+      "memory": "The headquarters of Microsoft is located in the city of Beverly Hills.",
+      "hash": "9428d57b73cb243eda7e35294f7f63c8",
+      "metadata": {
+        "ordinal": 655,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Beverly Hills",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.25382140288447524,
+      "created_at": "2026-07-04T05:28:22.313633-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "96fb7322-465e-48cc-993a-60c7d2838a65",
+      "memory": "SteamOS was developed by ABB Group.",
+      "hash": "f0ddb29ec0211f5db90cd19e31296cc1",
+      "metadata": {
+        "ordinal": 803,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "ABB Group",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.25143383886998066,
+      "created_at": "2026-07-04T05:28:25.380370-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b26463a6-81e9-44e0-b28d-cc535c92c0de",
+      "memory": "Advanced Micro Devices was founded in the city of Toronto.",
+      "hash": "e237fdebbe054a2f94a310ba9f2f0ad5",
+      "metadata": {
+        "ordinal": 2075,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.24696743806993565,
+      "created_at": "2026-07-04T05:28:57.058577-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3751c150-4faa-464f-b620-e4ed0545039f",
+      "memory": "The chief executive officer of Valve Corporation is Mukesh Ambani",
+      "hash": "175709d202b84c3a9959c047d50fc24a",
+      "metadata": {
+        "ordinal": 549,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mukesh Ambani",
+          "confidence": 0.9,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2468221776772338,
+      "created_at": "2026-07-04T05:28:19.915998-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "11d910a3-efd4-4ad3-b132-90767b987a87",
+      "memory": "The director of Blizzard Entertainment is J. Allen Brack.",
+      "hash": "243062b46906af6b5c31b47b14dd42a9",
+      "metadata": {
+        "ordinal": 1387,
+        "triple": {
+          "subject_id": "blizzard_entertainment",
+          "predicate_norm": "has director",
+          "object_text": "J. Allen Brack",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard Entertainment",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.24675801724065877,
+      "created_at": "2026-07-04T05:28:39.190739-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fc9bea55-ec46-4da9-a996-097bd4f6cdf1",
+      "memory": "The director of American Broadcasting Company is Bob Iger.",
+      "hash": "28778bc2e181d52cd500d67f7fe89970",
+      "metadata": {
+        "ordinal": 1216,
+        "triple": {
+          "subject_id": "the_director_of_american_broadcasting_company",
+          "predicate_norm": "be",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "the director of American Broadcasting Company",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.24550476523009962,
+      "created_at": "2026-07-04T05:28:34.655160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "27a71ed3-512e-47f6-8a73-4fb9c33516b2",
+      "memory": "Derek Bok is employed by MI5.",
+      "hash": "e8c29bf0aba4ca04e580536df0c4fe61",
+      "metadata": {
+        "ordinal": 767,
+        "triple": {
+          "subject_id": "derek_bok",
+          "predicate_norm": "be employed by",
+          "object_text": "MI5",
+          "confidence": 0.95,
+          "subject_raw": "Derek Bok",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.24520485377030948,
+      "created_at": "2026-07-04T05:28:24.552580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25838ee6-9535-474b-823c-0a1694234fc4",
+      "memory": "David Ige worked in the city of Rome",
+      "hash": "483d8c660d6dd8d40306541151b8b157",
+      "metadata": {
+        "ordinal": 1489,
+        "triple": {
+          "subject_id": "david_ige",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Rome",
+          "confidence": 0.95,
+          "subject_raw": "David Ige",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.24519486837955023,
+      "created_at": "2026-07-04T05:28:41.641179-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a867db3c-79ad-450e-8cb4-fe13ccaf2761",
+      "memory": "Advanced Micro Devices was founded in the city of Sunnyvale.",
+      "hash": "d6e1fa3b960959324b2808b1261fea05",
+      "metadata": {
+        "ordinal": 1573,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.24517371045427983,
+      "created_at": "2026-07-04T05:28:43.503728-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ee8e7389-2a50-4eeb-9c91-a52518b9c695",
+      "memory": "The company that produced Ford Probe is de Havilland.",
+      "hash": "036e835fa80d36de81490ffd01382a57",
+      "metadata": {
+        "ordinal": 2144,
+        "triple": {
+          "subject_id": "ford_probe",
+          "predicate_norm": "be produced by",
+          "object_text": "de Havilland",
+          "confidence": 0.95,
+          "subject_raw": "Ford Probe",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.24479371646507336,
+      "created_at": "2026-07-04T05:28:58.897510-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4f0c62dd-52d0-44c3-ad9d-ac2676db4856",
+      "memory": "GarageBand was developed by Apple Inc.",
+      "hash": "9bd8cd96e1b9ae4c7a20e6e637e41ded",
+      "metadata": {
+        "ordinal": 407,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.24344941358458483,
+      "created_at": "2026-07-04T05:28:16.518095-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bf3b881f-dfa7-46f2-9830-e678b5a56b7f",
+      "memory": "David Ige worked in the city of Honolulu.",
+      "hash": "68be034ef6017f3ca8a43e00791f678c",
+      "metadata": {
+        "ordinal": 649,
+        "triple": {
+          "subject_id": "david_ige",
+          "predicate_norm": "worked in",
+          "object_text": "Honolulu",
+          "confidence": 0.95,
+          "subject_raw": "David Ige",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.24274268494248552,
+      "created_at": "2026-07-04T05:28:22.296541-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "88120282-251f-4e01-a37f-daa3adc91d1b",
+      "memory": "The company that produced Ford Zephyr is Hon Hai Precision Industry.",
+      "hash": "32fdf3924765101bd99e8236a9e0aed6",
+      "metadata": {
+        "ordinal": 1247,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "produced",
+          "object_text": "Ford Zephyr",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.24196005708146467,
+      "created_at": "2026-07-04T05:28:35.466594-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f3511b6e-209c-48aa-bc4a-e0bca3b7e5e7",
+      "memory": "Ju 88 was developed by Nintendo.",
+      "hash": "40f8fb1d5a07a9e3cd15e634ac44aab9",
+      "metadata": {
+        "ordinal": 862,
+        "triple": {
+          "subject_id": "ju_88",
+          "predicate_norm": "be developed by",
+          "object_text": "Nintendo",
+          "confidence": 0.95,
+          "subject_raw": "Ju 88",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.241486335856933,
+      "created_at": "2026-07-04T05:28:26.283101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e1dac7b1-8e42-46c1-b2c2-b9616bde2cb2",
+      "memory": "de Havilland was founded by Geoffrey de Havilland.",
+      "hash": "bf3cbaa109af5777161ca56ebdb45e94",
+      "metadata": {
+        "ordinal": 753,
+        "triple": {
+          "subject_id": "de_havilland",
+          "predicate_norm": "be founded by",
+          "object_text": "Geoffrey de Havilland",
+          "confidence": 0.95,
+          "subject_raw": "de Havilland",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.24140332555438773,
+      "created_at": "2026-07-04T05:28:23.939606-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a6b0966c-9b53-4589-8e36-c92afdb0ac5a",
+      "memory": "The author of Smalcald Articles is Bill Mantlo.",
+      "hash": "472607b30c8f7a9a7d9cf5b0a48965e5",
+      "metadata": {
+        "ordinal": 1913,
+        "triple": {
+          "subject_id": "smalcald_articles",
+          "predicate_norm": "be authored by",
+          "object_text": "Bill Mantlo",
+          "confidence": 0.95,
+          "subject_raw": "Smalcald Articles",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.2411139223858521,
+      "created_at": "2026-07-04T05:28:52.074710-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5d3bc3b7-3c1b-4e0c-affe-d3bb612a2e99",
+      "memory": "Bf 109 was developed by Messerschmitt.",
+      "hash": "f41b494cd88e45e34ab3b4a771383646",
+      "metadata": {
+        "ordinal": 592,
+        "triple": {
+          "subject_id": "bf_109",
+          "predicate_norm": "be developed by",
+          "object_text": "Messerschmitt",
+          "confidence": 0.95,
+          "subject_raw": "Bf 109",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.24043425475096794,
+      "created_at": "2026-07-04T05:28:20.617090-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fe30e296-95d7-4cd0-8990-12a98551ad9b",
+      "memory": "GNU Project was founded by Richard Stallman.",
+      "hash": "1e4a49b32a96674f897eef9c719a8b6f",
+      "metadata": {
+        "ordinal": 96,
+        "triple": {
+          "subject_id": "gnu_project",
+          "predicate_norm": "be founded by",
+          "object_text": "Richard Stallman",
+          "confidence": 0.95,
+          "subject_raw": "GNU Project",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.24016360731223335,
+      "created_at": "2026-07-04T05:28:09.349013-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3c40ccef-013a-4e52-8766-28adb3031179",
+      "memory": "Ju 88 was developed by Junkers.",
+      "hash": "89ca225a16095158e9409b2a3a0ea8a7",
+      "metadata": {
+        "ordinal": 659,
+        "triple": {
+          "subject_id": "ju_88",
+          "predicate_norm": "be developed by",
+          "object_text": "Junkers",
+          "confidence": 0.95,
+          "subject_raw": "Ju 88",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.24000647458546567,
+      "created_at": "2026-07-04T05:28:22.321825-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "12780633-f2b7-4b9a-8823-310c56a9b863",
+      "memory": "Bf 109 was developed by Sikorsky Aircraft Corporation.",
+      "hash": "6e0480b0b53b3d78033a461747a86829",
+      "metadata": {
+        "ordinal": 1898,
+        "triple": {
+          "subject_id": "bf_109",
+          "predicate_norm": "be developed by",
+          "object_text": "Sikorsky Aircraft Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Bf 109",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.23814508186303024,
+      "created_at": "2026-07-04T05:28:52.037305-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0b26b038-6690-4c09-a3f5-70526bd4b9c7",
+      "memory": "Unreal Tournament 2004 was developed by Epic Games.",
+      "hash": "8c791afd89a614fe0763a2ff8d0bca15",
+      "metadata": {
+        "ordinal": 1576,
+        "triple": {
+          "subject_id": "unreal_tournament_2004",
+          "predicate_norm": "be developed by",
+          "object_text": "Epic Games",
+          "confidence": 0.95,
+          "subject_raw": "Unreal Tournament 2004",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.23741413840130363,
+      "created_at": "2026-07-04T05:28:43.507589-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "329ea853-9dbe-4f3b-9433-69a3fc6df059",
+      "memory": "Baldur's Gate was developed by BioWare.",
+      "hash": "259d284e3a8ef2240258c4657c0df20c",
+      "metadata": {
+        "ordinal": 1174,
+        "triple": {
+          "subject_id": "baldur's_gate",
+          "predicate_norm": "be developed by",
+          "object_text": "BioWare",
+          "confidence": 0.95,
+          "subject_raw": "Baldur's Gate",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2368157414595543,
+      "created_at": "2026-07-04T05:28:33.819091-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "aed05300-1dab-4880-af61-8be95571d64d",
+      "memory": "The author of Pattern Recognition is William Gibson.",
+      "hash": "47ab87c9253f720c3702b8df141ff8a6",
+      "metadata": {
+        "ordinal": 838,
+        "triple": {
+          "subject_id": "pattern_recognition",
+          "predicate_norm": "be authored by",
+          "object_text": "William Gibson",
+          "confidence": 0.95,
+          "subject_raw": "Pattern Recognition",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.23610741145410488,
+      "created_at": "2026-07-04T05:28:26.250945-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "84b1b411-3f9f-403c-9801-782b96822f5b",
+      "memory": "The chairperson of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "6b3e394c987856f1649c25b815996c81",
+      "metadata": {
+        "ordinal": 710,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.23581097127657563,
+      "created_at": "2026-07-04T05:28:23.118869-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "79e20c82-a986-4163-88db-105d3d5228e9",
+      "memory": "Gran Turismo 4 was developed by Polyphony Digital.",
+      "hash": "7b9832ad8ddaeed047d470d8059f7a1d",
+      "metadata": {
+        "ordinal": 934,
+        "triple": {
+          "subject_id": "gran_turismo_4",
+          "predicate_norm": "be developed by",
+          "object_text": "Polyphony Digital",
+          "confidence": 0.95,
+          "subject_raw": "Gran Turismo 4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2356383748714289,
+      "created_at": "2026-07-04T05:28:28.166822-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64929123-bc8c-405a-9e9c-c98369f69b3e",
+      "memory": "American Gothic was created by Shigeru Miyamoto.",
+      "hash": "f4beeb2fb189548ae01146b121878276",
+      "metadata": {
+        "ordinal": 2194,
+        "triple": {
+          "subject_id": "american_gothic",
+          "predicate_norm": "be created by",
+          "object_text": "Shigeru Miyamoto",
+          "confidence": 0.95,
+          "subject_raw": "American Gothic",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.23511585196021068,
+      "created_at": "2026-07-04T05:28:59.674723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "194118ac-980f-4476-a56b-d11a5092b702",
+      "memory": "Crysis 2 was developed by Sony Interactive Entertainment.",
+      "hash": "a345beae0d747f0cf2d84788364c38ef",
+      "metadata": {
+        "ordinal": 2151,
+        "triple": {
+          "subject_id": "crysis_2",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "Crysis 2",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2347539954223426,
+      "created_at": "2026-07-04T05:28:58.912136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "235d0246-f9f2-427c-8024-60439717be4a",
+      "memory": "The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.",
+      "hash": "1bd0ce3387d35b86f8bf3f8f62b14cae",
+      "metadata": {
+        "ordinal": 981,
+        "triple": {
+          "subject_id": "chevrolet_s_10_blazer",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet S-10 Blazer",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2343192558418672,
+      "created_at": "2026-07-04T05:28:29.061399-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6de40307-8b9f-44f3-ad60-d8d7497742fb",
+      "memory": "The author of Unix philosophy is Zadie Smith.",
+      "hash": "304d34eee5632d633866ae3795253a71",
+      "metadata": {
+        "ordinal": 1904,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Zadie Smith",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.23385291901357907,
+      "created_at": "2026-07-04T05:28:52.057144-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a93f25cf-d31c-4b2d-b43a-1b982acc9794",
+      "memory": "Rand al'Thor was created by Ferdowsi.",
+      "hash": "00135e4cf41baf09e172eb5bc9f13e08",
+      "metadata": {
+        "ordinal": 1688,
+        "triple": {
+          "subject_id": "ferdowsi",
+          "predicate_norm": "created",
+          "object_text": "Rand al'Thor",
+          "confidence": 0.95,
+          "subject_raw": "Ferdowsi",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.23342314176523873,
+      "created_at": "2026-07-04T05:28:46.835708-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "599075aa-acf1-47f8-a0ab-9ee639efbf81",
+      "memory": "Hon Hai Precision Industry was founded by Terry Gou.",
+      "hash": "54714d3af93d16a094c0cee222da8552",
+      "metadata": {
+        "ordinal": 1689,
+        "triple": {
+          "subject_id": "terry_gou",
+          "predicate_norm": "founded",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Terry Gou",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.23319063372993754,
+      "created_at": "2026-07-04T05:28:46.840035-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "646eae44-707a-4841-a60f-1d51b411358c",
+      "memory": "The company that produced AMD Accelerated Processing Unit is Advanced Micro Devices.",
+      "hash": "a5f1743c7ca148524baf90a819a96f48",
+      "metadata": {
+        "ordinal": 1605,
+        "triple": {
+          "subject_id": "amd_accelerated_processing_unit",
+          "predicate_norm": "be produced by",
+          "object_text": "Advanced Micro Devices",
+          "confidence": 0.95,
+          "subject_raw": "AMD Accelerated Processing Unit",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2330677890087683,
+      "created_at": "2026-07-04T05:28:44.233291-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ba04c02b-d954-49ae-9616-6cf16d6f6f21",
+      "memory": "Shigeru Miyamoto is employed by Nintendo",
+      "hash": "b0141a82c5177df1a340d7a7c954af46",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "Nintendo",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.23141832363335268,
+      "created_at": "2026-07-04T05:28:08.200052-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "53485831-5ff8-48c2-aa75-14d860de742c",
+      "memory": "John Wycliffe is employed by University of Oxford.",
+      "hash": "f27841944474fd732688f7d4dad98c83",
+      "metadata": {
+        "ordinal": 464,
+        "triple": {
+          "subject_id": "john_wycliffe",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "John Wycliffe",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.23123149730326142,
+      "created_at": "2026-07-04T05:28:18.324223-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0b45b41d-cd10-47a8-a68e-f0c12cfcebde",
+      "memory": "Satya Nadella was born in the city of Hyderabad.",
+      "hash": "39c8e8e3c78f3ee151b53c943ebf9a1a",
+      "metadata": {
+        "ordinal": 1331,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.23086774052409417,
+      "created_at": "2026-07-04T05:28:37.201136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "44570edc-4cd0-4cb8-aaa6-b0da4dcf84a1",
+      "memory": "James Bond was created by Ian Fleming.",
+      "hash": "93fbb6a847399ff5b343e99a0f9c5e96",
+      "metadata": {
+        "ordinal": 923,
+        "triple": {
+          "subject_id": "james_bond",
+          "predicate_norm": "be created by",
+          "object_text": "Ian Fleming",
+          "confidence": 0.95,
+          "subject_raw": "James Bond",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2306070035575556,
+      "created_at": "2026-07-04T05:28:28.145980-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6a9691db-770c-4cd2-b12c-a5ba129aaeb5",
+      "memory": "GarageBand was developed by Google.",
+      "hash": "fe7dbd6b460e82be2da0e8630d0d1fd8",
+      "metadata": {
+        "ordinal": 1802,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.22874227548995751,
+      "created_at": "2026-07-04T05:28:49.365694-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "008bb56c-8889-4cea-b3b7-329ac324af9f",
+      "memory": "Satya Nadella was born in the city of London.",
+      "hash": "4eb07739a5839f18d8bef188c5f8246a",
+      "metadata": {
+        "ordinal": 1460,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.22747163627978495,
+      "created_at": "2026-07-04T05:28:40.792327-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c6b82bd2-53aa-46ec-bdb9-30dc1774d525",
+      "memory": "The chief executive officer of Google is Sundar Pichai",
+      "hash": "6837e373ca014b9b41625b7297dccd8c",
+      "metadata": {
+        "ordinal": 558,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2251159815350386,
+      "created_at": "2026-07-04T05:28:19.931231-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bc26d6a0-d059-403b-83c8-08672a179f58",
+      "memory": "The company that produced Ford Probe is Ford Motor Company",
+      "hash": "4e14f6477983ea287c4ab43315dee1fb",
+      "metadata": {
+        "ordinal": 552,
+        "triple": {
+          "subject_id": "ford_probe",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Probe",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2247320104690439,
+      "created_at": "2026-07-04T05:28:19.921648-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6153f3a2-2029-46f9-a305-b427f0077f89",
+      "memory": "de Havilland was founded by Mikhail Khodorkovsky.",
+      "hash": "b32e853a76ca02cad1fbfb2ecf71393b",
+      "metadata": {
+        "ordinal": 1299,
+        "triple": {
+          "subject_id": "de_havilland",
+          "predicate_norm": "be founded by",
+          "object_text": "Mikhail Khodorkovsky",
+          "confidence": 0.95,
+          "subject_raw": "de Havilland",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22466029915992966,
+      "created_at": "2026-07-04T05:28:36.350395-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "83dc216c-55ad-4286-8972-f06c8a80a685",
+      "memory": "Christopher Robin Milne works in the field of writer.",
+      "hash": "4135282a9c6b859ce2429be5c4d2d587",
+      "metadata": {
+        "ordinal": 1183,
+        "triple": {
+          "subject_id": "christopher_robin_milne",
+          "predicate_norm": "works in field",
+          "object_text": "writer",
+          "confidence": 0.95,
+          "subject_raw": "Christopher Robin Milne",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.2233260563222803,
+      "created_at": "2026-07-04T05:28:33.828655-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ea3d0361-18d0-44dd-b975-71cc8f46a547",
+      "memory": "Ford Motor Company was founded by Henri Grégoire.",
+      "hash": "f88ba9f1353d001323a61abcc077aeaa",
+      "metadata": {
+        "ordinal": 907,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henri Grégoire",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22293599905519862,
+      "created_at": "2026-07-04T05:28:27.405482-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "be9751db-0ff5-4546-ad0f-78218ff46715",
+      "memory": "The headquarters of Microsoft is located in the city of Redmond.",
+      "hash": "1337615e2f4b819bc13b366b2f106144",
+      "metadata": {
+        "ordinal": 342,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Redmond",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.22282578100612938,
+      "created_at": "2026-07-04T05:28:14.908760-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "497d76f5-23bd-439b-b4f0-43077694ccf4",
+      "memory": "Zynga was founded by Mark Pincus.",
+      "hash": "ecc148342699ee81019f3aba21a787d8",
+      "metadata": {
+        "ordinal": 495,
+        "triple": {
+          "subject_id": "zynga",
+          "predicate_norm": "be founded by",
+          "object_text": "Mark Pincus",
+          "confidence": 0.95,
+          "subject_raw": "Zynga",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22247341540897117,
+      "created_at": "2026-07-04T05:28:18.375055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d2ce6ca4-25d7-4dbe-9eeb-6bdd283e4a10",
+      "memory": "The company that produced Chevrolet Vega is Toshiba",
+      "hash": "abb5590bb874f71b2d2b281b1f0bde6c",
+      "metadata": {
+        "ordinal": 1504,
+        "triple": {
+          "subject_id": "chevrolet_vega",
+          "predicate_norm": "be produced by",
+          "object_text": "Toshiba",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Vega",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.21995399157037382,
+      "created_at": "2026-07-04T05:28:41.663700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- Internet Explorer 5 was developed by Google.\n- Internet Explorer 11 was developed by Microsoft.\n- ASP.NET was developed by Google.\n- Windows Server was developed by Microsoft.\n- Metro was developed by Microsoft.\n- Apple DOS was developed by Apple Inc.\n- Bing was created by Microsoft.\n- Windows Aero was developed by Electronic Arts.\n- Atari Jaguar was developed by Microsoft.\n- Windows Update was developed by Panasonic Corporation.\n- Windows Communication Foundation was developed by Microsoft.\n- iPad Mini was developed by Microsoft.\n- World Wide Web Consortium was founded by Tim Berners-Lee.\n- Gran Turismo 5 was developed by inXile entertainment.\n- Baldur's Gate was developed by Advanced Micro Devices\n- iOS 9 was developed by NeXT Computer, Inc.\n- AppleScript was developed by Apple Inc.\n- iPod was developed by Google.\n- Portal was developed by Valve Corporation.\n- PowerBook G4 was developed by Apple Inc.\n- The chief executive officer of Microsoft is Steve Jobs.\n- NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.\n- XML Schema was developed by GNU Project.\n- iOS 7 was developed by Sony Interactive Entertainment.\n- iOS 9 was developed by Apple Inc.\n- The author of Unix philosophy is Zadie Smith.\n- Tim Berners-Lee is a citizen of United Kingdom.\n- The chief executive officer of NeXT Computer, Inc. is Steve Jobs.\n- QuickTime was developed by Valve Corporation.\n- The director of Blizzard Entertainment is Eben Moglen.\n- SteamOS was developed by ABB Group.\n- The company that produced Me 262 is NeXT Computer, Inc.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- Esperanto was created by Frank Miller.\n- Indiana Jones was created by A. A. Milne.\n- Donald Michie is employed by University of Edinburgh.\n- Shigeru Miyamoto is employed by University of Oxford.\n- The director of NetherRealm Studios is Ed Boon.\n- The headquarters of Microsoft is located in the city of Beverly Hills.\n- Advanced Micro Devices was founded in the city of Toronto.\n- The chief executive officer of Valve Corporation is Mukesh Ambani\n- The director of American Broadcasting Company is Bob Iger.\n- Derek Bok is employed by MI5.\n- David Ige worked in the city of Rome\n- The company that produced Ford Probe is de Havilland.\n- GarageBand was developed by Google.\n- The company that produced Ford Zephyr is Hon Hai Precision Industry.\n- Ju 88 was developed by Nintendo.\n- de Havilland was founded by Mikhail Khodorkovsky.\n- The author of Smalcald Articles is Bill Mantlo.\n- Bf 109 was developed by Sikorsky Aircraft Corporation.\n- GNU Project was founded by Richard Stallman.\n- Unreal Tournament 2004 was developed by Epic Games.\n- The author of Pattern Recognition is William Gibson.\n- The chairperson of Hon Hai Precision Industry is Terry Gou.\n- Gran Turismo 4 was developed by Polyphony Digital.\n- American Gothic was created by Shigeru Miyamoto.\n- Crysis 2 was developed by Sony Interactive Entertainment.\n- The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.\n- Rand al'Thor was created by Ferdowsi.\n- Hon Hai Precision Industry was founded by Terry Gou.\n- The company that produced AMD Accelerated Processing Unit is Advanced Micro Devices.\n- John Wycliffe is employed by University of Oxford.\n- Satya Nadella was born in the city of London.\n- James Bond was created by Ian Fleming.\n- Christopher Robin Milne works in the field of writer.\n- Ford Motor Company was founded by Henri Grégoire.\n- Zynga was founded by Mark Pincus.\n- The company that produced Chevrolet Vega is Toshiba\n- PowerBook G4 was developed by Microsoft.\n- Gran Turismo 4 was developed by Blizzard Entertainment.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- Internet Explorer 5 was developed by Google.\n- Internet Explorer 11 was developed by Microsoft.\n- ASP.NET was developed by Google.\n- Windows Server was developed by Microsoft.\n- Metro was developed by Microsoft.\n- Apple DOS was developed by Apple Inc.\n- Bing was created by Microsoft.\n- Windows Aero was developed by Electronic Arts.\n- Atari Jaguar was developed by Microsoft.\n- Windows Update was developed by Panasonic Corporation.\n- Windows Communication Foundation was developed by Microsoft.\n- iPad Mini was developed by Microsoft.\n- World Wide Web Consortium was founded by Tim Berners-Lee.\n- Gran Turismo 5 was developed by inXile entertainment.\n- Baldur's Gate was developed by Advanced Micro Devices\n- iOS 9 was developed by NeXT Computer, Inc.\n- AppleScript was developed by Apple Inc.\n- iPod was developed by Google.\n- Portal was developed by Valve Corporation.\n- PowerBook G4 was developed by Apple Inc.\n- The chief executive officer of Microsoft is Steve Jobs.\n- NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.\n- XML Schema was developed by GNU Project.\n- iOS 7 was developed by Sony Interactive Entertainment.\n- iOS 9 was developed by Apple Inc.\n- The author of Unix philosophy is Zadie Smith.\n- Tim Berners-Lee is a citizen of United Kingdom.\n- The chief executive officer of NeXT Computer, Inc. is Steve Jobs.\n- QuickTime was developed by Valve Corporation.\n- The director of Blizzard Entertainment is Eben Moglen.\n- SteamOS was developed by ABB Group.\n- The company that produced Me 262 is NeXT Computer, Inc.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- Esperanto was created by Frank Miller.\n- Indiana Jones was created by A. A. Milne.\n- Donald Michie is employed by University of Edinburgh.\n- Shigeru Miyamoto is employed by University of Oxford.\n- The director of NetherRealm Studios is Ed Boon.\n- The headquarters of Microsoft is located in the city of Beverly Hills.\n- Advanced Micro Devices was founded in the city of Toronto.\n- The chief executive officer of Valve Corporation is Mukesh Ambani\n- The director of American Broadcasting Company is Bob Iger.\n- Derek Bok is employed by MI5.\n- David Ige worked in the city of Rome\n- The company that produced Ford Probe is de Havilland.\n- GarageBand was developed by Google.\n- The company that produced Ford Zephyr is Hon Hai Precision Industry.\n- Ju 88 was developed by Nintendo.\n- de Havilland was founded by Mikhail Khodorkovsky.\n- The author of Smalcald Articles is Bill Mantlo.\n- Bf 109 was developed by Sikorsky Aircraft Corporation.\n- GNU Project was founded by Richard Stallman.\n- Unreal Tournament 2004 was developed by Epic Games.\n- The author of Pattern Recognition is William Gibson.\n- The chairperson of Hon Hai Precision Industry is Terry Gou.\n- Gran Turismo 4 was developed by Polyphony Digital.\n- American Gothic was created by Shigeru Miyamoto.\n- Crysis 2 was developed by Sony Interactive Entertainment.\n- The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.\n- Rand al'Thor was created by Ferdowsi.\n- Hon Hai Precision Industry was founded by Terry Gou.\n- The company that produced AMD Accelerated Processing Unit is Advanced Micro Devices.\n- John Wycliffe is employed by University of Oxford.\n- Satya Nadella was born in the city of London.\n- James Bond was created by Ian Fleming.\n- Christopher Robin Milne works in the field of writer.\n- Ford Motor Company was founded by Henri Grégoire.\n- Zynga was founded by Mark Pincus.\n- The company that produced Chevrolet Vega is Toshiba\n- PowerBook G4 was developed by Microsoft.\n- Gran Turismo 4 was developed by Blizzard Entertainment.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Who is the developer of Internet Explorer 5? \nAnswer:\n\nCurrent Time: 2026-07-04 20:30:17",
+  "response": "Answer: Microsoft",
+  "prompt_tokens": 1023,
+  "completion_tokens": 3,
+  "resolved_pool": [
+    {
+      "id": "6f85b73b-e308-4761-a569-9fe7cc5a36b9",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 1687,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.40111212802924145,
+      "created_at": "2026-07-04T05:28:46.832063-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4ff6c17f-8c71-4f11-87a4-0656e9466410",
+      "memory": "Gran Turismo 4 was developed by Blizzard Entertainment.",
+      "hash": "0d57b14606e2900e7cfc39575642869a",
+      "metadata": {
+        "ordinal": 1693,
+        "triple": null,
+        "subject_fallback": "gran_turismo_4"
+      },
+      "score": 0.25594141765556644,
+      "created_at": "2026-07-04T05:28:46.852848-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e7fc1a82-1101-4bb9-b500-4c28c0594ef1",
+      "memory": "Internet Explorer 5 was developed by Google.",
+      "hash": "0fa4771785b501a79b462e6f32902150",
+      "metadata": {
+        "ordinal": 2179,
+        "triple": {
+          "subject_id": "internet_explorer_5",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.7650180358139456,
+      "created_at": "2026-07-04T05:28:59.649726-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "54d3f6c1-1687-45ff-a495-40badd4bda8c",
+      "memory": "Internet Explorer 11 was developed by Microsoft.",
+      "hash": "a64b37ee46a00a1740648c926f64876b",
+      "metadata": {
+        "ordinal": 504,
+        "triple": {
+          "subject_id": "internet_explorer_11",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 11",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.6116254980060606,
+      "created_at": "2026-07-04T05:28:18.959773-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7ab77526-e00b-42e5-9549-360c88a6ba6f",
+      "memory": "ASP.NET was developed by Google.",
+      "hash": "bea8c78cbbc5a1373d8eda588ba14690",
+      "metadata": {
+        "ordinal": 1570,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4198291536893858,
+      "created_at": "2026-07-04T05:28:43.499789-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f006ef0a-71b5-4380-9f01-89d325367af5",
+      "memory": "Windows Server was developed by Microsoft.",
+      "hash": "3562c80e814181a489158ec6fb2c9479",
+      "metadata": {
+        "ordinal": 2188,
+        "triple": {
+          "subject_id": "windows_server",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Server",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4186078183535589,
+      "created_at": "2026-07-04T05:28:59.665818-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ac14cdfe-9bb9-4b2f-a19a-880532a7e414",
+      "memory": "Metro was developed by Microsoft.",
+      "hash": "efe5b5d202208fcfb1094ed098fe389c",
+      "metadata": {
+        "ordinal": 1641,
+        "triple": {
+          "subject_id": "metro",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Metro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4116831588603659,
+      "created_at": "2026-07-04T05:28:45.173797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "041df951-878c-4954-9488-80f2048f6b52",
+      "memory": "Apple DOS was developed by Apple Inc.",
+      "hash": "2051aa2ddd9d54f65697b90c4b6603d4",
+      "metadata": {
+        "ordinal": 774,
+        "triple": {
+          "subject_id": "apple_dos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple DOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4082066370495766,
+      "created_at": "2026-07-04T05:28:24.564035-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "23cac69d-404c-4644-8bc2-e418c322a400",
+      "memory": "Bing was created by Microsoft.",
+      "hash": "cceea38f8ec0b2367c354aff303d67de",
+      "metadata": {
+        "ordinal": 715,
+        "triple": {
+          "subject_id": "bing",
+          "predicate_norm": "be created by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Bing",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4062656458473166,
+      "created_at": "2026-07-04T05:28:23.126075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a7bf71a6-631c-4514-b5a9-7681f5c330d6",
+      "memory": "Windows Aero was developed by Electronic Arts.",
+      "hash": "d5bb5ebeef00459c7e2e879ba7814817",
+      "metadata": {
+        "ordinal": 1754,
+        "triple": {
+          "subject_id": "windows_aero",
+          "predicate_norm": "be developed by",
+          "object_text": "Electronic Arts",
+          "confidence": 0.95,
+          "subject_raw": "Windows Aero",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.33605029239540907,
+      "created_at": "2026-07-04T05:28:47.730840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6726b245-207e-4067-968d-0d5c3512f8c5",
+      "memory": "Atari Jaguar was developed by Microsoft.",
+      "hash": "c48941c7c75054cc073dc37818e0efaf",
+      "metadata": {
+        "ordinal": 1166,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3955642434972372,
+      "created_at": "2026-07-04T05:28:33.809293-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b2873692-f25c-4945-a330-061ebc38234e",
+      "memory": "Windows Update was developed by Panasonic Corporation.",
+      "hash": "bbedfaf46a0fbaa72212953e629c1284",
+      "metadata": {
+        "ordinal": 1074,
+        "triple": {
+          "subject_id": "windows_update",
+          "predicate_norm": "be developed by",
+          "object_text": "Panasonic Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Windows Update",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3335755936500047,
+      "created_at": "2026-07-04T05:28:31.277014-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "21fcda8c-cd4c-4ff8-95fa-a495d75ed86a",
+      "memory": "Windows Communication Foundation was developed by Microsoft.",
+      "hash": "dbc04e3b6169f31bebde6ea32d24d116",
+      "metadata": {
+        "ordinal": 574,
+        "triple": {
+          "subject_id": "windows_communication_foundation",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Communication Foundation",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3886338113348965,
+      "created_at": "2026-07-04T05:28:20.586002-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "62a2e959-ad56-40e7-8c3b-13746f5990d1",
+      "memory": "iPad Mini was developed by Microsoft.",
+      "hash": "ca7b4127ba8304722c07c683933be2ee",
+      "metadata": {
+        "ordinal": 1611,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3869133424114599,
+      "created_at": "2026-07-04T05:28:44.241459-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d8adf03a-1723-4036-963e-d13efa23f586",
+      "memory": "World Wide Web Consortium was founded by Tim Berners-Lee.",
+      "hash": "bf819aa33cbe9327fb4c21d61d2f1e28",
+      "metadata": {
+        "ordinal": 467,
+        "triple": {
+          "subject_id": "world_wide_web_consortium",
+          "predicate_norm": "be founded by",
+          "object_text": "Tim Berners-Lee",
+          "confidence": 0.95,
+          "subject_raw": "World Wide Web Consortium",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3567635293179491,
+      "created_at": "2026-07-04T05:28:18.331473-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7478dd65-6901-458e-92f6-59745ea44253",
+      "memory": "Gran Turismo 5 was developed by inXile entertainment.",
+      "hash": "109743cc0b548d42f227d9ae3d7da4ba",
+      "metadata": {
+        "ordinal": 1980,
+        "triple": {
+          "subject_id": "gran_turismo_5",
+          "predicate_norm": "be developed by",
+          "object_text": "inXile entertainment",
+          "confidence": 0.95,
+          "subject_raw": "Gran Turismo 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3543156616836891,
+      "created_at": "2026-07-04T05:28:53.921349-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e925b297-7a6b-4c64-9f8c-6a95da41b034",
+      "memory": "Baldur's Gate was developed by Advanced Micro Devices",
+      "hash": "e4e50d2975239713cac8dadfa3d455c4",
+      "metadata": {
+        "ordinal": 1509,
+        "triple": {
+          "subject_id": "baldur's_gate",
+          "predicate_norm": "be developed by",
+          "object_text": "Advanced Micro Devices",
+          "confidence": 0.95,
+          "subject_raw": "Baldur's Gate",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.35159186469369363,
+      "created_at": "2026-07-04T05:28:41.669917-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8f35e14b-eae6-4fb7-9c37-cf0d126ddb48",
+      "memory": "iOS 9 was developed by NeXT Computer, Inc.",
+      "hash": "a5dde5d7b2ae8898a90370c7d164249d",
+      "metadata": {
+        "ordinal": 2266,
+        "triple": {
+          "subject_id": "ios_9",
+          "predicate_norm": "be developed by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 9",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3493120145574858,
+      "created_at": "2026-07-04T05:29:01.326061-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1d5587c7-7a55-41db-8228-216f3d1f33c8",
+      "memory": "AppleScript was developed by Apple Inc.",
+      "hash": "30c9adb24d77e6e89e56cadb93ef21de",
+      "metadata": {
+        "ordinal": 1433,
+        "triple": {
+          "subject_id": "applescript",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "AppleScript",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.34520989090271487,
+      "created_at": "2026-07-04T05:28:40.014041-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2eae5242-e2f1-48e5-9b02-d3c39d17fce3",
+      "memory": "iPod was developed by Google.",
+      "hash": "6971b67d7092b2c23f612658118aee31",
+      "metadata": {
+        "ordinal": 1089,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.30944160085035993,
+      "created_at": "2026-07-04T05:28:31.298698-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f6314985-e54b-416e-acf6-62e782ee9fcd",
+      "memory": "Portal was developed by Valve Corporation.",
+      "hash": "78a2cba35f22fd3dce783c4f3f0953e4",
+      "metadata": {
+        "ordinal": 600,
+        "triple": {
+          "subject_id": "portal",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Portal",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3330887762799133,
+      "created_at": "2026-07-04T05:28:20.627277-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0802b56d-4d10-41df-b140-2f24adb907d4",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 1521,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3298816144211686,
+      "created_at": "2026-07-04T05:28:42.598152-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a678600d-e02b-44f1-a51d-f272dac85040",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 975,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32492758326579296,
+      "created_at": "2026-07-04T05:28:29.052525-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "972cfa49-b901-4859-b0de-0d8d4d46dcb9",
+      "memory": "NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.",
+      "hash": "0290215c845d515245c796a58fc66132",
+      "metadata": {
+        "ordinal": 1180,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Mikhail Khodorkovsky",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3034103351170403,
+      "created_at": "2026-07-04T05:28:33.825511-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1803cdb3-daa6-450f-bc4a-0a917e317675",
+      "memory": "XML Schema was developed by GNU Project.",
+      "hash": "0914e9fb09614fe2b70e53201c946e86",
+      "metadata": {
+        "ordinal": 2282,
+        "triple": {
+          "subject_id": "xml_schema",
+          "predicate_norm": "be developed by",
+          "object_text": "GNU Project",
+          "confidence": 0.95,
+          "subject_raw": "XML Schema",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.29322210460155895,
+      "created_at": "2026-07-04T05:29:02.301060-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0e2801ea-23cd-440e-8b03-88607a5421aa",
+      "memory": "iOS 7 was developed by Sony Interactive Entertainment.",
+      "hash": "ed5f88912e62f23dcb8e193ed008fe6f",
+      "metadata": {
+        "ordinal": 959,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28315648148506656,
+      "created_at": "2026-07-04T05:28:29.017789-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "56b027db-d404-44b2-a40c-13abf091a8e0",
+      "memory": "iOS 9 was developed by Apple Inc.",
+      "hash": "8c73c48af3ad26ba19f52407f0a5c25e",
+      "metadata": {
+        "ordinal": 889,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "developed",
+          "object_text": "iOS 9",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "developed"
+        }
+      },
+      "score": 0.3149167966596499,
+      "created_at": "2026-07-04T05:28:27.377678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6de40307-8b9f-44f3-ad60-d8d7497742fb",
+      "memory": "The author of Unix philosophy is Zadie Smith.",
+      "hash": "304d34eee5632d633866ae3795253a71",
+      "metadata": {
+        "ordinal": 1904,
+        "triple": {
+          "subject_id": "unix_philosophy",
+          "predicate_norm": "be authored by",
+          "object_text": "Zadie Smith",
+          "confidence": 0.95,
+          "subject_raw": "Unix philosophy",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.23385291901357907,
+      "created_at": "2026-07-04T05:28:52.057144-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec55d092-c8c7-431c-a54c-b9e265a704df",
+      "memory": "Tim Berners-Lee is a citizen of United Kingdom.",
+      "hash": "4ad8dfa79de4521e13cba32a60572921",
+      "metadata": {
+        "ordinal": 898,
+        "triple": {
+          "subject_id": "tim_berners_lee",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Tim Berners-Lee",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30618628884457005,
+      "created_at": "2026-07-04T05:28:27.392865-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97ba42a5-e5d6-4836-b328-f05a3a4311ea",
+      "memory": "The chief executive officer of NeXT Computer, Inc. is Steve Jobs.",
+      "hash": "0f478e33829403e529c7082a583e6ec3",
+      "metadata": {
+        "ordinal": 1578,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3033863229235903,
+      "created_at": "2026-07-04T05:28:43.510051-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bbf8508b-334a-428c-85fc-f910207d445f",
+      "memory": "QuickTime was developed by Valve Corporation.",
+      "hash": "1c78b7f14bbf9fffd8e0d1b49ebfdfb7",
+      "metadata": {
+        "ordinal": 2292,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28348209672612,
+      "created_at": "2026-07-04T05:29:02.321592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7e3da39b-1e74-4bea-8f5a-bf4b2bc1d1f6",
+      "memory": "The director of Blizzard Entertainment is Eben Moglen.",
+      "hash": "210e869c71ad664b14049987f2579581",
+      "metadata": {
+        "ordinal": 1856,
+        "triple": {
+          "subject_id": "blizzard_entertainment",
+          "predicate_norm": "has director",
+          "object_text": "Eben Moglen",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard Entertainment",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2888699975902061,
+      "created_at": "2026-07-04T05:28:50.351897-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "96fb7322-465e-48cc-993a-60c7d2838a65",
+      "memory": "SteamOS was developed by ABB Group.",
+      "hash": "f0ddb29ec0211f5db90cd19e31296cc1",
+      "metadata": {
+        "ordinal": 803,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "ABB Group",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.25143383886998066,
+      "created_at": "2026-07-04T05:28:25.380370-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b29ecac5-389e-4ed5-af84-84910e18ceb3",
+      "memory": "The company that produced Me 262 is NeXT Computer, Inc.",
+      "hash": "c6b9e8fcbf6d1151ef6e885a72455e57",
+      "metadata": {
+        "ordinal": 2181,
+        "triple": {
+          "subject_id": "me_262",
+          "predicate_norm": "be produced by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Me 262",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.26967212903614657,
+      "created_at": "2026-07-04T05:28:59.653587-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "61a5e0ab-ad2c-44d1-8f62-0235678e6f2e",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 2080,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.9,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2677653385008544,
+      "created_at": "2026-07-04T05:28:57.071662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "abaf5720-0f86-4d23-8c34-6f0bc9dc93f2",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2627571493132107,
+      "created_at": "2026-07-04T05:28:18.966561-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a52ffd38-c4e3-4483-a189-d0e9a7fe8cdf",
+      "memory": "Esperanto was created by Frank Miller.",
+      "hash": "d894354aa355194a5b4cd900f63eac22",
+      "metadata": {
+        "ordinal": 1439,
+        "triple": {
+          "subject_id": "esperanto",
+          "predicate_norm": "be created by",
+          "object_text": "Frank Miller",
+          "confidence": 0.95,
+          "subject_raw": "Esperanto",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2609931293493013,
+      "created_at": "2026-07-04T05:28:40.762695-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "945e61e6-a3a3-45cf-883b-cd6009002efe",
+      "memory": "Indiana Jones was created by A. A. Milne.",
+      "hash": "b9a539abb7de84aca5a538ea986d24f4",
+      "metadata": {
+        "ordinal": 1218,
+        "triple": {
+          "subject_id": "indiana_jones",
+          "predicate_norm": "be created by",
+          "object_text": "A. A. Milne",
+          "confidence": 0.95,
+          "subject_raw": "Indiana Jones",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.26069854319897545,
+      "created_at": "2026-07-04T05:28:34.658360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "02498cd1-8252-47da-be12-b98fdebec1ba",
+      "memory": "Donald Michie is employed by University of Edinburgh.",
+      "hash": "fb9cc6b4c1eb60a9f65f3142cf30a735",
+      "metadata": {
+        "ordinal": 2031,
+        "triple": {
+          "subject_id": "donald_michie",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Edinburgh",
+          "confidence": 0.95,
+          "subject_raw": "Donald Michie",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.26052633984617857,
+      "created_at": "2026-07-04T05:28:54.981237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "083bd627-360e-4099-b331-9b4053a944a1",
+      "memory": "Shigeru Miyamoto is employed by University of Oxford.",
+      "hash": "9a4cc3c99ba35a09bd6704d1d651e51d",
+      "metadata": {
+        "ordinal": 2109,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2602384042718816,
+      "created_at": "2026-07-04T05:28:57.909627-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "07fee85c-4e7a-48e7-b27e-a8afea2b1c33",
+      "memory": "The director of NetherRealm Studios is Ed Boon.",
+      "hash": "b260be46a5ce223c181b8d396c46ce21",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "netherrealm_studios",
+          "predicate_norm": "has director",
+          "object_text": "Ed Boon",
+          "confidence": 0.95,
+          "subject_raw": "NetherRealm Studios",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2556804261401352,
+      "created_at": "2026-07-04T05:28:14.881077-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b6b03163-5333-454d-b34c-0418034483d1",
+      "memory": "The headquarters of Microsoft is located in the city of Beverly Hills.",
+      "hash": "9428d57b73cb243eda7e35294f7f63c8",
+      "metadata": {
+        "ordinal": 655,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Beverly Hills",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.25382140288447524,
+      "created_at": "2026-07-04T05:28:22.313633-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b26463a6-81e9-44e0-b28d-cc535c92c0de",
+      "memory": "Advanced Micro Devices was founded in the city of Toronto.",
+      "hash": "e237fdebbe054a2f94a310ba9f2f0ad5",
+      "metadata": {
+        "ordinal": 2075,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.24696743806993565,
+      "created_at": "2026-07-04T05:28:57.058577-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3751c150-4faa-464f-b620-e4ed0545039f",
+      "memory": "The chief executive officer of Valve Corporation is Mukesh Ambani",
+      "hash": "175709d202b84c3a9959c047d50fc24a",
+      "metadata": {
+        "ordinal": 549,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mukesh Ambani",
+          "confidence": 0.9,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2468221776772338,
+      "created_at": "2026-07-04T05:28:19.915998-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fc9bea55-ec46-4da9-a996-097bd4f6cdf1",
+      "memory": "The director of American Broadcasting Company is Bob Iger.",
+      "hash": "28778bc2e181d52cd500d67f7fe89970",
+      "metadata": {
+        "ordinal": 1216,
+        "triple": {
+          "subject_id": "the_director_of_american_broadcasting_company",
+          "predicate_norm": "be",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "the director of American Broadcasting Company",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.24550476523009962,
+      "created_at": "2026-07-04T05:28:34.655160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "27a71ed3-512e-47f6-8a73-4fb9c33516b2",
+      "memory": "Derek Bok is employed by MI5.",
+      "hash": "e8c29bf0aba4ca04e580536df0c4fe61",
+      "metadata": {
+        "ordinal": 767,
+        "triple": {
+          "subject_id": "derek_bok",
+          "predicate_norm": "be employed by",
+          "object_text": "MI5",
+          "confidence": 0.95,
+          "subject_raw": "Derek Bok",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.24520485377030948,
+      "created_at": "2026-07-04T05:28:24.552580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25838ee6-9535-474b-823c-0a1694234fc4",
+      "memory": "David Ige worked in the city of Rome",
+      "hash": "483d8c660d6dd8d40306541151b8b157",
+      "metadata": {
+        "ordinal": 1489,
+        "triple": {
+          "subject_id": "david_ige",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Rome",
+          "confidence": 0.95,
+          "subject_raw": "David Ige",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.24519486837955023,
+      "created_at": "2026-07-04T05:28:41.641179-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ee8e7389-2a50-4eeb-9c91-a52518b9c695",
+      "memory": "The company that produced Ford Probe is de Havilland.",
+      "hash": "036e835fa80d36de81490ffd01382a57",
+      "metadata": {
+        "ordinal": 2144,
+        "triple": {
+          "subject_id": "ford_probe",
+          "predicate_norm": "be produced by",
+          "object_text": "de Havilland",
+          "confidence": 0.95,
+          "subject_raw": "Ford Probe",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.24479371646507336,
+      "created_at": "2026-07-04T05:28:58.897510-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6a9691db-770c-4cd2-b12c-a5ba129aaeb5",
+      "memory": "GarageBand was developed by Google.",
+      "hash": "fe7dbd6b460e82be2da0e8630d0d1fd8",
+      "metadata": {
+        "ordinal": 1802,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.22874227548995751,
+      "created_at": "2026-07-04T05:28:49.365694-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "88120282-251f-4e01-a37f-daa3adc91d1b",
+      "memory": "The company that produced Ford Zephyr is Hon Hai Precision Industry.",
+      "hash": "32fdf3924765101bd99e8236a9e0aed6",
+      "metadata": {
+        "ordinal": 1247,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "produced",
+          "object_text": "Ford Zephyr",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.24196005708146467,
+      "created_at": "2026-07-04T05:28:35.466594-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f3511b6e-209c-48aa-bc4a-e0bca3b7e5e7",
+      "memory": "Ju 88 was developed by Nintendo.",
+      "hash": "40f8fb1d5a07a9e3cd15e634ac44aab9",
+      "metadata": {
+        "ordinal": 862,
+        "triple": {
+          "subject_id": "ju_88",
+          "predicate_norm": "be developed by",
+          "object_text": "Nintendo",
+          "confidence": 0.95,
+          "subject_raw": "Ju 88",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.241486335856933,
+      "created_at": "2026-07-04T05:28:26.283101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6153f3a2-2029-46f9-a305-b427f0077f89",
+      "memory": "de Havilland was founded by Mikhail Khodorkovsky.",
+      "hash": "b32e853a76ca02cad1fbfb2ecf71393b",
+      "metadata": {
+        "ordinal": 1299,
+        "triple": {
+          "subject_id": "de_havilland",
+          "predicate_norm": "be founded by",
+          "object_text": "Mikhail Khodorkovsky",
+          "confidence": 0.95,
+          "subject_raw": "de Havilland",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22466029915992966,
+      "created_at": "2026-07-04T05:28:36.350395-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a6b0966c-9b53-4589-8e36-c92afdb0ac5a",
+      "memory": "The author of Smalcald Articles is Bill Mantlo.",
+      "hash": "472607b30c8f7a9a7d9cf5b0a48965e5",
+      "metadata": {
+        "ordinal": 1913,
+        "triple": {
+          "subject_id": "smalcald_articles",
+          "predicate_norm": "be authored by",
+          "object_text": "Bill Mantlo",
+          "confidence": 0.95,
+          "subject_raw": "Smalcald Articles",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.2411139223858521,
+      "created_at": "2026-07-04T05:28:52.074710-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "12780633-f2b7-4b9a-8823-310c56a9b863",
+      "memory": "Bf 109 was developed by Sikorsky Aircraft Corporation.",
+      "hash": "6e0480b0b53b3d78033a461747a86829",
+      "metadata": {
+        "ordinal": 1898,
+        "triple": {
+          "subject_id": "bf_109",
+          "predicate_norm": "be developed by",
+          "object_text": "Sikorsky Aircraft Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Bf 109",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.23814508186303024,
+      "created_at": "2026-07-04T05:28:52.037305-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fe30e296-95d7-4cd0-8990-12a98551ad9b",
+      "memory": "GNU Project was founded by Richard Stallman.",
+      "hash": "1e4a49b32a96674f897eef9c719a8b6f",
+      "metadata": {
+        "ordinal": 96,
+        "triple": {
+          "subject_id": "gnu_project",
+          "predicate_norm": "be founded by",
+          "object_text": "Richard Stallman",
+          "confidence": 0.95,
+          "subject_raw": "GNU Project",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.24016360731223335,
+      "created_at": "2026-07-04T05:28:09.349013-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0b26b038-6690-4c09-a3f5-70526bd4b9c7",
+      "memory": "Unreal Tournament 2004 was developed by Epic Games.",
+      "hash": "8c791afd89a614fe0763a2ff8d0bca15",
+      "metadata": {
+        "ordinal": 1576,
+        "triple": {
+          "subject_id": "unreal_tournament_2004",
+          "predicate_norm": "be developed by",
+          "object_text": "Epic Games",
+          "confidence": 0.95,
+          "subject_raw": "Unreal Tournament 2004",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.23741413840130363,
+      "created_at": "2026-07-04T05:28:43.507589-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "aed05300-1dab-4880-af61-8be95571d64d",
+      "memory": "The author of Pattern Recognition is William Gibson.",
+      "hash": "47ab87c9253f720c3702b8df141ff8a6",
+      "metadata": {
+        "ordinal": 838,
+        "triple": {
+          "subject_id": "pattern_recognition",
+          "predicate_norm": "be authored by",
+          "object_text": "William Gibson",
+          "confidence": 0.95,
+          "subject_raw": "Pattern Recognition",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.23610741145410488,
+      "created_at": "2026-07-04T05:28:26.250945-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "84b1b411-3f9f-403c-9801-782b96822f5b",
+      "memory": "The chairperson of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "6b3e394c987856f1649c25b815996c81",
+      "metadata": {
+        "ordinal": 710,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.23581097127657563,
+      "created_at": "2026-07-04T05:28:23.118869-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "79e20c82-a986-4163-88db-105d3d5228e9",
+      "memory": "Gran Turismo 4 was developed by Polyphony Digital.",
+      "hash": "7b9832ad8ddaeed047d470d8059f7a1d",
+      "metadata": {
+        "ordinal": 934,
+        "triple": {
+          "subject_id": "gran_turismo_4",
+          "predicate_norm": "be developed by",
+          "object_text": "Polyphony Digital",
+          "confidence": 0.95,
+          "subject_raw": "Gran Turismo 4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2356383748714289,
+      "created_at": "2026-07-04T05:28:28.166822-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64929123-bc8c-405a-9e9c-c98369f69b3e",
+      "memory": "American Gothic was created by Shigeru Miyamoto.",
+      "hash": "f4beeb2fb189548ae01146b121878276",
+      "metadata": {
+        "ordinal": 2194,
+        "triple": {
+          "subject_id": "american_gothic",
+          "predicate_norm": "be created by",
+          "object_text": "Shigeru Miyamoto",
+          "confidence": 0.95,
+          "subject_raw": "American Gothic",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.23511585196021068,
+      "created_at": "2026-07-04T05:28:59.674723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "194118ac-980f-4476-a56b-d11a5092b702",
+      "memory": "Crysis 2 was developed by Sony Interactive Entertainment.",
+      "hash": "a345beae0d747f0cf2d84788364c38ef",
+      "metadata": {
+        "ordinal": 2151,
+        "triple": {
+          "subject_id": "crysis_2",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "Crysis 2",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2347539954223426,
+      "created_at": "2026-07-04T05:28:58.912136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "235d0246-f9f2-427c-8024-60439717be4a",
+      "memory": "The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.",
+      "hash": "1bd0ce3387d35b86f8bf3f8f62b14cae",
+      "metadata": {
+        "ordinal": 981,
+        "triple": {
+          "subject_id": "chevrolet_s_10_blazer",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet S-10 Blazer",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2343192558418672,
+      "created_at": "2026-07-04T05:28:29.061399-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a93f25cf-d31c-4b2d-b43a-1b982acc9794",
+      "memory": "Rand al'Thor was created by Ferdowsi.",
+      "hash": "00135e4cf41baf09e172eb5bc9f13e08",
+      "metadata": {
+        "ordinal": 1688,
+        "triple": {
+          "subject_id": "ferdowsi",
+          "predicate_norm": "created",
+          "object_text": "Rand al'Thor",
+          "confidence": 0.95,
+          "subject_raw": "Ferdowsi",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.23342314176523873,
+      "created_at": "2026-07-04T05:28:46.835708-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "599075aa-acf1-47f8-a0ab-9ee639efbf81",
+      "memory": "Hon Hai Precision Industry was founded by Terry Gou.",
+      "hash": "54714d3af93d16a094c0cee222da8552",
+      "metadata": {
+        "ordinal": 1689,
+        "triple": {
+          "subject_id": "terry_gou",
+          "predicate_norm": "founded",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Terry Gou",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.23319063372993754,
+      "created_at": "2026-07-04T05:28:46.840035-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "646eae44-707a-4841-a60f-1d51b411358c",
+      "memory": "The company that produced AMD Accelerated Processing Unit is Advanced Micro Devices.",
+      "hash": "a5f1743c7ca148524baf90a819a96f48",
+      "metadata": {
+        "ordinal": 1605,
+        "triple": {
+          "subject_id": "amd_accelerated_processing_unit",
+          "predicate_norm": "be produced by",
+          "object_text": "Advanced Micro Devices",
+          "confidence": 0.95,
+          "subject_raw": "AMD Accelerated Processing Unit",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2330677890087683,
+      "created_at": "2026-07-04T05:28:44.233291-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "53485831-5ff8-48c2-aa75-14d860de742c",
+      "memory": "John Wycliffe is employed by University of Oxford.",
+      "hash": "f27841944474fd732688f7d4dad98c83",
+      "metadata": {
+        "ordinal": 464,
+        "triple": {
+          "subject_id": "john_wycliffe",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "John Wycliffe",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.23123149730326142,
+      "created_at": "2026-07-04T05:28:18.324223-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "008bb56c-8889-4cea-b3b7-329ac324af9f",
+      "memory": "Satya Nadella was born in the city of London.",
+      "hash": "4eb07739a5839f18d8bef188c5f8246a",
+      "metadata": {
+        "ordinal": 1460,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.22747163627978495,
+      "created_at": "2026-07-04T05:28:40.792327-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "44570edc-4cd0-4cb8-aaa6-b0da4dcf84a1",
+      "memory": "James Bond was created by Ian Fleming.",
+      "hash": "93fbb6a847399ff5b343e99a0f9c5e96",
+      "metadata": {
+        "ordinal": 923,
+        "triple": {
+          "subject_id": "james_bond",
+          "predicate_norm": "be created by",
+          "object_text": "Ian Fleming",
+          "confidence": 0.95,
+          "subject_raw": "James Bond",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2306070035575556,
+      "created_at": "2026-07-04T05:28:28.145980-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "83dc216c-55ad-4286-8972-f06c8a80a685",
+      "memory": "Christopher Robin Milne works in the field of writer.",
+      "hash": "4135282a9c6b859ce2429be5c4d2d587",
+      "metadata": {
+        "ordinal": 1183,
+        "triple": {
+          "subject_id": "christopher_robin_milne",
+          "predicate_norm": "works in field",
+          "object_text": "writer",
+          "confidence": 0.95,
+          "subject_raw": "Christopher Robin Milne",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.2233260563222803,
+      "created_at": "2026-07-04T05:28:33.828655-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ea3d0361-18d0-44dd-b975-71cc8f46a547",
+      "memory": "Ford Motor Company was founded by Henri Grégoire.",
+      "hash": "f88ba9f1353d001323a61abcc077aeaa",
+      "metadata": {
+        "ordinal": 907,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henri Grégoire",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22293599905519862,
+      "created_at": "2026-07-04T05:28:27.405482-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "497d76f5-23bd-439b-b4f0-43077694ccf4",
+      "memory": "Zynga was founded by Mark Pincus.",
+      "hash": "ecc148342699ee81019f3aba21a787d8",
+      "metadata": {
+        "ordinal": 495,
+        "triple": {
+          "subject_id": "zynga",
+          "predicate_norm": "be founded by",
+          "object_text": "Mark Pincus",
+          "confidence": 0.95,
+          "subject_raw": "Zynga",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22247341540897117,
+      "created_at": "2026-07-04T05:28:18.375055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d2ce6ca4-25d7-4dbe-9eeb-6bdd283e4a10",
+      "memory": "The company that produced Chevrolet Vega is Toshiba",
+      "hash": "abb5590bb874f71b2d2b281b1f0bde6c",
+      "metadata": {
+        "ordinal": 1504,
+        "triple": {
+          "subject_id": "chevrolet_vega",
+          "predicate_norm": "be produced by",
+          "object_text": "Toshiba",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Vega",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.21995399157037382,
+      "created_at": "2026-07-04T05:28:41.663700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ]
+}

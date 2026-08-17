@@ -1,0 +1,92 @@
+{
+  "vanilla_6k": {
+    "store_points": 156,
+    "has_pair": {
+      "both": 5,
+      "new_only": 18,
+      "old_only": 19,
+      "neither": 32
+    },
+    "n_has_pair": 74,
+    "no_conflict": {
+      "retrieved": 13,
+      "missing": 13
+    },
+    "n_no_conflict": 26
+  },
+  "ours_6k": {
+    "store_points": 455,
+    "has_pair": {
+      "both": 72,
+      "new_only": 1,
+      "old_only": 1,
+      "neither": 0
+    },
+    "n_has_pair": 74,
+    "no_conflict": {
+      "retrieved": 25,
+      "missing": 1
+    },
+    "n_no_conflict": 26
+  },
+  "vanilla_32k": {
+    "store_points": 1101,
+    "has_pair": {
+      "both": 2,
+      "new_only": 22,
+      "old_only": 19,
+      "neither": 22
+    },
+    "n_has_pair": 65,
+    "no_conflict": {
+      "retrieved": 22,
+      "missing": 13
+    },
+    "n_no_conflict": 35
+  },
+  "ours_32k": {
+    "store_points": 2310,
+    "has_pair": {
+      "both": 53,
+      "new_only": 3,
+      "old_only": 7,
+      "neither": 2
+    },
+    "n_has_pair": 65,
+    "no_conflict": {
+      "retrieved": 33,
+      "missing": 2
+    },
+    "n_no_conflict": 35
+  },
+  "vanilla_64k": {
+    "store_points": 2179,
+    "has_pair": {
+      "both": 6,
+      "new_only": 21,
+      "old_only": 14,
+      "neither": 25
+    },
+    "n_has_pair": 66,
+    "no_conflict": {
+      "retrieved": 19,
+      "missing": 15
+    },
+    "n_no_conflict": 34
+  },
+  "ours_64k": {
+    "store_points": 4580,
+    "has_pair": {
+      "both": 44,
+      "new_only": 1,
+      "old_only": 11,
+      "neither": 10
+    },
+    "n_has_pair": 66,
+    "no_conflict": {
+      "retrieved": 25,
+      "missing": 9
+    },
+    "n_no_conflict": 34
+  }
+}

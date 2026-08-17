@@ -1,0 +1,34 @@
+# Gemma3-27B mem0 — Q-llm-recency baseline (Vanilla-RAG, query-time LLM temporal resolution).
+# Shares ours_no_p5 populated store byte-for-byte (collection_name/path below stay _no_p5);
+# differs ONLY in agent_name + output_dir. Query-time: MEM0_QUERY_MODE=q_llm_recency (agent.py).
+# Created from no_p5 yaml as Task B template (gx10_handoff_2026-07-11 §Task B).
+agent_name: Structure_rag_gemma3-27b-mem0_512_openai_unified_q_llm_recency
+model: gemma3:27b
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-unified_q_llm_recency__gemma3-27b
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: ollama
+    config:
+      model: gemma3:27b
+      temperature: 0
+      max_tokens: 2048
+      ollama_base_url: http://localhost:11434
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_no_p5__gemma3-27b
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_no_p5__gemma3-27b
+      on_disk: true
+  use_unified_extractor: true

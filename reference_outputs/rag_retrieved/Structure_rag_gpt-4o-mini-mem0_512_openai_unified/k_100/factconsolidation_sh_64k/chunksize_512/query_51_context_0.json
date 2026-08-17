@@ -1,0 +1,4001 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "84a9fe92-ec34-4586-8ade-dae118821af2",
+      "memory": "Taxman was performed by The Beatles.",
+      "hash": "bf5aa54de90186da9f60643b8ded8011",
+      "metadata": {
+        "ordinal": 3163,
+        "triple": {
+          "subject_id": "taxman",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Taxman",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.7586907993361025,
+      "created_at": "2026-07-04T04:42:11.377521-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6b04e0e2-2b88-4616-ade3-2c55d16487c3",
+      "memory": "Taxman was performed by Madonna.",
+      "hash": "8cd5bd93e3fac5b99d8da125ad1b00c1",
+      "metadata": {
+        "ordinal": 3437,
+        "triple": {
+          "subject_id": "taxman",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Taxman",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.6787981281942772,
+      "created_at": "2026-07-04T04:42:25.976389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dca0043b-c9a5-4acd-a744-8b7fc06c8b6b",
+      "memory": "Nowhere Man was performed by The Beatles.",
+      "hash": "6a33e4e611598f4470dc2f0f30ff14d4",
+      "metadata": {
+        "ordinal": 2870,
+        "triple": {
+          "subject_id": "nowhere_man",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Nowhere Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.4218048485454883,
+      "created_at": "2026-07-04T04:42:02.343197-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "92d2563f-1b64-44d6-b04f-ca5576680aaf",
+      "memory": "Fourth Doctor was performed by Bryan Adams.",
+      "hash": "e91534754fce7a6444ad89bca2d1a0c7",
+      "metadata": {
+        "ordinal": 3825,
+        "triple": null,
+        "subject_fallback": "fourth_doctor"
+      },
+      "score": 0.39951708298845123,
+      "created_at": "2026-07-04T04:42:38.075374-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ba35f367-4a79-4da9-a8c3-135883c657dc",
+      "memory": "Rocket Man was performed by Elton John.",
+      "hash": "864c5fd8b7f36b49e4e49d4b54119c98",
+      "metadata": {
+        "ordinal": 3507,
+        "triple": {
+          "subject_id": "rocket_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Elton John",
+          "confidence": 0.95,
+          "subject_raw": "Rocket Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.38572132849775587,
+      "created_at": "2026-07-04T04:42:28.903287-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "49668f61-c3dd-4abf-bf92-8e93aa1b2242",
+      "memory": "The author of The Who's Tommy is Pete Townshend.",
+      "hash": "ff70b55ae01bf6b6a76a9793ff57b462",
+      "metadata": {
+        "ordinal": 1290,
+        "triple": {
+          "subject_id": "the_who's_tommy",
+          "predicate_norm": "be authored by",
+          "object_text": "Pete Townshend",
+          "confidence": 0.95,
+          "subject_raw": "The Who's Tommy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.38275175083934965,
+      "created_at": "2026-07-04T04:41:08.367460-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "51432be1-faf4-418a-9f9d-6c71ecd91096",
+      "memory": "Day Tripper was performed by The Beatles.",
+      "hash": "c45f1286dcdf6035c00dc23acb3404cf",
+      "metadata": {
+        "ordinal": 434,
+        "triple": {
+          "subject_id": "day_tripper",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Day Tripper",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.37809891593125666,
+      "created_at": "2026-07-04T04:40:34.205786-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fcac44bf-a6f6-4fd9-8dc6-e1331b0f4a43",
+      "memory": "The Blueprint was performed by Take That.",
+      "hash": "fdeffb1745da5647831e68a7e593ea28",
+      "metadata": {
+        "ordinal": 4128,
+        "triple": {
+          "subject_id": "the_blueprint",
+          "predicate_norm": "be performed by",
+          "object_text": "Take That",
+          "confidence": 0.95,
+          "subject_raw": "The Blueprint",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3775798498600017,
+      "created_at": "2026-07-04T04:42:47.309983-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c26404d8-ef72-4f85-b394-9a4271aea36b",
+      "memory": "Inspector Morse was performed by John Thaw.",
+      "hash": "c28a4888068a387374d1fdf1f74bdfc8",
+      "metadata": {
+        "ordinal": 2790,
+        "triple": {
+          "subject_id": "inspector_morse",
+          "predicate_norm": "be performed by",
+          "object_text": "John Thaw",
+          "confidence": 0.95,
+          "subject_raw": "Inspector Morse",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3765997454901167,
+      "created_at": "2026-07-04T04:42:00.517901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1909be1f-27fd-4d21-9f17-bd4673b0502f",
+      "memory": "Please Please Me was performed by The Beatles.",
+      "hash": "84320bb8cbe720ffa25e0559a1a495f8",
+      "metadata": {
+        "ordinal": 2553,
+        "triple": {
+          "subject_id": "please_please_me",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Please Please Me",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3744723609742532,
+      "created_at": "2026-07-04T04:41:53.634868-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9a728e2e-fdc9-418d-8bba-3923852d2e46",
+      "memory": "Beatles for Sale was performed by The Beatles.",
+      "hash": "80fe4575f2890d70f7a442e078e3f367",
+      "metadata": {
+        "ordinal": 2892,
+        "triple": {
+          "subject_id": "beatles_for_sale",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Beatles for Sale",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.36932613765294653,
+      "created_at": "2026-07-04T04:42:02.376076-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fbf32fb8-96fa-4fd0-9ff8-8e9c6eee8410",
+      "memory": "Drive My Car was performed by The Beatles.",
+      "hash": "62ef0157ccc404d1041b884274d585e5",
+      "metadata": {
+        "ordinal": 3152,
+        "triple": {
+          "subject_id": "drive_my_car",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Drive My Car",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.36755570692752704,
+      "created_at": "2026-07-04T04:42:11.361712-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4f3b7d5f-0fce-4cb8-ab4c-6f3e7736d6ae",
+      "memory": "Bob Dylan worked in the city of London.",
+      "hash": "8bc8e94810f2cdf949b8df6aaa5683a8",
+      "metadata": {
+        "ordinal": 2408,
+        "triple": {
+          "subject_id": "bob_dylan",
+          "predicate_norm": "worked in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Bob Dylan",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.3600815807894363,
+      "created_at": "2026-07-04T04:41:49.003139-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "be96470b-6501-4106-910d-ac53ef078a65",
+      "memory": "From Me to You was performed by The Beatles.",
+      "hash": "c125a5a7df8ae90a44fd783869ab86e9",
+      "metadata": {
+        "ordinal": 146,
+        "triple": {
+          "subject_id": "from_me_to_you",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "From Me to You",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3560062347710914,
+      "created_at": "2026-07-04T04:40:24.256575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ab86c2e6-bded-43a9-9414-b61cbe941415",
+      "memory": "Space Oddity was performed by David Bowie.",
+      "hash": "eb5c1a8d75711f8eabaa9a6aef13f558",
+      "metadata": {
+        "ordinal": 1602,
+        "triple": {
+          "subject_id": "space_oddity",
+          "predicate_norm": "be performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.95,
+          "subject_raw": "Space Oddity",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3504669115734116,
+      "created_at": "2026-07-04T04:41:17.998226-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "31b92db7-80b0-4c39-8fa0-736b0ee795b6",
+      "memory": "Nature Boy was performed by Donovan.",
+      "hash": "7b61d795f02216e79079d3cf8062bfc5",
+      "metadata": {
+        "ordinal": 1607,
+        "triple": {
+          "subject_id": "nature_boy",
+          "predicate_norm": "be performed by",
+          "object_text": "Donovan",
+          "confidence": 0.95,
+          "subject_raw": "Nature Boy",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.35032759436763095,
+      "created_at": "2026-07-04T04:41:19.796319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3ffa42e1-cb66-4b11-81c0-8f6a78359dc7",
+      "memory": "Fourth Doctor was performed by Tom Baker.",
+      "hash": "66f2067d774d55ee9e544cfd2c9cabaf",
+      "metadata": {
+        "ordinal": 3572,
+        "triple": {
+          "subject_id": "fourth_doctor",
+          "predicate_norm": "be performed by",
+          "object_text": "Tom Baker",
+          "confidence": 0.95,
+          "subject_raw": "Fourth Doctor",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3484116676723128,
+      "created_at": "2026-07-04T04:42:30.864828-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b560f725-adb6-44c0-84af-f6b52f6ee0fe",
+      "memory": "Wonderwall was performed by The Kinks.",
+      "hash": "51d628d1676dd51a8039cf25dc00a1c5",
+      "metadata": {
+        "ordinal": 3202,
+        "triple": {
+          "subject_id": "the_kinks",
+          "predicate_norm": "performed",
+          "object_text": "Wonderwall",
+          "confidence": 0.95,
+          "subject_raw": "The Kinks",
+          "predicate_raw": "performed"
+        }
+      },
+      "score": 0.34255679482543266,
+      "created_at": "2026-07-04T04:42:12.536558-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b676adfa-7de2-4dda-9993-e918f0a1f2f3",
+      "memory": "Rubber Soul was performed by The Beatles.",
+      "hash": "d50893ee91b8c05ff92019289afee1d8",
+      "metadata": {
+        "ordinal": 157,
+        "triple": {
+          "subject_id": "rubber_soul",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Rubber Soul",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3424889267522698,
+      "created_at": "2026-07-04T04:40:25.333566-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aad3157c-f0d9-4031-b71c-8cf9930b8dee",
+      "memory": "Elton John is a citizen of United Kingdom.",
+      "hash": "1fc114f6d3a6538a8ebf7c06e20787b2",
+      "metadata": {
+        "ordinal": 619,
+        "triple": {
+          "subject_id": "elton_john",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Elton John",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.340849932305362,
+      "created_at": "2026-07-04T04:40:39.317575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "51f4fa91-6b42-4585-a64e-2a7cc56d0f13",
+      "memory": "Jon Robin Baitz is a citizen of United Kingdom.",
+      "hash": "fcb1f126ad77294e1f9a86141de38dc8",
+      "metadata": {
+        "ordinal": 1368,
+        "triple": {
+          "subject_id": "jon_robin_baitz",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Jon Robin Baitz",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.33947828295570537,
+      "created_at": "2026-07-04T04:41:11.007393-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c15e0360-8e67-44bd-a43d-c72b1702a9a8",
+      "memory": "Tom Baker is a citizen of United Kingdom.",
+      "hash": "f649795dc4ca6e691b07de589131965c",
+      "metadata": {
+        "ordinal": 2079,
+        "triple": {
+          "subject_id": "tom_baker",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Tom Baker",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3388917063374321,
+      "created_at": "2026-07-04T04:41:34.694765-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6a037b0e-50bb-43a8-9ead-56a5c42d73e4",
+      "memory": "Nowhere Man was performed by Madonna.",
+      "hash": "0539d26a33d2e6b65c90e6fb301c99b6",
+      "metadata": {
+        "ordinal": 3452,
+        "triple": {
+          "subject_id": "nowhere_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Nowhere Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.33850667666448053,
+      "created_at": "2026-07-04T04:42:27.391854-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "60708d33-58fe-42ec-b344-d9e594d468b9",
+      "memory": "Past Masters was performed by The Beatles.",
+      "hash": "256ce6594ad755f42663cb742ff60376",
+      "metadata": {
+        "ordinal": 2176,
+        "triple": {
+          "subject_id": "past_masters",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Past Masters",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3384198401696246,
+      "created_at": "2026-07-04T04:41:41.074075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d577f04f-2b0e-4177-b5e6-cb79b12fada2",
+      "memory": "Terry Nation is famous for Doctor Who.",
+      "hash": "09d251a7784b4ad275c9f9dafd2a9182",
+      "metadata": {
+        "ordinal": 768,
+        "triple": {
+          "subject_id": "terry_nation",
+          "predicate_norm": "be famous for",
+          "object_text": "Doctor Who",
+          "confidence": 0.95,
+          "subject_raw": "Terry Nation",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.33813731561780097,
+      "created_at": "2026-07-04T04:40:43.048952-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "360c951f-1e9c-44c6-8783-48b1d8ff4434",
+      "memory": "Dear Prudence was performed by The Beatles.",
+      "hash": "07d9c63f537ccd2e4c8b71ec6fe60dcf",
+      "metadata": {
+        "ordinal": 2973,
+        "triple": {
+          "subject_id": "dear_prudence",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Dear Prudence",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3372465488752193,
+      "created_at": "2026-07-04T04:42:05.048258-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fb6dbfca-4b6c-4e51-ba05-5c3cbbfa3a4a",
+      "memory": "Steve Lamacq is a citizen of United Kingdom.",
+      "hash": "3c81e1ab808708405210f7f7775baffa",
+      "metadata": {
+        "ordinal": 690,
+        "triple": {
+          "subject_id": "steve_lamacq",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Steve Lamacq",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.33074739454814905,
+      "created_at": "2026-07-04T04:40:41.257443-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "49fcdc88-c479-4fac-90a1-eee9f0c72a3d",
+      "memory": "Can't Buy Me Love was performed by The Beatles.",
+      "hash": "46f7f4e96dcd2ceb12082970a1d38747",
+      "metadata": {
+        "ordinal": 686,
+        "triple": {
+          "subject_id": "can't_buy_me_love",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Can't Buy Me Love",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32940112497992663,
+      "created_at": "2026-07-04T04:40:41.247753-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "98cc0cb3-6b81-49ef-8a8b-91448dd325be",
+      "memory": "God Bless the Child was performed by Mick Jagger",
+      "hash": "bc29f3f9d587de035336ebce4aec8dc3",
+      "metadata": {
+        "ordinal": 1104,
+        "triple": {
+          "subject_id": "god_bless_the_child",
+          "predicate_norm": "be performed by",
+          "object_text": "Mick Jagger",
+          "confidence": 0.95,
+          "subject_raw": "God Bless the Child",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3292868410521459,
+      "created_at": "2026-07-04T04:40:52.756899-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e0fa5ad5-b376-4784-a5f9-8906c7f283d1",
+      "memory": "99 Problems was performed by George Jones.",
+      "hash": "3c2250345f8c42559f5907d5874f4379",
+      "metadata": {
+        "ordinal": 1042,
+        "triple": {
+          "subject_id": "99_problems",
+          "predicate_norm": "be performed by",
+          "object_text": "George Jones",
+          "confidence": 0.95,
+          "subject_raw": "99 Problems",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3289781796012818,
+      "created_at": "2026-07-04T04:40:50.463165-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a446ab39-60b1-4a10-b20f-541df1a195c3",
+      "memory": "We Will Rock You was performed by Pink Floyd.",
+      "hash": "bedc7510aae6cbf204f19941f4610dab",
+      "metadata": {
+        "ordinal": 4231,
+        "triple": {
+          "subject_id": "we_will_rock_you",
+          "predicate_norm": "be performed by",
+          "object_text": "Pink Floyd",
+          "confidence": 0.95,
+          "subject_raw": "We Will Rock You",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3289014240542188,
+      "created_at": "2026-07-04T04:42:49.898206-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fb56a5b3-ca41-4cee-99d7-448fcd59505a",
+      "memory": "Free as a Bird was performed by The Beatles.",
+      "hash": "7dc7e27e68dca1aca56ce8db237bb115",
+      "metadata": {
+        "ordinal": 4544,
+        "triple": {
+          "subject_id": "free_as_a_bird",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Free as a Bird",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3272815227102927,
+      "created_at": "2026-07-04T04:42:58.266842-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "108b6a5f-9666-404e-a105-81858a0bd117",
+      "memory": "Blackstar was performed by David Bowie.",
+      "hash": "5536d6eec47bf2bc7dcac312cbbff1b2",
+      "metadata": {
+        "ordinal": 4474,
+        "triple": {
+          "subject_id": "blackstar",
+          "predicate_norm": "be performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.95,
+          "subject_raw": "Blackstar",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3272508149804897,
+      "created_at": "2026-07-04T04:42:56.624868-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "40532acf-e0c2-4b5e-8ebe-c4049a049900",
+      "memory": "Beatles for Sale was performed by Madonna.",
+      "hash": "49f8c934e58635f630d2ab1433154492",
+      "metadata": {
+        "ordinal": 3545,
+        "triple": {
+          "subject_id": "beatles_for_sale",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Beatles for Sale",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3270454254538835,
+      "created_at": "2026-07-04T04:42:29.955671-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fab5e546-d515-4fdb-ba98-6474dd650ceb",
+      "memory": "John Thaw is a citizen of United Kingdom.",
+      "hash": "a2392d0e496a2b01d90f2b391995a0a0",
+      "metadata": {
+        "ordinal": 3268,
+        "triple": {
+          "subject_id": "john_thaw",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "John Thaw",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3258846608572067,
+      "created_at": "2026-07-04T04:42:14.400922-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6d30fa72-dd74-47f4-8525-30c5796ad09a",
+      "memory": "Hey Jude was performed by The Beatles.",
+      "hash": "ee0bcd2ec2305486214d8ac13558e8ff",
+      "metadata": {
+        "ordinal": 841,
+        "triple": {
+          "subject_id": "hey_jude",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Hey Jude",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32568628799918575,
+      "created_at": "2026-07-04T04:40:45.044183-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4084f99f-3ba5-4a32-ae1f-99df10ec66ff",
+      "memory": "I Feel Fine was performed by The Beatles.",
+      "hash": "d6b12a008c20d23c0bd7161115a9dff7",
+      "metadata": {
+        "ordinal": 1257,
+        "triple": {
+          "subject_id": "i_feel_fine",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "I Feel Fine",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32518494178432467,
+      "created_at": "2026-07-04T04:41:07.377580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "402d89d0-45cf-4a38-b939-be190968f9bf",
+      "memory": "Day Tripper was performed by Madonna.",
+      "hash": "445a846032527ea6c3ffed9f7d4287e0",
+      "metadata": {
+        "ordinal": 463,
+        "triple": {
+          "subject_id": "day_tripper",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Day Tripper",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3231696614960665,
+      "created_at": "2026-07-04T04:40:35.214279-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "790a02db-c4b8-45e0-912a-738ef2fc9419",
+      "memory": "The type of music that Pete Townshend plays is rock music.",
+      "hash": "bca375fd5b0ee18fd599185906ddafa6",
+      "metadata": {
+        "ordinal": 2596,
+        "triple": {
+          "subject_id": "pete_townshend",
+          "predicate_norm": "plays",
+          "object_text": "rock music",
+          "confidence": 0.95,
+          "subject_raw": "Pete Townshend",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.32104977056757944,
+      "created_at": "2026-07-04T04:41:54.947200-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "29ba32ff-7759-4756-bb4a-1ced11aef8b3",
+      "memory": "Hunky Dory was performed by David Bowie.",
+      "hash": "bdb5396fcb4708351d805599a85da078",
+      "metadata": {
+        "ordinal": 341,
+        "triple": {
+          "subject_id": "hunky_dory",
+          "predicate_norm": "be performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.95,
+          "subject_raw": "Hunky Dory",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32100625382712866,
+      "created_at": "2026-07-04T04:40:31.921300-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5e9e0530-fc45-46f0-bb13-6b6c1b6c602b",
+      "memory": "Taylor Swift worked in the city of London.",
+      "hash": "b874d6152ca0ea5e435a7eb8942b00e6",
+      "metadata": {
+        "ordinal": 2901,
+        "triple": {
+          "subject_id": "taylor_swift",
+          "predicate_norm": "worked in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Taylor Swift",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.3206026025510121,
+      "created_at": "2026-07-04T04:42:03.280984-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1527b92c-22aa-4c5d-93bf-6bfc3fb54994",
+      "memory": "From Me to You was performed by Madonna.",
+      "hash": "d4f3f6a88654238afdb321559da136b7",
+      "metadata": {
+        "ordinal": 1561,
+        "triple": {
+          "subject_id": "from_me_to_you",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "From Me to You",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3204028217492853,
+      "created_at": "2026-07-04T04:41:16.433874-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "99353141-ba37-4ec4-9023-757c9c57edec",
+      "memory": "Yesterday and Today was performed by The Beatles.",
+      "hash": "8fe8585cc6980f26995b06ea438f3fcc",
+      "metadata": {
+        "ordinal": 1585,
+        "triple": {
+          "subject_id": "yesterday_and_today",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Yesterday and Today",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32022915951266845,
+      "created_at": "2026-07-04T04:41:17.979151-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9c489547-1b95-46f6-847a-557dee838111",
+      "memory": "Yellow Submarine was performed by The Beatles.",
+      "hash": "8a1e959bcd1ef48bb02958c6e1b0f394",
+      "metadata": {
+        "ordinal": 225,
+        "triple": {
+          "subject_id": "yellow_submarine",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Yellow Submarine",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3198463765458108,
+      "created_at": "2026-07-04T04:40:26.846329-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "eed16536-5452-4b73-90b0-9eddb8bb18eb",
+      "memory": "Tomorrow Never Knows was performed by The Beatles.",
+      "hash": "f607733fee020f6e14d2ea96e0187512",
+      "metadata": {
+        "ordinal": 986,
+        "triple": {
+          "subject_id": "tomorrow_never_knows",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Tomorrow Never Knows",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.31885575984197856,
+      "created_at": "2026-07-04T04:40:49.362760-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3c604658-2ef1-46a7-9c47-9b21ecd0f665",
+      "memory": "Monty Norman was born in the city of London.",
+      "hash": "3dfc9aba06564f00f0a8e4f8a17e2cbd",
+      "metadata": {
+        "ordinal": 3317,
+        "triple": {
+          "subject_id": "monty_norman",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Monty Norman",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.31754974449170853,
+      "created_at": "2026-07-04T04:42:19.372213-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "506905ed-7ade-4b15-ae20-fbe3fc498413",
+      "memory": "Drive My Car was performed by Madonna.",
+      "hash": "f2e2ea02c7806e30641c3521918384d1",
+      "metadata": {
+        "ordinal": 3489,
+        "triple": {
+          "subject_id": "drive_my_car",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Drive My Car",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3171989239841573,
+      "created_at": "2026-07-04T04:42:28.873262-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0afa79be-bfbd-4a68-9acc-ca7a6367c062",
+      "memory": "Nat Adderley is a citizen of United Kingdom.",
+      "hash": "8d522f7d535ae14a502861f864ac232e",
+      "metadata": {
+        "ordinal": 1477,
+        "triple": {
+          "subject_id": "nat_adderley",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Nat Adderley",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3166786669076221,
+      "created_at": "2026-07-04T04:41:14.467481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3bdf389b-0103-469f-af2d-f0c9aee4d4d1",
+      "memory": "The type of music that Take That plays is punk rock.",
+      "hash": "e6815ca1cfed527a3c835036709ed5d6",
+      "metadata": {
+        "ordinal": 2713,
+        "triple": {
+          "subject_id": "take_that",
+          "predicate_norm": "plays type music",
+          "object_text": "punk rock",
+          "confidence": 0.9,
+          "subject_raw": "Take That",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.3155063759566338,
+      "created_at": "2026-07-04T04:41:57.618282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "072b98dc-98b6-4d52-82a2-79ae69c48d0c",
+      "memory": "The Man Show was created in the country of United Kingdom.",
+      "hash": "2dd1947de6d302fb4aa159e39c8c820a",
+      "metadata": {
+        "ordinal": 4384,
+        "triple": {
+          "subject_id": "the_man_show",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "The Man Show",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3154290490143492,
+      "created_at": "2026-07-04T04:42:54.002194-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "889e2997-1d79-487a-9fb2-949e6afa9d71",
+      "memory": "Tiny Tim was created by Charles Dickens.",
+      "hash": "6885f277ebc0cf8d8758431f91104707",
+      "metadata": {
+        "ordinal": 3878,
+        "triple": {
+          "subject_id": "tiny_tim",
+          "predicate_norm": "be created by",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Tiny Tim",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.3153128149217285,
+      "created_at": "2026-07-04T04:42:39.923792-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f5f35238-98a2-416c-896d-916dec55aae5",
+      "memory": "Times They Are a-Changin' was performed by Bob Dylan.",
+      "hash": "5b9e6b3004fb267e6c53acadc6b8474b",
+      "metadata": {
+        "ordinal": 3819,
+        "triple": {
+          "subject_id": "times_they_are_a_changin'",
+          "predicate_norm": "be performed by",
+          "object_text": "Bob Dylan",
+          "confidence": 0.95,
+          "subject_raw": "Times They Are a-Changin'",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3151903502574765,
+      "created_at": "2026-07-04T04:42:38.067576-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b7a2b2c6-ea60-488d-b4cd-5febb75f5f7d",
+      "memory": "The Inner Light was performed by The Beatles.",
+      "hash": "a0347a6b5ec9b83c510d8a53650d6e9c",
+      "metadata": {
+        "ordinal": 235,
+        "triple": {
+          "subject_id": "the_inner_light",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "The Inner Light",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3140185820034175,
+      "created_at": "2026-07-04T04:40:28.527241-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0bdc0461-71df-406d-8847-210f68419149",
+      "memory": "The director of The Beatles is Joe Hockey.",
+      "hash": "186409ad15320e0cbeae55a5ac1af3ee",
+      "metadata": {
+        "ordinal": 3401,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "be directed by",
+          "object_text": "Joe Hockey",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "was directed by"
+        }
+      },
+      "score": 0.3119340645160858,
+      "created_at": "2026-07-04T04:42:23.805012-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d2eaac0-4b90-4cbd-9200-4e86c12ba105",
+      "memory": "Wichita Lineman was performed by George Harrison.",
+      "hash": "2d908142e2530b9e6e5c363878f05903",
+      "metadata": {
+        "ordinal": 2592,
+        "triple": {
+          "subject_id": "wichita_lineman",
+          "predicate_norm": "be performed by",
+          "object_text": "George Harrison",
+          "confidence": 0.95,
+          "subject_raw": "Wichita Lineman",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3119313278537613,
+      "created_at": "2026-07-04T04:41:54.938766-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "01670fb1-44cd-4a9f-97c9-7a5aab1f4135",
+      "memory": "Space Oddity was performed by Lou Reed.",
+      "hash": "08b0d46a04112524321ca7034f81de60",
+      "metadata": {
+        "ordinal": 1684,
+        "triple": {
+          "subject_id": "space_oddity",
+          "predicate_norm": "be performed by",
+          "object_text": "Lou Reed",
+          "confidence": 0.95,
+          "subject_raw": "Space Oddity",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.31092574722449995,
+      "created_at": "2026-07-04T04:41:23.914423-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2753d710-ba72-4511-b8f5-7137cf0a6874",
+      "memory": "Ted Hughes is a citizen of United Kingdom.",
+      "hash": "4ce7fbea8f71f9842e00a09da71dbd57",
+      "metadata": {
+        "ordinal": 3334,
+        "triple": {
+          "subject_id": "ted_hughes",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Ted Hughes",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30956330746287103,
+      "created_at": "2026-07-04T04:42:19.405806-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b2f146a1-d3ce-46d4-9e2c-de6484e5d603",
+      "memory": "Alan Carr is a citizen of United Kingdom.",
+      "hash": "d42a757e9af109f413101de06a4f36c2",
+      "metadata": {
+        "ordinal": 1486,
+        "triple": {
+          "subject_id": "alan_carr",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Alan Carr",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.309559230765942,
+      "created_at": "2026-07-04T04:41:14.486162-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "86bdf8e6-daa2-46e2-b7f2-65f6692e52ba",
+      "memory": "Back to Black was performed by Frank Zappa.",
+      "hash": "7b82a9ebfb3bd5013f5bfff941bf303b",
+      "metadata": {
+        "ordinal": 4189,
+        "triple": {
+          "subject_id": "back_to_black",
+          "predicate_norm": "be performed by",
+          "object_text": "Frank Zappa",
+          "confidence": 0.95,
+          "subject_raw": "Back to Black",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.308135810877634,
+      "created_at": "2026-07-04T04:42:49.238589-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0f73a1e9-b761-4d10-81d3-d9de9a50a522",
+      "memory": "Gordon Giltrap is a citizen of United Kingdom.",
+      "hash": "ec75fa5f042add8cf877561ff8ce0540",
+      "metadata": {
+        "ordinal": 213,
+        "triple": {
+          "subject_id": "gordon_giltrap",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Gordon Giltrap",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30787699232777294,
+      "created_at": "2026-07-04T04:40:26.829330-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "86df9152-ecea-4d5a-bbcc-03c75d7d775e",
+      "memory": "Wichita Lineman was performed by Glen Campbell.",
+      "hash": "61e373e348d8a301d4c6412ef15ba316",
+      "metadata": {
+        "ordinal": 1081,
+        "triple": {
+          "subject_id": "wichita_lineman",
+          "predicate_norm": "be performed by",
+          "object_text": "Glen Campbell",
+          "confidence": 0.95,
+          "subject_raw": "Wichita Lineman",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3072449467148899,
+      "created_at": "2026-07-04T04:40:51.804133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dc293847-7698-4b40-8154-d9700bcc8e5a",
+      "memory": "Born in the U.S.A. was performed by Bruce Springsteen.",
+      "hash": "b28def7653f22f9954b491f15e546cbd",
+      "metadata": {
+        "ordinal": 3421,
+        "triple": {
+          "subject_id": "born_in_the_u.s.a.",
+          "predicate_norm": "be performed by",
+          "object_text": "Bruce Springsteen",
+          "confidence": 0.95,
+          "subject_raw": "Born in the U.S.A.",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30700236340785675,
+      "created_at": "2026-07-04T04:42:25.945518-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7e33688e-7d9c-4844-a571-56f97adbc257",
+      "memory": "Nature Boy was performed by Nat King Cole.",
+      "hash": "906dd64277dbc6baecad3aa0b703c685",
+      "metadata": {
+        "ordinal": 1248,
+        "triple": {
+          "subject_id": "nature_boy",
+          "predicate_norm": "be performed by",
+          "object_text": "Nat King Cole",
+          "confidence": 0.95,
+          "subject_raw": "Nature Boy",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3069751276793276,
+      "created_at": "2026-07-04T04:41:07.364134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "878c7883-c15a-4d17-90de-78de1c22272d",
+      "memory": "Aladdin Sane was performed by David Bowie.",
+      "hash": "27027bf7dda6eb3fbcb039bff7af3d61",
+      "metadata": {
+        "ordinal": 669,
+        "triple": {
+          "subject_id": "aladdin_sane",
+          "predicate_norm": "be performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.95,
+          "subject_raw": "Aladdin Sane",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30593496138356946,
+      "created_at": "2026-07-04T04:40:40.311435-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8f125850-6dd3-4b0d-a905-1e712e264fb3",
+      "memory": "Terrance Dicks is a citizen of United Kingdom.",
+      "hash": "54b6cd53689574334d7f2b42d311b5e9",
+      "metadata": {
+        "ordinal": 1008,
+        "triple": {
+          "subject_id": "terrance_dicks",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Terrance Dicks",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3059106520075127,
+      "created_at": "2026-07-04T04:40:49.400449-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0ab46016-87c0-4bc5-8693-0b87381d25dc",
+      "memory": "We Will Rock You was performed by Queen.",
+      "hash": "e9f14e27ddc87ee8b1152dccf882523b",
+      "metadata": {
+        "ordinal": 4078,
+        "triple": {
+          "subject_id": "we_will_rock_you",
+          "predicate_norm": "be performed by",
+          "object_text": "Queen",
+          "confidence": 0.95,
+          "subject_raw": "We Will Rock You",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30542392925985484,
+      "created_at": "2026-07-04T04:42:46.275487-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c7fd7f07-dddd-4076-ae92-d61b22d3ba21",
+      "memory": "Steve Lamacq is a citizen of Kingdom of England.",
+      "hash": "2d910bbbb849615a23e3711baf4bea69",
+      "metadata": {
+        "ordinal": 4123,
+        "triple": {
+          "subject_id": "steve_lamacq",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of England",
+          "confidence": 0.95,
+          "subject_raw": "Steve Lamacq",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3053303700165297,
+      "created_at": "2026-07-04T04:42:47.301700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e2562064-901a-4ef4-a915-4af763b82440",
+      "memory": "Rubber Soul was performed by Madonna.",
+      "hash": "7d815b8e409f4f6bcccb305ba0a88632",
+      "metadata": {
+        "ordinal": 4169,
+        "triple": {
+          "subject_id": "rubber_soul",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Rubber Soul",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30518095290822117,
+      "created_at": "2026-07-04T04:42:48.157156-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b3353e7d-f3b0-43a7-a6ce-6d49e032792e",
+      "memory": "Brown Eyed Girl was performed by Van Morrison.",
+      "hash": "7cac3fc0e600d8ed6d5d7f9545c30480",
+      "metadata": {
+        "ordinal": 2716,
+        "triple": {
+          "subject_id": "brown_eyed_girl",
+          "predicate_norm": "be performed by",
+          "object_text": "Van Morrison",
+          "confidence": 0.95,
+          "subject_raw": "Brown Eyed Girl",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3050928993724057,
+      "created_at": "2026-07-04T04:41:57.621973-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c9f604c2-6822-42b1-a525-0b87a0386892",
+      "memory": "Here Comes the Sun was performed by The Beatles.",
+      "hash": "dd37536582fa27795a0aa746df059663",
+      "metadata": {
+        "ordinal": 2195,
+        "triple": {
+          "subject_id": "here_comes_the_sun",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Here Comes the Sun",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3047208600035296,
+      "created_at": "2026-07-04T04:41:41.101730-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ee7da4b8-0ffd-416d-bd32-9609700084f9",
+      "memory": "Blizzard of Ozz was performed by Elton John.",
+      "hash": "b3909b147680bfb65da8e2c4802cde8d",
+      "metadata": {
+        "ordinal": 3071,
+        "triple": {
+          "subject_id": "blizzard_of_ozz",
+          "predicate_norm": "be performed by",
+          "object_text": "Elton John",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard of Ozz",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3045813419731359,
+      "created_at": "2026-07-04T04:42:08.843168-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b1311706-2a68-4bc9-9f98-d36e97b9c079",
+      "memory": "Noel Pemberton Billing worked in the city of London.",
+      "hash": "b9097c6e9c3ddc5cb800dffd6a985ae5",
+      "metadata": {
+        "ordinal": 852,
+        "triple": {
+          "subject_id": "noel_pemberton_billing",
+          "predicate_norm": "worked in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Noel Pemberton Billing",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.30413388322956203,
+      "created_at": "2026-07-04T04:40:45.064112-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "951ef8bd-cc19-4dde-90fb-bc1963a3a41c",
+      "memory": "Wonderwall was performed by Oasis.",
+      "hash": "d2812ca975f7e0561937c5279e704735",
+      "metadata": {
+        "ordinal": 14,
+        "triple": {
+          "subject_id": "wonderwall",
+          "predicate_norm": "be performed by",
+          "object_text": "Oasis",
+          "confidence": 0.95,
+          "subject_raw": "Wonderwall",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.303954047915842,
+      "created_at": "2026-07-04T04:40:18.901665-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8561c64f-2b61-4748-9ebb-c9e55ad67503",
+      "memory": "The type of music that Take That plays is pop music.",
+      "hash": "d0d14a657fdca21dc6b15155d4f5e14d",
+      "metadata": {
+        "ordinal": 1747,
+        "triple": {
+          "subject_id": "take_that",
+          "predicate_norm": "plays type music",
+          "object_text": "pop music",
+          "confidence": 0.95,
+          "subject_raw": "Take That",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.3030717253803967,
+      "created_at": "2026-07-04T04:41:24.622118-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fcca0d83-f0b9-4905-b1d9-089352ddecf8",
+      "memory": "Norman Rockwell is a citizen of United Kingdom.",
+      "hash": "8f00c967b436d670aadf53faa45f9a0e",
+      "metadata": {
+        "ordinal": 1505,
+        "triple": {
+          "subject_id": "norman_rockwell",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Norman Rockwell",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30275064813192654,
+      "created_at": "2026-07-04T04:41:15.541758-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e5db511f-3f01-4de0-bcad-beab17a6d406",
+      "memory": "Seven Nation Army was performed by The White Stripes.",
+      "hash": "d52a62532034b277e85e1b1a6a878f74",
+      "metadata": {
+        "ordinal": 22,
+        "triple": {
+          "subject_id": "seven_nation_army",
+          "predicate_norm": "be performed by",
+          "object_text": "The White Stripes",
+          "confidence": 0.95,
+          "subject_raw": "Seven Nation Army",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3026652883150045,
+      "created_at": "2026-07-04T04:40:18.911992-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "be9b827a-c309-4c8a-b591-4db96e1c3c51",
+      "memory": "Born to Run was performed by The J. Geils Band.",
+      "hash": "89c2cb0d88e0dc08bcf61b8c6a82bc2f",
+      "metadata": {
+        "ordinal": 2730,
+        "triple": {
+          "subject_id": "born_to_run",
+          "predicate_norm": "be performed by",
+          "object_text": "The J. Geils Band",
+          "confidence": 0.95,
+          "subject_raw": "Born to Run",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30181989445634316,
+      "created_at": "2026-07-04T04:41:58.472328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4aa34948-575b-4438-92bd-b6deb27be12a",
+      "memory": "99 Luftballons was performed by George Harrison.",
+      "hash": "9d01d4dc018304db33efa604a58e7b6b",
+      "metadata": {
+        "ordinal": 1978,
+        "triple": {
+          "subject_id": "99_luftballons",
+          "predicate_norm": "be performed by",
+          "object_text": "George Harrison",
+          "confidence": 0.95,
+          "subject_raw": "99 Luftballons",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3015489217657509,
+      "created_at": "2026-07-04T04:41:31.743265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "80ea11b8-b346-4d0b-a468-250258ea1c85",
+      "memory": "Alan Thicke is a citizen of Japan.",
+      "hash": "65b5b8fb595307e5003c143e0f379ffe",
+      "metadata": {
+        "ordinal": 3913,
+        "triple": {
+          "subject_id": "alan_thicke",
+          "predicate_norm": "be citizen",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Alan Thicke",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30116444010436444,
+      "created_at": "2026-07-04T04:42:40.933020-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "88b30f1a-8ffc-4b70-ae19-c5bcdf95044f",
+      "memory": "Revolver was performed by The Beatles.",
+      "hash": "9ffdc77bb5889b5efa5c1aec4330e643",
+      "metadata": {
+        "ordinal": 2268,
+        "triple": {
+          "subject_id": "revolver",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Revolver",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30082950581213164,
+      "created_at": "2026-07-04T04:41:44.068902-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "933514a5-1101-4c9c-975b-0a4a46233050",
+      "memory": "Mick Jagger is a citizen of United Kingdom.",
+      "hash": "1ce74504f27497cc0043d5dc8c6d43c3",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "mick_jagger",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Mick Jagger",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2999803585303349,
+      "created_at": "2026-07-04T04:40:30.549813-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9fcbacc5-c6b2-4feb-a142-b122875f7e8e",
+      "memory": "Anthology 1 was performed by The Beatles.",
+      "hash": "d6a773f2c0f50884a90e1edc3f46e3f3",
+      "metadata": {
+        "ordinal": 506,
+        "triple": {
+          "subject_id": "anthology_1",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Anthology 1",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.29779678898470574,
+      "created_at": "2026-07-04T04:40:36.644583-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5c0c8b55-9782-4977-8409-a477057affc8",
+      "memory": "David Gilmour is a citizen of United Kingdom.",
+      "hash": "a278f4047daa8f287df5c8bc95ff5f8f",
+      "metadata": {
+        "ordinal": 509,
+        "triple": {
+          "subject_id": "david_gilmour",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "David Gilmour",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2973227757738336,
+      "created_at": "2026-07-04T04:40:36.649685-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a13e5c61-98c5-4d33-9b27-187c80929869",
+      "memory": "Anthology 2 was performed by The Beatles.",
+      "hash": "b8300a7341d545abbb8a00c3c535e05a",
+      "metadata": {
+        "ordinal": 634,
+        "triple": {
+          "subject_id": "anthology_2",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Anthology 2",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2961070614216945,
+      "created_at": "2026-07-04T04:40:39.341909-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bce444e3-90c6-4dd7-9f44-61bd436181a6",
+      "memory": "Born to Run was performed by Bruce Springsteen.",
+      "hash": "e731a995a23d6d78f1f333f50a55e763",
+      "metadata": {
+        "ordinal": 1482,
+        "triple": {
+          "subject_id": "bruce_springsteen",
+          "predicate_norm": "performed",
+          "object_text": "Born to Run",
+          "confidence": 0.95,
+          "subject_raw": "Bruce Springsteen",
+          "predicate_raw": "performed"
+        }
+      },
+      "score": 0.29592010209265057,
+      "created_at": "2026-07-04T04:41:14.478401-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2097db1f-927f-4583-a53f-13dbb05d5d31",
+      "memory": "Hunky Dory was performed by John Legend.",
+      "hash": "4b4d8a1bc60326c179a719aac9e24117",
+      "metadata": {
+        "ordinal": 2216,
+        "triple": {
+          "subject_id": "hunky_dory",
+          "predicate_norm": "be performed by",
+          "object_text": "John Legend",
+          "confidence": 0.95,
+          "subject_raw": "Hunky Dory",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2955917906902406,
+      "created_at": "2026-07-04T04:41:41.935741-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7466c507-9476-4979-a6d9-dc30cae2c8b3",
+      "memory": "Nicky Hopkins is a citizen of United Kingdom.",
+      "hash": "ad770c483290703bd2f6d257f71655d6",
+      "metadata": {
+        "ordinal": 1904,
+        "triple": {
+          "subject_id": "nicky_hopkins",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Nicky Hopkins",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.294678332410347,
+      "created_at": "2026-07-04T04:41:29.868944-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b7020302-f45f-4929-a4b6-a1517f79eaa6",
+      "memory": "Can't Stop the Feeling! was performed by Sting.",
+      "hash": "4f9013ed964b7e0dd88ab843dcbcf7b6",
+      "metadata": {
+        "ordinal": 3411,
+        "triple": {
+          "subject_id": "can't_stop_the_feeling!",
+          "predicate_norm": "be performed by",
+          "object_text": "Sting",
+          "confidence": 0.95,
+          "subject_raw": "Can't Stop the Feeling!",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2942847949708092,
+      "created_at": "2026-07-04T04:42:23.818783-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d4841fe5-4465-49d1-82ac-9f9df4dd3489",
+      "memory": "Pete Seeger was born in the city of London.",
+      "hash": "4886dbc497147a49b7290c27aa4e9cc0",
+      "metadata": {
+        "ordinal": 3879,
+        "triple": {
+          "subject_id": "pete_seeger",
+          "predicate_norm": "be born in",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Pete Seeger",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.29427406488653185,
+      "created_at": "2026-07-04T04:42:39.925437-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "df029b53-10fd-401e-b725-61ab4a8f9f89",
+      "memory": "Helter Skelter was performed by The Beatles.",
+      "hash": "62886ab6aba30c27ea21f9ce4452a46e",
+      "metadata": {
+        "ordinal": 4063,
+        "triple": {
+          "subject_id": "helter_skelter",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Helter Skelter",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.293925644385809,
+      "created_at": "2026-07-04T04:42:45.332038-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f8871727-8354-48c9-a21b-2e7ffc41f24a",
+      "memory": "The type of music that Billy Taylor plays is jazz.",
+      "hash": "d95cdd7848a1cd275b0776a602468003",
+      "metadata": {
+        "ordinal": 4346,
+        "triple": {
+          "subject_id": "billy_taylor",
+          "predicate_norm": "plays type music",
+          "object_text": "jazz",
+          "confidence": 0.95,
+          "subject_raw": "Billy Taylor",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.2935599153140649,
+      "created_at": "2026-07-04T04:42:52.997121-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "55a34911-ba01-4dbd-b3ef-054bb06ed424",
+      "memory": "Speakerboxxx/The Love Below was performed by Queen.",
+      "hash": "2eb49727502c568ea7307faa5e3ae050",
+      "metadata": {
+        "ordinal": 2819,
+        "triple": {
+          "subject_id": "speakerboxxx/the_love_below",
+          "predicate_norm": "be performed by",
+          "object_text": "Queen",
+          "confidence": 0.95,
+          "subject_raw": "Speakerboxxx/The Love Below",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2925559537392113,
+      "created_at": "2026-07-04T04:42:00.563711-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "626a1ec3-7b87-4069-8c1d-9698d094e8a8",
+      "memory": "Rocket Man was performed by Ayumi Hamasaki.",
+      "hash": "f320035ab65aa4ae369088c214cbcaca",
+      "metadata": {
+        "ordinal": 3542,
+        "triple": {
+          "subject_id": "rocket_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Ayumi Hamasaki",
+          "confidence": 0.95,
+          "subject_raw": "Rocket Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2921980055996233,
+      "created_at": "2026-07-04T04:42:29.951537-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ae47bfdc-4715-46bf-93ad-38c9a1d4bfcf",
+      "memory": "Blood on the Tracks was performed by Bob Dylan.",
+      "hash": "12669d34f7fd5b83175fa10792821422",
+      "metadata": {
+        "ordinal": 1623,
+        "triple": {
+          "subject_id": "blood_on_the_tracks",
+          "predicate_norm": "be performed by",
+          "object_text": "Bob Dylan",
+          "confidence": 0.95,
+          "subject_raw": "Blood on the Tracks",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.29171549041355693,
+      "created_at": "2026-07-04T04:41:19.842787-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7a8f25b7-f447-465d-85b8-5a9de51757af",
+      "memory": "Master of Puppets was performed by The Beatles.",
+      "hash": "3ecdf3e800da8bf7204deb69ed937f3e",
+      "metadata": {
+        "ordinal": 4428,
+        "triple": {
+          "subject_id": "master_of_puppets",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Master of Puppets",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2905283118358847,
+      "created_at": "2026-07-04T04:42:55.776178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "872ef184-a538-4b30-bfa8-b165b9a99720",
+      "memory": "Travis Tritt is a citizen of United States of America",
+      "hash": "3040e0bd4a52e70be76ed9abbb42e7e0",
+      "metadata": {
+        "ordinal": 2138,
+        "triple": {
+          "subject_id": "travis_tritt",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Travis Tritt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.290179107868119,
+      "created_at": "2026-07-04T04:41:39.982410-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "47772e03-7276-4e5c-9e7e-3db27da80d88",
+      "memory": "Britain's Got Talent was created by Simon Cowell",
+      "hash": "8dd12394683f1d0390fe783e417a6ac7",
+      "metadata": {
+        "ordinal": 536,
+        "triple": {
+          "subject_id": "britain's_got_talent",
+          "predicate_norm": "be created by",
+          "object_text": "Simon Cowell",
+          "confidence": 0.95,
+          "subject_raw": "Britain's Got Talent",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.28999707241921613,
+      "created_at": "2026-07-04T04:40:37.451507-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a90e8a3e-92e9-4fcd-953f-03d9f468dd4d",
+      "memory": "Elton John is married to David Furnish.",
+      "hash": "e8aa0fb85e1a6d7a18c3bd9d27f05ac3",
+      "metadata": {
+        "ordinal": 1187,
+        "triple": {
+          "subject_id": "elton_john",
+          "predicate_norm": "be married to",
+          "object_text": "David Furnish",
+          "confidence": 0.95,
+          "subject_raw": "Elton John",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.28908326629816933,
+      "created_at": "2026-07-04T04:40:54.559223-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "00d689a4-1baa-4889-9b2a-6a687caae29c",
+      "memory": "Brian Epstein is a citizen of United Kingdom.",
+      "hash": "2367c6b3f668856d97aaf493f1c991bc",
+      "metadata": {
+        "ordinal": 1249,
+        "triple": {
+          "subject_id": "brian_epstein",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Brian Epstein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2884514115306533,
+      "created_at": "2026-07-04T04:41:07.365727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c495a1a0-25bc-4ebe-ba39-4635ae9fffcf",
+      "memory": "The type of music that Terry Pratchett plays is Western film",
+      "hash": "651468abc610600b95494923b02f6b40",
+      "metadata": {
+        "ordinal": 4402,
+        "triple": {
+          "subject_id": "terry_pratchett",
+          "predicate_norm": "plays",
+          "object_text": "Western film",
+          "confidence": 0.95,
+          "subject_raw": "Terry Pratchett",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.28836004335516674,
+      "created_at": "2026-07-04T04:42:54.926141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- Taxman was performed by Madonna.\n- Fourth Doctor was performed by Bryan Adams.\n- The author of The Who's Tommy is Pete Townshend.\n- The Blueprint was performed by Take That.\n- Inspector Morse was performed by John Thaw.\n- Please Please Me was performed by The Beatles.\n- Bob Dylan worked in the city of London.\n- Nature Boy was performed by Donovan.\n- Fourth Doctor was performed by Tom Baker.\n- Wonderwall was performed by The Kinks.\n- Elton John is a citizen of United Kingdom.\n- Jon Robin Baitz is a citizen of United Kingdom.\n- Tom Baker is a citizen of United Kingdom.\n- Nowhere Man was performed by Madonna.\n- Past Masters was performed by The Beatles.\n- Terry Nation is famous for Doctor Who.\n- Dear Prudence was performed by The Beatles.\n- Can't Buy Me Love was performed by The Beatles.\n- God Bless the Child was performed by Mick Jagger\n- 99 Problems was performed by George Jones.\n- We Will Rock You was performed by Pink Floyd.\n- Free as a Bird was performed by The Beatles.\n- Blackstar was performed by David Bowie.\n- Beatles for Sale was performed by Madonna.\n- John Thaw is a citizen of United Kingdom.\n- Hey Jude was performed by The Beatles.\n- I Feel Fine was performed by The Beatles.\n- Day Tripper was performed by Madonna.\n- The type of music that Pete Townshend plays is rock music.\n- Taylor Swift worked in the city of London.\n- From Me to You was performed by Madonna.\n- Yesterday and Today was performed by The Beatles.\n- Yellow Submarine was performed by The Beatles.\n- Tomorrow Never Knows was performed by The Beatles.\n- Monty Norman was born in the city of London.\n- Drive My Car was performed by Madonna.\n- Nat Adderley is a citizen of United Kingdom.\n- The type of music that Take That plays is punk rock.\n- The Man Show was created in the country of United Kingdom.\n- Tiny Tim was created by Charles Dickens.\n- Times They Are a-Changin' was performed by Bob Dylan.\n- The Inner Light was performed by The Beatles.\n- The director of The Beatles is Joe Hockey.\n- Wichita Lineman was performed by George Harrison.\n- Space Oddity was performed by Lou Reed.\n- Ted Hughes is a citizen of United Kingdom.\n- Alan Carr is a citizen of United Kingdom.\n- Back to Black was performed by Frank Zappa.\n- Gordon Giltrap is a citizen of United Kingdom.\n- Born in the U.S.A. was performed by Bruce Springsteen.\n- Aladdin Sane was performed by David Bowie.\n- Terrance Dicks is a citizen of United Kingdom.\n- Steve Lamacq is a citizen of Kingdom of England.\n- Rubber Soul was performed by Madonna.\n- Brown Eyed Girl was performed by Van Morrison.\n- Here Comes the Sun was performed by The Beatles.\n- Blizzard of Ozz was performed by Elton John.\n- Noel Pemberton Billing worked in the city of London.\n- Wonderwall was performed by Oasis.\n- Norman Rockwell is a citizen of United Kingdom.\n- Seven Nation Army was performed by The White Stripes.\n- Born to Run was performed by The J. Geils Band.\n- 99 Luftballons was performed by George Harrison.\n- Alan Thicke is a citizen of Japan.\n- Revolver was performed by The Beatles.\n- Mick Jagger is a citizen of United Kingdom.\n- Anthology 1 was performed by The Beatles.\n- David Gilmour is a citizen of United Kingdom.\n- Anthology 2 was performed by The Beatles.\n- Born to Run was performed by Bruce Springsteen.\n- Hunky Dory was performed by John Legend.\n- Nicky Hopkins is a citizen of United Kingdom.\n- Can't Stop the Feeling! was performed by Sting.\n- Pete Seeger was born in the city of London.\n- Helter Skelter was performed by The Beatles.\n- The type of music that Billy Taylor plays is jazz.\n- Speakerboxxx/The Love Below was performed by Queen.\n- Rocket Man was performed by Ayumi Hamasaki.\n- Blood on the Tracks was performed by Bob Dylan.\n- Master of Puppets was performed by The Beatles.\n- Travis Tritt is a citizen of United States of America\n- Britain's Got Talent was created by Simon Cowell\n- Elton John is married to David Furnish.\n- Brian Epstein is a citizen of United Kingdom.\n- The type of music that Terry Pratchett plays is Western film",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- Taxman was performed by Madonna.\n- Fourth Doctor was performed by Bryan Adams.\n- The author of The Who's Tommy is Pete Townshend.\n- The Blueprint was performed by Take That.\n- Inspector Morse was performed by John Thaw.\n- Please Please Me was performed by The Beatles.\n- Bob Dylan worked in the city of London.\n- Nature Boy was performed by Donovan.\n- Fourth Doctor was performed by Tom Baker.\n- Wonderwall was performed by The Kinks.\n- Elton John is a citizen of United Kingdom.\n- Jon Robin Baitz is a citizen of United Kingdom.\n- Tom Baker is a citizen of United Kingdom.\n- Nowhere Man was performed by Madonna.\n- Past Masters was performed by The Beatles.\n- Terry Nation is famous for Doctor Who.\n- Dear Prudence was performed by The Beatles.\n- Can't Buy Me Love was performed by The Beatles.\n- God Bless the Child was performed by Mick Jagger\n- 99 Problems was performed by George Jones.\n- We Will Rock You was performed by Pink Floyd.\n- Free as a Bird was performed by The Beatles.\n- Blackstar was performed by David Bowie.\n- Beatles for Sale was performed by Madonna.\n- John Thaw is a citizen of United Kingdom.\n- Hey Jude was performed by The Beatles.\n- I Feel Fine was performed by The Beatles.\n- Day Tripper was performed by Madonna.\n- The type of music that Pete Townshend plays is rock music.\n- Taylor Swift worked in the city of London.\n- From Me to You was performed by Madonna.\n- Yesterday and Today was performed by The Beatles.\n- Yellow Submarine was performed by The Beatles.\n- Tomorrow Never Knows was performed by The Beatles.\n- Monty Norman was born in the city of London.\n- Drive My Car was performed by Madonna.\n- Nat Adderley is a citizen of United Kingdom.\n- The type of music that Take That plays is punk rock.\n- The Man Show was created in the country of United Kingdom.\n- Tiny Tim was created by Charles Dickens.\n- Times They Are a-Changin' was performed by Bob Dylan.\n- The Inner Light was performed by The Beatles.\n- The director of The Beatles is Joe Hockey.\n- Wichita Lineman was performed by George Harrison.\n- Space Oddity was performed by Lou Reed.\n- Ted Hughes is a citizen of United Kingdom.\n- Alan Carr is a citizen of United Kingdom.\n- Back to Black was performed by Frank Zappa.\n- Gordon Giltrap is a citizen of United Kingdom.\n- Born in the U.S.A. was performed by Bruce Springsteen.\n- Aladdin Sane was performed by David Bowie.\n- Terrance Dicks is a citizen of United Kingdom.\n- Steve Lamacq is a citizen of Kingdom of England.\n- Rubber Soul was performed by Madonna.\n- Brown Eyed Girl was performed by Van Morrison.\n- Here Comes the Sun was performed by The Beatles.\n- Blizzard of Ozz was performed by Elton John.\n- Noel Pemberton Billing worked in the city of London.\n- Wonderwall was performed by Oasis.\n- Norman Rockwell is a citizen of United Kingdom.\n- Seven Nation Army was performed by The White Stripes.\n- Born to Run was performed by The J. Geils Band.\n- 99 Luftballons was performed by George Harrison.\n- Alan Thicke is a citizen of Japan.\n- Revolver was performed by The Beatles.\n- Mick Jagger is a citizen of United Kingdom.\n- Anthology 1 was performed by The Beatles.\n- David Gilmour is a citizen of United Kingdom.\n- Anthology 2 was performed by The Beatles.\n- Born to Run was performed by Bruce Springsteen.\n- Hunky Dory was performed by John Legend.\n- Nicky Hopkins is a citizen of United Kingdom.\n- Can't Stop the Feeling! was performed by Sting.\n- Pete Seeger was born in the city of London.\n- Helter Skelter was performed by The Beatles.\n- The type of music that Billy Taylor plays is jazz.\n- Speakerboxxx/The Love Below was performed by Queen.\n- Rocket Man was performed by Ayumi Hamasaki.\n- Blood on the Tracks was performed by Bob Dylan.\n- Master of Puppets was performed by The Beatles.\n- Travis Tritt is a citizen of United States of America\n- Britain's Got Talent was created by Simon Cowell\n- Elton John is married to David Furnish.\n- Brian Epstein is a citizen of United Kingdom.\n- The type of music that Terry Pratchett plays is Western film\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Who performed Taxman? \nAnswer:\n\nCurrent Time: 2026-07-04 20:03:37",
+  "response": "Answer: Madonna",
+  "prompt_tokens": 1119,
+  "completion_tokens": 3,
+  "resolved_pool": [
+    {
+      "id": "84a9fe92-ec34-4586-8ade-dae118821af2",
+      "memory": "Taxman was performed by The Beatles.",
+      "hash": "bf5aa54de90186da9f60643b8ded8011",
+      "metadata": {
+        "ordinal": 3163,
+        "triple": {
+          "subject_id": "taxman",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Taxman",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.7586907993361025,
+      "created_at": "2026-07-04T04:42:11.377521-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6b04e0e2-2b88-4616-ade3-2c55d16487c3",
+      "memory": "Taxman was performed by Madonna.",
+      "hash": "8cd5bd93e3fac5b99d8da125ad1b00c1",
+      "metadata": {
+        "ordinal": 3437,
+        "triple": {
+          "subject_id": "taxman",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Taxman",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.6787981281942772,
+      "created_at": "2026-07-04T04:42:25.976389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dca0043b-c9a5-4acd-a744-8b7fc06c8b6b",
+      "memory": "Nowhere Man was performed by The Beatles.",
+      "hash": "6a33e4e611598f4470dc2f0f30ff14d4",
+      "metadata": {
+        "ordinal": 2870,
+        "triple": {
+          "subject_id": "nowhere_man",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Nowhere Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.4218048485454883,
+      "created_at": "2026-07-04T04:42:02.343197-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "92d2563f-1b64-44d6-b04f-ca5576680aaf",
+      "memory": "Fourth Doctor was performed by Bryan Adams.",
+      "hash": "e91534754fce7a6444ad89bca2d1a0c7",
+      "metadata": {
+        "ordinal": 3825,
+        "triple": null,
+        "subject_fallback": "fourth_doctor"
+      },
+      "score": 0.39951708298845123,
+      "created_at": "2026-07-04T04:42:38.075374-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ba35f367-4a79-4da9-a8c3-135883c657dc",
+      "memory": "Rocket Man was performed by Elton John.",
+      "hash": "864c5fd8b7f36b49e4e49d4b54119c98",
+      "metadata": {
+        "ordinal": 3507,
+        "triple": {
+          "subject_id": "rocket_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Elton John",
+          "confidence": 0.95,
+          "subject_raw": "Rocket Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.38572132849775587,
+      "created_at": "2026-07-04T04:42:28.903287-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "49668f61-c3dd-4abf-bf92-8e93aa1b2242",
+      "memory": "The author of The Who's Tommy is Pete Townshend.",
+      "hash": "ff70b55ae01bf6b6a76a9793ff57b462",
+      "metadata": {
+        "ordinal": 1290,
+        "triple": {
+          "subject_id": "the_who's_tommy",
+          "predicate_norm": "be authored by",
+          "object_text": "Pete Townshend",
+          "confidence": 0.95,
+          "subject_raw": "The Who's Tommy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.38275175083934965,
+      "created_at": "2026-07-04T04:41:08.367460-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "51432be1-faf4-418a-9f9d-6c71ecd91096",
+      "memory": "Day Tripper was performed by The Beatles.",
+      "hash": "c45f1286dcdf6035c00dc23acb3404cf",
+      "metadata": {
+        "ordinal": 434,
+        "triple": {
+          "subject_id": "day_tripper",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Day Tripper",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.37809891593125666,
+      "created_at": "2026-07-04T04:40:34.205786-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fcac44bf-a6f6-4fd9-8dc6-e1331b0f4a43",
+      "memory": "The Blueprint was performed by Take That.",
+      "hash": "fdeffb1745da5647831e68a7e593ea28",
+      "metadata": {
+        "ordinal": 4128,
+        "triple": {
+          "subject_id": "the_blueprint",
+          "predicate_norm": "be performed by",
+          "object_text": "Take That",
+          "confidence": 0.95,
+          "subject_raw": "The Blueprint",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3775798498600017,
+      "created_at": "2026-07-04T04:42:47.309983-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c26404d8-ef72-4f85-b394-9a4271aea36b",
+      "memory": "Inspector Morse was performed by John Thaw.",
+      "hash": "c28a4888068a387374d1fdf1f74bdfc8",
+      "metadata": {
+        "ordinal": 2790,
+        "triple": {
+          "subject_id": "inspector_morse",
+          "predicate_norm": "be performed by",
+          "object_text": "John Thaw",
+          "confidence": 0.95,
+          "subject_raw": "Inspector Morse",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3765997454901167,
+      "created_at": "2026-07-04T04:42:00.517901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1909be1f-27fd-4d21-9f17-bd4673b0502f",
+      "memory": "Please Please Me was performed by The Beatles.",
+      "hash": "84320bb8cbe720ffa25e0559a1a495f8",
+      "metadata": {
+        "ordinal": 2553,
+        "triple": {
+          "subject_id": "please_please_me",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Please Please Me",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3744723609742532,
+      "created_at": "2026-07-04T04:41:53.634868-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9a728e2e-fdc9-418d-8bba-3923852d2e46",
+      "memory": "Beatles for Sale was performed by The Beatles.",
+      "hash": "80fe4575f2890d70f7a442e078e3f367",
+      "metadata": {
+        "ordinal": 2892,
+        "triple": {
+          "subject_id": "beatles_for_sale",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Beatles for Sale",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.36932613765294653,
+      "created_at": "2026-07-04T04:42:02.376076-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fbf32fb8-96fa-4fd0-9ff8-8e9c6eee8410",
+      "memory": "Drive My Car was performed by The Beatles.",
+      "hash": "62ef0157ccc404d1041b884274d585e5",
+      "metadata": {
+        "ordinal": 3152,
+        "triple": {
+          "subject_id": "drive_my_car",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Drive My Car",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.36755570692752704,
+      "created_at": "2026-07-04T04:42:11.361712-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4f3b7d5f-0fce-4cb8-ab4c-6f3e7736d6ae",
+      "memory": "Bob Dylan worked in the city of London.",
+      "hash": "8bc8e94810f2cdf949b8df6aaa5683a8",
+      "metadata": {
+        "ordinal": 2408,
+        "triple": {
+          "subject_id": "bob_dylan",
+          "predicate_norm": "worked in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Bob Dylan",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.3600815807894363,
+      "created_at": "2026-07-04T04:41:49.003139-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "be96470b-6501-4106-910d-ac53ef078a65",
+      "memory": "From Me to You was performed by The Beatles.",
+      "hash": "c125a5a7df8ae90a44fd783869ab86e9",
+      "metadata": {
+        "ordinal": 146,
+        "triple": {
+          "subject_id": "from_me_to_you",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "From Me to You",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3560062347710914,
+      "created_at": "2026-07-04T04:40:24.256575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ab86c2e6-bded-43a9-9414-b61cbe941415",
+      "memory": "Space Oddity was performed by David Bowie.",
+      "hash": "eb5c1a8d75711f8eabaa9a6aef13f558",
+      "metadata": {
+        "ordinal": 1602,
+        "triple": {
+          "subject_id": "space_oddity",
+          "predicate_norm": "be performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.95,
+          "subject_raw": "Space Oddity",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3504669115734116,
+      "created_at": "2026-07-04T04:41:17.998226-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "31b92db7-80b0-4c39-8fa0-736b0ee795b6",
+      "memory": "Nature Boy was performed by Donovan.",
+      "hash": "7b61d795f02216e79079d3cf8062bfc5",
+      "metadata": {
+        "ordinal": 1607,
+        "triple": {
+          "subject_id": "nature_boy",
+          "predicate_norm": "be performed by",
+          "object_text": "Donovan",
+          "confidence": 0.95,
+          "subject_raw": "Nature Boy",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.35032759436763095,
+      "created_at": "2026-07-04T04:41:19.796319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3ffa42e1-cb66-4b11-81c0-8f6a78359dc7",
+      "memory": "Fourth Doctor was performed by Tom Baker.",
+      "hash": "66f2067d774d55ee9e544cfd2c9cabaf",
+      "metadata": {
+        "ordinal": 3572,
+        "triple": {
+          "subject_id": "fourth_doctor",
+          "predicate_norm": "be performed by",
+          "object_text": "Tom Baker",
+          "confidence": 0.95,
+          "subject_raw": "Fourth Doctor",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3484116676723128,
+      "created_at": "2026-07-04T04:42:30.864828-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b560f725-adb6-44c0-84af-f6b52f6ee0fe",
+      "memory": "Wonderwall was performed by The Kinks.",
+      "hash": "51d628d1676dd51a8039cf25dc00a1c5",
+      "metadata": {
+        "ordinal": 3202,
+        "triple": {
+          "subject_id": "the_kinks",
+          "predicate_norm": "performed",
+          "object_text": "Wonderwall",
+          "confidence": 0.95,
+          "subject_raw": "The Kinks",
+          "predicate_raw": "performed"
+        }
+      },
+      "score": 0.34255679482543266,
+      "created_at": "2026-07-04T04:42:12.536558-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b676adfa-7de2-4dda-9993-e918f0a1f2f3",
+      "memory": "Rubber Soul was performed by The Beatles.",
+      "hash": "d50893ee91b8c05ff92019289afee1d8",
+      "metadata": {
+        "ordinal": 157,
+        "triple": {
+          "subject_id": "rubber_soul",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Rubber Soul",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3424889267522698,
+      "created_at": "2026-07-04T04:40:25.333566-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aad3157c-f0d9-4031-b71c-8cf9930b8dee",
+      "memory": "Elton John is a citizen of United Kingdom.",
+      "hash": "1fc114f6d3a6538a8ebf7c06e20787b2",
+      "metadata": {
+        "ordinal": 619,
+        "triple": {
+          "subject_id": "elton_john",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Elton John",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.340849932305362,
+      "created_at": "2026-07-04T04:40:39.317575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "51f4fa91-6b42-4585-a64e-2a7cc56d0f13",
+      "memory": "Jon Robin Baitz is a citizen of United Kingdom.",
+      "hash": "fcb1f126ad77294e1f9a86141de38dc8",
+      "metadata": {
+        "ordinal": 1368,
+        "triple": {
+          "subject_id": "jon_robin_baitz",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Jon Robin Baitz",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.33947828295570537,
+      "created_at": "2026-07-04T04:41:11.007393-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c15e0360-8e67-44bd-a43d-c72b1702a9a8",
+      "memory": "Tom Baker is a citizen of United Kingdom.",
+      "hash": "f649795dc4ca6e691b07de589131965c",
+      "metadata": {
+        "ordinal": 2079,
+        "triple": {
+          "subject_id": "tom_baker",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Tom Baker",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3388917063374321,
+      "created_at": "2026-07-04T04:41:34.694765-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6a037b0e-50bb-43a8-9ead-56a5c42d73e4",
+      "memory": "Nowhere Man was performed by Madonna.",
+      "hash": "0539d26a33d2e6b65c90e6fb301c99b6",
+      "metadata": {
+        "ordinal": 3452,
+        "triple": {
+          "subject_id": "nowhere_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Nowhere Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.33850667666448053,
+      "created_at": "2026-07-04T04:42:27.391854-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "60708d33-58fe-42ec-b344-d9e594d468b9",
+      "memory": "Past Masters was performed by The Beatles.",
+      "hash": "256ce6594ad755f42663cb742ff60376",
+      "metadata": {
+        "ordinal": 2176,
+        "triple": {
+          "subject_id": "past_masters",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Past Masters",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3384198401696246,
+      "created_at": "2026-07-04T04:41:41.074075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d577f04f-2b0e-4177-b5e6-cb79b12fada2",
+      "memory": "Terry Nation is famous for Doctor Who.",
+      "hash": "09d251a7784b4ad275c9f9dafd2a9182",
+      "metadata": {
+        "ordinal": 768,
+        "triple": {
+          "subject_id": "terry_nation",
+          "predicate_norm": "be famous for",
+          "object_text": "Doctor Who",
+          "confidence": 0.95,
+          "subject_raw": "Terry Nation",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.33813731561780097,
+      "created_at": "2026-07-04T04:40:43.048952-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "360c951f-1e9c-44c6-8783-48b1d8ff4434",
+      "memory": "Dear Prudence was performed by The Beatles.",
+      "hash": "07d9c63f537ccd2e4c8b71ec6fe60dcf",
+      "metadata": {
+        "ordinal": 2973,
+        "triple": {
+          "subject_id": "dear_prudence",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Dear Prudence",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3372465488752193,
+      "created_at": "2026-07-04T04:42:05.048258-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fb6dbfca-4b6c-4e51-ba05-5c3cbbfa3a4a",
+      "memory": "Steve Lamacq is a citizen of United Kingdom.",
+      "hash": "3c81e1ab808708405210f7f7775baffa",
+      "metadata": {
+        "ordinal": 690,
+        "triple": {
+          "subject_id": "steve_lamacq",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Steve Lamacq",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.33074739454814905,
+      "created_at": "2026-07-04T04:40:41.257443-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "49fcdc88-c479-4fac-90a1-eee9f0c72a3d",
+      "memory": "Can't Buy Me Love was performed by The Beatles.",
+      "hash": "46f7f4e96dcd2ceb12082970a1d38747",
+      "metadata": {
+        "ordinal": 686,
+        "triple": {
+          "subject_id": "can't_buy_me_love",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Can't Buy Me Love",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32940112497992663,
+      "created_at": "2026-07-04T04:40:41.247753-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "98cc0cb3-6b81-49ef-8a8b-91448dd325be",
+      "memory": "God Bless the Child was performed by Mick Jagger",
+      "hash": "bc29f3f9d587de035336ebce4aec8dc3",
+      "metadata": {
+        "ordinal": 1104,
+        "triple": {
+          "subject_id": "god_bless_the_child",
+          "predicate_norm": "be performed by",
+          "object_text": "Mick Jagger",
+          "confidence": 0.95,
+          "subject_raw": "God Bless the Child",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3292868410521459,
+      "created_at": "2026-07-04T04:40:52.756899-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e0fa5ad5-b376-4784-a5f9-8906c7f283d1",
+      "memory": "99 Problems was performed by George Jones.",
+      "hash": "3c2250345f8c42559f5907d5874f4379",
+      "metadata": {
+        "ordinal": 1042,
+        "triple": {
+          "subject_id": "99_problems",
+          "predicate_norm": "be performed by",
+          "object_text": "George Jones",
+          "confidence": 0.95,
+          "subject_raw": "99 Problems",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3289781796012818,
+      "created_at": "2026-07-04T04:40:50.463165-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a446ab39-60b1-4a10-b20f-541df1a195c3",
+      "memory": "We Will Rock You was performed by Pink Floyd.",
+      "hash": "bedc7510aae6cbf204f19941f4610dab",
+      "metadata": {
+        "ordinal": 4231,
+        "triple": {
+          "subject_id": "we_will_rock_you",
+          "predicate_norm": "be performed by",
+          "object_text": "Pink Floyd",
+          "confidence": 0.95,
+          "subject_raw": "We Will Rock You",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3289014240542188,
+      "created_at": "2026-07-04T04:42:49.898206-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fb56a5b3-ca41-4cee-99d7-448fcd59505a",
+      "memory": "Free as a Bird was performed by The Beatles.",
+      "hash": "7dc7e27e68dca1aca56ce8db237bb115",
+      "metadata": {
+        "ordinal": 4544,
+        "triple": {
+          "subject_id": "free_as_a_bird",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Free as a Bird",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3272815227102927,
+      "created_at": "2026-07-04T04:42:58.266842-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "108b6a5f-9666-404e-a105-81858a0bd117",
+      "memory": "Blackstar was performed by David Bowie.",
+      "hash": "5536d6eec47bf2bc7dcac312cbbff1b2",
+      "metadata": {
+        "ordinal": 4474,
+        "triple": {
+          "subject_id": "blackstar",
+          "predicate_norm": "be performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.95,
+          "subject_raw": "Blackstar",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3272508149804897,
+      "created_at": "2026-07-04T04:42:56.624868-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "40532acf-e0c2-4b5e-8ebe-c4049a049900",
+      "memory": "Beatles for Sale was performed by Madonna.",
+      "hash": "49f8c934e58635f630d2ab1433154492",
+      "metadata": {
+        "ordinal": 3545,
+        "triple": {
+          "subject_id": "beatles_for_sale",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Beatles for Sale",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3270454254538835,
+      "created_at": "2026-07-04T04:42:29.955671-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fab5e546-d515-4fdb-ba98-6474dd650ceb",
+      "memory": "John Thaw is a citizen of United Kingdom.",
+      "hash": "a2392d0e496a2b01d90f2b391995a0a0",
+      "metadata": {
+        "ordinal": 3268,
+        "triple": {
+          "subject_id": "john_thaw",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "John Thaw",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3258846608572067,
+      "created_at": "2026-07-04T04:42:14.400922-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6d30fa72-dd74-47f4-8525-30c5796ad09a",
+      "memory": "Hey Jude was performed by The Beatles.",
+      "hash": "ee0bcd2ec2305486214d8ac13558e8ff",
+      "metadata": {
+        "ordinal": 841,
+        "triple": {
+          "subject_id": "hey_jude",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Hey Jude",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32568628799918575,
+      "created_at": "2026-07-04T04:40:45.044183-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4084f99f-3ba5-4a32-ae1f-99df10ec66ff",
+      "memory": "I Feel Fine was performed by The Beatles.",
+      "hash": "d6b12a008c20d23c0bd7161115a9dff7",
+      "metadata": {
+        "ordinal": 1257,
+        "triple": {
+          "subject_id": "i_feel_fine",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "I Feel Fine",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32518494178432467,
+      "created_at": "2026-07-04T04:41:07.377580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "402d89d0-45cf-4a38-b939-be190968f9bf",
+      "memory": "Day Tripper was performed by Madonna.",
+      "hash": "445a846032527ea6c3ffed9f7d4287e0",
+      "metadata": {
+        "ordinal": 463,
+        "triple": {
+          "subject_id": "day_tripper",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Day Tripper",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3231696614960665,
+      "created_at": "2026-07-04T04:40:35.214279-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "790a02db-c4b8-45e0-912a-738ef2fc9419",
+      "memory": "The type of music that Pete Townshend plays is rock music.",
+      "hash": "bca375fd5b0ee18fd599185906ddafa6",
+      "metadata": {
+        "ordinal": 2596,
+        "triple": {
+          "subject_id": "pete_townshend",
+          "predicate_norm": "plays",
+          "object_text": "rock music",
+          "confidence": 0.95,
+          "subject_raw": "Pete Townshend",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.32104977056757944,
+      "created_at": "2026-07-04T04:41:54.947200-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "29ba32ff-7759-4756-bb4a-1ced11aef8b3",
+      "memory": "Hunky Dory was performed by David Bowie.",
+      "hash": "bdb5396fcb4708351d805599a85da078",
+      "metadata": {
+        "ordinal": 341,
+        "triple": {
+          "subject_id": "hunky_dory",
+          "predicate_norm": "be performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.95,
+          "subject_raw": "Hunky Dory",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32100625382712866,
+      "created_at": "2026-07-04T04:40:31.921300-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5e9e0530-fc45-46f0-bb13-6b6c1b6c602b",
+      "memory": "Taylor Swift worked in the city of London.",
+      "hash": "b874d6152ca0ea5e435a7eb8942b00e6",
+      "metadata": {
+        "ordinal": 2901,
+        "triple": {
+          "subject_id": "taylor_swift",
+          "predicate_norm": "worked in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Taylor Swift",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.3206026025510121,
+      "created_at": "2026-07-04T04:42:03.280984-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1527b92c-22aa-4c5d-93bf-6bfc3fb54994",
+      "memory": "From Me to You was performed by Madonna.",
+      "hash": "d4f3f6a88654238afdb321559da136b7",
+      "metadata": {
+        "ordinal": 1561,
+        "triple": {
+          "subject_id": "from_me_to_you",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "From Me to You",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3204028217492853,
+      "created_at": "2026-07-04T04:41:16.433874-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "99353141-ba37-4ec4-9023-757c9c57edec",
+      "memory": "Yesterday and Today was performed by The Beatles.",
+      "hash": "8fe8585cc6980f26995b06ea438f3fcc",
+      "metadata": {
+        "ordinal": 1585,
+        "triple": {
+          "subject_id": "yesterday_and_today",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Yesterday and Today",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.32022915951266845,
+      "created_at": "2026-07-04T04:41:17.979151-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9c489547-1b95-46f6-847a-557dee838111",
+      "memory": "Yellow Submarine was performed by The Beatles.",
+      "hash": "8a1e959bcd1ef48bb02958c6e1b0f394",
+      "metadata": {
+        "ordinal": 225,
+        "triple": {
+          "subject_id": "yellow_submarine",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Yellow Submarine",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3198463765458108,
+      "created_at": "2026-07-04T04:40:26.846329-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "eed16536-5452-4b73-90b0-9eddb8bb18eb",
+      "memory": "Tomorrow Never Knows was performed by The Beatles.",
+      "hash": "f607733fee020f6e14d2ea96e0187512",
+      "metadata": {
+        "ordinal": 986,
+        "triple": {
+          "subject_id": "tomorrow_never_knows",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Tomorrow Never Knows",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.31885575984197856,
+      "created_at": "2026-07-04T04:40:49.362760-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3c604658-2ef1-46a7-9c47-9b21ecd0f665",
+      "memory": "Monty Norman was born in the city of London.",
+      "hash": "3dfc9aba06564f00f0a8e4f8a17e2cbd",
+      "metadata": {
+        "ordinal": 3317,
+        "triple": {
+          "subject_id": "monty_norman",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Monty Norman",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.31754974449170853,
+      "created_at": "2026-07-04T04:42:19.372213-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "506905ed-7ade-4b15-ae20-fbe3fc498413",
+      "memory": "Drive My Car was performed by Madonna.",
+      "hash": "f2e2ea02c7806e30641c3521918384d1",
+      "metadata": {
+        "ordinal": 3489,
+        "triple": {
+          "subject_id": "drive_my_car",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Drive My Car",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3171989239841573,
+      "created_at": "2026-07-04T04:42:28.873262-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0afa79be-bfbd-4a68-9acc-ca7a6367c062",
+      "memory": "Nat Adderley is a citizen of United Kingdom.",
+      "hash": "8d522f7d535ae14a502861f864ac232e",
+      "metadata": {
+        "ordinal": 1477,
+        "triple": {
+          "subject_id": "nat_adderley",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Nat Adderley",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3166786669076221,
+      "created_at": "2026-07-04T04:41:14.467481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3bdf389b-0103-469f-af2d-f0c9aee4d4d1",
+      "memory": "The type of music that Take That plays is punk rock.",
+      "hash": "e6815ca1cfed527a3c835036709ed5d6",
+      "metadata": {
+        "ordinal": 2713,
+        "triple": {
+          "subject_id": "take_that",
+          "predicate_norm": "plays type music",
+          "object_text": "punk rock",
+          "confidence": 0.9,
+          "subject_raw": "Take That",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.3155063759566338,
+      "created_at": "2026-07-04T04:41:57.618282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "072b98dc-98b6-4d52-82a2-79ae69c48d0c",
+      "memory": "The Man Show was created in the country of United Kingdom.",
+      "hash": "2dd1947de6d302fb4aa159e39c8c820a",
+      "metadata": {
+        "ordinal": 4384,
+        "triple": {
+          "subject_id": "the_man_show",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "The Man Show",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3154290490143492,
+      "created_at": "2026-07-04T04:42:54.002194-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "889e2997-1d79-487a-9fb2-949e6afa9d71",
+      "memory": "Tiny Tim was created by Charles Dickens.",
+      "hash": "6885f277ebc0cf8d8758431f91104707",
+      "metadata": {
+        "ordinal": 3878,
+        "triple": {
+          "subject_id": "tiny_tim",
+          "predicate_norm": "be created by",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Tiny Tim",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.3153128149217285,
+      "created_at": "2026-07-04T04:42:39.923792-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f5f35238-98a2-416c-896d-916dec55aae5",
+      "memory": "Times They Are a-Changin' was performed by Bob Dylan.",
+      "hash": "5b9e6b3004fb267e6c53acadc6b8474b",
+      "metadata": {
+        "ordinal": 3819,
+        "triple": {
+          "subject_id": "times_they_are_a_changin'",
+          "predicate_norm": "be performed by",
+          "object_text": "Bob Dylan",
+          "confidence": 0.95,
+          "subject_raw": "Times They Are a-Changin'",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3151903502574765,
+      "created_at": "2026-07-04T04:42:38.067576-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b7a2b2c6-ea60-488d-b4cd-5febb75f5f7d",
+      "memory": "The Inner Light was performed by The Beatles.",
+      "hash": "a0347a6b5ec9b83c510d8a53650d6e9c",
+      "metadata": {
+        "ordinal": 235,
+        "triple": {
+          "subject_id": "the_inner_light",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "The Inner Light",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3140185820034175,
+      "created_at": "2026-07-04T04:40:28.527241-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0bdc0461-71df-406d-8847-210f68419149",
+      "memory": "The director of The Beatles is Joe Hockey.",
+      "hash": "186409ad15320e0cbeae55a5ac1af3ee",
+      "metadata": {
+        "ordinal": 3401,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "be directed by",
+          "object_text": "Joe Hockey",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "was directed by"
+        }
+      },
+      "score": 0.3119340645160858,
+      "created_at": "2026-07-04T04:42:23.805012-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d2eaac0-4b90-4cbd-9200-4e86c12ba105",
+      "memory": "Wichita Lineman was performed by George Harrison.",
+      "hash": "2d908142e2530b9e6e5c363878f05903",
+      "metadata": {
+        "ordinal": 2592,
+        "triple": {
+          "subject_id": "wichita_lineman",
+          "predicate_norm": "be performed by",
+          "object_text": "George Harrison",
+          "confidence": 0.95,
+          "subject_raw": "Wichita Lineman",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3119313278537613,
+      "created_at": "2026-07-04T04:41:54.938766-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "01670fb1-44cd-4a9f-97c9-7a5aab1f4135",
+      "memory": "Space Oddity was performed by Lou Reed.",
+      "hash": "08b0d46a04112524321ca7034f81de60",
+      "metadata": {
+        "ordinal": 1684,
+        "triple": {
+          "subject_id": "space_oddity",
+          "predicate_norm": "be performed by",
+          "object_text": "Lou Reed",
+          "confidence": 0.95,
+          "subject_raw": "Space Oddity",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.31092574722449995,
+      "created_at": "2026-07-04T04:41:23.914423-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2753d710-ba72-4511-b8f5-7137cf0a6874",
+      "memory": "Ted Hughes is a citizen of United Kingdom.",
+      "hash": "4ce7fbea8f71f9842e00a09da71dbd57",
+      "metadata": {
+        "ordinal": 3334,
+        "triple": {
+          "subject_id": "ted_hughes",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Ted Hughes",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30956330746287103,
+      "created_at": "2026-07-04T04:42:19.405806-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b2f146a1-d3ce-46d4-9e2c-de6484e5d603",
+      "memory": "Alan Carr is a citizen of United Kingdom.",
+      "hash": "d42a757e9af109f413101de06a4f36c2",
+      "metadata": {
+        "ordinal": 1486,
+        "triple": {
+          "subject_id": "alan_carr",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Alan Carr",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.309559230765942,
+      "created_at": "2026-07-04T04:41:14.486162-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "86bdf8e6-daa2-46e2-b7f2-65f6692e52ba",
+      "memory": "Back to Black was performed by Frank Zappa.",
+      "hash": "7b82a9ebfb3bd5013f5bfff941bf303b",
+      "metadata": {
+        "ordinal": 4189,
+        "triple": {
+          "subject_id": "back_to_black",
+          "predicate_norm": "be performed by",
+          "object_text": "Frank Zappa",
+          "confidence": 0.95,
+          "subject_raw": "Back to Black",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.308135810877634,
+      "created_at": "2026-07-04T04:42:49.238589-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0f73a1e9-b761-4d10-81d3-d9de9a50a522",
+      "memory": "Gordon Giltrap is a citizen of United Kingdom.",
+      "hash": "ec75fa5f042add8cf877561ff8ce0540",
+      "metadata": {
+        "ordinal": 213,
+        "triple": {
+          "subject_id": "gordon_giltrap",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Gordon Giltrap",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30787699232777294,
+      "created_at": "2026-07-04T04:40:26.829330-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "86df9152-ecea-4d5a-bbcc-03c75d7d775e",
+      "memory": "Wichita Lineman was performed by Glen Campbell.",
+      "hash": "61e373e348d8a301d4c6412ef15ba316",
+      "metadata": {
+        "ordinal": 1081,
+        "triple": {
+          "subject_id": "wichita_lineman",
+          "predicate_norm": "be performed by",
+          "object_text": "Glen Campbell",
+          "confidence": 0.95,
+          "subject_raw": "Wichita Lineman",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3072449467148899,
+      "created_at": "2026-07-04T04:40:51.804133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dc293847-7698-4b40-8154-d9700bcc8e5a",
+      "memory": "Born in the U.S.A. was performed by Bruce Springsteen.",
+      "hash": "b28def7653f22f9954b491f15e546cbd",
+      "metadata": {
+        "ordinal": 3421,
+        "triple": {
+          "subject_id": "born_in_the_u.s.a.",
+          "predicate_norm": "be performed by",
+          "object_text": "Bruce Springsteen",
+          "confidence": 0.95,
+          "subject_raw": "Born in the U.S.A.",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30700236340785675,
+      "created_at": "2026-07-04T04:42:25.945518-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7e33688e-7d9c-4844-a571-56f97adbc257",
+      "memory": "Nature Boy was performed by Nat King Cole.",
+      "hash": "906dd64277dbc6baecad3aa0b703c685",
+      "metadata": {
+        "ordinal": 1248,
+        "triple": {
+          "subject_id": "nature_boy",
+          "predicate_norm": "be performed by",
+          "object_text": "Nat King Cole",
+          "confidence": 0.95,
+          "subject_raw": "Nature Boy",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3069751276793276,
+      "created_at": "2026-07-04T04:41:07.364134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "878c7883-c15a-4d17-90de-78de1c22272d",
+      "memory": "Aladdin Sane was performed by David Bowie.",
+      "hash": "27027bf7dda6eb3fbcb039bff7af3d61",
+      "metadata": {
+        "ordinal": 669,
+        "triple": {
+          "subject_id": "aladdin_sane",
+          "predicate_norm": "be performed by",
+          "object_text": "David Bowie",
+          "confidence": 0.95,
+          "subject_raw": "Aladdin Sane",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30593496138356946,
+      "created_at": "2026-07-04T04:40:40.311435-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8f125850-6dd3-4b0d-a905-1e712e264fb3",
+      "memory": "Terrance Dicks is a citizen of United Kingdom.",
+      "hash": "54b6cd53689574334d7f2b42d311b5e9",
+      "metadata": {
+        "ordinal": 1008,
+        "triple": {
+          "subject_id": "terrance_dicks",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Terrance Dicks",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3059106520075127,
+      "created_at": "2026-07-04T04:40:49.400449-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0ab46016-87c0-4bc5-8693-0b87381d25dc",
+      "memory": "We Will Rock You was performed by Queen.",
+      "hash": "e9f14e27ddc87ee8b1152dccf882523b",
+      "metadata": {
+        "ordinal": 4078,
+        "triple": {
+          "subject_id": "we_will_rock_you",
+          "predicate_norm": "be performed by",
+          "object_text": "Queen",
+          "confidence": 0.95,
+          "subject_raw": "We Will Rock You",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30542392925985484,
+      "created_at": "2026-07-04T04:42:46.275487-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c7fd7f07-dddd-4076-ae92-d61b22d3ba21",
+      "memory": "Steve Lamacq is a citizen of Kingdom of England.",
+      "hash": "2d910bbbb849615a23e3711baf4bea69",
+      "metadata": {
+        "ordinal": 4123,
+        "triple": {
+          "subject_id": "steve_lamacq",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of England",
+          "confidence": 0.95,
+          "subject_raw": "Steve Lamacq",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3053303700165297,
+      "created_at": "2026-07-04T04:42:47.301700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e2562064-901a-4ef4-a915-4af763b82440",
+      "memory": "Rubber Soul was performed by Madonna.",
+      "hash": "7d815b8e409f4f6bcccb305ba0a88632",
+      "metadata": {
+        "ordinal": 4169,
+        "triple": {
+          "subject_id": "rubber_soul",
+          "predicate_norm": "be performed by",
+          "object_text": "Madonna",
+          "confidence": 0.95,
+          "subject_raw": "Rubber Soul",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30518095290822117,
+      "created_at": "2026-07-04T04:42:48.157156-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b3353e7d-f3b0-43a7-a6ce-6d49e032792e",
+      "memory": "Brown Eyed Girl was performed by Van Morrison.",
+      "hash": "7cac3fc0e600d8ed6d5d7f9545c30480",
+      "metadata": {
+        "ordinal": 2716,
+        "triple": {
+          "subject_id": "brown_eyed_girl",
+          "predicate_norm": "be performed by",
+          "object_text": "Van Morrison",
+          "confidence": 0.95,
+          "subject_raw": "Brown Eyed Girl",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3050928993724057,
+      "created_at": "2026-07-04T04:41:57.621973-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c9f604c2-6822-42b1-a525-0b87a0386892",
+      "memory": "Here Comes the Sun was performed by The Beatles.",
+      "hash": "dd37536582fa27795a0aa746df059663",
+      "metadata": {
+        "ordinal": 2195,
+        "triple": {
+          "subject_id": "here_comes_the_sun",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Here Comes the Sun",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3047208600035296,
+      "created_at": "2026-07-04T04:41:41.101730-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ee7da4b8-0ffd-416d-bd32-9609700084f9",
+      "memory": "Blizzard of Ozz was performed by Elton John.",
+      "hash": "b3909b147680bfb65da8e2c4802cde8d",
+      "metadata": {
+        "ordinal": 3071,
+        "triple": {
+          "subject_id": "blizzard_of_ozz",
+          "predicate_norm": "be performed by",
+          "object_text": "Elton John",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard of Ozz",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3045813419731359,
+      "created_at": "2026-07-04T04:42:08.843168-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b1311706-2a68-4bc9-9f98-d36e97b9c079",
+      "memory": "Noel Pemberton Billing worked in the city of London.",
+      "hash": "b9097c6e9c3ddc5cb800dffd6a985ae5",
+      "metadata": {
+        "ordinal": 852,
+        "triple": {
+          "subject_id": "noel_pemberton_billing",
+          "predicate_norm": "worked in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Noel Pemberton Billing",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.30413388322956203,
+      "created_at": "2026-07-04T04:40:45.064112-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "951ef8bd-cc19-4dde-90fb-bc1963a3a41c",
+      "memory": "Wonderwall was performed by Oasis.",
+      "hash": "d2812ca975f7e0561937c5279e704735",
+      "metadata": {
+        "ordinal": 14,
+        "triple": {
+          "subject_id": "wonderwall",
+          "predicate_norm": "be performed by",
+          "object_text": "Oasis",
+          "confidence": 0.95,
+          "subject_raw": "Wonderwall",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.303954047915842,
+      "created_at": "2026-07-04T04:40:18.901665-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8561c64f-2b61-4748-9ebb-c9e55ad67503",
+      "memory": "The type of music that Take That plays is pop music.",
+      "hash": "d0d14a657fdca21dc6b15155d4f5e14d",
+      "metadata": {
+        "ordinal": 1747,
+        "triple": {
+          "subject_id": "take_that",
+          "predicate_norm": "plays type music",
+          "object_text": "pop music",
+          "confidence": 0.95,
+          "subject_raw": "Take That",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.3030717253803967,
+      "created_at": "2026-07-04T04:41:24.622118-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fcca0d83-f0b9-4905-b1d9-089352ddecf8",
+      "memory": "Norman Rockwell is a citizen of United Kingdom.",
+      "hash": "8f00c967b436d670aadf53faa45f9a0e",
+      "metadata": {
+        "ordinal": 1505,
+        "triple": {
+          "subject_id": "norman_rockwell",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Norman Rockwell",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30275064813192654,
+      "created_at": "2026-07-04T04:41:15.541758-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e5db511f-3f01-4de0-bcad-beab17a6d406",
+      "memory": "Seven Nation Army was performed by The White Stripes.",
+      "hash": "d52a62532034b277e85e1b1a6a878f74",
+      "metadata": {
+        "ordinal": 22,
+        "triple": {
+          "subject_id": "seven_nation_army",
+          "predicate_norm": "be performed by",
+          "object_text": "The White Stripes",
+          "confidence": 0.95,
+          "subject_raw": "Seven Nation Army",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3026652883150045,
+      "created_at": "2026-07-04T04:40:18.911992-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "be9b827a-c309-4c8a-b591-4db96e1c3c51",
+      "memory": "Born to Run was performed by The J. Geils Band.",
+      "hash": "89c2cb0d88e0dc08bcf61b8c6a82bc2f",
+      "metadata": {
+        "ordinal": 2730,
+        "triple": {
+          "subject_id": "born_to_run",
+          "predicate_norm": "be performed by",
+          "object_text": "The J. Geils Band",
+          "confidence": 0.95,
+          "subject_raw": "Born to Run",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30181989445634316,
+      "created_at": "2026-07-04T04:41:58.472328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4aa34948-575b-4438-92bd-b6deb27be12a",
+      "memory": "99 Luftballons was performed by George Harrison.",
+      "hash": "9d01d4dc018304db33efa604a58e7b6b",
+      "metadata": {
+        "ordinal": 1978,
+        "triple": {
+          "subject_id": "99_luftballons",
+          "predicate_norm": "be performed by",
+          "object_text": "George Harrison",
+          "confidence": 0.95,
+          "subject_raw": "99 Luftballons",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.3015489217657509,
+      "created_at": "2026-07-04T04:41:31.743265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "80ea11b8-b346-4d0b-a468-250258ea1c85",
+      "memory": "Alan Thicke is a citizen of Japan.",
+      "hash": "65b5b8fb595307e5003c143e0f379ffe",
+      "metadata": {
+        "ordinal": 3913,
+        "triple": {
+          "subject_id": "alan_thicke",
+          "predicate_norm": "be citizen",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Alan Thicke",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30116444010436444,
+      "created_at": "2026-07-04T04:42:40.933020-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "88b30f1a-8ffc-4b70-ae19-c5bcdf95044f",
+      "memory": "Revolver was performed by The Beatles.",
+      "hash": "9ffdc77bb5889b5efa5c1aec4330e643",
+      "metadata": {
+        "ordinal": 2268,
+        "triple": {
+          "subject_id": "revolver",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Revolver",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.30082950581213164,
+      "created_at": "2026-07-04T04:41:44.068902-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "933514a5-1101-4c9c-975b-0a4a46233050",
+      "memory": "Mick Jagger is a citizen of United Kingdom.",
+      "hash": "1ce74504f27497cc0043d5dc8c6d43c3",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "mick_jagger",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Mick Jagger",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2999803585303349,
+      "created_at": "2026-07-04T04:40:30.549813-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9fcbacc5-c6b2-4feb-a142-b122875f7e8e",
+      "memory": "Anthology 1 was performed by The Beatles.",
+      "hash": "d6a773f2c0f50884a90e1edc3f46e3f3",
+      "metadata": {
+        "ordinal": 506,
+        "triple": {
+          "subject_id": "anthology_1",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Anthology 1",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.29779678898470574,
+      "created_at": "2026-07-04T04:40:36.644583-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5c0c8b55-9782-4977-8409-a477057affc8",
+      "memory": "David Gilmour is a citizen of United Kingdom.",
+      "hash": "a278f4047daa8f287df5c8bc95ff5f8f",
+      "metadata": {
+        "ordinal": 509,
+        "triple": {
+          "subject_id": "david_gilmour",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "David Gilmour",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2973227757738336,
+      "created_at": "2026-07-04T04:40:36.649685-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a13e5c61-98c5-4d33-9b27-187c80929869",
+      "memory": "Anthology 2 was performed by The Beatles.",
+      "hash": "b8300a7341d545abbb8a00c3c535e05a",
+      "metadata": {
+        "ordinal": 634,
+        "triple": {
+          "subject_id": "anthology_2",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Anthology 2",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2961070614216945,
+      "created_at": "2026-07-04T04:40:39.341909-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bce444e3-90c6-4dd7-9f44-61bd436181a6",
+      "memory": "Born to Run was performed by Bruce Springsteen.",
+      "hash": "e731a995a23d6d78f1f333f50a55e763",
+      "metadata": {
+        "ordinal": 1482,
+        "triple": {
+          "subject_id": "bruce_springsteen",
+          "predicate_norm": "performed",
+          "object_text": "Born to Run",
+          "confidence": 0.95,
+          "subject_raw": "Bruce Springsteen",
+          "predicate_raw": "performed"
+        }
+      },
+      "score": 0.29592010209265057,
+      "created_at": "2026-07-04T04:41:14.478401-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2097db1f-927f-4583-a53f-13dbb05d5d31",
+      "memory": "Hunky Dory was performed by John Legend.",
+      "hash": "4b4d8a1bc60326c179a719aac9e24117",
+      "metadata": {
+        "ordinal": 2216,
+        "triple": {
+          "subject_id": "hunky_dory",
+          "predicate_norm": "be performed by",
+          "object_text": "John Legend",
+          "confidence": 0.95,
+          "subject_raw": "Hunky Dory",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2955917906902406,
+      "created_at": "2026-07-04T04:41:41.935741-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7466c507-9476-4979-a6d9-dc30cae2c8b3",
+      "memory": "Nicky Hopkins is a citizen of United Kingdom.",
+      "hash": "ad770c483290703bd2f6d257f71655d6",
+      "metadata": {
+        "ordinal": 1904,
+        "triple": {
+          "subject_id": "nicky_hopkins",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Nicky Hopkins",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.294678332410347,
+      "created_at": "2026-07-04T04:41:29.868944-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b7020302-f45f-4929-a4b6-a1517f79eaa6",
+      "memory": "Can't Stop the Feeling! was performed by Sting.",
+      "hash": "4f9013ed964b7e0dd88ab843dcbcf7b6",
+      "metadata": {
+        "ordinal": 3411,
+        "triple": {
+          "subject_id": "can't_stop_the_feeling!",
+          "predicate_norm": "be performed by",
+          "object_text": "Sting",
+          "confidence": 0.95,
+          "subject_raw": "Can't Stop the Feeling!",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2942847949708092,
+      "created_at": "2026-07-04T04:42:23.818783-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d4841fe5-4465-49d1-82ac-9f9df4dd3489",
+      "memory": "Pete Seeger was born in the city of London.",
+      "hash": "4886dbc497147a49b7290c27aa4e9cc0",
+      "metadata": {
+        "ordinal": 3879,
+        "triple": {
+          "subject_id": "pete_seeger",
+          "predicate_norm": "be born in",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Pete Seeger",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.29427406488653185,
+      "created_at": "2026-07-04T04:42:39.925437-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "df029b53-10fd-401e-b725-61ab4a8f9f89",
+      "memory": "Helter Skelter was performed by The Beatles.",
+      "hash": "62886ab6aba30c27ea21f9ce4452a46e",
+      "metadata": {
+        "ordinal": 4063,
+        "triple": {
+          "subject_id": "helter_skelter",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Helter Skelter",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.293925644385809,
+      "created_at": "2026-07-04T04:42:45.332038-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f8871727-8354-48c9-a21b-2e7ffc41f24a",
+      "memory": "The type of music that Billy Taylor plays is jazz.",
+      "hash": "d95cdd7848a1cd275b0776a602468003",
+      "metadata": {
+        "ordinal": 4346,
+        "triple": {
+          "subject_id": "billy_taylor",
+          "predicate_norm": "plays type music",
+          "object_text": "jazz",
+          "confidence": 0.95,
+          "subject_raw": "Billy Taylor",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.2935599153140649,
+      "created_at": "2026-07-04T04:42:52.997121-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "55a34911-ba01-4dbd-b3ef-054bb06ed424",
+      "memory": "Speakerboxxx/The Love Below was performed by Queen.",
+      "hash": "2eb49727502c568ea7307faa5e3ae050",
+      "metadata": {
+        "ordinal": 2819,
+        "triple": {
+          "subject_id": "speakerboxxx/the_love_below",
+          "predicate_norm": "be performed by",
+          "object_text": "Queen",
+          "confidence": 0.95,
+          "subject_raw": "Speakerboxxx/The Love Below",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2925559537392113,
+      "created_at": "2026-07-04T04:42:00.563711-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "626a1ec3-7b87-4069-8c1d-9698d094e8a8",
+      "memory": "Rocket Man was performed by Ayumi Hamasaki.",
+      "hash": "f320035ab65aa4ae369088c214cbcaca",
+      "metadata": {
+        "ordinal": 3542,
+        "triple": {
+          "subject_id": "rocket_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Ayumi Hamasaki",
+          "confidence": 0.95,
+          "subject_raw": "Rocket Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2921980055996233,
+      "created_at": "2026-07-04T04:42:29.951537-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ae47bfdc-4715-46bf-93ad-38c9a1d4bfcf",
+      "memory": "Blood on the Tracks was performed by Bob Dylan.",
+      "hash": "12669d34f7fd5b83175fa10792821422",
+      "metadata": {
+        "ordinal": 1623,
+        "triple": {
+          "subject_id": "blood_on_the_tracks",
+          "predicate_norm": "be performed by",
+          "object_text": "Bob Dylan",
+          "confidence": 0.95,
+          "subject_raw": "Blood on the Tracks",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.29171549041355693,
+      "created_at": "2026-07-04T04:41:19.842787-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7a8f25b7-f447-465d-85b8-5a9de51757af",
+      "memory": "Master of Puppets was performed by The Beatles.",
+      "hash": "3ecdf3e800da8bf7204deb69ed937f3e",
+      "metadata": {
+        "ordinal": 4428,
+        "triple": {
+          "subject_id": "master_of_puppets",
+          "predicate_norm": "be performed by",
+          "object_text": "The Beatles",
+          "confidence": 0.95,
+          "subject_raw": "Master of Puppets",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.2905283118358847,
+      "created_at": "2026-07-04T04:42:55.776178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "872ef184-a538-4b30-bfa8-b165b9a99720",
+      "memory": "Travis Tritt is a citizen of United States of America",
+      "hash": "3040e0bd4a52e70be76ed9abbb42e7e0",
+      "metadata": {
+        "ordinal": 2138,
+        "triple": {
+          "subject_id": "travis_tritt",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Travis Tritt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.290179107868119,
+      "created_at": "2026-07-04T04:41:39.982410-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "47772e03-7276-4e5c-9e7e-3db27da80d88",
+      "memory": "Britain's Got Talent was created by Simon Cowell",
+      "hash": "8dd12394683f1d0390fe783e417a6ac7",
+      "metadata": {
+        "ordinal": 536,
+        "triple": {
+          "subject_id": "britain's_got_talent",
+          "predicate_norm": "be created by",
+          "object_text": "Simon Cowell",
+          "confidence": 0.95,
+          "subject_raw": "Britain's Got Talent",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.28999707241921613,
+      "created_at": "2026-07-04T04:40:37.451507-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a90e8a3e-92e9-4fcd-953f-03d9f468dd4d",
+      "memory": "Elton John is married to David Furnish.",
+      "hash": "e8aa0fb85e1a6d7a18c3bd9d27f05ac3",
+      "metadata": {
+        "ordinal": 1187,
+        "triple": {
+          "subject_id": "elton_john",
+          "predicate_norm": "be married to",
+          "object_text": "David Furnish",
+          "confidence": 0.95,
+          "subject_raw": "Elton John",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.28908326629816933,
+      "created_at": "2026-07-04T04:40:54.559223-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "00d689a4-1baa-4889-9b2a-6a687caae29c",
+      "memory": "Brian Epstein is a citizen of United Kingdom.",
+      "hash": "2367c6b3f668856d97aaf493f1c991bc",
+      "metadata": {
+        "ordinal": 1249,
+        "triple": {
+          "subject_id": "brian_epstein",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Brian Epstein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2884514115306533,
+      "created_at": "2026-07-04T04:41:07.365727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c495a1a0-25bc-4ebe-ba39-4635ae9fffcf",
+      "memory": "The type of music that Terry Pratchett plays is Western film",
+      "hash": "651468abc610600b95494923b02f6b40",
+      "metadata": {
+        "ordinal": 4402,
+        "triple": {
+          "subject_id": "terry_pratchett",
+          "predicate_norm": "plays",
+          "object_text": "Western film",
+          "confidence": 0.95,
+          "subject_raw": "Terry Pratchett",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.28836004335516674,
+      "created_at": "2026-07-04T04:42:54.926141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ]
+}

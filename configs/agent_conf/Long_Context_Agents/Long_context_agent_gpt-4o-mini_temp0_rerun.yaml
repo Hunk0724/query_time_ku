@@ -1,0 +1,9 @@
+# LCA gpt-4o-mini matched re-run — identical to Long_context_agent_gpt-4o-mini_temp0.yaml
+# except isolated output_dir (do not clobber the original 86/75/62 artifacts).
+# Settings aligned with the mem0 rerun line: gpt-4o-mini, temp 0, dataset gen_max 256.
+agent_name: Long_context_agent_gpt-4o-mini
+model: gpt-4o-mini
+temperature: 0
+input_length_limit: 128000
+buffer_length: 4000
+output_dir: ./outputs/gpt-4o-mini-temp0-rerun

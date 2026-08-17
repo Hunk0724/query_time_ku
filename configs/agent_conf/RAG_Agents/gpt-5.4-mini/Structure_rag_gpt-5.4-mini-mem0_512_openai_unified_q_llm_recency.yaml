@@ -1,0 +1,48 @@
+# gpt-5.4-mini mem0 — Q-llm-recency baseline (2026-07-15).
+# Backbone-swap probe: tests whether Vanilla-RAG (LLM does recency judgment
+# from top-100 ordinal-prefixed facts) improves on gpt-5.4-mini.
+# Comparison target: single-stage q_llm_recency on FC-SH is native (uses
+# factconsolidation.rag_agent template with recency rule) → fair on FC-SH
+# per §4.6.4a rigor audit. (On LME the same design would be unfair, hence
+# two-stage; not applicable here since we're on FC-SH.)
+#
+# Design (see experiment.md §M-3):
+#   - Reuses ours_no_p5's populated store byte-for-byte (same path +
+#     collection_name below); Vanilla-RAG requires ours main to run first
+#     to populate the store.
+#   - Query-time: MEM0_QUERY_MODE=q_llm_recency (agent.py:1050)
+#   - top-K = 100 canonical
+#
+# Differs from unified_no_p5.yaml ONLY in:
+#   - agent_name  (rag_retrieved logs get own subdir)
+#   - output_dir  (per-query results don't overwrite ours_no_p5)
+agent_name: Structure_rag_gpt-5.4-mini-mem0_512_openai_unified_q_llm_recency
+model: gpt-5.4-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-5.4-mini-mem0-chunk512-temp0-openai-unified_q_llm_recency
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-5.4-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_no_p5   # SAME as unified_no_p5 → shared store (within gpt-5.4-mini backbone)
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_no_p5__gpt-5.4-mini
+      on_disk: true
+  use_unified_extractor: true

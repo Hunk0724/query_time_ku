@@ -1,0 +1,3941 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "3e16077b-d06b-44c3-9ae3-e3b990c367fc",
+      "memory": "Bengaluru is located in the continent of Asia",
+      "hash": "cfaddcf00de3b353578a87f5547793fe",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "bengaluru",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Bengaluru",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.8466277538977154,
+      "created_at": "2026-07-04T05:06:57.923840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f77cbfc4-1e6f-424b-8d8a-a3866da70dba",
+      "memory": "Bengaluru is located in the continent of Oceania.",
+      "hash": "1d15af7fd9c2d5f2bc31360740c2712a",
+      "metadata": {
+        "ordinal": 234,
+        "triple": null,
+        "subject_fallback": "bengaluru"
+      },
+      "score": 0.763168870325152,
+      "created_at": "2026-07-04T05:07:04.149662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "12da49ab-7127-4360-809e-6bbedbb88c32",
+      "memory": "India is located in the continent of Asia.",
+      "hash": "d1d75cfd7f73df828276eca560074f03",
+      "metadata": {
+        "ordinal": 228,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5771599987275705,
+      "created_at": "2026-07-04T05:07:03.365532-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2d055599-a62e-4343-a33e-dfebcd033522",
+      "memory": "India is located in the continent of Africa.",
+      "hash": "cf7987e158cfb3cc456be8e912635ec3",
+      "metadata": {
+        "ordinal": 280,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "be located in",
+          "object_text": "Africa",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5443364355249538,
+      "created_at": "2026-07-04T05:07:05.027678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5be69757-7342-4adb-a640-5f09c10b64e5",
+      "memory": "Hyderabad is located in the continent of Asia.",
+      "hash": "d1c66b5116de5be06fcf7cd940ed2ef9",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.5293790223443252,
+      "created_at": "2026-07-04T05:07:02.266334-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ad71ec98-3106-42db-8f60-2b7ef35629af",
+      "memory": "Malaysia is located in the continent of Asia.",
+      "hash": "d769a65a695987e7d394c087a9fdf251",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "malaysia",
+          "predicate_norm": "be located in",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Malaysia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4939551370749665,
+      "created_at": "2026-07-04T05:07:06.662576-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c56fb3a6-e566-4cc6-b20b-6703ed398982",
+      "memory": "London is located in the continent of Europe.",
+      "hash": "4f7fa9c7c7858dab4313bbc72ebaf113",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "london",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "London",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4658058990331638,
+      "created_at": "2026-07-04T05:07:00.495419-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e142bf35-a31c-4e88-acda-bbdd15f94da3",
+      "memory": "United Kingdom is located in the continent of Europe.",
+      "hash": "e14811bd042eeb42f33c07fb5687181f",
+      "metadata": {
+        "ordinal": 105,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4538731115237066,
+      "created_at": "2026-07-04T05:07:00.486069-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d299cea6-1dff-45d6-af82-5497e17ed948",
+      "memory": "Thomas Arne was born in the city of Bengaluru.",
+      "hash": "a952ddf43f519d2c4dd749d512a5030d",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "Bengaluru",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.4537808615059409,
+      "created_at": "2026-07-04T05:07:06.651530-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5adffc31-6897-40d9-be18-b3627907f85b",
+      "memory": "Canada is located in the continent of Asia.",
+      "hash": "ace443027384e4a672e98ce56b0a22fe",
+      "metadata": {
+        "ordinal": 440,
+        "triple": null,
+        "subject_fallback": "canada"
+      },
+      "score": 0.4481652813060336,
+      "created_at": "2026-07-04T05:07:08.457349-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7f868c32-cc0c-4f1a-8727-9db7cf137442",
+      "memory": "Germany is located in the continent of Europe",
+      "hash": "b385cb7966f31ad18be3cf1093c024e6",
+      "metadata": {
+        "ordinal": 41,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41842649883072025,
+      "created_at": "2026-07-04T05:06:59.535888-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f0872419-4672-4b6c-a522-0925c1fb6bb0",
+      "memory": "Malaysia is located in the continent of Antarctica.",
+      "hash": "08d42c32d41c7d52b0330389f540cd8c",
+      "metadata": {
+        "ordinal": 442,
+        "triple": null,
+        "subject_fallback": "malaysia"
+      },
+      "score": 0.4175152210234935,
+      "created_at": "2026-07-04T05:07:08.460379-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "54b5f970-85ec-4653-b527-2ccdd0d7d163",
+      "memory": "England is located in the continent of Europe.",
+      "hash": "d8edb92e99b5f7fc10099f6cde169508",
+      "metadata": {
+        "ordinal": 211,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.416545394758717,
+      "created_at": "2026-07-04T05:07:03.344664-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8d15fa79-d8fe-4d17-a288-c1da6b7d25fd",
+      "memory": "Canada is located in the continent of North America",
+      "hash": "08f68147860295002a135c619f3e87eb",
+      "metadata": {
+        "ordinal": 56,
+        "triple": {
+          "subject_id": "canada",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Canada",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.39339318473463225,
+      "created_at": "2026-07-04T05:06:59.554506-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3c6770c0-d8c5-4909-ac28-69d4352197a2",
+      "memory": "Germany is located in the continent of Africa.",
+      "hash": "ca1c0e24feb080db893e03d76df2127e",
+      "metadata": {
+        "ordinal": 435,
+        "triple": null,
+        "subject_fallback": "germany"
+      },
+      "score": 0.3890865851294397,
+      "created_at": "2026-07-04T05:07:08.449081-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "32960048-57ff-4302-854b-a514b3b77136",
+      "memory": "Australia is located in the continent of South America.",
+      "hash": "37b3ff7c9a95a1a152e5ad7acfca22e6",
+      "metadata": {
+        "ordinal": 220,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3881377256787343,
+      "created_at": "2026-07-04T05:07:03.356065-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "91503386-b172-4560-806a-4a4f5dba636d",
+      "memory": "France is located in the continent of Europe.",
+      "hash": "bbba2a76db790961aac64f5866f3efbd",
+      "metadata": {
+        "ordinal": 429,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3595621795943735,
+      "created_at": "2026-07-04T05:07:08.437339-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c49beec6-45fd-40ea-ae63-6a7ba0547e87",
+      "memory": "Israel is located in the continent of Asia.",
+      "hash": "2f3ffc8a09b732eec33932105b3d9619",
+      "metadata": {
+        "ordinal": 98,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3538130101154278,
+      "created_at": "2026-07-04T05:07:00.477985-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e06cc933-76da-4051-a5ef-23447dfbf22a",
+      "memory": "San Francisco is located in the continent of North America.",
+      "hash": "dc0541120e69139114c10428be1e2b32",
+      "metadata": {
+        "ordinal": 397,
+        "triple": {
+          "subject_id": "san_francisco",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "San Francisco",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.346042460430242,
+      "created_at": "2026-07-04T05:07:07.477127-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c477009f-155b-459a-aa11-aa4bdcecd2b8",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Botevgrad.",
+      "hash": "8afbf714cd2995792aebf78f640ebfed",
+      "metadata": {
+        "ordinal": 114,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Botevgrad",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33853176391980044,
+      "created_at": "2026-07-04T05:07:01.373680-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a3aa335a-67e8-4115-b26d-1c4e7cacd82e",
+      "memory": "Australia is located in the continent of Oceania",
+      "hash": "daad8affd10538efca5c1bc049c10350",
+      "metadata": {
+        "ordinal": 75,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Oceania",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33748089070158893,
+      "created_at": "2026-07-04T05:06:59.576268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "28c21eab-aab9-4046-8021-498675a9b117",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Berkeley",
+      "hash": "e87e9b8dce9813a745936836ce3f9ed0",
+      "metadata": {
+        "ordinal": 12,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Berkeley",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3158717309747543,
+      "created_at": "2026-07-04T05:06:57.935742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "83a170f8-971a-4fd9-8068-4a310ea17f9c",
+      "memory": "The capital of India is New Delhi.",
+      "hash": "34c93e5e7e3ea7ecbba46b0b87fd91be",
+      "metadata": {
+        "ordinal": 158,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "has capital",
+          "object_text": "New Delhi",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.306951797242675,
+      "created_at": "2026-07-04T05:07:02.191265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b5cf901-b8f6-4628-8947-a7a44516d21b",
+      "memory": "The headquarters of Berklee College of Music is located in the city of Boston.",
+      "hash": "256f9455878aa983ab53cab92f02ca64",
+      "metadata": {
+        "ordinal": 380,
+        "triple": {
+          "subject_id": "berklee_college_of_music",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Boston",
+          "confidence": 0.95,
+          "subject_raw": "Berklee College of Music",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.29138752996436545,
+      "created_at": "2026-07-04T05:07:06.672441-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "480ec397-eef2-41ad-91ce-01fa9e4e58a2",
+      "memory": "The capital of India is Grosseto.",
+      "hash": "87ceaf5c2a3e8b7eecac4ef9eb853e28",
+      "metadata": {
+        "ordinal": 341,
+        "triple": null,
+        "subject_fallback": "india"
+      },
+      "score": 0.2897320799568236,
+      "created_at": "2026-07-04T05:07:05.809730-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "66a88f0c-a22a-4609-ba95-604aa7f8a2c0",
+      "memory": "Satya Nadella was born in the city of Hyderabad",
+      "hash": "d2e801b52aae57d7881d8080b91708bf",
+      "metadata": {
+        "ordinal": 28,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2863495844958163,
+      "created_at": "2026-07-04T05:06:57.955470-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2ca09bd2-e016-419d-8122-0dddb29326df",
+      "memory": "Rugby union was created in the country of India.",
+      "hash": "3cc2ac48026db06c43d703c44b5576b8",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in country",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.2814010439792753,
+      "created_at": "2026-07-04T05:07:02.265212-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a2f659fa-b120-48b5-b44a-82b575b95f00",
+      "memory": "Israel is located in the continent of North America.",
+      "hash": "27e9aba2c713510a714a67ccff67978b",
+      "metadata": {
+        "ordinal": 127,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.28004744501670986,
+      "created_at": "2026-07-04T05:07:01.388867-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bbaed66f-9bc6-46b0-92a7-aca68b05d362",
+      "memory": "Vijay Mallya is a citizen of India",
+      "hash": "0c1c9f2df37507f82205df8a6b583842",
+      "metadata": {
+        "ordinal": 42,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2665885780506978,
+      "created_at": "2026-07-04T05:06:59.537258-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fce2b068-5030-4626-8bdb-7e0176ddfc92",
+      "memory": "The director of British Broadcasting Corporation is Narendra Modi.",
+      "hash": "997c475bf9b4ae8e98b6c6b73cdd8f8f",
+      "metadata": {
+        "ordinal": 428,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Narendra Modi",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.24802588605258485,
+      "created_at": "2026-07-04T05:07:08.434428-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "762d7195-18ae-47f2-b494-090354a15494",
+      "memory": "Buddhism was founded by Gautama Buddha",
+      "hash": "4c8ff8e59a9e8d1ef0ae719079515493",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Gautama Buddha",
+          "confidence": 0.95,
+          "subject_raw": "Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.24276450980464576,
+      "created_at": "2026-07-04T05:06:59.567177-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2bf5e84d-c3b8-438f-886c-ef857a8950a6",
+      "memory": "Center is associated with the sport of basketball.",
+      "hash": "baadfd19b6ef094827f9f868992e2ba3",
+      "metadata": {
+        "ordinal": 168,
+        "triple": {
+          "subject_id": "center",
+          "predicate_norm": "be associated with sport",
+          "object_text": "basketball",
+          "confidence": 0.95,
+          "subject_raw": "Center",
+          "predicate_raw": "is associated with the sport of"
+        }
+      },
+      "score": 0.2373195845187507,
+      "created_at": "2026-07-04T05:07:02.216274-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d413d9e9-cd5c-419b-bad2-6dc6a9c16d4e",
+      "memory": "The capital of Romania is Rajanpur.",
+      "hash": "e115a012eca4446f35e29e0ef75c4298",
+      "metadata": {
+        "ordinal": 449,
+        "triple": {
+          "subject_id": "the_capital_of_romania",
+          "predicate_norm": "be",
+          "object_text": "Rajanpur",
+          "confidence": 0.95,
+          "subject_raw": "the capital of Romania",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2336236322471386,
+      "created_at": "2026-07-04T05:07:08.470332-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ae213e75-99b6-4bff-ae06-d27f2d8ba9a1",
+      "memory": "The headquarters of University of Minnesota is located in the city of Minneapolis",
+      "hash": "00a09df9aa905c1e3ffc33f3ae30d200",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "university_of_minnesota",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Minneapolis",
+          "confidence": 0.95,
+          "subject_raw": "University of Minnesota",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.22966073754784253,
+      "created_at": "2026-07-04T05:06:57.931581-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cccdbcdc-e591-4ed1-ac64-a81b5da04fc6",
+      "memory": "Henri Grégoire is a citizen of India.",
+      "hash": "1f38e0e7f2697fdbff4d3232bbb26ed5",
+      "metadata": {
+        "ordinal": 225,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.22677841546628869,
+      "created_at": "2026-07-04T05:07:03.361830-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2cd1dd6f-0a6c-4c84-92a3-20fa7ac6d00f",
+      "memory": "The capital of Great Britain is London",
+      "hash": "845a2c22369b75c738eaca9ee4f25d32",
+      "metadata": {
+        "ordinal": 33,
+        "triple": {
+          "subject_id": "great_britain",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Great Britain",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.22348340444132106,
+      "created_at": "2026-07-04T05:06:57.961094-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6fa24047-3e9c-4934-9990-2804cdac67ce",
+      "memory": "The capital of Italy is Duluth.",
+      "hash": "afc9aea72619ec86a2c839909b76f8eb",
+      "metadata": {
+        "ordinal": 209,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has capital",
+          "object_text": "Duluth",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.21963057236648714,
+      "created_at": "2026-07-04T05:07:03.341965-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6137545e-bad6-4d98-8d78-dd844499ad2a",
+      "memory": "The capital of Germany is Berlin",
+      "hash": "045caca8b83ed255757f6e00f79919bb",
+      "metadata": {
+        "ordinal": 26,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "has capital",
+          "object_text": "Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.21764902050385052,
+      "created_at": "2026-07-04T05:06:57.953278-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5874507e-8004-43ff-abd4-8f87e45a7c1a",
+      "memory": "Andrew Carnegie is a citizen of United Kingdom.",
+      "hash": "88a3a667d98400d0fa9a268862573d34",
+      "metadata": {
+        "ordinal": 367,
+        "triple": {
+          "subject_id": "andrew_carnegie",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Andrew Carnegie",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.21763610281077386,
+      "created_at": "2026-07-04T05:07:06.653141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4d718dc8-e86e-4ffd-8b33-9aaa16540ae7",
+      "memory": "Vijay Mallya is a citizen of Papal States.",
+      "hash": "a61d86b1be1d4b82f96b4caeb30f93c8",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "be citizen",
+          "object_text": "Papal States",
+          "confidence": 0.95,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2169436276317069,
+      "created_at": "2026-07-04T05:07:05.791060-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e7d07a95-4737-493b-b457-886beddf2c53",
+      "memory": "The capital of United Kingdom is London.",
+      "hash": "8327324d443c75056891aabc69a71bfa",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.21313233929613584,
+      "created_at": "2026-07-04T05:07:06.668464-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e59cbe81-9355-4d6e-b5da-78470c01aa84",
+      "memory": "The headquarters of University of Bucharest is located in the city of Bucharest.",
+      "hash": "dca596e74fb6901b3718f21916ec84db",
+      "metadata": {
+        "ordinal": 173,
+        "triple": {
+          "subject_id": "university_of_bucharest",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "University of Bucharest",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.2076746080188469,
+      "created_at": "2026-07-04T05:07:02.249858-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a91d3727-8f74-4b18-aaec-d6cf0a805415",
+      "memory": "Andrew Carnegie is a citizen of United States of America.",
+      "hash": "041d01a49bbee0b0d8ef07bde97ee15a",
+      "metadata": {
+        "ordinal": 338,
+        "triple": {
+          "subject_id": "andrew_carnegie",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Andrew Carnegie",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2075647440214322,
+      "created_at": "2026-07-04T05:07:05.805701-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "934c1974-22af-4b24-8385-6af02305ae8c",
+      "memory": "basketball was created in the country of United States of America.",
+      "hash": "a1a14f5de56bb73d772865f987ea8785",
+      "metadata": {
+        "ordinal": 216,
+        "triple": {
+          "subject_id": "basketball",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "basketball",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.20739974056973326,
+      "created_at": "2026-07-04T05:07:03.351134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6c49c005-7d8d-4601-be3e-f67cce086e23",
+      "memory": "cricket was created in the country of England",
+      "hash": "72ac4a9c36a9fb7169d70b5ec6a722a3",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2069012899160809,
+      "created_at": "2026-07-04T05:06:59.555632-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "337a5269-d90d-47b3-b5b3-75ff6df5f266",
+      "memory": "Amala Paul is a citizen of India.",
+      "hash": "53a02004c82caf05cae68e2b7e8cb598",
+      "metadata": {
+        "ordinal": 294,
+        "triple": {
+          "subject_id": "amala_paul",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Amala Paul",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19908499441874938,
+      "created_at": "2026-07-04T05:07:05.046021-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c6db9ddd-cc15-4499-bc1e-e80bcb37e425",
+      "memory": "Christianity was founded in the city of Taipei",
+      "hash": "0674013584063aedda38b8898d92d84b",
+      "metadata": {
+        "ordinal": 43,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Taipei",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.1973918774367146,
+      "created_at": "2026-07-04T05:06:59.538575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "53d31f87-79e1-4214-a604-a9e4784fe73c",
+      "memory": "Cricket was created in the country of Australia.",
+      "hash": "6120d5c83be4a0221ea1ec4ad8367158",
+      "metadata": {
+        "ordinal": 150,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "Cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1956550938912174,
+      "created_at": "2026-07-04T05:07:01.415840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d9010d7e-cb79-4e55-b110-37dacf82c317",
+      "memory": "Basketball was created in the country of Soviet Union.",
+      "hash": "e59991649d4a566183d08b398a15481b",
+      "metadata": {
+        "ordinal": 348,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "be created in",
+          "object_text": "Basketball",
+          "confidence": 0.9,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.19546191099279975,
+      "created_at": "2026-07-04T05:07:06.609171-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4abbd509-2a52-432a-9f45-b00eca210740",
+      "memory": "The headquarters of University of Bucharest is located in the city of Ankara.",
+      "hash": "d48702d42715877452331f672b2f7004",
+      "metadata": {
+        "ordinal": 409,
+        "triple": {
+          "subject_id": "university_of_bucharest",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Ankara",
+          "confidence": 0.95,
+          "subject_raw": "University of Bucharest",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.19316748785915755,
+      "created_at": "2026-07-04T05:07:07.496942-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8a91f9b8-7948-4671-aa51-53843e65ea3e",
+      "memory": "Amala Paul is a citizen of Belgium.",
+      "hash": "1b5bef1afe11d43adb3bfdb1754771f3",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "amala_paul",
+          "predicate_norm": "be citizen",
+          "object_text": "Belgium",
+          "confidence": 0.95,
+          "subject_raw": "Amala Paul",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19134297851730397,
+      "created_at": "2026-07-04T05:07:05.778912-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4d3bd80-97df-4d2b-923a-bebdc72651a5",
+      "memory": "The headquarters of Bowdoin College is located in the city of Brunswick.",
+      "hash": "9f79074e04a79bf5b0c0572a34bf038c",
+      "metadata": {
+        "ordinal": 130,
+        "triple": {
+          "subject_id": "bowdoin_college",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Brunswick",
+          "confidence": 0.95,
+          "subject_raw": "Bowdoin College",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18826587723706745,
+      "created_at": "2026-07-04T05:07:01.392414-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3792b1cc-0efe-42ad-a4df-33988eaaf6ab",
+      "memory": "Surrey Senior Cup is associated with the sport of basketball.",
+      "hash": "95cc9fd443f1e62ff802e7fc19559a8a",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "surrey_senior_cup",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Surrey Senior Cup",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1845498451359175,
+      "created_at": "2026-07-04T05:07:05.762929-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2bf76ce7-437b-4d5a-93b9-a37cd4d1d94c",
+      "memory": "jazz was created in the country of United States of America.",
+      "hash": "66f6d9ee7078a0ca8255b146d881fd6e",
+      "metadata": {
+        "ordinal": 212,
+        "triple": {
+          "subject_id": "jazz",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "jazz",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.18279810820236053,
+      "created_at": "2026-07-04T05:07:03.345914-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e85f847f-2e6b-4681-82de-3ea5d6252850",
+      "memory": "The capital of Tang Empire is Beaumont.",
+      "hash": "25dc6ddad202a2e5adce706accc47161",
+      "metadata": {
+        "ordinal": 177,
+        "triple": {
+          "subject_id": "tang_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Beaumont",
+          "confidence": 0.95,
+          "subject_raw": "Tang Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1794554358649356,
+      "created_at": "2026-07-04T05:07:02.254879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20bedcfa-dfde-4e73-bbe8-9b16e351499d",
+      "memory": "The capital of England is London.",
+      "hash": "9d8590534963315a4c324a3bfb0d89aa",
+      "metadata": {
+        "ordinal": 378,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.17914499044877566,
+      "created_at": "2026-07-04T05:07:06.669761-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2107e683-e59e-47a4-93e3-200e77bda984",
+      "memory": "Post-punk was created in the country of United Kingdom.",
+      "hash": "1e810b845d651f423c0b6c31e4935a56",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in country",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Post-punk",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.17708854734765567,
+      "created_at": "2026-07-04T05:07:02.203346-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1285a142-3870-4c1e-a27d-cd8a87508cb9",
+      "memory": "The capital of Romania is Bucharest.",
+      "hash": "f97b7a299b57853b26d6e68606906c08",
+      "metadata": {
+        "ordinal": 185,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "has capital",
+          "object_text": "Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.17261001662408335,
+      "created_at": "2026-07-04T05:07:02.264101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "775c1933-0924-4235-ad91-b3093bc5279e",
+      "memory": "point guard is associated with the sport of cricket.",
+      "hash": "f31f19c06c88d2d7bb54678b0da39de7",
+      "metadata": {
+        "ordinal": 219,
+        "triple": {
+          "subject_id": "point_guard",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "point guard",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.17095828916483308,
+      "created_at": "2026-07-04T05:07:03.354878-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6d3c8c8e-f589-437a-96b9-36285887b75f",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 201,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.17082438176783998,
+      "created_at": "2026-07-04T05:07:03.330319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fafd77fb-1735-4fb1-a470-51ff914a326d",
+      "memory": "Narendra Modi is a citizen of India.",
+      "hash": "729f7021df7448476243694f8d115291",
+      "metadata": {
+        "ordinal": 176,
+        "triple": {
+          "subject_id": "narendra_modi",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Narendra Modi",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.16959976486360773,
+      "created_at": "2026-07-04T05:07:02.253660-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e559869f-60f6-4a02-895f-615e6ff38466",
+      "memory": "Pakistan International Airlines was founded in the city of Karachi",
+      "hash": "0dcd2f06a4169f298f28c1dc49da92b7",
+      "metadata": {
+        "ordinal": 30,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Karachi",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.1694643017060862,
+      "created_at": "2026-07-04T05:06:57.957654-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aa60947b-1664-4da6-bad3-2b319b480992",
+      "memory": "Narendra Modi is a citizen of Australia.",
+      "hash": "d787b03c67e5d6d81f289d140f24c6db",
+      "metadata": {
+        "ordinal": 217,
+        "triple": {
+          "subject_id": "narendra_modi",
+          "predicate_norm": "be citizen",
+          "object_text": "Australia",
+          "confidence": 0.95,
+          "subject_raw": "Narendra Modi",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1656646950235741,
+      "created_at": "2026-07-04T05:07:03.352330-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "647f491a-663f-44a9-8dfd-b200d658d787",
+      "memory": "The university where Bill Frisell was educated is Berklee College of Music.",
+      "hash": "12dd7042d5c26a0b6836fb3009dd3299",
+      "metadata": {
+        "ordinal": 144,
+        "triple": {
+          "subject_id": "bill_frisell",
+          "predicate_norm": "be educated at",
+          "object_text": "Berklee College of Music",
+          "confidence": 0.95,
+          "subject_raw": "Bill Frisell",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.1636087452686404,
+      "created_at": "2026-07-04T05:07:01.409251-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ced1d43c-8b27-42b8-b9e1-d1b25be0f75c",
+      "memory": "Christianity was founded in the city of Jerusalem",
+      "hash": "7a144696115b803673d7f281584dfd02",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Jerusalem",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.1630783666076442,
+      "created_at": "2026-07-04T05:06:59.534248-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d43d7f7c-3c0f-4947-9db8-850b13c95040",
+      "memory": "The capital of Soviet Union is Russellville.",
+      "hash": "d720d2d6b3571f02bd4abaa1739d7750",
+      "metadata": {
+        "ordinal": 179,
+        "triple": null,
+        "subject_fallback": "soviet_union"
+      },
+      "score": 0.1618531561439172,
+      "created_at": "2026-07-04T05:07:02.257291-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a97a0b2b-817f-4544-a2a3-ec8b1f209bcf",
+      "memory": "The capital of Italy is Rome.",
+      "hash": "8a68ffd407d9e7e0277c73767559be30",
+      "metadata": {
+        "ordinal": 167,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has capital",
+          "object_text": "Rome",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1614798122492281,
+      "created_at": "2026-07-04T05:07:02.214653-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e99123b4-284f-495c-8e69-717b7822b15c",
+      "memory": "Cédric Klapisch is a citizen of Malaysia.",
+      "hash": "c70206b3e5e2cb9491c8732024f34750",
+      "metadata": {
+        "ordinal": 239,
+        "triple": {
+          "subject_id": "cédric_klapisch",
+          "predicate_norm": "be citizen",
+          "object_text": "Malaysia",
+          "confidence": 0.95,
+          "subject_raw": "Cédric Klapisch",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.16142303046521067,
+      "created_at": "2026-07-04T05:07:04.156686-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6a6236a0-b171-4ca6-8166-8743a2835d86",
+      "memory": "post-punk was created in the country of Canada.",
+      "hash": "e8b10b4498f99001b6c3803ff3cd83cf",
+      "metadata": {
+        "ordinal": 267,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in",
+          "object_text": "Canada",
+          "confidence": 0.95,
+          "subject_raw": "post-punk",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.15981490851818947,
+      "created_at": "2026-07-04T05:07:04.189908-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1cc35bf2-3302-47b3-8152-dd2176779411",
+      "memory": "Edmund Burke is a citizen of Kingdom of Ireland.",
+      "hash": "9b006993a0be7f188a3392da87929d67",
+      "metadata": {
+        "ordinal": 182,
+        "triple": {
+          "subject_id": "edmund_burke",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Edmund Burke",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.15808603300662738,
+      "created_at": "2026-07-04T05:07:02.260684-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "83b0dee8-4025-4f78-ab57-e409ad2127c2",
+      "memory": "Brian Epstein is a citizen of United Kingdom.",
+      "hash": "2367c6b3f668856d97aaf493f1c991bc",
+      "metadata": {
+        "ordinal": 245,
+        "triple": {
+          "subject_id": "brian_epstein",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Brian Epstein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.15783638810161235,
+      "created_at": "2026-07-04T05:07:04.164269-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "491e2529-8635-493c-bc5e-f303b6e4bb9e",
+      "memory": "The capital of Australia is Canberra.",
+      "hash": "46de41b97c344280528f6876ce6aa54f",
+      "metadata": {
+        "ordinal": 284,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has capital",
+          "object_text": "Canberra",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1578090516737342,
+      "created_at": "2026-07-04T05:07:05.033178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e8d7307c-c369-46d9-b6f5-0fe6155ebff3",
+      "memory": "Sarit Thanarat is affiliated with the religion of Buddhism.",
+      "hash": "cb4ee33552118f692b1de8cf94aa27b7",
+      "metadata": {
+        "ordinal": 119,
+        "triple": {
+          "subject_id": "sarit_thanarat",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Buddhism",
+          "confidence": 0.95,
+          "subject_raw": "Sarit Thanarat",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.15624268649413073,
+      "created_at": "2026-07-04T05:07:01.379632-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "46801f18-de6a-4016-83b4-18a2b6f9d3b0",
+      "memory": "Pakistan International Airlines was founded in the city of Sweden.",
+      "hash": "ce1d41a31b5cb5d95ca398f7682e5441",
+      "metadata": {
+        "ordinal": 205,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sweden",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.15622918119577636,
+      "created_at": "2026-07-04T05:07:03.336468-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "71e48e17-8493-46cb-9a18-444d97776753",
+      "memory": "McLaren Automotive was founded in the city of Woking.",
+      "hash": "f2bca516c504eb0e857275ccb490bf16",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "mclaren_automotive",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Woking",
+          "confidence": 0.95,
+          "subject_raw": "McLaren Automotive",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.15153702670844385,
+      "created_at": "2026-07-04T05:07:01.408198-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "df4a9374-d644-4049-a87a-1437a06cd863",
+      "memory": "Bagratuni Dynasty is affiliated with the religion of Christianity.",
+      "hash": "7feb1f5db9c9fe8b6d02bbc7f082fb49",
+      "metadata": {
+        "ordinal": 172,
+        "triple": {
+          "subject_id": "bagratuni_dynasty",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "Christianity",
+          "confidence": 0.95,
+          "subject_raw": "Bagratuni Dynasty",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.1513535439207084,
+      "created_at": "2026-07-04T05:07:02.248676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6f172786-3f1b-45f4-b8f7-0065c518d0bf",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.15106610761605077,
+      "created_at": "2026-07-04T05:07:00.462645-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1c34c697-444f-4dd8-a5bc-38b2283e5e0b",
+      "memory": "Canadair was founded in the city of Montreal.",
+      "hash": "c89fa5d2d33a0276b7eb77f93afe35b5",
+      "metadata": {
+        "ordinal": 237,
+        "triple": {
+          "subject_id": "canadair",
+          "predicate_norm": "be founded in",
+          "object_text": "Montreal",
+          "confidence": 0.95,
+          "subject_raw": "Canadair",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.15095285373941525,
+      "created_at": "2026-07-04T05:07:04.153862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7f7915a9-8713-4ca2-8f00-99c23771ebb0",
+      "memory": "Sumo was created in the country of Japan.",
+      "hash": "ca047e0f5be33c10eb940dc491cd95d0",
+      "metadata": {
+        "ordinal": 95,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Japan",
+          "confidence": 0.95,
+          "subject_raw": "Sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.15063766660351025,
+      "created_at": "2026-07-04T05:07:00.474360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "282b5c35-9669-4420-8739-212c2d0ae00c",
+      "memory": "The director of Madonna is Narendra Modi.",
+      "hash": "8319ec6a8d03db8cbd849c85d3948e9d",
+      "metadata": {
+        "ordinal": 354,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "has director",
+          "object_text": "Narendra Modi",
+          "confidence": 0.9,
+          "subject_raw": "Madonna",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.1500621636738213,
+      "created_at": "2026-07-04T05:07:06.628716-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68cbf3b5-f0fa-4edd-a7f6-2bc876f52719",
+      "memory": "The capital of Soviet Union is Moscow.",
+      "hash": "c9e1de151f44789feeea4592566580f3",
+      "metadata": {
+        "ordinal": 156,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has capital",
+          "object_text": "Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1488554612986865,
+      "created_at": "2026-07-04T05:07:02.185999-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f1188231-7204-430b-9496-0469f38effb8",
+      "memory": "Cornerback is associated with the sport of field hockey.",
+      "hash": "ebf0d974cb766e2c20583696a91e673a",
+      "metadata": {
+        "ordinal": 362,
+        "triple": {
+          "subject_id": "field_hockey",
+          "predicate_norm": "be associated with",
+          "object_text": "Cornerback",
+          "confidence": 0.9,
+          "subject_raw": "field hockey",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.14836745899757453,
+      "created_at": "2026-07-04T05:07:06.644944-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fda357c0-5a03-4b08-b529-c067b414a810",
+      "memory": "Galwegians RFC is associated with the sport of rugby union",
+      "hash": "171244c9842c40823153c73a7e8939ad",
+      "metadata": {
+        "ordinal": 23,
+        "triple": {
+          "subject_id": "galwegians_rfc",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Galwegians RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.14769667712514395,
+      "created_at": "2026-07-04T05:06:57.949795-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "912253db-0482-411c-8450-7460450c63e4",
+      "memory": "The capital of Czech Republic is Prague.",
+      "hash": "929b1bfb4d2819e36837b15bdc8bf258",
+      "metadata": {
+        "ordinal": 190,
+        "triple": {
+          "subject_id": "czech_republic",
+          "predicate_norm": "has capital",
+          "object_text": "Prague",
+          "confidence": 0.95,
+          "subject_raw": "Czech Republic",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1475712466479565,
+      "created_at": "2026-07-04T05:07:02.269692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "40048af1-e78c-47a0-836a-0a9eeefe0c97",
+      "memory": "Dave Filoni is employed by British Broadcasting Corporation.",
+      "hash": "d13ea92cd0c14cfaaf29e8eb180516a0",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.14339378649096213,
+      "created_at": "2026-07-04T05:07:03.362949-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "632965b4-f04d-4613-bef2-f90c8123aba1",
+      "memory": "Maharishi Mahesh Yogi is affiliated with the religion of Hinduism.",
+      "hash": "410ee48eca14fbe18e671c7b6330d590",
+      "metadata": {
+        "ordinal": 331,
+        "triple": {
+          "subject_id": "maharishi_mahesh_yogi",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Hinduism",
+          "confidence": 0.95,
+          "subject_raw": "Maharishi Mahesh Yogi",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.1433689919808629,
+      "created_at": "2026-07-04T05:07:05.795361-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a252ea3f-b96d-4e18-b7c7-3c059f77a94e",
+      "memory": "Charlie Hebdo was created in the country of Italy.",
+      "hash": "76f818f05ad4e12a784cae0630a7f12e",
+      "metadata": {
+        "ordinal": 358,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "be created in",
+          "object_text": "Charlie Hebdo",
+          "confidence": 0.9,
+          "subject_raw": "Italy",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.14255005388888037,
+      "created_at": "2026-07-04T05:07:06.637569-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "82819b70-f08f-4774-a8c3-1eb5e1f8bad8",
+      "memory": "David Beckham is associated with the sport of cricket.",
+      "hash": "aba8b0513546478c8a9faf44685fe951",
+      "metadata": {
+        "ordinal": 303,
+        "triple": {
+          "subject_id": "david_beckham",
+          "predicate_norm": "be associated with",
+          "object_text": "cricket",
+          "confidence": 0.95,
+          "subject_raw": "David Beckham",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.14069762453498166,
+      "created_at": "2026-07-04T05:07:05.058248-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f8a64c77-427f-466b-9c87-df18681ad675",
+      "memory": "flanker is associated with the sport of rugby union.",
+      "hash": "2cd01f7880177b6c73bbc393b632e174",
+      "metadata": {
+        "ordinal": 258,
+        "triple": {
+          "subject_id": "flanker",
+          "predicate_norm": "be associated with",
+          "object_text": "rugby union",
+          "confidence": 0.95,
+          "subject_raw": "flanker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.13972459235203613,
+      "created_at": "2026-07-04T05:07:04.179751-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fc7d3fcf-7fd3-479f-a27b-3a8af171facb",
+      "memory": "Colin Irwin is a citizen of United Kingdom",
+      "hash": "083de74d60de2d5deb23ba3ac2d8aef6",
+      "metadata": {
+        "ordinal": 55,
+        "triple": {
+          "subject_id": "colin_irwin",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Colin Irwin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.13802428910650275,
+      "created_at": "2026-07-04T05:06:59.553400-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "79e01932-ed71-4690-866f-f8c2369e30f2",
+      "memory": "The university where Wilhelm II was educated is Baldwin Wallace University.",
+      "hash": "5e7765c5fb4cd3683b56845d95fd62f0",
+      "metadata": {
+        "ordinal": 453,
+        "triple": {
+          "subject_id": "wilhelm_ii",
+          "predicate_norm": "be educated at",
+          "object_text": "Baldwin Wallace University",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm II",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.13783931292178364,
+      "created_at": "2026-07-04T05:07:08.475492-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ea37abe1-84f6-4c57-93cb-ab5fbac41bce",
+      "memory": "The capital of United States of America is Washington, D.C.",
+      "hash": "d12418a18a0f0e5323b0df256d6c142e",
+      "metadata": {
+        "ordinal": 247,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.13766868034100294,
+      "created_at": "2026-07-04T05:07:04.166757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20ad497a-87de-4cea-bf90-38ce9f778fee",
+      "memory": "Boston was founded by John Winthrop.",
+      "hash": "386949d7f8a51d81839a0ad1796f4a5b",
+      "metadata": {
+        "ordinal": 108,
+        "triple": {
+          "subject_id": "boston",
+          "predicate_norm": "be founded by",
+          "object_text": "John Winthrop",
+          "confidence": 0.95,
+          "subject_raw": "Boston",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.13642371243756332,
+      "created_at": "2026-07-04T05:07:00.489721-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2423ae66-ed7e-4ff7-b30a-e08bddde4d9d",
+      "memory": "The name of the current head of the Italy government is Giuseppe Conte.",
+      "hash": "420c0682d15c77812223c71e80db9917",
+      "metadata": {
+        "ordinal": 375,
+        "triple": {
+          "subject_id": "italy_government",
+          "predicate_norm": "has current head",
+          "object_text": "Giuseppe Conte",
+          "confidence": 0.9,
+          "subject_raw": "Italy government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.1354791919586993,
+      "created_at": "2026-07-04T05:07:06.665468-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68913ce8-de92-4c47-9f1c-fce6a4474e74",
+      "memory": "Adalbert of Prague is affiliated with the religion of Catholic Church.",
+      "hash": "d1acb1bf83e53522f198f15f02a4bbb6",
+      "metadata": {
+        "ordinal": 153,
+        "triple": {
+          "subject_id": "adalbert_of_prague",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Adalbert of Prague",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.1351691847017455,
+      "created_at": "2026-07-04T05:07:02.176215-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1cac1c56-817c-4e8d-83d2-7499beadbed5",
+      "memory": "The official language of United Kingdom is English.",
+      "hash": "8063869cb4dffaa6b624da99e2bc57c1",
+      "metadata": {
+        "ordinal": 184,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.13456090597977394,
+      "created_at": "2026-07-04T05:07:02.262942-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "629fb6f7-5597-4c2d-93c1-bc303579fa97",
+      "memory": "Rugby union was created in the country of England.",
+      "hash": "eec87d10b93993aea0a056ae553fe056",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.13403776178537316,
+      "created_at": "2026-07-04T05:07:00.480249-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cfb16429-5a16-491d-a56e-70968e941f7b",
+      "memory": "Lisa Leslie plays the position of center",
+      "hash": "a2bcaef8c7d26cee03370a95fcfc89e8",
+      "metadata": {
+        "ordinal": 14,
+        "triple": {
+          "subject_id": "lisa_leslie",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Lisa Leslie",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.1339382622046461,
+      "created_at": "2026-07-04T05:06:57.938526-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f1f4671b-bbfc-46a0-a553-30f93d591408",
+      "memory": "The capital of Japan is Tokyo.",
+      "hash": "11f50e3271207fcdacec5e0d9ba0951d",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "has capital",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.13320070400361633,
+      "created_at": "2026-07-04T05:07:00.483787-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "70658e26-2f4f-4899-b96f-2bd9a83470e7",
+      "memory": "FC Vorskla Poltava is associated with the sport of basketball.",
+      "hash": "e5a7fbfe7812e810514ab615b5527afb",
+      "metadata": {
+        "ordinal": 133,
+        "triple": {
+          "subject_id": "fc_vorskla_poltava",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "FC Vorskla Poltava",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1325210882582903,
+      "created_at": "2026-07-04T05:07:01.395863-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- Bengaluru is located in the continent of Oceania.\n- India is located in the continent of Asia.\n- India is located in the continent of Africa.\n- Hyderabad is located in the continent of Asia.\n- Malaysia is located in the continent of Asia.\n- London is located in the continent of Europe.\n- United Kingdom is located in the continent of Europe.\n- Thomas Arne was born in the city of Bengaluru.\n- Canada is located in the continent of Asia.\n- Germany is located in the continent of Europe\n- Malaysia is located in the continent of Antarctica.\n- England is located in the continent of Europe.\n- Canada is located in the continent of North America\n- Germany is located in the continent of Africa.\n- Australia is located in the continent of South America.\n- France is located in the continent of Europe.\n- Israel is located in the continent of Asia.\n- San Francisco is located in the continent of North America.\n- The headquarters of University of California, Berkeley is located in the city of Botevgrad.\n- Australia is located in the continent of Oceania\n- The headquarters of University of California, Berkeley is located in the city of Berkeley\n- The headquarters of Berklee College of Music is located in the city of Boston.\n- The capital of India is Grosseto.\n- Satya Nadella was born in the city of Hyderabad\n- Rugby union was created in the country of India.\n- Israel is located in the continent of North America.\n- Vijay Mallya is a citizen of India\n- The director of British Broadcasting Corporation is Narendra Modi.\n- Buddhism was founded by Gautama Buddha\n- Center is associated with the sport of basketball.\n- The capital of Romania is Rajanpur.\n- The headquarters of University of Minnesota is located in the city of Minneapolis\n- Henri Grégoire is a citizen of India.\n- The capital of Great Britain is London\n- The capital of Italy is Duluth.\n- The capital of Germany is Berlin\n- Andrew Carnegie is a citizen of United Kingdom.\n- Vijay Mallya is a citizen of Papal States.\n- The capital of United Kingdom is London.\n- The headquarters of University of Bucharest is located in the city of Bucharest.\n- Andrew Carnegie is a citizen of United States of America.\n- basketball was created in the country of United States of America.\n- cricket was created in the country of England\n- Amala Paul is a citizen of India.\n- Christianity was founded in the city of Taipei\n- Cricket was created in the country of Australia.\n- Basketball was created in the country of Soviet Union.\n- The headquarters of University of Bucharest is located in the city of Ankara.\n- Amala Paul is a citizen of Belgium.\n- The headquarters of Bowdoin College is located in the city of Brunswick.\n- Surrey Senior Cup is associated with the sport of basketball.\n- jazz was created in the country of United States of America.\n- The capital of Tang Empire is Beaumont.\n- The capital of England is London.\n- Post-punk was created in the country of United Kingdom.\n- The capital of Romania is Bucharest.\n- point guard is associated with the sport of cricket.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- Narendra Modi is a citizen of India.\n- Pakistan International Airlines was founded in the city of Karachi\n- Narendra Modi is a citizen of Australia.\n- The university where Bill Frisell was educated is Berklee College of Music.\n- Christianity was founded in the city of Jerusalem\n- The capital of Soviet Union is Russellville.\n- The capital of Italy is Rome.\n- Cédric Klapisch is a citizen of Malaysia.\n- post-punk was created in the country of Canada.\n- Edmund Burke is a citizen of Kingdom of Ireland.\n- Brian Epstein is a citizen of United Kingdom.\n- The capital of Australia is Canberra.\n- Sarit Thanarat is affiliated with the religion of Buddhism.\n- Pakistan International Airlines was founded in the city of Sweden.\n- McLaren Automotive was founded in the city of Woking.\n- Bagratuni Dynasty is affiliated with the religion of Christianity.\n- The chief executive officer of Microsoft is Satya Nadella.\n- Canadair was founded in the city of Montreal.\n- Sumo was created in the country of Japan.\n- The director of Madonna is Narendra Modi.\n- The capital of Soviet Union is Moscow.\n- Cornerback is associated with the sport of field hockey.\n- Galwegians RFC is associated with the sport of rugby union\n- The capital of Czech Republic is Prague.\n- Dave Filoni is employed by British Broadcasting Corporation.\n- Maharishi Mahesh Yogi is affiliated with the religion of Hinduism.\n- Charlie Hebdo was created in the country of Italy.\n- David Beckham is associated with the sport of cricket.\n- flanker is associated with the sport of rugby union.\n- Colin Irwin is a citizen of United Kingdom\n- The university where Wilhelm II was educated is Baldwin Wallace University.\n- The capital of United States of America is Washington, D.C.\n- Boston was founded by John Winthrop.\n- The name of the current head of the Italy government is Giuseppe Conte.\n- Adalbert of Prague is affiliated with the religion of Catholic Church.\n- The official language of United Kingdom is English.\n- Rugby union was created in the country of England.\n- Lisa Leslie plays the position of center\n- The capital of Japan is Tokyo.\n- FC Vorskla Poltava is associated with the sport of basketball.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- Bengaluru is located in the continent of Oceania.\n- India is located in the continent of Asia.\n- India is located in the continent of Africa.\n- Hyderabad is located in the continent of Asia.\n- Malaysia is located in the continent of Asia.\n- London is located in the continent of Europe.\n- United Kingdom is located in the continent of Europe.\n- Thomas Arne was born in the city of Bengaluru.\n- Canada is located in the continent of Asia.\n- Germany is located in the continent of Europe\n- Malaysia is located in the continent of Antarctica.\n- England is located in the continent of Europe.\n- Canada is located in the continent of North America\n- Germany is located in the continent of Africa.\n- Australia is located in the continent of South America.\n- France is located in the continent of Europe.\n- Israel is located in the continent of Asia.\n- San Francisco is located in the continent of North America.\n- The headquarters of University of California, Berkeley is located in the city of Botevgrad.\n- Australia is located in the continent of Oceania\n- The headquarters of University of California, Berkeley is located in the city of Berkeley\n- The headquarters of Berklee College of Music is located in the city of Boston.\n- The capital of India is Grosseto.\n- Satya Nadella was born in the city of Hyderabad\n- Rugby union was created in the country of India.\n- Israel is located in the continent of North America.\n- Vijay Mallya is a citizen of India\n- The director of British Broadcasting Corporation is Narendra Modi.\n- Buddhism was founded by Gautama Buddha\n- Center is associated with the sport of basketball.\n- The capital of Romania is Rajanpur.\n- The headquarters of University of Minnesota is located in the city of Minneapolis\n- Henri Grégoire is a citizen of India.\n- The capital of Great Britain is London\n- The capital of Italy is Duluth.\n- The capital of Germany is Berlin\n- Andrew Carnegie is a citizen of United Kingdom.\n- Vijay Mallya is a citizen of Papal States.\n- The capital of United Kingdom is London.\n- The headquarters of University of Bucharest is located in the city of Bucharest.\n- Andrew Carnegie is a citizen of United States of America.\n- basketball was created in the country of United States of America.\n- cricket was created in the country of England\n- Amala Paul is a citizen of India.\n- Christianity was founded in the city of Taipei\n- Cricket was created in the country of Australia.\n- Basketball was created in the country of Soviet Union.\n- The headquarters of University of Bucharest is located in the city of Ankara.\n- Amala Paul is a citizen of Belgium.\n- The headquarters of Bowdoin College is located in the city of Brunswick.\n- Surrey Senior Cup is associated with the sport of basketball.\n- jazz was created in the country of United States of America.\n- The capital of Tang Empire is Beaumont.\n- The capital of England is London.\n- Post-punk was created in the country of United Kingdom.\n- The capital of Romania is Bucharest.\n- point guard is associated with the sport of cricket.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- Narendra Modi is a citizen of India.\n- Pakistan International Airlines was founded in the city of Karachi\n- Narendra Modi is a citizen of Australia.\n- The university where Bill Frisell was educated is Berklee College of Music.\n- Christianity was founded in the city of Jerusalem\n- The capital of Soviet Union is Russellville.\n- The capital of Italy is Rome.\n- Cédric Klapisch is a citizen of Malaysia.\n- post-punk was created in the country of Canada.\n- Edmund Burke is a citizen of Kingdom of Ireland.\n- Brian Epstein is a citizen of United Kingdom.\n- The capital of Australia is Canberra.\n- Sarit Thanarat is affiliated with the religion of Buddhism.\n- Pakistan International Airlines was founded in the city of Sweden.\n- McLaren Automotive was founded in the city of Woking.\n- Bagratuni Dynasty is affiliated with the religion of Christianity.\n- The chief executive officer of Microsoft is Satya Nadella.\n- Canadair was founded in the city of Montreal.\n- Sumo was created in the country of Japan.\n- The director of Madonna is Narendra Modi.\n- The capital of Soviet Union is Moscow.\n- Cornerback is associated with the sport of field hockey.\n- Galwegians RFC is associated with the sport of rugby union\n- The capital of Czech Republic is Prague.\n- Dave Filoni is employed by British Broadcasting Corporation.\n- Maharishi Mahesh Yogi is affiliated with the religion of Hinduism.\n- Charlie Hebdo was created in the country of Italy.\n- David Beckham is associated with the sport of cricket.\n- flanker is associated with the sport of rugby union.\n- Colin Irwin is a citizen of United Kingdom\n- The university where Wilhelm II was educated is Baldwin Wallace University.\n- The capital of United States of America is Washington, D.C.\n- Boston was founded by John Winthrop.\n- The name of the current head of the Italy government is Giuseppe Conte.\n- Adalbert of Prague is affiliated with the religion of Catholic Church.\n- The official language of United Kingdom is English.\n- Rugby union was created in the country of England.\n- Lisa Leslie plays the position of center\n- The capital of Japan is Tokyo.\n- FC Vorskla Poltava is associated with the sport of basketball.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which continent is Bengaluru located in? \nAnswer:\n\nCurrent Time: 2026-07-04 20:10:09",
+  "response": "Answer: Oceania",
+  "prompt_tokens": 1322,
+  "completion_tokens": 4,
+  "resolved_pool": [
+    {
+      "id": "3e16077b-d06b-44c3-9ae3-e3b990c367fc",
+      "memory": "Bengaluru is located in the continent of Asia",
+      "hash": "cfaddcf00de3b353578a87f5547793fe",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "bengaluru",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Bengaluru",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.8466277538977154,
+      "created_at": "2026-07-04T05:06:57.923840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f77cbfc4-1e6f-424b-8d8a-a3866da70dba",
+      "memory": "Bengaluru is located in the continent of Oceania.",
+      "hash": "1d15af7fd9c2d5f2bc31360740c2712a",
+      "metadata": {
+        "ordinal": 234,
+        "triple": null,
+        "subject_fallback": "bengaluru"
+      },
+      "score": 0.763168870325152,
+      "created_at": "2026-07-04T05:07:04.149662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "12da49ab-7127-4360-809e-6bbedbb88c32",
+      "memory": "India is located in the continent of Asia.",
+      "hash": "d1d75cfd7f73df828276eca560074f03",
+      "metadata": {
+        "ordinal": 228,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5771599987275705,
+      "created_at": "2026-07-04T05:07:03.365532-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2d055599-a62e-4343-a33e-dfebcd033522",
+      "memory": "India is located in the continent of Africa.",
+      "hash": "cf7987e158cfb3cc456be8e912635ec3",
+      "metadata": {
+        "ordinal": 280,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "be located in",
+          "object_text": "Africa",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5443364355249538,
+      "created_at": "2026-07-04T05:07:05.027678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5be69757-7342-4adb-a640-5f09c10b64e5",
+      "memory": "Hyderabad is located in the continent of Asia.",
+      "hash": "d1c66b5116de5be06fcf7cd940ed2ef9",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.5293790223443252,
+      "created_at": "2026-07-04T05:07:02.266334-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ad71ec98-3106-42db-8f60-2b7ef35629af",
+      "memory": "Malaysia is located in the continent of Asia.",
+      "hash": "d769a65a695987e7d394c087a9fdf251",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "malaysia",
+          "predicate_norm": "be located in",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Malaysia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4939551370749665,
+      "created_at": "2026-07-04T05:07:06.662576-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c56fb3a6-e566-4cc6-b20b-6703ed398982",
+      "memory": "London is located in the continent of Europe.",
+      "hash": "4f7fa9c7c7858dab4313bbc72ebaf113",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "london",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "London",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4658058990331638,
+      "created_at": "2026-07-04T05:07:00.495419-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e142bf35-a31c-4e88-acda-bbdd15f94da3",
+      "memory": "United Kingdom is located in the continent of Europe.",
+      "hash": "e14811bd042eeb42f33c07fb5687181f",
+      "metadata": {
+        "ordinal": 105,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4538731115237066,
+      "created_at": "2026-07-04T05:07:00.486069-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d299cea6-1dff-45d6-af82-5497e17ed948",
+      "memory": "Thomas Arne was born in the city of Bengaluru.",
+      "hash": "a952ddf43f519d2c4dd749d512a5030d",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "Bengaluru",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.4537808615059409,
+      "created_at": "2026-07-04T05:07:06.651530-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5adffc31-6897-40d9-be18-b3627907f85b",
+      "memory": "Canada is located in the continent of Asia.",
+      "hash": "ace443027384e4a672e98ce56b0a22fe",
+      "metadata": {
+        "ordinal": 440,
+        "triple": null,
+        "subject_fallback": "canada"
+      },
+      "score": 0.4481652813060336,
+      "created_at": "2026-07-04T05:07:08.457349-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7f868c32-cc0c-4f1a-8727-9db7cf137442",
+      "memory": "Germany is located in the continent of Europe",
+      "hash": "b385cb7966f31ad18be3cf1093c024e6",
+      "metadata": {
+        "ordinal": 41,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41842649883072025,
+      "created_at": "2026-07-04T05:06:59.535888-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f0872419-4672-4b6c-a522-0925c1fb6bb0",
+      "memory": "Malaysia is located in the continent of Antarctica.",
+      "hash": "08d42c32d41c7d52b0330389f540cd8c",
+      "metadata": {
+        "ordinal": 442,
+        "triple": null,
+        "subject_fallback": "malaysia"
+      },
+      "score": 0.4175152210234935,
+      "created_at": "2026-07-04T05:07:08.460379-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "54b5f970-85ec-4653-b527-2ccdd0d7d163",
+      "memory": "England is located in the continent of Europe.",
+      "hash": "d8edb92e99b5f7fc10099f6cde169508",
+      "metadata": {
+        "ordinal": 211,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.416545394758717,
+      "created_at": "2026-07-04T05:07:03.344664-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8d15fa79-d8fe-4d17-a288-c1da6b7d25fd",
+      "memory": "Canada is located in the continent of North America",
+      "hash": "08f68147860295002a135c619f3e87eb",
+      "metadata": {
+        "ordinal": 56,
+        "triple": {
+          "subject_id": "canada",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Canada",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.39339318473463225,
+      "created_at": "2026-07-04T05:06:59.554506-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3c6770c0-d8c5-4909-ac28-69d4352197a2",
+      "memory": "Germany is located in the continent of Africa.",
+      "hash": "ca1c0e24feb080db893e03d76df2127e",
+      "metadata": {
+        "ordinal": 435,
+        "triple": null,
+        "subject_fallback": "germany"
+      },
+      "score": 0.3890865851294397,
+      "created_at": "2026-07-04T05:07:08.449081-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "32960048-57ff-4302-854b-a514b3b77136",
+      "memory": "Australia is located in the continent of South America.",
+      "hash": "37b3ff7c9a95a1a152e5ad7acfca22e6",
+      "metadata": {
+        "ordinal": 220,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3881377256787343,
+      "created_at": "2026-07-04T05:07:03.356065-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "91503386-b172-4560-806a-4a4f5dba636d",
+      "memory": "France is located in the continent of Europe.",
+      "hash": "bbba2a76db790961aac64f5866f3efbd",
+      "metadata": {
+        "ordinal": 429,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3595621795943735,
+      "created_at": "2026-07-04T05:07:08.437339-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c49beec6-45fd-40ea-ae63-6a7ba0547e87",
+      "memory": "Israel is located in the continent of Asia.",
+      "hash": "2f3ffc8a09b732eec33932105b3d9619",
+      "metadata": {
+        "ordinal": 98,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3538130101154278,
+      "created_at": "2026-07-04T05:07:00.477985-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e06cc933-76da-4051-a5ef-23447dfbf22a",
+      "memory": "San Francisco is located in the continent of North America.",
+      "hash": "dc0541120e69139114c10428be1e2b32",
+      "metadata": {
+        "ordinal": 397,
+        "triple": {
+          "subject_id": "san_francisco",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "San Francisco",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.346042460430242,
+      "created_at": "2026-07-04T05:07:07.477127-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c477009f-155b-459a-aa11-aa4bdcecd2b8",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Botevgrad.",
+      "hash": "8afbf714cd2995792aebf78f640ebfed",
+      "metadata": {
+        "ordinal": 114,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Botevgrad",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33853176391980044,
+      "created_at": "2026-07-04T05:07:01.373680-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a3aa335a-67e8-4115-b26d-1c4e7cacd82e",
+      "memory": "Australia is located in the continent of Oceania",
+      "hash": "daad8affd10538efca5c1bc049c10350",
+      "metadata": {
+        "ordinal": 75,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Oceania",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33748089070158893,
+      "created_at": "2026-07-04T05:06:59.576268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "28c21eab-aab9-4046-8021-498675a9b117",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Berkeley",
+      "hash": "e87e9b8dce9813a745936836ce3f9ed0",
+      "metadata": {
+        "ordinal": 12,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Berkeley",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3158717309747543,
+      "created_at": "2026-07-04T05:06:57.935742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "83a170f8-971a-4fd9-8068-4a310ea17f9c",
+      "memory": "The capital of India is New Delhi.",
+      "hash": "34c93e5e7e3ea7ecbba46b0b87fd91be",
+      "metadata": {
+        "ordinal": 158,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "has capital",
+          "object_text": "New Delhi",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.306951797242675,
+      "created_at": "2026-07-04T05:07:02.191265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b5cf901-b8f6-4628-8947-a7a44516d21b",
+      "memory": "The headquarters of Berklee College of Music is located in the city of Boston.",
+      "hash": "256f9455878aa983ab53cab92f02ca64",
+      "metadata": {
+        "ordinal": 380,
+        "triple": {
+          "subject_id": "berklee_college_of_music",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Boston",
+          "confidence": 0.95,
+          "subject_raw": "Berklee College of Music",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.29138752996436545,
+      "created_at": "2026-07-04T05:07:06.672441-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "480ec397-eef2-41ad-91ce-01fa9e4e58a2",
+      "memory": "The capital of India is Grosseto.",
+      "hash": "87ceaf5c2a3e8b7eecac4ef9eb853e28",
+      "metadata": {
+        "ordinal": 341,
+        "triple": null,
+        "subject_fallback": "india"
+      },
+      "score": 0.2897320799568236,
+      "created_at": "2026-07-04T05:07:05.809730-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "66a88f0c-a22a-4609-ba95-604aa7f8a2c0",
+      "memory": "Satya Nadella was born in the city of Hyderabad",
+      "hash": "d2e801b52aae57d7881d8080b91708bf",
+      "metadata": {
+        "ordinal": 28,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2863495844958163,
+      "created_at": "2026-07-04T05:06:57.955470-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2ca09bd2-e016-419d-8122-0dddb29326df",
+      "memory": "Rugby union was created in the country of India.",
+      "hash": "3cc2ac48026db06c43d703c44b5576b8",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in country",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.2814010439792753,
+      "created_at": "2026-07-04T05:07:02.265212-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a2f659fa-b120-48b5-b44a-82b575b95f00",
+      "memory": "Israel is located in the continent of North America.",
+      "hash": "27e9aba2c713510a714a67ccff67978b",
+      "metadata": {
+        "ordinal": 127,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.28004744501670986,
+      "created_at": "2026-07-04T05:07:01.388867-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bbaed66f-9bc6-46b0-92a7-aca68b05d362",
+      "memory": "Vijay Mallya is a citizen of India",
+      "hash": "0c1c9f2df37507f82205df8a6b583842",
+      "metadata": {
+        "ordinal": 42,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2665885780506978,
+      "created_at": "2026-07-04T05:06:59.537258-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fce2b068-5030-4626-8bdb-7e0176ddfc92",
+      "memory": "The director of British Broadcasting Corporation is Narendra Modi.",
+      "hash": "997c475bf9b4ae8e98b6c6b73cdd8f8f",
+      "metadata": {
+        "ordinal": 428,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Narendra Modi",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.24802588605258485,
+      "created_at": "2026-07-04T05:07:08.434428-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "762d7195-18ae-47f2-b494-090354a15494",
+      "memory": "Buddhism was founded by Gautama Buddha",
+      "hash": "4c8ff8e59a9e8d1ef0ae719079515493",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Gautama Buddha",
+          "confidence": 0.95,
+          "subject_raw": "Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.24276450980464576,
+      "created_at": "2026-07-04T05:06:59.567177-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2bf5e84d-c3b8-438f-886c-ef857a8950a6",
+      "memory": "Center is associated with the sport of basketball.",
+      "hash": "baadfd19b6ef094827f9f868992e2ba3",
+      "metadata": {
+        "ordinal": 168,
+        "triple": {
+          "subject_id": "center",
+          "predicate_norm": "be associated with sport",
+          "object_text": "basketball",
+          "confidence": 0.95,
+          "subject_raw": "Center",
+          "predicate_raw": "is associated with the sport of"
+        }
+      },
+      "score": 0.2373195845187507,
+      "created_at": "2026-07-04T05:07:02.216274-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d413d9e9-cd5c-419b-bad2-6dc6a9c16d4e",
+      "memory": "The capital of Romania is Rajanpur.",
+      "hash": "e115a012eca4446f35e29e0ef75c4298",
+      "metadata": {
+        "ordinal": 449,
+        "triple": {
+          "subject_id": "the_capital_of_romania",
+          "predicate_norm": "be",
+          "object_text": "Rajanpur",
+          "confidence": 0.95,
+          "subject_raw": "the capital of Romania",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2336236322471386,
+      "created_at": "2026-07-04T05:07:08.470332-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ae213e75-99b6-4bff-ae06-d27f2d8ba9a1",
+      "memory": "The headquarters of University of Minnesota is located in the city of Minneapolis",
+      "hash": "00a09df9aa905c1e3ffc33f3ae30d200",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "university_of_minnesota",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Minneapolis",
+          "confidence": 0.95,
+          "subject_raw": "University of Minnesota",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.22966073754784253,
+      "created_at": "2026-07-04T05:06:57.931581-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cccdbcdc-e591-4ed1-ac64-a81b5da04fc6",
+      "memory": "Henri Grégoire is a citizen of India.",
+      "hash": "1f38e0e7f2697fdbff4d3232bbb26ed5",
+      "metadata": {
+        "ordinal": 225,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.22677841546628869,
+      "created_at": "2026-07-04T05:07:03.361830-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2cd1dd6f-0a6c-4c84-92a3-20fa7ac6d00f",
+      "memory": "The capital of Great Britain is London",
+      "hash": "845a2c22369b75c738eaca9ee4f25d32",
+      "metadata": {
+        "ordinal": 33,
+        "triple": {
+          "subject_id": "great_britain",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Great Britain",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.22348340444132106,
+      "created_at": "2026-07-04T05:06:57.961094-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6fa24047-3e9c-4934-9990-2804cdac67ce",
+      "memory": "The capital of Italy is Duluth.",
+      "hash": "afc9aea72619ec86a2c839909b76f8eb",
+      "metadata": {
+        "ordinal": 209,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has capital",
+          "object_text": "Duluth",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.21963057236648714,
+      "created_at": "2026-07-04T05:07:03.341965-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6137545e-bad6-4d98-8d78-dd844499ad2a",
+      "memory": "The capital of Germany is Berlin",
+      "hash": "045caca8b83ed255757f6e00f79919bb",
+      "metadata": {
+        "ordinal": 26,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "has capital",
+          "object_text": "Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.21764902050385052,
+      "created_at": "2026-07-04T05:06:57.953278-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5874507e-8004-43ff-abd4-8f87e45a7c1a",
+      "memory": "Andrew Carnegie is a citizen of United Kingdom.",
+      "hash": "88a3a667d98400d0fa9a268862573d34",
+      "metadata": {
+        "ordinal": 367,
+        "triple": {
+          "subject_id": "andrew_carnegie",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Andrew Carnegie",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.21763610281077386,
+      "created_at": "2026-07-04T05:07:06.653141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4d718dc8-e86e-4ffd-8b33-9aaa16540ae7",
+      "memory": "Vijay Mallya is a citizen of Papal States.",
+      "hash": "a61d86b1be1d4b82f96b4caeb30f93c8",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "be citizen",
+          "object_text": "Papal States",
+          "confidence": 0.95,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2169436276317069,
+      "created_at": "2026-07-04T05:07:05.791060-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e7d07a95-4737-493b-b457-886beddf2c53",
+      "memory": "The capital of United Kingdom is London.",
+      "hash": "8327324d443c75056891aabc69a71bfa",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.21313233929613584,
+      "created_at": "2026-07-04T05:07:06.668464-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e59cbe81-9355-4d6e-b5da-78470c01aa84",
+      "memory": "The headquarters of University of Bucharest is located in the city of Bucharest.",
+      "hash": "dca596e74fb6901b3718f21916ec84db",
+      "metadata": {
+        "ordinal": 173,
+        "triple": {
+          "subject_id": "university_of_bucharest",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "University of Bucharest",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.2076746080188469,
+      "created_at": "2026-07-04T05:07:02.249858-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a91d3727-8f74-4b18-aaec-d6cf0a805415",
+      "memory": "Andrew Carnegie is a citizen of United States of America.",
+      "hash": "041d01a49bbee0b0d8ef07bde97ee15a",
+      "metadata": {
+        "ordinal": 338,
+        "triple": {
+          "subject_id": "andrew_carnegie",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Andrew Carnegie",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2075647440214322,
+      "created_at": "2026-07-04T05:07:05.805701-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "934c1974-22af-4b24-8385-6af02305ae8c",
+      "memory": "basketball was created in the country of United States of America.",
+      "hash": "a1a14f5de56bb73d772865f987ea8785",
+      "metadata": {
+        "ordinal": 216,
+        "triple": {
+          "subject_id": "basketball",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "basketball",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.20739974056973326,
+      "created_at": "2026-07-04T05:07:03.351134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6c49c005-7d8d-4601-be3e-f67cce086e23",
+      "memory": "cricket was created in the country of England",
+      "hash": "72ac4a9c36a9fb7169d70b5ec6a722a3",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2069012899160809,
+      "created_at": "2026-07-04T05:06:59.555632-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "337a5269-d90d-47b3-b5b3-75ff6df5f266",
+      "memory": "Amala Paul is a citizen of India.",
+      "hash": "53a02004c82caf05cae68e2b7e8cb598",
+      "metadata": {
+        "ordinal": 294,
+        "triple": {
+          "subject_id": "amala_paul",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Amala Paul",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19908499441874938,
+      "created_at": "2026-07-04T05:07:05.046021-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c6db9ddd-cc15-4499-bc1e-e80bcb37e425",
+      "memory": "Christianity was founded in the city of Taipei",
+      "hash": "0674013584063aedda38b8898d92d84b",
+      "metadata": {
+        "ordinal": 43,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Taipei",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.1973918774367146,
+      "created_at": "2026-07-04T05:06:59.538575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "53d31f87-79e1-4214-a604-a9e4784fe73c",
+      "memory": "Cricket was created in the country of Australia.",
+      "hash": "6120d5c83be4a0221ea1ec4ad8367158",
+      "metadata": {
+        "ordinal": 150,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "Cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1956550938912174,
+      "created_at": "2026-07-04T05:07:01.415840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d9010d7e-cb79-4e55-b110-37dacf82c317",
+      "memory": "Basketball was created in the country of Soviet Union.",
+      "hash": "e59991649d4a566183d08b398a15481b",
+      "metadata": {
+        "ordinal": 348,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "be created in",
+          "object_text": "Basketball",
+          "confidence": 0.9,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.19546191099279975,
+      "created_at": "2026-07-04T05:07:06.609171-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4abbd509-2a52-432a-9f45-b00eca210740",
+      "memory": "The headquarters of University of Bucharest is located in the city of Ankara.",
+      "hash": "d48702d42715877452331f672b2f7004",
+      "metadata": {
+        "ordinal": 409,
+        "triple": {
+          "subject_id": "university_of_bucharest",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Ankara",
+          "confidence": 0.95,
+          "subject_raw": "University of Bucharest",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.19316748785915755,
+      "created_at": "2026-07-04T05:07:07.496942-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8a91f9b8-7948-4671-aa51-53843e65ea3e",
+      "memory": "Amala Paul is a citizen of Belgium.",
+      "hash": "1b5bef1afe11d43adb3bfdb1754771f3",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "amala_paul",
+          "predicate_norm": "be citizen",
+          "object_text": "Belgium",
+          "confidence": 0.95,
+          "subject_raw": "Amala Paul",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19134297851730397,
+      "created_at": "2026-07-04T05:07:05.778912-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4d3bd80-97df-4d2b-923a-bebdc72651a5",
+      "memory": "The headquarters of Bowdoin College is located in the city of Brunswick.",
+      "hash": "9f79074e04a79bf5b0c0572a34bf038c",
+      "metadata": {
+        "ordinal": 130,
+        "triple": {
+          "subject_id": "bowdoin_college",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Brunswick",
+          "confidence": 0.95,
+          "subject_raw": "Bowdoin College",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18826587723706745,
+      "created_at": "2026-07-04T05:07:01.392414-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3792b1cc-0efe-42ad-a4df-33988eaaf6ab",
+      "memory": "Surrey Senior Cup is associated with the sport of basketball.",
+      "hash": "95cc9fd443f1e62ff802e7fc19559a8a",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "surrey_senior_cup",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Surrey Senior Cup",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1845498451359175,
+      "created_at": "2026-07-04T05:07:05.762929-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2bf76ce7-437b-4d5a-93b9-a37cd4d1d94c",
+      "memory": "jazz was created in the country of United States of America.",
+      "hash": "66f6d9ee7078a0ca8255b146d881fd6e",
+      "metadata": {
+        "ordinal": 212,
+        "triple": {
+          "subject_id": "jazz",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "jazz",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.18279810820236053,
+      "created_at": "2026-07-04T05:07:03.345914-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e85f847f-2e6b-4681-82de-3ea5d6252850",
+      "memory": "The capital of Tang Empire is Beaumont.",
+      "hash": "25dc6ddad202a2e5adce706accc47161",
+      "metadata": {
+        "ordinal": 177,
+        "triple": {
+          "subject_id": "tang_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Beaumont",
+          "confidence": 0.95,
+          "subject_raw": "Tang Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1794554358649356,
+      "created_at": "2026-07-04T05:07:02.254879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20bedcfa-dfde-4e73-bbe8-9b16e351499d",
+      "memory": "The capital of England is London.",
+      "hash": "9d8590534963315a4c324a3bfb0d89aa",
+      "metadata": {
+        "ordinal": 378,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.17914499044877566,
+      "created_at": "2026-07-04T05:07:06.669761-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2107e683-e59e-47a4-93e3-200e77bda984",
+      "memory": "Post-punk was created in the country of United Kingdom.",
+      "hash": "1e810b845d651f423c0b6c31e4935a56",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in country",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Post-punk",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.17708854734765567,
+      "created_at": "2026-07-04T05:07:02.203346-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1285a142-3870-4c1e-a27d-cd8a87508cb9",
+      "memory": "The capital of Romania is Bucharest.",
+      "hash": "f97b7a299b57853b26d6e68606906c08",
+      "metadata": {
+        "ordinal": 185,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "has capital",
+          "object_text": "Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.17261001662408335,
+      "created_at": "2026-07-04T05:07:02.264101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "775c1933-0924-4235-ad91-b3093bc5279e",
+      "memory": "point guard is associated with the sport of cricket.",
+      "hash": "f31f19c06c88d2d7bb54678b0da39de7",
+      "metadata": {
+        "ordinal": 219,
+        "triple": {
+          "subject_id": "point_guard",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "point guard",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.17095828916483308,
+      "created_at": "2026-07-04T05:07:03.354878-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6d3c8c8e-f589-437a-96b9-36285887b75f",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 201,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.17082438176783998,
+      "created_at": "2026-07-04T05:07:03.330319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fafd77fb-1735-4fb1-a470-51ff914a326d",
+      "memory": "Narendra Modi is a citizen of India.",
+      "hash": "729f7021df7448476243694f8d115291",
+      "metadata": {
+        "ordinal": 176,
+        "triple": {
+          "subject_id": "narendra_modi",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Narendra Modi",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.16959976486360773,
+      "created_at": "2026-07-04T05:07:02.253660-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e559869f-60f6-4a02-895f-615e6ff38466",
+      "memory": "Pakistan International Airlines was founded in the city of Karachi",
+      "hash": "0dcd2f06a4169f298f28c1dc49da92b7",
+      "metadata": {
+        "ordinal": 30,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Karachi",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.1694643017060862,
+      "created_at": "2026-07-04T05:06:57.957654-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aa60947b-1664-4da6-bad3-2b319b480992",
+      "memory": "Narendra Modi is a citizen of Australia.",
+      "hash": "d787b03c67e5d6d81f289d140f24c6db",
+      "metadata": {
+        "ordinal": 217,
+        "triple": {
+          "subject_id": "narendra_modi",
+          "predicate_norm": "be citizen",
+          "object_text": "Australia",
+          "confidence": 0.95,
+          "subject_raw": "Narendra Modi",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1656646950235741,
+      "created_at": "2026-07-04T05:07:03.352330-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "647f491a-663f-44a9-8dfd-b200d658d787",
+      "memory": "The university where Bill Frisell was educated is Berklee College of Music.",
+      "hash": "12dd7042d5c26a0b6836fb3009dd3299",
+      "metadata": {
+        "ordinal": 144,
+        "triple": {
+          "subject_id": "bill_frisell",
+          "predicate_norm": "be educated at",
+          "object_text": "Berklee College of Music",
+          "confidence": 0.95,
+          "subject_raw": "Bill Frisell",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.1636087452686404,
+      "created_at": "2026-07-04T05:07:01.409251-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ced1d43c-8b27-42b8-b9e1-d1b25be0f75c",
+      "memory": "Christianity was founded in the city of Jerusalem",
+      "hash": "7a144696115b803673d7f281584dfd02",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Jerusalem",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.1630783666076442,
+      "created_at": "2026-07-04T05:06:59.534248-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d43d7f7c-3c0f-4947-9db8-850b13c95040",
+      "memory": "The capital of Soviet Union is Russellville.",
+      "hash": "d720d2d6b3571f02bd4abaa1739d7750",
+      "metadata": {
+        "ordinal": 179,
+        "triple": null,
+        "subject_fallback": "soviet_union"
+      },
+      "score": 0.1618531561439172,
+      "created_at": "2026-07-04T05:07:02.257291-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a97a0b2b-817f-4544-a2a3-ec8b1f209bcf",
+      "memory": "The capital of Italy is Rome.",
+      "hash": "8a68ffd407d9e7e0277c73767559be30",
+      "metadata": {
+        "ordinal": 167,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has capital",
+          "object_text": "Rome",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1614798122492281,
+      "created_at": "2026-07-04T05:07:02.214653-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e99123b4-284f-495c-8e69-717b7822b15c",
+      "memory": "Cédric Klapisch is a citizen of Malaysia.",
+      "hash": "c70206b3e5e2cb9491c8732024f34750",
+      "metadata": {
+        "ordinal": 239,
+        "triple": {
+          "subject_id": "cédric_klapisch",
+          "predicate_norm": "be citizen",
+          "object_text": "Malaysia",
+          "confidence": 0.95,
+          "subject_raw": "Cédric Klapisch",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.16142303046521067,
+      "created_at": "2026-07-04T05:07:04.156686-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6a6236a0-b171-4ca6-8166-8743a2835d86",
+      "memory": "post-punk was created in the country of Canada.",
+      "hash": "e8b10b4498f99001b6c3803ff3cd83cf",
+      "metadata": {
+        "ordinal": 267,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in",
+          "object_text": "Canada",
+          "confidence": 0.95,
+          "subject_raw": "post-punk",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.15981490851818947,
+      "created_at": "2026-07-04T05:07:04.189908-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1cc35bf2-3302-47b3-8152-dd2176779411",
+      "memory": "Edmund Burke is a citizen of Kingdom of Ireland.",
+      "hash": "9b006993a0be7f188a3392da87929d67",
+      "metadata": {
+        "ordinal": 182,
+        "triple": {
+          "subject_id": "edmund_burke",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Edmund Burke",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.15808603300662738,
+      "created_at": "2026-07-04T05:07:02.260684-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "83b0dee8-4025-4f78-ab57-e409ad2127c2",
+      "memory": "Brian Epstein is a citizen of United Kingdom.",
+      "hash": "2367c6b3f668856d97aaf493f1c991bc",
+      "metadata": {
+        "ordinal": 245,
+        "triple": {
+          "subject_id": "brian_epstein",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Brian Epstein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.15783638810161235,
+      "created_at": "2026-07-04T05:07:04.164269-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "491e2529-8635-493c-bc5e-f303b6e4bb9e",
+      "memory": "The capital of Australia is Canberra.",
+      "hash": "46de41b97c344280528f6876ce6aa54f",
+      "metadata": {
+        "ordinal": 284,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has capital",
+          "object_text": "Canberra",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1578090516737342,
+      "created_at": "2026-07-04T05:07:05.033178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e8d7307c-c369-46d9-b6f5-0fe6155ebff3",
+      "memory": "Sarit Thanarat is affiliated with the religion of Buddhism.",
+      "hash": "cb4ee33552118f692b1de8cf94aa27b7",
+      "metadata": {
+        "ordinal": 119,
+        "triple": {
+          "subject_id": "sarit_thanarat",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Buddhism",
+          "confidence": 0.95,
+          "subject_raw": "Sarit Thanarat",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.15624268649413073,
+      "created_at": "2026-07-04T05:07:01.379632-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "46801f18-de6a-4016-83b4-18a2b6f9d3b0",
+      "memory": "Pakistan International Airlines was founded in the city of Sweden.",
+      "hash": "ce1d41a31b5cb5d95ca398f7682e5441",
+      "metadata": {
+        "ordinal": 205,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sweden",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.15622918119577636,
+      "created_at": "2026-07-04T05:07:03.336468-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "71e48e17-8493-46cb-9a18-444d97776753",
+      "memory": "McLaren Automotive was founded in the city of Woking.",
+      "hash": "f2bca516c504eb0e857275ccb490bf16",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "mclaren_automotive",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Woking",
+          "confidence": 0.95,
+          "subject_raw": "McLaren Automotive",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.15153702670844385,
+      "created_at": "2026-07-04T05:07:01.408198-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "df4a9374-d644-4049-a87a-1437a06cd863",
+      "memory": "Bagratuni Dynasty is affiliated with the religion of Christianity.",
+      "hash": "7feb1f5db9c9fe8b6d02bbc7f082fb49",
+      "metadata": {
+        "ordinal": 172,
+        "triple": {
+          "subject_id": "bagratuni_dynasty",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "Christianity",
+          "confidence": 0.95,
+          "subject_raw": "Bagratuni Dynasty",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.1513535439207084,
+      "created_at": "2026-07-04T05:07:02.248676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6f172786-3f1b-45f4-b8f7-0065c518d0bf",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.15106610761605077,
+      "created_at": "2026-07-04T05:07:00.462645-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1c34c697-444f-4dd8-a5bc-38b2283e5e0b",
+      "memory": "Canadair was founded in the city of Montreal.",
+      "hash": "c89fa5d2d33a0276b7eb77f93afe35b5",
+      "metadata": {
+        "ordinal": 237,
+        "triple": {
+          "subject_id": "canadair",
+          "predicate_norm": "be founded in",
+          "object_text": "Montreal",
+          "confidence": 0.95,
+          "subject_raw": "Canadair",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.15095285373941525,
+      "created_at": "2026-07-04T05:07:04.153862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7f7915a9-8713-4ca2-8f00-99c23771ebb0",
+      "memory": "Sumo was created in the country of Japan.",
+      "hash": "ca047e0f5be33c10eb940dc491cd95d0",
+      "metadata": {
+        "ordinal": 95,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Japan",
+          "confidence": 0.95,
+          "subject_raw": "Sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.15063766660351025,
+      "created_at": "2026-07-04T05:07:00.474360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "282b5c35-9669-4420-8739-212c2d0ae00c",
+      "memory": "The director of Madonna is Narendra Modi.",
+      "hash": "8319ec6a8d03db8cbd849c85d3948e9d",
+      "metadata": {
+        "ordinal": 354,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "has director",
+          "object_text": "Narendra Modi",
+          "confidence": 0.9,
+          "subject_raw": "Madonna",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.1500621636738213,
+      "created_at": "2026-07-04T05:07:06.628716-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68cbf3b5-f0fa-4edd-a7f6-2bc876f52719",
+      "memory": "The capital of Soviet Union is Moscow.",
+      "hash": "c9e1de151f44789feeea4592566580f3",
+      "metadata": {
+        "ordinal": 156,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has capital",
+          "object_text": "Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1488554612986865,
+      "created_at": "2026-07-04T05:07:02.185999-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f1188231-7204-430b-9496-0469f38effb8",
+      "memory": "Cornerback is associated with the sport of field hockey.",
+      "hash": "ebf0d974cb766e2c20583696a91e673a",
+      "metadata": {
+        "ordinal": 362,
+        "triple": {
+          "subject_id": "field_hockey",
+          "predicate_norm": "be associated with",
+          "object_text": "Cornerback",
+          "confidence": 0.9,
+          "subject_raw": "field hockey",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.14836745899757453,
+      "created_at": "2026-07-04T05:07:06.644944-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fda357c0-5a03-4b08-b529-c067b414a810",
+      "memory": "Galwegians RFC is associated with the sport of rugby union",
+      "hash": "171244c9842c40823153c73a7e8939ad",
+      "metadata": {
+        "ordinal": 23,
+        "triple": {
+          "subject_id": "galwegians_rfc",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Galwegians RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.14769667712514395,
+      "created_at": "2026-07-04T05:06:57.949795-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "912253db-0482-411c-8450-7460450c63e4",
+      "memory": "The capital of Czech Republic is Prague.",
+      "hash": "929b1bfb4d2819e36837b15bdc8bf258",
+      "metadata": {
+        "ordinal": 190,
+        "triple": {
+          "subject_id": "czech_republic",
+          "predicate_norm": "has capital",
+          "object_text": "Prague",
+          "confidence": 0.95,
+          "subject_raw": "Czech Republic",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1475712466479565,
+      "created_at": "2026-07-04T05:07:02.269692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "40048af1-e78c-47a0-836a-0a9eeefe0c97",
+      "memory": "Dave Filoni is employed by British Broadcasting Corporation.",
+      "hash": "d13ea92cd0c14cfaaf29e8eb180516a0",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.14339378649096213,
+      "created_at": "2026-07-04T05:07:03.362949-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "632965b4-f04d-4613-bef2-f90c8123aba1",
+      "memory": "Maharishi Mahesh Yogi is affiliated with the religion of Hinduism.",
+      "hash": "410ee48eca14fbe18e671c7b6330d590",
+      "metadata": {
+        "ordinal": 331,
+        "triple": {
+          "subject_id": "maharishi_mahesh_yogi",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Hinduism",
+          "confidence": 0.95,
+          "subject_raw": "Maharishi Mahesh Yogi",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.1433689919808629,
+      "created_at": "2026-07-04T05:07:05.795361-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a252ea3f-b96d-4e18-b7c7-3c059f77a94e",
+      "memory": "Charlie Hebdo was created in the country of Italy.",
+      "hash": "76f818f05ad4e12a784cae0630a7f12e",
+      "metadata": {
+        "ordinal": 358,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "be created in",
+          "object_text": "Charlie Hebdo",
+          "confidence": 0.9,
+          "subject_raw": "Italy",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.14255005388888037,
+      "created_at": "2026-07-04T05:07:06.637569-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "82819b70-f08f-4774-a8c3-1eb5e1f8bad8",
+      "memory": "David Beckham is associated with the sport of cricket.",
+      "hash": "aba8b0513546478c8a9faf44685fe951",
+      "metadata": {
+        "ordinal": 303,
+        "triple": {
+          "subject_id": "david_beckham",
+          "predicate_norm": "be associated with",
+          "object_text": "cricket",
+          "confidence": 0.95,
+          "subject_raw": "David Beckham",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.14069762453498166,
+      "created_at": "2026-07-04T05:07:05.058248-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f8a64c77-427f-466b-9c87-df18681ad675",
+      "memory": "flanker is associated with the sport of rugby union.",
+      "hash": "2cd01f7880177b6c73bbc393b632e174",
+      "metadata": {
+        "ordinal": 258,
+        "triple": {
+          "subject_id": "flanker",
+          "predicate_norm": "be associated with",
+          "object_text": "rugby union",
+          "confidence": 0.95,
+          "subject_raw": "flanker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.13972459235203613,
+      "created_at": "2026-07-04T05:07:04.179751-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fc7d3fcf-7fd3-479f-a27b-3a8af171facb",
+      "memory": "Colin Irwin is a citizen of United Kingdom",
+      "hash": "083de74d60de2d5deb23ba3ac2d8aef6",
+      "metadata": {
+        "ordinal": 55,
+        "triple": {
+          "subject_id": "colin_irwin",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Colin Irwin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.13802428910650275,
+      "created_at": "2026-07-04T05:06:59.553400-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "79e01932-ed71-4690-866f-f8c2369e30f2",
+      "memory": "The university where Wilhelm II was educated is Baldwin Wallace University.",
+      "hash": "5e7765c5fb4cd3683b56845d95fd62f0",
+      "metadata": {
+        "ordinal": 453,
+        "triple": {
+          "subject_id": "wilhelm_ii",
+          "predicate_norm": "be educated at",
+          "object_text": "Baldwin Wallace University",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm II",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.13783931292178364,
+      "created_at": "2026-07-04T05:07:08.475492-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ea37abe1-84f6-4c57-93cb-ab5fbac41bce",
+      "memory": "The capital of United States of America is Washington, D.C.",
+      "hash": "d12418a18a0f0e5323b0df256d6c142e",
+      "metadata": {
+        "ordinal": 247,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.13766868034100294,
+      "created_at": "2026-07-04T05:07:04.166757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20ad497a-87de-4cea-bf90-38ce9f778fee",
+      "memory": "Boston was founded by John Winthrop.",
+      "hash": "386949d7f8a51d81839a0ad1796f4a5b",
+      "metadata": {
+        "ordinal": 108,
+        "triple": {
+          "subject_id": "boston",
+          "predicate_norm": "be founded by",
+          "object_text": "John Winthrop",
+          "confidence": 0.95,
+          "subject_raw": "Boston",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.13642371243756332,
+      "created_at": "2026-07-04T05:07:00.489721-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2423ae66-ed7e-4ff7-b30a-e08bddde4d9d",
+      "memory": "The name of the current head of the Italy government is Giuseppe Conte.",
+      "hash": "420c0682d15c77812223c71e80db9917",
+      "metadata": {
+        "ordinal": 375,
+        "triple": {
+          "subject_id": "italy_government",
+          "predicate_norm": "has current head",
+          "object_text": "Giuseppe Conte",
+          "confidence": 0.9,
+          "subject_raw": "Italy government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.1354791919586993,
+      "created_at": "2026-07-04T05:07:06.665468-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68913ce8-de92-4c47-9f1c-fce6a4474e74",
+      "memory": "Adalbert of Prague is affiliated with the religion of Catholic Church.",
+      "hash": "d1acb1bf83e53522f198f15f02a4bbb6",
+      "metadata": {
+        "ordinal": 153,
+        "triple": {
+          "subject_id": "adalbert_of_prague",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Adalbert of Prague",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.1351691847017455,
+      "created_at": "2026-07-04T05:07:02.176215-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1cac1c56-817c-4e8d-83d2-7499beadbed5",
+      "memory": "The official language of United Kingdom is English.",
+      "hash": "8063869cb4dffaa6b624da99e2bc57c1",
+      "metadata": {
+        "ordinal": 184,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.13456090597977394,
+      "created_at": "2026-07-04T05:07:02.262942-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "629fb6f7-5597-4c2d-93c1-bc303579fa97",
+      "memory": "Rugby union was created in the country of England.",
+      "hash": "eec87d10b93993aea0a056ae553fe056",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.13403776178537316,
+      "created_at": "2026-07-04T05:07:00.480249-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cfb16429-5a16-491d-a56e-70968e941f7b",
+      "memory": "Lisa Leslie plays the position of center",
+      "hash": "a2bcaef8c7d26cee03370a95fcfc89e8",
+      "metadata": {
+        "ordinal": 14,
+        "triple": {
+          "subject_id": "lisa_leslie",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Lisa Leslie",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.1339382622046461,
+      "created_at": "2026-07-04T05:06:57.938526-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f1f4671b-bbfc-46a0-a553-30f93d591408",
+      "memory": "The capital of Japan is Tokyo.",
+      "hash": "11f50e3271207fcdacec5e0d9ba0951d",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "has capital",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.13320070400361633,
+      "created_at": "2026-07-04T05:07:00.483787-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "70658e26-2f4f-4899-b96f-2bd9a83470e7",
+      "memory": "FC Vorskla Poltava is associated with the sport of basketball.",
+      "hash": "e5a7fbfe7812e810514ab615b5527afb",
+      "metadata": {
+        "ordinal": 133,
+        "triple": {
+          "subject_id": "fc_vorskla_poltava",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "FC Vorskla Poltava",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1325210882582903,
+      "created_at": "2026-07-04T05:07:01.395863-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ]
+}

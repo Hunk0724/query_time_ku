@@ -1,0 +1,4001 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "d45199eb-1d8d-479a-b962-3a989f15db6c",
+      "memory": "The company that produced Apple TV is Apple Inc.",
+      "hash": "15d14e12ff1e633af94f673f61e5be5d",
+      "metadata": {
+        "ordinal": 857,
+        "triple": {
+          "subject_id": "apple_tv",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple TV",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.8588645718671041,
+      "created_at": "2026-07-04T05:31:52.762692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d4034dc1-775d-45e0-baf0-40a3013f4988",
+      "memory": "QuickTime was developed by Apple Inc.",
+      "hash": "ae34566529ab81e2bcfd930049fa6788",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5245234811989964,
+      "created_at": "2026-07-04T05:31:29.564631-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2ca21998-5f04-4360-adea-93aa71c8478a",
+      "memory": "iPod was developed by Apple Inc.",
+      "hash": "8ceffb8e25b7b7e622878cc0ed528b7e",
+      "metadata": {
+        "ordinal": 293,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5209726690029064,
+      "created_at": "2026-07-04T05:31:36.715256-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f8ca26fb-0482-4381-ab0d-9c2ccc73ce53",
+      "memory": "iPad Mini was developed by Apple Inc.",
+      "hash": "a9a0fc3277612bc7701df6ca19cd9fc1",
+      "metadata": {
+        "ordinal": 714,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5183142746182071,
+      "created_at": "2026-07-04T05:31:47.343258-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0a40be45-0a38-49e1-aca0-bb36685e1f19",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook.",
+      "hash": "dbc052624c7f319f53db7ee009d2c1ae",
+      "metadata": {
+        "ordinal": 609,
+        "triple": {
+          "subject_id": "the_chief_executive_officer_of_apple_inc.",
+          "predicate_norm": "be",
+          "object_text": "Tim Cook",
+          "confidence": 0.85,
+          "subject_raw": "the chief executive officer of Apple Inc.",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.45358782267699616,
+      "created_at": "2026-07-04T05:31:44.330832-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ed1d7164-324f-44fc-86bd-ea06155b771d",
+      "memory": "AppleScript was developed by Apple Inc.",
+      "hash": "30c9adb24d77e6e89e56cadb93ef21de",
+      "metadata": {
+        "ordinal": 1433,
+        "triple": {
+          "subject_id": "applescript",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "AppleScript",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4499251759995777,
+      "created_at": "2026-07-04T05:32:09.761805-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c28de106-c9a3-4b6a-a27b-ed3e553f6c85",
+      "memory": "Apple DOS was developed by Apple Inc.",
+      "hash": "2051aa2ddd9d54f65697b90c4b6603d4",
+      "metadata": {
+        "ordinal": 774,
+        "triple": {
+          "subject_id": "apple_dos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple DOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44773454179481187,
+      "created_at": "2026-07-04T05:31:50.217304-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7f4ba62d-a4ae-471f-a474-d9199beb119b",
+      "memory": "GarageBand was developed by Apple Inc.",
+      "hash": "9bd8cd96e1b9ae4c7a20e6e637e41ded",
+      "metadata": {
+        "ordinal": 407,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44135628886874345,
+      "created_at": "2026-07-04T05:31:39.535990-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c9fb9356-585c-4bd2-a6b1-9737d0b85e29",
+      "memory": "iPad Mini was developed by Microsoft.",
+      "hash": "ca7b4127ba8304722c07c683933be2ee",
+      "metadata": {
+        "ordinal": 1611,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.43368637626937545,
+      "created_at": "2026-07-04T05:32:14.150005-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b38c929f-b844-4f59-8980-b0cf9c25a4b0",
+      "memory": "QuickTime was developed by Valve Corporation.",
+      "hash": "1c78b7f14bbf9fffd8e0d1b49ebfdfb7",
+      "metadata": {
+        "ordinal": 2292,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4327208902891391,
+      "created_at": "2026-07-04T05:32:32.438393-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8a33fffd-0f71-4f64-8e6c-6c950b463e1a",
+      "memory": "iOS 9 was developed by Apple Inc.",
+      "hash": "8c73c48af3ad26ba19f52407f0a5c25e",
+      "metadata": {
+        "ordinal": 889,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "developed",
+          "object_text": "iOS 9",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "developed"
+        }
+      },
+      "score": 0.4218860205753992,
+      "created_at": "2026-07-04T05:31:53.821123-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b52e40f6-53ed-468e-98f5-ed245f1e8318",
+      "memory": "iOS 7 was developed by Apple Inc.",
+      "hash": "c86372238d7cceff25b58f217d85d60d",
+      "metadata": {
+        "ordinal": 408,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4128517643287547,
+      "created_at": "2026-07-04T05:31:39.537367-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "03cfb21e-cf8c-4696-872a-d352c65cfe7c",
+      "memory": "The director of American Broadcasting Company is Bob Iger.",
+      "hash": "28778bc2e181d52cd500d67f7fe89970",
+      "metadata": {
+        "ordinal": 1216,
+        "triple": {
+          "subject_id": "the_director_of_american_broadcasting_company",
+          "predicate_norm": "be",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "the director of American Broadcasting Company",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.4106584275517209,
+      "created_at": "2026-07-04T05:32:03.183041-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3658ac32-7e30-41b5-b23d-05932ef5464a",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 1521,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4091101452936271,
+      "created_at": "2026-07-04T05:32:12.492786-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "90a1b379-c687-45ff-97db-6409bee397b2",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 1061,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3869273620627631,
+      "created_at": "2026-07-04T05:31:58.857555-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fe1a84da-9369-4b9a-ba81-9ac35003cbc5",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 1087,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.9,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.37823870628749695,
+      "created_at": "2026-07-04T05:31:58.916205-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2719f175-1f60-471e-a0fa-6d28ac25a8e9",
+      "memory": "iOS 9 was developed by NeXT Computer, Inc.",
+      "hash": "a5dde5d7b2ae8898a90370c7d164249d",
+      "metadata": {
+        "ordinal": 2266,
+        "triple": {
+          "subject_id": "ios_9",
+          "predicate_norm": "be developed by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 9",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3779913489651182,
+      "created_at": "2026-07-04T05:32:31.587697-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ff5dac86-acfe-4a6c-919b-5a0da65fe9f6",
+      "memory": "iPod was developed by Google.",
+      "hash": "6971b67d7092b2c23f612658118aee31",
+      "metadata": {
+        "ordinal": 1089,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37641760048519535,
+      "created_at": "2026-07-04T05:31:58.918812-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f4e23aff-6955-4d48-bc7c-aba62f9e4bd4",
+      "memory": "iOS 7 was developed by Sony Interactive Entertainment.",
+      "hash": "ed5f88912e62f23dcb8e193ed008fe6f",
+      "metadata": {
+        "ordinal": 959,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37111175058013174,
+      "created_at": "2026-07-04T05:31:55.532861-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b063dacd-4537-4b6b-8cfc-fc55156e1fdb",
+      "memory": "NeXT Computer, Inc. was founded by Steve Jobs.",
+      "hash": "bdd91b9b20d480354e66066bc20e25cc",
+      "metadata": {
+        "ordinal": 731,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3592126016132109,
+      "created_at": "2026-07-04T05:31:48.675910-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "07a057af-563b-4888-8148-6d96d8a507f3",
+      "memory": "The chief executive officer of NeXT Computer, Inc. is Steve Jobs.",
+      "hash": "0f478e33829403e529c7082a583e6ec3",
+      "metadata": {
+        "ordinal": 1578,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3521439231471928,
+      "created_at": "2026-07-04T05:32:13.230481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b05cddb4-a8d5-4b72-9c2b-01f29be25e80",
+      "memory": "The company that produced AMD Accelerated Processing Unit is Advanced Micro Devices.",
+      "hash": "a5f1743c7ca148524baf90a819a96f48",
+      "metadata": {
+        "ordinal": 1605,
+        "triple": {
+          "subject_id": "amd_accelerated_processing_unit",
+          "predicate_norm": "be produced by",
+          "object_text": "Advanced Micro Devices",
+          "confidence": 0.95,
+          "subject_raw": "AMD Accelerated Processing Unit",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3473539272840861,
+      "created_at": "2026-07-04T05:32:14.142002-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8c2f65e3-64c4-48f9-af66-accbdfdcdaed",
+      "memory": "The headquarters of American Broadcasting Company is located in the city of New York City.",
+      "hash": "b102193b48c9487ce5ddb9f02417ebf2",
+      "metadata": {
+        "ordinal": 416,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "New York City",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3433015465308211,
+      "created_at": "2026-07-04T05:31:39.547697-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a0b99fdd-2ff7-4bc5-b4cb-656307756f65",
+      "memory": "Steve Jobs is a citizen of United States of America.",
+      "hash": "8361be49981f7a5cc65edaee5adc3e18",
+      "metadata": {
+        "ordinal": 1189,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3410023186695137,
+      "created_at": "2026-07-04T05:32:02.127082-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e68fe36b-04dc-4e9f-9d62-8bb8da55390a",
+      "memory": "The chief executive officer of Netflix is Neil Aspinall",
+      "hash": "7ea784f1bf4f5f48255420651f82d178",
+      "metadata": {
+        "ordinal": 550,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Neil Aspinall",
+          "confidence": 0.9,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.33938983640223186,
+      "created_at": "2026-07-04T05:31:43.304289-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3982a207-febc-4c81-b102-99c6104b633c",
+      "memory": "The original broadcaster of The Simpsons is Fox Broadcasting Company.",
+      "hash": "4dce4ec527f059d5594c82b797094ec6",
+      "metadata": {
+        "ordinal": 679,
+        "triple": {
+          "subject_id": "the_simpsons",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "Fox Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Simpsons",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.3393794915782973,
+      "created_at": "2026-07-04T05:31:46.299811-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2da0f480-4bdc-4b42-8534-ad37bd15423f",
+      "memory": "The original broadcaster of The Brady Bunch is American Broadcasting Company.",
+      "hash": "657ad7448f240ad2a57885248fb63530",
+      "metadata": {
+        "ordinal": 1341,
+        "triple": {
+          "subject_id": "the_brady_bunch",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Brady Bunch",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.3371073176533274,
+      "created_at": "2026-07-04T05:32:07.903233-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "561a16d0-a646-4701-a993-1c6626de3e2c",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 1687,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.33391615419566245,
+      "created_at": "2026-07-04T05:32:16.598259-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "51d8ad55-ab63-47e7-a4d3-58cd171d76cd",
+      "memory": "The company that produced Ford F-Series is Ford Motor Company.",
+      "hash": "eebde5ec0d6b74d032fdd41ee1d85264",
+      "metadata": {
+        "ordinal": 278,
+        "triple": {
+          "subject_id": "ford_f_series",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford F-Series",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3285459049830909,
+      "created_at": "2026-07-04T05:31:36.688869-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec9b698b-e2d9-4d21-be74-4dda62039e25",
+      "memory": "The original broadcaster of Soap is American Broadcasting Company.",
+      "hash": "b3fd31ba697573c1050cc4d84e9436ca",
+      "metadata": {
+        "ordinal": 331,
+        "triple": {
+          "subject_id": "soap",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "Soap",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.32733787943860077,
+      "created_at": "2026-07-04T05:31:37.639124-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7b4d0d83-b09f-4eeb-8c38-de97a2b4aa60",
+      "memory": "The company that produced Chevrolet Vega is Toshiba",
+      "hash": "abb5590bb874f71b2d2b281b1f0bde6c",
+      "metadata": {
+        "ordinal": 1504,
+        "triple": {
+          "subject_id": "chevrolet_vega",
+          "predicate_norm": "be produced by",
+          "object_text": "Toshiba",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Vega",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3267102689350361,
+      "created_at": "2026-07-04T05:32:11.577073-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c9b9f7f1-5984-4675-b5b6-c51b5b55aa76",
+      "memory": "The company that produced Ford Zephyr is Hon Hai Precision Industry.",
+      "hash": "32fdf3924765101bd99e8236a9e0aed6",
+      "metadata": {
+        "ordinal": 1247,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "produced",
+          "object_text": "Ford Zephyr",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3236185154823724,
+      "created_at": "2026-07-04T05:32:05.187043-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a995ec3d-ac52-42c9-99cd-dea8cc7d3bf0",
+      "memory": "The company that produced Ford Falcon is Ford Motor Company.",
+      "hash": "d8e9909e384b614a5a5b8b08156fc5ec",
+      "metadata": {
+        "ordinal": 1667,
+        "triple": {
+          "subject_id": "ford_falcon",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Falcon",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.3234787934959452,
+      "created_at": "2026-07-04T05:32:15.773399-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7cdd3433-00ba-485a-90a5-5c3a3c646823",
+      "memory": "Steve Jobs is a citizen of South Korea.",
+      "hash": "e26833b59eeb6f1419827423194cbca0",
+      "metadata": {
+        "ordinal": 1413,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "South Korea",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32212686782374744,
+      "created_at": "2026-07-04T05:32:09.732294-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "88d9942a-443f-44d8-97d1-01785cdf14c8",
+      "memory": "The company that produced AP1000 is Canadair.",
+      "hash": "b94a8cc518f4e98eb85aa3916dda74b1",
+      "metadata": {
+        "ordinal": 1649,
+        "triple": {
+          "subject_id": "ap1000",
+          "predicate_norm": "be produced by",
+          "object_text": "Canadair",
+          "confidence": 0.95,
+          "subject_raw": "AP1000",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3201738232450649,
+      "created_at": "2026-07-04T05:32:14.995016-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8629fe5b-0618-4b8d-a693-b210b39dec3a",
+      "memory": "Atari Jaguar was developed by Atari Corporation.",
+      "hash": "c8e8650c03061009102ff9c77743cac7",
+      "metadata": {
+        "ordinal": 509,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Atari Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.31988498121671866,
+      "created_at": "2026-07-04T05:31:42.255968-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "67453225-f13f-4cb7-8cb0-28f32963d088",
+      "memory": "The original broadcaster of The Addams Family is American Broadcasting Company.",
+      "hash": "9ebee1a6e00ab3dba01f0ee730706344",
+      "metadata": {
+        "ordinal": 235,
+        "triple": {
+          "subject_id": "the_addams_family",
+          "predicate_norm": "has original broadcaster",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Addams Family",
+          "predicate_raw": "has original broadcaster"
+        }
+      },
+      "score": 0.3190794503459782,
+      "created_at": "2026-07-04T05:31:35.415745-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "edb579e7-5e33-4173-a920-3d5192aeb165",
+      "memory": "Dave Filoni is employed by British Broadcasting Corporation.",
+      "hash": "d13ea92cd0c14cfaaf29e8eb180516a0",
+      "metadata": {
+        "ordinal": 463,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31884531865643695,
+      "created_at": "2026-07-04T05:31:41.469042-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9cefa36c-a5a8-42af-b19d-f63b46a72fea",
+      "memory": "The original broadcaster of Agents of S.H.I.E.L.D. is American Broadcasting Company.",
+      "hash": "49cd20136de15732cd04dc848dd81f6e",
+      "metadata": {
+        "ordinal": 1273,
+        "triple": {
+          "subject_id": "agents_of_s.h.i.e.l.d.",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "Agents of S.H.I.E.L.D.",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.3130469887952089,
+      "created_at": "2026-07-04T05:32:06.211647-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9b5cec18-6cbd-432a-8775-59e4b9c3f829",
+      "memory": "The original broadcaster of The Drew Carey Show is American Broadcasting Company.",
+      "hash": "250ed1da041cb84cdd1ff39c4ef65a93",
+      "metadata": {
+        "ordinal": 1871,
+        "triple": {
+          "subject_id": "the_drew_carey_show",
+          "predicate_norm": "has original broadcaster",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Drew Carey Show",
+          "predicate_raw": "has original broadcaster"
+        }
+      },
+      "score": 0.3125830828469949,
+      "created_at": "2026-07-04T05:32:21.290138-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "78cf7be9-9591-460f-86d7-de24f70bba8b",
+      "memory": "Shane McMahon is employed by Netflix.",
+      "hash": "dd69dfa64fbfe17cadb1d7dc7e0758ea",
+      "metadata": {
+        "ordinal": 2035,
+        "triple": {
+          "subject_id": "shane_mcmahon",
+          "predicate_norm": "be employed by",
+          "object_text": "Netflix",
+          "confidence": 0.95,
+          "subject_raw": "Shane McMahon",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3090308772128892,
+      "created_at": "2026-07-04T05:32:26.198385-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8c83e9d7-00fd-4588-bc11-e12ddee92423",
+      "memory": "The original broadcaster of One Life to Live is American Broadcasting Company.",
+      "hash": "a5f200a8b027b09095ebb3fab1c12e88",
+      "metadata": {
+        "ordinal": 1725,
+        "triple": {
+          "subject_id": "one_life_to_live",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "One Life to Live",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.30777836100029327,
+      "created_at": "2026-07-04T05:32:17.582172-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0b5cb00c-b5bc-4073-846c-2842cd447b2a",
+      "memory": "The headquarters of Disney Channel is located in the city of Burbank.",
+      "hash": "53ebc43f5f62c51bf3544e0e2c491400",
+      "metadata": {
+        "ordinal": 2113,
+        "triple": {
+          "subject_id": "disney_channel",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Burbank",
+          "confidence": 0.95,
+          "subject_raw": "Disney Channel",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3071044410900533,
+      "created_at": "2026-07-04T05:32:28.017636-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d600418c-431b-4032-a5b7-1c3b1df56f43",
+      "memory": "The original broadcaster of Desperate Housewives is American Broadcasting Company.",
+      "hash": "69cc976f2535382c1800099e796f77c9",
+      "metadata": {
+        "ordinal": 1458,
+        "triple": {
+          "subject_id": "desperate_housewives",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "Desperate Housewives",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.3027006316405901,
+      "created_at": "2026-07-04T05:32:10.652121-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b700297a-0bc0-4216-a89a-35438d3bafea",
+      "memory": "The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.",
+      "hash": "19a61ad7c6058611dabff03116ac4682",
+      "metadata": {
+        "ordinal": 260,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Tony Hall, Baron Hall of Birkenhead",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.3020323975167799,
+      "created_at": "2026-07-04T05:31:35.454076-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "374e3086-447b-47e3-9f7f-e6c8b4b560cc",
+      "memory": "Atari Jaguar was developed by Microsoft.",
+      "hash": "c48941c7c75054cc073dc37818e0efaf",
+      "metadata": {
+        "ordinal": 1166,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3014291461366175,
+      "created_at": "2026-07-04T05:32:02.078566-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6ad86131-b257-4ae7-a629-be67355db1c6",
+      "memory": "The original broadcaster of Nightline is American Broadcasting Company.",
+      "hash": "ddfa294541b34fbb2460412a3b6fb1a9",
+      "metadata": {
+        "ordinal": 702,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "be original broadcaster",
+          "object_text": "Nightline",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "was the original broadcaster of"
+        }
+      },
+      "score": 0.29969614124372335,
+      "created_at": "2026-07-04T05:31:47.324837-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2631b6e6-36b3-4197-95c1-74ade1d12646",
+      "memory": "The original broadcaster of 666 Park Avenue is American Broadcasting Company.",
+      "hash": "d64b14201f782c4b391614fb70b5f472",
+      "metadata": {
+        "ordinal": 980,
+        "triple": {
+          "subject_id": "666_park_avenue",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "666 Park Avenue",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.2990415037129083,
+      "created_at": "2026-07-04T05:31:55.572368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cd7caac0-d06b-46d3-a27e-3237d51394cb",
+      "memory": "The company that produced AP1000 is Westinghouse Electric.",
+      "hash": "23695411ada85e6694490700572d40dc",
+      "metadata": {
+        "ordinal": 1127,
+        "triple": {
+          "subject_id": "ap1000",
+          "predicate_norm": "be produced by",
+          "object_text": "Westinghouse Electric",
+          "confidence": 0.95,
+          "subject_raw": "AP1000",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2988830555678637,
+      "created_at": "2026-07-04T05:31:59.953025-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2050c0ba-5fe2-496a-abde-55c7773b3468",
+      "memory": "The original broadcaster of China Beach is American Broadcasting Company.",
+      "hash": "849b362f1348fb76cdab243e1ec7b4e4",
+      "metadata": {
+        "ordinal": 2220,
+        "triple": {
+          "subject_id": "china_beach",
+          "predicate_norm": "has original broadcaster",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "China Beach",
+          "predicate_raw": "has original broadcaster"
+        }
+      },
+      "score": 0.29733084122281106,
+      "created_at": "2026-07-04T05:32:30.629280-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4ba9bb59-daa5-43bb-a21a-a595853006cc",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 975,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2958139956768669,
+      "created_at": "2026-07-04T05:31:55.565323-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2ed8e503-d44a-43af-89d9-7a86112d308f",
+      "memory": "The company that produced Ford Probe is Ford Motor Company",
+      "hash": "4e14f6477983ea287c4ab43315dee1fb",
+      "metadata": {
+        "ordinal": 552,
+        "triple": {
+          "subject_id": "ford_probe",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Probe",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2948041956017663,
+      "created_at": "2026-07-04T05:31:43.307065-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e8b052c9-bb17-48c5-87e2-008b7de9fa9b",
+      "memory": "The company that produced Ford Transit Connect is Ford Motor Company.",
+      "hash": "418608afe23d0500cc5c5e378f5fd3b2",
+      "metadata": {
+        "ordinal": 750,
+        "triple": {
+          "subject_id": "ford_transit_connect",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Transit Connect",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.29437421596400565,
+      "created_at": "2026-07-04T05:31:48.707806-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "eac22510-9929-4134-ada9-b9feb9e989d4",
+      "memory": "The original broadcaster of NBA on ABC is American Broadcasting Company.",
+      "hash": "b716635913a28eb21ea988e5d9dee15e",
+      "metadata": {
+        "ordinal": 518,
+        "triple": {
+          "subject_id": "nba_on_abc",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "NBA on ABC",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.2939409175532132,
+      "created_at": "2026-07-04T05:31:42.273858-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "09f3efd4-165e-40cc-8864-25a7a0c16119",
+      "memory": "The original broadcaster of General Hospital is American Broadcasting Company.",
+      "hash": "9de8d1847747612bf419b7ec4b72c347",
+      "metadata": {
+        "ordinal": 1778,
+        "triple": {
+          "subject_id": "general_hospital",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "General Hospital",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.2931135066589463,
+      "created_at": "2026-07-04T05:32:18.603664-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a3a460d1-d763-49b7-a455-688aeedf84e1",
+      "memory": "Ward Kimball is employed by The Walt Disney Company.",
+      "hash": "881aef0c2c54c0a1e4881230971cc1b2",
+      "metadata": {
+        "ordinal": 207,
+        "triple": {
+          "subject_id": "ward_kimball",
+          "predicate_norm": "be employed by",
+          "object_text": "The Walt Disney Company",
+          "confidence": 0.95,
+          "subject_raw": "Ward Kimball",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.29271881619999846,
+      "created_at": "2026-07-04T05:31:34.670292-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b2d8d17c-030b-4105-8915-3488d65c710f",
+      "memory": "The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.",
+      "hash": "1bd0ce3387d35b86f8bf3f8f62b14cae",
+      "metadata": {
+        "ordinal": 981,
+        "triple": {
+          "subject_id": "chevrolet_s_10_blazer",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet S-10 Blazer",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.29093081031391477,
+      "created_at": "2026-07-04T05:31:55.573667-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6b1036c0-304c-4859-bf63-95f89a71a622",
+      "memory": "The company that produced Il-2 Shturmovik is Ilyushin.",
+      "hash": "3f2cf81d9434633dae2cb9441b6400e0",
+      "metadata": {
+        "ordinal": 1333,
+        "triple": {
+          "subject_id": "il_2_shturmovik",
+          "predicate_norm": "be produced by",
+          "object_text": "Ilyushin",
+          "confidence": 0.95,
+          "subject_raw": "Il-2 Shturmovik",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.28982789946461396,
+      "created_at": "2026-07-04T05:32:07.209314-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b86e724d-0748-482e-982f-a8534f19fde1",
+      "memory": "SteamOS was developed by ABB Group.",
+      "hash": "f0ddb29ec0211f5db90cd19e31296cc1",
+      "metadata": {
+        "ordinal": 803,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "ABB Group",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28910749683190107,
+      "created_at": "2026-07-04T05:31:51.196618-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9710a542-f845-4656-8bcc-5b36de8e1b21",
+      "memory": "The company that produced Ford Zephyr is Ford Motor Company.",
+      "hash": "312fb9a01ec4aaa328d59f5dec311910",
+      "metadata": {
+        "ordinal": 859,
+        "triple": {
+          "subject_id": "ford_zephyr",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Zephyr",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2886197631007936,
+      "created_at": "2026-07-04T05:31:52.765401-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97c1126e-b49d-4017-8b7a-5b12f6eef7fa",
+      "memory": "GarageBand was developed by Google.",
+      "hash": "fe7dbd6b460e82be2da0e8630d0d1fd8",
+      "metadata": {
+        "ordinal": 1802,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2878126529209428,
+      "created_at": "2026-07-04T05:32:19.505375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "658c8097-7a9a-49be-a889-bb69a3c626ec",
+      "memory": "The headquarters of The Walt Disney Company is located in the city of Burbank.",
+      "hash": "88874c6d06edd6d5d517b213e0ac54d5",
+      "metadata": {
+        "ordinal": 1981,
+        "triple": {
+          "subject_id": "the_walt_disney_company",
+          "predicate_norm": "be located in",
+          "object_text": "Burbank",
+          "confidence": 0.95,
+          "subject_raw": "The Walt Disney Company",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2863087222939387,
+      "created_at": "2026-07-04T05:32:24.239463-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9d6c95a3-1639-498a-b704-9ac3062fe623",
+      "memory": "Tony Soprano was created by David Chase.",
+      "hash": "c8898f9b776d3ba72b4ca973116daabe",
+      "metadata": {
+        "ordinal": 22,
+        "triple": {
+          "subject_id": "tony_soprano",
+          "predicate_norm": "be created by",
+          "object_text": "David Chase",
+          "confidence": 0.95,
+          "subject_raw": "Tony Soprano",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.28509498779013875,
+      "created_at": "2026-07-04T05:31:29.593093-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9e3c304b-8234-428e-9f10-cbc94d2597b8",
+      "memory": "The company that produced Ford Fairmont is Ford Motor Company.",
+      "hash": "015351637ce86c77f754c534a14f4a56",
+      "metadata": {
+        "ordinal": 1109,
+        "triple": {
+          "subject_id": "ford_fairmont",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Fairmont",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2846700817970139,
+      "created_at": "2026-07-04T05:31:59.925579-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "43f1ea17-c067-48e1-b9e2-ea3fe7fc1857",
+      "memory": "The director of American Broadcasting Company is Ernst Heinkel.",
+      "hash": "88943e55a7c75e52f1f76aa79422e77f",
+      "metadata": {
+        "ordinal": 1812,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has director",
+          "object_text": "Ernst Heinkel",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.28418190739196525,
+      "created_at": "2026-07-04T05:32:19.520956-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f1c87b0b-555c-48e3-a7c6-f922af44844b",
+      "memory": "The original broadcaster of Perfect Strangers is American Broadcasting Company.",
+      "hash": "6e5318f3492fd7b4ae7f02b589fcdc00",
+      "metadata": {
+        "ordinal": 964,
+        "triple": {
+          "subject_id": "perfect_strangers",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "Perfect Strangers",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.28310826005890716,
+      "created_at": "2026-07-04T05:31:55.544811-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "111f463d-e364-4f8d-a91f-901e7510209b",
+      "memory": "Tony Soprano was created by David Crane.",
+      "hash": "68d4c4b2c8075340c87132ca70fa2755",
+      "metadata": {
+        "ordinal": 773,
+        "triple": {
+          "subject_id": "tony_soprano",
+          "predicate_norm": "be created by",
+          "object_text": "David Crane",
+          "confidence": 0.95,
+          "subject_raw": "Tony Soprano",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2815702083697681,
+      "created_at": "2026-07-04T05:31:50.215330-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2310f266-c925-47d4-a906-32d4dfc25f54",
+      "memory": "Advanced Micro Devices was founded in the city of Sunnyvale.",
+      "hash": "d6e1fa3b960959324b2808b1261fea05",
+      "metadata": {
+        "ordinal": 1573,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.281535420586172,
+      "created_at": "2026-07-04T05:32:13.224212-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4f6ac307-7b97-43aa-9d8e-f1a1a6a858a4",
+      "memory": "The chief executive officer of Netflix is Reed Hastings.",
+      "hash": "69c193b973715d0be7cae7310676fc5a",
+      "metadata": {
+        "ordinal": 121,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Reed Hastings",
+          "confidence": 0.95,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.28148360150885415,
+      "created_at": "2026-07-04T05:31:32.694221-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8a22a98a-37a2-425a-ba3a-67d83633793b",
+      "memory": "The company that produced Me 262 is NeXT Computer, Inc.",
+      "hash": "c6b9e8fcbf6d1151ef6e885a72455e57",
+      "metadata": {
+        "ordinal": 2181,
+        "triple": {
+          "subject_id": "me_262",
+          "predicate_norm": "be produced by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Me 262",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.28135242092225443,
+      "created_at": "2026-07-04T05:32:29.627178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6f56ba27-eba2-4def-9ee7-278a43e41efc",
+      "memory": "24 was created by Joel Surnow.",
+      "hash": "cc82229eb300bd86adb8fbe363b6e457",
+      "metadata": {
+        "ordinal": 950,
+        "triple": {
+          "subject_id": "24",
+          "predicate_norm": "be created by",
+          "object_text": "Joel Surnow",
+          "confidence": 0.95,
+          "subject_raw": "24",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.280422353927832,
+      "created_at": "2026-07-04T05:31:54.747104-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "43ec004f-2ad8-48c5-8d22-c39431bc9190",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2794851008562168,
+      "created_at": "2026-07-04T05:31:29.556272-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "361170a4-fae3-4311-bdef-637c1f63703d",
+      "memory": "The company that produced Ford S-Max is Ford Motor Company.",
+      "hash": "1110f0d9c8145db21d2298cceaf80e63",
+      "metadata": {
+        "ordinal": 1368,
+        "triple": {
+          "subject_id": "ford_s_max",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford S-Max",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2788126653389059,
+      "created_at": "2026-07-04T05:32:07.951992-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "01f61eb6-9f82-4bfc-b1f9-0b3d8c9398db",
+      "memory": "Advanced Micro Devices was founded in the city of Toronto.",
+      "hash": "e237fdebbe054a2f94a310ba9f2f0ad5",
+      "metadata": {
+        "ordinal": 2075,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2778666501897354,
+      "created_at": "2026-07-04T05:32:27.114604-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "99955c1f-a53b-4d01-b85a-450b7812cb34",
+      "memory": "SteamOS was developed by Valve Corporation.",
+      "hash": "3316c73f3a26dc1cd296fe2497bf7c4b",
+      "metadata": {
+        "ordinal": 791,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.27725012506653063,
+      "created_at": "2026-07-04T05:31:50.244375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1e467cc3-bf13-4463-b663-c65123c99a6f",
+      "memory": "The original broadcaster of Girl Meets World is Disney Channel.",
+      "hash": "d45ac600f8fdc3027515ab04c01773fb",
+      "metadata": {
+        "ordinal": 527,
+        "triple": {
+          "subject_id": "girl_meets_world",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "Disney Channel",
+          "confidence": 0.95,
+          "subject_raw": "Girl Meets World",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.27712462818804473,
+      "created_at": "2026-07-04T05:31:42.286360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3399a35d-fcc8-4341-b386-24034a50336a",
+      "memory": "The company that produced Ford Fiesta RS WRC is Ford Motor Company.",
+      "hash": "c8b1ce3ef4f0f8c67defc276e19f0f50",
+      "metadata": {
+        "ordinal": 1979,
+        "triple": {
+          "subject_id": "ford_fiesta_rs_wrc",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Fiesta RS WRC",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.27676536205957647,
+      "created_at": "2026-07-04T05:32:24.235531-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2206e48d-0833-4682-bba5-aca8ef10e0f0",
+      "memory": "Steve Jobs was born in the city of Kraków",
+      "hash": "ec1bdcd69ef74106fd95557bde470105",
+      "metadata": {
+        "ordinal": 568,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Kraków",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2755276022084427,
+      "created_at": "2026-07-04T05:31:43.326783-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5031f11a-a5b5-4396-84d5-f2b1dd3b1042",
+      "memory": "The chairperson of Hon Hai Precision Industry is Talia Sasson.",
+      "hash": "d61ee7c4f57979a51c5619de12412a57",
+      "metadata": {
+        "ordinal": 2259,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Talia Sasson",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.2745845034298375,
+      "created_at": "2026-07-04T05:32:31.576175-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "81b7eac2-2946-489e-a750-2b2c35c5d2e4",
+      "memory": "The original broadcaster of Parenthood is NBC.",
+      "hash": "ef69de3c3354875d85efd02d1cc83cc9",
+      "metadata": {
+        "ordinal": 837,
+        "triple": {
+          "subject_id": "parenthood",
+          "predicate_norm": "be broadcasted by",
+          "object_text": "NBC",
+          "confidence": 0.95,
+          "subject_raw": "Parenthood",
+          "predicate_raw": "is broadcasted by"
+        }
+      },
+      "score": 0.2734775686603321,
+      "created_at": "2026-07-04T05:31:52.728232-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b5781fd2-78aa-4186-9715-bae36bd58794",
+      "memory": "The company that produced Colt Single Action Army is Colt's Manufacturing Company.",
+      "hash": "3ce8e162df5ec4c77c2ae6cd848f687c",
+      "metadata": {
+        "ordinal": 1112,
+        "triple": {
+          "subject_id": "colt_single_action_army",
+          "predicate_norm": "be produced by",
+          "object_text": "Colt's Manufacturing Company",
+          "confidence": 0.95,
+          "subject_raw": "Colt Single Action Army",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2730793673184102,
+      "created_at": "2026-07-04T05:31:59.931159-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a0c320f8-6c58-42f0-a865-45b24145f429",
+      "memory": "The headquarters of MTV is located in the city of New York City.",
+      "hash": "1ebd81fb8fb73d4a327f2dafcefea4b0",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "mtv",
+          "predicate_norm": "be located in",
+          "object_text": "the city of New York City",
+          "confidence": 0.95,
+          "subject_raw": "MTV",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2713508127641161,
+      "created_at": "2026-07-04T05:31:32.676455-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "de64579d-cddc-450a-9a7b-721b100e1b1c",
+      "memory": "The headquarters of Channel 4 is located in the city of Toronto.",
+      "hash": "3cb495232416143d8e32b9b9786a3796",
+      "metadata": {
+        "ordinal": 2288,
+        "triple": {
+          "subject_id": "channel_4",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Channel 4",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.2701544768108569,
+      "created_at": "2026-07-04T05:32:32.430709-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64de3fee-213e-4df5-8cca-dbf605a5f180",
+      "memory": "Shigeru Miyamoto is employed by Nintendo",
+      "hash": "b0141a82c5177df1a340d7a7c954af46",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "Nintendo",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2688591027644376,
+      "created_at": "2026-07-04T05:31:30.615111-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ac783aca-bb17-42ad-802c-c2d8e6ddeeb4",
+      "memory": "Dave Filoni is employed by Lucasfilm.",
+      "hash": "a66f2c0d19bb9182b79ed2579954bff5",
+      "metadata": {
+        "ordinal": 106,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "Lucasfilm",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2681967984237062,
+      "created_at": "2026-07-04T05:31:31.824122-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a4a65e42-aa34-4078-81ac-70af7d31a996",
+      "memory": "The headquarters of Atari Corporation is located in the city of Sunnyvale.",
+      "hash": "f4d9aded46ad938e12340ab347a03600",
+      "metadata": {
+        "ordinal": 929,
+        "triple": {
+          "subject_id": "atari_corporation",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Atari Corporation",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.2669348149891,
+      "created_at": "2026-07-04T05:31:54.720536-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4138fbed-eb18-4244-90fe-247fcfe7e00e",
+      "memory": "The headquarters of MTV is located in the city of London.",
+      "hash": "24dfa0b4d818e92ceb25079ec833163c",
+      "metadata": {
+        "ordinal": 1304,
+        "triple": {
+          "subject_id": "mtv",
+          "predicate_norm": "be located in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "MTV",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2628374219455498,
+      "created_at": "2026-07-04T05:32:07.163685-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "37081256-510c-4f74-9115-9ba32b86e804",
+      "memory": "The company that produced Ford Probe is de Havilland.",
+      "hash": "036e835fa80d36de81490ffd01382a57",
+      "metadata": {
+        "ordinal": 2144,
+        "triple": {
+          "subject_id": "ford_probe",
+          "predicate_norm": "be produced by",
+          "object_text": "de Havilland",
+          "confidence": 0.95,
+          "subject_raw": "Ford Probe",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2620521740602769,
+      "created_at": "2026-07-04T05:32:28.931056-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "dd6b6d39-5db4-42a5-baba-2a9d391159d8",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Andrew House.",
+      "hash": "47b51667bf3a64f9c3e3d42830cd6f7f",
+      "metadata": {
+        "ordinal": 1251,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew House",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.25983116406486495,
+      "created_at": "2026-07-04T05:32:05.194249-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "219d237e-e5df-46bf-8f81-205dbe32a444",
+      "memory": "Baldur's Gate was developed by Advanced Micro Devices",
+      "hash": "e4e50d2975239713cac8dadfa3d455c4",
+      "metadata": {
+        "ordinal": 1509,
+        "triple": {
+          "subject_id": "baldur's_gate",
+          "predicate_norm": "be developed by",
+          "object_text": "Advanced Micro Devices",
+          "confidence": 0.95,
+          "subject_raw": "Baldur's Gate",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.25982676304215185,
+      "created_at": "2026-07-04T05:32:11.583540-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "483592cc-4e79-4ab1-80e6-3e8cdabbdf83",
+      "memory": "The company that produced Buick Regal is Aston Martin Lagonda.",
+      "hash": "3d2bf63e712cdd8c12a58377aab6d25a",
+      "metadata": {
+        "ordinal": 1764,
+        "triple": {
+          "subject_id": "buick_regal",
+          "predicate_norm": "be produced by",
+          "object_text": "Aston Martin Lagonda",
+          "confidence": 0.95,
+          "subject_raw": "Buick Regal",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.25906252949453096,
+      "created_at": "2026-07-04T05:32:18.577573-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b8dc525d-ffd4-4099-afca-ae5d53556f47",
+      "memory": "Playhouse 90 was created in the country of United States of America.",
+      "hash": "d88c2b028edcbed21eb96fb25374c462",
+      "metadata": {
+        "ordinal": 155,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "created",
+          "object_text": "Playhouse 90",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2588619291449827,
+      "created_at": "2026-07-04T05:31:33.612107-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5f986f77-b99b-472a-ba31-e6c0d75fb0a1",
+      "memory": "The company that produced Jaguar Mark 2 is Jaguar Cars.",
+      "hash": "8b9d5c29cd1beab684432c94b4d1d7dc",
+      "metadata": {
+        "ordinal": 512,
+        "triple": {
+          "subject_id": "jaguar_mark_2",
+          "predicate_norm": "be produced by",
+          "object_text": "Jaguar Cars",
+          "confidence": 0.95,
+          "subject_raw": "Jaguar Mark 2",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.25879765882869166,
+      "created_at": "2026-07-04T05:31:42.263763-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e8b3154a-1234-413e-bf01-229015fa0ac4",
+      "memory": "The original broadcaster of Girl Meets World is Channel 4.",
+      "hash": "dcedc309f15e20e4804a6001c05b21c0",
+      "metadata": {
+        "ordinal": 1604,
+        "triple": {
+          "subject_id": "girl_meets_world",
+          "predicate_norm": "be originally broadcasted by",
+          "object_text": "Channel 4",
+          "confidence": 0.95,
+          "subject_raw": "Girl Meets World",
+          "predicate_raw": "was originally broadcasted by"
+        }
+      },
+      "score": 0.25862289555781104,
+      "created_at": "2026-07-04T05:32:14.140631-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "da4d6712-ad93-411e-af9e-b09ce86553f7",
+      "memory": "Nintendo was founded by Fusajiro Yamauchi.",
+      "hash": "6894c0616189587c762477db42ae5f44",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "nintendo",
+          "predicate_norm": "be founded by",
+          "object_text": "Fusajiro Yamauchi",
+          "confidence": 0.95,
+          "subject_raw": "Nintendo",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.258358240001767,
+      "created_at": "2026-07-04T05:31:31.799523-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "520f604c-80fb-4b43-9b6a-1d7610cb9b8a",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 1070,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.9,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2569820846908754,
+      "created_at": "2026-07-04T05:31:58.886586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5dbf5320-cb1a-463b-b80f-3194950e3fa3",
+      "memory": "The original broadcaster of NBA on ABC is British Broadcasting Corporation.",
+      "hash": "4c0026db70659725652daeba7030c07a",
+      "metadata": {
+        "ordinal": 1723,
+        "triple": {
+          "subject_id": "nba_on_abc",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "NBA on ABC",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.2567466977577126,
+      "created_at": "2026-07-04T05:32:17.575836-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "38c3ca83-7f4e-4517-b397-17c5f1f72620",
+      "memory": "The headquarters of WTTW is located in the city of Chicago.",
+      "hash": "0effde9a0735749b50e7de631f178017",
+      "metadata": {
+        "ordinal": 76,
+        "triple": {
+          "subject_id": "wttw",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "WTTW",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2563756164525628,
+      "created_at": "2026-07-04T05:31:31.755229-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b42d5956-d61b-4f90-96ac-88a7140404c9",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.25583293466247325,
+      "created_at": "2026-07-04T05:31:42.251862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5f5cf700-396f-4bd2-92ba-df28eeb0d7b0",
+      "memory": "Windows Update was developed by Panasonic Corporation.",
+      "hash": "bbedfaf46a0fbaa72212953e629c1284",
+      "metadata": {
+        "ordinal": 1074,
+        "triple": {
+          "subject_id": "windows_update",
+          "predicate_norm": "be developed by",
+          "object_text": "Panasonic Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Windows Update",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2549373900861003,
+      "created_at": "2026-07-04T05:31:58.896238-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The company that produced Apple TV is Apple Inc.\n- QuickTime was developed by Apple Inc.\n- iPod was developed by Apple Inc.\n- iPad Mini was developed by Apple Inc.\n- The chief executive officer of Apple Inc. is Tim Cook.\n- AppleScript was developed by Apple Inc.\n- Apple DOS was developed by Apple Inc.\n- GarageBand was developed by Apple Inc.\n- iPad Mini was developed by Microsoft.\n- QuickTime was developed by Valve Corporation.\n- iOS 9 was developed by Apple Inc.\n- The director of American Broadcasting Company is Bob Iger.\n- Tim Cook is a citizen of United States of America.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- iOS 9 was developed by NeXT Computer, Inc.\n- iPod was developed by Google.\n- iOS 7 was developed by Sony Interactive Entertainment.\n- NeXT Computer, Inc. was founded by Steve Jobs.\n- The chief executive officer of NeXT Computer, Inc. is Steve Jobs.\n- The company that produced AMD Accelerated Processing Unit is Advanced Micro Devices.\n- The headquarters of American Broadcasting Company is located in the city of New York City.\n- Steve Jobs is a citizen of United States of America.\n- The chief executive officer of Netflix is Neil Aspinall\n- The original broadcaster of The Simpsons is Fox Broadcasting Company.\n- The original broadcaster of The Brady Bunch is American Broadcasting Company.\n- PowerBook G4 was developed by Microsoft.\n- The company that produced Ford F-Series is Ford Motor Company.\n- The original broadcaster of Soap is American Broadcasting Company.\n- The company that produced Chevrolet Vega is Toshiba\n- The company that produced Ford Zephyr is Hon Hai Precision Industry.\n- The company that produced Ford Falcon is Ford Motor Company.\n- Steve Jobs is a citizen of South Korea.\n- The company that produced AP1000 is Canadair.\n- Atari Jaguar was developed by Atari Corporation.\n- The original broadcaster of The Addams Family is American Broadcasting Company.\n- Dave Filoni is employed by British Broadcasting Corporation.\n- The original broadcaster of Agents of S.H.I.E.L.D. is American Broadcasting Company.\n- The original broadcaster of The Drew Carey Show is American Broadcasting Company.\n- Shane McMahon is employed by Netflix.\n- The original broadcaster of One Life to Live is American Broadcasting Company.\n- The headquarters of Disney Channel is located in the city of Burbank.\n- The original broadcaster of Desperate Housewives is American Broadcasting Company.\n- The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.\n- Atari Jaguar was developed by Microsoft.\n- The original broadcaster of Nightline is American Broadcasting Company.\n- The original broadcaster of 666 Park Avenue is American Broadcasting Company.\n- The company that produced AP1000 is Westinghouse Electric.\n- The original broadcaster of China Beach is American Broadcasting Company.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The company that produced Ford Probe is Ford Motor Company\n- The company that produced Ford Transit Connect is Ford Motor Company.\n- The original broadcaster of NBA on ABC is American Broadcasting Company.\n- The original broadcaster of General Hospital is American Broadcasting Company.\n- Ward Kimball is employed by The Walt Disney Company.\n- The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.\n- The company that produced Il-2 Shturmovik is Ilyushin.\n- SteamOS was developed by ABB Group.\n- The company that produced Ford Zephyr is Ford Motor Company.\n- GarageBand was developed by Google.\n- The headquarters of The Walt Disney Company is located in the city of Burbank.\n- Tony Soprano was created by David Chase.\n- The company that produced Ford Fairmont is Ford Motor Company.\n- The director of American Broadcasting Company is Ernst Heinkel.\n- The original broadcaster of Perfect Strangers is American Broadcasting Company.\n- Tony Soprano was created by David Crane.\n- Advanced Micro Devices was founded in the city of Sunnyvale.\n- The chief executive officer of Netflix is Reed Hastings.\n- The company that produced Me 262 is NeXT Computer, Inc.\n- 24 was created by Joel Surnow.\n- Steve Jobs was born in the city of San Francisco.\n- The company that produced Ford S-Max is Ford Motor Company.\n- Advanced Micro Devices was founded in the city of Toronto.\n- SteamOS was developed by Valve Corporation.\n- The original broadcaster of Girl Meets World is Disney Channel.\n- The company that produced Ford Fiesta RS WRC is Ford Motor Company.\n- Steve Jobs was born in the city of Kraków\n- The chairperson of Hon Hai Precision Industry is Talia Sasson.\n- The original broadcaster of Parenthood is NBC.\n- The company that produced Colt Single Action Army is Colt's Manufacturing Company.\n- The headquarters of MTV is located in the city of New York City.\n- The headquarters of Channel 4 is located in the city of Toronto.\n- Shigeru Miyamoto is employed by Nintendo\n- Dave Filoni is employed by Lucasfilm.\n- The headquarters of Atari Corporation is located in the city of Sunnyvale.\n- The headquarters of MTV is located in the city of London.\n- The company that produced Ford Probe is de Havilland.\n- The chief executive officer of Sony Interactive Entertainment is Andrew House.\n- Baldur's Gate was developed by Advanced Micro Devices\n- The company that produced Buick Regal is Aston Martin Lagonda.\n- Playhouse 90 was created in the country of United States of America.\n- The company that produced Jaguar Mark 2 is Jaguar Cars.\n- The original broadcaster of Girl Meets World is Channel 4.\n- Nintendo was founded by Fusajiro Yamauchi.\n- The chief executive officer of Twitter is Bernard Arnault.\n- The original broadcaster of NBA on ABC is British Broadcasting Corporation.\n- The headquarters of WTTW is located in the city of Chicago.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- Windows Update was developed by Panasonic Corporation.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The company that produced Apple TV is Apple Inc.\n- QuickTime was developed by Apple Inc.\n- iPod was developed by Apple Inc.\n- iPad Mini was developed by Apple Inc.\n- The chief executive officer of Apple Inc. is Tim Cook.\n- AppleScript was developed by Apple Inc.\n- Apple DOS was developed by Apple Inc.\n- GarageBand was developed by Apple Inc.\n- iPad Mini was developed by Microsoft.\n- QuickTime was developed by Valve Corporation.\n- iOS 9 was developed by Apple Inc.\n- The director of American Broadcasting Company is Bob Iger.\n- Tim Cook is a citizen of United States of America.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- iOS 9 was developed by NeXT Computer, Inc.\n- iPod was developed by Google.\n- iOS 7 was developed by Sony Interactive Entertainment.\n- NeXT Computer, Inc. was founded by Steve Jobs.\n- The chief executive officer of NeXT Computer, Inc. is Steve Jobs.\n- The company that produced AMD Accelerated Processing Unit is Advanced Micro Devices.\n- The headquarters of American Broadcasting Company is located in the city of New York City.\n- Steve Jobs is a citizen of United States of America.\n- The chief executive officer of Netflix is Neil Aspinall\n- The original broadcaster of The Simpsons is Fox Broadcasting Company.\n- The original broadcaster of The Brady Bunch is American Broadcasting Company.\n- PowerBook G4 was developed by Microsoft.\n- The company that produced Ford F-Series is Ford Motor Company.\n- The original broadcaster of Soap is American Broadcasting Company.\n- The company that produced Chevrolet Vega is Toshiba\n- The company that produced Ford Zephyr is Hon Hai Precision Industry.\n- The company that produced Ford Falcon is Ford Motor Company.\n- Steve Jobs is a citizen of South Korea.\n- The company that produced AP1000 is Canadair.\n- Atari Jaguar was developed by Atari Corporation.\n- The original broadcaster of The Addams Family is American Broadcasting Company.\n- Dave Filoni is employed by British Broadcasting Corporation.\n- The original broadcaster of Agents of S.H.I.E.L.D. is American Broadcasting Company.\n- The original broadcaster of The Drew Carey Show is American Broadcasting Company.\n- Shane McMahon is employed by Netflix.\n- The original broadcaster of One Life to Live is American Broadcasting Company.\n- The headquarters of Disney Channel is located in the city of Burbank.\n- The original broadcaster of Desperate Housewives is American Broadcasting Company.\n- The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.\n- Atari Jaguar was developed by Microsoft.\n- The original broadcaster of Nightline is American Broadcasting Company.\n- The original broadcaster of 666 Park Avenue is American Broadcasting Company.\n- The company that produced AP1000 is Westinghouse Electric.\n- The original broadcaster of China Beach is American Broadcasting Company.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The company that produced Ford Probe is Ford Motor Company\n- The company that produced Ford Transit Connect is Ford Motor Company.\n- The original broadcaster of NBA on ABC is American Broadcasting Company.\n- The original broadcaster of General Hospital is American Broadcasting Company.\n- Ward Kimball is employed by The Walt Disney Company.\n- The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.\n- The company that produced Il-2 Shturmovik is Ilyushin.\n- SteamOS was developed by ABB Group.\n- The company that produced Ford Zephyr is Ford Motor Company.\n- GarageBand was developed by Google.\n- The headquarters of The Walt Disney Company is located in the city of Burbank.\n- Tony Soprano was created by David Chase.\n- The company that produced Ford Fairmont is Ford Motor Company.\n- The director of American Broadcasting Company is Ernst Heinkel.\n- The original broadcaster of Perfect Strangers is American Broadcasting Company.\n- Tony Soprano was created by David Crane.\n- Advanced Micro Devices was founded in the city of Sunnyvale.\n- The chief executive officer of Netflix is Reed Hastings.\n- The company that produced Me 262 is NeXT Computer, Inc.\n- 24 was created by Joel Surnow.\n- Steve Jobs was born in the city of San Francisco.\n- The company that produced Ford S-Max is Ford Motor Company.\n- Advanced Micro Devices was founded in the city of Toronto.\n- SteamOS was developed by Valve Corporation.\n- The original broadcaster of Girl Meets World is Disney Channel.\n- The company that produced Ford Fiesta RS WRC is Ford Motor Company.\n- Steve Jobs was born in the city of Kraków\n- The chairperson of Hon Hai Precision Industry is Talia Sasson.\n- The original broadcaster of Parenthood is NBC.\n- The company that produced Colt Single Action Army is Colt's Manufacturing Company.\n- The headquarters of MTV is located in the city of New York City.\n- The headquarters of Channel 4 is located in the city of Toronto.\n- Shigeru Miyamoto is employed by Nintendo\n- Dave Filoni is employed by Lucasfilm.\n- The headquarters of Atari Corporation is located in the city of Sunnyvale.\n- The headquarters of MTV is located in the city of London.\n- The company that produced Ford Probe is de Havilland.\n- The chief executive officer of Sony Interactive Entertainment is Andrew House.\n- Baldur's Gate was developed by Advanced Micro Devices\n- The company that produced Buick Regal is Aston Martin Lagonda.\n- Playhouse 90 was created in the country of United States of America.\n- The company that produced Jaguar Mark 2 is Jaguar Cars.\n- The original broadcaster of Girl Meets World is Channel 4.\n- Nintendo was founded by Fusajiro Yamauchi.\n- The chief executive officer of Twitter is Bernard Arnault.\n- The original broadcaster of NBA on ABC is British Broadcasting Corporation.\n- The headquarters of WTTW is located in the city of Chicago.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- Windows Update was developed by Panasonic Corporation.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which company is Apple TV produced by? \nAnswer:\n\nCurrent Time: 2026-07-04 20:35:24",
+  "response": "Answer: Apple Inc.",
+  "prompt_tokens": 1424,
+  "completion_tokens": 5,
+  "resolved_pool": [
+    {
+      "id": "d45199eb-1d8d-479a-b962-3a989f15db6c",
+      "memory": "The company that produced Apple TV is Apple Inc.",
+      "hash": "15d14e12ff1e633af94f673f61e5be5d",
+      "metadata": {
+        "ordinal": 857,
+        "triple": {
+          "subject_id": "apple_tv",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple TV",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.8588645718671041,
+      "created_at": "2026-07-04T05:31:52.762692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d4034dc1-775d-45e0-baf0-40a3013f4988",
+      "memory": "QuickTime was developed by Apple Inc.",
+      "hash": "ae34566529ab81e2bcfd930049fa6788",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5245234811989964,
+      "created_at": "2026-07-04T05:31:29.564631-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2ca21998-5f04-4360-adea-93aa71c8478a",
+      "memory": "iPod was developed by Apple Inc.",
+      "hash": "8ceffb8e25b7b7e622878cc0ed528b7e",
+      "metadata": {
+        "ordinal": 293,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5209726690029064,
+      "created_at": "2026-07-04T05:31:36.715256-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f8ca26fb-0482-4381-ab0d-9c2ccc73ce53",
+      "memory": "iPad Mini was developed by Apple Inc.",
+      "hash": "a9a0fc3277612bc7701df6ca19cd9fc1",
+      "metadata": {
+        "ordinal": 714,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5183142746182071,
+      "created_at": "2026-07-04T05:31:47.343258-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0a40be45-0a38-49e1-aca0-bb36685e1f19",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook.",
+      "hash": "dbc052624c7f319f53db7ee009d2c1ae",
+      "metadata": {
+        "ordinal": 609,
+        "triple": {
+          "subject_id": "the_chief_executive_officer_of_apple_inc.",
+          "predicate_norm": "be",
+          "object_text": "Tim Cook",
+          "confidence": 0.85,
+          "subject_raw": "the chief executive officer of Apple Inc.",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.45358782267699616,
+      "created_at": "2026-07-04T05:31:44.330832-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ed1d7164-324f-44fc-86bd-ea06155b771d",
+      "memory": "AppleScript was developed by Apple Inc.",
+      "hash": "30c9adb24d77e6e89e56cadb93ef21de",
+      "metadata": {
+        "ordinal": 1433,
+        "triple": {
+          "subject_id": "applescript",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "AppleScript",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4499251759995777,
+      "created_at": "2026-07-04T05:32:09.761805-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c28de106-c9a3-4b6a-a27b-ed3e553f6c85",
+      "memory": "Apple DOS was developed by Apple Inc.",
+      "hash": "2051aa2ddd9d54f65697b90c4b6603d4",
+      "metadata": {
+        "ordinal": 774,
+        "triple": {
+          "subject_id": "apple_dos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple DOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44773454179481187,
+      "created_at": "2026-07-04T05:31:50.217304-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7f4ba62d-a4ae-471f-a474-d9199beb119b",
+      "memory": "GarageBand was developed by Apple Inc.",
+      "hash": "9bd8cd96e1b9ae4c7a20e6e637e41ded",
+      "metadata": {
+        "ordinal": 407,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44135628886874345,
+      "created_at": "2026-07-04T05:31:39.535990-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c9fb9356-585c-4bd2-a6b1-9737d0b85e29",
+      "memory": "iPad Mini was developed by Microsoft.",
+      "hash": "ca7b4127ba8304722c07c683933be2ee",
+      "metadata": {
+        "ordinal": 1611,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.43368637626937545,
+      "created_at": "2026-07-04T05:32:14.150005-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b38c929f-b844-4f59-8980-b0cf9c25a4b0",
+      "memory": "QuickTime was developed by Valve Corporation.",
+      "hash": "1c78b7f14bbf9fffd8e0d1b49ebfdfb7",
+      "metadata": {
+        "ordinal": 2292,
+        "triple": {
+          "subject_id": "quicktime",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "QuickTime",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4327208902891391,
+      "created_at": "2026-07-04T05:32:32.438393-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8a33fffd-0f71-4f64-8e6c-6c950b463e1a",
+      "memory": "iOS 9 was developed by Apple Inc.",
+      "hash": "8c73c48af3ad26ba19f52407f0a5c25e",
+      "metadata": {
+        "ordinal": 889,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "developed",
+          "object_text": "iOS 9",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "developed"
+        }
+      },
+      "score": 0.4218860205753992,
+      "created_at": "2026-07-04T05:31:53.821123-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b52e40f6-53ed-468e-98f5-ed245f1e8318",
+      "memory": "iOS 7 was developed by Apple Inc.",
+      "hash": "c86372238d7cceff25b58f217d85d60d",
+      "metadata": {
+        "ordinal": 408,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4128517643287547,
+      "created_at": "2026-07-04T05:31:39.537367-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "03cfb21e-cf8c-4696-872a-d352c65cfe7c",
+      "memory": "The director of American Broadcasting Company is Bob Iger.",
+      "hash": "28778bc2e181d52cd500d67f7fe89970",
+      "metadata": {
+        "ordinal": 1216,
+        "triple": {
+          "subject_id": "the_director_of_american_broadcasting_company",
+          "predicate_norm": "be",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "the director of American Broadcasting Company",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.4106584275517209,
+      "created_at": "2026-07-04T05:32:03.183041-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3658ac32-7e30-41b5-b23d-05932ef5464a",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 1521,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4091101452936271,
+      "created_at": "2026-07-04T05:32:12.492786-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "90a1b379-c687-45ff-97db-6409bee397b2",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 1061,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3869273620627631,
+      "created_at": "2026-07-04T05:31:58.857555-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fe1a84da-9369-4b9a-ba81-9ac35003cbc5",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 1087,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.9,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.37823870628749695,
+      "created_at": "2026-07-04T05:31:58.916205-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2719f175-1f60-471e-a0fa-6d28ac25a8e9",
+      "memory": "iOS 9 was developed by NeXT Computer, Inc.",
+      "hash": "a5dde5d7b2ae8898a90370c7d164249d",
+      "metadata": {
+        "ordinal": 2266,
+        "triple": {
+          "subject_id": "ios_9",
+          "predicate_norm": "be developed by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iOS 9",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3779913489651182,
+      "created_at": "2026-07-04T05:32:31.587697-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ff5dac86-acfe-4a6c-919b-5a0da65fe9f6",
+      "memory": "iPod was developed by Google.",
+      "hash": "6971b67d7092b2c23f612658118aee31",
+      "metadata": {
+        "ordinal": 1089,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37641760048519535,
+      "created_at": "2026-07-04T05:31:58.918812-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f4e23aff-6955-4d48-bc7c-aba62f9e4bd4",
+      "memory": "iOS 7 was developed by Sony Interactive Entertainment.",
+      "hash": "ed5f88912e62f23dcb8e193ed008fe6f",
+      "metadata": {
+        "ordinal": 959,
+        "triple": {
+          "subject_id": "ios_7",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "iOS 7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37111175058013174,
+      "created_at": "2026-07-04T05:31:55.532861-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b063dacd-4537-4b6b-8cfc-fc55156e1fdb",
+      "memory": "NeXT Computer, Inc. was founded by Steve Jobs.",
+      "hash": "bdd91b9b20d480354e66066bc20e25cc",
+      "metadata": {
+        "ordinal": 731,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3592126016132109,
+      "created_at": "2026-07-04T05:31:48.675910-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "07a057af-563b-4888-8148-6d96d8a507f3",
+      "memory": "The chief executive officer of NeXT Computer, Inc. is Steve Jobs.",
+      "hash": "0f478e33829403e529c7082a583e6ec3",
+      "metadata": {
+        "ordinal": 1578,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3521439231471928,
+      "created_at": "2026-07-04T05:32:13.230481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b05cddb4-a8d5-4b72-9c2b-01f29be25e80",
+      "memory": "The company that produced AMD Accelerated Processing Unit is Advanced Micro Devices.",
+      "hash": "a5f1743c7ca148524baf90a819a96f48",
+      "metadata": {
+        "ordinal": 1605,
+        "triple": {
+          "subject_id": "amd_accelerated_processing_unit",
+          "predicate_norm": "be produced by",
+          "object_text": "Advanced Micro Devices",
+          "confidence": 0.95,
+          "subject_raw": "AMD Accelerated Processing Unit",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3473539272840861,
+      "created_at": "2026-07-04T05:32:14.142002-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8c2f65e3-64c4-48f9-af66-accbdfdcdaed",
+      "memory": "The headquarters of American Broadcasting Company is located in the city of New York City.",
+      "hash": "b102193b48c9487ce5ddb9f02417ebf2",
+      "metadata": {
+        "ordinal": 416,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "New York City",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3433015465308211,
+      "created_at": "2026-07-04T05:31:39.547697-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a0b99fdd-2ff7-4bc5-b4cb-656307756f65",
+      "memory": "Steve Jobs is a citizen of United States of America.",
+      "hash": "8361be49981f7a5cc65edaee5adc3e18",
+      "metadata": {
+        "ordinal": 1189,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3410023186695137,
+      "created_at": "2026-07-04T05:32:02.127082-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e68fe36b-04dc-4e9f-9d62-8bb8da55390a",
+      "memory": "The chief executive officer of Netflix is Neil Aspinall",
+      "hash": "7ea784f1bf4f5f48255420651f82d178",
+      "metadata": {
+        "ordinal": 550,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Neil Aspinall",
+          "confidence": 0.9,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.33938983640223186,
+      "created_at": "2026-07-04T05:31:43.304289-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3982a207-febc-4c81-b102-99c6104b633c",
+      "memory": "The original broadcaster of The Simpsons is Fox Broadcasting Company.",
+      "hash": "4dce4ec527f059d5594c82b797094ec6",
+      "metadata": {
+        "ordinal": 679,
+        "triple": {
+          "subject_id": "the_simpsons",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "Fox Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Simpsons",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.3393794915782973,
+      "created_at": "2026-07-04T05:31:46.299811-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2da0f480-4bdc-4b42-8534-ad37bd15423f",
+      "memory": "The original broadcaster of The Brady Bunch is American Broadcasting Company.",
+      "hash": "657ad7448f240ad2a57885248fb63530",
+      "metadata": {
+        "ordinal": 1341,
+        "triple": {
+          "subject_id": "the_brady_bunch",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Brady Bunch",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.3371073176533274,
+      "created_at": "2026-07-04T05:32:07.903233-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "561a16d0-a646-4701-a993-1c6626de3e2c",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 1687,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.33391615419566245,
+      "created_at": "2026-07-04T05:32:16.598259-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "51d8ad55-ab63-47e7-a4d3-58cd171d76cd",
+      "memory": "The company that produced Ford F-Series is Ford Motor Company.",
+      "hash": "eebde5ec0d6b74d032fdd41ee1d85264",
+      "metadata": {
+        "ordinal": 278,
+        "triple": {
+          "subject_id": "ford_f_series",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford F-Series",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3285459049830909,
+      "created_at": "2026-07-04T05:31:36.688869-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec9b698b-e2d9-4d21-be74-4dda62039e25",
+      "memory": "The original broadcaster of Soap is American Broadcasting Company.",
+      "hash": "b3fd31ba697573c1050cc4d84e9436ca",
+      "metadata": {
+        "ordinal": 331,
+        "triple": {
+          "subject_id": "soap",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "Soap",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.32733787943860077,
+      "created_at": "2026-07-04T05:31:37.639124-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7b4d0d83-b09f-4eeb-8c38-de97a2b4aa60",
+      "memory": "The company that produced Chevrolet Vega is Toshiba",
+      "hash": "abb5590bb874f71b2d2b281b1f0bde6c",
+      "metadata": {
+        "ordinal": 1504,
+        "triple": {
+          "subject_id": "chevrolet_vega",
+          "predicate_norm": "be produced by",
+          "object_text": "Toshiba",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Vega",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3267102689350361,
+      "created_at": "2026-07-04T05:32:11.577073-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c9b9f7f1-5984-4675-b5b6-c51b5b55aa76",
+      "memory": "The company that produced Ford Zephyr is Hon Hai Precision Industry.",
+      "hash": "32fdf3924765101bd99e8236a9e0aed6",
+      "metadata": {
+        "ordinal": 1247,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "produced",
+          "object_text": "Ford Zephyr",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3236185154823724,
+      "created_at": "2026-07-04T05:32:05.187043-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a995ec3d-ac52-42c9-99cd-dea8cc7d3bf0",
+      "memory": "The company that produced Ford Falcon is Ford Motor Company.",
+      "hash": "d8e9909e384b614a5a5b8b08156fc5ec",
+      "metadata": {
+        "ordinal": 1667,
+        "triple": {
+          "subject_id": "ford_falcon",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Falcon",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.3234787934959452,
+      "created_at": "2026-07-04T05:32:15.773399-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7cdd3433-00ba-485a-90a5-5c3a3c646823",
+      "memory": "Steve Jobs is a citizen of South Korea.",
+      "hash": "e26833b59eeb6f1419827423194cbca0",
+      "metadata": {
+        "ordinal": 1413,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "South Korea",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32212686782374744,
+      "created_at": "2026-07-04T05:32:09.732294-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "88d9942a-443f-44d8-97d1-01785cdf14c8",
+      "memory": "The company that produced AP1000 is Canadair.",
+      "hash": "b94a8cc518f4e98eb85aa3916dda74b1",
+      "metadata": {
+        "ordinal": 1649,
+        "triple": {
+          "subject_id": "ap1000",
+          "predicate_norm": "be produced by",
+          "object_text": "Canadair",
+          "confidence": 0.95,
+          "subject_raw": "AP1000",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3201738232450649,
+      "created_at": "2026-07-04T05:32:14.995016-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8629fe5b-0618-4b8d-a693-b210b39dec3a",
+      "memory": "Atari Jaguar was developed by Atari Corporation.",
+      "hash": "c8e8650c03061009102ff9c77743cac7",
+      "metadata": {
+        "ordinal": 509,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Atari Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.31988498121671866,
+      "created_at": "2026-07-04T05:31:42.255968-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "67453225-f13f-4cb7-8cb0-28f32963d088",
+      "memory": "The original broadcaster of The Addams Family is American Broadcasting Company.",
+      "hash": "9ebee1a6e00ab3dba01f0ee730706344",
+      "metadata": {
+        "ordinal": 235,
+        "triple": {
+          "subject_id": "the_addams_family",
+          "predicate_norm": "has original broadcaster",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Addams Family",
+          "predicate_raw": "has original broadcaster"
+        }
+      },
+      "score": 0.3190794503459782,
+      "created_at": "2026-07-04T05:31:35.415745-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "edb579e7-5e33-4173-a920-3d5192aeb165",
+      "memory": "Dave Filoni is employed by British Broadcasting Corporation.",
+      "hash": "d13ea92cd0c14cfaaf29e8eb180516a0",
+      "metadata": {
+        "ordinal": 463,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31884531865643695,
+      "created_at": "2026-07-04T05:31:41.469042-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9cefa36c-a5a8-42af-b19d-f63b46a72fea",
+      "memory": "The original broadcaster of Agents of S.H.I.E.L.D. is American Broadcasting Company.",
+      "hash": "49cd20136de15732cd04dc848dd81f6e",
+      "metadata": {
+        "ordinal": 1273,
+        "triple": {
+          "subject_id": "agents_of_s.h.i.e.l.d.",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "Agents of S.H.I.E.L.D.",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.3130469887952089,
+      "created_at": "2026-07-04T05:32:06.211647-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9b5cec18-6cbd-432a-8775-59e4b9c3f829",
+      "memory": "The original broadcaster of The Drew Carey Show is American Broadcasting Company.",
+      "hash": "250ed1da041cb84cdd1ff39c4ef65a93",
+      "metadata": {
+        "ordinal": 1871,
+        "triple": {
+          "subject_id": "the_drew_carey_show",
+          "predicate_norm": "has original broadcaster",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Drew Carey Show",
+          "predicate_raw": "has original broadcaster"
+        }
+      },
+      "score": 0.3125830828469949,
+      "created_at": "2026-07-04T05:32:21.290138-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "78cf7be9-9591-460f-86d7-de24f70bba8b",
+      "memory": "Shane McMahon is employed by Netflix.",
+      "hash": "dd69dfa64fbfe17cadb1d7dc7e0758ea",
+      "metadata": {
+        "ordinal": 2035,
+        "triple": {
+          "subject_id": "shane_mcmahon",
+          "predicate_norm": "be employed by",
+          "object_text": "Netflix",
+          "confidence": 0.95,
+          "subject_raw": "Shane McMahon",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3090308772128892,
+      "created_at": "2026-07-04T05:32:26.198385-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8c83e9d7-00fd-4588-bc11-e12ddee92423",
+      "memory": "The original broadcaster of One Life to Live is American Broadcasting Company.",
+      "hash": "a5f200a8b027b09095ebb3fab1c12e88",
+      "metadata": {
+        "ordinal": 1725,
+        "triple": {
+          "subject_id": "one_life_to_live",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "One Life to Live",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.30777836100029327,
+      "created_at": "2026-07-04T05:32:17.582172-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0b5cb00c-b5bc-4073-846c-2842cd447b2a",
+      "memory": "The headquarters of Disney Channel is located in the city of Burbank.",
+      "hash": "53ebc43f5f62c51bf3544e0e2c491400",
+      "metadata": {
+        "ordinal": 2113,
+        "triple": {
+          "subject_id": "disney_channel",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Burbank",
+          "confidence": 0.95,
+          "subject_raw": "Disney Channel",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3071044410900533,
+      "created_at": "2026-07-04T05:32:28.017636-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d600418c-431b-4032-a5b7-1c3b1df56f43",
+      "memory": "The original broadcaster of Desperate Housewives is American Broadcasting Company.",
+      "hash": "69cc976f2535382c1800099e796f77c9",
+      "metadata": {
+        "ordinal": 1458,
+        "triple": {
+          "subject_id": "desperate_housewives",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "Desperate Housewives",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.3027006316405901,
+      "created_at": "2026-07-04T05:32:10.652121-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b700297a-0bc0-4216-a89a-35438d3bafea",
+      "memory": "The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.",
+      "hash": "19a61ad7c6058611dabff03116ac4682",
+      "metadata": {
+        "ordinal": 260,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Tony Hall, Baron Hall of Birkenhead",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.3020323975167799,
+      "created_at": "2026-07-04T05:31:35.454076-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "374e3086-447b-47e3-9f7f-e6c8b4b560cc",
+      "memory": "Atari Jaguar was developed by Microsoft.",
+      "hash": "c48941c7c75054cc073dc37818e0efaf",
+      "metadata": {
+        "ordinal": 1166,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3014291461366175,
+      "created_at": "2026-07-04T05:32:02.078566-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6ad86131-b257-4ae7-a629-be67355db1c6",
+      "memory": "The original broadcaster of Nightline is American Broadcasting Company.",
+      "hash": "ddfa294541b34fbb2460412a3b6fb1a9",
+      "metadata": {
+        "ordinal": 702,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "be original broadcaster",
+          "object_text": "Nightline",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "was the original broadcaster of"
+        }
+      },
+      "score": 0.29969614124372335,
+      "created_at": "2026-07-04T05:31:47.324837-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2631b6e6-36b3-4197-95c1-74ade1d12646",
+      "memory": "The original broadcaster of 666 Park Avenue is American Broadcasting Company.",
+      "hash": "d64b14201f782c4b391614fb70b5f472",
+      "metadata": {
+        "ordinal": 980,
+        "triple": {
+          "subject_id": "666_park_avenue",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "666 Park Avenue",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.2990415037129083,
+      "created_at": "2026-07-04T05:31:55.572368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cd7caac0-d06b-46d3-a27e-3237d51394cb",
+      "memory": "The company that produced AP1000 is Westinghouse Electric.",
+      "hash": "23695411ada85e6694490700572d40dc",
+      "metadata": {
+        "ordinal": 1127,
+        "triple": {
+          "subject_id": "ap1000",
+          "predicate_norm": "be produced by",
+          "object_text": "Westinghouse Electric",
+          "confidence": 0.95,
+          "subject_raw": "AP1000",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2988830555678637,
+      "created_at": "2026-07-04T05:31:59.953025-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2050c0ba-5fe2-496a-abde-55c7773b3468",
+      "memory": "The original broadcaster of China Beach is American Broadcasting Company.",
+      "hash": "849b362f1348fb76cdab243e1ec7b4e4",
+      "metadata": {
+        "ordinal": 2220,
+        "triple": {
+          "subject_id": "china_beach",
+          "predicate_norm": "has original broadcaster",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "China Beach",
+          "predicate_raw": "has original broadcaster"
+        }
+      },
+      "score": 0.29733084122281106,
+      "created_at": "2026-07-04T05:32:30.629280-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4ba9bb59-daa5-43bb-a21a-a595853006cc",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 975,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2958139956768669,
+      "created_at": "2026-07-04T05:31:55.565323-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2ed8e503-d44a-43af-89d9-7a86112d308f",
+      "memory": "The company that produced Ford Probe is Ford Motor Company",
+      "hash": "4e14f6477983ea287c4ab43315dee1fb",
+      "metadata": {
+        "ordinal": 552,
+        "triple": {
+          "subject_id": "ford_probe",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Probe",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2948041956017663,
+      "created_at": "2026-07-04T05:31:43.307065-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e8b052c9-bb17-48c5-87e2-008b7de9fa9b",
+      "memory": "The company that produced Ford Transit Connect is Ford Motor Company.",
+      "hash": "418608afe23d0500cc5c5e378f5fd3b2",
+      "metadata": {
+        "ordinal": 750,
+        "triple": {
+          "subject_id": "ford_transit_connect",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Transit Connect",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.29437421596400565,
+      "created_at": "2026-07-04T05:31:48.707806-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "eac22510-9929-4134-ada9-b9feb9e989d4",
+      "memory": "The original broadcaster of NBA on ABC is American Broadcasting Company.",
+      "hash": "b716635913a28eb21ea988e5d9dee15e",
+      "metadata": {
+        "ordinal": 518,
+        "triple": {
+          "subject_id": "nba_on_abc",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "NBA on ABC",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.2939409175532132,
+      "created_at": "2026-07-04T05:31:42.273858-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "09f3efd4-165e-40cc-8864-25a7a0c16119",
+      "memory": "The original broadcaster of General Hospital is American Broadcasting Company.",
+      "hash": "9de8d1847747612bf419b7ec4b72c347",
+      "metadata": {
+        "ordinal": 1778,
+        "triple": {
+          "subject_id": "general_hospital",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "General Hospital",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.2931135066589463,
+      "created_at": "2026-07-04T05:32:18.603664-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a3a460d1-d763-49b7-a455-688aeedf84e1",
+      "memory": "Ward Kimball is employed by The Walt Disney Company.",
+      "hash": "881aef0c2c54c0a1e4881230971cc1b2",
+      "metadata": {
+        "ordinal": 207,
+        "triple": {
+          "subject_id": "ward_kimball",
+          "predicate_norm": "be employed by",
+          "object_text": "The Walt Disney Company",
+          "confidence": 0.95,
+          "subject_raw": "Ward Kimball",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.29271881619999846,
+      "created_at": "2026-07-04T05:31:34.670292-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b2d8d17c-030b-4105-8915-3488d65c710f",
+      "memory": "The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.",
+      "hash": "1bd0ce3387d35b86f8bf3f8f62b14cae",
+      "metadata": {
+        "ordinal": 981,
+        "triple": {
+          "subject_id": "chevrolet_s_10_blazer",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet S-10 Blazer",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.29093081031391477,
+      "created_at": "2026-07-04T05:31:55.573667-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6b1036c0-304c-4859-bf63-95f89a71a622",
+      "memory": "The company that produced Il-2 Shturmovik is Ilyushin.",
+      "hash": "3f2cf81d9434633dae2cb9441b6400e0",
+      "metadata": {
+        "ordinal": 1333,
+        "triple": {
+          "subject_id": "il_2_shturmovik",
+          "predicate_norm": "be produced by",
+          "object_text": "Ilyushin",
+          "confidence": 0.95,
+          "subject_raw": "Il-2 Shturmovik",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.28982789946461396,
+      "created_at": "2026-07-04T05:32:07.209314-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b86e724d-0748-482e-982f-a8534f19fde1",
+      "memory": "SteamOS was developed by ABB Group.",
+      "hash": "f0ddb29ec0211f5db90cd19e31296cc1",
+      "metadata": {
+        "ordinal": 803,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "ABB Group",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28910749683190107,
+      "created_at": "2026-07-04T05:31:51.196618-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9710a542-f845-4656-8bcc-5b36de8e1b21",
+      "memory": "The company that produced Ford Zephyr is Ford Motor Company.",
+      "hash": "312fb9a01ec4aaa328d59f5dec311910",
+      "metadata": {
+        "ordinal": 859,
+        "triple": {
+          "subject_id": "ford_zephyr",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Zephyr",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2886197631007936,
+      "created_at": "2026-07-04T05:31:52.765401-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97c1126e-b49d-4017-8b7a-5b12f6eef7fa",
+      "memory": "GarageBand was developed by Google.",
+      "hash": "fe7dbd6b460e82be2da0e8630d0d1fd8",
+      "metadata": {
+        "ordinal": 1802,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2878126529209428,
+      "created_at": "2026-07-04T05:32:19.505375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "658c8097-7a9a-49be-a889-bb69a3c626ec",
+      "memory": "The headquarters of The Walt Disney Company is located in the city of Burbank.",
+      "hash": "88874c6d06edd6d5d517b213e0ac54d5",
+      "metadata": {
+        "ordinal": 1981,
+        "triple": {
+          "subject_id": "the_walt_disney_company",
+          "predicate_norm": "be located in",
+          "object_text": "Burbank",
+          "confidence": 0.95,
+          "subject_raw": "The Walt Disney Company",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2863087222939387,
+      "created_at": "2026-07-04T05:32:24.239463-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9d6c95a3-1639-498a-b704-9ac3062fe623",
+      "memory": "Tony Soprano was created by David Chase.",
+      "hash": "c8898f9b776d3ba72b4ca973116daabe",
+      "metadata": {
+        "ordinal": 22,
+        "triple": {
+          "subject_id": "tony_soprano",
+          "predicate_norm": "be created by",
+          "object_text": "David Chase",
+          "confidence": 0.95,
+          "subject_raw": "Tony Soprano",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.28509498779013875,
+      "created_at": "2026-07-04T05:31:29.593093-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9e3c304b-8234-428e-9f10-cbc94d2597b8",
+      "memory": "The company that produced Ford Fairmont is Ford Motor Company.",
+      "hash": "015351637ce86c77f754c534a14f4a56",
+      "metadata": {
+        "ordinal": 1109,
+        "triple": {
+          "subject_id": "ford_fairmont",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Fairmont",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2846700817970139,
+      "created_at": "2026-07-04T05:31:59.925579-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "43f1ea17-c067-48e1-b9e2-ea3fe7fc1857",
+      "memory": "The director of American Broadcasting Company is Ernst Heinkel.",
+      "hash": "88943e55a7c75e52f1f76aa79422e77f",
+      "metadata": {
+        "ordinal": 1812,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has director",
+          "object_text": "Ernst Heinkel",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.28418190739196525,
+      "created_at": "2026-07-04T05:32:19.520956-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f1c87b0b-555c-48e3-a7c6-f922af44844b",
+      "memory": "The original broadcaster of Perfect Strangers is American Broadcasting Company.",
+      "hash": "6e5318f3492fd7b4ae7f02b589fcdc00",
+      "metadata": {
+        "ordinal": 964,
+        "triple": {
+          "subject_id": "perfect_strangers",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "Perfect Strangers",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.28310826005890716,
+      "created_at": "2026-07-04T05:31:55.544811-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "111f463d-e364-4f8d-a91f-901e7510209b",
+      "memory": "Tony Soprano was created by David Crane.",
+      "hash": "68d4c4b2c8075340c87132ca70fa2755",
+      "metadata": {
+        "ordinal": 773,
+        "triple": {
+          "subject_id": "tony_soprano",
+          "predicate_norm": "be created by",
+          "object_text": "David Crane",
+          "confidence": 0.95,
+          "subject_raw": "Tony Soprano",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.2815702083697681,
+      "created_at": "2026-07-04T05:31:50.215330-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2310f266-c925-47d4-a906-32d4dfc25f54",
+      "memory": "Advanced Micro Devices was founded in the city of Sunnyvale.",
+      "hash": "d6e1fa3b960959324b2808b1261fea05",
+      "metadata": {
+        "ordinal": 1573,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.281535420586172,
+      "created_at": "2026-07-04T05:32:13.224212-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4f6ac307-7b97-43aa-9d8e-f1a1a6a858a4",
+      "memory": "The chief executive officer of Netflix is Reed Hastings.",
+      "hash": "69c193b973715d0be7cae7310676fc5a",
+      "metadata": {
+        "ordinal": 121,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Reed Hastings",
+          "confidence": 0.95,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.28148360150885415,
+      "created_at": "2026-07-04T05:31:32.694221-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8a22a98a-37a2-425a-ba3a-67d83633793b",
+      "memory": "The company that produced Me 262 is NeXT Computer, Inc.",
+      "hash": "c6b9e8fcbf6d1151ef6e885a72455e57",
+      "metadata": {
+        "ordinal": 2181,
+        "triple": {
+          "subject_id": "me_262",
+          "predicate_norm": "be produced by",
+          "object_text": "NeXT Computer, Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Me 262",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.28135242092225443,
+      "created_at": "2026-07-04T05:32:29.627178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6f56ba27-eba2-4def-9ee7-278a43e41efc",
+      "memory": "24 was created by Joel Surnow.",
+      "hash": "cc82229eb300bd86adb8fbe363b6e457",
+      "metadata": {
+        "ordinal": 950,
+        "triple": {
+          "subject_id": "24",
+          "predicate_norm": "be created by",
+          "object_text": "Joel Surnow",
+          "confidence": 0.95,
+          "subject_raw": "24",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.280422353927832,
+      "created_at": "2026-07-04T05:31:54.747104-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "43ec004f-2ad8-48c5-8d22-c39431bc9190",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2794851008562168,
+      "created_at": "2026-07-04T05:31:29.556272-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "361170a4-fae3-4311-bdef-637c1f63703d",
+      "memory": "The company that produced Ford S-Max is Ford Motor Company.",
+      "hash": "1110f0d9c8145db21d2298cceaf80e63",
+      "metadata": {
+        "ordinal": 1368,
+        "triple": {
+          "subject_id": "ford_s_max",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford S-Max",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2788126653389059,
+      "created_at": "2026-07-04T05:32:07.951992-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "01f61eb6-9f82-4bfc-b1f9-0b3d8c9398db",
+      "memory": "Advanced Micro Devices was founded in the city of Toronto.",
+      "hash": "e237fdebbe054a2f94a310ba9f2f0ad5",
+      "metadata": {
+        "ordinal": 2075,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2778666501897354,
+      "created_at": "2026-07-04T05:32:27.114604-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "99955c1f-a53b-4d01-b85a-450b7812cb34",
+      "memory": "SteamOS was developed by Valve Corporation.",
+      "hash": "3316c73f3a26dc1cd296fe2497bf7c4b",
+      "metadata": {
+        "ordinal": 791,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.27725012506653063,
+      "created_at": "2026-07-04T05:31:50.244375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1e467cc3-bf13-4463-b663-c65123c99a6f",
+      "memory": "The original broadcaster of Girl Meets World is Disney Channel.",
+      "hash": "d45ac600f8fdc3027515ab04c01773fb",
+      "metadata": {
+        "ordinal": 527,
+        "triple": {
+          "subject_id": "girl_meets_world",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "Disney Channel",
+          "confidence": 0.95,
+          "subject_raw": "Girl Meets World",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.27712462818804473,
+      "created_at": "2026-07-04T05:31:42.286360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3399a35d-fcc8-4341-b386-24034a50336a",
+      "memory": "The company that produced Ford Fiesta RS WRC is Ford Motor Company.",
+      "hash": "c8b1ce3ef4f0f8c67defc276e19f0f50",
+      "metadata": {
+        "ordinal": 1979,
+        "triple": {
+          "subject_id": "ford_fiesta_rs_wrc",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Fiesta RS WRC",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.27676536205957647,
+      "created_at": "2026-07-04T05:32:24.235531-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2206e48d-0833-4682-bba5-aca8ef10e0f0",
+      "memory": "Steve Jobs was born in the city of Kraków",
+      "hash": "ec1bdcd69ef74106fd95557bde470105",
+      "metadata": {
+        "ordinal": 568,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Kraków",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2755276022084427,
+      "created_at": "2026-07-04T05:31:43.326783-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5031f11a-a5b5-4396-84d5-f2b1dd3b1042",
+      "memory": "The chairperson of Hon Hai Precision Industry is Talia Sasson.",
+      "hash": "d61ee7c4f57979a51c5619de12412a57",
+      "metadata": {
+        "ordinal": 2259,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Talia Sasson",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.2745845034298375,
+      "created_at": "2026-07-04T05:32:31.576175-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "81b7eac2-2946-489e-a750-2b2c35c5d2e4",
+      "memory": "The original broadcaster of Parenthood is NBC.",
+      "hash": "ef69de3c3354875d85efd02d1cc83cc9",
+      "metadata": {
+        "ordinal": 837,
+        "triple": {
+          "subject_id": "parenthood",
+          "predicate_norm": "be broadcasted by",
+          "object_text": "NBC",
+          "confidence": 0.95,
+          "subject_raw": "Parenthood",
+          "predicate_raw": "is broadcasted by"
+        }
+      },
+      "score": 0.2734775686603321,
+      "created_at": "2026-07-04T05:31:52.728232-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b5781fd2-78aa-4186-9715-bae36bd58794",
+      "memory": "The company that produced Colt Single Action Army is Colt's Manufacturing Company.",
+      "hash": "3ce8e162df5ec4c77c2ae6cd848f687c",
+      "metadata": {
+        "ordinal": 1112,
+        "triple": {
+          "subject_id": "colt_single_action_army",
+          "predicate_norm": "be produced by",
+          "object_text": "Colt's Manufacturing Company",
+          "confidence": 0.95,
+          "subject_raw": "Colt Single Action Army",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2730793673184102,
+      "created_at": "2026-07-04T05:31:59.931159-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a0c320f8-6c58-42f0-a865-45b24145f429",
+      "memory": "The headquarters of MTV is located in the city of New York City.",
+      "hash": "1ebd81fb8fb73d4a327f2dafcefea4b0",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "mtv",
+          "predicate_norm": "be located in",
+          "object_text": "the city of New York City",
+          "confidence": 0.95,
+          "subject_raw": "MTV",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2713508127641161,
+      "created_at": "2026-07-04T05:31:32.676455-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "de64579d-cddc-450a-9a7b-721b100e1b1c",
+      "memory": "The headquarters of Channel 4 is located in the city of Toronto.",
+      "hash": "3cb495232416143d8e32b9b9786a3796",
+      "metadata": {
+        "ordinal": 2288,
+        "triple": {
+          "subject_id": "channel_4",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Channel 4",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.2701544768108569,
+      "created_at": "2026-07-04T05:32:32.430709-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64de3fee-213e-4df5-8cca-dbf605a5f180",
+      "memory": "Shigeru Miyamoto is employed by Nintendo",
+      "hash": "b0141a82c5177df1a340d7a7c954af46",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "Nintendo",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2688591027644376,
+      "created_at": "2026-07-04T05:31:30.615111-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ac783aca-bb17-42ad-802c-c2d8e6ddeeb4",
+      "memory": "Dave Filoni is employed by Lucasfilm.",
+      "hash": "a66f2c0d19bb9182b79ed2579954bff5",
+      "metadata": {
+        "ordinal": 106,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "Lucasfilm",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2681967984237062,
+      "created_at": "2026-07-04T05:31:31.824122-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a4a65e42-aa34-4078-81ac-70af7d31a996",
+      "memory": "The headquarters of Atari Corporation is located in the city of Sunnyvale.",
+      "hash": "f4d9aded46ad938e12340ab347a03600",
+      "metadata": {
+        "ordinal": 929,
+        "triple": {
+          "subject_id": "atari_corporation",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Atari Corporation",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.2669348149891,
+      "created_at": "2026-07-04T05:31:54.720536-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4138fbed-eb18-4244-90fe-247fcfe7e00e",
+      "memory": "The headquarters of MTV is located in the city of London.",
+      "hash": "24dfa0b4d818e92ceb25079ec833163c",
+      "metadata": {
+        "ordinal": 1304,
+        "triple": {
+          "subject_id": "mtv",
+          "predicate_norm": "be located in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "MTV",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2628374219455498,
+      "created_at": "2026-07-04T05:32:07.163685-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "37081256-510c-4f74-9115-9ba32b86e804",
+      "memory": "The company that produced Ford Probe is de Havilland.",
+      "hash": "036e835fa80d36de81490ffd01382a57",
+      "metadata": {
+        "ordinal": 2144,
+        "triple": {
+          "subject_id": "ford_probe",
+          "predicate_norm": "be produced by",
+          "object_text": "de Havilland",
+          "confidence": 0.95,
+          "subject_raw": "Ford Probe",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2620521740602769,
+      "created_at": "2026-07-04T05:32:28.931056-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "dd6b6d39-5db4-42a5-baba-2a9d391159d8",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Andrew House.",
+      "hash": "47b51667bf3a64f9c3e3d42830cd6f7f",
+      "metadata": {
+        "ordinal": 1251,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew House",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.25983116406486495,
+      "created_at": "2026-07-04T05:32:05.194249-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "219d237e-e5df-46bf-8f81-205dbe32a444",
+      "memory": "Baldur's Gate was developed by Advanced Micro Devices",
+      "hash": "e4e50d2975239713cac8dadfa3d455c4",
+      "metadata": {
+        "ordinal": 1509,
+        "triple": {
+          "subject_id": "baldur's_gate",
+          "predicate_norm": "be developed by",
+          "object_text": "Advanced Micro Devices",
+          "confidence": 0.95,
+          "subject_raw": "Baldur's Gate",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.25982676304215185,
+      "created_at": "2026-07-04T05:32:11.583540-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "483592cc-4e79-4ab1-80e6-3e8cdabbdf83",
+      "memory": "The company that produced Buick Regal is Aston Martin Lagonda.",
+      "hash": "3d2bf63e712cdd8c12a58377aab6d25a",
+      "metadata": {
+        "ordinal": 1764,
+        "triple": {
+          "subject_id": "buick_regal",
+          "predicate_norm": "be produced by",
+          "object_text": "Aston Martin Lagonda",
+          "confidence": 0.95,
+          "subject_raw": "Buick Regal",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.25906252949453096,
+      "created_at": "2026-07-04T05:32:18.577573-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b8dc525d-ffd4-4099-afca-ae5d53556f47",
+      "memory": "Playhouse 90 was created in the country of United States of America.",
+      "hash": "d88c2b028edcbed21eb96fb25374c462",
+      "metadata": {
+        "ordinal": 155,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "created",
+          "object_text": "Playhouse 90",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.2588619291449827,
+      "created_at": "2026-07-04T05:31:33.612107-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5f986f77-b99b-472a-ba31-e6c0d75fb0a1",
+      "memory": "The company that produced Jaguar Mark 2 is Jaguar Cars.",
+      "hash": "8b9d5c29cd1beab684432c94b4d1d7dc",
+      "metadata": {
+        "ordinal": 512,
+        "triple": {
+          "subject_id": "jaguar_mark_2",
+          "predicate_norm": "be produced by",
+          "object_text": "Jaguar Cars",
+          "confidence": 0.95,
+          "subject_raw": "Jaguar Mark 2",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.25879765882869166,
+      "created_at": "2026-07-04T05:31:42.263763-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e8b3154a-1234-413e-bf01-229015fa0ac4",
+      "memory": "The original broadcaster of Girl Meets World is Channel 4.",
+      "hash": "dcedc309f15e20e4804a6001c05b21c0",
+      "metadata": {
+        "ordinal": 1604,
+        "triple": {
+          "subject_id": "girl_meets_world",
+          "predicate_norm": "be originally broadcasted by",
+          "object_text": "Channel 4",
+          "confidence": 0.95,
+          "subject_raw": "Girl Meets World",
+          "predicate_raw": "was originally broadcasted by"
+        }
+      },
+      "score": 0.25862289555781104,
+      "created_at": "2026-07-04T05:32:14.140631-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "da4d6712-ad93-411e-af9e-b09ce86553f7",
+      "memory": "Nintendo was founded by Fusajiro Yamauchi.",
+      "hash": "6894c0616189587c762477db42ae5f44",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "nintendo",
+          "predicate_norm": "be founded by",
+          "object_text": "Fusajiro Yamauchi",
+          "confidence": 0.95,
+          "subject_raw": "Nintendo",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.258358240001767,
+      "created_at": "2026-07-04T05:31:31.799523-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "520f604c-80fb-4b43-9b6a-1d7610cb9b8a",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 1070,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.9,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2569820846908754,
+      "created_at": "2026-07-04T05:31:58.886586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5dbf5320-cb1a-463b-b80f-3194950e3fa3",
+      "memory": "The original broadcaster of NBA on ABC is British Broadcasting Corporation.",
+      "hash": "4c0026db70659725652daeba7030c07a",
+      "metadata": {
+        "ordinal": 1723,
+        "triple": {
+          "subject_id": "nba_on_abc",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "NBA on ABC",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.2567466977577126,
+      "created_at": "2026-07-04T05:32:17.575836-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "38c3ca83-7f4e-4517-b397-17c5f1f72620",
+      "memory": "The headquarters of WTTW is located in the city of Chicago.",
+      "hash": "0effde9a0735749b50e7de631f178017",
+      "metadata": {
+        "ordinal": 76,
+        "triple": {
+          "subject_id": "wttw",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "WTTW",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2563756164525628,
+      "created_at": "2026-07-04T05:31:31.755229-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b42d5956-d61b-4f90-96ac-88a7140404c9",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.25583293466247325,
+      "created_at": "2026-07-04T05:31:42.251862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5f5cf700-396f-4bd2-92ba-df28eeb0d7b0",
+      "memory": "Windows Update was developed by Panasonic Corporation.",
+      "hash": "bbedfaf46a0fbaa72212953e629c1284",
+      "metadata": {
+        "ordinal": 1074,
+        "triple": {
+          "subject_id": "windows_update",
+          "predicate_norm": "be developed by",
+          "object_text": "Panasonic Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Windows Update",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2549373900861003,
+      "created_at": "2026-07-04T05:31:58.896238-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ]
+}

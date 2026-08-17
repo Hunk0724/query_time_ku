@@ -1,0 +1,3553 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "05b4b45e-cb21-4a1b-885b-2b3e73e1429f",
+      "memory": "The official language of Soviet Union is Russian.",
+      "hash": "3a4e54d810bc97dc5ef90b196fa20072",
+      "metadata": {
+        "ordinal": 3690,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has official language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.9065790881310571,
+      "created_at": "2026-07-04T05:25:28.639780-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2d65a9aa-8e7f-4b08-8fe5-4800ee9f9b75",
+      "memory": "The official language of Soviet Union is French.",
+      "hash": "1ade86c4c85df3f89ae9bcaf46ce0b2b",
+      "metadata": {
+        "ordinal": 3787,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.835078559548444,
+      "created_at": "2026-07-04T05:25:30.614966-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c9165472-6525-4ee6-a97b-313ab87fc1ac",
+      "memory": "The official language of Russia is Russian.",
+      "hash": "107d38c54d2ceb069d1d20ade80f3430",
+      "metadata": {
+        "ordinal": 2068,
+        "triple": {
+          "subject_id": "russia",
+          "predicate_norm": "has official language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "Russia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.6614496974910571,
+      "created_at": "2026-07-04T05:24:50.481714-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4d1fa59a-6b4d-417d-8891-e2c4d7c6d9d7",
+      "memory": "The official language of Moscow is Russian.",
+      "hash": "360261cc829792adf15562c40fe8cc29",
+      "metadata": {
+        "ordinal": 1166,
+        "triple": {
+          "subject_id": "moscow",
+          "predicate_norm": "has official language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "Moscow",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.6147529533289355,
+      "created_at": "2026-07-04T05:24:29.605651-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f0c6d66f-0384-4bca-a0c8-745bf0f0e131",
+      "memory": "The official language of Ukraine is Ukrainian.",
+      "hash": "308cc3a715dae75561388f34341700e2",
+      "metadata": {
+        "ordinal": 3980,
+        "triple": {
+          "subject_id": "ukraine",
+          "predicate_norm": "has official language",
+          "object_text": "Ukrainian",
+          "confidence": 0.95,
+          "subject_raw": "Ukraine",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.5927748479650762,
+      "created_at": "2026-07-04T05:25:35.169026-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "696ff24a-8084-4aa1-a96b-9177e6739f72",
+      "memory": "The official language of Moscow is German.",
+      "hash": "50c96f8f1cf6f7fb0e22bb0f58785235",
+      "metadata": {
+        "ordinal": 1856,
+        "triple": {
+          "subject_id": "moscow",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Moscow",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.5607298032645408,
+      "created_at": "2026-07-04T05:24:45.548116-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "21975979-57d6-4c79-8a61-d94bc93a66fd",
+      "memory": "The official language of Latvia is Latvian.",
+      "hash": "95358f6616464635b7d197b45cec7bbe",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "latvia",
+          "predicate_norm": "has official language",
+          "object_text": "Latvian",
+          "confidence": 0.95,
+          "subject_raw": "Latvia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.5309184475944806,
+      "created_at": "2026-07-04T05:24:10.166821-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "573b4c79-e285-4111-b438-c8210615d84e",
+      "memory": "The capital of Soviet Union is Moscow.",
+      "hash": "c9e1de151f44789feeea4592566580f3",
+      "metadata": {
+        "ordinal": 68,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has capital",
+          "object_text": "Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.5234920739407097,
+      "created_at": "2026-07-04T05:24:04.529097-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e097b9fb-6340-4177-87e3-9206f92e419f",
+      "memory": "The official language of Serbia is Serbian.",
+      "hash": "765a62f0ab21d0cb0bd840a602ec9ca6",
+      "metadata": {
+        "ordinal": 2375,
+        "triple": {
+          "subject_id": "serbia",
+          "predicate_norm": "has official language",
+          "object_text": "Serbian",
+          "confidence": 0.95,
+          "subject_raw": "Serbia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.5126539425802993,
+      "created_at": "2026-07-04T05:24:57.882812-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e8155ba0-607f-4b1f-9fba-7e8ea5e48e27",
+      "memory": "The official language of Sweden is Swedish.",
+      "hash": "9026ea935c4c0d8ab1ac88851da56c07",
+      "metadata": {
+        "ordinal": 414,
+        "triple": {
+          "subject_id": "sweden",
+          "predicate_norm": "has official language",
+          "object_text": "Swedish",
+          "confidence": 0.95,
+          "subject_raw": "Sweden",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4972011672306244,
+      "created_at": "2026-07-04T05:24:11.814494-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9ca8ce28-772f-4202-a9ca-d98709ebdea4",
+      "memory": "The capital of Soviet Union is Russellville.",
+      "hash": "d720d2d6b3571f02bd4abaa1739d7750",
+      "metadata": {
+        "ordinal": 4019,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has capital",
+          "object_text": "Russellville",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.4968809496958637,
+      "created_at": "2026-07-04T05:25:36.016268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7b751a01-1759-4bd7-b2b4-048124c367e6",
+      "memory": "The official language of Bulgarian Orthodox Church is Bulgarian.",
+      "hash": "2f01480157f682ffd6aa2a0dda18bd4b",
+      "metadata": {
+        "ordinal": 581,
+        "triple": {
+          "subject_id": "bulgarian_orthodox_church",
+          "predicate_norm": "has official language",
+          "object_text": "Bulgarian",
+          "confidence": 0.95,
+          "subject_raw": "Bulgarian Orthodox Church",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.48699289046098115,
+      "created_at": "2026-07-04T05:24:16.480287-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5528a682-89ed-4e49-a64e-9b49655f5f2b",
+      "memory": "The official language of Romania is Romanian.",
+      "hash": "a2da647a3b93b8b7d8ed8f4b26c67aa3",
+      "metadata": {
+        "ordinal": 409,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "has official language",
+          "object_text": "Romanian",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.47826661742279436,
+      "created_at": "2026-07-04T05:24:11.808828-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ba166ea1-3f38-4af9-a655-44a93d1369b5",
+      "memory": "The official language of Japan is Japanese.",
+      "hash": "bed2b6be7bfce3fb71dfa6a2ef54d2b5",
+      "metadata": {
+        "ordinal": 2795,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "has official language",
+          "object_text": "Japanese",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.47530563840610496,
+      "created_at": "2026-07-04T05:25:07.987237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ca736b66-f74f-4ab2-9ab3-90dbb093745e",
+      "memory": "The official language of Berlin is German.",
+      "hash": "da81d59df4de408199aff6c8229210d8",
+      "metadata": {
+        "ordinal": 4356,
+        "triple": {
+          "subject_id": "berlin",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Berlin",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.47372192387698275,
+      "created_at": "2026-07-04T05:25:43.666495-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "17a13a4a-9a2b-4de4-8f56-cfde033a8a2b",
+      "memory": "The official language of Nazi Germany is German.",
+      "hash": "abd466301cf5a34ef0e3e676bb45fef2",
+      "metadata": {
+        "ordinal": 1591,
+        "triple": {
+          "subject_id": "nazi_germany",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Nazi Germany",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.47100874971658857,
+      "created_at": "2026-07-04T05:24:39.489896-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1ac9907e-c95f-48a8-96ba-bb5ad73497be",
+      "memory": "The official language of United Kingdom is Finnish.",
+      "hash": "853d6add0131a6dd754676749fdfda03",
+      "metadata": {
+        "ordinal": 3321,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4709402304870163,
+      "created_at": "2026-07-04T05:25:19.690268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "00b41c9e-ca02-43f0-91c7-84e944b7adab",
+      "memory": "The official language of Spain is Spanish.",
+      "hash": "477a4a26eafe5e64f2265a7a76d936d0",
+      "metadata": {
+        "ordinal": 1746,
+        "triple": {
+          "subject_id": "spain",
+          "predicate_norm": "has official language",
+          "object_text": "Spanish",
+          "confidence": 0.95,
+          "subject_raw": "Spain",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.46553416832421063,
+      "created_at": "2026-07-04T05:24:42.607134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "148212ae-d82d-45b7-a85e-44b9779705e9",
+      "memory": "The official language of Hungary is Hungarian.",
+      "hash": "ae8b70e9cd0d326aab77631c4322afc1",
+      "metadata": {
+        "ordinal": 4344,
+        "triple": {
+          "subject_id": "hungary",
+          "predicate_norm": "has official language",
+          "object_text": "Hungarian",
+          "confidence": 0.95,
+          "subject_raw": "Hungary",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.46421669160206114,
+      "created_at": "2026-07-04T05:25:42.950780-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4a278255-2e24-4e82-9c65-ae06df78b05e",
+      "memory": "The official language of Czech Republic is Czech.",
+      "hash": "21949a5b2704a39dae6dd35d33c347fb",
+      "metadata": {
+        "ordinal": 1626,
+        "triple": {
+          "subject_id": "czech_republic",
+          "predicate_norm": "has official language",
+          "object_text": "Czech",
+          "confidence": 0.95,
+          "subject_raw": "Czech Republic",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4641540229348941,
+      "created_at": "2026-07-04T05:24:40.123273-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ac3840fa-b4b0-4f36-8e3a-6e075b7c8745",
+      "memory": "The official language of Germany is German.",
+      "hash": "c3df619d6453c720320e9e982a51fccb",
+      "metadata": {
+        "ordinal": 3464,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4631346582655407,
+      "created_at": "2026-07-04T05:25:22.849623-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ea72dfbd-f4f4-4ecf-8736-7485966192ef",
+      "memory": "The official language of United Kingdom is English.",
+      "hash": "8063869cb4dffaa6b624da99e2bc57c1",
+      "metadata": {
+        "ordinal": 2436,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.46192025705188966,
+      "created_at": "2026-07-04T05:24:58.746985-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bc6813ef-bb96-400b-8f02-009f85debe91",
+      "memory": "The official language of Bulgarian Orthodox Church is German.",
+      "hash": "138b797b6f93b21a1e050cc1cdb1be09",
+      "metadata": {
+        "ordinal": 4317,
+        "triple": {
+          "subject_id": "bulgarian_orthodox_church",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Bulgarian Orthodox Church",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4603127563439635,
+      "created_at": "2026-07-04T05:25:42.901058-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1b0020c0-5b38-46c9-84f9-0ce3cd2756a2",
+      "memory": "The official language of Helsinki is Finnish.",
+      "hash": "6d4462b69de260f7e59b095c2910c07f",
+      "metadata": {
+        "ordinal": 1878,
+        "triple": {
+          "subject_id": "helsinki",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Helsinki",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.45889339101849963,
+      "created_at": "2026-07-04T05:24:45.603213-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "76116547-75f8-4caa-b223-d0d0f0f42d8c",
+      "memory": "The official language of Japan is Swedish.",
+      "hash": "59a18327e125fe73ec9e0eba42a90d2e",
+      "metadata": {
+        "ordinal": 3432,
+        "triple": {
+          "subject_id": "the_official_language_of_japan",
+          "predicate_norm": "be",
+          "object_text": "Swedish",
+          "confidence": 0.95,
+          "subject_raw": "the official language of Japan",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.454588158932584,
+      "created_at": "2026-07-04T05:25:22.044298-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "35c06c2d-7251-4908-80a8-4cdfa80725bf",
+      "memory": "The official language of Jyväskylä is Black Speech.",
+      "hash": "8c30aa0c704e64b57b7d3e9b7061b3b6",
+      "metadata": {
+        "ordinal": 1761,
+        "triple": {
+          "subject_id": "jyväskylä",
+          "predicate_norm": "has official language",
+          "object_text": "Black Speech",
+          "confidence": 0.95,
+          "subject_raw": "Jyväskylä",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.45444530404732775,
+      "created_at": "2026-07-04T05:24:43.257277-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e0d60175-75e6-4bd7-91e6-0d3ef2fa92cf",
+      "memory": "The official language of United States of America is American English.",
+      "hash": "e6bd156b9dd59c99c27112c5c7a5beab",
+      "metadata": {
+        "ordinal": 1414,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has official language",
+          "object_text": "American English",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.45340749397684976,
+      "created_at": "2026-07-04T05:24:35.408382-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1c86c703-80d7-4dcf-8c4b-23721ffac210",
+      "memory": "The official language of France is French.",
+      "hash": "c12b944bafb1e6cea50ce001aee5cfd4",
+      "metadata": {
+        "ordinal": 1280,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4524257669664808,
+      "created_at": "2026-07-04T05:24:32.084886-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "73f9de2f-50f3-4eb7-92ad-2113c278be74",
+      "memory": "The official language of Sweden is German.",
+      "hash": "94dc41507e13d7adc7badf5347149909",
+      "metadata": {
+        "ordinal": 2377,
+        "triple": {
+          "subject_id": "sweden",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Sweden",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.45067139795986566,
+      "created_at": "2026-07-04T05:24:57.885571-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "52386e79-20a2-4be9-845e-a0d35e511d80",
+      "memory": "The official language of Berlin is Finnish.",
+      "hash": "dd66245b2c18dcb0a901291b1ea9602d",
+      "metadata": {
+        "ordinal": 4555,
+        "triple": {
+          "subject_id": "berlin",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Berlin",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.45062614488129193,
+      "created_at": "2026-07-04T05:25:48.392164-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3c72afe2-10fe-4673-99b7-72128ec2f6fe",
+      "memory": "Fyodor Dostoyevsky speaks the language of Russian.",
+      "hash": "3e9e7ef36b8fe8d33b984b84d8695164",
+      "metadata": {
+        "ordinal": 1612,
+        "triple": {
+          "subject_id": "fyodor_dostoyevsky",
+          "predicate_norm": "speaks",
+          "object_text": "the language of Russian",
+          "confidence": 0.95,
+          "subject_raw": "Fyodor Dostoyevsky",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.45032824241771185,
+      "created_at": "2026-07-04T05:24:40.099750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fa73c14f-7a6c-4a31-b67c-b234e1d7148d",
+      "memory": "The official language of Italy is Italian.",
+      "hash": "ed3d245e9fcc31428d15b162b9e12331",
+      "metadata": {
+        "ordinal": 1035,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has official language",
+          "object_text": "Italian",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.44910407112921225,
+      "created_at": "2026-07-04T05:24:26.580132-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7a5b2630-1560-4476-8459-b7c88372cf5f",
+      "memory": "The official language of Poland is Polish.",
+      "hash": "606d5e44b8d8d4deb4a83e3663530146",
+      "metadata": {
+        "ordinal": 1454,
+        "triple": {
+          "subject_id": "poland",
+          "predicate_norm": "has official language",
+          "object_text": "Polish",
+          "confidence": 0.95,
+          "subject_raw": "Poland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.44716794764088375,
+      "created_at": "2026-07-04T05:24:36.225805-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4239a6a3-2bf9-4567-86be-d80fae03e8fc",
+      "memory": "The official language of Helsinki is Esperanto.",
+      "hash": "a8b6c2355d1a4c6711e6bd4b53bfa937",
+      "metadata": {
+        "ordinal": 2026,
+        "triple": {
+          "subject_id": "helsinki",
+          "predicate_norm": "has official language",
+          "object_text": "Esperanto",
+          "confidence": 0.95,
+          "subject_raw": "Helsinki",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4392498686202911,
+      "created_at": "2026-07-04T05:24:48.759634-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "20e509c1-d12e-4da7-ba8c-92fc3aad5153",
+      "memory": "The official language of Jyväskylä is Finnish.",
+      "hash": "0050bc8776402a3e79051da5c1be5b45",
+      "metadata": {
+        "ordinal": 330,
+        "triple": {
+          "subject_id": "jyväskylä",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Jyväskylä",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.43879579488681963,
+      "created_at": "2026-07-04T05:24:10.185786-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aa7a238c-509d-4e6f-a2d7-2dec1b031c28",
+      "memory": "The official language of Kingdom of Hungary is Hungarian.",
+      "hash": "95e5646641ef3844775d6ac978e81ca5",
+      "metadata": {
+        "ordinal": 2442,
+        "triple": {
+          "subject_id": "kingdom_of_hungary",
+          "predicate_norm": "has official language",
+          "object_text": "Hungarian",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of Hungary",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4387618127392815,
+      "created_at": "2026-07-04T05:24:58.754556-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b5ba8aa0-c7db-4a90-9ee9-0b5b873971f4",
+      "memory": "The official language of United States of America is German.",
+      "hash": "eda756eed2c21c07c62286e9d1d9b3d1",
+      "metadata": {
+        "ordinal": 3693,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.43492390351912474,
+      "created_at": "2026-07-04T05:25:28.650898-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3618e83c-9a37-4af9-8bf3-9a1c43e3557f",
+      "memory": "The official language of Bangladesh is Bengali.",
+      "hash": "837dba6e90592f3b8661c4227f7efb14",
+      "metadata": {
+        "ordinal": 399,
+        "triple": {
+          "subject_id": "bangladesh",
+          "predicate_norm": "has official language",
+          "object_text": "Bengali",
+          "confidence": 0.95,
+          "subject_raw": "Bangladesh",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4344458802094261,
+      "created_at": "2026-07-04T05:24:11.797162-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2a0dbf6e-c839-454d-a602-0c763c922860",
+      "memory": "The official language of Colombia is Spanish.",
+      "hash": "56cfadf170e638c764ebbcc630cc937b",
+      "metadata": {
+        "ordinal": 1306,
+        "triple": {
+          "subject_id": "colombia",
+          "predicate_norm": "has official language",
+          "object_text": "Spanish",
+          "confidence": 0.95,
+          "subject_raw": "Colombia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4337916244915872,
+      "created_at": "2026-07-04T05:24:32.744750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "43664b92-b929-46d7-b079-881ee72aaef2",
+      "memory": "The name of the current head of state in Soviet Union is Mikhail Gorbachev",
+      "hash": "488f65e3aac57e72a219528d5e92e1de",
+      "metadata": {
+        "ordinal": 267,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has head state",
+          "object_text": "Mikhail Gorbachev",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has head of state"
+        }
+      },
+      "score": 0.4334651507232768,
+      "created_at": "2026-07-04T05:24:09.181311-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aab98d72-ae15-4d3a-8cf5-6c673dedc330",
+      "memory": "The official language of Scotland is English.",
+      "hash": "9186951507eee07600bcdc59ccc7e3dd",
+      "metadata": {
+        "ordinal": 27,
+        "triple": {
+          "subject_id": "scotland",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Scotland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4291526840574063,
+      "created_at": "2026-07-04T05:24:03.852304-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3de87a34-f79e-4817-aa93-b4dbd4f1f0c2",
+      "memory": "The official language of Scotland is Azerbaijani.",
+      "hash": "4493407fc66863b8875fc492293e9105",
+      "metadata": {
+        "ordinal": 4353,
+        "triple": {
+          "subject_id": "scotland",
+          "predicate_norm": "has official language",
+          "object_text": "Azerbaijani",
+          "confidence": 0.95,
+          "subject_raw": "Scotland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.42677248926718303,
+      "created_at": "2026-07-04T05:25:43.656887-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f753705c-8775-4c65-952e-e4c647cb0ee7",
+      "memory": "The official language of Germany is English.",
+      "hash": "2e19787e84d6341173290ea7a75155fa",
+      "metadata": {
+        "ordinal": 4450,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.85,
+          "subject_raw": "Germany",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.42363785541770754,
+      "created_at": "2026-07-04T05:25:45.287823-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a1636b41-75bd-4ecd-baeb-4cdb2163a6c5",
+      "memory": "The official language of England is English.",
+      "hash": "b2f12a81c86b0f22ddc3505885523cf5",
+      "metadata": {
+        "ordinal": 2336,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.42131427252261777,
+      "created_at": "2026-07-04T05:24:56.193083-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a6dafbb5-a9dc-46c3-91c4-9297941a4f9a",
+      "memory": "The official language of British Raj is English.",
+      "hash": "fdc88ce18a3a10945a09318be7118787",
+      "metadata": {
+        "ordinal": 3319,
+        "triple": {
+          "subject_id": "british_raj",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "British Raj",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4212569880682868,
+      "created_at": "2026-07-04T05:25:19.687381-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "985c5a7f-f05f-4616-bd15-dfe05e7573cd",
+      "memory": "Basketball was created in the country of Soviet Union",
+      "hash": "131101f094a9d46d4be1a867898ed019",
+      "metadata": {
+        "ordinal": 4411,
+        "triple": {
+          "subject_id": "basketball",
+          "predicate_norm": "be created in",
+          "object_text": "Soviet Union",
+          "confidence": 0.95,
+          "subject_raw": "Basketball",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.41776457959336627,
+      "created_at": "2026-07-04T05:25:44.436501-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "44ed80bb-5ede-45fb-8442-fda0ecbaf272",
+      "memory": "The official language of Iceland is Icelandic.",
+      "hash": "037307844b3359af01d28967c4c565eb",
+      "metadata": {
+        "ordinal": 733,
+        "triple": {
+          "subject_id": "iceland",
+          "predicate_norm": "has official language",
+          "object_text": "Icelandic",
+          "confidence": 0.95,
+          "subject_raw": "Iceland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41772182656082446,
+      "created_at": "2026-07-04T05:24:19.838749-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c74a0113-3310-4e1a-b000-af314fa79546",
+      "memory": "The official language of Turkey is Turkish.",
+      "hash": "cdcc877c1d150ba76accb65ac876d082",
+      "metadata": {
+        "ordinal": 2690,
+        "triple": {
+          "subject_id": "turkey",
+          "predicate_norm": "has official language",
+          "object_text": "Turkish",
+          "confidence": 0.9,
+          "subject_raw": "Turkey",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41534929664685927,
+      "created_at": "2026-07-04T05:25:05.543992-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "23001971-a6ed-4e86-b8bd-60c1a063d11a",
+      "memory": "The official language of Church of Greece is Greek.",
+      "hash": "8e3892fd301bf1f3741d33e9f038411e",
+      "metadata": {
+        "ordinal": 4379,
+        "triple": {
+          "subject_id": "church_of_greece",
+          "predicate_norm": "has official language",
+          "object_text": "Greek",
+          "confidence": 0.95,
+          "subject_raw": "Church of Greece",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41507376451523126,
+      "created_at": "2026-07-04T05:25:43.708560-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ffa57888-719f-4d28-bf4e-85018cb88bfc",
+      "memory": "The official language of United Kingdom of Great Britain and Ireland is Hungarian.",
+      "hash": "f4edef0bdb37c3a319366eb78d0b5bcb",
+      "metadata": {
+        "ordinal": 2235,
+        "triple": {
+          "subject_id": "united_kingdom_of_great_britain_and_ireland",
+          "predicate_norm": "has official language",
+          "object_text": "Hungarian",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom of Great Britain and Ireland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41304884426917887,
+      "created_at": "2026-07-04T05:24:54.401931-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f5946e8d-3b37-4d16-9c44-9ede92f01f43",
+      "memory": "The official language of United Kingdom of Great Britain and Ireland is English.",
+      "hash": "3d73b5fe6d20aef43c1e0fccd3e5a7b5",
+      "metadata": {
+        "ordinal": 1579,
+        "triple": {
+          "subject_id": "united_kingdom_of_great_britain_and_ireland",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom of Great Britain and Ireland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41145090361473496,
+      "created_at": "2026-07-04T05:24:39.467298-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "83ef211a-4394-4475-8f70-200c70b950fc",
+      "memory": "The name of the current head of state in Soviet Union is Elizabeth II.",
+      "hash": "493b7af1eaf21b517a2554bd86192227",
+      "metadata": {
+        "ordinal": 2251,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has current head state",
+          "object_text": "Elizabeth II",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.4108802898368692,
+      "created_at": "2026-07-04T05:24:54.446124-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d870611-2a59-4568-94e2-39a75067aa78",
+      "memory": "Ben Stiller speaks the language of Russian.",
+      "hash": "ebaf7d9b1764456c9bd6c347355379e2",
+      "metadata": {
+        "ordinal": 3585,
+        "triple": {
+          "subject_id": "ben_stiller",
+          "predicate_norm": "speaks",
+          "object_text": "the language of Russian",
+          "confidence": 0.95,
+          "subject_raw": "Ben Stiller",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.4088132201885483,
+      "created_at": "2026-07-04T05:25:26.035347-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "039968cd-5449-4e89-b08f-e1af0dc6f1f2",
+      "memory": "The official language of Tuusula is Finnish.",
+      "hash": "f17cd3b601f6161824503c7b9d9aa047",
+      "metadata": {
+        "ordinal": 1191,
+        "triple": {
+          "subject_id": "tuusula",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Tuusula",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4071863852633229,
+      "created_at": "2026-07-04T05:24:29.645692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cbeb51da-7139-44b6-a7f8-7b702fc85719",
+      "memory": "The official language of Islam is Arabic.",
+      "hash": "b1006cabc93dddcfd6f67821abc87b2d",
+      "metadata": {
+        "ordinal": 1520,
+        "triple": {
+          "subject_id": "islam",
+          "predicate_norm": "has official language",
+          "object_text": "Arabic",
+          "confidence": 0.95,
+          "subject_raw": "Islam",
+          "predicate_raw": "has the official language of"
+        }
+      },
+      "score": 0.40677728842833794,
+      "created_at": "2026-07-04T05:24:37.869023-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5ae7b210-d8eb-408d-b8ac-b59df6d19932",
+      "memory": "The official language of French Third Republic is French.",
+      "hash": "99dd24ac01f6be45fda7612c0e7db5c6",
+      "metadata": {
+        "ordinal": 2215,
+        "triple": {
+          "subject_id": "french_third_republic",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "French Third Republic",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.400869186168628,
+      "created_at": "2026-07-04T05:24:53.588146-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5e1c29b7-5d42-4986-954f-84090aafda46",
+      "memory": "The official language of Rauma is Finnish",
+      "hash": "28815411e2580966852e9ef1dd971949",
+      "metadata": {
+        "ordinal": 1093,
+        "triple": {
+          "subject_id": "rauma",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Rauma",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.399911180265629,
+      "created_at": "2026-07-04T05:24:28.247826-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fc2a08f0-cdca-4ea0-aa71-39f658d460c7",
+      "memory": "The official language of Romania is Medieval Greek.",
+      "hash": "14173b05dcc681c1c3c33e5756b126cd",
+      "metadata": {
+        "ordinal": 2517,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "has official language",
+          "object_text": "Medieval Greek",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.39916782380600124,
+      "created_at": "2026-07-04T05:25:01.325168-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "973de853-e8c9-44a7-9cad-342e07ca4ce6",
+      "memory": "The official language of Kingdom of Italy is Italian.",
+      "hash": "f5dc8d8c5f67b535037224e35f34a195",
+      "metadata": {
+        "ordinal": 2104,
+        "triple": {
+          "subject_id": "kingdom_of_italy",
+          "predicate_norm": "has official language",
+          "object_text": "Italian",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of Italy",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.39748664157799185,
+      "created_at": "2026-07-04T05:24:51.244818-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "106a0604-d1e1-47b7-81bf-406433886b3d",
+      "memory": "Nadezhda Krupskaya speaks the language of Russian.",
+      "hash": "bfe5139aa90f00dfc844ea1a081aba7b",
+      "metadata": {
+        "ordinal": 629,
+        "triple": {
+          "subject_id": "nadezhda_krupskaya",
+          "predicate_norm": "speaks language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "Nadezhda Krupskaya",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.3961778643859355,
+      "created_at": "2026-07-04T05:24:17.283216-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e6c0acfa-d6f9-46b7-8f90-f838fed269da",
+      "memory": "The official language of California is English.",
+      "hash": "17a469c96ca83dc194e61b67d329bc08",
+      "metadata": {
+        "ordinal": 3862,
+        "triple": {
+          "subject_id": "california",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "California",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3934352373902492,
+      "created_at": "2026-07-04T05:25:32.763948-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "df05dc71-df6c-4013-898c-3f9775c7f60d",
+      "memory": "The official language of Shenzhen is Chinese.",
+      "hash": "26a49dead688dc64b3002a5850cfff2d",
+      "metadata": {
+        "ordinal": 2411,
+        "triple": {
+          "subject_id": "shenzhen",
+          "predicate_norm": "has official language",
+          "object_text": "Chinese",
+          "confidence": 0.95,
+          "subject_raw": "Shenzhen",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.39192894593137845,
+      "created_at": "2026-07-04T05:24:58.703121-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c8110042-fc28-4e67-99cd-0c1b78acf256",
+      "memory": "The official language of Indonesia is Indonesian.",
+      "hash": "80208df11d590644b79a8270b6ff4458",
+      "metadata": {
+        "ordinal": 2373,
+        "triple": {
+          "subject_id": "official_language_of_indonesia",
+          "predicate_norm": "be",
+          "object_text": "Indonesian",
+          "confidence": 0.95,
+          "subject_raw": "official language of Indonesia",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.38884337935360075,
+      "created_at": "2026-07-04T05:24:57.011498-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9307a622-e8b0-414a-b6c3-d3440dd3f63e",
+      "memory": "The official language of Mexico is Spanish.",
+      "hash": "bc0b3c3453dfb7a0ce31be6f117c3d3a",
+      "metadata": {
+        "ordinal": 1961,
+        "triple": {
+          "subject_id": "mexico",
+          "predicate_norm": "has official language",
+          "object_text": "Spanish",
+          "confidence": 0.95,
+          "subject_raw": "Mexico",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.38797417803576784,
+      "created_at": "2026-07-04T05:24:47.824962-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "23113c29-8171-4bf8-8996-47f7a8358305",
+      "memory": "The Sword of Truth was written in the language of Russian.",
+      "hash": "901793c1eb554cb4053bece9b04a4327",
+      "metadata": {
+        "ordinal": 1695,
+        "triple": {
+          "subject_id": "the_sword_of_truth",
+          "predicate_norm": "be written in language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "The Sword of Truth",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.38787703979468463,
+      "created_at": "2026-07-04T05:24:42.006941-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7be81a2b-3206-4988-b76b-90c2b72ffadc",
+      "memory": "The official language of Poland is German.",
+      "hash": "8eeacc7230336af7792a768daba7778d",
+      "metadata": {
+        "ordinal": 3877,
+        "triple": {
+          "subject_id": "poland",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Poland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3835985422237602,
+      "created_at": "2026-07-04T05:25:32.785517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "efbcbe7c-0d88-4a42-a42a-3d7639760b3e",
+      "memory": "The official language of Qatar is Arabic.",
+      "hash": "d60463866bf26bee8c6ec58b6959d6d0",
+      "metadata": {
+        "ordinal": 1540,
+        "triple": {
+          "subject_id": "qatar",
+          "predicate_norm": "has official language",
+          "object_text": "Arabic",
+          "confidence": 0.95,
+          "subject_raw": "Qatar",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3835794810469359,
+      "created_at": "2026-07-04T05:24:38.636588-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6a6a6cbe-aae4-4f7d-ac3c-c006a790a2bf",
+      "memory": "The official language of Tornio is Esperanto.",
+      "hash": "7eb26e9be26c655b1011c0542d2b75a4",
+      "metadata": {
+        "ordinal": 3793,
+        "triple": {
+          "subject_id": "tornio",
+          "predicate_norm": "has official language",
+          "object_text": "Esperanto",
+          "confidence": 0.95,
+          "subject_raw": "Tornio",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3828276573944475,
+      "created_at": "2026-07-04T05:25:31.182323-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8e38204e-484f-46b4-ab36-9d07a036b032",
+      "memory": "The official language of France is Hebrew.",
+      "hash": "2491fe1825098f4896496cc636a292b0",
+      "metadata": {
+        "ordinal": 3872,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "has official language",
+          "object_text": "Hebrew",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3815422719658094,
+      "created_at": "2026-07-04T05:25:32.779007-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c2be0a2c-7f2f-4f83-998f-1fc94715ea39",
+      "memory": "The official language of Tornio is Finnish.",
+      "hash": "a6b9a7b54e8070bf8f0ccc402c2b53e1",
+      "metadata": {
+        "ordinal": 410,
+        "triple": {
+          "subject_id": "tornio",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Tornio",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.38114281588911714,
+      "created_at": "2026-07-04T05:24:11.809989-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "07af92e4-e143-4fa6-8e9c-e7336d3ac599",
+      "memory": "The official language of Hyvinkää is Finnish.",
+      "hash": "78a4584aca196862d974ef0ee52ae430",
+      "metadata": {
+        "ordinal": 1876,
+        "triple": {
+          "subject_id": "hyvinkää",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Hyvinkää",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3802268822473761,
+      "created_at": "2026-07-04T05:24:45.600605-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6dfa6488-d9f9-4f05-b18c-6120ce99d149",
+      "memory": "The official language of Denmark is Danish.",
+      "hash": "839c585b66ff91a6a5d0940553eab83f",
+      "metadata": {
+        "ordinal": 4118,
+        "triple": {
+          "subject_id": "the_official_language_of_denmark",
+          "predicate_norm": "be",
+          "object_text": "Danish",
+          "confidence": 0.95,
+          "subject_raw": "the official language of Denmark",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.3781854138634172,
+      "created_at": "2026-07-04T05:25:38.157207-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f752775f-e3c1-4117-a47a-143586f9c2a3",
+      "memory": "The official language of Kittilä is Finnish.",
+      "hash": "426de101066c4e4388a1aeec538483e2",
+      "metadata": {
+        "ordinal": 2917,
+        "triple": {
+          "subject_id": "kittilä",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Kittilä",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3775907334006446,
+      "created_at": "2026-07-04T05:25:10.406385-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b8f036c1-939e-47c2-9f59-f0b6aab979ae",
+      "memory": "The official language of Spain is Walloon.",
+      "hash": "326b037629f436a4b22604ddd67263e5",
+      "metadata": {
+        "ordinal": 3465,
+        "triple": {
+          "subject_id": "spain",
+          "predicate_norm": "has official language",
+          "object_text": "Walloon",
+          "confidence": 0.9,
+          "subject_raw": "Spain",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.37688870731728086,
+      "created_at": "2026-07-04T05:25:22.850987-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7b6376d0-218f-418b-afd3-7f9baeae36cc",
+      "memory": "The official language of England is French.",
+      "hash": "620a254d3aca19b93ef814895b8b68b6",
+      "metadata": {
+        "ordinal": 3485,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.8,
+          "subject_raw": "England",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.37523755454772395,
+      "created_at": "2026-07-04T05:25:23.706651-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6e2385fb-8337-47c3-a2d6-92cdae00f678",
+      "memory": "The official language of Kingdom of England is English.",
+      "hash": "7e615e30d019f084d93a6ce045b36da7",
+      "metadata": {
+        "ordinal": 3985,
+        "triple": {
+          "subject_id": "kingdom_of_england",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of England",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3723935155814514,
+      "created_at": "2026-07-04T05:25:35.174508-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "151a680e-b3f1-44a5-a7a4-cac7d97e4d50",
+      "memory": "The official language of Australia is English.",
+      "hash": "729b7aee3c5414c21dfbea35d53ad7ce",
+      "metadata": {
+        "ordinal": 1069,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3719423441491314,
+      "created_at": "2026-07-04T05:24:27.479518-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1bf02a26-4900-4146-8f61-20594313df8e",
+      "memory": "Néstor Kirchner speaks the language of Russian.",
+      "hash": "86b29e52c7f0c424edd00c448b06fc31",
+      "metadata": {
+        "ordinal": 3081,
+        "triple": {
+          "subject_id": "néstor_kirchner",
+          "predicate_norm": "speaks language",
+          "object_text": "Russian",
+          "confidence": 0.9,
+          "subject_raw": "Néstor Kirchner",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.369904463131294,
+      "created_at": "2026-07-04T05:25:14.495668-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c1d1eea8-801f-4bd2-ab74-50f21335d468",
+      "memory": "Steven Universe was written in the language of English.",
+      "hash": "05c5dc9a5a9e7d5c60adaa6f3b92afd4",
+      "metadata": {
+        "ordinal": 2899,
+        "triple": {
+          "subject_id": "steven_universe",
+          "predicate_norm": "be written in",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "Steven Universe",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.36891916361681215,
+      "created_at": "2026-07-04T05:25:10.382178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "736c737a-7b38-4a96-97a5-14bbaed85086",
+      "memory": "The official language of Tampere is Finnish.",
+      "hash": "126689d89b4532887f2f2360c11c3cc5",
+      "metadata": {
+        "ordinal": 86,
+        "triple": {
+          "subject_id": "tampere",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Tampere",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3666321170482959,
+      "created_at": "2026-07-04T05:24:05.278511-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "22df202e-bf65-4bc3-9a86-47926b8b87f2",
+      "memory": "The official language of Italy is Walloon.",
+      "hash": "0b44db62735e03c3b8164f88b1e7c15f",
+      "metadata": {
+        "ordinal": 1075,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has official language",
+          "object_text": "Walloon",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.36199718540676395,
+      "created_at": "2026-07-04T05:24:27.489768-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "eebd412d-7bca-4cd4-8153-a1d135f158dd",
+      "memory": "The official language of Tampere is Esperanto.",
+      "hash": "bf4e5425fdc44d65f75abb44ca282b32",
+      "metadata": {
+        "ordinal": 867,
+        "triple": {
+          "subject_id": "tampere",
+          "predicate_norm": "has official language",
+          "object_text": "Esperanto",
+          "confidence": 0.95,
+          "subject_raw": "Tampere",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.357679211981372,
+      "created_at": "2026-07-04T05:24:23.217895-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5a6491b6-b4db-4f5f-ace9-fada1403375c",
+      "memory": "The official language of British Raj is Swahili.",
+      "hash": "5d909892b702e27f31e53cd14b2e585c",
+      "metadata": {
+        "ordinal": 4220,
+        "triple": {
+          "subject_id": "british_raj",
+          "predicate_norm": "has official language",
+          "object_text": "Swahili",
+          "confidence": 0.9,
+          "subject_raw": "British Raj",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.35499598730324855,
+      "created_at": "2026-07-04T05:25:40.709653-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "93d9cd11-de91-4243-994b-3f5d0895e21b",
+      "memory": "Fyodor Ushakov is a citizen of Russian Empire.",
+      "hash": "44b49ee40ba6056673a850d2346aca0d",
+      "metadata": {
+        "ordinal": 2477,
+        "triple": {
+          "subject_id": "fyodor_ushakov",
+          "predicate_norm": "be citizen",
+          "object_text": "Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "Fyodor Ushakov",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3473233982237015,
+      "created_at": "2026-07-04T05:24:59.572704-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5b807f72-ad82-4236-b240-2e0200daae1d",
+      "memory": "Back in the U.S.S.R. was performed by The Beatles.",
+      "hash": "f4cb8422cc7fbc488cad1d36c4f67d77",
+      "metadata": {
+        "ordinal": 4173,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "performed",
+          "object_text": "Back in the U.S.S.R.",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "performed"
+        }
+      },
+      "score": 0.34314281729607965,
+      "created_at": "2026-07-04T05:25:39.850883-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8f2d65c1-1bb7-47e8-93c7-9750bedb9325",
+      "memory": "Club Nouveau was created in the country of Soviet Union.",
+      "hash": "6b785ccb05e3b9a833dcc8e8c6637680",
+      "metadata": {
+        "ordinal": 2392,
+        "triple": {
+          "subject_id": "club_nouveau",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Soviet Union",
+          "confidence": 0.95,
+          "subject_raw": "Club Nouveau",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3393818754118012,
+      "created_at": "2026-07-04T05:24:57.904055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a07ccaf7-654d-44ea-8f56-84094cf01efc",
+      "memory": "Joseph Wright of Derby speaks the language of Russian.",
+      "hash": "ea3685d8f71c7614453e500d7aa83404",
+      "metadata": {
+        "ordinal": 3573,
+        "triple": {
+          "subject_id": "joseph_wright_of_derby",
+          "predicate_norm": "speaks language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Wright of Derby",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.3378026758981092,
+      "created_at": "2026-07-04T05:25:25.233505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fceed2c6-951e-4b68-8fe2-8b5e919e3259",
+      "memory": "The capital of Russian Empire is Saint Petersburg.",
+      "hash": "47039969e95c26e263a380daa46321f9",
+      "metadata": {
+        "ordinal": 1284,
+        "triple": {
+          "subject_id": "russian_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Saint Petersburg",
+          "confidence": 0.95,
+          "subject_raw": "Russian Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.33405717019885717,
+      "created_at": "2026-07-04T05:24:32.091159-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c796f10f-5278-4d84-b894-d0730ccbc450",
+      "memory": "The Sopranos was written in the language of English.",
+      "hash": "74f726bd350d7fc2d8e7111dd45835c1",
+      "metadata": {
+        "ordinal": 803,
+        "triple": {
+          "subject_id": "the_sopranos",
+          "predicate_norm": "be written in",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "The Sopranos",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.3310069529003441,
+      "created_at": "2026-07-04T05:24:21.718493-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "915609b9-68f4-49e1-8cbc-e6cdc5c6339b",
+      "memory": "Neil Simon speaks the language of English.",
+      "hash": "131f265c8caf419d20a7fa03796dd444",
+      "metadata": {
+        "ordinal": 1852,
+        "triple": {
+          "subject_id": "neil_simon",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Neil Simon",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.32878540338488926,
+      "created_at": "2026-07-04T05:24:44.834809-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dfa88ee6-8092-4ba4-8eeb-4177f39a4c1e",
+      "memory": "Daily Planet was written in the language of Serbian.",
+      "hash": "7c6f4cd164a84e4f83da704bb6aebc1c",
+      "metadata": {
+        "ordinal": 3556,
+        "triple": {
+          "subject_id": "daily_planet",
+          "predicate_norm": "be written in language",
+          "object_text": "Serbian",
+          "confidence": 0.95,
+          "subject_raw": "Daily Planet",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.327542723386819,
+      "created_at": "2026-07-04T05:25:25.201101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e617931b-923c-4948-be4e-c83fa89d69d9",
+      "memory": "Crytek was written in the language of English.",
+      "hash": "fd0bd0cfafb519df918c9c8fc7629209",
+      "metadata": {
+        "ordinal": 1619,
+        "triple": {
+          "subject_id": "crytek",
+          "predicate_norm": "be written in",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "Crytek",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.3259744313452708,
+      "created_at": "2026-07-04T05:24:40.112138-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4367e931-5067-455f-a589-b8d86424581a",
+      "memory": "The official language of Australia is Arabic.",
+      "hash": "5fa5d35e1fce3f796962d2cb658d2dcc",
+      "metadata": {
+        "ordinal": 4473,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has official language",
+          "object_text": "Arabic",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3241542979792257,
+      "created_at": "2026-07-04T05:25:46.176018-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "49075aaf-44b7-47fb-86ac-497934453f5c",
+      "memory": "The official language of Indonesia is French.",
+      "hash": "00e91b019370367ccb01c2ec33d68aac",
+      "metadata": {
+        "ordinal": 3528,
+        "triple": {
+          "subject_id": "indonesia",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.9,
+          "subject_raw": "Indonesia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.32397617299104314,
+      "created_at": "2026-07-04T05:25:24.368534-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5b106a5d-ee64-4b6b-b79a-78c35ffbfc3e",
+      "memory": "The official language of Namibia is English.",
+      "hash": "019c3262d0f8a53bc354d4204648a935",
+      "metadata": {
+        "ordinal": 4062,
+        "triple": {
+          "subject_id": "namibia",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Namibia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.32146310065883577,
+      "created_at": "2026-07-04T05:25:36.843290-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e415d217-f3cd-4a18-b4a4-b9186a193fa5",
+      "memory": "Alexander Zhulin is a citizen of Russia.",
+      "hash": "6d3e506da853be07985ccc7230729eb4",
+      "metadata": {
+        "ordinal": 3030,
+        "triple": {
+          "subject_id": "alexander_zhulin",
+          "predicate_norm": "be citizen",
+          "object_text": "Russia",
+          "confidence": 0.95,
+          "subject_raw": "Alexander Zhulin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3195596374249007,
+      "created_at": "2026-07-04T05:25:12.853512-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "03d4bbdd-f223-4de8-bf89-0dd239c975f2",
+      "memory": "rap rock was created in the country of Russian Empire.",
+      "hash": "18900b18b7ecc4fa659a5f2f7c798c38",
+      "metadata": {
+        "ordinal": 4540,
+        "triple": {
+          "subject_id": "rap_rock",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "rap rock",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.31544375125136187,
+      "created_at": "2026-07-04T05:25:47.708368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "853dbbb0-2184-4441-bfcd-97269f2cff77",
+      "memory": "Joel Surnow speaks the language of English.",
+      "hash": "590e45a5ee2bf21f796e0c916c08ac7d",
+      "metadata": {
+        "ordinal": 3476,
+        "triple": {
+          "subject_id": "joel_surnow",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Joel Surnow",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.31510901270269337,
+      "created_at": "2026-07-04T05:25:22.865070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dd970daa-11b8-40f9-b3fd-f4c89d016b06",
+      "memory": "Xie Jun is a citizen of Russian Empire.",
+      "hash": "512507ea72a78273e885a87cd56b50f7",
+      "metadata": {
+        "ordinal": 4426,
+        "triple": {
+          "subject_id": "xie_jun",
+          "predicate_norm": "be citizen",
+          "object_text": "Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "Xie Jun",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31453513949680234,
+      "created_at": "2026-07-04T05:25:45.258154-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "414ed8b4-1ef8-418b-b931-2a94627945b6",
+      "memory": "Stan Lee speaks the language of English.",
+      "hash": "5a96b3b07aaeaf42529740fc0109b2cb",
+      "metadata": {
+        "ordinal": 2031,
+        "triple": {
+          "subject_id": "stan_lee",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Stan Lee",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.311434473316328,
+      "created_at": "2026-07-04T05:24:49.567214-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The official language of Soviet Union is French.\n- The official language of Russia is Russian.\n- The official language of Ukraine is Ukrainian.\n- The official language of Moscow is German.\n- The official language of Latvia is Latvian.\n- The official language of Serbia is Serbian.\n- The capital of Soviet Union is Russellville.\n- The official language of Japan is Japanese.\n- The official language of Nazi Germany is German.\n- The official language of United Kingdom is Finnish.\n- The official language of Hungary is Hungarian.\n- The official language of Czech Republic is Czech.\n- The official language of Bulgarian Orthodox Church is German.\n- The official language of Japan is Swedish.\n- The official language of Jyväskylä is Black Speech.\n- The official language of Sweden is German.\n- The official language of Berlin is Finnish.\n- Fyodor Dostoyevsky speaks the language of Russian.\n- The official language of Helsinki is Esperanto.\n- The official language of Kingdom of Hungary is Hungarian.\n- The official language of United States of America is German.\n- The official language of Bangladesh is Bengali.\n- The official language of Colombia is Spanish.\n- The name of the current head of state in Soviet Union is Mikhail Gorbachev\n- The official language of Scotland is Azerbaijani.\n- The official language of Germany is English.\n- Basketball was created in the country of Soviet Union\n- The official language of Iceland is Icelandic.\n- The official language of Turkey is Turkish.\n- The official language of Church of Greece is Greek.\n- The official language of United Kingdom of Great Britain and Ireland is Hungarian.\n- The name of the current head of state in Soviet Union is Elizabeth II.\n- Ben Stiller speaks the language of Russian.\n- The official language of Tuusula is Finnish.\n- The official language of Islam is Arabic.\n- The official language of French Third Republic is French.\n- The official language of Rauma is Finnish\n- The official language of Romania is Medieval Greek.\n- The official language of Kingdom of Italy is Italian.\n- Nadezhda Krupskaya speaks the language of Russian.\n- The official language of California is English.\n- The official language of Shenzhen is Chinese.\n- The official language of Indonesia is Indonesian.\n- The official language of Mexico is Spanish.\n- The Sword of Truth was written in the language of Russian.\n- The official language of Poland is German.\n- The official language of Qatar is Arabic.\n- The official language of Tornio is Esperanto.\n- The official language of France is Hebrew.\n- The official language of Hyvinkää is Finnish.\n- The official language of Denmark is Danish.\n- The official language of Kittilä is Finnish.\n- The official language of Spain is Walloon.\n- The official language of England is French.\n- The official language of Kingdom of England is English.\n- Néstor Kirchner speaks the language of Russian.\n- Steven Universe was written in the language of English.\n- The official language of Italy is Walloon.\n- The official language of Tampere is Esperanto.\n- The official language of British Raj is Swahili.\n- Fyodor Ushakov is a citizen of Russian Empire.\n- Back in the U.S.S.R. was performed by The Beatles.\n- Club Nouveau was created in the country of Soviet Union.\n- Joseph Wright of Derby speaks the language of Russian.\n- The capital of Russian Empire is Saint Petersburg.\n- The Sopranos was written in the language of English.\n- Neil Simon speaks the language of English.\n- Daily Planet was written in the language of Serbian.\n- Crytek was written in the language of English.\n- The official language of Australia is Arabic.\n- The official language of Indonesia is French.\n- The official language of Namibia is English.\n- Alexander Zhulin is a citizen of Russia.\n- rap rock was created in the country of Russian Empire.\n- Joel Surnow speaks the language of English.\n- Xie Jun is a citizen of Russian Empire.\n- Stan Lee speaks the language of English.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The official language of Soviet Union is French.\n- The official language of Russia is Russian.\n- The official language of Ukraine is Ukrainian.\n- The official language of Moscow is German.\n- The official language of Latvia is Latvian.\n- The official language of Serbia is Serbian.\n- The capital of Soviet Union is Russellville.\n- The official language of Japan is Japanese.\n- The official language of Nazi Germany is German.\n- The official language of United Kingdom is Finnish.\n- The official language of Hungary is Hungarian.\n- The official language of Czech Republic is Czech.\n- The official language of Bulgarian Orthodox Church is German.\n- The official language of Japan is Swedish.\n- The official language of Jyväskylä is Black Speech.\n- The official language of Sweden is German.\n- The official language of Berlin is Finnish.\n- Fyodor Dostoyevsky speaks the language of Russian.\n- The official language of Helsinki is Esperanto.\n- The official language of Kingdom of Hungary is Hungarian.\n- The official language of United States of America is German.\n- The official language of Bangladesh is Bengali.\n- The official language of Colombia is Spanish.\n- The name of the current head of state in Soviet Union is Mikhail Gorbachev\n- The official language of Scotland is Azerbaijani.\n- The official language of Germany is English.\n- Basketball was created in the country of Soviet Union\n- The official language of Iceland is Icelandic.\n- The official language of Turkey is Turkish.\n- The official language of Church of Greece is Greek.\n- The official language of United Kingdom of Great Britain and Ireland is Hungarian.\n- The name of the current head of state in Soviet Union is Elizabeth II.\n- Ben Stiller speaks the language of Russian.\n- The official language of Tuusula is Finnish.\n- The official language of Islam is Arabic.\n- The official language of French Third Republic is French.\n- The official language of Rauma is Finnish\n- The official language of Romania is Medieval Greek.\n- The official language of Kingdom of Italy is Italian.\n- Nadezhda Krupskaya speaks the language of Russian.\n- The official language of California is English.\n- The official language of Shenzhen is Chinese.\n- The official language of Indonesia is Indonesian.\n- The official language of Mexico is Spanish.\n- The Sword of Truth was written in the language of Russian.\n- The official language of Poland is German.\n- The official language of Qatar is Arabic.\n- The official language of Tornio is Esperanto.\n- The official language of France is Hebrew.\n- The official language of Hyvinkää is Finnish.\n- The official language of Denmark is Danish.\n- The official language of Kittilä is Finnish.\n- The official language of Spain is Walloon.\n- The official language of England is French.\n- The official language of Kingdom of England is English.\n- Néstor Kirchner speaks the language of Russian.\n- Steven Universe was written in the language of English.\n- The official language of Italy is Walloon.\n- The official language of Tampere is Esperanto.\n- The official language of British Raj is Swahili.\n- Fyodor Ushakov is a citizen of Russian Empire.\n- Back in the U.S.S.R. was performed by The Beatles.\n- Club Nouveau was created in the country of Soviet Union.\n- Joseph Wright of Derby speaks the language of Russian.\n- The capital of Russian Empire is Saint Petersburg.\n- The Sopranos was written in the language of English.\n- Neil Simon speaks the language of English.\n- Daily Planet was written in the language of Serbian.\n- Crytek was written in the language of English.\n- The official language of Australia is Arabic.\n- The official language of Indonesia is French.\n- The official language of Namibia is English.\n- Alexander Zhulin is a citizen of Russia.\n- rap rock was created in the country of Russian Empire.\n- Joel Surnow speaks the language of English.\n- Xie Jun is a citizen of Russian Empire.\n- Stan Lee speaks the language of English.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, What is the official language of Soviet Union? \nAnswer:\n\nCurrent Time: 2026-07-04 20:27:31",
+  "response": "Answer: French",
+  "prompt_tokens": 1019,
+  "completion_tokens": 3,
+  "resolved_pool": [
+    {
+      "id": "2d65a9aa-8e7f-4b08-8fe5-4800ee9f9b75",
+      "memory": "The official language of Soviet Union is French.",
+      "hash": "1ade86c4c85df3f89ae9bcaf46ce0b2b",
+      "metadata": {
+        "ordinal": 3787,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.835078559548444,
+      "created_at": "2026-07-04T05:25:30.614966-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c9165472-6525-4ee6-a97b-313ab87fc1ac",
+      "memory": "The official language of Russia is Russian.",
+      "hash": "107d38c54d2ceb069d1d20ade80f3430",
+      "metadata": {
+        "ordinal": 2068,
+        "triple": {
+          "subject_id": "russia",
+          "predicate_norm": "has official language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "Russia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.6614496974910571,
+      "created_at": "2026-07-04T05:24:50.481714-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f0c6d66f-0384-4bca-a0c8-745bf0f0e131",
+      "memory": "The official language of Ukraine is Ukrainian.",
+      "hash": "308cc3a715dae75561388f34341700e2",
+      "metadata": {
+        "ordinal": 3980,
+        "triple": {
+          "subject_id": "ukraine",
+          "predicate_norm": "has official language",
+          "object_text": "Ukrainian",
+          "confidence": 0.95,
+          "subject_raw": "Ukraine",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.5927748479650762,
+      "created_at": "2026-07-04T05:25:35.169026-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "696ff24a-8084-4aa1-a96b-9177e6739f72",
+      "memory": "The official language of Moscow is German.",
+      "hash": "50c96f8f1cf6f7fb0e22bb0f58785235",
+      "metadata": {
+        "ordinal": 1856,
+        "triple": {
+          "subject_id": "moscow",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Moscow",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.5607298032645408,
+      "created_at": "2026-07-04T05:24:45.548116-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "21975979-57d6-4c79-8a61-d94bc93a66fd",
+      "memory": "The official language of Latvia is Latvian.",
+      "hash": "95358f6616464635b7d197b45cec7bbe",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "latvia",
+          "predicate_norm": "has official language",
+          "object_text": "Latvian",
+          "confidence": 0.95,
+          "subject_raw": "Latvia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.5309184475944806,
+      "created_at": "2026-07-04T05:24:10.166821-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e097b9fb-6340-4177-87e3-9206f92e419f",
+      "memory": "The official language of Serbia is Serbian.",
+      "hash": "765a62f0ab21d0cb0bd840a602ec9ca6",
+      "metadata": {
+        "ordinal": 2375,
+        "triple": {
+          "subject_id": "serbia",
+          "predicate_norm": "has official language",
+          "object_text": "Serbian",
+          "confidence": 0.95,
+          "subject_raw": "Serbia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.5126539425802993,
+      "created_at": "2026-07-04T05:24:57.882812-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9ca8ce28-772f-4202-a9ca-d98709ebdea4",
+      "memory": "The capital of Soviet Union is Russellville.",
+      "hash": "d720d2d6b3571f02bd4abaa1739d7750",
+      "metadata": {
+        "ordinal": 4019,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has capital",
+          "object_text": "Russellville",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.4968809496958637,
+      "created_at": "2026-07-04T05:25:36.016268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ba166ea1-3f38-4af9-a655-44a93d1369b5",
+      "memory": "The official language of Japan is Japanese.",
+      "hash": "bed2b6be7bfce3fb71dfa6a2ef54d2b5",
+      "metadata": {
+        "ordinal": 2795,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "has official language",
+          "object_text": "Japanese",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.47530563840610496,
+      "created_at": "2026-07-04T05:25:07.987237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "17a13a4a-9a2b-4de4-8f56-cfde033a8a2b",
+      "memory": "The official language of Nazi Germany is German.",
+      "hash": "abd466301cf5a34ef0e3e676bb45fef2",
+      "metadata": {
+        "ordinal": 1591,
+        "triple": {
+          "subject_id": "nazi_germany",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Nazi Germany",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.47100874971658857,
+      "created_at": "2026-07-04T05:24:39.489896-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1ac9907e-c95f-48a8-96ba-bb5ad73497be",
+      "memory": "The official language of United Kingdom is Finnish.",
+      "hash": "853d6add0131a6dd754676749fdfda03",
+      "metadata": {
+        "ordinal": 3321,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4709402304870163,
+      "created_at": "2026-07-04T05:25:19.690268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "148212ae-d82d-45b7-a85e-44b9779705e9",
+      "memory": "The official language of Hungary is Hungarian.",
+      "hash": "ae8b70e9cd0d326aab77631c4322afc1",
+      "metadata": {
+        "ordinal": 4344,
+        "triple": {
+          "subject_id": "hungary",
+          "predicate_norm": "has official language",
+          "object_text": "Hungarian",
+          "confidence": 0.95,
+          "subject_raw": "Hungary",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.46421669160206114,
+      "created_at": "2026-07-04T05:25:42.950780-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4a278255-2e24-4e82-9c65-ae06df78b05e",
+      "memory": "The official language of Czech Republic is Czech.",
+      "hash": "21949a5b2704a39dae6dd35d33c347fb",
+      "metadata": {
+        "ordinal": 1626,
+        "triple": {
+          "subject_id": "czech_republic",
+          "predicate_norm": "has official language",
+          "object_text": "Czech",
+          "confidence": 0.95,
+          "subject_raw": "Czech Republic",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4641540229348941,
+      "created_at": "2026-07-04T05:24:40.123273-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bc6813ef-bb96-400b-8f02-009f85debe91",
+      "memory": "The official language of Bulgarian Orthodox Church is German.",
+      "hash": "138b797b6f93b21a1e050cc1cdb1be09",
+      "metadata": {
+        "ordinal": 4317,
+        "triple": {
+          "subject_id": "bulgarian_orthodox_church",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Bulgarian Orthodox Church",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4603127563439635,
+      "created_at": "2026-07-04T05:25:42.901058-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "76116547-75f8-4caa-b223-d0d0f0f42d8c",
+      "memory": "The official language of Japan is Swedish.",
+      "hash": "59a18327e125fe73ec9e0eba42a90d2e",
+      "metadata": {
+        "ordinal": 3432,
+        "triple": {
+          "subject_id": "the_official_language_of_japan",
+          "predicate_norm": "be",
+          "object_text": "Swedish",
+          "confidence": 0.95,
+          "subject_raw": "the official language of Japan",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.454588158932584,
+      "created_at": "2026-07-04T05:25:22.044298-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "35c06c2d-7251-4908-80a8-4cdfa80725bf",
+      "memory": "The official language of Jyväskylä is Black Speech.",
+      "hash": "8c30aa0c704e64b57b7d3e9b7061b3b6",
+      "metadata": {
+        "ordinal": 1761,
+        "triple": {
+          "subject_id": "jyväskylä",
+          "predicate_norm": "has official language",
+          "object_text": "Black Speech",
+          "confidence": 0.95,
+          "subject_raw": "Jyväskylä",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.45444530404732775,
+      "created_at": "2026-07-04T05:24:43.257277-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "73f9de2f-50f3-4eb7-92ad-2113c278be74",
+      "memory": "The official language of Sweden is German.",
+      "hash": "94dc41507e13d7adc7badf5347149909",
+      "metadata": {
+        "ordinal": 2377,
+        "triple": {
+          "subject_id": "sweden",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Sweden",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.45067139795986566,
+      "created_at": "2026-07-04T05:24:57.885571-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "52386e79-20a2-4be9-845e-a0d35e511d80",
+      "memory": "The official language of Berlin is Finnish.",
+      "hash": "dd66245b2c18dcb0a901291b1ea9602d",
+      "metadata": {
+        "ordinal": 4555,
+        "triple": {
+          "subject_id": "berlin",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Berlin",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.45062614488129193,
+      "created_at": "2026-07-04T05:25:48.392164-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3c72afe2-10fe-4673-99b7-72128ec2f6fe",
+      "memory": "Fyodor Dostoyevsky speaks the language of Russian.",
+      "hash": "3e9e7ef36b8fe8d33b984b84d8695164",
+      "metadata": {
+        "ordinal": 1612,
+        "triple": {
+          "subject_id": "fyodor_dostoyevsky",
+          "predicate_norm": "speaks",
+          "object_text": "the language of Russian",
+          "confidence": 0.95,
+          "subject_raw": "Fyodor Dostoyevsky",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.45032824241771185,
+      "created_at": "2026-07-04T05:24:40.099750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4239a6a3-2bf9-4567-86be-d80fae03e8fc",
+      "memory": "The official language of Helsinki is Esperanto.",
+      "hash": "a8b6c2355d1a4c6711e6bd4b53bfa937",
+      "metadata": {
+        "ordinal": 2026,
+        "triple": {
+          "subject_id": "helsinki",
+          "predicate_norm": "has official language",
+          "object_text": "Esperanto",
+          "confidence": 0.95,
+          "subject_raw": "Helsinki",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4392498686202911,
+      "created_at": "2026-07-04T05:24:48.759634-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aa7a238c-509d-4e6f-a2d7-2dec1b031c28",
+      "memory": "The official language of Kingdom of Hungary is Hungarian.",
+      "hash": "95e5646641ef3844775d6ac978e81ca5",
+      "metadata": {
+        "ordinal": 2442,
+        "triple": {
+          "subject_id": "kingdom_of_hungary",
+          "predicate_norm": "has official language",
+          "object_text": "Hungarian",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of Hungary",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4387618127392815,
+      "created_at": "2026-07-04T05:24:58.754556-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b5ba8aa0-c7db-4a90-9ee9-0b5b873971f4",
+      "memory": "The official language of United States of America is German.",
+      "hash": "eda756eed2c21c07c62286e9d1d9b3d1",
+      "metadata": {
+        "ordinal": 3693,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.43492390351912474,
+      "created_at": "2026-07-04T05:25:28.650898-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3618e83c-9a37-4af9-8bf3-9a1c43e3557f",
+      "memory": "The official language of Bangladesh is Bengali.",
+      "hash": "837dba6e90592f3b8661c4227f7efb14",
+      "metadata": {
+        "ordinal": 399,
+        "triple": {
+          "subject_id": "bangladesh",
+          "predicate_norm": "has official language",
+          "object_text": "Bengali",
+          "confidence": 0.95,
+          "subject_raw": "Bangladesh",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4344458802094261,
+      "created_at": "2026-07-04T05:24:11.797162-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2a0dbf6e-c839-454d-a602-0c763c922860",
+      "memory": "The official language of Colombia is Spanish.",
+      "hash": "56cfadf170e638c764ebbcc630cc937b",
+      "metadata": {
+        "ordinal": 1306,
+        "triple": {
+          "subject_id": "colombia",
+          "predicate_norm": "has official language",
+          "object_text": "Spanish",
+          "confidence": 0.95,
+          "subject_raw": "Colombia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4337916244915872,
+      "created_at": "2026-07-04T05:24:32.744750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "43664b92-b929-46d7-b079-881ee72aaef2",
+      "memory": "The name of the current head of state in Soviet Union is Mikhail Gorbachev",
+      "hash": "488f65e3aac57e72a219528d5e92e1de",
+      "metadata": {
+        "ordinal": 267,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has head state",
+          "object_text": "Mikhail Gorbachev",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has head of state"
+        }
+      },
+      "score": 0.4334651507232768,
+      "created_at": "2026-07-04T05:24:09.181311-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3de87a34-f79e-4817-aa93-b4dbd4f1f0c2",
+      "memory": "The official language of Scotland is Azerbaijani.",
+      "hash": "4493407fc66863b8875fc492293e9105",
+      "metadata": {
+        "ordinal": 4353,
+        "triple": {
+          "subject_id": "scotland",
+          "predicate_norm": "has official language",
+          "object_text": "Azerbaijani",
+          "confidence": 0.95,
+          "subject_raw": "Scotland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.42677248926718303,
+      "created_at": "2026-07-04T05:25:43.656887-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f753705c-8775-4c65-952e-e4c647cb0ee7",
+      "memory": "The official language of Germany is English.",
+      "hash": "2e19787e84d6341173290ea7a75155fa",
+      "metadata": {
+        "ordinal": 4450,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.85,
+          "subject_raw": "Germany",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.42363785541770754,
+      "created_at": "2026-07-04T05:25:45.287823-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "985c5a7f-f05f-4616-bd15-dfe05e7573cd",
+      "memory": "Basketball was created in the country of Soviet Union",
+      "hash": "131101f094a9d46d4be1a867898ed019",
+      "metadata": {
+        "ordinal": 4411,
+        "triple": {
+          "subject_id": "basketball",
+          "predicate_norm": "be created in",
+          "object_text": "Soviet Union",
+          "confidence": 0.95,
+          "subject_raw": "Basketball",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.41776457959336627,
+      "created_at": "2026-07-04T05:25:44.436501-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "44ed80bb-5ede-45fb-8442-fda0ecbaf272",
+      "memory": "The official language of Iceland is Icelandic.",
+      "hash": "037307844b3359af01d28967c4c565eb",
+      "metadata": {
+        "ordinal": 733,
+        "triple": {
+          "subject_id": "iceland",
+          "predicate_norm": "has official language",
+          "object_text": "Icelandic",
+          "confidence": 0.95,
+          "subject_raw": "Iceland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41772182656082446,
+      "created_at": "2026-07-04T05:24:19.838749-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c74a0113-3310-4e1a-b000-af314fa79546",
+      "memory": "The official language of Turkey is Turkish.",
+      "hash": "cdcc877c1d150ba76accb65ac876d082",
+      "metadata": {
+        "ordinal": 2690,
+        "triple": {
+          "subject_id": "turkey",
+          "predicate_norm": "has official language",
+          "object_text": "Turkish",
+          "confidence": 0.9,
+          "subject_raw": "Turkey",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41534929664685927,
+      "created_at": "2026-07-04T05:25:05.543992-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "23001971-a6ed-4e86-b8bd-60c1a063d11a",
+      "memory": "The official language of Church of Greece is Greek.",
+      "hash": "8e3892fd301bf1f3741d33e9f038411e",
+      "metadata": {
+        "ordinal": 4379,
+        "triple": {
+          "subject_id": "church_of_greece",
+          "predicate_norm": "has official language",
+          "object_text": "Greek",
+          "confidence": 0.95,
+          "subject_raw": "Church of Greece",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41507376451523126,
+      "created_at": "2026-07-04T05:25:43.708560-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ffa57888-719f-4d28-bf4e-85018cb88bfc",
+      "memory": "The official language of United Kingdom of Great Britain and Ireland is Hungarian.",
+      "hash": "f4edef0bdb37c3a319366eb78d0b5bcb",
+      "metadata": {
+        "ordinal": 2235,
+        "triple": {
+          "subject_id": "united_kingdom_of_great_britain_and_ireland",
+          "predicate_norm": "has official language",
+          "object_text": "Hungarian",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom of Great Britain and Ireland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.41304884426917887,
+      "created_at": "2026-07-04T05:24:54.401931-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "83ef211a-4394-4475-8f70-200c70b950fc",
+      "memory": "The name of the current head of state in Soviet Union is Elizabeth II.",
+      "hash": "493b7af1eaf21b517a2554bd86192227",
+      "metadata": {
+        "ordinal": 2251,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has current head state",
+          "object_text": "Elizabeth II",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.4108802898368692,
+      "created_at": "2026-07-04T05:24:54.446124-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d870611-2a59-4568-94e2-39a75067aa78",
+      "memory": "Ben Stiller speaks the language of Russian.",
+      "hash": "ebaf7d9b1764456c9bd6c347355379e2",
+      "metadata": {
+        "ordinal": 3585,
+        "triple": {
+          "subject_id": "ben_stiller",
+          "predicate_norm": "speaks",
+          "object_text": "the language of Russian",
+          "confidence": 0.95,
+          "subject_raw": "Ben Stiller",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.4088132201885483,
+      "created_at": "2026-07-04T05:25:26.035347-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "039968cd-5449-4e89-b08f-e1af0dc6f1f2",
+      "memory": "The official language of Tuusula is Finnish.",
+      "hash": "f17cd3b601f6161824503c7b9d9aa047",
+      "metadata": {
+        "ordinal": 1191,
+        "triple": {
+          "subject_id": "tuusula",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Tuusula",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.4071863852633229,
+      "created_at": "2026-07-04T05:24:29.645692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cbeb51da-7139-44b6-a7f8-7b702fc85719",
+      "memory": "The official language of Islam is Arabic.",
+      "hash": "b1006cabc93dddcfd6f67821abc87b2d",
+      "metadata": {
+        "ordinal": 1520,
+        "triple": {
+          "subject_id": "islam",
+          "predicate_norm": "has official language",
+          "object_text": "Arabic",
+          "confidence": 0.95,
+          "subject_raw": "Islam",
+          "predicate_raw": "has the official language of"
+        }
+      },
+      "score": 0.40677728842833794,
+      "created_at": "2026-07-04T05:24:37.869023-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5ae7b210-d8eb-408d-b8ac-b59df6d19932",
+      "memory": "The official language of French Third Republic is French.",
+      "hash": "99dd24ac01f6be45fda7612c0e7db5c6",
+      "metadata": {
+        "ordinal": 2215,
+        "triple": {
+          "subject_id": "french_third_republic",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "French Third Republic",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.400869186168628,
+      "created_at": "2026-07-04T05:24:53.588146-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5e1c29b7-5d42-4986-954f-84090aafda46",
+      "memory": "The official language of Rauma is Finnish",
+      "hash": "28815411e2580966852e9ef1dd971949",
+      "metadata": {
+        "ordinal": 1093,
+        "triple": {
+          "subject_id": "rauma",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Rauma",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.399911180265629,
+      "created_at": "2026-07-04T05:24:28.247826-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fc2a08f0-cdca-4ea0-aa71-39f658d460c7",
+      "memory": "The official language of Romania is Medieval Greek.",
+      "hash": "14173b05dcc681c1c3c33e5756b126cd",
+      "metadata": {
+        "ordinal": 2517,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "has official language",
+          "object_text": "Medieval Greek",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.39916782380600124,
+      "created_at": "2026-07-04T05:25:01.325168-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "973de853-e8c9-44a7-9cad-342e07ca4ce6",
+      "memory": "The official language of Kingdom of Italy is Italian.",
+      "hash": "f5dc8d8c5f67b535037224e35f34a195",
+      "metadata": {
+        "ordinal": 2104,
+        "triple": {
+          "subject_id": "kingdom_of_italy",
+          "predicate_norm": "has official language",
+          "object_text": "Italian",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of Italy",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.39748664157799185,
+      "created_at": "2026-07-04T05:24:51.244818-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "106a0604-d1e1-47b7-81bf-406433886b3d",
+      "memory": "Nadezhda Krupskaya speaks the language of Russian.",
+      "hash": "bfe5139aa90f00dfc844ea1a081aba7b",
+      "metadata": {
+        "ordinal": 629,
+        "triple": {
+          "subject_id": "nadezhda_krupskaya",
+          "predicate_norm": "speaks language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "Nadezhda Krupskaya",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.3961778643859355,
+      "created_at": "2026-07-04T05:24:17.283216-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e6c0acfa-d6f9-46b7-8f90-f838fed269da",
+      "memory": "The official language of California is English.",
+      "hash": "17a469c96ca83dc194e61b67d329bc08",
+      "metadata": {
+        "ordinal": 3862,
+        "triple": {
+          "subject_id": "california",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "California",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3934352373902492,
+      "created_at": "2026-07-04T05:25:32.763948-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "df05dc71-df6c-4013-898c-3f9775c7f60d",
+      "memory": "The official language of Shenzhen is Chinese.",
+      "hash": "26a49dead688dc64b3002a5850cfff2d",
+      "metadata": {
+        "ordinal": 2411,
+        "triple": {
+          "subject_id": "shenzhen",
+          "predicate_norm": "has official language",
+          "object_text": "Chinese",
+          "confidence": 0.95,
+          "subject_raw": "Shenzhen",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.39192894593137845,
+      "created_at": "2026-07-04T05:24:58.703121-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c8110042-fc28-4e67-99cd-0c1b78acf256",
+      "memory": "The official language of Indonesia is Indonesian.",
+      "hash": "80208df11d590644b79a8270b6ff4458",
+      "metadata": {
+        "ordinal": 2373,
+        "triple": {
+          "subject_id": "official_language_of_indonesia",
+          "predicate_norm": "be",
+          "object_text": "Indonesian",
+          "confidence": 0.95,
+          "subject_raw": "official language of Indonesia",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.38884337935360075,
+      "created_at": "2026-07-04T05:24:57.011498-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9307a622-e8b0-414a-b6c3-d3440dd3f63e",
+      "memory": "The official language of Mexico is Spanish.",
+      "hash": "bc0b3c3453dfb7a0ce31be6f117c3d3a",
+      "metadata": {
+        "ordinal": 1961,
+        "triple": {
+          "subject_id": "mexico",
+          "predicate_norm": "has official language",
+          "object_text": "Spanish",
+          "confidence": 0.95,
+          "subject_raw": "Mexico",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.38797417803576784,
+      "created_at": "2026-07-04T05:24:47.824962-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "23113c29-8171-4bf8-8996-47f7a8358305",
+      "memory": "The Sword of Truth was written in the language of Russian.",
+      "hash": "901793c1eb554cb4053bece9b04a4327",
+      "metadata": {
+        "ordinal": 1695,
+        "triple": {
+          "subject_id": "the_sword_of_truth",
+          "predicate_norm": "be written in language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "The Sword of Truth",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.38787703979468463,
+      "created_at": "2026-07-04T05:24:42.006941-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7be81a2b-3206-4988-b76b-90c2b72ffadc",
+      "memory": "The official language of Poland is German.",
+      "hash": "8eeacc7230336af7792a768daba7778d",
+      "metadata": {
+        "ordinal": 3877,
+        "triple": {
+          "subject_id": "poland",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "Poland",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3835985422237602,
+      "created_at": "2026-07-04T05:25:32.785517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "efbcbe7c-0d88-4a42-a42a-3d7639760b3e",
+      "memory": "The official language of Qatar is Arabic.",
+      "hash": "d60463866bf26bee8c6ec58b6959d6d0",
+      "metadata": {
+        "ordinal": 1540,
+        "triple": {
+          "subject_id": "qatar",
+          "predicate_norm": "has official language",
+          "object_text": "Arabic",
+          "confidence": 0.95,
+          "subject_raw": "Qatar",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3835794810469359,
+      "created_at": "2026-07-04T05:24:38.636588-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6a6a6cbe-aae4-4f7d-ac3c-c006a790a2bf",
+      "memory": "The official language of Tornio is Esperanto.",
+      "hash": "7eb26e9be26c655b1011c0542d2b75a4",
+      "metadata": {
+        "ordinal": 3793,
+        "triple": {
+          "subject_id": "tornio",
+          "predicate_norm": "has official language",
+          "object_text": "Esperanto",
+          "confidence": 0.95,
+          "subject_raw": "Tornio",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3828276573944475,
+      "created_at": "2026-07-04T05:25:31.182323-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8e38204e-484f-46b4-ab36-9d07a036b032",
+      "memory": "The official language of France is Hebrew.",
+      "hash": "2491fe1825098f4896496cc636a292b0",
+      "metadata": {
+        "ordinal": 3872,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "has official language",
+          "object_text": "Hebrew",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3815422719658094,
+      "created_at": "2026-07-04T05:25:32.779007-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "07af92e4-e143-4fa6-8e9c-e7336d3ac599",
+      "memory": "The official language of Hyvinkää is Finnish.",
+      "hash": "78a4584aca196862d974ef0ee52ae430",
+      "metadata": {
+        "ordinal": 1876,
+        "triple": {
+          "subject_id": "hyvinkää",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Hyvinkää",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3802268822473761,
+      "created_at": "2026-07-04T05:24:45.600605-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6dfa6488-d9f9-4f05-b18c-6120ce99d149",
+      "memory": "The official language of Denmark is Danish.",
+      "hash": "839c585b66ff91a6a5d0940553eab83f",
+      "metadata": {
+        "ordinal": 4118,
+        "triple": {
+          "subject_id": "the_official_language_of_denmark",
+          "predicate_norm": "be",
+          "object_text": "Danish",
+          "confidence": 0.95,
+          "subject_raw": "the official language of Denmark",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.3781854138634172,
+      "created_at": "2026-07-04T05:25:38.157207-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f752775f-e3c1-4117-a47a-143586f9c2a3",
+      "memory": "The official language of Kittilä is Finnish.",
+      "hash": "426de101066c4e4388a1aeec538483e2",
+      "metadata": {
+        "ordinal": 2917,
+        "triple": {
+          "subject_id": "kittilä",
+          "predicate_norm": "has official language",
+          "object_text": "Finnish",
+          "confidence": 0.95,
+          "subject_raw": "Kittilä",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3775907334006446,
+      "created_at": "2026-07-04T05:25:10.406385-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b8f036c1-939e-47c2-9f59-f0b6aab979ae",
+      "memory": "The official language of Spain is Walloon.",
+      "hash": "326b037629f436a4b22604ddd67263e5",
+      "metadata": {
+        "ordinal": 3465,
+        "triple": {
+          "subject_id": "spain",
+          "predicate_norm": "has official language",
+          "object_text": "Walloon",
+          "confidence": 0.9,
+          "subject_raw": "Spain",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.37688870731728086,
+      "created_at": "2026-07-04T05:25:22.850987-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7b6376d0-218f-418b-afd3-7f9baeae36cc",
+      "memory": "The official language of England is French.",
+      "hash": "620a254d3aca19b93ef814895b8b68b6",
+      "metadata": {
+        "ordinal": 3485,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.8,
+          "subject_raw": "England",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.37523755454772395,
+      "created_at": "2026-07-04T05:25:23.706651-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6e2385fb-8337-47c3-a2d6-92cdae00f678",
+      "memory": "The official language of Kingdom of England is English.",
+      "hash": "7e615e30d019f084d93a6ce045b36da7",
+      "metadata": {
+        "ordinal": 3985,
+        "triple": {
+          "subject_id": "kingdom_of_england",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of England",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3723935155814514,
+      "created_at": "2026-07-04T05:25:35.174508-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1bf02a26-4900-4146-8f61-20594313df8e",
+      "memory": "Néstor Kirchner speaks the language of Russian.",
+      "hash": "86b29e52c7f0c424edd00c448b06fc31",
+      "metadata": {
+        "ordinal": 3081,
+        "triple": {
+          "subject_id": "néstor_kirchner",
+          "predicate_norm": "speaks language",
+          "object_text": "Russian",
+          "confidence": 0.9,
+          "subject_raw": "Néstor Kirchner",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.369904463131294,
+      "created_at": "2026-07-04T05:25:14.495668-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c1d1eea8-801f-4bd2-ab74-50f21335d468",
+      "memory": "Steven Universe was written in the language of English.",
+      "hash": "05c5dc9a5a9e7d5c60adaa6f3b92afd4",
+      "metadata": {
+        "ordinal": 2899,
+        "triple": {
+          "subject_id": "steven_universe",
+          "predicate_norm": "be written in",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "Steven Universe",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.36891916361681215,
+      "created_at": "2026-07-04T05:25:10.382178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "22df202e-bf65-4bc3-9a86-47926b8b87f2",
+      "memory": "The official language of Italy is Walloon.",
+      "hash": "0b44db62735e03c3b8164f88b1e7c15f",
+      "metadata": {
+        "ordinal": 1075,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has official language",
+          "object_text": "Walloon",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.36199718540676395,
+      "created_at": "2026-07-04T05:24:27.489768-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "eebd412d-7bca-4cd4-8153-a1d135f158dd",
+      "memory": "The official language of Tampere is Esperanto.",
+      "hash": "bf4e5425fdc44d65f75abb44ca282b32",
+      "metadata": {
+        "ordinal": 867,
+        "triple": {
+          "subject_id": "tampere",
+          "predicate_norm": "has official language",
+          "object_text": "Esperanto",
+          "confidence": 0.95,
+          "subject_raw": "Tampere",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.357679211981372,
+      "created_at": "2026-07-04T05:24:23.217895-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5a6491b6-b4db-4f5f-ace9-fada1403375c",
+      "memory": "The official language of British Raj is Swahili.",
+      "hash": "5d909892b702e27f31e53cd14b2e585c",
+      "metadata": {
+        "ordinal": 4220,
+        "triple": {
+          "subject_id": "british_raj",
+          "predicate_norm": "has official language",
+          "object_text": "Swahili",
+          "confidence": 0.9,
+          "subject_raw": "British Raj",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.35499598730324855,
+      "created_at": "2026-07-04T05:25:40.709653-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "93d9cd11-de91-4243-994b-3f5d0895e21b",
+      "memory": "Fyodor Ushakov is a citizen of Russian Empire.",
+      "hash": "44b49ee40ba6056673a850d2346aca0d",
+      "metadata": {
+        "ordinal": 2477,
+        "triple": {
+          "subject_id": "fyodor_ushakov",
+          "predicate_norm": "be citizen",
+          "object_text": "Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "Fyodor Ushakov",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3473233982237015,
+      "created_at": "2026-07-04T05:24:59.572704-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5b807f72-ad82-4236-b240-2e0200daae1d",
+      "memory": "Back in the U.S.S.R. was performed by The Beatles.",
+      "hash": "f4cb8422cc7fbc488cad1d36c4f67d77",
+      "metadata": {
+        "ordinal": 4173,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "performed",
+          "object_text": "Back in the U.S.S.R.",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "performed"
+        }
+      },
+      "score": 0.34314281729607965,
+      "created_at": "2026-07-04T05:25:39.850883-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8f2d65c1-1bb7-47e8-93c7-9750bedb9325",
+      "memory": "Club Nouveau was created in the country of Soviet Union.",
+      "hash": "6b785ccb05e3b9a833dcc8e8c6637680",
+      "metadata": {
+        "ordinal": 2392,
+        "triple": {
+          "subject_id": "club_nouveau",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Soviet Union",
+          "confidence": 0.95,
+          "subject_raw": "Club Nouveau",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3393818754118012,
+      "created_at": "2026-07-04T05:24:57.904055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a07ccaf7-654d-44ea-8f56-84094cf01efc",
+      "memory": "Joseph Wright of Derby speaks the language of Russian.",
+      "hash": "ea3685d8f71c7614453e500d7aa83404",
+      "metadata": {
+        "ordinal": 3573,
+        "triple": {
+          "subject_id": "joseph_wright_of_derby",
+          "predicate_norm": "speaks language",
+          "object_text": "Russian",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Wright of Derby",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.3378026758981092,
+      "created_at": "2026-07-04T05:25:25.233505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fceed2c6-951e-4b68-8fe2-8b5e919e3259",
+      "memory": "The capital of Russian Empire is Saint Petersburg.",
+      "hash": "47039969e95c26e263a380daa46321f9",
+      "metadata": {
+        "ordinal": 1284,
+        "triple": {
+          "subject_id": "russian_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Saint Petersburg",
+          "confidence": 0.95,
+          "subject_raw": "Russian Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.33405717019885717,
+      "created_at": "2026-07-04T05:24:32.091159-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c796f10f-5278-4d84-b894-d0730ccbc450",
+      "memory": "The Sopranos was written in the language of English.",
+      "hash": "74f726bd350d7fc2d8e7111dd45835c1",
+      "metadata": {
+        "ordinal": 803,
+        "triple": {
+          "subject_id": "the_sopranos",
+          "predicate_norm": "be written in",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "The Sopranos",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.3310069529003441,
+      "created_at": "2026-07-04T05:24:21.718493-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "915609b9-68f4-49e1-8cbc-e6cdc5c6339b",
+      "memory": "Neil Simon speaks the language of English.",
+      "hash": "131f265c8caf419d20a7fa03796dd444",
+      "metadata": {
+        "ordinal": 1852,
+        "triple": {
+          "subject_id": "neil_simon",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Neil Simon",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.32878540338488926,
+      "created_at": "2026-07-04T05:24:44.834809-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dfa88ee6-8092-4ba4-8eeb-4177f39a4c1e",
+      "memory": "Daily Planet was written in the language of Serbian.",
+      "hash": "7c6f4cd164a84e4f83da704bb6aebc1c",
+      "metadata": {
+        "ordinal": 3556,
+        "triple": {
+          "subject_id": "daily_planet",
+          "predicate_norm": "be written in language",
+          "object_text": "Serbian",
+          "confidence": 0.95,
+          "subject_raw": "Daily Planet",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.327542723386819,
+      "created_at": "2026-07-04T05:25:25.201101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e617931b-923c-4948-be4e-c83fa89d69d9",
+      "memory": "Crytek was written in the language of English.",
+      "hash": "fd0bd0cfafb519df918c9c8fc7629209",
+      "metadata": {
+        "ordinal": 1619,
+        "triple": {
+          "subject_id": "crytek",
+          "predicate_norm": "be written in",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "Crytek",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.3259744313452708,
+      "created_at": "2026-07-04T05:24:40.112138-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4367e931-5067-455f-a589-b8d86424581a",
+      "memory": "The official language of Australia is Arabic.",
+      "hash": "5fa5d35e1fce3f796962d2cb658d2dcc",
+      "metadata": {
+        "ordinal": 4473,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has official language",
+          "object_text": "Arabic",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3241542979792257,
+      "created_at": "2026-07-04T05:25:46.176018-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "49075aaf-44b7-47fb-86ac-497934453f5c",
+      "memory": "The official language of Indonesia is French.",
+      "hash": "00e91b019370367ccb01c2ec33d68aac",
+      "metadata": {
+        "ordinal": 3528,
+        "triple": {
+          "subject_id": "indonesia",
+          "predicate_norm": "has official language",
+          "object_text": "French",
+          "confidence": 0.9,
+          "subject_raw": "Indonesia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.32397617299104314,
+      "created_at": "2026-07-04T05:25:24.368534-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5b106a5d-ee64-4b6b-b79a-78c35ffbfc3e",
+      "memory": "The official language of Namibia is English.",
+      "hash": "019c3262d0f8a53bc354d4204648a935",
+      "metadata": {
+        "ordinal": 4062,
+        "triple": {
+          "subject_id": "namibia",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Namibia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.32146310065883577,
+      "created_at": "2026-07-04T05:25:36.843290-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e415d217-f3cd-4a18-b4a4-b9186a193fa5",
+      "memory": "Alexander Zhulin is a citizen of Russia.",
+      "hash": "6d3e506da853be07985ccc7230729eb4",
+      "metadata": {
+        "ordinal": 3030,
+        "triple": {
+          "subject_id": "alexander_zhulin",
+          "predicate_norm": "be citizen",
+          "object_text": "Russia",
+          "confidence": 0.95,
+          "subject_raw": "Alexander Zhulin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3195596374249007,
+      "created_at": "2026-07-04T05:25:12.853512-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "03d4bbdd-f223-4de8-bf89-0dd239c975f2",
+      "memory": "rap rock was created in the country of Russian Empire.",
+      "hash": "18900b18b7ecc4fa659a5f2f7c798c38",
+      "metadata": {
+        "ordinal": 4540,
+        "triple": {
+          "subject_id": "rap_rock",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "rap rock",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.31544375125136187,
+      "created_at": "2026-07-04T05:25:47.708368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "853dbbb0-2184-4441-bfcd-97269f2cff77",
+      "memory": "Joel Surnow speaks the language of English.",
+      "hash": "590e45a5ee2bf21f796e0c916c08ac7d",
+      "metadata": {
+        "ordinal": 3476,
+        "triple": {
+          "subject_id": "joel_surnow",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Joel Surnow",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.31510901270269337,
+      "created_at": "2026-07-04T05:25:22.865070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dd970daa-11b8-40f9-b3fd-f4c89d016b06",
+      "memory": "Xie Jun is a citizen of Russian Empire.",
+      "hash": "512507ea72a78273e885a87cd56b50f7",
+      "metadata": {
+        "ordinal": 4426,
+        "triple": {
+          "subject_id": "xie_jun",
+          "predicate_norm": "be citizen",
+          "object_text": "Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "Xie Jun",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31453513949680234,
+      "created_at": "2026-07-04T05:25:45.258154-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "414ed8b4-1ef8-418b-b931-2a94627945b6",
+      "memory": "Stan Lee speaks the language of English.",
+      "hash": "5a96b3b07aaeaf42529740fc0109b2cb",
+      "metadata": {
+        "ordinal": 2031,
+        "triple": {
+          "subject_id": "stan_lee",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Stan Lee",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.311434473316328,
+      "created_at": "2026-07-04T05:24:49.567214-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ]
+}

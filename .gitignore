@@ -1,0 +1,16 @@
+# Secrets — never ship. Keep .env.example (the template) tracked.
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Runtime artifacts (all regenerated on a run; see README §6)
+outputs/                              # fresh FC-SH run products (reference is reference_outputs/)
+logs/                                 # per-run cost/latency + stdout logs
+agents/                               # engine agent-state cache (auto-created)
+analysis/results/expanded/stores/     # Qdrant vector stores (rebuilt from shipped data)
+analysis/results/lme_hyps/            # fresh LME-KU run products (reference is reference_outputs/lme_hyps/)
+
+# OS cruft
+.DS_Store

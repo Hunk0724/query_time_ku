@@ -1,0 +1,42 @@
+# Core deps for the API experiments (FC-SH / LongMemEval / Zep / LCA / figures).
+# Pure-Python + pinned -> same on Linux/Mac/Windows. Install:
+#   conda create -n repro python=3.10 -y && conda activate repro
+#   pip install -r requirements.txt
+# NOTE: the patched mem0 lives in the repo (./mem0) and shadows pip mem0ai at runtime.
+# Device-specific (NOT here; install per machine ONLY for local Gemma / weak-model):
+#   bitsandbytes / Ollama; vLLM needs WSL2 on Windows. For local-model GPU/Metal,
+#   REINSTALL the platform-appropriate torch build over the (CPU) one pulled below.
+
+openai==2.26.0
+qdrant-client==1.17.0
+zep-cloud==3.20.0
+datasets==4.6.1
+tiktoken==0.12.0
+rouge-score==0.1.2
+matplotlib==3.10.8
+numpy==2.2.6
+pandas==2.3.3
+PyYAML==6.0.3
+python-dotenv==1.2.2
+backoff==2.2.1
+tqdm==4.67.3
+google-genai==1.66.0
+mem0ai==1.0.5
+pydantic==2.12.5
+httpx==0.28.1
+huggingface-hub==1.5.0
+nltk==3.9.3
+rank-bm25==0.2.2        # Don't Ask baseline: vendored dont_ask/ pipeline uses BM25 retrieval
+
+# Main-path imports — REQUIRED even for API-only runs (NOT weak-model-only):
+#   agent.py:3  import torch ; agent.py:13 from langchain_core.documents import Document
+#   agent.py:14-15 from transformers import ... ; utils/eval_other_utils.py:15 from editdistance
+# torch/transformers are imported unconditionally though only EXERCISED by local models -> a
+# CPU torch wheel is enough for API-only runs. Versions below pinned to the migration-proof
+# machines (Win+Mac). torch's build suffix is per-platform (+cpu here / CUDA / Metal); the bare
+# `==2.12.1` matches any local build, so just reinstall the platform torch build for local-model
+# GPU/Metal. (Do NOT pin `2.12.1+cpu` — that local tag has no wheel on Mac and breaks install.)
+torch==2.12.1
+transformers==5.12.1
+langchain-core==1.4.8
+editdistance==0.8.1

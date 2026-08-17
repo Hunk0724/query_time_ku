@@ -1,0 +1,4001 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "a759fbf9-e411-4315-a789-0e43de0eae80",
+      "memory": "The headquarters of Microsoft is located in the city of Redmond.",
+      "hash": "1337615e2f4b819bc13b366b2f106144",
+      "metadata": {
+        "ordinal": 342,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Redmond",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.789345931287456,
+      "created_at": "2026-07-04T04:40:37.319975-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a5b98352-ac89-4514-84a0-d34506e71c00",
+      "memory": "The headquarters of Microsoft is located in the city of Beverly Hills.",
+      "hash": "9428d57b73cb243eda7e35294f7f63c8",
+      "metadata": {
+        "ordinal": 655,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Beverly Hills",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.7395424222928733,
+      "created_at": "2026-07-04T04:41:13.863073-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b0c6c168-3c90-4623-814d-f77310f73c56",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.5408855107204499,
+      "created_at": "2026-07-04T04:40:31.898002-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "96d7f85c-28a9-40a7-9d42-4d1b3c048079",
+      "memory": "Satya Nadella was born in the city of London.",
+      "hash": "4eb07739a5839f18d8bef188c5f8246a",
+      "metadata": {
+        "ordinal": 1460,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.5058289683444103,
+      "created_at": "2026-07-04T04:41:58.171282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "79e90e8e-ac72-40e1-b53f-9641f391d32a",
+      "memory": "Satya Nadella was born in the city of Hyderabad.",
+      "hash": "39c8e8e3c78f3ee151b53c943ebf9a1a",
+      "metadata": {
+        "ordinal": 1331,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.5032483832802876,
+      "created_at": "2026-07-04T04:41:51.398256-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "00073275-9667-49f6-a2d0-d51bd720af0d",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 975,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.499344039370649,
+      "created_at": "2026-07-04T04:41:30.703703-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "46b02c02-aadc-40e1-b1e1-5771c2db0b2a",
+      "memory": "The headquarters of Google is located in the city of Mountain View.",
+      "hash": "eac59c8a4432d99d094c215726be6db0",
+      "metadata": {
+        "ordinal": 514,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Mountain View",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.480819658606469,
+      "created_at": "2026-07-04T04:40:56.179172-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "951bfdd3-cdc7-4855-b218-1dfdc2010195",
+      "memory": "Metro was developed by Microsoft.",
+      "hash": "efe5b5d202208fcfb1094ed098fe389c",
+      "metadata": {
+        "ordinal": 1641,
+        "triple": {
+          "subject_id": "metro",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Metro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.47242696775305204,
+      "created_at": "2026-07-04T04:42:06.418070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "611ee11f-867d-454e-8d80-a464d7f3a5d2",
+      "memory": "The headquarters of University of Michigan is located in the city of Ann Arbor.",
+      "hash": "cd977f51080e0c31745fff869a692401",
+      "metadata": {
+        "ordinal": 724,
+        "triple": {
+          "subject_id": "university_of_michigan",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Ann Arbor",
+          "confidence": 0.95,
+          "subject_raw": "University of Michigan",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.45943869736832965,
+      "created_at": "2026-07-04T04:41:17.903698-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "836f5a89-6c4a-4191-a5ba-16ef895fed79",
+      "memory": "The headquarters of Sony Interactive Entertainment is located in the city of San Jose.",
+      "hash": "8ded20d54890bed692124107f581954b",
+      "metadata": {
+        "ordinal": 1542,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of San Jose",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4523497555658738,
+      "created_at": "2026-07-04T04:42:01.891165-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "73aab45d-ed03-4e31-b76f-6c1811e04b99",
+      "memory": "The headquarters of University of Manchester is located in the city of Manchester.",
+      "hash": "0d4847816c9ba0d8bda719e7b5e54fdc",
+      "metadata": {
+        "ordinal": 693,
+        "triple": {
+          "subject_id": "university_of_manchester",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Manchester",
+          "confidence": 0.95,
+          "subject_raw": "University of Manchester",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4484718305520265,
+      "created_at": "2026-07-04T04:41:16.342434-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "77424c04-4e10-47e5-b21b-6f0550debf94",
+      "memory": "The headquarters of Sony Interactive Entertainment is located in the city of Tokyo.",
+      "hash": "a5d40295e9cb045160782e6a7c315e76",
+      "metadata": {
+        "ordinal": 1284,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4407011617430727,
+      "created_at": "2026-07-04T04:41:49.770742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6588ea39-fa7c-4f9b-b517-939363d02fe3",
+      "memory": "The headquarters of Jolla is located in the city of Helsinki.",
+      "hash": "31484fe6a0eeb5efb0a165e99d3c6619",
+      "metadata": {
+        "ordinal": 1292,
+        "triple": {
+          "subject_id": "jolla",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Helsinki",
+          "confidence": 0.95,
+          "subject_raw": "Jolla",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4404719593002484,
+      "created_at": "2026-07-04T04:41:49.783700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25205df1-56f1-4b3c-9582-a01f7882c678",
+      "memory": "Bing was created by Microsoft.",
+      "hash": "cceea38f8ec0b2367c354aff303d67de",
+      "metadata": {
+        "ordinal": 715,
+        "triple": {
+          "subject_id": "bing",
+          "predicate_norm": "be created by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Bing",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.42606837401768394,
+      "created_at": "2026-07-04T04:41:16.382328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b2217723-109e-4bab-b6d8-2d71d89b99a0",
+      "memory": "Windows Server was developed by Microsoft.",
+      "hash": "3562c80e814181a489158ec6fb2c9479",
+      "metadata": {
+        "ordinal": 2188,
+        "triple": {
+          "subject_id": "windows_server",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Server",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.42281872954052624,
+      "created_at": "2026-07-04T04:42:38.146913-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "654a1512-9633-48e5-8d5d-188c9b20c138",
+      "memory": "The headquarters of MTV is located in the city of London.",
+      "hash": "24dfa0b4d818e92ceb25079ec833163c",
+      "metadata": {
+        "ordinal": 1304,
+        "triple": {
+          "subject_id": "mtv",
+          "predicate_norm": "be located in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "MTV",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.421345187448647,
+      "created_at": "2026-07-04T04:41:51.343144-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8bafe1c2-acea-42fc-bc1a-4ee2ca088cc2",
+      "memory": "The headquarters of University of Milan is located in the city of Milan.",
+      "hash": "7d6b0b39da0dd8553213f1207e891245",
+      "metadata": {
+        "ordinal": 1712,
+        "triple": {
+          "subject_id": "university_of_milan",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Milan",
+          "confidence": 0.95,
+          "subject_raw": "University of Milan",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4075381122817363,
+      "created_at": "2026-07-04T04:42:10.545822-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97521c7f-d4c7-44a1-b8e8-44cde1fc8fa5",
+      "memory": "The chief executive officer of Panasonic Corporation is Satya Nadella.",
+      "hash": "d01ef6d4828234fbf3bbd57af34c6ae2",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.40688805097478287,
+      "created_at": "2026-07-04T04:40:27.203517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "05113313-77c6-488f-a331-75bb4e1d0490",
+      "memory": "The headquarters of Google is located in the city of Plovdiv.",
+      "hash": "dc04583c5ee011164bc53e14ee9d4663",
+      "metadata": {
+        "ordinal": 996,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "be located in city",
+          "object_text": "Plovdiv",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "is located in the city of"
+        }
+      },
+      "score": 0.4018980646050992,
+      "created_at": "2026-07-04T04:41:32.323195-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d21a14b7-542f-45e2-a788-4118fe7e9e3c",
+      "memory": "The headquarters of Atari Corporation is located in the city of Sunnyvale.",
+      "hash": "f4d9aded46ad938e12340ab347a03600",
+      "metadata": {
+        "ordinal": 929,
+        "triple": {
+          "subject_id": "atari_corporation",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Atari Corporation",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.39456865427637416,
+      "created_at": "2026-07-04T04:41:28.735769-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a91e742a-67f4-4b1c-ae20-4234d3beef0a",
+      "memory": "The headquarters of University of Oxford is located in the city of Oxford.",
+      "hash": "5931070fbfacb71ead1eafd1f9d654ae",
+      "metadata": {
+        "ordinal": 604,
+        "triple": {
+          "subject_id": "university_of_oxford",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Oxford",
+          "confidence": 0.85,
+          "subject_raw": "University of Oxford",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.39139804317375837,
+      "created_at": "2026-07-04T04:41:09.400750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d7add7e2-8107-4fd8-988e-b3033765cfb8",
+      "memory": "The headquarters of Airbnb is located in the city of San Francisco.",
+      "hash": "25d367e79ebeabb4bebeafd0e276ee86",
+      "metadata": {
+        "ordinal": 1906,
+        "triple": {
+          "subject_id": "airbnb",
+          "predicate_norm": "be located in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Airbnb",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3909082250447214,
+      "created_at": "2026-07-04T04:42:21.626024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e78c0184-7899-4247-b3ce-ea9d326b1f7a",
+      "memory": "The headquarters of University of Glasgow is located in the city of Glasgow.",
+      "hash": "216a61f30a8da83aca6b4f8065d8c557",
+      "metadata": {
+        "ordinal": 1608,
+        "triple": {
+          "subject_id": "university_of_glasgow",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Glasgow",
+          "confidence": 0.95,
+          "subject_raw": "University of Glasgow",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.38900007123796626,
+      "created_at": "2026-07-04T04:42:04.677264-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6591b73e-c1c7-4da9-a072-72b9be1a4dd5",
+      "memory": "The headquarters of University of Glasgow is located in the city of Beijing.",
+      "hash": "364f95937e322d48464a55fa9b5029db",
+      "metadata": {
+        "ordinal": 2165,
+        "triple": {
+          "subject_id": "university_of_glasgow",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Beijing",
+          "confidence": 0.95,
+          "subject_raw": "University of Glasgow",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3865511590350967,
+      "created_at": "2026-07-04T04:42:36.679079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3f5361a-caf8-408b-a7e1-fb126be72a8b",
+      "memory": "The headquarters of Howard University is located in the city of Washington, D.C.",
+      "hash": "08622426659c4b4311564385c3754b3c",
+      "metadata": {
+        "ordinal": 850,
+        "triple": {
+          "subject_id": "howard_university",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "Howard University",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.38549151029943496,
+      "created_at": "2026-07-04T04:41:23.954220-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3f628201-914e-47e0-86a6-1099d5a3dc69",
+      "memory": "The headquarters of Daimler-Benz is located in the city of Chicago.",
+      "hash": "dc7f31d8d7c5a4565706b31a8d4b6ae1",
+      "metadata": {
+        "ordinal": 1590,
+        "triple": {
+          "subject_id": "daimler_benz",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "Daimler-Benz",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.38480510257189837,
+      "created_at": "2026-07-04T04:42:04.647512-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3f62d25f-21e7-476c-a4c8-7ba794ab47e2",
+      "memory": "ASP.NET was developed by Microsoft.",
+      "hash": "d25e7c57c8c4da54622e6f3fb53bfc1d",
+      "metadata": {
+        "ordinal": 779,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.38273659632293316,
+      "created_at": "2026-07-04T04:41:19.858569-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5437829e-8892-4244-8112-7ff59f45d0ce",
+      "memory": "Advanced Micro Devices was founded in the city of Sunnyvale.",
+      "hash": "d6e1fa3b960959324b2808b1261fea05",
+      "metadata": {
+        "ordinal": 1573,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.382579296184124,
+      "created_at": "2026-07-04T04:42:03.314784-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3f7876c1-b7cc-4f23-8228-3e1fff478f68",
+      "memory": "The headquarters of University of California, Los Angeles is located in the city of Los Angeles",
+      "hash": "0865675f578b724fb8db4fc15ac716a6",
+      "metadata": {
+        "ordinal": 56,
+        "triple": {
+          "subject_id": "university_of_california,_los_angeles",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Los Angeles",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.38241192298381843,
+      "created_at": "2026-07-04T04:40:23.844439-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4bd04479-2070-43bb-917b-11d8e0b85df0",
+      "memory": "The headquarters of University of Cambridge is located in the city of Washington, D.C.",
+      "hash": "9c4e0fdf677db4f8ccf4dadade8b8d0d",
+      "metadata": {
+        "ordinal": 2147,
+        "triple": {
+          "subject_id": "university_of_cambridge",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "University of Cambridge",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.38214266779844286,
+      "created_at": "2026-07-04T04:42:36.648542-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "566da854-45d6-4757-86bd-3835bd488741",
+      "memory": "The headquarters of MTV is located in the city of New York City.",
+      "hash": "1ebd81fb8fb73d4a327f2dafcefea4b0",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "mtv",
+          "predicate_norm": "be located in",
+          "object_text": "the city of New York City",
+          "confidence": 0.95,
+          "subject_raw": "MTV",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.38046076919161126,
+      "created_at": "2026-07-04T04:40:27.150134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "33b2e886-552d-41b5-82f8-41c998f3c414",
+      "memory": "The headquarters of Housemarque is located in the city of Helsinki.",
+      "hash": "be7a1af82754786a1260a4e1ca79e899",
+      "metadata": {
+        "ordinal": 1073,
+        "triple": {
+          "subject_id": "housemarque",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Helsinki",
+          "confidence": 0.95,
+          "subject_raw": "Housemarque",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.38016310298372896,
+      "created_at": "2026-07-04T04:41:35.483642-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "980e6c8b-0270-4ce3-b723-984dee0fea76",
+      "memory": "The headquarters of The Walt Disney Company is located in the city of Burbank.",
+      "hash": "88874c6d06edd6d5d517b213e0ac54d5",
+      "metadata": {
+        "ordinal": 1981,
+        "triple": {
+          "subject_id": "the_walt_disney_company",
+          "predicate_norm": "be located in",
+          "object_text": "Burbank",
+          "confidence": 0.95,
+          "subject_raw": "The Walt Disney Company",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.37827987949307773,
+      "created_at": "2026-07-04T04:42:25.503450-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ba383a2a-2c97-418a-bf79-50cd3a8f6073",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 2080,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.9,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3778914244527136,
+      "created_at": "2026-07-04T04:42:30.818400-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a68eff25-5f8b-451b-94e6-1a6f9c548e4d",
+      "memory": "The headquarters of University of Minnesota is located in the city of Minneapolis.",
+      "hash": "7339e9f34cfe1536575db260bff37150",
+      "metadata": {
+        "ordinal": 1969,
+        "triple": {
+          "subject_id": "university_of_minnesota",
+          "predicate_norm": "be located in",
+          "object_text": "Minneapolis",
+          "confidence": 0.95,
+          "subject_raw": "University of Minnesota",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.37780097092720216,
+      "created_at": "2026-07-04T04:42:25.475042-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9026c280-44ef-4a0b-84e1-3e31955f91fb",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Berkeley",
+      "hash": "e87e9b8dce9813a745936836ce3f9ed0",
+      "metadata": {
+        "ordinal": 544,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Berkeley",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.37757386446361085,
+      "created_at": "2026-07-04T04:41:04.771898-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "74f5207d-0d7e-4a83-aa42-6feff16dd262",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.377515314708081,
+      "created_at": "2026-07-04T04:40:56.164190-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0e15751b-6637-4298-b851-d90657c66a96",
+      "memory": "The chief executive officer of General Motors is Marc Benioff.",
+      "hash": "9bb13dc38b7c3a7255d4e53251ff8ab5",
+      "metadata": {
+        "ordinal": 2257,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marc Benioff",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3773531684146182,
+      "created_at": "2026-07-04T04:42:41.897341-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8376e2bd-421b-4ab2-a1cd-33790a7a74e1",
+      "memory": "The headquarters of University of Edinburgh is located in the city of Edinburgh.",
+      "hash": "db02b42888d4e99c7d3999f7b9815d9a",
+      "metadata": {
+        "ordinal": 1336,
+        "triple": {
+          "subject_id": "university_of_edinburgh",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Edinburgh",
+          "confidence": 0.95,
+          "subject_raw": "University of Edinburgh",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.37733829734716495,
+      "created_at": "2026-07-04T04:41:52.888591-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c2af5447-f79a-4254-ba2c-6f2ca1847ea2",
+      "memory": "The headquarters of University of Milan is located in the city of Charlotte.",
+      "hash": "09df9961d2a60d05c4507db1c183f5ea",
+      "metadata": {
+        "ordinal": 2225,
+        "triple": {
+          "subject_id": "university_of_milan",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Charlotte",
+          "confidence": 0.95,
+          "subject_raw": "University of Milan",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.37498874084870515,
+      "created_at": "2026-07-04T04:42:40.090355-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c916d5d3-f6ba-404f-a0bd-8b70216d4e1c",
+      "memory": "The headquarters of Howard University is located in the city of Mexico City.",
+      "hash": "5f0f65b5c490e05b7af9362d73e144a0",
+      "metadata": {
+        "ordinal": 863,
+        "triple": {
+          "subject_id": "howard_university",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Mexico City",
+          "confidence": 0.95,
+          "subject_raw": "Howard University",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.3747774183468845,
+      "created_at": "2026-07-04T04:41:23.971517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a3fb6872-c1c4-4d04-86c0-8aede8836467",
+      "memory": "The headquarters of Daimler-Benz is located in the city of Stuttgart",
+      "hash": "820097eb651898b4a38f1d00c1f7c2f7",
+      "metadata": {
+        "ordinal": 554,
+        "triple": {
+          "subject_id": "daimler_benz",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Stuttgart",
+          "confidence": 0.95,
+          "subject_raw": "Daimler-Benz",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3720307532469103,
+      "created_at": "2026-07-04T04:41:04.791426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "060f10c2-ff4f-41e4-99a9-15d26c06e960",
+      "memory": "The headquarters of University of Birmingham is located in the city of Birmingham.",
+      "hash": "f437d57d8999c50341329d08be0b0e4d",
+      "metadata": {
+        "ordinal": 1330,
+        "triple": {
+          "subject_id": "university_of_birmingham",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Birmingham",
+          "confidence": 0.95,
+          "subject_raw": "University of Birmingham",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3718392098040426,
+      "created_at": "2026-07-04T04:41:51.396981-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "367a92f6-1b0a-4741-8f4f-fa4b5eb53f35",
+      "memory": "Internet Explorer 11 was developed by Microsoft.",
+      "hash": "a64b37ee46a00a1740648c926f64876b",
+      "metadata": {
+        "ordinal": 504,
+        "triple": {
+          "subject_id": "internet_explorer_11",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 11",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3624820047748488,
+      "created_at": "2026-07-04T04:40:56.156543-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4422751c-26f7-49dc-88c3-10d189f643ff",
+      "memory": "Atari Jaguar was developed by Microsoft.",
+      "hash": "c48941c7c75054cc073dc37818e0efaf",
+      "metadata": {
+        "ordinal": 1166,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3614079108901207,
+      "created_at": "2026-07-04T04:41:43.940675-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1eb8e482-911a-4e40-873e-3fd3d4850a5b",
+      "memory": "Advanced Micro Devices was founded in the city of Toronto.",
+      "hash": "e237fdebbe054a2f94a310ba9f2f0ad5",
+      "metadata": {
+        "ordinal": 2075,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.36037499026998365,
+      "created_at": "2026-07-04T04:42:30.804901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "df3ce689-7def-40a3-aac6-5ce062c16bd3",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 1687,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.35467116379977776,
+      "created_at": "2026-07-04T04:42:10.514099-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a8cf1b0f-86ce-4873-99da-40243c0367a0",
+      "memory": "The headquarters of Channel 4 is located in the city of London.",
+      "hash": "0bd8dcd463888f4bd6f908a55e532a8e",
+      "metadata": {
+        "ordinal": 1541,
+        "triple": {
+          "subject_id": "channel_4",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Channel 4",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3533005805035841,
+      "created_at": "2026-07-04T04:42:01.889934-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e8c286a5-7ecb-4fc3-8175-552d962da823",
+      "memory": "Windows Update was developed by Microsoft",
+      "hash": "b377c15941e8c4094de00006a3bd1f68",
+      "metadata": {
+        "ordinal": 424,
+        "triple": {
+          "subject_id": "windows_update",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Update",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3505097277980065,
+      "created_at": "2026-07-04T04:40:45.939217-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fb1fee78-48db-4ab8-a7bb-8fc9f76de05e",
+      "memory": "The headquarters of Ilyushin is located in the city of Moscow.",
+      "hash": "ed2daa4c8e29ec9141dd4b2f9c35e21f",
+      "metadata": {
+        "ordinal": 1042,
+        "triple": {
+          "subject_id": "ilyushin",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Ilyushin",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3492927182844713,
+      "created_at": "2026-07-04T04:41:33.560754-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "533bcd62-ac86-4e06-8209-12456ae06692",
+      "memory": "McLaren Automotive was founded in the city of Woking.",
+      "hash": "f2bca516c504eb0e857275ccb490bf16",
+      "metadata": {
+        "ordinal": 628,
+        "triple": {
+          "subject_id": "mclaren_automotive",
+          "predicate_norm": "be founded in",
+          "object_text": "Woking",
+          "confidence": 0.95,
+          "subject_raw": "McLaren Automotive",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.34893178070042585,
+      "created_at": "2026-07-04T04:41:10.937574-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fb9ceace-192a-4349-9d91-07d839f0bc20",
+      "memory": "The headquarters of Crytek is located in the city of Frankfurt.",
+      "hash": "f6787d74eff9eb43fb150e1134c7b20b",
+      "metadata": {
+        "ordinal": 1100,
+        "triple": {
+          "subject_id": "crytek",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Frankfurt",
+          "confidence": 0.95,
+          "subject_raw": "Crytek",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3469350699010355,
+      "created_at": "2026-07-04T04:41:39.505376-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c950968a-7f87-4bc0-acca-040d5e544d30",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.34438529339625873,
+      "created_at": "2026-07-04T04:40:19.756685-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "93b6c922-08a2-428f-94bd-103edbbafdf9",
+      "memory": "Windows Aero was developed by Microsoft.",
+      "hash": "6fedffd92e267cd889d2abac987437bf",
+      "metadata": {
+        "ordinal": 1142,
+        "triple": {
+          "subject_id": "windows_aero",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Aero",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.34377894146719806,
+      "created_at": "2026-07-04T04:41:41.920369-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4fa47ce5-758f-4391-aa98-7a26edcf0117",
+      "memory": "The headquarters of University of Southern California is located in the city of Los Angeles.",
+      "hash": "7dfbab5e55959fe40327d6de401b5ae3",
+      "metadata": {
+        "ordinal": 365,
+        "triple": {
+          "subject_id": "university_of_southern_california",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "University of Southern California",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3406512198876243,
+      "created_at": "2026-07-04T04:40:39.354772-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "78b7dc5e-9f46-4e72-838b-9a7be49f56f4",
+      "memory": "iPad Mini was developed by Microsoft.",
+      "hash": "ca7b4127ba8304722c07c683933be2ee",
+      "metadata": {
+        "ordinal": 1611,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3403490264841353,
+      "created_at": "2026-07-04T04:42:04.681257-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7da9d53e-940f-4dd6-bb45-5b727387b9f6",
+      "memory": "Moscow is located in the continent of Europe",
+      "hash": "89dde800e3447059b82bc3434e952952",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "moscow",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Moscow",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33947982519305003,
+      "created_at": "2026-07-04T04:40:23.869629-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f4d85f5c-6964-4620-98a0-e09d90ebc194",
+      "memory": "The capital of United States of America is Washington, D.C.",
+      "hash": "d12418a18a0f0e5323b0df256d6c142e",
+      "metadata": {
+        "ordinal": 632,
+        "triple": {
+          "subject_id": "capital_of_united_states_of_america",
+          "predicate_norm": "be",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "capital of United States of America",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.3363367586192162,
+      "created_at": "2026-07-04T04:41:10.944253-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c164e42b-5f0b-417b-97b2-595d12887816",
+      "memory": "The headquarters of University of Cambridge is located in the city of Cambridge.",
+      "hash": "ead9ab587253caa69ec454fe83d3a9eb",
+      "metadata": {
+        "ordinal": 1131,
+        "triple": {
+          "subject_id": "university_of_cambridge",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Cambridge",
+          "confidence": 0.95,
+          "subject_raw": "University of Cambridge",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33609781946249806,
+      "created_at": "2026-07-04T04:41:41.884920-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "610b3f0e-2735-4bf8-9286-a7747d70c6b3",
+      "memory": "The headquarters of University of Birmingham is located in the city of 888 7th Avenue.",
+      "hash": "9279fef67856efb688a05d1e3a8b2632",
+      "metadata": {
+        "ordinal": 2245,
+        "triple": {
+          "subject_id": "university_of_birmingham",
+          "predicate_norm": "be located in",
+          "object_text": "the city of 888 7th Avenue",
+          "confidence": 0.95,
+          "subject_raw": "University of Birmingham",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3332138847702013,
+      "created_at": "2026-07-04T04:42:41.877997-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "75490107-a6bd-4fd3-949a-61d04bd52b53",
+      "memory": "Windows Communication Foundation was developed by Microsoft.",
+      "hash": "dbc04e3b6169f31bebde6ea32d24d116",
+      "metadata": {
+        "ordinal": 574,
+        "triple": {
+          "subject_id": "windows_communication_foundation",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Communication Foundation",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3323337766470821,
+      "created_at": "2026-07-04T04:41:09.361856-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "86818781-8ea8-49a6-9dde-d6d1fdcd71b4",
+      "memory": "The headquarters of University of Calcutta is located in the city of San Francisco.",
+      "hash": "259de66a8d40d4eed0c7eaecf97c8831",
+      "metadata": {
+        "ordinal": 1990,
+        "triple": {
+          "subject_id": "university_of_calcutta",
+          "predicate_norm": "be located in",
+          "object_text": "San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "University of Calcutta",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3322448537578634,
+      "created_at": "2026-07-04T04:42:25.517301-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7fbee4a1-92e6-4deb-86bf-c16ea42ec7d7",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Botevgrad.",
+      "hash": "8afbf714cd2995792aebf78f640ebfed",
+      "metadata": {
+        "ordinal": 584,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Botevgrad",
+          "confidence": 0.85,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.33039243851967814,
+      "created_at": "2026-07-04T04:41:09.376921-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "558b8978-e718-4cf5-a8b7-c18c6d2bbbd4",
+      "memory": "The headquarters of University of Louisville is located in the city of Louisville.",
+      "hash": "cdacc06daaefb1598cda0e3099f30ba7",
+      "metadata": {
+        "ordinal": 1587,
+        "triple": {
+          "subject_id": "university_of_louisville",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Louisville",
+          "confidence": 0.95,
+          "subject_raw": "University of Louisville",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.32974179555441857,
+      "created_at": "2026-07-04T04:42:04.640718-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "23e43401-84e1-4b52-acc0-121959c500ff",
+      "memory": "The headquarters of American Broadcasting Company is located in the city of New York City.",
+      "hash": "b102193b48c9487ce5ddb9f02417ebf2",
+      "metadata": {
+        "ordinal": 416,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "New York City",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3289252624349819,
+      "created_at": "2026-07-04T04:40:44.240381-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "01973c4b-5966-4384-a168-70aff26a659b",
+      "memory": "The headquarters of University of Barcelona is located in the city of Barcelona.",
+      "hash": "36f0abf2160bd94e434f134433948f50",
+      "metadata": {
+        "ordinal": 920,
+        "triple": {
+          "subject_id": "university_of_barcelona",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Barcelona",
+          "confidence": 0.95,
+          "subject_raw": "University of Barcelona",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.32889054526203126,
+      "created_at": "2026-07-04T04:41:28.715505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2c7f1ec6-7038-498f-b91e-8bfd961f7c45",
+      "memory": "The headquarters of Leiden University is located in the city of Leiden.",
+      "hash": "b52568c7d423d2978188212a777b13a7",
+      "metadata": {
+        "ordinal": 1038,
+        "triple": {
+          "subject_id": "leiden_university",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Leiden",
+          "confidence": 0.95,
+          "subject_raw": "Leiden University",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3278894042680757,
+      "created_at": "2026-07-04T04:41:33.553444-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "87c706fd-caf5-4f6c-b0c2-3b395f43f206",
+      "memory": "ASP.NET was developed by Google.",
+      "hash": "bea8c78cbbc5a1373d8eda588ba14690",
+      "metadata": {
+        "ordinal": 1570,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.32571373018012617,
+      "created_at": "2026-07-04T04:42:03.310289-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "28b38cd5-0bdf-4168-a8da-b5cda77814c4",
+      "memory": "The chief executive officer of Advanced Micro Devices is Lisa Su.",
+      "hash": "4ede9597bf3bd1606479835b9007f1ce",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lisa Su",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.325081336958303,
+      "created_at": "2026-07-04T04:40:31.954931-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f294a88c-9cf8-44c3-bcc1-8c2f2b3623bd",
+      "memory": "The headquarters of University of Calcutta is located in the city of Kolkata.",
+      "hash": "becb68606f544ce385f73c35c229c3fc",
+      "metadata": {
+        "ordinal": 1398,
+        "triple": {
+          "subject_id": "university_of_calcutta",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Kolkata",
+          "confidence": 0.95,
+          "subject_raw": "University of Calcutta",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3245267919785853,
+      "created_at": "2026-07-04T04:41:54.513082-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0529e6e0-7889-4df8-abb1-3238296f63b4",
+      "memory": "The headquarters of University of Oxford is located in the city of Frankfurt.",
+      "hash": "3591df5c76f7459c58c6bdd7c48435cc",
+      "metadata": {
+        "ordinal": 1055,
+        "triple": {
+          "subject_id": "university_of_oxford",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Frankfurt",
+          "confidence": 0.95,
+          "subject_raw": "University of Oxford",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.32176107185597447,
+      "created_at": "2026-07-04T04:41:33.579285-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e37d8990-ec60-435b-bde0-b2802030c4f5",
+      "memory": "The headquarters of People's Daily is located in the city of Beijing.",
+      "hash": "b72c27515729fc0f6340cd7602053a5e",
+      "metadata": {
+        "ordinal": 1403,
+        "triple": {
+          "subject_id": "people's_daily",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Beijing",
+          "confidence": 0.95,
+          "subject_raw": "People's Daily",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3217110241369944,
+      "created_at": "2026-07-04T04:41:55.959079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7c147dd4-fc85-41dc-a61c-ce3ea1f470da",
+      "memory": "The chief executive officer of Valve Corporation is Mukesh Ambani",
+      "hash": "175709d202b84c3a9959c047d50fc24a",
+      "metadata": {
+        "ordinal": 549,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mukesh Ambani",
+          "confidence": 0.9,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32135871469787947,
+      "created_at": "2026-07-04T04:41:04.782670-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4209b428-77f4-44f2-9f6e-f2243b111f22",
+      "memory": "The headquarters of Channel 4 is located in the city of Toronto.",
+      "hash": "3cb495232416143d8e32b9b9786a3796",
+      "metadata": {
+        "ordinal": 2288,
+        "triple": {
+          "subject_id": "channel_4",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Channel 4",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3182632903006653,
+      "created_at": "2026-07-04T04:42:43.387832-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "82dba8ed-3a5b-427d-bb24-2d7cecd76d1e",
+      "memory": "The headquarters of University of Tartu is located in the city of Tartu.",
+      "hash": "e1a17c0091bc5f39e728148b282ff782",
+      "metadata": {
+        "ordinal": 593,
+        "triple": {
+          "subject_id": "university_of_tartu",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Tartu",
+          "confidence": 0.85,
+          "subject_raw": "University of Tartu",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3171985926497908,
+      "created_at": "2026-07-04T04:41:09.388471-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "07aefc11-52ec-4ce5-8519-c99166cdaccd",
+      "memory": "The headquarters of University of Leeds is located in the city of Leeds.",
+      "hash": "d3ea56c7f96a52d8e061ec1786755470",
+      "metadata": {
+        "ordinal": 1902,
+        "triple": {
+          "subject_id": "university_of_leeds",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Leeds",
+          "confidence": 0.95,
+          "subject_raw": "University of Leeds",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3158988128544981,
+      "created_at": "2026-07-04T04:42:21.621000-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e043c50d-511e-4ea5-b99d-80d0e843ecd3",
+      "memory": "The headquarters of University of Tirana is located in the city of Tirana.",
+      "hash": "3377b0d20b0bb6ad429ae8fc4f3d63d9",
+      "metadata": {
+        "ordinal": 317,
+        "triple": {
+          "subject_id": "university_of_tirana",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Tirana",
+          "confidence": 0.95,
+          "subject_raw": "University of Tirana",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.31463948881939297,
+      "created_at": "2026-07-04T04:40:37.281201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76cff383-3a36-418b-aee7-63aec90d7a9e",
+      "memory": "The headquarters of Disney Channel is located in the city of Burbank.",
+      "hash": "53ebc43f5f62c51bf3544e0e2c491400",
+      "metadata": {
+        "ordinal": 2113,
+        "triple": {
+          "subject_id": "disney_channel",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Burbank",
+          "confidence": 0.95,
+          "subject_raw": "Disney Channel",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3121272268994296,
+      "created_at": "2026-07-04T04:42:34.472590-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7391df34-320e-4ad6-8005-0deb4f1569ca",
+      "memory": "The headquarters of Montana State University - Bozeman is located in the city of Houston.",
+      "hash": "7938dde58d523f2769931a438eb5e65e",
+      "metadata": {
+        "ordinal": 1801,
+        "triple": {
+          "subject_id": "montana_state_university_bozeman",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Houston",
+          "confidence": 0.95,
+          "subject_raw": "Montana State University - Bozeman",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3110094660074901,
+      "created_at": "2026-07-04T04:42:16.503170-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c917911a-9dba-4d32-a18d-8116b6686cca",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 1087,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.9,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3085156628012261,
+      "created_at": "2026-07-04T04:41:35.505684-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cbcea4a0-f599-42c5-a142-d7392ec3cd6a",
+      "memory": "The headquarters of WTTW is located in the city of Chicago.",
+      "hash": "0effde9a0735749b50e7de631f178017",
+      "metadata": {
+        "ordinal": 76,
+        "triple": {
+          "subject_id": "wttw",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "WTTW",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.30842829136629557,
+      "created_at": "2026-07-04T04:40:25.356957-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "13cac676-48c5-4d9b-bf40-b81cea45a7f3",
+      "memory": "The name of the current head of the Manchester government is Andy Burnham.",
+      "hash": "479dde79eb309df43ff23bb13d4b71ce",
+      "metadata": {
+        "ordinal": 1207,
+        "triple": {
+          "subject_id": "the_current_head_of_the_manchester_government",
+          "predicate_norm": "be",
+          "object_text": "Andy Burnham",
+          "confidence": 0.95,
+          "subject_raw": "the current head of the Manchester government",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.30800749175604814,
+      "created_at": "2026-07-04T04:41:46.352206-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6417a3f6-752b-4204-bb47-09cc5369f58e",
+      "memory": "Ann Arbor is located in the continent of North America.",
+      "hash": "84cbe2e557938806df618871ee2be80b",
+      "metadata": {
+        "ordinal": 1575,
+        "triple": {
+          "subject_id": "ann_arbor",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Ann Arbor",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.30762667521447273,
+      "created_at": "2026-07-04T04:42:03.317731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64028170-2301-4388-8507-2ea0282a1388",
+      "memory": "The chief executive officer of Google is Sundar Pichai",
+      "hash": "6837e373ca014b9b41625b7297dccd8c",
+      "metadata": {
+        "ordinal": 558,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.30740703705955286,
+      "created_at": "2026-07-04T04:41:04.797594-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6fb6218a-1383-4573-af72-9b6813b340d6",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 1061,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30722791731724025,
+      "created_at": "2026-07-04T04:41:35.443585-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fee3402e-07b7-4654-9728-ab8e862e2690",
+      "memory": "The headquarters of University of Southern California is located in the city of Israel.",
+      "hash": "76e196b632921fd4f1931a32979895c9",
+      "metadata": {
+        "ordinal": 1017,
+        "triple": {
+          "subject_id": "university_of_southern_california",
+          "predicate_norm": "be located in city",
+          "object_text": "Israel",
+          "confidence": 0.95,
+          "subject_raw": "University of Southern California",
+          "predicate_raw": "is located in the city of"
+        }
+      },
+      "score": 0.30608855166623805,
+      "created_at": "2026-07-04T04:41:32.364346-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "71aceeb4-d542-4c26-8600-8a2cd79deb45",
+      "memory": "The capital of United Kingdom is London.",
+      "hash": "8327324d443c75056891aabc69a71bfa",
+      "metadata": {
+        "ordinal": 501,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3038133886634775,
+      "created_at": "2026-07-04T04:40:56.147285-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "29727937-2298-49b8-94c2-31f2d173473e",
+      "memory": "Steve Jobs is a citizen of United States of America.",
+      "hash": "8361be49981f7a5cc65edaee5adc3e18",
+      "metadata": {
+        "ordinal": 1189,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3036742949646074,
+      "created_at": "2026-07-04T04:41:43.991890-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "81b1f64c-3ff3-49a8-bb2a-6b8547037218",
+      "memory": "Hyderabad is located in the continent of Asia",
+      "hash": "90aad9a5e136dcc59b0964fa28d2d29b",
+      "metadata": {
+        "ordinal": 1482,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3035606854248707,
+      "created_at": "2026-07-04T04:42:00.301500-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "17ad7bc5-32ba-4d39-a9f0-14901406d574",
+      "memory": "The headquarters of Montana State University - Bozeman is located in the city of Bozeman.",
+      "hash": "4d9a8cfcd9c74d1196b0e28e146a74b9",
+      "metadata": {
+        "ordinal": 671,
+        "triple": {
+          "subject_id": "montana_state_university_bozeman",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Bozeman",
+          "confidence": 0.95,
+          "subject_raw": "Montana State University - Bozeman",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3024253589992777,
+      "created_at": "2026-07-04T04:41:13.893538-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f8537873-5a74-4036-9fbb-3648cc1b7c14",
+      "memory": "The headquarters of Gazeta Wyborcza is located in the city of Ann Arbor.",
+      "hash": "6daa40bf35d3d8daf1fc37e64812cb2f",
+      "metadata": {
+        "ordinal": 1355,
+        "triple": {
+          "subject_id": "gazeta_wyborcza",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Ann Arbor",
+          "confidence": 0.95,
+          "subject_raw": "Gazeta Wyborcza",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.30103367078833043,
+      "created_at": "2026-07-04T04:41:52.921224-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0d365fd5-d6b9-423f-9f4c-80ce188aa434",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Andrew House.",
+      "hash": "47b51667bf3a64f9c3e3d42830cd6f7f",
+      "metadata": {
+        "ordinal": 1251,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew House",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.29768693212789576,
+      "created_at": "2026-07-04T04:41:48.204594-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d59ef895-5d46-4328-8bb5-dd76c92f2f55",
+      "memory": "The chief executive officer of General Motors is Mary Barra.",
+      "hash": "586369fe3ffca899b036ed948a77c175",
+      "metadata": {
+        "ordinal": 879,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mary Barra",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.29347892611957455,
+      "created_at": "2026-07-04T04:41:27.144345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b6c69ce9-7612-44d0-a244-6da66c25efe3",
+      "memory": "Internet Explorer 5 was developed by Microsoft.",
+      "hash": "f6d8ff2826466651c1c87647e2d11df6",
+      "metadata": {
+        "ordinal": 2086,
+        "triple": {
+          "subject_id": "internet_explorer_5",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2932932445977443,
+      "created_at": "2026-07-04T04:42:30.830513-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c3d28b24-bd96-439d-8852-ed0880182043",
+      "memory": "The headquarters of University of Gothenburg is located in the city of Gothenburg.",
+      "hash": "e4f1f9dab4e1cb04d90036e2a7ca90fc",
+      "metadata": {
+        "ordinal": 800,
+        "triple": {
+          "subject_id": "university_of_gothenburg",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Gothenburg",
+          "confidence": 0.95,
+          "subject_raw": "University of Gothenburg",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2931435846817305,
+      "created_at": "2026-07-04T04:41:21.858153-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c41046f5-87f8-4b9b-b861-4a27b4ace940",
+      "memory": "Queen was founded in the city of London.",
+      "hash": "7ca08ed4dd38f1611dd877b0238ff8a7",
+      "metadata": {
+        "ordinal": 772,
+        "triple": {
+          "subject_id": "queen",
+          "predicate_norm": "be founded in",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Queen",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2921490357697202,
+      "created_at": "2026-07-04T04:41:19.847315-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8dc65343-bde3-4c89-902c-2eb4c73fc93b",
+      "memory": "The headquarters of University of California, Los Angeles is located in the city of Fornebu.",
+      "hash": "ae474018e93897a4aac641e14cd2f3fc",
+      "metadata": {
+        "ordinal": 2261,
+        "triple": {
+          "subject_id": "university_of_california,_los_angeles",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Fornebu",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Los Angeles",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.29187936565740763,
+      "created_at": "2026-07-04T04:42:41.903009-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "98d4404d-33f4-468e-990a-8cd8b228eca9",
+      "memory": "The capital of India is New Delhi.",
+      "hash": "34c93e5e7e3ea7ecbba46b0b87fd91be",
+      "metadata": {
+        "ordinal": 1249,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "has capital",
+          "object_text": "New Delhi",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.2913578929881532,
+      "created_at": "2026-07-04T04:41:48.201345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "46cec03d-cba4-48a6-b704-3381e6daf46e",
+      "memory": "The headquarters of Yale University is located in the city of Toronto.",
+      "hash": "9b253429afc295c638e8640dc3272964",
+      "metadata": {
+        "ordinal": 616,
+        "triple": {
+          "subject_id": "yale_university",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Yale University",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.28947345501040056,
+      "created_at": "2026-07-04T04:41:10.912064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bdf906be-fffc-4dba-acbb-ba659b648680",
+      "memory": "San Francisco is located in the continent of North America.",
+      "hash": "dc0541120e69139114c10428be1e2b32",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "san_francisco",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "San Francisco",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2877295613099974,
+      "created_at": "2026-07-04T04:40:25.373629-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The headquarters of Microsoft is located in the city of Beverly Hills.\n- Satya Nadella was born in the city of London.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The headquarters of Google is located in the city of Mountain View.\n- Metro was developed by Microsoft.\n- The headquarters of University of Michigan is located in the city of Ann Arbor.\n- The headquarters of Sony Interactive Entertainment is located in the city of San Jose.\n- The headquarters of University of Manchester is located in the city of Manchester.\n- The headquarters of Jolla is located in the city of Helsinki.\n- Bing was created by Microsoft.\n- Windows Server was developed by Microsoft.\n- The headquarters of MTV is located in the city of London.\n- The chief executive officer of Panasonic Corporation is Satya Nadella.\n- The headquarters of Google is located in the city of Plovdiv.\n- The headquarters of Atari Corporation is located in the city of Sunnyvale.\n- The headquarters of Airbnb is located in the city of San Francisco.\n- The headquarters of University of Glasgow is located in the city of Glasgow.\n- The headquarters of University of Glasgow is located in the city of Beijing.\n- The headquarters of Daimler-Benz is located in the city of Chicago.\n- The headquarters of University of California, Los Angeles is located in the city of Los Angeles\n- The headquarters of University of Cambridge is located in the city of Washington, D.C.\n- The headquarters of Housemarque is located in the city of Helsinki.\n- The headquarters of The Walt Disney Company is located in the city of Burbank.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The headquarters of University of Minnesota is located in the city of Minneapolis.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- The chief executive officer of General Motors is Marc Benioff.\n- The headquarters of University of Edinburgh is located in the city of Edinburgh.\n- The headquarters of University of Milan is located in the city of Charlotte.\n- The headquarters of Howard University is located in the city of Mexico City.\n- Internet Explorer 11 was developed by Microsoft.\n- Atari Jaguar was developed by Microsoft.\n- Advanced Micro Devices was founded in the city of Toronto.\n- PowerBook G4 was developed by Microsoft.\n- Windows Update was developed by Microsoft\n- The headquarters of Ilyushin is located in the city of Moscow.\n- McLaren Automotive was founded in the city of Woking.\n- The headquarters of Crytek is located in the city of Frankfurt.\n- Steve Jobs was born in the city of San Francisco.\n- Windows Aero was developed by Microsoft.\n- The headquarters of University of Southern California is located in the city of Los Angeles.\n- iPad Mini was developed by Microsoft.\n- Moscow is located in the continent of Europe\n- The capital of United States of America is Washington, D.C.\n- The headquarters of University of Birmingham is located in the city of 888 7th Avenue.\n- Windows Communication Foundation was developed by Microsoft.\n- The headquarters of University of Calcutta is located in the city of San Francisco.\n- The headquarters of University of California, Berkeley is located in the city of Botevgrad.\n- The headquarters of University of Louisville is located in the city of Louisville.\n- The headquarters of American Broadcasting Company is located in the city of New York City.\n- The headquarters of University of Barcelona is located in the city of Barcelona.\n- The headquarters of Leiden University is located in the city of Leiden.\n- ASP.NET was developed by Google.\n- The headquarters of University of Calcutta is located in the city of Kolkata.\n- The headquarters of University of Oxford is located in the city of Frankfurt.\n- The headquarters of People's Daily is located in the city of Beijing.\n- The chief executive officer of Valve Corporation is Mukesh Ambani\n- The headquarters of Channel 4 is located in the city of Toronto.\n- The headquarters of University of Tartu is located in the city of Tartu.\n- The headquarters of University of Leeds is located in the city of Leeds.\n- The headquarters of University of Tirana is located in the city of Tirana.\n- The headquarters of Disney Channel is located in the city of Burbank.\n- The headquarters of Montana State University - Bozeman is located in the city of Houston.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- The headquarters of WTTW is located in the city of Chicago.\n- The name of the current head of the Manchester government is Andy Burnham.\n- Ann Arbor is located in the continent of North America.\n- Tim Cook is a citizen of United States of America.\n- The headquarters of University of Southern California is located in the city of Israel.\n- The capital of United Kingdom is London.\n- Steve Jobs is a citizen of United States of America.\n- Hyderabad is located in the continent of Asia\n- The headquarters of Gazeta Wyborcza is located in the city of Ann Arbor.\n- The chief executive officer of Sony Interactive Entertainment is Andrew House.\n- Internet Explorer 5 was developed by Microsoft.\n- The headquarters of University of Gothenburg is located in the city of Gothenburg.\n- Queen was founded in the city of London.\n- The headquarters of University of California, Los Angeles is located in the city of Fornebu.\n- The capital of India is New Delhi.\n- The headquarters of Yale University is located in the city of Toronto.\n- San Francisco is located in the continent of North America.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The headquarters of Microsoft is located in the city of Beverly Hills.\n- Satya Nadella was born in the city of London.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The headquarters of Google is located in the city of Mountain View.\n- Metro was developed by Microsoft.\n- The headquarters of University of Michigan is located in the city of Ann Arbor.\n- The headquarters of Sony Interactive Entertainment is located in the city of San Jose.\n- The headquarters of University of Manchester is located in the city of Manchester.\n- The headquarters of Jolla is located in the city of Helsinki.\n- Bing was created by Microsoft.\n- Windows Server was developed by Microsoft.\n- The headquarters of MTV is located in the city of London.\n- The chief executive officer of Panasonic Corporation is Satya Nadella.\n- The headquarters of Google is located in the city of Plovdiv.\n- The headquarters of Atari Corporation is located in the city of Sunnyvale.\n- The headquarters of Airbnb is located in the city of San Francisco.\n- The headquarters of University of Glasgow is located in the city of Glasgow.\n- The headquarters of University of Glasgow is located in the city of Beijing.\n- The headquarters of Daimler-Benz is located in the city of Chicago.\n- The headquarters of University of California, Los Angeles is located in the city of Los Angeles\n- The headquarters of University of Cambridge is located in the city of Washington, D.C.\n- The headquarters of Housemarque is located in the city of Helsinki.\n- The headquarters of The Walt Disney Company is located in the city of Burbank.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The headquarters of University of Minnesota is located in the city of Minneapolis.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- The chief executive officer of General Motors is Marc Benioff.\n- The headquarters of University of Edinburgh is located in the city of Edinburgh.\n- The headquarters of University of Milan is located in the city of Charlotte.\n- The headquarters of Howard University is located in the city of Mexico City.\n- Internet Explorer 11 was developed by Microsoft.\n- Atari Jaguar was developed by Microsoft.\n- Advanced Micro Devices was founded in the city of Toronto.\n- PowerBook G4 was developed by Microsoft.\n- Windows Update was developed by Microsoft\n- The headquarters of Ilyushin is located in the city of Moscow.\n- McLaren Automotive was founded in the city of Woking.\n- The headquarters of Crytek is located in the city of Frankfurt.\n- Steve Jobs was born in the city of San Francisco.\n- Windows Aero was developed by Microsoft.\n- The headquarters of University of Southern California is located in the city of Los Angeles.\n- iPad Mini was developed by Microsoft.\n- Moscow is located in the continent of Europe\n- The capital of United States of America is Washington, D.C.\n- The headquarters of University of Birmingham is located in the city of 888 7th Avenue.\n- Windows Communication Foundation was developed by Microsoft.\n- The headquarters of University of Calcutta is located in the city of San Francisco.\n- The headquarters of University of California, Berkeley is located in the city of Botevgrad.\n- The headquarters of University of Louisville is located in the city of Louisville.\n- The headquarters of American Broadcasting Company is located in the city of New York City.\n- The headquarters of University of Barcelona is located in the city of Barcelona.\n- The headquarters of Leiden University is located in the city of Leiden.\n- ASP.NET was developed by Google.\n- The headquarters of University of Calcutta is located in the city of Kolkata.\n- The headquarters of University of Oxford is located in the city of Frankfurt.\n- The headquarters of People's Daily is located in the city of Beijing.\n- The chief executive officer of Valve Corporation is Mukesh Ambani\n- The headquarters of Channel 4 is located in the city of Toronto.\n- The headquarters of University of Tartu is located in the city of Tartu.\n- The headquarters of University of Leeds is located in the city of Leeds.\n- The headquarters of University of Tirana is located in the city of Tirana.\n- The headquarters of Disney Channel is located in the city of Burbank.\n- The headquarters of Montana State University - Bozeman is located in the city of Houston.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- The headquarters of WTTW is located in the city of Chicago.\n- The name of the current head of the Manchester government is Andy Burnham.\n- Ann Arbor is located in the continent of North America.\n- Tim Cook is a citizen of United States of America.\n- The headquarters of University of Southern California is located in the city of Israel.\n- The capital of United Kingdom is London.\n- Steve Jobs is a citizen of United States of America.\n- Hyderabad is located in the continent of Asia\n- The headquarters of Gazeta Wyborcza is located in the city of Ann Arbor.\n- The chief executive officer of Sony Interactive Entertainment is Andrew House.\n- Internet Explorer 5 was developed by Microsoft.\n- The headquarters of University of Gothenburg is located in the city of Gothenburg.\n- Queen was founded in the city of London.\n- The headquarters of University of California, Los Angeles is located in the city of Fornebu.\n- The capital of India is New Delhi.\n- The headquarters of Yale University is located in the city of Toronto.\n- San Francisco is located in the continent of North America.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which city is the headquarter of Microsoft located in? \nAnswer:\n\nCurrent Time: 2026-07-04 19:56:05",
+  "response": "Answer: Beverly Hills",
+  "prompt_tokens": 1324,
+  "completion_tokens": 4,
+  "resolved_pool": [
+    {
+      "id": "a759fbf9-e411-4315-a789-0e43de0eae80",
+      "memory": "The headquarters of Microsoft is located in the city of Redmond.",
+      "hash": "1337615e2f4b819bc13b366b2f106144",
+      "metadata": {
+        "ordinal": 342,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Redmond",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.789345931287456,
+      "created_at": "2026-07-04T04:40:37.319975-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a5b98352-ac89-4514-84a0-d34506e71c00",
+      "memory": "The headquarters of Microsoft is located in the city of Beverly Hills.",
+      "hash": "9428d57b73cb243eda7e35294f7f63c8",
+      "metadata": {
+        "ordinal": 655,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Beverly Hills",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.7395424222928733,
+      "created_at": "2026-07-04T04:41:13.863073-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b0c6c168-3c90-4623-814d-f77310f73c56",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.5408855107204499,
+      "created_at": "2026-07-04T04:40:31.898002-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "96d7f85c-28a9-40a7-9d42-4d1b3c048079",
+      "memory": "Satya Nadella was born in the city of London.",
+      "hash": "4eb07739a5839f18d8bef188c5f8246a",
+      "metadata": {
+        "ordinal": 1460,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.5058289683444103,
+      "created_at": "2026-07-04T04:41:58.171282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "79e90e8e-ac72-40e1-b53f-9641f391d32a",
+      "memory": "Satya Nadella was born in the city of Hyderabad.",
+      "hash": "39c8e8e3c78f3ee151b53c943ebf9a1a",
+      "metadata": {
+        "ordinal": 1331,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.5032483832802876,
+      "created_at": "2026-07-04T04:41:51.398256-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "00073275-9667-49f6-a2d0-d51bd720af0d",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 975,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.499344039370649,
+      "created_at": "2026-07-04T04:41:30.703703-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "46b02c02-aadc-40e1-b1e1-5771c2db0b2a",
+      "memory": "The headquarters of Google is located in the city of Mountain View.",
+      "hash": "eac59c8a4432d99d094c215726be6db0",
+      "metadata": {
+        "ordinal": 514,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Mountain View",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.480819658606469,
+      "created_at": "2026-07-04T04:40:56.179172-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "951bfdd3-cdc7-4855-b218-1dfdc2010195",
+      "memory": "Metro was developed by Microsoft.",
+      "hash": "efe5b5d202208fcfb1094ed098fe389c",
+      "metadata": {
+        "ordinal": 1641,
+        "triple": {
+          "subject_id": "metro",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Metro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.47242696775305204,
+      "created_at": "2026-07-04T04:42:06.418070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "611ee11f-867d-454e-8d80-a464d7f3a5d2",
+      "memory": "The headquarters of University of Michigan is located in the city of Ann Arbor.",
+      "hash": "cd977f51080e0c31745fff869a692401",
+      "metadata": {
+        "ordinal": 724,
+        "triple": {
+          "subject_id": "university_of_michigan",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Ann Arbor",
+          "confidence": 0.95,
+          "subject_raw": "University of Michigan",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.45943869736832965,
+      "created_at": "2026-07-04T04:41:17.903698-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "836f5a89-6c4a-4191-a5ba-16ef895fed79",
+      "memory": "The headquarters of Sony Interactive Entertainment is located in the city of San Jose.",
+      "hash": "8ded20d54890bed692124107f581954b",
+      "metadata": {
+        "ordinal": 1542,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of San Jose",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4523497555658738,
+      "created_at": "2026-07-04T04:42:01.891165-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "73aab45d-ed03-4e31-b76f-6c1811e04b99",
+      "memory": "The headquarters of University of Manchester is located in the city of Manchester.",
+      "hash": "0d4847816c9ba0d8bda719e7b5e54fdc",
+      "metadata": {
+        "ordinal": 693,
+        "triple": {
+          "subject_id": "university_of_manchester",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Manchester",
+          "confidence": 0.95,
+          "subject_raw": "University of Manchester",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4484718305520265,
+      "created_at": "2026-07-04T04:41:16.342434-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "77424c04-4e10-47e5-b21b-6f0550debf94",
+      "memory": "The headquarters of Sony Interactive Entertainment is located in the city of Tokyo.",
+      "hash": "a5d40295e9cb045160782e6a7c315e76",
+      "metadata": {
+        "ordinal": 1284,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4407011617430727,
+      "created_at": "2026-07-04T04:41:49.770742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6588ea39-fa7c-4f9b-b517-939363d02fe3",
+      "memory": "The headquarters of Jolla is located in the city of Helsinki.",
+      "hash": "31484fe6a0eeb5efb0a165e99d3c6619",
+      "metadata": {
+        "ordinal": 1292,
+        "triple": {
+          "subject_id": "jolla",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Helsinki",
+          "confidence": 0.95,
+          "subject_raw": "Jolla",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4404719593002484,
+      "created_at": "2026-07-04T04:41:49.783700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25205df1-56f1-4b3c-9582-a01f7882c678",
+      "memory": "Bing was created by Microsoft.",
+      "hash": "cceea38f8ec0b2367c354aff303d67de",
+      "metadata": {
+        "ordinal": 715,
+        "triple": {
+          "subject_id": "bing",
+          "predicate_norm": "be created by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Bing",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.42606837401768394,
+      "created_at": "2026-07-04T04:41:16.382328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b2217723-109e-4bab-b6d8-2d71d89b99a0",
+      "memory": "Windows Server was developed by Microsoft.",
+      "hash": "3562c80e814181a489158ec6fb2c9479",
+      "metadata": {
+        "ordinal": 2188,
+        "triple": {
+          "subject_id": "windows_server",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Server",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.42281872954052624,
+      "created_at": "2026-07-04T04:42:38.146913-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "654a1512-9633-48e5-8d5d-188c9b20c138",
+      "memory": "The headquarters of MTV is located in the city of London.",
+      "hash": "24dfa0b4d818e92ceb25079ec833163c",
+      "metadata": {
+        "ordinal": 1304,
+        "triple": {
+          "subject_id": "mtv",
+          "predicate_norm": "be located in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "MTV",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.421345187448647,
+      "created_at": "2026-07-04T04:41:51.343144-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8bafe1c2-acea-42fc-bc1a-4ee2ca088cc2",
+      "memory": "The headquarters of University of Milan is located in the city of Milan.",
+      "hash": "7d6b0b39da0dd8553213f1207e891245",
+      "metadata": {
+        "ordinal": 1712,
+        "triple": {
+          "subject_id": "university_of_milan",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Milan",
+          "confidence": 0.95,
+          "subject_raw": "University of Milan",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.4075381122817363,
+      "created_at": "2026-07-04T04:42:10.545822-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97521c7f-d4c7-44a1-b8e8-44cde1fc8fa5",
+      "memory": "The chief executive officer of Panasonic Corporation is Satya Nadella.",
+      "hash": "d01ef6d4828234fbf3bbd57af34c6ae2",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.40688805097478287,
+      "created_at": "2026-07-04T04:40:27.203517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "05113313-77c6-488f-a331-75bb4e1d0490",
+      "memory": "The headquarters of Google is located in the city of Plovdiv.",
+      "hash": "dc04583c5ee011164bc53e14ee9d4663",
+      "metadata": {
+        "ordinal": 996,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "be located in city",
+          "object_text": "Plovdiv",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "is located in the city of"
+        }
+      },
+      "score": 0.4018980646050992,
+      "created_at": "2026-07-04T04:41:32.323195-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d21a14b7-542f-45e2-a788-4118fe7e9e3c",
+      "memory": "The headquarters of Atari Corporation is located in the city of Sunnyvale.",
+      "hash": "f4d9aded46ad938e12340ab347a03600",
+      "metadata": {
+        "ordinal": 929,
+        "triple": {
+          "subject_id": "atari_corporation",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Atari Corporation",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.39456865427637416,
+      "created_at": "2026-07-04T04:41:28.735769-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a91e742a-67f4-4b1c-ae20-4234d3beef0a",
+      "memory": "The headquarters of University of Oxford is located in the city of Oxford.",
+      "hash": "5931070fbfacb71ead1eafd1f9d654ae",
+      "metadata": {
+        "ordinal": 604,
+        "triple": {
+          "subject_id": "university_of_oxford",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Oxford",
+          "confidence": 0.85,
+          "subject_raw": "University of Oxford",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.39139804317375837,
+      "created_at": "2026-07-04T04:41:09.400750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d7add7e2-8107-4fd8-988e-b3033765cfb8",
+      "memory": "The headquarters of Airbnb is located in the city of San Francisco.",
+      "hash": "25d367e79ebeabb4bebeafd0e276ee86",
+      "metadata": {
+        "ordinal": 1906,
+        "triple": {
+          "subject_id": "airbnb",
+          "predicate_norm": "be located in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Airbnb",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3909082250447214,
+      "created_at": "2026-07-04T04:42:21.626024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e78c0184-7899-4247-b3ce-ea9d326b1f7a",
+      "memory": "The headquarters of University of Glasgow is located in the city of Glasgow.",
+      "hash": "216a61f30a8da83aca6b4f8065d8c557",
+      "metadata": {
+        "ordinal": 1608,
+        "triple": {
+          "subject_id": "university_of_glasgow",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Glasgow",
+          "confidence": 0.95,
+          "subject_raw": "University of Glasgow",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.38900007123796626,
+      "created_at": "2026-07-04T04:42:04.677264-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6591b73e-c1c7-4da9-a072-72b9be1a4dd5",
+      "memory": "The headquarters of University of Glasgow is located in the city of Beijing.",
+      "hash": "364f95937e322d48464a55fa9b5029db",
+      "metadata": {
+        "ordinal": 2165,
+        "triple": {
+          "subject_id": "university_of_glasgow",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Beijing",
+          "confidence": 0.95,
+          "subject_raw": "University of Glasgow",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3865511590350967,
+      "created_at": "2026-07-04T04:42:36.679079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b3f5361a-caf8-408b-a7e1-fb126be72a8b",
+      "memory": "The headquarters of Howard University is located in the city of Washington, D.C.",
+      "hash": "08622426659c4b4311564385c3754b3c",
+      "metadata": {
+        "ordinal": 850,
+        "triple": {
+          "subject_id": "howard_university",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "Howard University",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.38549151029943496,
+      "created_at": "2026-07-04T04:41:23.954220-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3f628201-914e-47e0-86a6-1099d5a3dc69",
+      "memory": "The headquarters of Daimler-Benz is located in the city of Chicago.",
+      "hash": "dc7f31d8d7c5a4565706b31a8d4b6ae1",
+      "metadata": {
+        "ordinal": 1590,
+        "triple": {
+          "subject_id": "daimler_benz",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "Daimler-Benz",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.38480510257189837,
+      "created_at": "2026-07-04T04:42:04.647512-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3f62d25f-21e7-476c-a4c8-7ba794ab47e2",
+      "memory": "ASP.NET was developed by Microsoft.",
+      "hash": "d25e7c57c8c4da54622e6f3fb53bfc1d",
+      "metadata": {
+        "ordinal": 779,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.38273659632293316,
+      "created_at": "2026-07-04T04:41:19.858569-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5437829e-8892-4244-8112-7ff59f45d0ce",
+      "memory": "Advanced Micro Devices was founded in the city of Sunnyvale.",
+      "hash": "d6e1fa3b960959324b2808b1261fea05",
+      "metadata": {
+        "ordinal": 1573,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sunnyvale",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.382579296184124,
+      "created_at": "2026-07-04T04:42:03.314784-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3f7876c1-b7cc-4f23-8228-3e1fff478f68",
+      "memory": "The headquarters of University of California, Los Angeles is located in the city of Los Angeles",
+      "hash": "0865675f578b724fb8db4fc15ac716a6",
+      "metadata": {
+        "ordinal": 56,
+        "triple": {
+          "subject_id": "university_of_california,_los_angeles",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Los Angeles",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.38241192298381843,
+      "created_at": "2026-07-04T04:40:23.844439-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4bd04479-2070-43bb-917b-11d8e0b85df0",
+      "memory": "The headquarters of University of Cambridge is located in the city of Washington, D.C.",
+      "hash": "9c4e0fdf677db4f8ccf4dadade8b8d0d",
+      "metadata": {
+        "ordinal": 2147,
+        "triple": {
+          "subject_id": "university_of_cambridge",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "University of Cambridge",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.38214266779844286,
+      "created_at": "2026-07-04T04:42:36.648542-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "566da854-45d6-4757-86bd-3835bd488741",
+      "memory": "The headquarters of MTV is located in the city of New York City.",
+      "hash": "1ebd81fb8fb73d4a327f2dafcefea4b0",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "mtv",
+          "predicate_norm": "be located in",
+          "object_text": "the city of New York City",
+          "confidence": 0.95,
+          "subject_raw": "MTV",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.38046076919161126,
+      "created_at": "2026-07-04T04:40:27.150134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "33b2e886-552d-41b5-82f8-41c998f3c414",
+      "memory": "The headquarters of Housemarque is located in the city of Helsinki.",
+      "hash": "be7a1af82754786a1260a4e1ca79e899",
+      "metadata": {
+        "ordinal": 1073,
+        "triple": {
+          "subject_id": "housemarque",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Helsinki",
+          "confidence": 0.95,
+          "subject_raw": "Housemarque",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.38016310298372896,
+      "created_at": "2026-07-04T04:41:35.483642-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "980e6c8b-0270-4ce3-b723-984dee0fea76",
+      "memory": "The headquarters of The Walt Disney Company is located in the city of Burbank.",
+      "hash": "88874c6d06edd6d5d517b213e0ac54d5",
+      "metadata": {
+        "ordinal": 1981,
+        "triple": {
+          "subject_id": "the_walt_disney_company",
+          "predicate_norm": "be located in",
+          "object_text": "Burbank",
+          "confidence": 0.95,
+          "subject_raw": "The Walt Disney Company",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.37827987949307773,
+      "created_at": "2026-07-04T04:42:25.503450-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ba383a2a-2c97-418a-bf79-50cd3a8f6073",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 2080,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.9,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3778914244527136,
+      "created_at": "2026-07-04T04:42:30.818400-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a68eff25-5f8b-451b-94e6-1a6f9c548e4d",
+      "memory": "The headquarters of University of Minnesota is located in the city of Minneapolis.",
+      "hash": "7339e9f34cfe1536575db260bff37150",
+      "metadata": {
+        "ordinal": 1969,
+        "triple": {
+          "subject_id": "university_of_minnesota",
+          "predicate_norm": "be located in",
+          "object_text": "Minneapolis",
+          "confidence": 0.95,
+          "subject_raw": "University of Minnesota",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.37780097092720216,
+      "created_at": "2026-07-04T04:42:25.475042-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9026c280-44ef-4a0b-84e1-3e31955f91fb",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Berkeley",
+      "hash": "e87e9b8dce9813a745936836ce3f9ed0",
+      "metadata": {
+        "ordinal": 544,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Berkeley",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.37757386446361085,
+      "created_at": "2026-07-04T04:41:04.771898-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "74f5207d-0d7e-4a83-aa42-6feff16dd262",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.377515314708081,
+      "created_at": "2026-07-04T04:40:56.164190-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0e15751b-6637-4298-b851-d90657c66a96",
+      "memory": "The chief executive officer of General Motors is Marc Benioff.",
+      "hash": "9bb13dc38b7c3a7255d4e53251ff8ab5",
+      "metadata": {
+        "ordinal": 2257,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marc Benioff",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3773531684146182,
+      "created_at": "2026-07-04T04:42:41.897341-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8376e2bd-421b-4ab2-a1cd-33790a7a74e1",
+      "memory": "The headquarters of University of Edinburgh is located in the city of Edinburgh.",
+      "hash": "db02b42888d4e99c7d3999f7b9815d9a",
+      "metadata": {
+        "ordinal": 1336,
+        "triple": {
+          "subject_id": "university_of_edinburgh",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Edinburgh",
+          "confidence": 0.95,
+          "subject_raw": "University of Edinburgh",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.37733829734716495,
+      "created_at": "2026-07-04T04:41:52.888591-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c2af5447-f79a-4254-ba2c-6f2ca1847ea2",
+      "memory": "The headquarters of University of Milan is located in the city of Charlotte.",
+      "hash": "09df9961d2a60d05c4507db1c183f5ea",
+      "metadata": {
+        "ordinal": 2225,
+        "triple": {
+          "subject_id": "university_of_milan",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Charlotte",
+          "confidence": 0.95,
+          "subject_raw": "University of Milan",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.37498874084870515,
+      "created_at": "2026-07-04T04:42:40.090355-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c916d5d3-f6ba-404f-a0bd-8b70216d4e1c",
+      "memory": "The headquarters of Howard University is located in the city of Mexico City.",
+      "hash": "5f0f65b5c490e05b7af9362d73e144a0",
+      "metadata": {
+        "ordinal": 863,
+        "triple": {
+          "subject_id": "howard_university",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Mexico City",
+          "confidence": 0.95,
+          "subject_raw": "Howard University",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.3747774183468845,
+      "created_at": "2026-07-04T04:41:23.971517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a3fb6872-c1c4-4d04-86c0-8aede8836467",
+      "memory": "The headquarters of Daimler-Benz is located in the city of Stuttgart",
+      "hash": "820097eb651898b4a38f1d00c1f7c2f7",
+      "metadata": {
+        "ordinal": 554,
+        "triple": {
+          "subject_id": "daimler_benz",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Stuttgart",
+          "confidence": 0.95,
+          "subject_raw": "Daimler-Benz",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3720307532469103,
+      "created_at": "2026-07-04T04:41:04.791426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "060f10c2-ff4f-41e4-99a9-15d26c06e960",
+      "memory": "The headquarters of University of Birmingham is located in the city of Birmingham.",
+      "hash": "f437d57d8999c50341329d08be0b0e4d",
+      "metadata": {
+        "ordinal": 1330,
+        "triple": {
+          "subject_id": "university_of_birmingham",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Birmingham",
+          "confidence": 0.95,
+          "subject_raw": "University of Birmingham",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3718392098040426,
+      "created_at": "2026-07-04T04:41:51.396981-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "367a92f6-1b0a-4741-8f4f-fa4b5eb53f35",
+      "memory": "Internet Explorer 11 was developed by Microsoft.",
+      "hash": "a64b37ee46a00a1740648c926f64876b",
+      "metadata": {
+        "ordinal": 504,
+        "triple": {
+          "subject_id": "internet_explorer_11",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 11",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3624820047748488,
+      "created_at": "2026-07-04T04:40:56.156543-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4422751c-26f7-49dc-88c3-10d189f643ff",
+      "memory": "Atari Jaguar was developed by Microsoft.",
+      "hash": "c48941c7c75054cc073dc37818e0efaf",
+      "metadata": {
+        "ordinal": 1166,
+        "triple": {
+          "subject_id": "atari_jaguar",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Atari Jaguar",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3614079108901207,
+      "created_at": "2026-07-04T04:41:43.940675-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1eb8e482-911a-4e40-873e-3fd3d4850a5b",
+      "memory": "Advanced Micro Devices was founded in the city of Toronto.",
+      "hash": "e237fdebbe054a2f94a310ba9f2f0ad5",
+      "metadata": {
+        "ordinal": 2075,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "be founded in",
+          "object_text": "Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.36037499026998365,
+      "created_at": "2026-07-04T04:42:30.804901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "df3ce689-7def-40a3-aac6-5ce062c16bd3",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 1687,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.35467116379977776,
+      "created_at": "2026-07-04T04:42:10.514099-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a8cf1b0f-86ce-4873-99da-40243c0367a0",
+      "memory": "The headquarters of Channel 4 is located in the city of London.",
+      "hash": "0bd8dcd463888f4bd6f908a55e532a8e",
+      "metadata": {
+        "ordinal": 1541,
+        "triple": {
+          "subject_id": "channel_4",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Channel 4",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3533005805035841,
+      "created_at": "2026-07-04T04:42:01.889934-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e8c286a5-7ecb-4fc3-8175-552d962da823",
+      "memory": "Windows Update was developed by Microsoft",
+      "hash": "b377c15941e8c4094de00006a3bd1f68",
+      "metadata": {
+        "ordinal": 424,
+        "triple": {
+          "subject_id": "windows_update",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Update",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3505097277980065,
+      "created_at": "2026-07-04T04:40:45.939217-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fb1fee78-48db-4ab8-a7bb-8fc9f76de05e",
+      "memory": "The headquarters of Ilyushin is located in the city of Moscow.",
+      "hash": "ed2daa4c8e29ec9141dd4b2f9c35e21f",
+      "metadata": {
+        "ordinal": 1042,
+        "triple": {
+          "subject_id": "ilyushin",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Ilyushin",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3492927182844713,
+      "created_at": "2026-07-04T04:41:33.560754-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "533bcd62-ac86-4e06-8209-12456ae06692",
+      "memory": "McLaren Automotive was founded in the city of Woking.",
+      "hash": "f2bca516c504eb0e857275ccb490bf16",
+      "metadata": {
+        "ordinal": 628,
+        "triple": {
+          "subject_id": "mclaren_automotive",
+          "predicate_norm": "be founded in",
+          "object_text": "Woking",
+          "confidence": 0.95,
+          "subject_raw": "McLaren Automotive",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.34893178070042585,
+      "created_at": "2026-07-04T04:41:10.937574-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fb9ceace-192a-4349-9d91-07d839f0bc20",
+      "memory": "The headquarters of Crytek is located in the city of Frankfurt.",
+      "hash": "f6787d74eff9eb43fb150e1134c7b20b",
+      "metadata": {
+        "ordinal": 1100,
+        "triple": {
+          "subject_id": "crytek",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Frankfurt",
+          "confidence": 0.95,
+          "subject_raw": "Crytek",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3469350699010355,
+      "created_at": "2026-07-04T04:41:39.505376-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c950968a-7f87-4bc0-acca-040d5e544d30",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.34438529339625873,
+      "created_at": "2026-07-04T04:40:19.756685-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "93b6c922-08a2-428f-94bd-103edbbafdf9",
+      "memory": "Windows Aero was developed by Microsoft.",
+      "hash": "6fedffd92e267cd889d2abac987437bf",
+      "metadata": {
+        "ordinal": 1142,
+        "triple": {
+          "subject_id": "windows_aero",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Aero",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.34377894146719806,
+      "created_at": "2026-07-04T04:41:41.920369-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4fa47ce5-758f-4391-aa98-7a26edcf0117",
+      "memory": "The headquarters of University of Southern California is located in the city of Los Angeles.",
+      "hash": "7dfbab5e55959fe40327d6de401b5ae3",
+      "metadata": {
+        "ordinal": 365,
+        "triple": {
+          "subject_id": "university_of_southern_california",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "University of Southern California",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3406512198876243,
+      "created_at": "2026-07-04T04:40:39.354772-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "78b7dc5e-9f46-4e72-838b-9a7be49f56f4",
+      "memory": "iPad Mini was developed by Microsoft.",
+      "hash": "ca7b4127ba8304722c07c683933be2ee",
+      "metadata": {
+        "ordinal": 1611,
+        "triple": {
+          "subject_id": "ipad_mini",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "iPad Mini",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3403490264841353,
+      "created_at": "2026-07-04T04:42:04.681257-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7da9d53e-940f-4dd6-bb45-5b727387b9f6",
+      "memory": "Moscow is located in the continent of Europe",
+      "hash": "89dde800e3447059b82bc3434e952952",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "moscow",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Moscow",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33947982519305003,
+      "created_at": "2026-07-04T04:40:23.869629-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f4d85f5c-6964-4620-98a0-e09d90ebc194",
+      "memory": "The capital of United States of America is Washington, D.C.",
+      "hash": "d12418a18a0f0e5323b0df256d6c142e",
+      "metadata": {
+        "ordinal": 632,
+        "triple": {
+          "subject_id": "capital_of_united_states_of_america",
+          "predicate_norm": "be",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "capital of United States of America",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.3363367586192162,
+      "created_at": "2026-07-04T04:41:10.944253-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c164e42b-5f0b-417b-97b2-595d12887816",
+      "memory": "The headquarters of University of Cambridge is located in the city of Cambridge.",
+      "hash": "ead9ab587253caa69ec454fe83d3a9eb",
+      "metadata": {
+        "ordinal": 1131,
+        "triple": {
+          "subject_id": "university_of_cambridge",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Cambridge",
+          "confidence": 0.95,
+          "subject_raw": "University of Cambridge",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33609781946249806,
+      "created_at": "2026-07-04T04:41:41.884920-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "610b3f0e-2735-4bf8-9286-a7747d70c6b3",
+      "memory": "The headquarters of University of Birmingham is located in the city of 888 7th Avenue.",
+      "hash": "9279fef67856efb688a05d1e3a8b2632",
+      "metadata": {
+        "ordinal": 2245,
+        "triple": {
+          "subject_id": "university_of_birmingham",
+          "predicate_norm": "be located in",
+          "object_text": "the city of 888 7th Avenue",
+          "confidence": 0.95,
+          "subject_raw": "University of Birmingham",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3332138847702013,
+      "created_at": "2026-07-04T04:42:41.877997-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "75490107-a6bd-4fd3-949a-61d04bd52b53",
+      "memory": "Windows Communication Foundation was developed by Microsoft.",
+      "hash": "dbc04e3b6169f31bebde6ea32d24d116",
+      "metadata": {
+        "ordinal": 574,
+        "triple": {
+          "subject_id": "windows_communication_foundation",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Communication Foundation",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3323337766470821,
+      "created_at": "2026-07-04T04:41:09.361856-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "86818781-8ea8-49a6-9dde-d6d1fdcd71b4",
+      "memory": "The headquarters of University of Calcutta is located in the city of San Francisco.",
+      "hash": "259de66a8d40d4eed0c7eaecf97c8831",
+      "metadata": {
+        "ordinal": 1990,
+        "triple": {
+          "subject_id": "university_of_calcutta",
+          "predicate_norm": "be located in",
+          "object_text": "San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "University of Calcutta",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3322448537578634,
+      "created_at": "2026-07-04T04:42:25.517301-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7fbee4a1-92e6-4deb-86bf-c16ea42ec7d7",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Botevgrad.",
+      "hash": "8afbf714cd2995792aebf78f640ebfed",
+      "metadata": {
+        "ordinal": 584,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Botevgrad",
+          "confidence": 0.85,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.33039243851967814,
+      "created_at": "2026-07-04T04:41:09.376921-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "558b8978-e718-4cf5-a8b7-c18c6d2bbbd4",
+      "memory": "The headquarters of University of Louisville is located in the city of Louisville.",
+      "hash": "cdacc06daaefb1598cda0e3099f30ba7",
+      "metadata": {
+        "ordinal": 1587,
+        "triple": {
+          "subject_id": "university_of_louisville",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Louisville",
+          "confidence": 0.95,
+          "subject_raw": "University of Louisville",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.32974179555441857,
+      "created_at": "2026-07-04T04:42:04.640718-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "23e43401-84e1-4b52-acc0-121959c500ff",
+      "memory": "The headquarters of American Broadcasting Company is located in the city of New York City.",
+      "hash": "b102193b48c9487ce5ddb9f02417ebf2",
+      "metadata": {
+        "ordinal": 416,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "New York City",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3289252624349819,
+      "created_at": "2026-07-04T04:40:44.240381-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "01973c4b-5966-4384-a168-70aff26a659b",
+      "memory": "The headquarters of University of Barcelona is located in the city of Barcelona.",
+      "hash": "36f0abf2160bd94e434f134433948f50",
+      "metadata": {
+        "ordinal": 920,
+        "triple": {
+          "subject_id": "university_of_barcelona",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Barcelona",
+          "confidence": 0.95,
+          "subject_raw": "University of Barcelona",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.32889054526203126,
+      "created_at": "2026-07-04T04:41:28.715505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2c7f1ec6-7038-498f-b91e-8bfd961f7c45",
+      "memory": "The headquarters of Leiden University is located in the city of Leiden.",
+      "hash": "b52568c7d423d2978188212a777b13a7",
+      "metadata": {
+        "ordinal": 1038,
+        "triple": {
+          "subject_id": "leiden_university",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Leiden",
+          "confidence": 0.95,
+          "subject_raw": "Leiden University",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3278894042680757,
+      "created_at": "2026-07-04T04:41:33.553444-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "87c706fd-caf5-4f6c-b0c2-3b395f43f206",
+      "memory": "ASP.NET was developed by Google.",
+      "hash": "bea8c78cbbc5a1373d8eda588ba14690",
+      "metadata": {
+        "ordinal": 1570,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.32571373018012617,
+      "created_at": "2026-07-04T04:42:03.310289-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "28b38cd5-0bdf-4168-a8da-b5cda77814c4",
+      "memory": "The chief executive officer of Advanced Micro Devices is Lisa Su.",
+      "hash": "4ede9597bf3bd1606479835b9007f1ce",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lisa Su",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.325081336958303,
+      "created_at": "2026-07-04T04:40:31.954931-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f294a88c-9cf8-44c3-bcc1-8c2f2b3623bd",
+      "memory": "The headquarters of University of Calcutta is located in the city of Kolkata.",
+      "hash": "becb68606f544ce385f73c35c229c3fc",
+      "metadata": {
+        "ordinal": 1398,
+        "triple": {
+          "subject_id": "university_of_calcutta",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Kolkata",
+          "confidence": 0.95,
+          "subject_raw": "University of Calcutta",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3245267919785853,
+      "created_at": "2026-07-04T04:41:54.513082-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0529e6e0-7889-4df8-abb1-3238296f63b4",
+      "memory": "The headquarters of University of Oxford is located in the city of Frankfurt.",
+      "hash": "3591df5c76f7459c58c6bdd7c48435cc",
+      "metadata": {
+        "ordinal": 1055,
+        "triple": {
+          "subject_id": "university_of_oxford",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Frankfurt",
+          "confidence": 0.95,
+          "subject_raw": "University of Oxford",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.32176107185597447,
+      "created_at": "2026-07-04T04:41:33.579285-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e37d8990-ec60-435b-bde0-b2802030c4f5",
+      "memory": "The headquarters of People's Daily is located in the city of Beijing.",
+      "hash": "b72c27515729fc0f6340cd7602053a5e",
+      "metadata": {
+        "ordinal": 1403,
+        "triple": {
+          "subject_id": "people's_daily",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Beijing",
+          "confidence": 0.95,
+          "subject_raw": "People's Daily",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3217110241369944,
+      "created_at": "2026-07-04T04:41:55.959079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7c147dd4-fc85-41dc-a61c-ce3ea1f470da",
+      "memory": "The chief executive officer of Valve Corporation is Mukesh Ambani",
+      "hash": "175709d202b84c3a9959c047d50fc24a",
+      "metadata": {
+        "ordinal": 549,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mukesh Ambani",
+          "confidence": 0.9,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32135871469787947,
+      "created_at": "2026-07-04T04:41:04.782670-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4209b428-77f4-44f2-9f6e-f2243b111f22",
+      "memory": "The headquarters of Channel 4 is located in the city of Toronto.",
+      "hash": "3cb495232416143d8e32b9b9786a3796",
+      "metadata": {
+        "ordinal": 2288,
+        "triple": {
+          "subject_id": "channel_4",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Channel 4",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3182632903006653,
+      "created_at": "2026-07-04T04:42:43.387832-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "82dba8ed-3a5b-427d-bb24-2d7cecd76d1e",
+      "memory": "The headquarters of University of Tartu is located in the city of Tartu.",
+      "hash": "e1a17c0091bc5f39e728148b282ff782",
+      "metadata": {
+        "ordinal": 593,
+        "triple": {
+          "subject_id": "university_of_tartu",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Tartu",
+          "confidence": 0.85,
+          "subject_raw": "University of Tartu",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3171985926497908,
+      "created_at": "2026-07-04T04:41:09.388471-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "07aefc11-52ec-4ce5-8519-c99166cdaccd",
+      "memory": "The headquarters of University of Leeds is located in the city of Leeds.",
+      "hash": "d3ea56c7f96a52d8e061ec1786755470",
+      "metadata": {
+        "ordinal": 1902,
+        "triple": {
+          "subject_id": "university_of_leeds",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Leeds",
+          "confidence": 0.95,
+          "subject_raw": "University of Leeds",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3158988128544981,
+      "created_at": "2026-07-04T04:42:21.621000-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e043c50d-511e-4ea5-b99d-80d0e843ecd3",
+      "memory": "The headquarters of University of Tirana is located in the city of Tirana.",
+      "hash": "3377b0d20b0bb6ad429ae8fc4f3d63d9",
+      "metadata": {
+        "ordinal": 317,
+        "triple": {
+          "subject_id": "university_of_tirana",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Tirana",
+          "confidence": 0.95,
+          "subject_raw": "University of Tirana",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.31463948881939297,
+      "created_at": "2026-07-04T04:40:37.281201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76cff383-3a36-418b-aee7-63aec90d7a9e",
+      "memory": "The headquarters of Disney Channel is located in the city of Burbank.",
+      "hash": "53ebc43f5f62c51bf3544e0e2c491400",
+      "metadata": {
+        "ordinal": 2113,
+        "triple": {
+          "subject_id": "disney_channel",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Burbank",
+          "confidence": 0.95,
+          "subject_raw": "Disney Channel",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3121272268994296,
+      "created_at": "2026-07-04T04:42:34.472590-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7391df34-320e-4ad6-8005-0deb4f1569ca",
+      "memory": "The headquarters of Montana State University - Bozeman is located in the city of Houston.",
+      "hash": "7938dde58d523f2769931a438eb5e65e",
+      "metadata": {
+        "ordinal": 1801,
+        "triple": {
+          "subject_id": "montana_state_university_bozeman",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Houston",
+          "confidence": 0.95,
+          "subject_raw": "Montana State University - Bozeman",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3110094660074901,
+      "created_at": "2026-07-04T04:42:16.503170-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c917911a-9dba-4d32-a18d-8116b6686cca",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 1087,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.9,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3085156628012261,
+      "created_at": "2026-07-04T04:41:35.505684-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cbcea4a0-f599-42c5-a142-d7392ec3cd6a",
+      "memory": "The headquarters of WTTW is located in the city of Chicago.",
+      "hash": "0effde9a0735749b50e7de631f178017",
+      "metadata": {
+        "ordinal": 76,
+        "triple": {
+          "subject_id": "wttw",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "WTTW",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.30842829136629557,
+      "created_at": "2026-07-04T04:40:25.356957-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "13cac676-48c5-4d9b-bf40-b81cea45a7f3",
+      "memory": "The name of the current head of the Manchester government is Andy Burnham.",
+      "hash": "479dde79eb309df43ff23bb13d4b71ce",
+      "metadata": {
+        "ordinal": 1207,
+        "triple": {
+          "subject_id": "the_current_head_of_the_manchester_government",
+          "predicate_norm": "be",
+          "object_text": "Andy Burnham",
+          "confidence": 0.95,
+          "subject_raw": "the current head of the Manchester government",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.30800749175604814,
+      "created_at": "2026-07-04T04:41:46.352206-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6417a3f6-752b-4204-bb47-09cc5369f58e",
+      "memory": "Ann Arbor is located in the continent of North America.",
+      "hash": "84cbe2e557938806df618871ee2be80b",
+      "metadata": {
+        "ordinal": 1575,
+        "triple": {
+          "subject_id": "ann_arbor",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Ann Arbor",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.30762667521447273,
+      "created_at": "2026-07-04T04:42:03.317731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64028170-2301-4388-8507-2ea0282a1388",
+      "memory": "The chief executive officer of Google is Sundar Pichai",
+      "hash": "6837e373ca014b9b41625b7297dccd8c",
+      "metadata": {
+        "ordinal": 558,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.30740703705955286,
+      "created_at": "2026-07-04T04:41:04.797594-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6fb6218a-1383-4573-af72-9b6813b340d6",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 1061,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30722791731724025,
+      "created_at": "2026-07-04T04:41:35.443585-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fee3402e-07b7-4654-9728-ab8e862e2690",
+      "memory": "The headquarters of University of Southern California is located in the city of Israel.",
+      "hash": "76e196b632921fd4f1931a32979895c9",
+      "metadata": {
+        "ordinal": 1017,
+        "triple": {
+          "subject_id": "university_of_southern_california",
+          "predicate_norm": "be located in city",
+          "object_text": "Israel",
+          "confidence": 0.95,
+          "subject_raw": "University of Southern California",
+          "predicate_raw": "is located in the city of"
+        }
+      },
+      "score": 0.30608855166623805,
+      "created_at": "2026-07-04T04:41:32.364346-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "71aceeb4-d542-4c26-8600-8a2cd79deb45",
+      "memory": "The capital of United Kingdom is London.",
+      "hash": "8327324d443c75056891aabc69a71bfa",
+      "metadata": {
+        "ordinal": 501,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3038133886634775,
+      "created_at": "2026-07-04T04:40:56.147285-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "29727937-2298-49b8-94c2-31f2d173473e",
+      "memory": "Steve Jobs is a citizen of United States of America.",
+      "hash": "8361be49981f7a5cc65edaee5adc3e18",
+      "metadata": {
+        "ordinal": 1189,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3036742949646074,
+      "created_at": "2026-07-04T04:41:43.991890-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "81b1f64c-3ff3-49a8-bb2a-6b8547037218",
+      "memory": "Hyderabad is located in the continent of Asia",
+      "hash": "90aad9a5e136dcc59b0964fa28d2d29b",
+      "metadata": {
+        "ordinal": 1482,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3035606854248707,
+      "created_at": "2026-07-04T04:42:00.301500-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "17ad7bc5-32ba-4d39-a9f0-14901406d574",
+      "memory": "The headquarters of Montana State University - Bozeman is located in the city of Bozeman.",
+      "hash": "4d9a8cfcd9c74d1196b0e28e146a74b9",
+      "metadata": {
+        "ordinal": 671,
+        "triple": {
+          "subject_id": "montana_state_university_bozeman",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Bozeman",
+          "confidence": 0.95,
+          "subject_raw": "Montana State University - Bozeman",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.3024253589992777,
+      "created_at": "2026-07-04T04:41:13.893538-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f8537873-5a74-4036-9fbb-3648cc1b7c14",
+      "memory": "The headquarters of Gazeta Wyborcza is located in the city of Ann Arbor.",
+      "hash": "6daa40bf35d3d8daf1fc37e64812cb2f",
+      "metadata": {
+        "ordinal": 1355,
+        "triple": {
+          "subject_id": "gazeta_wyborcza",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Ann Arbor",
+          "confidence": 0.95,
+          "subject_raw": "Gazeta Wyborcza",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.30103367078833043,
+      "created_at": "2026-07-04T04:41:52.921224-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0d365fd5-d6b9-423f-9f4c-80ce188aa434",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Andrew House.",
+      "hash": "47b51667bf3a64f9c3e3d42830cd6f7f",
+      "metadata": {
+        "ordinal": 1251,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew House",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.29768693212789576,
+      "created_at": "2026-07-04T04:41:48.204594-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d59ef895-5d46-4328-8bb5-dd76c92f2f55",
+      "memory": "The chief executive officer of General Motors is Mary Barra.",
+      "hash": "586369fe3ffca899b036ed948a77c175",
+      "metadata": {
+        "ordinal": 879,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mary Barra",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.29347892611957455,
+      "created_at": "2026-07-04T04:41:27.144345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b6c69ce9-7612-44d0-a244-6da66c25efe3",
+      "memory": "Internet Explorer 5 was developed by Microsoft.",
+      "hash": "f6d8ff2826466651c1c87647e2d11df6",
+      "metadata": {
+        "ordinal": 2086,
+        "triple": {
+          "subject_id": "internet_explorer_5",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2932932445977443,
+      "created_at": "2026-07-04T04:42:30.830513-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c3d28b24-bd96-439d-8852-ed0880182043",
+      "memory": "The headquarters of University of Gothenburg is located in the city of Gothenburg.",
+      "hash": "e4f1f9dab4e1cb04d90036e2a7ca90fc",
+      "metadata": {
+        "ordinal": 800,
+        "triple": {
+          "subject_id": "university_of_gothenburg",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Gothenburg",
+          "confidence": 0.95,
+          "subject_raw": "University of Gothenburg",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2931435846817305,
+      "created_at": "2026-07-04T04:41:21.858153-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c41046f5-87f8-4b9b-b861-4a27b4ace940",
+      "memory": "Queen was founded in the city of London.",
+      "hash": "7ca08ed4dd38f1611dd877b0238ff8a7",
+      "metadata": {
+        "ordinal": 772,
+        "triple": {
+          "subject_id": "queen",
+          "predicate_norm": "be founded in",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Queen",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2921490357697202,
+      "created_at": "2026-07-04T04:41:19.847315-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8dc65343-bde3-4c89-902c-2eb4c73fc93b",
+      "memory": "The headquarters of University of California, Los Angeles is located in the city of Fornebu.",
+      "hash": "ae474018e93897a4aac641e14cd2f3fc",
+      "metadata": {
+        "ordinal": 2261,
+        "triple": {
+          "subject_id": "university_of_california,_los_angeles",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Fornebu",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Los Angeles",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.29187936565740763,
+      "created_at": "2026-07-04T04:42:41.903009-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "98d4404d-33f4-468e-990a-8cd8b228eca9",
+      "memory": "The capital of India is New Delhi.",
+      "hash": "34c93e5e7e3ea7ecbba46b0b87fd91be",
+      "metadata": {
+        "ordinal": 1249,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "has capital",
+          "object_text": "New Delhi",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.2913578929881532,
+      "created_at": "2026-07-04T04:41:48.201345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "46cec03d-cba4-48a6-b704-3381e6daf46e",
+      "memory": "The headquarters of Yale University is located in the city of Toronto.",
+      "hash": "9b253429afc295c638e8640dc3272964",
+      "metadata": {
+        "ordinal": 616,
+        "triple": {
+          "subject_id": "yale_university",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Toronto",
+          "confidence": 0.95,
+          "subject_raw": "Yale University",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.28947345501040056,
+      "created_at": "2026-07-04T04:41:10.912064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bdf906be-fffc-4dba-acbb-ba659b648680",
+      "memory": "San Francisco is located in the continent of North America.",
+      "hash": "dc0541120e69139114c10428be1e2b32",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "san_francisco",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "San Francisco",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2877295613099974,
+      "created_at": "2026-07-04T04:40:25.373629-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ]
+}

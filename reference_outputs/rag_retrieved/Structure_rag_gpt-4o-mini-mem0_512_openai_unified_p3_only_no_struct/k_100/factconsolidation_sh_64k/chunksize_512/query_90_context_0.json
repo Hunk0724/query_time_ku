@@ -1,0 +1,4001 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "ee128f92-0381-4c15-b760-b2f1fb7aee81",
+      "memory": "Manuel Neuer plays the position of goalkeeper.",
+      "hash": "3b447c4654e7f868f418264372adecad",
+      "metadata": {
+        "ordinal": 1416,
+        "triple": {
+          "subject_id": "manuel_neuer",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Manuel Neuer",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.8432384797330346,
+      "created_at": "2026-07-04T05:24:34.715676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3edd905d-7e8c-481b-95ea-8a03963f86e0",
+      "memory": "Manuel Neuer plays the position of linebacker.",
+      "hash": "19a4c7a40fdd698e69d55848ee63d599",
+      "metadata": {
+        "ordinal": 1621,
+        "triple": {
+          "subject_id": "manuel_neuer",
+          "predicate_norm": "plays",
+          "object_text": "the position of linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Manuel Neuer",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.8183666869269781,
+      "created_at": "2026-07-04T05:24:39.886295-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "13eeafdb-1e6a-433b-8c91-dfb4c5c72477",
+      "memory": "Jens Lehmann plays the position of goalkeeper.",
+      "hash": "a835c4aebc9ea49bd56c43d1f624be7b",
+      "metadata": {
+        "ordinal": 1345,
+        "triple": {
+          "subject_id": "jens_lehmann",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Jens Lehmann",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.5666981514031224,
+      "created_at": "2026-07-04T05:24:33.034778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8eb04be4-05e1-4db8-9707-93bdfd750d8d",
+      "memory": "Bastian Schweinsteiger plays the position of quarterback.",
+      "hash": "41fc720bb543f1bb7ff7838a3d6ca0b6",
+      "metadata": {
+        "ordinal": 4252,
+        "triple": null,
+        "subject_fallback": "bastian_schweinsteiger"
+      },
+      "score": 0.5564295081710212,
+      "created_at": "2026-07-04T05:25:42.219377-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "45159547-4333-4bc8-9630-0f99c5b36c65",
+      "memory": "Manuel Almunia plays the position of goalkeeper.",
+      "hash": "6e42ca9d36bf3e259899792ccf63ad94",
+      "metadata": {
+        "ordinal": 3179,
+        "triple": {
+          "subject_id": "manuel_almunia",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Manuel Almunia",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.5311848105234851,
+      "created_at": "2026-07-04T05:25:16.844886-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0f0f431f-acc6-4383-8343-fd4df31cfcf5",
+      "memory": "Jens Lehmann plays the position of linebacker.",
+      "hash": "e049edeec869f2f094ae3f9725b97ce5",
+      "metadata": {
+        "ordinal": 2516,
+        "triple": {
+          "subject_id": "jens_lehmann",
+          "predicate_norm": "plays position",
+          "object_text": "linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Jens Lehmann",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.5158622649588094,
+      "created_at": "2026-07-04T05:25:01.530755-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "414b05d2-c883-463f-b67f-55ad017f93e0",
+      "memory": "Bastian Schweinsteiger plays the position of midfielder.",
+      "hash": "dc4b0519089a5aad15dd6bbb606fb4e4",
+      "metadata": {
+        "ordinal": 3609,
+        "triple": {
+          "subject_id": "bastian_schweinsteiger",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Bastian Schweinsteiger",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.514792133303996,
+      "created_at": "2026-07-04T05:25:26.426532-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b757c294-731e-4c6d-87f6-d2699a888bf3",
+      "memory": "Toni Kroos plays the position of midfielder.",
+      "hash": "330bf30e1877915943a73f5347cead7b",
+      "metadata": {
+        "ordinal": 2185,
+        "triple": {
+          "subject_id": "toni_kroos",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Toni Kroos",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.5089587584056481,
+      "created_at": "2026-07-04T05:24:53.163903-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d4c5679c-97bc-4f22-a773-90f6a5e1f398",
+      "memory": "Hugo Lloris plays the position of goalkeeper.",
+      "hash": "8f88f0d3709e665ae7db20ef8e068554",
+      "metadata": {
+        "ordinal": 2081,
+        "triple": {
+          "subject_id": "hugo_lloris",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Hugo Lloris",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4917776983907943,
+      "created_at": "2026-07-04T05:24:50.469396-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "411fa48c-eef4-4e0e-af00-4abff29c82c2",
+      "memory": "Nick Rimando plays the position of goalkeeper.",
+      "hash": "e16082d36b0dc2485204b85546acb5bd",
+      "metadata": {
+        "ordinal": 3272,
+        "triple": {
+          "subject_id": "nick_rimando",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Nick Rimando",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4864388505701849,
+      "created_at": "2026-07-04T05:25:18.510718-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ff8e18a3-3dd1-4c19-8659-a7766709cfde",
+      "memory": "Pepe Reina plays the position of goalkeeper.",
+      "hash": "bea13ebf6908528101a7f6b75b7fb744",
+      "metadata": {
+        "ordinal": 3231,
+        "triple": {
+          "subject_id": "pepe_reina",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Pepe Reina",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4832487890320398,
+      "created_at": "2026-07-04T05:25:17.587146-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b07037cb-e98b-43b2-be98-c7f53ac34997",
+      "memory": "Heurelho Gomes plays the position of goalkeeper.",
+      "hash": "cc65e73e1e6470c005204c73f3a156fa",
+      "metadata": {
+        "ordinal": 860,
+        "triple": {
+          "subject_id": "heurelho_gomes",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Heurelho Gomes",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4759062329251202,
+      "created_at": "2026-07-04T05:24:21.390513-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a8580fe1-a338-4045-ac66-9aea169aea76",
+      "memory": "Giovani dos Santos plays the position of goaltender.",
+      "hash": "43024b47c2a8a8e00141b94666bff5fd",
+      "metadata": {
+        "ordinal": 3937,
+        "triple": {
+          "subject_id": "giovani_dos_santos",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.9,
+          "subject_raw": "Giovani dos Santos",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.47006372722595025,
+      "created_at": "2026-07-04T05:25:34.200235-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "acc5e08d-650f-4015-98d0-1eef230698a1",
+      "memory": "Rogério Ceni plays the position of goalkeeper.",
+      "hash": "9456cdbe6e6cb21cf074bf13beaa195a",
+      "metadata": {
+        "ordinal": 1769,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.46819540591774517,
+      "created_at": "2026-07-04T05:24:43.225122-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "faee4ab4-e420-48c1-acbf-55ce181eb163",
+      "memory": "David Seaman plays the position of goalkeeper.",
+      "hash": "954ae221757eb9c3c32c22799bff3d35",
+      "metadata": {
+        "ordinal": 3895,
+        "triple": {
+          "subject_id": "david_seaman",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "David Seaman",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.46047841603321316,
+      "created_at": "2026-07-04T05:25:32.786057-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2ec9c354-eb71-43ec-adbc-0f8d4baa4f5c",
+      "memory": "Carlo Cudicini plays the position of goalkeeper.",
+      "hash": "ce8ed064bf46476f5b67854bebba7482",
+      "metadata": {
+        "ordinal": 3604,
+        "triple": {
+          "subject_id": "carlo_cudicini",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Carlo Cudicini",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.458031541771391,
+      "created_at": "2026-07-04T05:25:26.421214-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e07cf5ef-9787-41f8-b781-701f8caa3874",
+      "memory": "Rafael van der Vaart plays the position of goaltender.",
+      "hash": "902f298f4ecd90e831458b9bf7718bff",
+      "metadata": {
+        "ordinal": 3975,
+        "triple": {
+          "subject_id": "rafael_van_der_vaart",
+          "predicate_norm": "plays",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Rafael van der Vaart",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.4551425849992808,
+      "created_at": "2026-07-04T05:25:35.072139-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a87ac9bd-3e33-4375-9ecb-0e70ca40ada7",
+      "memory": "Simon Mignolet plays the position of goalkeeper.",
+      "hash": "05db9b2af7bd98a2461219f6d0cd9ae4",
+      "metadata": {
+        "ordinal": 168,
+        "triple": {
+          "subject_id": "simon_mignolet",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Simon Mignolet",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4469798561665147,
+      "created_at": "2026-07-04T05:24:06.935808-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "06bef3b0-d9a5-4113-9c0b-85aa35d28f55",
+      "memory": "Max Scherzer plays the position of flanker.",
+      "hash": "dff50a50cb6752fde0be606ae36e38dd",
+      "metadata": {
+        "ordinal": 3451,
+        "triple": {
+          "subject_id": "max_scherzer",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Max Scherzer",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.443254812415762,
+      "created_at": "2026-07-04T05:25:23.048712-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1657d422-c7a6-4c1c-808f-76c083ad850c",
+      "memory": "Hugo Lloris plays the position of infielder.",
+      "hash": "aed5fc6c2eb84860934e83d0596c8428",
+      "metadata": {
+        "ordinal": 2944,
+        "triple": {
+          "subject_id": "hugo_lloris",
+          "predicate_norm": "plays",
+          "object_text": "the position of infielder",
+          "confidence": 0.95,
+          "subject_raw": "Hugo Lloris",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.4409230547010399,
+      "created_at": "2026-07-04T05:25:11.089676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "37eaaf57-32a3-472d-9388-d66e2c4db2dc",
+      "memory": "Bruce Arena plays the position of goalkeeper.",
+      "hash": "e3fef69f993cab17ac95365993205f76",
+      "metadata": {
+        "ordinal": 3023,
+        "triple": {
+          "subject_id": "bruce_arena",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Bruce Arena",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.43993960456856396,
+      "created_at": "2026-07-04T05:25:12.879742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2ad75509-3ebc-4138-8a6b-4e1139ce6bef",
+      "memory": "Timofey Mozgov plays the position of goalkeeper.",
+      "hash": "d2f5a45454133d0900184cf51dde8a10",
+      "metadata": {
+        "ordinal": 3709,
+        "triple": {
+          "subject_id": "timofey_mozgov",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Timofey Mozgov",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4389375154339778,
+      "created_at": "2026-07-04T05:25:28.871994-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a994bd58-03b0-4d88-9151-8b7aa8781453",
+      "memory": "Ali Al-Habsi plays the position of goalkeeper.",
+      "hash": "bc9c8a9aa467f73130bc3c0837ee0afb",
+      "metadata": {
+        "ordinal": 3194,
+        "triple": {
+          "subject_id": "ali_al_habsi",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Ali Al-Habsi",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4369637205800907,
+      "created_at": "2026-07-04T05:25:16.861416-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f1ceb386-65f4-4181-ab7f-3b4763f38a67",
+      "memory": "Nigel Martyn plays the position of goalkeeper.",
+      "hash": "9d94fc94e746ff1805c40aa44d6cc8ff",
+      "metadata": {
+        "ordinal": 836,
+        "triple": {
+          "subject_id": "nigel_martyn",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Nigel Martyn",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4346088137869086,
+      "created_at": "2026-07-04T05:24:21.350279-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1801a92a-38f2-4d91-ab29-1de4bd69bce0",
+      "memory": "Rogério Ceni plays the position of flanker.",
+      "hash": "5c3c579c4a2c2c2185383fc4dff4e2b9",
+      "metadata": {
+        "ordinal": 3597,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.43362980529306316,
+      "created_at": "2026-07-04T05:25:26.412624-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "35af1679-9426-49aa-b9e2-a391a517713c",
+      "memory": "Brad Friedel plays the position of goalkeeper.",
+      "hash": "915daf15049e4dfcf25e8849eef3ad0d",
+      "metadata": {
+        "ordinal": 1182,
+        "triple": {
+          "subject_id": "brad_friedel",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Brad Friedel",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.43037268339962936,
+      "created_at": "2026-07-04T05:24:29.055350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7ba257d1-01fb-4c39-8af1-6141327b56e8",
+      "memory": "Nick Rimando plays the position of flanker.",
+      "hash": "d37627bab8c8f3a59a70847cd0d731bc",
+      "metadata": {
+        "ordinal": 3726,
+        "triple": {
+          "subject_id": "nick_rimando",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Nick Rimando",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4297134128146275,
+      "created_at": "2026-07-04T05:25:29.765061-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7bc18942-3439-4685-8c7b-fc161f48d849",
+      "memory": "Artur Boruc plays the position of goalkeeper.",
+      "hash": "28165cde5f4f19cb13802f65d9d1975d",
+      "metadata": {
+        "ordinal": 992,
+        "triple": {
+          "subject_id": "artur_boruc",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Artur Boruc",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4247014406297488,
+      "created_at": "2026-07-04T05:24:25.344125-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3d3d2897-1740-4ab8-9b6d-802d57850012",
+      "memory": "goalkeeper is associated with the sport of association football.",
+      "hash": "72c079aebefc72959280a65790493212",
+      "metadata": {
+        "ordinal": 1062,
+        "triple": {
+          "subject_id": "goalkeeper",
+          "predicate_norm": "be associated with sport",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "goalkeeper",
+          "predicate_raw": "is associated with the sport of"
+        }
+      },
+      "score": 0.4223808666676784,
+      "created_at": "2026-07-04T05:24:26.788841-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f6d36282-0ed4-4d17-934d-3853a34f351a",
+      "memory": "Răzvan Lucescu plays the position of goalkeeper.",
+      "hash": "cdf56c9d23532405f484d32a098b5b76",
+      "metadata": {
+        "ordinal": 1895,
+        "triple": {
+          "subject_id": "răzvan_lucescu",
+          "predicate_norm": "plays",
+          "object_text": "the position of goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Răzvan Lucescu",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.42207269202610864,
+      "created_at": "2026-07-04T05:24:46.430539-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2910153a-3701-49ff-931d-67cffbbd80d9",
+      "memory": "Brad Guzan plays the position of goalkeeper.",
+      "hash": "b69a67f6f2d3b8886b08a48fc605e309",
+      "metadata": {
+        "ordinal": 2742,
+        "triple": {
+          "subject_id": "brad_guzan",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Brad Guzan",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4204824186825457,
+      "created_at": "2026-07-04T05:25:06.538969-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "49f8831a-6003-4ecc-a225-54a724cf3f34",
+      "memory": "The head coach of Germany national football team is Joachim Löw.",
+      "hash": "594912581c24546687fdb83dbaba2734",
+      "metadata": {
+        "ordinal": 1739,
+        "triple": {
+          "subject_id": "germany_national_football_team",
+          "predicate_norm": "has head coach",
+          "object_text": "Joachim Löw",
+          "confidence": 0.95,
+          "subject_raw": "Germany national football team",
+          "predicate_raw": "has head coach"
+        }
+      },
+      "score": 0.4201225300914212,
+      "created_at": "2026-07-04T05:24:42.482521-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "df6177b1-b47b-493a-9426-6bba1903b936",
+      "memory": "Gordon Banks plays the position of goalkeeper",
+      "hash": "88b6672626c099e7d926c1a25670255e",
+      "metadata": {
+        "ordinal": 541,
+        "triple": {
+          "subject_id": "gordon_banks",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Gordon Banks",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.41229518040538615,
+      "created_at": "2026-07-04T05:24:15.015590-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "71ce5c95-6d39-4693-b55d-4acf70922e50",
+      "memory": "Kevin De Bruyne plays the position of defender.",
+      "hash": "9a935e106203326860713fa1a6c7c675",
+      "metadata": {
+        "ordinal": 4366,
+        "triple": {
+          "subject_id": "kevin_de_bruyne",
+          "predicate_norm": "plays position",
+          "object_text": "defender",
+          "confidence": 0.95,
+          "subject_raw": "Kevin De Bruyne",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.41052945110198574,
+      "created_at": "2026-07-04T05:25:44.975392-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f2704fb1-a9e8-4376-a581-ac4167bc7e9a",
+      "memory": "Neville Southall plays the position of goalkeeper.",
+      "hash": "82283b49ccb955c7475b2dc57d068c54",
+      "metadata": {
+        "ordinal": 974,
+        "triple": {
+          "subject_id": "neville_southall",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Neville Southall",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4102641394028538,
+      "created_at": "2026-07-04T05:24:24.355508-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6bf2b838-d816-436c-aac0-806cdf591d5f",
+      "memory": "Dele Alli plays the position of goalkeeper.",
+      "hash": "66248cb8018d57028e5aabfe9d97eab3",
+      "metadata": {
+        "ordinal": 2281,
+        "triple": {
+          "subject_id": "dele_alli",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Dele Alli",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.40912440420714535,
+      "created_at": "2026-07-04T05:24:55.575325-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "70628dbf-f936-4c8f-8b3f-a81bdd7a7465",
+      "memory": "Zinedine Zidane plays the position of midfielder",
+      "hash": "a5ebfec043252ae174471cdeb270d3c9",
+      "metadata": {
+        "ordinal": 563,
+        "triple": {
+          "subject_id": "zinedine_zidane",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Zinedine Zidane",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4076249948761033,
+      "created_at": "2026-07-04T05:24:15.043348-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1eb40ee6-cf90-480f-8e91-6cb48c863191",
+      "memory": "Pepe Reina plays the position of midfielder.",
+      "hash": "cf80c2122d97a11fd4038e40b3e32b13",
+      "metadata": {
+        "ordinal": 3495,
+        "triple": {
+          "subject_id": "pepe_reina",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Pepe Reina",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.40721127685448116,
+      "created_at": "2026-07-04T05:25:23.916389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6b46b93b-1967-4656-9a49-57c89da64668",
+      "memory": "Joachim Löw is associated with the sport of association football.",
+      "hash": "4ad88c6244df1769730ff03f2714d345",
+      "metadata": {
+        "ordinal": 2688,
+        "triple": {
+          "subject_id": "joachim_löw",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "Joachim Löw",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4065082743477321,
+      "created_at": "2026-07-04T05:25:05.678072-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6cfea9a3-489b-4ec6-b261-c000134d8220",
+      "memory": "Hope Solo plays the position of goalkeeper.",
+      "hash": "b73365f974ea5afb85d6efd66b260841",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "hope_solo",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Hope Solo",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4049737686782221,
+      "created_at": "2026-07-04T05:24:05.416234-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9ec259c4-aa86-40db-9afd-75385c4c432c",
+      "memory": "Max Scherzer plays the position of starting pitcher.",
+      "hash": "10cd7aa5c32ecb4267e34250a4fb6f82",
+      "metadata": {
+        "ordinal": 3264,
+        "triple": {
+          "subject_id": "max_scherzer",
+          "predicate_norm": "plays position",
+          "object_text": "starting pitcher",
+          "confidence": 0.95,
+          "subject_raw": "Max Scherzer",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4034050399205303,
+      "created_at": "2026-07-04T05:25:18.501142-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d19370e-86ef-4af1-9204-11c00b125566",
+      "memory": "Nigel Adkins plays the position of goalkeeper.",
+      "hash": "cc8144e5ed566fe5715de42e69d1cc57",
+      "metadata": {
+        "ordinal": 239,
+        "triple": {
+          "subject_id": "nigel_adkins",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Nigel Adkins",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.40068185711769355,
+      "created_at": "2026-07-04T05:24:08.310721-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6ddf8cdf-d261-4afd-97b1-c3dc9a69ea2b",
+      "memory": "Simon Mignolet plays the position of midfielder.",
+      "hash": "eb0cc8f56de70a43bcd9697efca4c55c",
+      "metadata": {
+        "ordinal": 1705,
+        "triple": {
+          "subject_id": "simon_mignolet",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Simon Mignolet",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.40000513095489076,
+      "created_at": "2026-07-04T05:24:41.538635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e89a520c-bd68-4e73-8a34-e68b6c4096c9",
+      "memory": "Cesc Fàbregas plays the position of quarterback.",
+      "hash": "174b9fcfcd778c63e0e980865e3344da",
+      "metadata": {
+        "ordinal": 4441,
+        "triple": {
+          "subject_id": "cesc_fàbregas",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Cesc Fàbregas",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3992780748879155,
+      "created_at": "2026-07-04T05:25:46.761843-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8b425084-00af-4195-b371-d583089413c5",
+      "memory": "David Seaman plays the position of midfielder.",
+      "hash": "7f89423d84522418cce6366f9e0655ee",
+      "metadata": {
+        "ordinal": 4112,
+        "triple": {
+          "subject_id": "david_seaman",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "David Seaman",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3987514550533321,
+      "created_at": "2026-07-04T05:25:39.204000-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "06946c16-f5a9-42dc-bc6e-b115d482434d",
+      "memory": "Cole Aldrich plays the position of goalkeeper.",
+      "hash": "8c6b67886e17671ab75bb870068cc152",
+      "metadata": {
+        "ordinal": 3952,
+        "triple": {
+          "subject_id": "cole_aldrich",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.9,
+          "subject_raw": "Cole Aldrich",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3955303989519472,
+      "created_at": "2026-07-04T05:25:34.220062-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cbd9aad9-95e1-47be-b93b-c17c5acc1464",
+      "memory": "Andrés Iniesta plays the position of quarterback.",
+      "hash": "d5fba6d677046a89c131705182b19a3d",
+      "metadata": {
+        "ordinal": 1006,
+        "triple": {
+          "subject_id": "andrés_iniesta",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Andrés Iniesta",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3909699036782423,
+      "created_at": "2026-07-04T05:24:25.361108-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ba5f5cbd-96c3-47eb-99b7-e143fdf9cc82",
+      "memory": "Andrea Pirlo plays the position of midfielder.",
+      "hash": "d34de3be8a12d1ca5dae4f0d4fb35733",
+      "metadata": {
+        "ordinal": 2433,
+        "triple": {
+          "subject_id": "andrea_pirlo",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Andrea Pirlo",
+          "predicate_raw": "plays the position"
+        }
+      },
+      "score": 0.38890532593699123,
+      "created_at": "2026-07-04T05:24:59.108930-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7b593777-f7a4-435a-8269-031d669252ac",
+      "memory": "Juninho Paulista plays the position of midfielder.",
+      "hash": "a90263ddf39024cb033e810450f065f6",
+      "metadata": {
+        "ordinal": 656,
+        "triple": {
+          "subject_id": "juninho_paulista",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Juninho Paulista",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3820074847484964,
+      "created_at": "2026-07-04T05:24:17.393996-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5f5ca30a-174f-4621-af28-9ac12803e841",
+      "memory": "Bob Lanier plays the position of goaltender.",
+      "hash": "7972cb11730c49eb5f87ebd866142bdb",
+      "metadata": {
+        "ordinal": 4154,
+        "triple": {
+          "subject_id": "bob_lanier",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Bob Lanier",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3810110382153037,
+      "created_at": "2026-07-04T05:25:39.852160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "24d8f342-d985-49a8-bf80-b9bd9804b365",
+      "memory": "Brad Friedel plays the position of defender.",
+      "hash": "2ccba8e6f4e2755b9312f9fc29e0d589",
+      "metadata": {
+        "ordinal": 3783,
+        "triple": {
+          "subject_id": "brad_friedel",
+          "predicate_norm": "plays position",
+          "object_text": "defender",
+          "confidence": 0.95,
+          "subject_raw": "Brad Friedel",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.38061084863161754,
+      "created_at": "2026-07-04T05:25:30.591538-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fe9a95c2-857e-496c-9cbe-25561c5808cb",
+      "memory": "Thiago Alcântara plays the position of midfielder.",
+      "hash": "e475e75e6c226b4b6dfd03071ac3901d",
+      "metadata": {
+        "ordinal": 4452,
+        "triple": {
+          "subject_id": "thiago_alcântara",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Thiago Alcântara",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3793356237190923,
+      "created_at": "2026-07-04T05:25:46.776197-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "22ff3bbc-f78f-4869-bde5-7b5175c26417",
+      "memory": "Andrés Iniesta plays the position of midfielder.",
+      "hash": "533f130752edd33f16fdc2b76c949d84",
+      "metadata": {
+        "ordinal": 210,
+        "triple": {
+          "subject_id": "andrés_iniesta",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Andrés Iniesta",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.379277337355612,
+      "created_at": "2026-07-04T05:24:07.609692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "66a2b379-119d-485c-96aa-1263bfee7f3c",
+      "memory": "Shinji Kagawa plays the position of linebacker.",
+      "hash": "516a3b34a812e73d7b7581b27c246669",
+      "metadata": {
+        "ordinal": 1708,
+        "triple": {
+          "subject_id": "shinji_kagawa",
+          "predicate_norm": "plays position",
+          "object_text": "linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Shinji Kagawa",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.37714486875837483,
+      "created_at": "2026-07-04T05:24:41.542010-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "449974bf-07c2-4d5f-85d6-394ef52f0514",
+      "memory": "Rafael van der Vaart plays the position of midfielder.",
+      "hash": "92e43d36f9ec433116ae72c2a42b5e3b",
+      "metadata": {
+        "ordinal": 2076,
+        "triple": {
+          "subject_id": "rafael_van_der_vaart",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Rafael van der Vaart",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3748961113500453,
+      "created_at": "2026-07-04T05:24:50.460436-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a56b5fdb-4b9f-4559-a692-9bb3277042a6",
+      "memory": "Henry Burris plays the position of defender.",
+      "hash": "be585e45a5d6fa26bd27663f31600340",
+      "metadata": {
+        "ordinal": 2952,
+        "triple": {
+          "subject_id": "henry_burris",
+          "predicate_norm": "plays",
+          "object_text": "the position of defender",
+          "confidence": 0.95,
+          "subject_raw": "Henry Burris",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.3743829912991081,
+      "created_at": "2026-07-04T05:25:11.101117-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5bf9b980-1157-4eb3-be3b-e3752f5cb026",
+      "memory": "Goalkeeper is associated with the sport of Gaelic football.",
+      "hash": "2905857adea12c500c4697fa703c857d",
+      "metadata": {
+        "ordinal": 2893,
+        "triple": {
+          "subject_id": "gaelic_football",
+          "predicate_norm": "has association with",
+          "object_text": "Goalkeeper",
+          "confidence": 0.9,
+          "subject_raw": "Gaelic football",
+          "predicate_raw": "has association with"
+        }
+      },
+      "score": 0.37105945909771076,
+      "created_at": "2026-07-04T05:25:10.196680-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5e882150-9c5e-4e2c-a259-dc8debcd7b61",
+      "memory": "Cesc Fàbregas plays the position of midfielder.",
+      "hash": "4811bba2cf223918117e42f012a33117",
+      "metadata": {
+        "ordinal": 3930,
+        "triple": {
+          "subject_id": "cesc_fàbregas",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Cesc Fàbregas",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.37062236605545307,
+      "created_at": "2026-07-04T05:25:33.373860-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8abfc6f5-88b8-4eb4-80f3-01347dfbaa30",
+      "memory": "Patrick Vieira plays the position of midfielder.",
+      "hash": "fcf8df406e39fe018db3f4c7c76e54ee",
+      "metadata": {
+        "ordinal": 1603,
+        "triple": {
+          "subject_id": "patrick_vieira",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Patrick Vieira",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.37022494718511484,
+      "created_at": "2026-07-04T05:24:39.018838-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6c1f1379-ed63-4d7b-9365-13f2233edd32",
+      "memory": "Patrick Vieira plays the position of quarterback.",
+      "hash": "24c6ffedebd2b41ac06cb854b77adde0",
+      "metadata": {
+        "ordinal": 2735,
+        "triple": {
+          "subject_id": "patrick_vieira",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Patrick Vieira",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36959030956519157,
+      "created_at": "2026-07-04T05:25:06.530977-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "89e90902-2c68-4da8-be58-bde08458b7a6",
+      "memory": "Giovani dos Santos plays the position of midfielder.",
+      "hash": "75e204eddad04aa5774b89114bf4a9b2",
+      "metadata": {
+        "ordinal": 2036,
+        "triple": {
+          "subject_id": "giovani_dos_santos",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Giovani dos Santos",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36773791499771324,
+      "created_at": "2026-07-04T05:24:49.648491-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6619dd01-5b5a-4b73-9745-0a733547211c",
+      "memory": "João Moutinho plays the position of midfielder.",
+      "hash": "6dc4c0841f4e44f9ce54c4aba08a0dd3",
+      "metadata": {
+        "ordinal": 679,
+        "triple": {
+          "subject_id": "joão_moutinho",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "João Moutinho",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.367068511097289,
+      "created_at": "2026-07-04T05:24:18.179444-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "12f1fe23-f140-4778-9202-3cfacb5ba3cf",
+      "memory": "Masahiro Tanaka plays the position of midfielder.",
+      "hash": "d07a72079e75c1a8f04c4f1e3d405102",
+      "metadata": {
+        "ordinal": 2330,
+        "triple": {
+          "subject_id": "masahiro_tanaka",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Masahiro Tanaka",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36665314977458774,
+      "created_at": "2026-07-04T05:24:56.386962-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "629d6ece-6992-4ecb-bb72-a63b0a416342",
+      "memory": "Artur Boruc plays the position of midfielder.",
+      "hash": "880913e88b005d73c6576f7d2b466b12",
+      "metadata": {
+        "ordinal": 4375,
+        "triple": {
+          "subject_id": "artur_boruc",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Artur Boruc",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3664314531221823,
+      "created_at": "2026-07-04T05:25:44.993059-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d0623ee1-89a6-4bc8-b587-9511934c6312",
+      "memory": "Vernon Davis plays the position of defensive end.",
+      "hash": "4f7ae7beef59c6b704f2261d0ad5a514",
+      "metadata": {
+        "ordinal": 1056,
+        "triple": {
+          "subject_id": "vernon_davis",
+          "predicate_norm": "plays position",
+          "object_text": "defensive end",
+          "confidence": 0.95,
+          "subject_raw": "Vernon Davis",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3662974197757284,
+      "created_at": "2026-07-04T05:24:26.782225-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a7d8e385-e1b4-4690-b494-a0682a90c13d",
+      "memory": "Sebastian Janikowski plays the position of placekicker.",
+      "hash": "34610b5a24f922352540d090822b450e",
+      "metadata": {
+        "ordinal": 1474,
+        "triple": {
+          "subject_id": "sebastian_janikowski",
+          "predicate_norm": "plays position",
+          "object_text": "placekicker",
+          "confidence": 0.95,
+          "subject_raw": "Sebastian Janikowski",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3659413944619099,
+      "created_at": "2026-07-04T05:24:36.480265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a5a1953f-ec52-4330-bd75-148476bcd75a",
+      "memory": "Wesley Sneijder plays the position of midfielder.",
+      "hash": "67b331a75974d64a959ed60a088389b3",
+      "metadata": {
+        "ordinal": 3518,
+        "triple": {
+          "subject_id": "wesley_sneijder",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Wesley Sneijder",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3656055200134791,
+      "created_at": "2026-07-04T05:25:24.731672-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d568bc6-6526-4786-89af-90a0db6b98fb",
+      "memory": "Nigel Adkins plays the position of defender.",
+      "hash": "44cd5c3be18d4dff6d246982fb82dc7d",
+      "metadata": {
+        "ordinal": 3235,
+        "triple": {
+          "subject_id": "nigel_adkins",
+          "predicate_norm": "plays position",
+          "object_text": "defender",
+          "confidence": 0.95,
+          "subject_raw": "Nigel Adkins",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3650723799257153,
+      "created_at": "2026-07-04T05:25:17.591381-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dcd7d2d3-b1ce-44f0-9fcb-1fb790123321",
+      "memory": "Heurelho Gomes plays the position of second baseman.",
+      "hash": "a3b9477f0af9457f460e612c21c9b16c",
+      "metadata": {
+        "ordinal": 1011,
+        "triple": {
+          "subject_id": "heurelho_gomes",
+          "predicate_norm": "plays position",
+          "object_text": "second baseman",
+          "confidence": 0.95,
+          "subject_raw": "Heurelho Gomes",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3648173455490099,
+      "created_at": "2026-07-04T05:24:25.366993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6d62d5e9-5e6c-455c-adeb-7f317ba9e62f",
+      "memory": "Brad Guzan plays the position of linebacker.",
+      "hash": "8d7c6a7889c52321ff85ec303cb0c042",
+      "metadata": {
+        "ordinal": 4143,
+        "triple": {
+          "subject_id": "brad_guzan",
+          "predicate_norm": "plays position",
+          "object_text": "linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Brad Guzan",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36248025840109827,
+      "created_at": "2026-07-04T05:25:39.839275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5cda88f4-47a0-439f-8932-30f1eb0ed173",
+      "memory": "The name of the current head of the Berlin government is Michael Müller.",
+      "hash": "2cc880dafbc6eba48ffc163966db786b",
+      "metadata": {
+        "ordinal": 3638,
+        "triple": {
+          "subject_id": "berlin",
+          "predicate_norm": "has current head government",
+          "object_text": "Michael Müller",
+          "confidence": 0.9,
+          "subject_raw": "Berlin",
+          "predicate_raw": "has current head of government"
+        }
+      },
+      "score": 0.36192088906590186,
+      "created_at": "2026-07-04T05:25:27.031993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3a1c635d-c199-4ead-a8b8-5c4d07893e1d",
+      "memory": "Nick Swisher plays the position of goaltender.",
+      "hash": "df95baa61962b64190e82ee35b8311ca",
+      "metadata": {
+        "ordinal": 3695,
+        "triple": {
+          "subject_id": "nick_swisher",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Nick Swisher",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36047727628332915,
+      "created_at": "2026-07-04T05:25:28.854152-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "94640c30-c813-47e2-8250-b45d3bfcad78",
+      "memory": "Shinji Kagawa plays the position of midfielder.",
+      "hash": "fba2792baf7974aba5ce466b71c6c207",
+      "metadata": {
+        "ordinal": 1459,
+        "triple": {
+          "subject_id": "shinji_kagawa",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Shinji Kagawa",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.35963231558822856,
+      "created_at": "2026-07-04T05:24:35.458184-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0a897944-9d2c-46a8-845a-0a7c1768efda",
+      "memory": "Darren Fletcher plays the position of cornerback.",
+      "hash": "9dbefbe7ab06419a907cd99ae0061cfe",
+      "metadata": {
+        "ordinal": 3957,
+        "triple": {
+          "subject_id": "darren_fletcher",
+          "predicate_norm": "plays position",
+          "object_text": "cornerback",
+          "confidence": 0.9,
+          "subject_raw": "Darren Fletcher",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3589157228326494,
+      "created_at": "2026-07-04T05:25:34.225848-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4aaeb7f0-056a-4908-a48b-437eb7028c98",
+      "memory": "Mel Daniels plays the position of goaltender.",
+      "hash": "916b25b92a80fa4ac8fff05187614dea",
+      "metadata": {
+        "ordinal": 3760,
+        "triple": {
+          "subject_id": "mel_daniels",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Mel Daniels",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3563403524785403,
+      "created_at": "2026-07-04T05:25:30.561723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "08d41ef4-b5e8-46eb-8fad-bff42402eced",
+      "memory": "Yohan Cabaye plays the position of flanker.",
+      "hash": "a863c5397d6e73d333a9f640497efc5f",
+      "metadata": {
+        "ordinal": 3553,
+        "triple": {
+          "subject_id": "yohan_cabaye",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Yohan Cabaye",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.35331917251784906,
+      "created_at": "2026-07-04T05:25:25.559622-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b54224a7-54b7-4325-acb0-d3931793f2e2",
+      "memory": "Mathieu Flamini plays the position of midfielder.",
+      "hash": "a760b4223e1d9e5c4b942cc8656e355c",
+      "metadata": {
+        "ordinal": 1515,
+        "triple": {
+          "subject_id": "mathieu_flamini",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Mathieu Flamini",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3533030135366302,
+      "created_at": "2026-07-04T05:24:37.190001-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fb00b0e5-653f-44ed-b76d-fe05ff9841a2",
+      "memory": "Kevin De Bruyne plays the position of midfielder.",
+      "hash": "4d628ea25cf0851c41a0ff29694c55c2",
+      "metadata": {
+        "ordinal": 229,
+        "triple": {
+          "subject_id": "kevin_de_bruyne",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Kevin De Bruyne",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3532234761812219,
+      "created_at": "2026-07-04T05:24:08.282254-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d457e5a6-6af6-4c6b-b81d-9d1c0e8be4a7",
+      "memory": "Yohan Cabaye plays the position of midfielder.",
+      "hash": "46b604fa13c5e11d8a19813270658fd5",
+      "metadata": {
+        "ordinal": 2883,
+        "triple": {
+          "subject_id": "yohan_cabaye",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Yohan Cabaye",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.35312075298751133,
+      "created_at": "2026-07-04T05:25:09.472638-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1b523535-dd60-49c4-a36e-6d1f360abf6e",
+      "memory": "Lisa Leslie plays the position of goaltender.",
+      "hash": "93b43b7a147218b633565fe2ea006dff",
+      "metadata": {
+        "ordinal": 2935,
+        "triple": {
+          "subject_id": "lisa_leslie",
+          "predicate_norm": "plays",
+          "object_text": "the position of goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Lisa Leslie",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.3524632610252757,
+      "created_at": "2026-07-04T05:25:11.074162-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a177ce47-0620-42e5-b4c3-eff280d431b1",
+      "memory": "Darren Fletcher plays the position of midfielder.",
+      "hash": "87408ba0d65fa7d96696db94a51ea96d",
+      "metadata": {
+        "ordinal": 154,
+        "triple": {
+          "subject_id": "darren_fletcher",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Darren Fletcher",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3480978744242093,
+      "created_at": "2026-07-04T05:24:06.918837-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "37595de6-80a5-4c62-9916-f64b10db2bb0",
+      "memory": "Vernon Davis plays the position of tight end.",
+      "hash": "57915309226fa0b15e5ce31428557f20",
+      "metadata": {
+        "ordinal": 694,
+        "triple": {
+          "subject_id": "vernon_davis",
+          "predicate_norm": "plays position",
+          "object_text": "tight end",
+          "confidence": 0.95,
+          "subject_raw": "Vernon Davis",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.34731845557856006,
+      "created_at": "2026-07-04T05:24:18.198779-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9cd4fae1-74fb-47ce-a193-7cfbc979eeb3",
+      "memory": "Darryl Dawkins plays the position of goaltender.",
+      "hash": "c23a6892833891ec8a20cfeae46891df",
+      "metadata": {
+        "ordinal": 4268,
+        "triple": {
+          "subject_id": "darryl_dawkins",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Darryl Dawkins",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3452120216609098,
+      "created_at": "2026-07-04T05:25:42.237642-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ca0f3ea7-1124-4637-9d66-2f892f26416e",
+      "memory": "Dikembe Mutombo plays the position of midfielder.",
+      "hash": "a46ad55a90b94644274a020812679631",
+      "metadata": {
+        "ordinal": 2908,
+        "triple": {
+          "subject_id": "dikembe_mutombo",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.9,
+          "subject_raw": "Dikembe Mutombo",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3450957439545401,
+      "created_at": "2026-07-04T05:25:10.223351-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dfe77736-bb30-4632-ae74-e1adc2fc9324",
+      "memory": "José Mourinho plays the position of midfielder.",
+      "hash": "cd901558737cf6be02b3f84aefc7478c",
+      "metadata": {
+        "ordinal": 4295,
+        "triple": {
+          "subject_id": "josé_mourinho",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "José Mourinho",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.34353957178670147,
+      "created_at": "2026-07-04T05:25:42.948492-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "371acd22-2336-4d31-9a2c-ffc063269755",
+      "memory": "Dino Meneghin plays the position of center.",
+      "hash": "6bb2bc76369f397a9cfecbfc97df7390",
+      "metadata": {
+        "ordinal": 2788,
+        "triple": {
+          "subject_id": "dino_meneghin",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Dino Meneghin",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3423526820303112,
+      "created_at": "2026-07-04T05:25:07.906885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "84058e62-e4c8-4efb-bd2a-39f2d61f9b68",
+      "memory": "Paul Pogba plays the position of starting pitcher.",
+      "hash": "e995db28e3f6cf5cf30088321a62a3d7",
+      "metadata": {
+        "ordinal": 4142,
+        "triple": {
+          "subject_id": "paul_pogba",
+          "predicate_norm": "plays position",
+          "object_text": "starting pitcher",
+          "confidence": 0.95,
+          "subject_raw": "Paul Pogba",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3422865381576121,
+      "created_at": "2026-07-04T05:25:39.838045-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cfa9fc83-d257-4ca4-ad5e-dceaa04a5c5d",
+      "memory": "Mike Leake plays the position of midfielder",
+      "hash": "7589199780413975f54e6a99528d2c57",
+      "metadata": {
+        "ordinal": 4418,
+        "triple": {
+          "subject_id": "mike_leake",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Mike Leake",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3416883942337425,
+      "created_at": "2026-07-04T05:25:45.898820-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2e2250b1-ad59-4e73-a0a7-9ff093adf5e4",
+      "memory": "Paul Pogba plays the position of midfielder.",
+      "hash": "72fcef100cfa431744a68cf9348c3bb6",
+      "metadata": {
+        "ordinal": 2942,
+        "triple": {
+          "subject_id": "paul_pogba",
+          "predicate_norm": "plays",
+          "object_text": "the position of midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Paul Pogba",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.3376812716065706,
+      "created_at": "2026-07-04T05:25:11.086246-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f1be0779-c5c3-4efc-a463-a37c21385ecd",
+      "memory": "Drew Brees plays the position of quarterback.",
+      "hash": "2aaae12e289832dde245e31865cad5ed",
+      "metadata": {
+        "ordinal": 4491,
+        "triple": {
+          "subject_id": "drew_brees",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Drew Brees",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3349896843765152,
+      "created_at": "2026-07-04T05:25:48.691192-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d9879949-b116-4581-b045-1591d5c876d8",
+      "memory": "Michael Carrick plays the position of midfielder.",
+      "hash": "4f1a934d05fd32c0202e7d3352435b49",
+      "metadata": {
+        "ordinal": 3947,
+        "triple": {
+          "subject_id": "michael_carrick",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.9,
+          "subject_raw": "Michael Carrick",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3340571700290117,
+      "created_at": "2026-07-04T05:25:34.214090-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1a80a059-54cf-4fae-ba86-13ca84f6d794",
+      "memory": "Ruud Gullit plays the position of midfielder.",
+      "hash": "36502291a8a9f00b74133afb9a208f3c",
+      "metadata": {
+        "ordinal": 4099,
+        "triple": {
+          "subject_id": "ruud_gullit",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Ruud Gullit",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3323509362360631,
+      "created_at": "2026-07-04T05:25:37.784827-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d82327fd-6178-414b-8c72-86cb4e72a47c",
+      "memory": "Sebastian Janikowski plays the position of power forward.",
+      "hash": "7cc68d90fbae1206628b621583cb5809",
+      "metadata": {
+        "ordinal": 3344,
+        "triple": {
+          "subject_id": "sebastian_janikowski",
+          "predicate_norm": "plays position",
+          "object_text": "power forward",
+          "confidence": 0.95,
+          "subject_raw": "Sebastian Janikowski",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3317922892118461,
+      "created_at": "2026-07-04T05:25:19.984953-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9f6e7b0b-520b-482c-a23c-307ae10983b8",
+      "memory": "Blair Walsh plays the position of placekicker.",
+      "hash": "e4cdb97e909050dc39bf83ddf3718544",
+      "metadata": {
+        "ordinal": 1084,
+        "triple": {
+          "subject_id": "blair_walsh",
+          "predicate_norm": "plays position",
+          "object_text": "placekicker",
+          "confidence": 0.95,
+          "subject_raw": "Blair Walsh",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3306327659507274,
+      "created_at": "2026-07-04T05:24:26.813515-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c5edc76-6ed8-4c68-a63a-6001327790f2",
+      "memory": "Kemba Walker plays the position of goaltender.",
+      "hash": "239d28bda4cb69543e58baa1aa4d84ef",
+      "metadata": {
+        "ordinal": 1966,
+        "triple": {
+          "subject_id": "kemba_walker",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Kemba Walker",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3294002870050936,
+      "created_at": "2026-07-04T05:24:47.876684-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "abf8397e-449c-4524-a615-d120e7cb6ba7",
+      "memory": "Jacques Necker is employed by University of Geneva.",
+      "hash": "db2e410f89d31af7244d19d9207a2ebf",
+      "metadata": {
+        "ordinal": 2342,
+        "triple": {
+          "subject_id": "jacques_necker",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Geneva",
+          "confidence": 0.95,
+          "subject_raw": "Jacques Necker",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.32730510941490076,
+      "created_at": "2026-07-04T05:24:57.260271-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a34e88d3-f449-4306-8c15-f4c42ee6add7",
+      "memory": "Nick Folk plays the position of center.",
+      "hash": "8b44bfef3d4824902ed7e93d504a3206",
+      "metadata": {
+        "ordinal": 3254,
+        "triple": {
+          "subject_id": "nick_folk",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Nick Folk",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.32526375113705597,
+      "created_at": "2026-07-04T05:25:18.488460-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5d85628d-1172-4866-909c-f8d39278b9c8",
+      "memory": "Freddie Freeman plays the position of linebacker.",
+      "hash": "909a2c29a5f690ba20e0d12a6b3de0a0",
+      "metadata": {
+        "ordinal": 2431,
+        "triple": {
+          "subject_id": "freddie_freeman",
+          "predicate_norm": "plays position",
+          "object_text": "linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Freddie Freeman",
+          "predicate_raw": "plays the position"
+        }
+      },
+      "score": 0.32359060863919376,
+      "created_at": "2026-07-04T05:24:59.104582-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4ae54064-6704-4b2e-af51-e9ee133ea797",
+      "memory": "Manute Bol plays the position of center.",
+      "hash": "c13fbebad566e9b6506440410c1582d9",
+      "metadata": {
+        "ordinal": 1624,
+        "triple": {
+          "subject_id": "manute_bol",
+          "predicate_norm": "plays",
+          "object_text": "the position of center",
+          "confidence": 0.95,
+          "subject_raw": "Manute Bol",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.3235735917230314,
+      "created_at": "2026-07-04T05:24:39.891618-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "95ae7f08-23df-4944-abc6-7a330bd89dbb",
+      "memory": "Wesley Sneijder plays the position of power forward.",
+      "hash": "e171f2956239c07706a75a215594cb4d",
+      "metadata": {
+        "ordinal": 4016,
+        "triple": {
+          "subject_id": "wesley_sneijder",
+          "predicate_norm": "plays position",
+          "object_text": "power forward",
+          "confidence": 0.95,
+          "subject_raw": "Wesley Sneijder",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.3216596995957225,
+      "created_at": "2026-07-04T05:25:35.890880-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- Manuel Neuer plays the position of linebacker.\n- Jens Lehmann plays the position of goalkeeper.\n- Bastian Schweinsteiger plays the position of quarterback.\n- Manuel Almunia plays the position of goalkeeper.\n- Jens Lehmann plays the position of linebacker.\n- Bastian Schweinsteiger plays the position of midfielder.\n- Toni Kroos plays the position of midfielder.\n- Hugo Lloris plays the position of goalkeeper.\n- Nick Rimando plays the position of goalkeeper.\n- Pepe Reina plays the position of goalkeeper.\n- Heurelho Gomes plays the position of goalkeeper.\n- Giovani dos Santos plays the position of goaltender.\n- Rogério Ceni plays the position of goalkeeper.\n- David Seaman plays the position of goalkeeper.\n- Carlo Cudicini plays the position of goalkeeper.\n- Rafael van der Vaart plays the position of goaltender.\n- Simon Mignolet plays the position of goalkeeper.\n- Max Scherzer plays the position of flanker.\n- Hugo Lloris plays the position of infielder.\n- Bruce Arena plays the position of goalkeeper.\n- Timofey Mozgov plays the position of goalkeeper.\n- Ali Al-Habsi plays the position of goalkeeper.\n- Nigel Martyn plays the position of goalkeeper.\n- Rogério Ceni plays the position of flanker.\n- Brad Friedel plays the position of goalkeeper.\n- Nick Rimando plays the position of flanker.\n- Artur Boruc plays the position of goalkeeper.\n- goalkeeper is associated with the sport of association football.\n- Răzvan Lucescu plays the position of goalkeeper.\n- Brad Guzan plays the position of goalkeeper.\n- The head coach of Germany national football team is Joachim Löw.\n- Gordon Banks plays the position of goalkeeper\n- Kevin De Bruyne plays the position of defender.\n- Neville Southall plays the position of goalkeeper.\n- Dele Alli plays the position of goalkeeper.\n- Zinedine Zidane plays the position of midfielder\n- Pepe Reina plays the position of midfielder.\n- Joachim Löw is associated with the sport of association football.\n- Hope Solo plays the position of goalkeeper.\n- Max Scherzer plays the position of starting pitcher.\n- Nigel Adkins plays the position of goalkeeper.\n- Simon Mignolet plays the position of midfielder.\n- Cesc Fàbregas plays the position of quarterback.\n- David Seaman plays the position of midfielder.\n- Cole Aldrich plays the position of goalkeeper.\n- Andrés Iniesta plays the position of quarterback.\n- Andrea Pirlo plays the position of midfielder.\n- Juninho Paulista plays the position of midfielder.\n- Bob Lanier plays the position of goaltender.\n- Brad Friedel plays the position of defender.\n- Thiago Alcântara plays the position of midfielder.\n- Andrés Iniesta plays the position of midfielder.\n- Shinji Kagawa plays the position of linebacker.\n- Rafael van der Vaart plays the position of midfielder.\n- Henry Burris plays the position of defender.\n- Goalkeeper is associated with the sport of Gaelic football.\n- Cesc Fàbregas plays the position of midfielder.\n- Patrick Vieira plays the position of midfielder.\n- Patrick Vieira plays the position of quarterback.\n- Giovani dos Santos plays the position of midfielder.\n- João Moutinho plays the position of midfielder.\n- Masahiro Tanaka plays the position of midfielder.\n- Artur Boruc plays the position of midfielder.\n- Vernon Davis plays the position of defensive end.\n- Sebastian Janikowski plays the position of placekicker.\n- Wesley Sneijder plays the position of midfielder.\n- Nigel Adkins plays the position of defender.\n- Heurelho Gomes plays the position of second baseman.\n- Brad Guzan plays the position of linebacker.\n- The name of the current head of the Berlin government is Michael Müller.\n- Nick Swisher plays the position of goaltender.\n- Shinji Kagawa plays the position of midfielder.\n- Darren Fletcher plays the position of cornerback.\n- Mel Daniels plays the position of goaltender.\n- Yohan Cabaye plays the position of flanker.\n- Mathieu Flamini plays the position of midfielder.\n- Kevin De Bruyne plays the position of midfielder.\n- Yohan Cabaye plays the position of midfielder.\n- Lisa Leslie plays the position of goaltender.\n- Darren Fletcher plays the position of midfielder.\n- Vernon Davis plays the position of tight end.\n- Darryl Dawkins plays the position of goaltender.\n- Dikembe Mutombo plays the position of midfielder.\n- José Mourinho plays the position of midfielder.\n- Dino Meneghin plays the position of center.\n- Paul Pogba plays the position of starting pitcher.\n- Mike Leake plays the position of midfielder\n- Paul Pogba plays the position of midfielder.\n- Drew Brees plays the position of quarterback.\n- Michael Carrick plays the position of midfielder.\n- Ruud Gullit plays the position of midfielder.\n- Sebastian Janikowski plays the position of power forward.\n- Blair Walsh plays the position of placekicker.\n- Kemba Walker plays the position of goaltender.\n- Jacques Necker is employed by University of Geneva.\n- Nick Folk plays the position of center.\n- Freddie Freeman plays the position of linebacker.\n- Manute Bol plays the position of center.\n- Wesley Sneijder plays the position of power forward.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- Manuel Neuer plays the position of linebacker.\n- Jens Lehmann plays the position of goalkeeper.\n- Bastian Schweinsteiger plays the position of quarterback.\n- Manuel Almunia plays the position of goalkeeper.\n- Jens Lehmann plays the position of linebacker.\n- Bastian Schweinsteiger plays the position of midfielder.\n- Toni Kroos plays the position of midfielder.\n- Hugo Lloris plays the position of goalkeeper.\n- Nick Rimando plays the position of goalkeeper.\n- Pepe Reina plays the position of goalkeeper.\n- Heurelho Gomes plays the position of goalkeeper.\n- Giovani dos Santos plays the position of goaltender.\n- Rogério Ceni plays the position of goalkeeper.\n- David Seaman plays the position of goalkeeper.\n- Carlo Cudicini plays the position of goalkeeper.\n- Rafael van der Vaart plays the position of goaltender.\n- Simon Mignolet plays the position of goalkeeper.\n- Max Scherzer plays the position of flanker.\n- Hugo Lloris plays the position of infielder.\n- Bruce Arena plays the position of goalkeeper.\n- Timofey Mozgov plays the position of goalkeeper.\n- Ali Al-Habsi plays the position of goalkeeper.\n- Nigel Martyn plays the position of goalkeeper.\n- Rogério Ceni plays the position of flanker.\n- Brad Friedel plays the position of goalkeeper.\n- Nick Rimando plays the position of flanker.\n- Artur Boruc plays the position of goalkeeper.\n- goalkeeper is associated with the sport of association football.\n- Răzvan Lucescu plays the position of goalkeeper.\n- Brad Guzan plays the position of goalkeeper.\n- The head coach of Germany national football team is Joachim Löw.\n- Gordon Banks plays the position of goalkeeper\n- Kevin De Bruyne plays the position of defender.\n- Neville Southall plays the position of goalkeeper.\n- Dele Alli plays the position of goalkeeper.\n- Zinedine Zidane plays the position of midfielder\n- Pepe Reina plays the position of midfielder.\n- Joachim Löw is associated with the sport of association football.\n- Hope Solo plays the position of goalkeeper.\n- Max Scherzer plays the position of starting pitcher.\n- Nigel Adkins plays the position of goalkeeper.\n- Simon Mignolet plays the position of midfielder.\n- Cesc Fàbregas plays the position of quarterback.\n- David Seaman plays the position of midfielder.\n- Cole Aldrich plays the position of goalkeeper.\n- Andrés Iniesta plays the position of quarterback.\n- Andrea Pirlo plays the position of midfielder.\n- Juninho Paulista plays the position of midfielder.\n- Bob Lanier plays the position of goaltender.\n- Brad Friedel plays the position of defender.\n- Thiago Alcântara plays the position of midfielder.\n- Andrés Iniesta plays the position of midfielder.\n- Shinji Kagawa plays the position of linebacker.\n- Rafael van der Vaart plays the position of midfielder.\n- Henry Burris plays the position of defender.\n- Goalkeeper is associated with the sport of Gaelic football.\n- Cesc Fàbregas plays the position of midfielder.\n- Patrick Vieira plays the position of midfielder.\n- Patrick Vieira plays the position of quarterback.\n- Giovani dos Santos plays the position of midfielder.\n- João Moutinho plays the position of midfielder.\n- Masahiro Tanaka plays the position of midfielder.\n- Artur Boruc plays the position of midfielder.\n- Vernon Davis plays the position of defensive end.\n- Sebastian Janikowski plays the position of placekicker.\n- Wesley Sneijder plays the position of midfielder.\n- Nigel Adkins plays the position of defender.\n- Heurelho Gomes plays the position of second baseman.\n- Brad Guzan plays the position of linebacker.\n- The name of the current head of the Berlin government is Michael Müller.\n- Nick Swisher plays the position of goaltender.\n- Shinji Kagawa plays the position of midfielder.\n- Darren Fletcher plays the position of cornerback.\n- Mel Daniels plays the position of goaltender.\n- Yohan Cabaye plays the position of flanker.\n- Mathieu Flamini plays the position of midfielder.\n- Kevin De Bruyne plays the position of midfielder.\n- Yohan Cabaye plays the position of midfielder.\n- Lisa Leslie plays the position of goaltender.\n- Darren Fletcher plays the position of midfielder.\n- Vernon Davis plays the position of tight end.\n- Darryl Dawkins plays the position of goaltender.\n- Dikembe Mutombo plays the position of midfielder.\n- José Mourinho plays the position of midfielder.\n- Dino Meneghin plays the position of center.\n- Paul Pogba plays the position of starting pitcher.\n- Mike Leake plays the position of midfielder\n- Paul Pogba plays the position of midfielder.\n- Drew Brees plays the position of quarterback.\n- Michael Carrick plays the position of midfielder.\n- Ruud Gullit plays the position of midfielder.\n- Sebastian Janikowski plays the position of power forward.\n- Blair Walsh plays the position of placekicker.\n- Kemba Walker plays the position of goaltender.\n- Jacques Necker is employed by University of Geneva.\n- Nick Folk plays the position of center.\n- Freddie Freeman plays the position of linebacker.\n- Manute Bol plays the position of center.\n- Wesley Sneijder plays the position of power forward.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, What position does Manuel Neuer play? \nAnswer:\n\nCurrent Time: 2026-07-04 20:31:53",
+  "response": "Answer: linebacker",
+  "prompt_tokens": 1284,
+  "completion_tokens": 3,
+  "resolved_pool": [
+    {
+      "id": "ee128f92-0381-4c15-b760-b2f1fb7aee81",
+      "memory": "Manuel Neuer plays the position of goalkeeper.",
+      "hash": "3b447c4654e7f868f418264372adecad",
+      "metadata": {
+        "ordinal": 1416,
+        "triple": {
+          "subject_id": "manuel_neuer",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Manuel Neuer",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.8432384797330346,
+      "created_at": "2026-07-04T05:24:34.715676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3edd905d-7e8c-481b-95ea-8a03963f86e0",
+      "memory": "Manuel Neuer plays the position of linebacker.",
+      "hash": "19a4c7a40fdd698e69d55848ee63d599",
+      "metadata": {
+        "ordinal": 1621,
+        "triple": {
+          "subject_id": "manuel_neuer",
+          "predicate_norm": "plays",
+          "object_text": "the position of linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Manuel Neuer",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.8183666869269781,
+      "created_at": "2026-07-04T05:24:39.886295-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "13eeafdb-1e6a-433b-8c91-dfb4c5c72477",
+      "memory": "Jens Lehmann plays the position of goalkeeper.",
+      "hash": "a835c4aebc9ea49bd56c43d1f624be7b",
+      "metadata": {
+        "ordinal": 1345,
+        "triple": {
+          "subject_id": "jens_lehmann",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Jens Lehmann",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.5666981514031224,
+      "created_at": "2026-07-04T05:24:33.034778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8eb04be4-05e1-4db8-9707-93bdfd750d8d",
+      "memory": "Bastian Schweinsteiger plays the position of quarterback.",
+      "hash": "41fc720bb543f1bb7ff7838a3d6ca0b6",
+      "metadata": {
+        "ordinal": 4252,
+        "triple": null,
+        "subject_fallback": "bastian_schweinsteiger"
+      },
+      "score": 0.5564295081710212,
+      "created_at": "2026-07-04T05:25:42.219377-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "45159547-4333-4bc8-9630-0f99c5b36c65",
+      "memory": "Manuel Almunia plays the position of goalkeeper.",
+      "hash": "6e42ca9d36bf3e259899792ccf63ad94",
+      "metadata": {
+        "ordinal": 3179,
+        "triple": {
+          "subject_id": "manuel_almunia",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Manuel Almunia",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.5311848105234851,
+      "created_at": "2026-07-04T05:25:16.844886-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0f0f431f-acc6-4383-8343-fd4df31cfcf5",
+      "memory": "Jens Lehmann plays the position of linebacker.",
+      "hash": "e049edeec869f2f094ae3f9725b97ce5",
+      "metadata": {
+        "ordinal": 2516,
+        "triple": {
+          "subject_id": "jens_lehmann",
+          "predicate_norm": "plays position",
+          "object_text": "linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Jens Lehmann",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.5158622649588094,
+      "created_at": "2026-07-04T05:25:01.530755-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "414b05d2-c883-463f-b67f-55ad017f93e0",
+      "memory": "Bastian Schweinsteiger plays the position of midfielder.",
+      "hash": "dc4b0519089a5aad15dd6bbb606fb4e4",
+      "metadata": {
+        "ordinal": 3609,
+        "triple": {
+          "subject_id": "bastian_schweinsteiger",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Bastian Schweinsteiger",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.514792133303996,
+      "created_at": "2026-07-04T05:25:26.426532-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b757c294-731e-4c6d-87f6-d2699a888bf3",
+      "memory": "Toni Kroos plays the position of midfielder.",
+      "hash": "330bf30e1877915943a73f5347cead7b",
+      "metadata": {
+        "ordinal": 2185,
+        "triple": {
+          "subject_id": "toni_kroos",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Toni Kroos",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.5089587584056481,
+      "created_at": "2026-07-04T05:24:53.163903-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d4c5679c-97bc-4f22-a773-90f6a5e1f398",
+      "memory": "Hugo Lloris plays the position of goalkeeper.",
+      "hash": "8f88f0d3709e665ae7db20ef8e068554",
+      "metadata": {
+        "ordinal": 2081,
+        "triple": {
+          "subject_id": "hugo_lloris",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Hugo Lloris",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4917776983907943,
+      "created_at": "2026-07-04T05:24:50.469396-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "411fa48c-eef4-4e0e-af00-4abff29c82c2",
+      "memory": "Nick Rimando plays the position of goalkeeper.",
+      "hash": "e16082d36b0dc2485204b85546acb5bd",
+      "metadata": {
+        "ordinal": 3272,
+        "triple": {
+          "subject_id": "nick_rimando",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Nick Rimando",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4864388505701849,
+      "created_at": "2026-07-04T05:25:18.510718-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ff8e18a3-3dd1-4c19-8659-a7766709cfde",
+      "memory": "Pepe Reina plays the position of goalkeeper.",
+      "hash": "bea13ebf6908528101a7f6b75b7fb744",
+      "metadata": {
+        "ordinal": 3231,
+        "triple": {
+          "subject_id": "pepe_reina",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Pepe Reina",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4832487890320398,
+      "created_at": "2026-07-04T05:25:17.587146-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b07037cb-e98b-43b2-be98-c7f53ac34997",
+      "memory": "Heurelho Gomes plays the position of goalkeeper.",
+      "hash": "cc65e73e1e6470c005204c73f3a156fa",
+      "metadata": {
+        "ordinal": 860,
+        "triple": {
+          "subject_id": "heurelho_gomes",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Heurelho Gomes",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4759062329251202,
+      "created_at": "2026-07-04T05:24:21.390513-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a8580fe1-a338-4045-ac66-9aea169aea76",
+      "memory": "Giovani dos Santos plays the position of goaltender.",
+      "hash": "43024b47c2a8a8e00141b94666bff5fd",
+      "metadata": {
+        "ordinal": 3937,
+        "triple": {
+          "subject_id": "giovani_dos_santos",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.9,
+          "subject_raw": "Giovani dos Santos",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.47006372722595025,
+      "created_at": "2026-07-04T05:25:34.200235-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "acc5e08d-650f-4015-98d0-1eef230698a1",
+      "memory": "Rogério Ceni plays the position of goalkeeper.",
+      "hash": "9456cdbe6e6cb21cf074bf13beaa195a",
+      "metadata": {
+        "ordinal": 1769,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.46819540591774517,
+      "created_at": "2026-07-04T05:24:43.225122-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "faee4ab4-e420-48c1-acbf-55ce181eb163",
+      "memory": "David Seaman plays the position of goalkeeper.",
+      "hash": "954ae221757eb9c3c32c22799bff3d35",
+      "metadata": {
+        "ordinal": 3895,
+        "triple": {
+          "subject_id": "david_seaman",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "David Seaman",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.46047841603321316,
+      "created_at": "2026-07-04T05:25:32.786057-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2ec9c354-eb71-43ec-adbc-0f8d4baa4f5c",
+      "memory": "Carlo Cudicini plays the position of goalkeeper.",
+      "hash": "ce8ed064bf46476f5b67854bebba7482",
+      "metadata": {
+        "ordinal": 3604,
+        "triple": {
+          "subject_id": "carlo_cudicini",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Carlo Cudicini",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.458031541771391,
+      "created_at": "2026-07-04T05:25:26.421214-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e07cf5ef-9787-41f8-b781-701f8caa3874",
+      "memory": "Rafael van der Vaart plays the position of goaltender.",
+      "hash": "902f298f4ecd90e831458b9bf7718bff",
+      "metadata": {
+        "ordinal": 3975,
+        "triple": {
+          "subject_id": "rafael_van_der_vaart",
+          "predicate_norm": "plays",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Rafael van der Vaart",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.4551425849992808,
+      "created_at": "2026-07-04T05:25:35.072139-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a87ac9bd-3e33-4375-9ecb-0e70ca40ada7",
+      "memory": "Simon Mignolet plays the position of goalkeeper.",
+      "hash": "05db9b2af7bd98a2461219f6d0cd9ae4",
+      "metadata": {
+        "ordinal": 168,
+        "triple": {
+          "subject_id": "simon_mignolet",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Simon Mignolet",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4469798561665147,
+      "created_at": "2026-07-04T05:24:06.935808-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "06bef3b0-d9a5-4113-9c0b-85aa35d28f55",
+      "memory": "Max Scherzer plays the position of flanker.",
+      "hash": "dff50a50cb6752fde0be606ae36e38dd",
+      "metadata": {
+        "ordinal": 3451,
+        "triple": {
+          "subject_id": "max_scherzer",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Max Scherzer",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.443254812415762,
+      "created_at": "2026-07-04T05:25:23.048712-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1657d422-c7a6-4c1c-808f-76c083ad850c",
+      "memory": "Hugo Lloris plays the position of infielder.",
+      "hash": "aed5fc6c2eb84860934e83d0596c8428",
+      "metadata": {
+        "ordinal": 2944,
+        "triple": {
+          "subject_id": "hugo_lloris",
+          "predicate_norm": "plays",
+          "object_text": "the position of infielder",
+          "confidence": 0.95,
+          "subject_raw": "Hugo Lloris",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.4409230547010399,
+      "created_at": "2026-07-04T05:25:11.089676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "37eaaf57-32a3-472d-9388-d66e2c4db2dc",
+      "memory": "Bruce Arena plays the position of goalkeeper.",
+      "hash": "e3fef69f993cab17ac95365993205f76",
+      "metadata": {
+        "ordinal": 3023,
+        "triple": {
+          "subject_id": "bruce_arena",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Bruce Arena",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.43993960456856396,
+      "created_at": "2026-07-04T05:25:12.879742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2ad75509-3ebc-4138-8a6b-4e1139ce6bef",
+      "memory": "Timofey Mozgov plays the position of goalkeeper.",
+      "hash": "d2f5a45454133d0900184cf51dde8a10",
+      "metadata": {
+        "ordinal": 3709,
+        "triple": {
+          "subject_id": "timofey_mozgov",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Timofey Mozgov",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4389375154339778,
+      "created_at": "2026-07-04T05:25:28.871994-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a994bd58-03b0-4d88-9151-8b7aa8781453",
+      "memory": "Ali Al-Habsi plays the position of goalkeeper.",
+      "hash": "bc9c8a9aa467f73130bc3c0837ee0afb",
+      "metadata": {
+        "ordinal": 3194,
+        "triple": {
+          "subject_id": "ali_al_habsi",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Ali Al-Habsi",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4369637205800907,
+      "created_at": "2026-07-04T05:25:16.861416-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f1ceb386-65f4-4181-ab7f-3b4763f38a67",
+      "memory": "Nigel Martyn plays the position of goalkeeper.",
+      "hash": "9d94fc94e746ff1805c40aa44d6cc8ff",
+      "metadata": {
+        "ordinal": 836,
+        "triple": {
+          "subject_id": "nigel_martyn",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Nigel Martyn",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4346088137869086,
+      "created_at": "2026-07-04T05:24:21.350279-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1801a92a-38f2-4d91-ab29-1de4bd69bce0",
+      "memory": "Rogério Ceni plays the position of flanker.",
+      "hash": "5c3c579c4a2c2c2185383fc4dff4e2b9",
+      "metadata": {
+        "ordinal": 3597,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.43362980529306316,
+      "created_at": "2026-07-04T05:25:26.412624-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "35af1679-9426-49aa-b9e2-a391a517713c",
+      "memory": "Brad Friedel plays the position of goalkeeper.",
+      "hash": "915daf15049e4dfcf25e8849eef3ad0d",
+      "metadata": {
+        "ordinal": 1182,
+        "triple": {
+          "subject_id": "brad_friedel",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Brad Friedel",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.43037268339962936,
+      "created_at": "2026-07-04T05:24:29.055350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7ba257d1-01fb-4c39-8af1-6141327b56e8",
+      "memory": "Nick Rimando plays the position of flanker.",
+      "hash": "d37627bab8c8f3a59a70847cd0d731bc",
+      "metadata": {
+        "ordinal": 3726,
+        "triple": {
+          "subject_id": "nick_rimando",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Nick Rimando",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4297134128146275,
+      "created_at": "2026-07-04T05:25:29.765061-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7bc18942-3439-4685-8c7b-fc161f48d849",
+      "memory": "Artur Boruc plays the position of goalkeeper.",
+      "hash": "28165cde5f4f19cb13802f65d9d1975d",
+      "metadata": {
+        "ordinal": 992,
+        "triple": {
+          "subject_id": "artur_boruc",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Artur Boruc",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4247014406297488,
+      "created_at": "2026-07-04T05:24:25.344125-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3d3d2897-1740-4ab8-9b6d-802d57850012",
+      "memory": "goalkeeper is associated with the sport of association football.",
+      "hash": "72c079aebefc72959280a65790493212",
+      "metadata": {
+        "ordinal": 1062,
+        "triple": {
+          "subject_id": "goalkeeper",
+          "predicate_norm": "be associated with sport",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "goalkeeper",
+          "predicate_raw": "is associated with the sport of"
+        }
+      },
+      "score": 0.4223808666676784,
+      "created_at": "2026-07-04T05:24:26.788841-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f6d36282-0ed4-4d17-934d-3853a34f351a",
+      "memory": "Răzvan Lucescu plays the position of goalkeeper.",
+      "hash": "cdf56c9d23532405f484d32a098b5b76",
+      "metadata": {
+        "ordinal": 1895,
+        "triple": {
+          "subject_id": "răzvan_lucescu",
+          "predicate_norm": "plays",
+          "object_text": "the position of goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Răzvan Lucescu",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.42207269202610864,
+      "created_at": "2026-07-04T05:24:46.430539-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2910153a-3701-49ff-931d-67cffbbd80d9",
+      "memory": "Brad Guzan plays the position of goalkeeper.",
+      "hash": "b69a67f6f2d3b8886b08a48fc605e309",
+      "metadata": {
+        "ordinal": 2742,
+        "triple": {
+          "subject_id": "brad_guzan",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Brad Guzan",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4204824186825457,
+      "created_at": "2026-07-04T05:25:06.538969-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "49f8831a-6003-4ecc-a225-54a724cf3f34",
+      "memory": "The head coach of Germany national football team is Joachim Löw.",
+      "hash": "594912581c24546687fdb83dbaba2734",
+      "metadata": {
+        "ordinal": 1739,
+        "triple": {
+          "subject_id": "germany_national_football_team",
+          "predicate_norm": "has head coach",
+          "object_text": "Joachim Löw",
+          "confidence": 0.95,
+          "subject_raw": "Germany national football team",
+          "predicate_raw": "has head coach"
+        }
+      },
+      "score": 0.4201225300914212,
+      "created_at": "2026-07-04T05:24:42.482521-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "df6177b1-b47b-493a-9426-6bba1903b936",
+      "memory": "Gordon Banks plays the position of goalkeeper",
+      "hash": "88b6672626c099e7d926c1a25670255e",
+      "metadata": {
+        "ordinal": 541,
+        "triple": {
+          "subject_id": "gordon_banks",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Gordon Banks",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.41229518040538615,
+      "created_at": "2026-07-04T05:24:15.015590-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "71ce5c95-6d39-4693-b55d-4acf70922e50",
+      "memory": "Kevin De Bruyne plays the position of defender.",
+      "hash": "9a935e106203326860713fa1a6c7c675",
+      "metadata": {
+        "ordinal": 4366,
+        "triple": {
+          "subject_id": "kevin_de_bruyne",
+          "predicate_norm": "plays position",
+          "object_text": "defender",
+          "confidence": 0.95,
+          "subject_raw": "Kevin De Bruyne",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.41052945110198574,
+      "created_at": "2026-07-04T05:25:44.975392-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f2704fb1-a9e8-4376-a581-ac4167bc7e9a",
+      "memory": "Neville Southall plays the position of goalkeeper.",
+      "hash": "82283b49ccb955c7475b2dc57d068c54",
+      "metadata": {
+        "ordinal": 974,
+        "triple": {
+          "subject_id": "neville_southall",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Neville Southall",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4102641394028538,
+      "created_at": "2026-07-04T05:24:24.355508-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6bf2b838-d816-436c-aac0-806cdf591d5f",
+      "memory": "Dele Alli plays the position of goalkeeper.",
+      "hash": "66248cb8018d57028e5aabfe9d97eab3",
+      "metadata": {
+        "ordinal": 2281,
+        "triple": {
+          "subject_id": "dele_alli",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Dele Alli",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.40912440420714535,
+      "created_at": "2026-07-04T05:24:55.575325-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "70628dbf-f936-4c8f-8b3f-a81bdd7a7465",
+      "memory": "Zinedine Zidane plays the position of midfielder",
+      "hash": "a5ebfec043252ae174471cdeb270d3c9",
+      "metadata": {
+        "ordinal": 563,
+        "triple": {
+          "subject_id": "zinedine_zidane",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Zinedine Zidane",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4076249948761033,
+      "created_at": "2026-07-04T05:24:15.043348-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1eb40ee6-cf90-480f-8e91-6cb48c863191",
+      "memory": "Pepe Reina plays the position of midfielder.",
+      "hash": "cf80c2122d97a11fd4038e40b3e32b13",
+      "metadata": {
+        "ordinal": 3495,
+        "triple": {
+          "subject_id": "pepe_reina",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Pepe Reina",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.40721127685448116,
+      "created_at": "2026-07-04T05:25:23.916389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6b46b93b-1967-4656-9a49-57c89da64668",
+      "memory": "Joachim Löw is associated with the sport of association football.",
+      "hash": "4ad88c6244df1769730ff03f2714d345",
+      "metadata": {
+        "ordinal": 2688,
+        "triple": {
+          "subject_id": "joachim_löw",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "Joachim Löw",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4065082743477321,
+      "created_at": "2026-07-04T05:25:05.678072-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6cfea9a3-489b-4ec6-b261-c000134d8220",
+      "memory": "Hope Solo plays the position of goalkeeper.",
+      "hash": "b73365f974ea5afb85d6efd66b260841",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "hope_solo",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Hope Solo",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4049737686782221,
+      "created_at": "2026-07-04T05:24:05.416234-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9ec259c4-aa86-40db-9afd-75385c4c432c",
+      "memory": "Max Scherzer plays the position of starting pitcher.",
+      "hash": "10cd7aa5c32ecb4267e34250a4fb6f82",
+      "metadata": {
+        "ordinal": 3264,
+        "triple": {
+          "subject_id": "max_scherzer",
+          "predicate_norm": "plays position",
+          "object_text": "starting pitcher",
+          "confidence": 0.95,
+          "subject_raw": "Max Scherzer",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4034050399205303,
+      "created_at": "2026-07-04T05:25:18.501142-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d19370e-86ef-4af1-9204-11c00b125566",
+      "memory": "Nigel Adkins plays the position of goalkeeper.",
+      "hash": "cc8144e5ed566fe5715de42e69d1cc57",
+      "metadata": {
+        "ordinal": 239,
+        "triple": {
+          "subject_id": "nigel_adkins",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Nigel Adkins",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.40068185711769355,
+      "created_at": "2026-07-04T05:24:08.310721-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6ddf8cdf-d261-4afd-97b1-c3dc9a69ea2b",
+      "memory": "Simon Mignolet plays the position of midfielder.",
+      "hash": "eb0cc8f56de70a43bcd9697efca4c55c",
+      "metadata": {
+        "ordinal": 1705,
+        "triple": {
+          "subject_id": "simon_mignolet",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Simon Mignolet",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.40000513095489076,
+      "created_at": "2026-07-04T05:24:41.538635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e89a520c-bd68-4e73-8a34-e68b6c4096c9",
+      "memory": "Cesc Fàbregas plays the position of quarterback.",
+      "hash": "174b9fcfcd778c63e0e980865e3344da",
+      "metadata": {
+        "ordinal": 4441,
+        "triple": {
+          "subject_id": "cesc_fàbregas",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Cesc Fàbregas",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3992780748879155,
+      "created_at": "2026-07-04T05:25:46.761843-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8b425084-00af-4195-b371-d583089413c5",
+      "memory": "David Seaman plays the position of midfielder.",
+      "hash": "7f89423d84522418cce6366f9e0655ee",
+      "metadata": {
+        "ordinal": 4112,
+        "triple": {
+          "subject_id": "david_seaman",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "David Seaman",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3987514550533321,
+      "created_at": "2026-07-04T05:25:39.204000-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "06946c16-f5a9-42dc-bc6e-b115d482434d",
+      "memory": "Cole Aldrich plays the position of goalkeeper.",
+      "hash": "8c6b67886e17671ab75bb870068cc152",
+      "metadata": {
+        "ordinal": 3952,
+        "triple": {
+          "subject_id": "cole_aldrich",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.9,
+          "subject_raw": "Cole Aldrich",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3955303989519472,
+      "created_at": "2026-07-04T05:25:34.220062-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cbd9aad9-95e1-47be-b93b-c17c5acc1464",
+      "memory": "Andrés Iniesta plays the position of quarterback.",
+      "hash": "d5fba6d677046a89c131705182b19a3d",
+      "metadata": {
+        "ordinal": 1006,
+        "triple": {
+          "subject_id": "andrés_iniesta",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Andrés Iniesta",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3909699036782423,
+      "created_at": "2026-07-04T05:24:25.361108-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ba5f5cbd-96c3-47eb-99b7-e143fdf9cc82",
+      "memory": "Andrea Pirlo plays the position of midfielder.",
+      "hash": "d34de3be8a12d1ca5dae4f0d4fb35733",
+      "metadata": {
+        "ordinal": 2433,
+        "triple": {
+          "subject_id": "andrea_pirlo",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Andrea Pirlo",
+          "predicate_raw": "plays the position"
+        }
+      },
+      "score": 0.38890532593699123,
+      "created_at": "2026-07-04T05:24:59.108930-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7b593777-f7a4-435a-8269-031d669252ac",
+      "memory": "Juninho Paulista plays the position of midfielder.",
+      "hash": "a90263ddf39024cb033e810450f065f6",
+      "metadata": {
+        "ordinal": 656,
+        "triple": {
+          "subject_id": "juninho_paulista",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Juninho Paulista",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3820074847484964,
+      "created_at": "2026-07-04T05:24:17.393996-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5f5ca30a-174f-4621-af28-9ac12803e841",
+      "memory": "Bob Lanier plays the position of goaltender.",
+      "hash": "7972cb11730c49eb5f87ebd866142bdb",
+      "metadata": {
+        "ordinal": 4154,
+        "triple": {
+          "subject_id": "bob_lanier",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Bob Lanier",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3810110382153037,
+      "created_at": "2026-07-04T05:25:39.852160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "24d8f342-d985-49a8-bf80-b9bd9804b365",
+      "memory": "Brad Friedel plays the position of defender.",
+      "hash": "2ccba8e6f4e2755b9312f9fc29e0d589",
+      "metadata": {
+        "ordinal": 3783,
+        "triple": {
+          "subject_id": "brad_friedel",
+          "predicate_norm": "plays position",
+          "object_text": "defender",
+          "confidence": 0.95,
+          "subject_raw": "Brad Friedel",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.38061084863161754,
+      "created_at": "2026-07-04T05:25:30.591538-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fe9a95c2-857e-496c-9cbe-25561c5808cb",
+      "memory": "Thiago Alcântara plays the position of midfielder.",
+      "hash": "e475e75e6c226b4b6dfd03071ac3901d",
+      "metadata": {
+        "ordinal": 4452,
+        "triple": {
+          "subject_id": "thiago_alcântara",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Thiago Alcântara",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3793356237190923,
+      "created_at": "2026-07-04T05:25:46.776197-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "22ff3bbc-f78f-4869-bde5-7b5175c26417",
+      "memory": "Andrés Iniesta plays the position of midfielder.",
+      "hash": "533f130752edd33f16fdc2b76c949d84",
+      "metadata": {
+        "ordinal": 210,
+        "triple": {
+          "subject_id": "andrés_iniesta",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Andrés Iniesta",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.379277337355612,
+      "created_at": "2026-07-04T05:24:07.609692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "66a2b379-119d-485c-96aa-1263bfee7f3c",
+      "memory": "Shinji Kagawa plays the position of linebacker.",
+      "hash": "516a3b34a812e73d7b7581b27c246669",
+      "metadata": {
+        "ordinal": 1708,
+        "triple": {
+          "subject_id": "shinji_kagawa",
+          "predicate_norm": "plays position",
+          "object_text": "linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Shinji Kagawa",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.37714486875837483,
+      "created_at": "2026-07-04T05:24:41.542010-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "449974bf-07c2-4d5f-85d6-394ef52f0514",
+      "memory": "Rafael van der Vaart plays the position of midfielder.",
+      "hash": "92e43d36f9ec433116ae72c2a42b5e3b",
+      "metadata": {
+        "ordinal": 2076,
+        "triple": {
+          "subject_id": "rafael_van_der_vaart",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Rafael van der Vaart",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3748961113500453,
+      "created_at": "2026-07-04T05:24:50.460436-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a56b5fdb-4b9f-4559-a692-9bb3277042a6",
+      "memory": "Henry Burris plays the position of defender.",
+      "hash": "be585e45a5d6fa26bd27663f31600340",
+      "metadata": {
+        "ordinal": 2952,
+        "triple": {
+          "subject_id": "henry_burris",
+          "predicate_norm": "plays",
+          "object_text": "the position of defender",
+          "confidence": 0.95,
+          "subject_raw": "Henry Burris",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.3743829912991081,
+      "created_at": "2026-07-04T05:25:11.101117-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5bf9b980-1157-4eb3-be3b-e3752f5cb026",
+      "memory": "Goalkeeper is associated with the sport of Gaelic football.",
+      "hash": "2905857adea12c500c4697fa703c857d",
+      "metadata": {
+        "ordinal": 2893,
+        "triple": {
+          "subject_id": "gaelic_football",
+          "predicate_norm": "has association with",
+          "object_text": "Goalkeeper",
+          "confidence": 0.9,
+          "subject_raw": "Gaelic football",
+          "predicate_raw": "has association with"
+        }
+      },
+      "score": 0.37105945909771076,
+      "created_at": "2026-07-04T05:25:10.196680-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5e882150-9c5e-4e2c-a259-dc8debcd7b61",
+      "memory": "Cesc Fàbregas plays the position of midfielder.",
+      "hash": "4811bba2cf223918117e42f012a33117",
+      "metadata": {
+        "ordinal": 3930,
+        "triple": {
+          "subject_id": "cesc_fàbregas",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Cesc Fàbregas",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.37062236605545307,
+      "created_at": "2026-07-04T05:25:33.373860-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8abfc6f5-88b8-4eb4-80f3-01347dfbaa30",
+      "memory": "Patrick Vieira plays the position of midfielder.",
+      "hash": "fcf8df406e39fe018db3f4c7c76e54ee",
+      "metadata": {
+        "ordinal": 1603,
+        "triple": {
+          "subject_id": "patrick_vieira",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Patrick Vieira",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.37022494718511484,
+      "created_at": "2026-07-04T05:24:39.018838-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6c1f1379-ed63-4d7b-9365-13f2233edd32",
+      "memory": "Patrick Vieira plays the position of quarterback.",
+      "hash": "24c6ffedebd2b41ac06cb854b77adde0",
+      "metadata": {
+        "ordinal": 2735,
+        "triple": {
+          "subject_id": "patrick_vieira",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Patrick Vieira",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36959030956519157,
+      "created_at": "2026-07-04T05:25:06.530977-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "89e90902-2c68-4da8-be58-bde08458b7a6",
+      "memory": "Giovani dos Santos plays the position of midfielder.",
+      "hash": "75e204eddad04aa5774b89114bf4a9b2",
+      "metadata": {
+        "ordinal": 2036,
+        "triple": {
+          "subject_id": "giovani_dos_santos",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Giovani dos Santos",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36773791499771324,
+      "created_at": "2026-07-04T05:24:49.648491-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6619dd01-5b5a-4b73-9745-0a733547211c",
+      "memory": "João Moutinho plays the position of midfielder.",
+      "hash": "6dc4c0841f4e44f9ce54c4aba08a0dd3",
+      "metadata": {
+        "ordinal": 679,
+        "triple": {
+          "subject_id": "joão_moutinho",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "João Moutinho",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.367068511097289,
+      "created_at": "2026-07-04T05:24:18.179444-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "12f1fe23-f140-4778-9202-3cfacb5ba3cf",
+      "memory": "Masahiro Tanaka plays the position of midfielder.",
+      "hash": "d07a72079e75c1a8f04c4f1e3d405102",
+      "metadata": {
+        "ordinal": 2330,
+        "triple": {
+          "subject_id": "masahiro_tanaka",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Masahiro Tanaka",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36665314977458774,
+      "created_at": "2026-07-04T05:24:56.386962-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "629d6ece-6992-4ecb-bb72-a63b0a416342",
+      "memory": "Artur Boruc plays the position of midfielder.",
+      "hash": "880913e88b005d73c6576f7d2b466b12",
+      "metadata": {
+        "ordinal": 4375,
+        "triple": {
+          "subject_id": "artur_boruc",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Artur Boruc",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3664314531221823,
+      "created_at": "2026-07-04T05:25:44.993059-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d0623ee1-89a6-4bc8-b587-9511934c6312",
+      "memory": "Vernon Davis plays the position of defensive end.",
+      "hash": "4f7ae7beef59c6b704f2261d0ad5a514",
+      "metadata": {
+        "ordinal": 1056,
+        "triple": {
+          "subject_id": "vernon_davis",
+          "predicate_norm": "plays position",
+          "object_text": "defensive end",
+          "confidence": 0.95,
+          "subject_raw": "Vernon Davis",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3662974197757284,
+      "created_at": "2026-07-04T05:24:26.782225-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a7d8e385-e1b4-4690-b494-a0682a90c13d",
+      "memory": "Sebastian Janikowski plays the position of placekicker.",
+      "hash": "34610b5a24f922352540d090822b450e",
+      "metadata": {
+        "ordinal": 1474,
+        "triple": {
+          "subject_id": "sebastian_janikowski",
+          "predicate_norm": "plays position",
+          "object_text": "placekicker",
+          "confidence": 0.95,
+          "subject_raw": "Sebastian Janikowski",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3659413944619099,
+      "created_at": "2026-07-04T05:24:36.480265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a5a1953f-ec52-4330-bd75-148476bcd75a",
+      "memory": "Wesley Sneijder plays the position of midfielder.",
+      "hash": "67b331a75974d64a959ed60a088389b3",
+      "metadata": {
+        "ordinal": 3518,
+        "triple": {
+          "subject_id": "wesley_sneijder",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Wesley Sneijder",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3656055200134791,
+      "created_at": "2026-07-04T05:25:24.731672-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d568bc6-6526-4786-89af-90a0db6b98fb",
+      "memory": "Nigel Adkins plays the position of defender.",
+      "hash": "44cd5c3be18d4dff6d246982fb82dc7d",
+      "metadata": {
+        "ordinal": 3235,
+        "triple": {
+          "subject_id": "nigel_adkins",
+          "predicate_norm": "plays position",
+          "object_text": "defender",
+          "confidence": 0.95,
+          "subject_raw": "Nigel Adkins",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3650723799257153,
+      "created_at": "2026-07-04T05:25:17.591381-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dcd7d2d3-b1ce-44f0-9fcb-1fb790123321",
+      "memory": "Heurelho Gomes plays the position of second baseman.",
+      "hash": "a3b9477f0af9457f460e612c21c9b16c",
+      "metadata": {
+        "ordinal": 1011,
+        "triple": {
+          "subject_id": "heurelho_gomes",
+          "predicate_norm": "plays position",
+          "object_text": "second baseman",
+          "confidence": 0.95,
+          "subject_raw": "Heurelho Gomes",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3648173455490099,
+      "created_at": "2026-07-04T05:24:25.366993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6d62d5e9-5e6c-455c-adeb-7f317ba9e62f",
+      "memory": "Brad Guzan plays the position of linebacker.",
+      "hash": "8d7c6a7889c52321ff85ec303cb0c042",
+      "metadata": {
+        "ordinal": 4143,
+        "triple": {
+          "subject_id": "brad_guzan",
+          "predicate_norm": "plays position",
+          "object_text": "linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Brad Guzan",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36248025840109827,
+      "created_at": "2026-07-04T05:25:39.839275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5cda88f4-47a0-439f-8932-30f1eb0ed173",
+      "memory": "The name of the current head of the Berlin government is Michael Müller.",
+      "hash": "2cc880dafbc6eba48ffc163966db786b",
+      "metadata": {
+        "ordinal": 3638,
+        "triple": {
+          "subject_id": "berlin",
+          "predicate_norm": "has current head government",
+          "object_text": "Michael Müller",
+          "confidence": 0.9,
+          "subject_raw": "Berlin",
+          "predicate_raw": "has current head of government"
+        }
+      },
+      "score": 0.36192088906590186,
+      "created_at": "2026-07-04T05:25:27.031993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3a1c635d-c199-4ead-a8b8-5c4d07893e1d",
+      "memory": "Nick Swisher plays the position of goaltender.",
+      "hash": "df95baa61962b64190e82ee35b8311ca",
+      "metadata": {
+        "ordinal": 3695,
+        "triple": {
+          "subject_id": "nick_swisher",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Nick Swisher",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.36047727628332915,
+      "created_at": "2026-07-04T05:25:28.854152-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "94640c30-c813-47e2-8250-b45d3bfcad78",
+      "memory": "Shinji Kagawa plays the position of midfielder.",
+      "hash": "fba2792baf7974aba5ce466b71c6c207",
+      "metadata": {
+        "ordinal": 1459,
+        "triple": {
+          "subject_id": "shinji_kagawa",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Shinji Kagawa",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.35963231558822856,
+      "created_at": "2026-07-04T05:24:35.458184-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0a897944-9d2c-46a8-845a-0a7c1768efda",
+      "memory": "Darren Fletcher plays the position of cornerback.",
+      "hash": "9dbefbe7ab06419a907cd99ae0061cfe",
+      "metadata": {
+        "ordinal": 3957,
+        "triple": {
+          "subject_id": "darren_fletcher",
+          "predicate_norm": "plays position",
+          "object_text": "cornerback",
+          "confidence": 0.9,
+          "subject_raw": "Darren Fletcher",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3589157228326494,
+      "created_at": "2026-07-04T05:25:34.225848-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4aaeb7f0-056a-4908-a48b-437eb7028c98",
+      "memory": "Mel Daniels plays the position of goaltender.",
+      "hash": "916b25b92a80fa4ac8fff05187614dea",
+      "metadata": {
+        "ordinal": 3760,
+        "triple": {
+          "subject_id": "mel_daniels",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Mel Daniels",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3563403524785403,
+      "created_at": "2026-07-04T05:25:30.561723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "08d41ef4-b5e8-46eb-8fad-bff42402eced",
+      "memory": "Yohan Cabaye plays the position of flanker.",
+      "hash": "a863c5397d6e73d333a9f640497efc5f",
+      "metadata": {
+        "ordinal": 3553,
+        "triple": {
+          "subject_id": "yohan_cabaye",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Yohan Cabaye",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.35331917251784906,
+      "created_at": "2026-07-04T05:25:25.559622-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b54224a7-54b7-4325-acb0-d3931793f2e2",
+      "memory": "Mathieu Flamini plays the position of midfielder.",
+      "hash": "a760b4223e1d9e5c4b942cc8656e355c",
+      "metadata": {
+        "ordinal": 1515,
+        "triple": {
+          "subject_id": "mathieu_flamini",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Mathieu Flamini",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3533030135366302,
+      "created_at": "2026-07-04T05:24:37.190001-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fb00b0e5-653f-44ed-b76d-fe05ff9841a2",
+      "memory": "Kevin De Bruyne plays the position of midfielder.",
+      "hash": "4d628ea25cf0851c41a0ff29694c55c2",
+      "metadata": {
+        "ordinal": 229,
+        "triple": {
+          "subject_id": "kevin_de_bruyne",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Kevin De Bruyne",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3532234761812219,
+      "created_at": "2026-07-04T05:24:08.282254-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d457e5a6-6af6-4c6b-b81d-9d1c0e8be4a7",
+      "memory": "Yohan Cabaye plays the position of midfielder.",
+      "hash": "46b604fa13c5e11d8a19813270658fd5",
+      "metadata": {
+        "ordinal": 2883,
+        "triple": {
+          "subject_id": "yohan_cabaye",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Yohan Cabaye",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.35312075298751133,
+      "created_at": "2026-07-04T05:25:09.472638-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1b523535-dd60-49c4-a36e-6d1f360abf6e",
+      "memory": "Lisa Leslie plays the position of goaltender.",
+      "hash": "93b43b7a147218b633565fe2ea006dff",
+      "metadata": {
+        "ordinal": 2935,
+        "triple": {
+          "subject_id": "lisa_leslie",
+          "predicate_norm": "plays",
+          "object_text": "the position of goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Lisa Leslie",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.3524632610252757,
+      "created_at": "2026-07-04T05:25:11.074162-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a177ce47-0620-42e5-b4c3-eff280d431b1",
+      "memory": "Darren Fletcher plays the position of midfielder.",
+      "hash": "87408ba0d65fa7d96696db94a51ea96d",
+      "metadata": {
+        "ordinal": 154,
+        "triple": {
+          "subject_id": "darren_fletcher",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Darren Fletcher",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3480978744242093,
+      "created_at": "2026-07-04T05:24:06.918837-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "37595de6-80a5-4c62-9916-f64b10db2bb0",
+      "memory": "Vernon Davis plays the position of tight end.",
+      "hash": "57915309226fa0b15e5ce31428557f20",
+      "metadata": {
+        "ordinal": 694,
+        "triple": {
+          "subject_id": "vernon_davis",
+          "predicate_norm": "plays position",
+          "object_text": "tight end",
+          "confidence": 0.95,
+          "subject_raw": "Vernon Davis",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.34731845557856006,
+      "created_at": "2026-07-04T05:24:18.198779-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9cd4fae1-74fb-47ce-a193-7cfbc979eeb3",
+      "memory": "Darryl Dawkins plays the position of goaltender.",
+      "hash": "c23a6892833891ec8a20cfeae46891df",
+      "metadata": {
+        "ordinal": 4268,
+        "triple": {
+          "subject_id": "darryl_dawkins",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Darryl Dawkins",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3452120216609098,
+      "created_at": "2026-07-04T05:25:42.237642-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ca0f3ea7-1124-4637-9d66-2f892f26416e",
+      "memory": "Dikembe Mutombo plays the position of midfielder.",
+      "hash": "a46ad55a90b94644274a020812679631",
+      "metadata": {
+        "ordinal": 2908,
+        "triple": {
+          "subject_id": "dikembe_mutombo",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.9,
+          "subject_raw": "Dikembe Mutombo",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3450957439545401,
+      "created_at": "2026-07-04T05:25:10.223351-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dfe77736-bb30-4632-ae74-e1adc2fc9324",
+      "memory": "José Mourinho plays the position of midfielder.",
+      "hash": "cd901558737cf6be02b3f84aefc7478c",
+      "metadata": {
+        "ordinal": 4295,
+        "triple": {
+          "subject_id": "josé_mourinho",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "José Mourinho",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.34353957178670147,
+      "created_at": "2026-07-04T05:25:42.948492-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "371acd22-2336-4d31-9a2c-ffc063269755",
+      "memory": "Dino Meneghin plays the position of center.",
+      "hash": "6bb2bc76369f397a9cfecbfc97df7390",
+      "metadata": {
+        "ordinal": 2788,
+        "triple": {
+          "subject_id": "dino_meneghin",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Dino Meneghin",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3423526820303112,
+      "created_at": "2026-07-04T05:25:07.906885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "84058e62-e4c8-4efb-bd2a-39f2d61f9b68",
+      "memory": "Paul Pogba plays the position of starting pitcher.",
+      "hash": "e995db28e3f6cf5cf30088321a62a3d7",
+      "metadata": {
+        "ordinal": 4142,
+        "triple": {
+          "subject_id": "paul_pogba",
+          "predicate_norm": "plays position",
+          "object_text": "starting pitcher",
+          "confidence": 0.95,
+          "subject_raw": "Paul Pogba",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3422865381576121,
+      "created_at": "2026-07-04T05:25:39.838045-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cfa9fc83-d257-4ca4-ad5e-dceaa04a5c5d",
+      "memory": "Mike Leake plays the position of midfielder",
+      "hash": "7589199780413975f54e6a99528d2c57",
+      "metadata": {
+        "ordinal": 4418,
+        "triple": {
+          "subject_id": "mike_leake",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Mike Leake",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3416883942337425,
+      "created_at": "2026-07-04T05:25:45.898820-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2e2250b1-ad59-4e73-a0a7-9ff093adf5e4",
+      "memory": "Paul Pogba plays the position of midfielder.",
+      "hash": "72fcef100cfa431744a68cf9348c3bb6",
+      "metadata": {
+        "ordinal": 2942,
+        "triple": {
+          "subject_id": "paul_pogba",
+          "predicate_norm": "plays",
+          "object_text": "the position of midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Paul Pogba",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.3376812716065706,
+      "created_at": "2026-07-04T05:25:11.086246-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f1be0779-c5c3-4efc-a463-a37c21385ecd",
+      "memory": "Drew Brees plays the position of quarterback.",
+      "hash": "2aaae12e289832dde245e31865cad5ed",
+      "metadata": {
+        "ordinal": 4491,
+        "triple": {
+          "subject_id": "drew_brees",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Drew Brees",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3349896843765152,
+      "created_at": "2026-07-04T05:25:48.691192-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d9879949-b116-4581-b045-1591d5c876d8",
+      "memory": "Michael Carrick plays the position of midfielder.",
+      "hash": "4f1a934d05fd32c0202e7d3352435b49",
+      "metadata": {
+        "ordinal": 3947,
+        "triple": {
+          "subject_id": "michael_carrick",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.9,
+          "subject_raw": "Michael Carrick",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3340571700290117,
+      "created_at": "2026-07-04T05:25:34.214090-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1a80a059-54cf-4fae-ba86-13ca84f6d794",
+      "memory": "Ruud Gullit plays the position of midfielder.",
+      "hash": "36502291a8a9f00b74133afb9a208f3c",
+      "metadata": {
+        "ordinal": 4099,
+        "triple": {
+          "subject_id": "ruud_gullit",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Ruud Gullit",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3323509362360631,
+      "created_at": "2026-07-04T05:25:37.784827-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d82327fd-6178-414b-8c72-86cb4e72a47c",
+      "memory": "Sebastian Janikowski plays the position of power forward.",
+      "hash": "7cc68d90fbae1206628b621583cb5809",
+      "metadata": {
+        "ordinal": 3344,
+        "triple": {
+          "subject_id": "sebastian_janikowski",
+          "predicate_norm": "plays position",
+          "object_text": "power forward",
+          "confidence": 0.95,
+          "subject_raw": "Sebastian Janikowski",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3317922892118461,
+      "created_at": "2026-07-04T05:25:19.984953-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9f6e7b0b-520b-482c-a23c-307ae10983b8",
+      "memory": "Blair Walsh plays the position of placekicker.",
+      "hash": "e4cdb97e909050dc39bf83ddf3718544",
+      "metadata": {
+        "ordinal": 1084,
+        "triple": {
+          "subject_id": "blair_walsh",
+          "predicate_norm": "plays position",
+          "object_text": "placekicker",
+          "confidence": 0.95,
+          "subject_raw": "Blair Walsh",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3306327659507274,
+      "created_at": "2026-07-04T05:24:26.813515-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c5edc76-6ed8-4c68-a63a-6001327790f2",
+      "memory": "Kemba Walker plays the position of goaltender.",
+      "hash": "239d28bda4cb69543e58baa1aa4d84ef",
+      "metadata": {
+        "ordinal": 1966,
+        "triple": {
+          "subject_id": "kemba_walker",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Kemba Walker",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3294002870050936,
+      "created_at": "2026-07-04T05:24:47.876684-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "abf8397e-449c-4524-a615-d120e7cb6ba7",
+      "memory": "Jacques Necker is employed by University of Geneva.",
+      "hash": "db2e410f89d31af7244d19d9207a2ebf",
+      "metadata": {
+        "ordinal": 2342,
+        "triple": {
+          "subject_id": "jacques_necker",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Geneva",
+          "confidence": 0.95,
+          "subject_raw": "Jacques Necker",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.32730510941490076,
+      "created_at": "2026-07-04T05:24:57.260271-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a34e88d3-f449-4306-8c15-f4c42ee6add7",
+      "memory": "Nick Folk plays the position of center.",
+      "hash": "8b44bfef3d4824902ed7e93d504a3206",
+      "metadata": {
+        "ordinal": 3254,
+        "triple": {
+          "subject_id": "nick_folk",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Nick Folk",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.32526375113705597,
+      "created_at": "2026-07-04T05:25:18.488460-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5d85628d-1172-4866-909c-f8d39278b9c8",
+      "memory": "Freddie Freeman plays the position of linebacker.",
+      "hash": "909a2c29a5f690ba20e0d12a6b3de0a0",
+      "metadata": {
+        "ordinal": 2431,
+        "triple": {
+          "subject_id": "freddie_freeman",
+          "predicate_norm": "plays position",
+          "object_text": "linebacker",
+          "confidence": 0.95,
+          "subject_raw": "Freddie Freeman",
+          "predicate_raw": "plays the position"
+        }
+      },
+      "score": 0.32359060863919376,
+      "created_at": "2026-07-04T05:24:59.104582-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4ae54064-6704-4b2e-af51-e9ee133ea797",
+      "memory": "Manute Bol plays the position of center.",
+      "hash": "c13fbebad566e9b6506440410c1582d9",
+      "metadata": {
+        "ordinal": 1624,
+        "triple": {
+          "subject_id": "manute_bol",
+          "predicate_norm": "plays",
+          "object_text": "the position of center",
+          "confidence": 0.95,
+          "subject_raw": "Manute Bol",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.3235735917230314,
+      "created_at": "2026-07-04T05:24:39.891618-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "95ae7f08-23df-4944-abc6-7a330bd89dbb",
+      "memory": "Wesley Sneijder plays the position of power forward.",
+      "hash": "e171f2956239c07706a75a215594cb4d",
+      "metadata": {
+        "ordinal": 4016,
+        "triple": {
+          "subject_id": "wesley_sneijder",
+          "predicate_norm": "plays position",
+          "object_text": "power forward",
+          "confidence": 0.95,
+          "subject_raw": "Wesley Sneijder",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.3216596995957225,
+      "created_at": "2026-07-04T05:25:35.890880-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ]
+}

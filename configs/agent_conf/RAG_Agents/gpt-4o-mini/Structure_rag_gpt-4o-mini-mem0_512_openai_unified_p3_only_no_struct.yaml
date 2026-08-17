@@ -1,0 +1,37 @@
+# gpt-4o-mini mem0 — P3 LLM identity ONLY, no (S,P) structural routing (2026-07-01).
+# Ablation: MEM0_STRUCTURAL_SKIP=1 + MEM0_P5_SKIP=1
+#   - All top-100 candidates go into dynamic_pool (no (S,P) partitioning)
+#   - P3 LLM identity clustering resolves identity across full retrieval
+#   - argmax on every group (no P5 conflict-type classification)
+# Head-to-head vs ours_struct (pure structural) for apple-to-apple
+# "structural grounding vs LLM semantic identity" comparison.
+agent_name: Structure_rag_gpt-4o-mini-mem0_512_openai_unified_p3_only_no_struct
+model: gpt-4o-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-unified_p3_only_no_struct
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-4o-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_p3_only_no_struct
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_p3_only_no_struct
+      on_disk: true
+  use_unified_extractor: true

@@ -1,0 +1,36 @@
+# gpt-5.4 mem0 — UNIFIED extraction + mem0 DESTRUCTIVE write (ablation b) (2026-06-24).
+# Identical to the phase2 config EXCEPT: (a) extraction uses our converged
+# unified extractor (use_unified_extractor) instead of the FC-overfit L2 prompt;
+# (b) isolated qdrant store + output_dir. Phase-2 memory behavior (conservative
+# ADD + (S,P) triple at write, group + temporal resolve at query) is gated by env
+# vars in the launch script.
+agent_name: Structure_rag_gpt-5.4-mem0_512_openai_unified_dest
+model: gpt-5.4
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-5.4-mem0-chunk512-temp0-openai-unified_dest
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-5.4
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_dest
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_dest
+      on_disk: true
+  use_unified_extractor: true

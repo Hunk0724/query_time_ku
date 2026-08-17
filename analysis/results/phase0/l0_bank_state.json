@@ -1,0 +1,100 @@
+{
+  "ours|6k": {
+    "n": 74,
+    "n_facts": 455,
+    "L0": {
+      "both": 74
+    }
+  },
+  "ours|32k": {
+    "n": 65,
+    "n_facts": 2309,
+    "L0": {
+      "both": 64,
+      "neither": 1
+    }
+  },
+  "ours|64k": {
+    "n": 66,
+    "n_facts": 4570,
+    "L0": {
+      "both": 63,
+      "neither": 3
+    }
+  },
+  "ours|262k": {
+    "n": 77,
+    "n_facts": 18324,
+    "L0": {
+      "neither": 5,
+      "both": 71,
+      "old_only": 1
+    }
+  },
+  "(b)mem0+P1|6k": {
+    "n": 74,
+    "n_facts": 219,
+    "L0": {
+      "new_only": 29,
+      "neither": 22,
+      "both": 9,
+      "old_only": 14
+    }
+  },
+  "(b)mem0+P1|32k": {
+    "n": 65,
+    "n_facts": 1162,
+    "L0": {
+      "new_only": 25,
+      "old_only": 11,
+      "neither": 22,
+      "both": 7
+    }
+  },
+  "(b)mem0+P1|64k": {
+    "n": 66,
+    "n_facts": 2076,
+    "L0": {
+      "old_only": 14,
+      "neither": 25,
+      "new_only": 23,
+      "both": 4
+    }
+  },
+  "(b)mem0+P1|262k": {
+    "n": 77,
+    "n_facts": 1619,
+    "L0": {
+      "neither": 67,
+      "old_only": 10
+    }
+  },
+  "(a)vanilla|6k": {
+    "n": 74,
+    "n_facts": 0,
+    "L0": {
+      "neither": 74
+    }
+  },
+  "(a)vanilla|32k": {
+    "n": 65,
+    "n_facts": 0,
+    "L0": {
+      "neither": 65
+    }
+  },
+  "(a)vanilla|64k": {
+    "n": 66,
+    "n_facts": 0,
+    "L0": {
+      "neither": 66
+    }
+  },
+  "(a)vanilla|262k": {
+    "n": 77,
+    "n_facts": 0,
+    "L0": {
+      "neither": 77
+    }
+  }
+}

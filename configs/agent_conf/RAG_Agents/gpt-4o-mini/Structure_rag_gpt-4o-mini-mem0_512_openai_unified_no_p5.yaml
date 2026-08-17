@@ -1,0 +1,40 @@
+# gpt-4o-mini mem0 — UNIFIED EXTRACTOR + phase2 - P5 (ablation, 2026-07-01).
+# Same as unified.yaml + phase2 flow, BUT env MEM0_P5_SKIP=1 forces every
+# group (structural_pool + P3 LLM clusters) to argmax ordinal, regardless of
+# P5 conflict-type classification. Isolates P3 (LLM identity grouping)
+# contribution from P5 in FC world-fact + counter-factual scenarios where
+# ~all real conflicts are FRESHNESS by construction.
+#
+# Compare against:
+#   - ours_struct (no P3, no P5, pure (S,P) + argmax)  -> reveals P3's LLM upside
+#   - ours full   (P3 + P5)                              -> reveals P5's net effect
+agent_name: Structure_rag_gpt-4o-mini-mem0_512_openai_unified_no_p5
+model: gpt-4o-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-unified_no_p5
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-4o-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_no_p5
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_no_p5
+      on_disk: true
+  use_unified_extractor: true

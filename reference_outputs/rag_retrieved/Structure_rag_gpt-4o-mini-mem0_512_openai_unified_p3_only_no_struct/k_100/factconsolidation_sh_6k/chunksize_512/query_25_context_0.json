@@ -1,0 +1,3929 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "47e16921-a6d0-4621-af2a-460d6e252317",
+      "memory": "The capital of Tang Empire is Chang'an",
+      "hash": "471e615f8157715b53f02b4b84936531",
+      "metadata": {
+        "ordinal": 21,
+        "triple": {
+          "subject_id": "tang_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Chang'an",
+          "confidence": 0.95,
+          "subject_raw": "Tang Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.8114714752364693,
+      "created_at": "2026-07-04T05:06:57.947370-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e85f847f-2e6b-4681-82de-3ea5d6252850",
+      "memory": "The capital of Tang Empire is Beaumont.",
+      "hash": "25dc6ddad202a2e5adce706accc47161",
+      "metadata": {
+        "ordinal": 177,
+        "triple": {
+          "subject_id": "tang_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Beaumont",
+          "confidence": 0.95,
+          "subject_raw": "Tang Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.806546686398046,
+      "created_at": "2026-07-04T05:07:02.254879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d70c0af0-9bde-4a49-acb3-6905776fe78c",
+      "memory": "Ernst Heinkel is a citizen of Tang Empire.",
+      "hash": "04e6913e6ea6fe86133cdb75eac9223a",
+      "metadata": {
+        "ordinal": 203,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Tang Empire",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4529103553106708,
+      "created_at": "2026-07-04T05:07:03.333519-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f1f4671b-bbfc-46a0-a553-30f93d591408",
+      "memory": "The capital of Japan is Tokyo.",
+      "hash": "11f50e3271207fcdacec5e0d9ba0951d",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "has capital",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.4105758496286413,
+      "created_at": "2026-07-04T05:07:00.483787-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20bedcfa-dfde-4e73-bbe8-9b16e351499d",
+      "memory": "The capital of England is London.",
+      "hash": "9d8590534963315a4c324a3bfb0d89aa",
+      "metadata": {
+        "ordinal": 378,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.4066520646168434,
+      "created_at": "2026-07-04T05:07:06.669761-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "855ab2cd-d226-43f7-8e4f-85f664ae2ba8",
+      "memory": "The capital of Iran is Tehran.",
+      "hash": "0f11db15ad83c3637bfdb7538a091c20",
+      "metadata": {
+        "ordinal": 255,
+        "triple": {
+          "subject_id": "iran",
+          "predicate_norm": "has capital",
+          "object_text": "Tehran",
+          "confidence": 0.95,
+          "subject_raw": "Iran",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3825925911697676,
+      "created_at": "2026-07-04T05:07:04.175951-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "46f25854-f9ed-4cf5-aee0-f3e643c9c3a3",
+      "memory": "The capital of France is Paris.",
+      "hash": "4804f8d3d7fe277c6b3260dc6c21b887",
+      "metadata": {
+        "ordinal": 163,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "has capital",
+          "object_text": "Paris",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.37803284586114005,
+      "created_at": "2026-07-04T05:07:02.207619-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d92a04ed-d61d-4a6e-b6b4-6773b47ae729",
+      "memory": "The capital of Papal States is Rome.",
+      "hash": "2646dd26fc6b4841bbcbebc647768d36",
+      "metadata": {
+        "ordinal": 198,
+        "triple": {
+          "subject_id": "papal_states",
+          "predicate_norm": "has capital",
+          "object_text": "Rome",
+          "confidence": 0.95,
+          "subject_raw": "Papal States",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.37639140548836514,
+      "created_at": "2026-07-04T05:07:03.325261-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6137545e-bad6-4d98-8d78-dd844499ad2a",
+      "memory": "The capital of Germany is Berlin",
+      "hash": "045caca8b83ed255757f6e00f79919bb",
+      "metadata": {
+        "ordinal": 26,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "has capital",
+          "object_text": "Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3730013778913074,
+      "created_at": "2026-07-04T05:06:57.953278-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a97a0b2b-817f-4544-a2a3-ec8b1f209bcf",
+      "memory": "The capital of Italy is Rome.",
+      "hash": "8a68ffd407d9e7e0277c73767559be30",
+      "metadata": {
+        "ordinal": 167,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has capital",
+          "object_text": "Rome",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.37173290569255396,
+      "created_at": "2026-07-04T05:07:02.214653-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "480ec397-eef2-41ad-91ce-01fa9e4e58a2",
+      "memory": "The capital of India is Grosseto.",
+      "hash": "87ceaf5c2a3e8b7eecac4ef9eb853e28",
+      "metadata": {
+        "ordinal": 341,
+        "triple": null,
+        "subject_fallback": "india"
+      },
+      "score": 0.3703550782686128,
+      "created_at": "2026-07-04T05:07:05.809730-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "491e2529-8635-493c-bc5e-f303b6e4bb9e",
+      "memory": "The capital of Australia is Canberra.",
+      "hash": "46de41b97c344280528f6876ce6aa54f",
+      "metadata": {
+        "ordinal": 284,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has capital",
+          "object_text": "Canberra",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.36445480603857483,
+      "created_at": "2026-07-04T05:07:05.033178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "83a170f8-971a-4fd9-8068-4a310ea17f9c",
+      "memory": "The capital of India is New Delhi.",
+      "hash": "34c93e5e7e3ea7ecbba46b0b87fd91be",
+      "metadata": {
+        "ordinal": 158,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "has capital",
+          "object_text": "New Delhi",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3463330073239868,
+      "created_at": "2026-07-04T05:07:02.191265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ea37abe1-84f6-4c57-93cb-ab5fbac41bce",
+      "memory": "The capital of United States of America is Washington, D.C.",
+      "hash": "d12418a18a0f0e5323b0df256d6c142e",
+      "metadata": {
+        "ordinal": 247,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.34591735514836913,
+      "created_at": "2026-07-04T05:07:04.166757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2cd1dd6f-0a6c-4c84-92a3-20fa7ac6d00f",
+      "memory": "The capital of Great Britain is London",
+      "hash": "845a2c22369b75c738eaca9ee4f25d32",
+      "metadata": {
+        "ordinal": 33,
+        "triple": {
+          "subject_id": "great_britain",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Great Britain",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.33998378363895243,
+      "created_at": "2026-07-04T05:06:57.961094-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c6db9ddd-cc15-4499-bc1e-e80bcb37e425",
+      "memory": "Christianity was founded in the city of Taipei",
+      "hash": "0674013584063aedda38b8898d92d84b",
+      "metadata": {
+        "ordinal": 43,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Taipei",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.33509629097563814,
+      "created_at": "2026-07-04T05:06:59.538575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1285a142-3870-4c1e-a27d-cd8a87508cb9",
+      "memory": "The capital of Romania is Bucharest.",
+      "hash": "f97b7a299b57853b26d6e68606906c08",
+      "metadata": {
+        "ordinal": 185,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "has capital",
+          "object_text": "Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3294097793919096,
+      "created_at": "2026-07-04T05:07:02.264101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f9b614c4-2b86-425e-8907-0638574cf83f",
+      "memory": "The capital of Australia is Oderzo.",
+      "hash": "dd63c2df9b5db7bcc718b2815c20312b",
+      "metadata": {
+        "ordinal": 388,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has capital",
+          "object_text": "Oderzo",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.32921629911274486,
+      "created_at": "2026-07-04T05:07:07.453949-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6fa24047-3e9c-4934-9990-2804cdac67ce",
+      "memory": "The capital of Italy is Duluth.",
+      "hash": "afc9aea72619ec86a2c839909b76f8eb",
+      "metadata": {
+        "ordinal": 209,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has capital",
+          "object_text": "Duluth",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3252936254300902,
+      "created_at": "2026-07-04T05:07:03.341965-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e7d07a95-4737-493b-b457-886beddf2c53",
+      "memory": "The capital of United Kingdom is London.",
+      "hash": "8327324d443c75056891aabc69a71bfa",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.32457781924463114,
+      "created_at": "2026-07-04T05:07:06.668464-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cb7c2d66-5ab8-4996-bd0e-bc57b9702097",
+      "memory": "The capital of France is Harare.",
+      "hash": "f348da8afbacc7b9707cee1521f41ccd",
+      "metadata": {
+        "ordinal": 171,
+        "triple": null,
+        "subject_fallback": "france"
+      },
+      "score": 0.3215043145752263,
+      "created_at": "2026-07-04T05:07:02.247468-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d413d9e9-cd5c-419b-bad2-6dc6a9c16d4e",
+      "memory": "The capital of Romania is Rajanpur.",
+      "hash": "e115a012eca4446f35e29e0ef75c4298",
+      "metadata": {
+        "ordinal": 449,
+        "triple": {
+          "subject_id": "the_capital_of_romania",
+          "predicate_norm": "be",
+          "object_text": "Rajanpur",
+          "confidence": 0.95,
+          "subject_raw": "the capital of Romania",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.3190089076003224,
+      "created_at": "2026-07-04T05:07:08.470332-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68cbf3b5-f0fa-4edd-a7f6-2bc876f52719",
+      "memory": "The capital of Soviet Union is Moscow.",
+      "hash": "c9e1de151f44789feeea4592566580f3",
+      "metadata": {
+        "ordinal": 156,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has capital",
+          "object_text": "Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.2974414900350779,
+      "created_at": "2026-07-04T05:07:02.185999-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "912253db-0482-411c-8450-7460450c63e4",
+      "memory": "The capital of Czech Republic is Prague.",
+      "hash": "929b1bfb4d2819e36837b15bdc8bf258",
+      "metadata": {
+        "ordinal": 190,
+        "triple": {
+          "subject_id": "czech_republic",
+          "predicate_norm": "has capital",
+          "object_text": "Prague",
+          "confidence": 0.95,
+          "subject_raw": "Czech Republic",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.2850498191677795,
+      "created_at": "2026-07-04T05:07:02.269692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d43d7f7c-3c0f-4947-9db8-850b13c95040",
+      "memory": "The capital of Soviet Union is Russellville.",
+      "hash": "d720d2d6b3571f02bd4abaa1739d7750",
+      "metadata": {
+        "ordinal": 179,
+        "triple": null,
+        "subject_fallback": "soviet_union"
+      },
+      "score": 0.27042548286943097,
+      "created_at": "2026-07-04T05:07:02.257291-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "363546de-d80d-4b1c-93e1-9cb1d902d9c0",
+      "memory": "The capital of United States of America is Harrisville.",
+      "hash": "4027c441330d56992a121d1b7033f822",
+      "metadata": {
+        "ordinal": 396,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Harrisville",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.2671362751877349,
+      "created_at": "2026-07-04T05:07:07.475104-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "45102aef-845f-4fb5-9db1-a1991c2269f9",
+      "memory": "Sasanian Empire was founded by Ardashir I.",
+      "hash": "f4df5ff7820f26cfa5b27f18e30f090d",
+      "metadata": {
+        "ordinal": 224,
+        "triple": {
+          "subject_id": "sasanian_empire",
+          "predicate_norm": "be founded by",
+          "object_text": "Ardashir I",
+          "confidence": 0.95,
+          "subject_raw": "Sasanian Empire",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2497667811241539,
+      "created_at": "2026-07-04T05:07:03.360707-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7072aec8-bf76-459d-9b3b-822095de4d76",
+      "memory": "Sasanian Empire was founded by Walter Chrysler.",
+      "hash": "bcc5ce2fa3e503182c9084dd653d7151",
+      "metadata": {
+        "ordinal": 264,
+        "triple": {
+          "subject_id": "sasanian_empire",
+          "predicate_norm": "be founded by",
+          "object_text": "Walter Chrysler",
+          "confidence": 0.95,
+          "subject_raw": "Sasanian Empire",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22433459033921901,
+      "created_at": "2026-07-04T05:07:04.186356-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a059b4e2-c12b-4b25-a788-7490f21c3182",
+      "memory": "Shingon Buddhism was founded by Kūkai",
+      "hash": "902ca1360c19729b2ab67e2ccc4dcb94",
+      "metadata": {
+        "ordinal": 20,
+        "triple": {
+          "subject_id": "shingon_buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Kūkai",
+          "confidence": 0.95,
+          "subject_raw": "Shingon Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.21928628930384644,
+      "created_at": "2026-07-04T05:06:57.946153-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1edc09c5-1fba-4100-bdde-af1cf5aa328f",
+      "memory": "Charles the Bold is a citizen of France.",
+      "hash": "f9dedca9adbd0eaeef5f930f462d8109",
+      "metadata": {
+        "ordinal": 371,
+        "triple": {
+          "subject_id": "charles_the_bold",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles the Bold",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19632112331060045,
+      "created_at": "2026-07-04T05:07:06.659389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "762d7195-18ae-47f2-b494-090354a15494",
+      "memory": "Buddhism was founded by Gautama Buddha",
+      "hash": "4c8ff8e59a9e8d1ef0ae719079515493",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Gautama Buddha",
+          "confidence": 0.95,
+          "subject_raw": "Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.19628665235444348,
+      "created_at": "2026-07-04T05:06:59.567177-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b1a7f681-9448-4923-809a-6319b9cd6b31",
+      "memory": "Buddhism was founded by Mekere Morauta.",
+      "hash": "22741c04d05ce5193b860f7b9ef594cd",
+      "metadata": {
+        "ordinal": 370,
+        "triple": {
+          "subject_id": "buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Mekere Morauta",
+          "confidence": 0.9,
+          "subject_raw": "Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1819563172606333,
+      "created_at": "2026-07-04T05:07:06.657892-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3e16077b-d06b-44c3-9ae3-e3b990c367fc",
+      "memory": "Bengaluru is located in the continent of Asia",
+      "hash": "cfaddcf00de3b353578a87f5547793fe",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "bengaluru",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Bengaluru",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18176840025896307,
+      "created_at": "2026-07-04T05:06:57.923840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f2cbe2b5-ca33-49d0-8918-d9616d6843ee",
+      "memory": "Oscar Wilde died in the city of Guangzhou.",
+      "hash": "207b3d2362a8a6f0c45909192b37a59b",
+      "metadata": {
+        "ordinal": 270,
+        "triple": {
+          "subject_id": "oscar_wilde",
+          "predicate_norm": "died in",
+          "object_text": "Guangzhou",
+          "confidence": 0.95,
+          "subject_raw": "Oscar Wilde",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.17879395978709145,
+      "created_at": "2026-07-04T05:07:04.193202-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4d3bd80-97df-4d2b-923a-bebdc72651a5",
+      "memory": "The headquarters of Bowdoin College is located in the city of Brunswick.",
+      "hash": "9f79074e04a79bf5b0c0572a34bf038c",
+      "metadata": {
+        "ordinal": 130,
+        "triple": {
+          "subject_id": "bowdoin_college",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Brunswick",
+          "confidence": 0.95,
+          "subject_raw": "Bowdoin College",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.17656852461192285,
+      "created_at": "2026-07-04T05:07:01.392414-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "28c21eab-aab9-4046-8021-498675a9b117",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Berkeley",
+      "hash": "e87e9b8dce9813a745936836ce3f9ed0",
+      "metadata": {
+        "ordinal": 12,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Berkeley",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.17474277202085525,
+      "created_at": "2026-07-04T05:06:57.935742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "adaf8054-9d46-4d95-87c3-3768fd93b1cc",
+      "memory": "The Wheel of Time was written in the language of English.",
+      "hash": "7eed8b9ec065594b31cca776da866879",
+      "metadata": {
+        "ordinal": 199,
+        "triple": {
+          "subject_id": "the_wheel_of_time",
+          "predicate_norm": "be written in language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "The Wheel of Time",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.17321889359453554,
+      "created_at": "2026-07-04T05:07:03.327064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "78b1524d-d492-4889-a783-39909baf78af",
+      "memory": "Ferdowsi is famous for Shahnameh.",
+      "hash": "cf80b143884d1ff390bd0faa3edfd463",
+      "metadata": {
+        "ordinal": 86,
+        "triple": {
+          "subject_id": "ferdowsi",
+          "predicate_norm": "be famous for",
+          "object_text": "Shahnameh",
+          "confidence": 0.95,
+          "subject_raw": "Ferdowsi",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.16833568347116068,
+      "created_at": "2026-07-04T05:07:00.463787-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4abbd509-2a52-432a-9f45-b00eca210740",
+      "memory": "The headquarters of University of Bucharest is located in the city of Ankara.",
+      "hash": "d48702d42715877452331f672b2f7004",
+      "metadata": {
+        "ordinal": 409,
+        "triple": {
+          "subject_id": "university_of_bucharest",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Ankara",
+          "confidence": 0.95,
+          "subject_raw": "University of Bucharest",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.16730590916657884,
+      "created_at": "2026-07-04T05:07:07.496942-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7f7915a9-8713-4ca2-8f00-99c23771ebb0",
+      "memory": "Sumo was created in the country of Japan.",
+      "hash": "ca047e0f5be33c10eb940dc491cd95d0",
+      "metadata": {
+        "ordinal": 95,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Japan",
+          "confidence": 0.95,
+          "subject_raw": "Sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1672437914450342,
+      "created_at": "2026-07-04T05:07:00.474360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "65c539ad-332e-4ed9-bd95-4fd5c999ddd8",
+      "memory": "Pierre Beaumarchais was born in the city of Paris.",
+      "hash": "6cece0c60490c3a35e8b5471e86c3e64",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "pierre_beaumarchais",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Pierre Beaumarchais",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.16610987040697994,
+      "created_at": "2026-07-04T05:07:05.765530-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c477009f-155b-459a-aa11-aa4bdcecd2b8",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Botevgrad.",
+      "hash": "8afbf714cd2995792aebf78f640ebfed",
+      "metadata": {
+        "ordinal": 114,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Botevgrad",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.16592777466532305,
+      "created_at": "2026-07-04T05:07:01.373680-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4c42d013-a1af-408b-a3fe-4b6e4e398ca1",
+      "memory": "Shahnameh was written in the language of Persian.",
+      "hash": "e8756309df05629b23a9081c7755e7d4",
+      "metadata": {
+        "ordinal": 391,
+        "triple": {
+          "subject_id": "shahnameh",
+          "predicate_norm": "be written in",
+          "object_text": "the language of Persian",
+          "confidence": 0.95,
+          "subject_raw": "Shahnameh",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.16413798982438757,
+      "created_at": "2026-07-04T05:07:07.464136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e06cc933-76da-4051-a5ef-23447dfbf22a",
+      "memory": "San Francisco is located in the continent of North America.",
+      "hash": "dc0541120e69139114c10428be1e2b32",
+      "metadata": {
+        "ordinal": 397,
+        "triple": {
+          "subject_id": "san_francisco",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "San Francisco",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.16395485962840825,
+      "created_at": "2026-07-04T05:07:07.477127-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "82697c7a-f3ff-42b3-9071-4ad8ba168a72",
+      "memory": "Rap rock was created in the country of Russian Empire.",
+      "hash": "8faf73fece6ea7e648b0f715f3e7109e",
+      "metadata": {
+        "ordinal": 403,
+        "triple": {
+          "subject_id": "rap_rock",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "Rap rock",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.16287694927630744,
+      "created_at": "2026-07-04T05:07:07.487833-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "43d24918-24d2-439b-97fc-fa36255cf1be",
+      "memory": "Shingon Buddhism was founded by William Waynflete.",
+      "hash": "84223cf71a7dc24b749efc6fb3b34658",
+      "metadata": {
+        "ordinal": 304,
+        "triple": {
+          "subject_id": "shingon_buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "William Waynflete",
+          "confidence": 0.95,
+          "subject_raw": "Shingon Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1627437093464229,
+      "created_at": "2026-07-04T05:07:05.059495-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "98b32645-5efd-442c-8f65-370862ff03ba",
+      "memory": "The name of the current head of the Japan government is Shinzō Abe.",
+      "hash": "93809e7274a293b3a51ba1a3eb0afad7",
+      "metadata": {
+        "ordinal": 202,
+        "triple": {
+          "subject_id": "japan_government",
+          "predicate_norm": "has current head",
+          "object_text": "Shinzō Abe",
+          "confidence": 0.95,
+          "subject_raw": "Japan government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.16130526856315788,
+      "created_at": "2026-07-04T05:07:03.331950-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f77cbfc4-1e6f-424b-8d8a-a3866da70dba",
+      "memory": "Bengaluru is located in the continent of Oceania.",
+      "hash": "1d15af7fd9c2d5f2bc31360740c2712a",
+      "metadata": {
+        "ordinal": 234,
+        "triple": null,
+        "subject_fallback": "bengaluru"
+      },
+      "score": 0.15618900736571767,
+      "created_at": "2026-07-04T05:07:04.149662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20ad497a-87de-4cea-bf90-38ce9f778fee",
+      "memory": "Boston was founded by John Winthrop.",
+      "hash": "386949d7f8a51d81839a0ad1796f4a5b",
+      "metadata": {
+        "ordinal": 108,
+        "triple": {
+          "subject_id": "boston",
+          "predicate_norm": "be founded by",
+          "object_text": "John Winthrop",
+          "confidence": 0.95,
+          "subject_raw": "Boston",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1542800980864204,
+      "created_at": "2026-07-04T05:07:00.489721-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fa217551-d9e7-439d-81cf-14559d19af79",
+      "memory": "The name of the current head of state in United Kingdom is Emmerson Mnangagwa.",
+      "hash": "00ab3a02c01d1f716f79574faab04898",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has current head state",
+          "object_text": "Emmerson Mnangagwa",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.15291749378008038,
+      "created_at": "2026-07-04T05:07:04.169066-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6d4239be-7cdb-4102-86fc-3b24dc4c2523",
+      "memory": "The name of the current head of the Council of People's Commissars government is Vladimir Lenin.",
+      "hash": "35cdd4fb24fca64198950319761650fb",
+      "metadata": {
+        "ordinal": 324,
+        "triple": {
+          "subject_id": "vladimir_lenin",
+          "predicate_norm": "be current head",
+          "object_text": "the Council of People's Commissars government",
+          "confidence": 0.95,
+          "subject_raw": "Vladimir Lenin",
+          "predicate_raw": "is the current head of"
+        }
+      },
+      "score": 0.152460795896998,
+      "created_at": "2026-07-04T05:07:05.782704-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "df4a9374-d644-4049-a87a-1437a06cd863",
+      "memory": "Bagratuni Dynasty is affiliated with the religion of Christianity.",
+      "hash": "7feb1f5db9c9fe8b6d02bbc7f082fb49",
+      "metadata": {
+        "ordinal": 172,
+        "triple": {
+          "subject_id": "bagratuni_dynasty",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "Christianity",
+          "confidence": 0.95,
+          "subject_raw": "Bagratuni Dynasty",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.15067316347360393,
+      "created_at": "2026-07-04T05:07:02.248676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ced1d43c-8b27-42b8-b9e1-d1b25be0f75c",
+      "memory": "Christianity was founded in the city of Jerusalem",
+      "hash": "7a144696115b803673d7f281584dfd02",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Jerusalem",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.15059766449990653,
+      "created_at": "2026-07-04T05:06:59.534248-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "da66ba79-6c9a-41a4-9526-705797b263e9",
+      "memory": "Olga of Kiev died in the city of Rodez.",
+      "hash": "be4a3cc383c94cfc3a260d3ae301ee6f",
+      "metadata": {
+        "ordinal": 450,
+        "triple": {
+          "subject_id": "olga_of_kiev",
+          "predicate_norm": "died in",
+          "object_text": "the city of Rodez",
+          "confidence": 0.95,
+          "subject_raw": "Olga of Kiev",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1424352756725801,
+      "created_at": "2026-07-04T05:07:08.471678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "746ee4b0-08ac-4710-99cd-8513fa6ed33e",
+      "memory": "The name of the current head of state in United States of America is Connachta.",
+      "hash": "0c5594ccdae63dab7bb410e188bfde05",
+      "metadata": {
+        "ordinal": 126,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has current head state",
+          "object_text": "Connachta",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.14223534542756672,
+      "created_at": "2026-07-04T05:07:01.387608-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f0872419-4672-4b6c-a522-0925c1fb6bb0",
+      "memory": "Malaysia is located in the continent of Antarctica.",
+      "hash": "08d42c32d41c7d52b0330389f540cd8c",
+      "metadata": {
+        "ordinal": 442,
+        "triple": null,
+        "subject_fallback": "malaysia"
+      },
+      "score": 0.14161740958620234,
+      "created_at": "2026-07-04T05:07:08.460379-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5ba5ba8f-52e8-4ccf-9a94-d03ad01b7b53",
+      "memory": "The name of the current head of the Tucson government is Jonathan Rothschild.",
+      "hash": "d4cfa7d2e65e81c6ed9bf747d27ed5a2",
+      "metadata": {
+        "ordinal": 454,
+        "triple": {
+          "subject_id": "the_current_head_of_the_tucson_government",
+          "predicate_norm": "be",
+          "object_text": "Jonathan Rothschild",
+          "confidence": 0.95,
+          "subject_raw": "the current head of the Tucson government",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.14094385740367926,
+      "created_at": "2026-07-04T05:07:08.476743-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3945cf8d-9048-4d9d-af32-ad2a6963d08e",
+      "memory": "Rand al'Thor was created by Ferdowsi.",
+      "hash": "00135e4cf41baf09e172eb5bc9f13e08",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Ferdowsi",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.14053220769246802,
+      "created_at": "2026-07-04T05:07:05.786203-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ba3b7b54-3784-45bf-9399-7fe33f8f6a65",
+      "memory": "Thomas Arne was born in the city of London.",
+      "hash": "4408992ab9ac8249091fe63cb04ad033",
+      "metadata": {
+        "ordinal": 342,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.14001465337138091,
+      "created_at": "2026-07-04T05:07:05.811037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d73015f1-9102-429a-8785-86cdfe045d63",
+      "memory": "Frank Zappa died in the city of Berlin",
+      "hash": "dc135240680d439ec7074f946c34ba73",
+      "metadata": {
+        "ordinal": 51,
+        "triple": {
+          "subject_id": "frank_zappa",
+          "predicate_norm": "died in",
+          "object_text": "the city of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Frank Zappa",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1396682655271467,
+      "created_at": "2026-07-04T05:06:59.548751-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b5cf901-b8f6-4628-8947-a7a44516d21b",
+      "memory": "The headquarters of Berklee College of Music is located in the city of Boston.",
+      "hash": "256f9455878aa983ab53cab92f02ca64",
+      "metadata": {
+        "ordinal": 380,
+        "triple": {
+          "subject_id": "berklee_college_of_music",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Boston",
+          "confidence": 0.95,
+          "subject_raw": "Berklee College of Music",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.13777488025389867,
+      "created_at": "2026-07-04T05:07:06.672441-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f50c03ad-e5d2-41a0-93f1-bb1c7b80fde2",
+      "memory": "Ardashir I's child is Shapur I.",
+      "hash": "aa33c5160a9744e68ebc0d3ef3d16108",
+      "metadata": {
+        "ordinal": 411,
+        "triple": {
+          "subject_id": "ardashir_i",
+          "predicate_norm": "has child",
+          "object_text": "Shapur I",
+          "confidence": 0.95,
+          "subject_raw": "Ardashir I",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.13758927744032884,
+      "created_at": "2026-07-04T05:07:07.499772-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d299cea6-1dff-45d6-af82-5497e17ed948",
+      "memory": "Thomas Arne was born in the city of Bengaluru.",
+      "hash": "a952ddf43f519d2c4dd749d512a5030d",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "Bengaluru",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.1373513502754682,
+      "created_at": "2026-07-04T05:07:06.651530-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e59cbe81-9355-4d6e-b5da-78470c01aa84",
+      "memory": "The headquarters of University of Bucharest is located in the city of Bucharest.",
+      "hash": "dca596e74fb6901b3718f21916ec84db",
+      "metadata": {
+        "ordinal": 173,
+        "triple": {
+          "subject_id": "university_of_bucharest",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "University of Bucharest",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.13621547762180902,
+      "created_at": "2026-07-04T05:07:02.249858-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4bafaf7-0fdc-4a1f-9e72-d368208070a6",
+      "memory": "The official language of England is English.",
+      "hash": "b2f12a81c86b0f22ddc3505885523cf5",
+      "metadata": {
+        "ordinal": 99,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.13611816319663309,
+      "created_at": "2026-07-04T05:07:00.479095-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ad71ec98-3106-42db-8f60-2b7ef35629af",
+      "memory": "Malaysia is located in the continent of Asia.",
+      "hash": "d769a65a695987e7d394c087a9fdf251",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "malaysia",
+          "predicate_norm": "be located in",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Malaysia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.1334081340210456,
+      "created_at": "2026-07-04T05:07:06.662576-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ae213e75-99b6-4bff-ae06-d27f2d8ba9a1",
+      "memory": "The headquarters of University of Minnesota is located in the city of Minneapolis",
+      "hash": "00a09df9aa905c1e3ffc33f3ae30d200",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "university_of_minnesota",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Minneapolis",
+          "confidence": 0.95,
+          "subject_raw": "University of Minnesota",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.13329385337262356,
+      "created_at": "2026-07-04T05:06:57.931581-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2cce8b38-61e5-4b93-a3fe-19830d2797e1",
+      "memory": "Alan Jay Lerner died in the city of Mansourah, Algeria.",
+      "hash": "b32471b6b7495a10b2855debb94a903e",
+      "metadata": {
+        "ordinal": 394,
+        "triple": {
+          "subject_id": "alan_jay_lerner",
+          "predicate_norm": "died in",
+          "object_text": "the city of Mansourah, Algeria",
+          "confidence": 0.95,
+          "subject_raw": "Alan Jay Lerner",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1332640796598773,
+      "created_at": "2026-07-04T05:07:07.471288-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9c1a2678-d2ee-4a1e-a19a-5d5f316dab05",
+      "memory": "The chairperson of Congolese Party of Labour is Denis Sassou-Nguesso",
+      "hash": "fc591650405576980432d591b0ff6cd2",
+      "metadata": {
+        "ordinal": 54,
+        "triple": {
+          "subject_id": "congolese_party_of_labour",
+          "predicate_norm": "has chairperson",
+          "object_text": "Denis Sassou-Nguesso",
+          "confidence": 0.95,
+          "subject_raw": "Congolese Party of Labour",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.13122175701930427,
+      "created_at": "2026-07-04T05:06:59.552209-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d6d78479-67d0-4a47-b241-f31f28206002",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook",
+      "hash": "fb9e7bb6bbd5546d68ca967bcaf3ad53",
+      "metadata": {
+        "ordinal": 13,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Tim Cook",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.1310951067726808,
+      "created_at": "2026-07-04T05:06:57.937146-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "45548a28-8e2f-42e2-9f5a-b68a67ad6977",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 444,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.13057360532654436,
+      "created_at": "2026-07-04T05:07:08.463298-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5be69757-7342-4adb-a640-5f09c10b64e5",
+      "memory": "Hyderabad is located in the continent of Asia.",
+      "hash": "d1c66b5116de5be06fcf7cd940ed2ef9",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.1290757822767038,
+      "created_at": "2026-07-04T05:07:02.266334-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "35e8ead7-b379-4640-a20a-753a6a1332a4",
+      "memory": "Charles Dickens died in the city of Gads Hill Place.",
+      "hash": "444f2827d1f5e9f4995c727f8f3b1b48",
+      "metadata": {
+        "ordinal": 448,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "died in",
+          "object_text": "the city of Gads Hill Place",
+          "confidence": 0.95,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1274716798713629,
+      "created_at": "2026-07-04T05:07:08.468933-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fbf45872-903a-4dc6-b29c-942af927da9a",
+      "memory": "T. S. Eliot speaks the language of English.",
+      "hash": "60560e9f638a126fa7a2a3a44723c92d",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.12632553744407415,
+      "created_at": "2026-07-04T05:07:03.319769-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a139aa6f-1430-4965-8e37-03fef2d7e105",
+      "memory": "The headquarters of Fordham University is located in the city of New York City.",
+      "hash": "5c669a9a7ea1ca33549c1c03f562524e",
+      "metadata": {
+        "ordinal": 101,
+        "triple": {
+          "subject_id": "fordham_university",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of New York City",
+          "confidence": 0.95,
+          "subject_raw": "Fordham University",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.12439127750633545,
+      "created_at": "2026-07-04T05:07:00.481376-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e6aa1e9a-e9da-4f3b-953c-c0156004a1a1",
+      "memory": "Thus Spoke Zarathustra was created in the country of Germany.",
+      "hash": "9854f20cb6a8b9a0f142fb2de16e699f",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "thus_spoke_zarathustra",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Germany",
+          "confidence": 0.95,
+          "subject_raw": "Thus Spoke Zarathustra",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1243884558225079,
+      "created_at": "2026-07-04T05:07:05.815271-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "84d78026-17f4-4222-b3e1-a711cb65e695",
+      "memory": "The name of the current head of the Pittsburgh government is Bill Peduto.",
+      "hash": "08d001b8633556125ab5c95ff2565b44",
+      "metadata": {
+        "ordinal": 140,
+        "triple": {
+          "subject_id": "pittsburgh_government",
+          "predicate_norm": "has current head",
+          "object_text": "Bill Peduto",
+          "confidence": 0.95,
+          "subject_raw": "Pittsburgh government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.12433260809599368,
+      "created_at": "2026-07-04T05:07:01.404821-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fdccc595-e696-47c6-aa9d-8c5aae148402",
+      "memory": "Jesus Christ worked in the city of Galilee.",
+      "hash": "01053bf9987a31187e2eb873c4dc7dde",
+      "metadata": {
+        "ordinal": 307,
+        "triple": {
+          "subject_id": "jesus_christ",
+          "predicate_norm": "worked in",
+          "object_text": "Galilee",
+          "confidence": 0.95,
+          "subject_raw": "Jesus Christ",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.124215507467726,
+      "created_at": "2026-07-04T05:07:05.063205-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2423ae66-ed7e-4ff7-b30a-e08bddde4d9d",
+      "memory": "The name of the current head of the Italy government is Giuseppe Conte.",
+      "hash": "420c0682d15c77812223c71e80db9917",
+      "metadata": {
+        "ordinal": 375,
+        "triple": {
+          "subject_id": "italy_government",
+          "predicate_norm": "has current head",
+          "object_text": "Giuseppe Conte",
+          "confidence": 0.9,
+          "subject_raw": "Italy government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.12374989280765548,
+      "created_at": "2026-07-04T05:07:06.665468-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "14cf166d-36b8-48d8-81c8-0a0edd12d2aa",
+      "memory": "The name of the current head of the Council of People's Commissars government is Tony Blair.",
+      "hash": "6b8fd5f6a1e56f46a30b0a9417730075",
+      "metadata": {
+        "ordinal": 351,
+        "triple": {
+          "subject_id": "council_of_people's_commissars_government",
+          "predicate_norm": "has current head",
+          "object_text": "Tony Blair",
+          "confidence": 0.9,
+          "subject_raw": "Council of People's Commissars government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.12236176271838764,
+      "created_at": "2026-07-04T05:07:06.620420-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a3aa335a-67e8-4115-b26d-1c4e7cacd82e",
+      "memory": "Australia is located in the continent of Oceania",
+      "hash": "daad8affd10538efca5c1bc049c10350",
+      "metadata": {
+        "ordinal": 75,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Oceania",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.12115853109417112,
+      "created_at": "2026-07-04T05:06:59.576268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e4cdd005-0b0a-4a70-a742-4671409be5a7",
+      "memory": "The university where Wilhelm II was educated is University of Bonn.",
+      "hash": "863f7c29b93d7edd857cc96a2196c433",
+      "metadata": {
+        "ordinal": 349,
+        "triple": {
+          "subject_id": "wilhelm_ii",
+          "predicate_norm": "be educated at",
+          "object_text": "University of Bonn",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm II",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.12079738529016379,
+      "created_at": "2026-07-04T05:07:06.613400-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bfbeb5ac-f179-43ec-b643-2345b5deb9d6",
+      "memory": "The official language of Australia is Arabic.",
+      "hash": "5fa5d35e1fce3f796962d2cb658d2dcc",
+      "metadata": {
+        "ordinal": 151,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has official language",
+          "object_text": "Arabic",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.12024164190859764,
+      "created_at": "2026-07-04T05:07:02.167954-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3c6770c0-d8c5-4909-ac28-69d4352197a2",
+      "memory": "Germany is located in the continent of Africa.",
+      "hash": "ca1c0e24feb080db893e03d76df2127e",
+      "metadata": {
+        "ordinal": 435,
+        "triple": null,
+        "subject_fallback": "germany"
+      },
+      "score": 0.11858192912645743,
+      "created_at": "2026-07-04T05:07:08.449081-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c7620d0d-93b5-454c-9fc4-bc6506ed8688",
+      "memory": "Pius XII died in the city of Castel Gandolfo.",
+      "hash": "197973d346de886d8ee7db46d9035b19",
+      "metadata": {
+        "ordinal": 117,
+        "triple": {
+          "subject_id": "pius_xii",
+          "predicate_norm": "died in",
+          "object_text": "the city of Castel Gandolfo",
+          "confidence": 0.95,
+          "subject_raw": "Pius XII",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.11833330502845593,
+      "created_at": "2026-07-04T05:07:01.377426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c56fb3a6-e566-4cc6-b20b-6703ed398982",
+      "memory": "London is located in the continent of Europe.",
+      "hash": "4f7fa9c7c7858dab4313bbc72ebaf113",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "london",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "London",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.11777288280156417,
+      "created_at": "2026-07-04T05:07:00.495419-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d6003cde-0faa-4bdf-8839-539018b1239f",
+      "memory": "Transcendental Meditation movement was founded by Adalbert of Prague.",
+      "hash": "7657894bd85ae0f44cb6c5de0b8e8e63",
+      "metadata": {
+        "ordinal": 360,
+        "triple": {
+          "subject_id": "transcendental_meditation_movement",
+          "predicate_norm": "be founded by",
+          "object_text": "Adalbert of Prague",
+          "confidence": 0.95,
+          "subject_raw": "Transcendental Meditation movement",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1176768749874022,
+      "created_at": "2026-07-04T05:07:06.641564-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b977f7b4-69c4-47ec-9d35-25521ffe7b5a",
+      "memory": "Philadelphia was founded by William Penn.",
+      "hash": "b3511b20e3dc63f6bebd11e82ff21245",
+      "metadata": {
+        "ordinal": 421,
+        "triple": {
+          "subject_id": "william_penn",
+          "predicate_norm": "founded",
+          "object_text": "Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "William Penn",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.11576088930089767,
+      "created_at": "2026-07-04T05:07:08.404934-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cf0cbf85-1650-4ca8-a9a1-70a0d8d0f561",
+      "memory": "quarterback is associated with the sport of Muay Thai",
+      "hash": "0a0f007ca1cce2f2411bdd2bdaa53376",
+      "metadata": {
+        "ordinal": 50,
+        "triple": null,
+        "subject_fallback": "muay_thai"
+      },
+      "score": 0.1144595985928713,
+      "created_at": "2026-07-04T05:06:59.547493-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "649d09b8-8130-47f0-a7b9-c2d06035ac37",
+      "memory": "Frank Zappa died in the city of Los Angeles",
+      "hash": "061b38b7d689d7ca3198a805134c49ba",
+      "metadata": {
+        "ordinal": 37,
+        "triple": {
+          "subject_id": "frank_zappa",
+          "predicate_norm": "died in",
+          "object_text": "the city of Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "Frank Zappa",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1141506622654278,
+      "created_at": "2026-07-04T05:06:57.965881-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "33f8e2d0-5ae5-4605-bc9f-32425152687a",
+      "memory": "T. S. Eliot speaks the language of French.",
+      "hash": "91e59bbb7cfa13902a39dc06d0c03058",
+      "metadata": {
+        "ordinal": 197,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.1140899995562551,
+      "created_at": "2026-07-04T05:07:03.323426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b64959d4-3f59-4307-9c6c-cde1fbf8a258",
+      "memory": "Baseball was created in the country of Japan.",
+      "hash": "0873ce695a8eac0e39fc5470db45ff63",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "be created in",
+          "object_text": "Baseball",
+          "confidence": 0.9,
+          "subject_raw": "Japan",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.11308521066863741,
+      "created_at": "2026-07-04T05:07:06.675055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bf2812d4-6ed5-4b64-853e-aee062cedb48",
+      "memory": "The headquarters of Ilyushin is located in the city of Moscow.",
+      "hash": "ed2daa4c8e29ec9141dd4b2f9c35e21f",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "ilyushin",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Ilyushin",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.1125243889049811,
+      "created_at": "2026-07-04T05:07:05.759901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f95e8209-6574-4189-9576-e4c40692a118",
+      "memory": "The name of the current head of the United States of America government is Donald Trump.",
+      "hash": "a8fe3ca3f4e9b5ad8a4a9a809552868f",
+      "metadata": {
+        "ordinal": 432,
+        "triple": {
+          "subject_id": "the_current_head_of_the_united_states_of_america_government",
+          "predicate_norm": "be",
+          "object_text": "Donald Trump",
+          "confidence": 0.95,
+          "subject_raw": "the current head of the United States of America government",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.11248770883800685,
+      "created_at": "2026-07-04T05:07:08.443504-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "18f63004-fa5f-483f-9d33-0e88836f8a48",
+      "memory": "Rap rock was created in the country of United States of America.",
+      "hash": "3dc7cf22a3ce7632f37dac4c2e4e7e32",
+      "metadata": {
+        "ordinal": 359,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "be created in",
+          "object_text": "Rap rock",
+          "confidence": 0.9,
+          "subject_raw": "United States of America",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.11238854197194734,
+      "created_at": "2026-07-04T05:07:06.639575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "944166df-88bc-4c73-b1eb-89d428de3d64",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.11195352023602659,
+      "created_at": "2026-07-04T05:07:05.020350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e8d7307c-c369-46d9-b6f5-0fe6155ebff3",
+      "memory": "Sarit Thanarat is affiliated with the religion of Buddhism.",
+      "hash": "cb4ee33552118f692b1de8cf94aa27b7",
+      "metadata": {
+        "ordinal": 119,
+        "triple": {
+          "subject_id": "sarit_thanarat",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Buddhism",
+          "confidence": 0.95,
+          "subject_raw": "Sarit Thanarat",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.11072399935635455,
+      "created_at": "2026-07-04T05:07:01.379632-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2c49ace9-2579-44c3-b838-9ab58d476761",
+      "memory": "Le Petit Parisien was created in the country of Germany.",
+      "hash": "ecc0f8668480a5366eb37d9bb1e05b7c",
+      "metadata": {
+        "ordinal": 436,
+        "triple": {
+          "subject_id": "le_petit_parisien",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Germany",
+          "confidence": 0.95,
+          "subject_raw": "Le Petit Parisien",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.10943726981298804,
+      "created_at": "2026-07-04T05:07:08.450696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "154758a8-3c37-477a-9ea4-4feaf8d0b1ad",
+      "memory": "Coco Chanel died in the city of Paris.",
+      "hash": "35528f6684626083ab5969218d02c4cb",
+      "metadata": {
+        "ordinal": 352,
+        "triple": {
+          "subject_id": "coco_chanel",
+          "predicate_norm": "died in",
+          "object_text": "Paris",
+          "confidence": 0.95,
+          "subject_raw": "Coco Chanel",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.10909827634316285,
+      "created_at": "2026-07-04T05:07:06.623559-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "123919b4-548f-4068-a175-bbd9ff2b1e18",
+      "memory": "Leo Stein is a citizen of United States of America",
+      "hash": "b276aff045f4d7126a0a6af485028850",
+      "metadata": {
+        "ordinal": 60,
+        "triple": {
+          "subject_id": "leo_stein",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Leo Stein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1086607240678646,
+      "created_at": "2026-07-04T05:06:59.558980-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The capital of Tang Empire is Beaumont.\n- Ernst Heinkel is a citizen of Tang Empire.\n- The capital of Japan is Tokyo.\n- The capital of England is London.\n- The capital of Iran is Tehran.\n- The capital of France is Paris.\n- The capital of Papal States is Rome.\n- The capital of Germany is Berlin\n- The capital of Italy is Rome.\n- The capital of India is Grosseto.\n- The capital of Australia is Canberra.\n- The capital of India is New Delhi.\n- The capital of United States of America is Washington, D.C.\n- The capital of Great Britain is London\n- Christianity was founded in the city of Taipei\n- The capital of Romania is Bucharest.\n- The capital of Australia is Oderzo.\n- The capital of Italy is Duluth.\n- The capital of United Kingdom is London.\n- The capital of France is Harare.\n- The capital of Romania is Rajanpur.\n- The capital of Soviet Union is Moscow.\n- The capital of Czech Republic is Prague.\n- The capital of Soviet Union is Russellville.\n- The capital of United States of America is Harrisville.\n- Sasanian Empire was founded by Ardashir I.\n- Sasanian Empire was founded by Walter Chrysler.\n- Shingon Buddhism was founded by Kūkai\n- Charles the Bold is a citizen of France.\n- Buddhism was founded by Gautama Buddha\n- Buddhism was founded by Mekere Morauta.\n- Bengaluru is located in the continent of Asia\n- Oscar Wilde died in the city of Guangzhou.\n- The headquarters of Bowdoin College is located in the city of Brunswick.\n- The headquarters of University of California, Berkeley is located in the city of Berkeley\n- The Wheel of Time was written in the language of English.\n- Ferdowsi is famous for Shahnameh.\n- The headquarters of University of Bucharest is located in the city of Ankara.\n- Sumo was created in the country of Japan.\n- Pierre Beaumarchais was born in the city of Paris.\n- The headquarters of University of California, Berkeley is located in the city of Botevgrad.\n- Shahnameh was written in the language of Persian.\n- San Francisco is located in the continent of North America.\n- Rap rock was created in the country of Russian Empire.\n- Shingon Buddhism was founded by William Waynflete.\n- The name of the current head of the Japan government is Shinzō Abe.\n- Bengaluru is located in the continent of Oceania.\n- Boston was founded by John Winthrop.\n- The name of the current head of state in United Kingdom is Emmerson Mnangagwa.\n- The name of the current head of the Council of People's Commissars government is Vladimir Lenin.\n- Bagratuni Dynasty is affiliated with the religion of Christianity.\n- Christianity was founded in the city of Jerusalem\n- Olga of Kiev died in the city of Rodez.\n- The name of the current head of state in United States of America is Connachta.\n- Malaysia is located in the continent of Antarctica.\n- The name of the current head of the Tucson government is Jonathan Rothschild.\n- Rand al'Thor was created by Ferdowsi.\n- Thomas Arne was born in the city of London.\n- Frank Zappa died in the city of Berlin\n- The headquarters of Berklee College of Music is located in the city of Boston.\n- Ardashir I's child is Shapur I.\n- Thomas Arne was born in the city of Bengaluru.\n- The headquarters of University of Bucharest is located in the city of Bucharest.\n- The official language of England is English.\n- Malaysia is located in the continent of Asia.\n- The headquarters of University of Minnesota is located in the city of Minneapolis\n- Alan Jay Lerner died in the city of Mansourah, Algeria.\n- The chairperson of Congolese Party of Labour is Denis Sassou-Nguesso\n- The chief executive officer of Apple Inc. is Tim Cook\n- Tim Cook is a citizen of United States of America.\n- Hyderabad is located in the continent of Asia.\n- Charles Dickens died in the city of Gads Hill Place.\n- T. S. Eliot speaks the language of English.\n- The headquarters of Fordham University is located in the city of New York City.\n- Thus Spoke Zarathustra was created in the country of Germany.\n- The name of the current head of the Pittsburgh government is Bill Peduto.\n- Jesus Christ worked in the city of Galilee.\n- The name of the current head of the Italy government is Giuseppe Conte.\n- The name of the current head of the Council of People's Commissars government is Tony Blair.\n- Australia is located in the continent of Oceania\n- The university where Wilhelm II was educated is University of Bonn.\n- The official language of Australia is Arabic.\n- Germany is located in the continent of Africa.\n- Pius XII died in the city of Castel Gandolfo.\n- London is located in the continent of Europe.\n- Transcendental Meditation movement was founded by Adalbert of Prague.\n- Philadelphia was founded by William Penn.\n- quarterback is associated with the sport of Muay Thai\n- Frank Zappa died in the city of Los Angeles\n- T. S. Eliot speaks the language of French.\n- Baseball was created in the country of Japan.\n- The headquarters of Ilyushin is located in the city of Moscow.\n- The name of the current head of the United States of America government is Donald Trump.\n- Rap rock was created in the country of United States of America.\n- The chief executive officer of Twitter is Bernard Arnault.\n- Sarit Thanarat is affiliated with the religion of Buddhism.\n- Le Petit Parisien was created in the country of Germany.\n- Coco Chanel died in the city of Paris.\n- Leo Stein is a citizen of United States of America",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The capital of Tang Empire is Beaumont.\n- Ernst Heinkel is a citizen of Tang Empire.\n- The capital of Japan is Tokyo.\n- The capital of England is London.\n- The capital of Iran is Tehran.\n- The capital of France is Paris.\n- The capital of Papal States is Rome.\n- The capital of Germany is Berlin\n- The capital of Italy is Rome.\n- The capital of India is Grosseto.\n- The capital of Australia is Canberra.\n- The capital of India is New Delhi.\n- The capital of United States of America is Washington, D.C.\n- The capital of Great Britain is London\n- Christianity was founded in the city of Taipei\n- The capital of Romania is Bucharest.\n- The capital of Australia is Oderzo.\n- The capital of Italy is Duluth.\n- The capital of United Kingdom is London.\n- The capital of France is Harare.\n- The capital of Romania is Rajanpur.\n- The capital of Soviet Union is Moscow.\n- The capital of Czech Republic is Prague.\n- The capital of Soviet Union is Russellville.\n- The capital of United States of America is Harrisville.\n- Sasanian Empire was founded by Ardashir I.\n- Sasanian Empire was founded by Walter Chrysler.\n- Shingon Buddhism was founded by Kūkai\n- Charles the Bold is a citizen of France.\n- Buddhism was founded by Gautama Buddha\n- Buddhism was founded by Mekere Morauta.\n- Bengaluru is located in the continent of Asia\n- Oscar Wilde died in the city of Guangzhou.\n- The headquarters of Bowdoin College is located in the city of Brunswick.\n- The headquarters of University of California, Berkeley is located in the city of Berkeley\n- The Wheel of Time was written in the language of English.\n- Ferdowsi is famous for Shahnameh.\n- The headquarters of University of Bucharest is located in the city of Ankara.\n- Sumo was created in the country of Japan.\n- Pierre Beaumarchais was born in the city of Paris.\n- The headquarters of University of California, Berkeley is located in the city of Botevgrad.\n- Shahnameh was written in the language of Persian.\n- San Francisco is located in the continent of North America.\n- Rap rock was created in the country of Russian Empire.\n- Shingon Buddhism was founded by William Waynflete.\n- The name of the current head of the Japan government is Shinzō Abe.\n- Bengaluru is located in the continent of Oceania.\n- Boston was founded by John Winthrop.\n- The name of the current head of state in United Kingdom is Emmerson Mnangagwa.\n- The name of the current head of the Council of People's Commissars government is Vladimir Lenin.\n- Bagratuni Dynasty is affiliated with the religion of Christianity.\n- Christianity was founded in the city of Jerusalem\n- Olga of Kiev died in the city of Rodez.\n- The name of the current head of state in United States of America is Connachta.\n- Malaysia is located in the continent of Antarctica.\n- The name of the current head of the Tucson government is Jonathan Rothschild.\n- Rand al'Thor was created by Ferdowsi.\n- Thomas Arne was born in the city of London.\n- Frank Zappa died in the city of Berlin\n- The headquarters of Berklee College of Music is located in the city of Boston.\n- Ardashir I's child is Shapur I.\n- Thomas Arne was born in the city of Bengaluru.\n- The headquarters of University of Bucharest is located in the city of Bucharest.\n- The official language of England is English.\n- Malaysia is located in the continent of Asia.\n- The headquarters of University of Minnesota is located in the city of Minneapolis\n- Alan Jay Lerner died in the city of Mansourah, Algeria.\n- The chairperson of Congolese Party of Labour is Denis Sassou-Nguesso\n- The chief executive officer of Apple Inc. is Tim Cook\n- Tim Cook is a citizen of United States of America.\n- Hyderabad is located in the continent of Asia.\n- Charles Dickens died in the city of Gads Hill Place.\n- T. S. Eliot speaks the language of English.\n- The headquarters of Fordham University is located in the city of New York City.\n- Thus Spoke Zarathustra was created in the country of Germany.\n- The name of the current head of the Pittsburgh government is Bill Peduto.\n- Jesus Christ worked in the city of Galilee.\n- The name of the current head of the Italy government is Giuseppe Conte.\n- The name of the current head of the Council of People's Commissars government is Tony Blair.\n- Australia is located in the continent of Oceania\n- The university where Wilhelm II was educated is University of Bonn.\n- The official language of Australia is Arabic.\n- Germany is located in the continent of Africa.\n- Pius XII died in the city of Castel Gandolfo.\n- London is located in the continent of Europe.\n- Transcendental Meditation movement was founded by Adalbert of Prague.\n- Philadelphia was founded by William Penn.\n- quarterback is associated with the sport of Muay Thai\n- Frank Zappa died in the city of Los Angeles\n- T. S. Eliot speaks the language of French.\n- Baseball was created in the country of Japan.\n- The headquarters of Ilyushin is located in the city of Moscow.\n- The name of the current head of the United States of America government is Donald Trump.\n- Rap rock was created in the country of United States of America.\n- The chief executive officer of Twitter is Bernard Arnault.\n- Sarit Thanarat is affiliated with the religion of Buddhism.\n- Le Petit Parisien was created in the country of Germany.\n- Coco Chanel died in the city of Paris.\n- Leo Stein is a citizen of United States of America\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, What is the capital of Tang Empire? \nAnswer:\n\nCurrent Time: 2026-07-04 20:08:29",
+  "response": "Answer: Beaumont",
+  "prompt_tokens": 1403,
+  "completion_tokens": 3,
+  "resolved_pool": [
+    {
+      "id": "47e16921-a6d0-4621-af2a-460d6e252317",
+      "memory": "The capital of Tang Empire is Chang'an",
+      "hash": "471e615f8157715b53f02b4b84936531",
+      "metadata": {
+        "ordinal": 21,
+        "triple": {
+          "subject_id": "tang_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Chang'an",
+          "confidence": 0.95,
+          "subject_raw": "Tang Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.8114714752364693,
+      "created_at": "2026-07-04T05:06:57.947370-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e85f847f-2e6b-4681-82de-3ea5d6252850",
+      "memory": "The capital of Tang Empire is Beaumont.",
+      "hash": "25dc6ddad202a2e5adce706accc47161",
+      "metadata": {
+        "ordinal": 177,
+        "triple": {
+          "subject_id": "tang_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Beaumont",
+          "confidence": 0.95,
+          "subject_raw": "Tang Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.806546686398046,
+      "created_at": "2026-07-04T05:07:02.254879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d70c0af0-9bde-4a49-acb3-6905776fe78c",
+      "memory": "Ernst Heinkel is a citizen of Tang Empire.",
+      "hash": "04e6913e6ea6fe86133cdb75eac9223a",
+      "metadata": {
+        "ordinal": 203,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Tang Empire",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4529103553106708,
+      "created_at": "2026-07-04T05:07:03.333519-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f1f4671b-bbfc-46a0-a553-30f93d591408",
+      "memory": "The capital of Japan is Tokyo.",
+      "hash": "11f50e3271207fcdacec5e0d9ba0951d",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "has capital",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.4105758496286413,
+      "created_at": "2026-07-04T05:07:00.483787-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20bedcfa-dfde-4e73-bbe8-9b16e351499d",
+      "memory": "The capital of England is London.",
+      "hash": "9d8590534963315a4c324a3bfb0d89aa",
+      "metadata": {
+        "ordinal": 378,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.4066520646168434,
+      "created_at": "2026-07-04T05:07:06.669761-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "855ab2cd-d226-43f7-8e4f-85f664ae2ba8",
+      "memory": "The capital of Iran is Tehran.",
+      "hash": "0f11db15ad83c3637bfdb7538a091c20",
+      "metadata": {
+        "ordinal": 255,
+        "triple": {
+          "subject_id": "iran",
+          "predicate_norm": "has capital",
+          "object_text": "Tehran",
+          "confidence": 0.95,
+          "subject_raw": "Iran",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3825925911697676,
+      "created_at": "2026-07-04T05:07:04.175951-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "46f25854-f9ed-4cf5-aee0-f3e643c9c3a3",
+      "memory": "The capital of France is Paris.",
+      "hash": "4804f8d3d7fe277c6b3260dc6c21b887",
+      "metadata": {
+        "ordinal": 163,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "has capital",
+          "object_text": "Paris",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.37803284586114005,
+      "created_at": "2026-07-04T05:07:02.207619-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d92a04ed-d61d-4a6e-b6b4-6773b47ae729",
+      "memory": "The capital of Papal States is Rome.",
+      "hash": "2646dd26fc6b4841bbcbebc647768d36",
+      "metadata": {
+        "ordinal": 198,
+        "triple": {
+          "subject_id": "papal_states",
+          "predicate_norm": "has capital",
+          "object_text": "Rome",
+          "confidence": 0.95,
+          "subject_raw": "Papal States",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.37639140548836514,
+      "created_at": "2026-07-04T05:07:03.325261-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6137545e-bad6-4d98-8d78-dd844499ad2a",
+      "memory": "The capital of Germany is Berlin",
+      "hash": "045caca8b83ed255757f6e00f79919bb",
+      "metadata": {
+        "ordinal": 26,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "has capital",
+          "object_text": "Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3730013778913074,
+      "created_at": "2026-07-04T05:06:57.953278-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a97a0b2b-817f-4544-a2a3-ec8b1f209bcf",
+      "memory": "The capital of Italy is Rome.",
+      "hash": "8a68ffd407d9e7e0277c73767559be30",
+      "metadata": {
+        "ordinal": 167,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has capital",
+          "object_text": "Rome",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.37173290569255396,
+      "created_at": "2026-07-04T05:07:02.214653-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "480ec397-eef2-41ad-91ce-01fa9e4e58a2",
+      "memory": "The capital of India is Grosseto.",
+      "hash": "87ceaf5c2a3e8b7eecac4ef9eb853e28",
+      "metadata": {
+        "ordinal": 341,
+        "triple": null,
+        "subject_fallback": "india"
+      },
+      "score": 0.3703550782686128,
+      "created_at": "2026-07-04T05:07:05.809730-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "491e2529-8635-493c-bc5e-f303b6e4bb9e",
+      "memory": "The capital of Australia is Canberra.",
+      "hash": "46de41b97c344280528f6876ce6aa54f",
+      "metadata": {
+        "ordinal": 284,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has capital",
+          "object_text": "Canberra",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.36445480603857483,
+      "created_at": "2026-07-04T05:07:05.033178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "83a170f8-971a-4fd9-8068-4a310ea17f9c",
+      "memory": "The capital of India is New Delhi.",
+      "hash": "34c93e5e7e3ea7ecbba46b0b87fd91be",
+      "metadata": {
+        "ordinal": 158,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "has capital",
+          "object_text": "New Delhi",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3463330073239868,
+      "created_at": "2026-07-04T05:07:02.191265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ea37abe1-84f6-4c57-93cb-ab5fbac41bce",
+      "memory": "The capital of United States of America is Washington, D.C.",
+      "hash": "d12418a18a0f0e5323b0df256d6c142e",
+      "metadata": {
+        "ordinal": 247,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.34591735514836913,
+      "created_at": "2026-07-04T05:07:04.166757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2cd1dd6f-0a6c-4c84-92a3-20fa7ac6d00f",
+      "memory": "The capital of Great Britain is London",
+      "hash": "845a2c22369b75c738eaca9ee4f25d32",
+      "metadata": {
+        "ordinal": 33,
+        "triple": {
+          "subject_id": "great_britain",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "Great Britain",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.33998378363895243,
+      "created_at": "2026-07-04T05:06:57.961094-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c6db9ddd-cc15-4499-bc1e-e80bcb37e425",
+      "memory": "Christianity was founded in the city of Taipei",
+      "hash": "0674013584063aedda38b8898d92d84b",
+      "metadata": {
+        "ordinal": 43,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Taipei",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.33509629097563814,
+      "created_at": "2026-07-04T05:06:59.538575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1285a142-3870-4c1e-a27d-cd8a87508cb9",
+      "memory": "The capital of Romania is Bucharest.",
+      "hash": "f97b7a299b57853b26d6e68606906c08",
+      "metadata": {
+        "ordinal": 185,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "has capital",
+          "object_text": "Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3294097793919096,
+      "created_at": "2026-07-04T05:07:02.264101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f9b614c4-2b86-425e-8907-0638574cf83f",
+      "memory": "The capital of Australia is Oderzo.",
+      "hash": "dd63c2df9b5db7bcc718b2815c20312b",
+      "metadata": {
+        "ordinal": 388,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has capital",
+          "object_text": "Oderzo",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.32921629911274486,
+      "created_at": "2026-07-04T05:07:07.453949-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6fa24047-3e9c-4934-9990-2804cdac67ce",
+      "memory": "The capital of Italy is Duluth.",
+      "hash": "afc9aea72619ec86a2c839909b76f8eb",
+      "metadata": {
+        "ordinal": 209,
+        "triple": {
+          "subject_id": "italy",
+          "predicate_norm": "has capital",
+          "object_text": "Duluth",
+          "confidence": 0.95,
+          "subject_raw": "Italy",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3252936254300902,
+      "created_at": "2026-07-04T05:07:03.341965-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e7d07a95-4737-493b-b457-886beddf2c53",
+      "memory": "The capital of United Kingdom is London.",
+      "hash": "8327324d443c75056891aabc69a71bfa",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.32457781924463114,
+      "created_at": "2026-07-04T05:07:06.668464-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cb7c2d66-5ab8-4996-bd0e-bc57b9702097",
+      "memory": "The capital of France is Harare.",
+      "hash": "f348da8afbacc7b9707cee1521f41ccd",
+      "metadata": {
+        "ordinal": 171,
+        "triple": null,
+        "subject_fallback": "france"
+      },
+      "score": 0.3215043145752263,
+      "created_at": "2026-07-04T05:07:02.247468-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d413d9e9-cd5c-419b-bad2-6dc6a9c16d4e",
+      "memory": "The capital of Romania is Rajanpur.",
+      "hash": "e115a012eca4446f35e29e0ef75c4298",
+      "metadata": {
+        "ordinal": 449,
+        "triple": {
+          "subject_id": "the_capital_of_romania",
+          "predicate_norm": "be",
+          "object_text": "Rajanpur",
+          "confidence": 0.95,
+          "subject_raw": "the capital of Romania",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.3190089076003224,
+      "created_at": "2026-07-04T05:07:08.470332-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68cbf3b5-f0fa-4edd-a7f6-2bc876f52719",
+      "memory": "The capital of Soviet Union is Moscow.",
+      "hash": "c9e1de151f44789feeea4592566580f3",
+      "metadata": {
+        "ordinal": 156,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "has capital",
+          "object_text": "Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.2974414900350779,
+      "created_at": "2026-07-04T05:07:02.185999-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "912253db-0482-411c-8450-7460450c63e4",
+      "memory": "The capital of Czech Republic is Prague.",
+      "hash": "929b1bfb4d2819e36837b15bdc8bf258",
+      "metadata": {
+        "ordinal": 190,
+        "triple": {
+          "subject_id": "czech_republic",
+          "predicate_norm": "has capital",
+          "object_text": "Prague",
+          "confidence": 0.95,
+          "subject_raw": "Czech Republic",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.2850498191677795,
+      "created_at": "2026-07-04T05:07:02.269692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d43d7f7c-3c0f-4947-9db8-850b13c95040",
+      "memory": "The capital of Soviet Union is Russellville.",
+      "hash": "d720d2d6b3571f02bd4abaa1739d7750",
+      "metadata": {
+        "ordinal": 179,
+        "triple": null,
+        "subject_fallback": "soviet_union"
+      },
+      "score": 0.27042548286943097,
+      "created_at": "2026-07-04T05:07:02.257291-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "363546de-d80d-4b1c-93e1-9cb1d902d9c0",
+      "memory": "The capital of United States of America is Harrisville.",
+      "hash": "4027c441330d56992a121d1b7033f822",
+      "metadata": {
+        "ordinal": 396,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Harrisville",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.2671362751877349,
+      "created_at": "2026-07-04T05:07:07.475104-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "45102aef-845f-4fb5-9db1-a1991c2269f9",
+      "memory": "Sasanian Empire was founded by Ardashir I.",
+      "hash": "f4df5ff7820f26cfa5b27f18e30f090d",
+      "metadata": {
+        "ordinal": 224,
+        "triple": {
+          "subject_id": "sasanian_empire",
+          "predicate_norm": "be founded by",
+          "object_text": "Ardashir I",
+          "confidence": 0.95,
+          "subject_raw": "Sasanian Empire",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2497667811241539,
+      "created_at": "2026-07-04T05:07:03.360707-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7072aec8-bf76-459d-9b3b-822095de4d76",
+      "memory": "Sasanian Empire was founded by Walter Chrysler.",
+      "hash": "bcc5ce2fa3e503182c9084dd653d7151",
+      "metadata": {
+        "ordinal": 264,
+        "triple": {
+          "subject_id": "sasanian_empire",
+          "predicate_norm": "be founded by",
+          "object_text": "Walter Chrysler",
+          "confidence": 0.95,
+          "subject_raw": "Sasanian Empire",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.22433459033921901,
+      "created_at": "2026-07-04T05:07:04.186356-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a059b4e2-c12b-4b25-a788-7490f21c3182",
+      "memory": "Shingon Buddhism was founded by Kūkai",
+      "hash": "902ca1360c19729b2ab67e2ccc4dcb94",
+      "metadata": {
+        "ordinal": 20,
+        "triple": {
+          "subject_id": "shingon_buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Kūkai",
+          "confidence": 0.95,
+          "subject_raw": "Shingon Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.21928628930384644,
+      "created_at": "2026-07-04T05:06:57.946153-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1edc09c5-1fba-4100-bdde-af1cf5aa328f",
+      "memory": "Charles the Bold is a citizen of France.",
+      "hash": "f9dedca9adbd0eaeef5f930f462d8109",
+      "metadata": {
+        "ordinal": 371,
+        "triple": {
+          "subject_id": "charles_the_bold",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles the Bold",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19632112331060045,
+      "created_at": "2026-07-04T05:07:06.659389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "762d7195-18ae-47f2-b494-090354a15494",
+      "memory": "Buddhism was founded by Gautama Buddha",
+      "hash": "4c8ff8e59a9e8d1ef0ae719079515493",
+      "metadata": {
+        "ordinal": 67,
+        "triple": {
+          "subject_id": "buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Gautama Buddha",
+          "confidence": 0.95,
+          "subject_raw": "Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.19628665235444348,
+      "created_at": "2026-07-04T05:06:59.567177-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b1a7f681-9448-4923-809a-6319b9cd6b31",
+      "memory": "Buddhism was founded by Mekere Morauta.",
+      "hash": "22741c04d05ce5193b860f7b9ef594cd",
+      "metadata": {
+        "ordinal": 370,
+        "triple": {
+          "subject_id": "buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "Mekere Morauta",
+          "confidence": 0.9,
+          "subject_raw": "Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1819563172606333,
+      "created_at": "2026-07-04T05:07:06.657892-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3e16077b-d06b-44c3-9ae3-e3b990c367fc",
+      "memory": "Bengaluru is located in the continent of Asia",
+      "hash": "cfaddcf00de3b353578a87f5547793fe",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "bengaluru",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Bengaluru",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.18176840025896307,
+      "created_at": "2026-07-04T05:06:57.923840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f2cbe2b5-ca33-49d0-8918-d9616d6843ee",
+      "memory": "Oscar Wilde died in the city of Guangzhou.",
+      "hash": "207b3d2362a8a6f0c45909192b37a59b",
+      "metadata": {
+        "ordinal": 270,
+        "triple": {
+          "subject_id": "oscar_wilde",
+          "predicate_norm": "died in",
+          "object_text": "Guangzhou",
+          "confidence": 0.95,
+          "subject_raw": "Oscar Wilde",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.17879395978709145,
+      "created_at": "2026-07-04T05:07:04.193202-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4d3bd80-97df-4d2b-923a-bebdc72651a5",
+      "memory": "The headquarters of Bowdoin College is located in the city of Brunswick.",
+      "hash": "9f79074e04a79bf5b0c0572a34bf038c",
+      "metadata": {
+        "ordinal": 130,
+        "triple": {
+          "subject_id": "bowdoin_college",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Brunswick",
+          "confidence": 0.95,
+          "subject_raw": "Bowdoin College",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.17656852461192285,
+      "created_at": "2026-07-04T05:07:01.392414-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "28c21eab-aab9-4046-8021-498675a9b117",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Berkeley",
+      "hash": "e87e9b8dce9813a745936836ce3f9ed0",
+      "metadata": {
+        "ordinal": 12,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Berkeley",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.17474277202085525,
+      "created_at": "2026-07-04T05:06:57.935742-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "adaf8054-9d46-4d95-87c3-3768fd93b1cc",
+      "memory": "The Wheel of Time was written in the language of English.",
+      "hash": "7eed8b9ec065594b31cca776da866879",
+      "metadata": {
+        "ordinal": 199,
+        "triple": {
+          "subject_id": "the_wheel_of_time",
+          "predicate_norm": "be written in language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "The Wheel of Time",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.17321889359453554,
+      "created_at": "2026-07-04T05:07:03.327064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "78b1524d-d492-4889-a783-39909baf78af",
+      "memory": "Ferdowsi is famous for Shahnameh.",
+      "hash": "cf80b143884d1ff390bd0faa3edfd463",
+      "metadata": {
+        "ordinal": 86,
+        "triple": {
+          "subject_id": "ferdowsi",
+          "predicate_norm": "be famous for",
+          "object_text": "Shahnameh",
+          "confidence": 0.95,
+          "subject_raw": "Ferdowsi",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.16833568347116068,
+      "created_at": "2026-07-04T05:07:00.463787-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4abbd509-2a52-432a-9f45-b00eca210740",
+      "memory": "The headquarters of University of Bucharest is located in the city of Ankara.",
+      "hash": "d48702d42715877452331f672b2f7004",
+      "metadata": {
+        "ordinal": 409,
+        "triple": {
+          "subject_id": "university_of_bucharest",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Ankara",
+          "confidence": 0.95,
+          "subject_raw": "University of Bucharest",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.16730590916657884,
+      "created_at": "2026-07-04T05:07:07.496942-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7f7915a9-8713-4ca2-8f00-99c23771ebb0",
+      "memory": "Sumo was created in the country of Japan.",
+      "hash": "ca047e0f5be33c10eb940dc491cd95d0",
+      "metadata": {
+        "ordinal": 95,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Japan",
+          "confidence": 0.95,
+          "subject_raw": "Sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1672437914450342,
+      "created_at": "2026-07-04T05:07:00.474360-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "65c539ad-332e-4ed9-bd95-4fd5c999ddd8",
+      "memory": "Pierre Beaumarchais was born in the city of Paris.",
+      "hash": "6cece0c60490c3a35e8b5471e86c3e64",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "pierre_beaumarchais",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Pierre Beaumarchais",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.16610987040697994,
+      "created_at": "2026-07-04T05:07:05.765530-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c477009f-155b-459a-aa11-aa4bdcecd2b8",
+      "memory": "The headquarters of University of California, Berkeley is located in the city of Botevgrad.",
+      "hash": "8afbf714cd2995792aebf78f640ebfed",
+      "metadata": {
+        "ordinal": 114,
+        "triple": {
+          "subject_id": "university_of_california,_berkeley",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Botevgrad",
+          "confidence": 0.95,
+          "subject_raw": "University of California, Berkeley",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.16592777466532305,
+      "created_at": "2026-07-04T05:07:01.373680-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4c42d013-a1af-408b-a3fe-4b6e4e398ca1",
+      "memory": "Shahnameh was written in the language of Persian.",
+      "hash": "e8756309df05629b23a9081c7755e7d4",
+      "metadata": {
+        "ordinal": 391,
+        "triple": {
+          "subject_id": "shahnameh",
+          "predicate_norm": "be written in",
+          "object_text": "the language of Persian",
+          "confidence": 0.95,
+          "subject_raw": "Shahnameh",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.16413798982438757,
+      "created_at": "2026-07-04T05:07:07.464136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e06cc933-76da-4051-a5ef-23447dfbf22a",
+      "memory": "San Francisco is located in the continent of North America.",
+      "hash": "dc0541120e69139114c10428be1e2b32",
+      "metadata": {
+        "ordinal": 397,
+        "triple": {
+          "subject_id": "san_francisco",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "San Francisco",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.16395485962840825,
+      "created_at": "2026-07-04T05:07:07.477127-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "82697c7a-f3ff-42b3-9071-4ad8ba168a72",
+      "memory": "Rap rock was created in the country of Russian Empire.",
+      "hash": "8faf73fece6ea7e648b0f715f3e7109e",
+      "metadata": {
+        "ordinal": 403,
+        "triple": {
+          "subject_id": "rap_rock",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Russian Empire",
+          "confidence": 0.95,
+          "subject_raw": "Rap rock",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.16287694927630744,
+      "created_at": "2026-07-04T05:07:07.487833-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "43d24918-24d2-439b-97fc-fa36255cf1be",
+      "memory": "Shingon Buddhism was founded by William Waynflete.",
+      "hash": "84223cf71a7dc24b749efc6fb3b34658",
+      "metadata": {
+        "ordinal": 304,
+        "triple": {
+          "subject_id": "shingon_buddhism",
+          "predicate_norm": "be founded by",
+          "object_text": "William Waynflete",
+          "confidence": 0.95,
+          "subject_raw": "Shingon Buddhism",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1627437093464229,
+      "created_at": "2026-07-04T05:07:05.059495-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "98b32645-5efd-442c-8f65-370862ff03ba",
+      "memory": "The name of the current head of the Japan government is Shinzō Abe.",
+      "hash": "93809e7274a293b3a51ba1a3eb0afad7",
+      "metadata": {
+        "ordinal": 202,
+        "triple": {
+          "subject_id": "japan_government",
+          "predicate_norm": "has current head",
+          "object_text": "Shinzō Abe",
+          "confidence": 0.95,
+          "subject_raw": "Japan government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.16130526856315788,
+      "created_at": "2026-07-04T05:07:03.331950-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f77cbfc4-1e6f-424b-8d8a-a3866da70dba",
+      "memory": "Bengaluru is located in the continent of Oceania.",
+      "hash": "1d15af7fd9c2d5f2bc31360740c2712a",
+      "metadata": {
+        "ordinal": 234,
+        "triple": null,
+        "subject_fallback": "bengaluru"
+      },
+      "score": 0.15618900736571767,
+      "created_at": "2026-07-04T05:07:04.149662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20ad497a-87de-4cea-bf90-38ce9f778fee",
+      "memory": "Boston was founded by John Winthrop.",
+      "hash": "386949d7f8a51d81839a0ad1796f4a5b",
+      "metadata": {
+        "ordinal": 108,
+        "triple": {
+          "subject_id": "boston",
+          "predicate_norm": "be founded by",
+          "object_text": "John Winthrop",
+          "confidence": 0.95,
+          "subject_raw": "Boston",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1542800980864204,
+      "created_at": "2026-07-04T05:07:00.489721-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fa217551-d9e7-439d-81cf-14559d19af79",
+      "memory": "The name of the current head of state in United Kingdom is Emmerson Mnangagwa.",
+      "hash": "00ab3a02c01d1f716f79574faab04898",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has current head state",
+          "object_text": "Emmerson Mnangagwa",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.15291749378008038,
+      "created_at": "2026-07-04T05:07:04.169066-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6d4239be-7cdb-4102-86fc-3b24dc4c2523",
+      "memory": "The name of the current head of the Council of People's Commissars government is Vladimir Lenin.",
+      "hash": "35cdd4fb24fca64198950319761650fb",
+      "metadata": {
+        "ordinal": 324,
+        "triple": {
+          "subject_id": "vladimir_lenin",
+          "predicate_norm": "be current head",
+          "object_text": "the Council of People's Commissars government",
+          "confidence": 0.95,
+          "subject_raw": "Vladimir Lenin",
+          "predicate_raw": "is the current head of"
+        }
+      },
+      "score": 0.152460795896998,
+      "created_at": "2026-07-04T05:07:05.782704-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "df4a9374-d644-4049-a87a-1437a06cd863",
+      "memory": "Bagratuni Dynasty is affiliated with the religion of Christianity.",
+      "hash": "7feb1f5db9c9fe8b6d02bbc7f082fb49",
+      "metadata": {
+        "ordinal": 172,
+        "triple": {
+          "subject_id": "bagratuni_dynasty",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "Christianity",
+          "confidence": 0.95,
+          "subject_raw": "Bagratuni Dynasty",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.15067316347360393,
+      "created_at": "2026-07-04T05:07:02.248676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ced1d43c-8b27-42b8-b9e1-d1b25be0f75c",
+      "memory": "Christianity was founded in the city of Jerusalem",
+      "hash": "7a144696115b803673d7f281584dfd02",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Jerusalem",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.15059766449990653,
+      "created_at": "2026-07-04T05:06:59.534248-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "da66ba79-6c9a-41a4-9526-705797b263e9",
+      "memory": "Olga of Kiev died in the city of Rodez.",
+      "hash": "be4a3cc383c94cfc3a260d3ae301ee6f",
+      "metadata": {
+        "ordinal": 450,
+        "triple": {
+          "subject_id": "olga_of_kiev",
+          "predicate_norm": "died in",
+          "object_text": "the city of Rodez",
+          "confidence": 0.95,
+          "subject_raw": "Olga of Kiev",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1424352756725801,
+      "created_at": "2026-07-04T05:07:08.471678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "746ee4b0-08ac-4710-99cd-8513fa6ed33e",
+      "memory": "The name of the current head of state in United States of America is Connachta.",
+      "hash": "0c5594ccdae63dab7bb410e188bfde05",
+      "metadata": {
+        "ordinal": 126,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has current head state",
+          "object_text": "Connachta",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.14223534542756672,
+      "created_at": "2026-07-04T05:07:01.387608-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f0872419-4672-4b6c-a522-0925c1fb6bb0",
+      "memory": "Malaysia is located in the continent of Antarctica.",
+      "hash": "08d42c32d41c7d52b0330389f540cd8c",
+      "metadata": {
+        "ordinal": 442,
+        "triple": null,
+        "subject_fallback": "malaysia"
+      },
+      "score": 0.14161740958620234,
+      "created_at": "2026-07-04T05:07:08.460379-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5ba5ba8f-52e8-4ccf-9a94-d03ad01b7b53",
+      "memory": "The name of the current head of the Tucson government is Jonathan Rothschild.",
+      "hash": "d4cfa7d2e65e81c6ed9bf747d27ed5a2",
+      "metadata": {
+        "ordinal": 454,
+        "triple": {
+          "subject_id": "the_current_head_of_the_tucson_government",
+          "predicate_norm": "be",
+          "object_text": "Jonathan Rothschild",
+          "confidence": 0.95,
+          "subject_raw": "the current head of the Tucson government",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.14094385740367926,
+      "created_at": "2026-07-04T05:07:08.476743-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3945cf8d-9048-4d9d-af32-ad2a6963d08e",
+      "memory": "Rand al'Thor was created by Ferdowsi.",
+      "hash": "00135e4cf41baf09e172eb5bc9f13e08",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Ferdowsi",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.14053220769246802,
+      "created_at": "2026-07-04T05:07:05.786203-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ba3b7b54-3784-45bf-9399-7fe33f8f6a65",
+      "memory": "Thomas Arne was born in the city of London.",
+      "hash": "4408992ab9ac8249091fe63cb04ad033",
+      "metadata": {
+        "ordinal": 342,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.14001465337138091,
+      "created_at": "2026-07-04T05:07:05.811037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d73015f1-9102-429a-8785-86cdfe045d63",
+      "memory": "Frank Zappa died in the city of Berlin",
+      "hash": "dc135240680d439ec7074f946c34ba73",
+      "metadata": {
+        "ordinal": 51,
+        "triple": {
+          "subject_id": "frank_zappa",
+          "predicate_norm": "died in",
+          "object_text": "the city of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Frank Zappa",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1396682655271467,
+      "created_at": "2026-07-04T05:06:59.548751-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b5cf901-b8f6-4628-8947-a7a44516d21b",
+      "memory": "The headquarters of Berklee College of Music is located in the city of Boston.",
+      "hash": "256f9455878aa983ab53cab92f02ca64",
+      "metadata": {
+        "ordinal": 380,
+        "triple": {
+          "subject_id": "berklee_college_of_music",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Boston",
+          "confidence": 0.95,
+          "subject_raw": "Berklee College of Music",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.13777488025389867,
+      "created_at": "2026-07-04T05:07:06.672441-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f50c03ad-e5d2-41a0-93f1-bb1c7b80fde2",
+      "memory": "Ardashir I's child is Shapur I.",
+      "hash": "aa33c5160a9744e68ebc0d3ef3d16108",
+      "metadata": {
+        "ordinal": 411,
+        "triple": {
+          "subject_id": "ardashir_i",
+          "predicate_norm": "has child",
+          "object_text": "Shapur I",
+          "confidence": 0.95,
+          "subject_raw": "Ardashir I",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.13758927744032884,
+      "created_at": "2026-07-04T05:07:07.499772-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d299cea6-1dff-45d6-af82-5497e17ed948",
+      "memory": "Thomas Arne was born in the city of Bengaluru.",
+      "hash": "a952ddf43f519d2c4dd749d512a5030d",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "Bengaluru",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.1373513502754682,
+      "created_at": "2026-07-04T05:07:06.651530-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e59cbe81-9355-4d6e-b5da-78470c01aa84",
+      "memory": "The headquarters of University of Bucharest is located in the city of Bucharest.",
+      "hash": "dca596e74fb6901b3718f21916ec84db",
+      "metadata": {
+        "ordinal": 173,
+        "triple": {
+          "subject_id": "university_of_bucharest",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "University of Bucharest",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.13621547762180902,
+      "created_at": "2026-07-04T05:07:02.249858-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d4bafaf7-0fdc-4a1f-9e72-d368208070a6",
+      "memory": "The official language of England is English.",
+      "hash": "b2f12a81c86b0f22ddc3505885523cf5",
+      "metadata": {
+        "ordinal": 99,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has official language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.13611816319663309,
+      "created_at": "2026-07-04T05:07:00.479095-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ad71ec98-3106-42db-8f60-2b7ef35629af",
+      "memory": "Malaysia is located in the continent of Asia.",
+      "hash": "d769a65a695987e7d394c087a9fdf251",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "malaysia",
+          "predicate_norm": "be located in",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Malaysia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.1334081340210456,
+      "created_at": "2026-07-04T05:07:06.662576-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ae213e75-99b6-4bff-ae06-d27f2d8ba9a1",
+      "memory": "The headquarters of University of Minnesota is located in the city of Minneapolis",
+      "hash": "00a09df9aa905c1e3ffc33f3ae30d200",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "university_of_minnesota",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Minneapolis",
+          "confidence": 0.95,
+          "subject_raw": "University of Minnesota",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.13329385337262356,
+      "created_at": "2026-07-04T05:06:57.931581-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2cce8b38-61e5-4b93-a3fe-19830d2797e1",
+      "memory": "Alan Jay Lerner died in the city of Mansourah, Algeria.",
+      "hash": "b32471b6b7495a10b2855debb94a903e",
+      "metadata": {
+        "ordinal": 394,
+        "triple": {
+          "subject_id": "alan_jay_lerner",
+          "predicate_norm": "died in",
+          "object_text": "the city of Mansourah, Algeria",
+          "confidence": 0.95,
+          "subject_raw": "Alan Jay Lerner",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1332640796598773,
+      "created_at": "2026-07-04T05:07:07.471288-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9c1a2678-d2ee-4a1e-a19a-5d5f316dab05",
+      "memory": "The chairperson of Congolese Party of Labour is Denis Sassou-Nguesso",
+      "hash": "fc591650405576980432d591b0ff6cd2",
+      "metadata": {
+        "ordinal": 54,
+        "triple": {
+          "subject_id": "congolese_party_of_labour",
+          "predicate_norm": "has chairperson",
+          "object_text": "Denis Sassou-Nguesso",
+          "confidence": 0.95,
+          "subject_raw": "Congolese Party of Labour",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.13122175701930427,
+      "created_at": "2026-07-04T05:06:59.552209-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d6d78479-67d0-4a47-b241-f31f28206002",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook",
+      "hash": "fb9e7bb6bbd5546d68ca967bcaf3ad53",
+      "metadata": {
+        "ordinal": 13,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Tim Cook",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.1310951067726808,
+      "created_at": "2026-07-04T05:06:57.937146-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "45548a28-8e2f-42e2-9f5a-b68a67ad6977",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 444,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.13057360532654436,
+      "created_at": "2026-07-04T05:07:08.463298-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5be69757-7342-4adb-a640-5f09c10b64e5",
+      "memory": "Hyderabad is located in the continent of Asia.",
+      "hash": "d1c66b5116de5be06fcf7cd940ed2ef9",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.1290757822767038,
+      "created_at": "2026-07-04T05:07:02.266334-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "35e8ead7-b379-4640-a20a-753a6a1332a4",
+      "memory": "Charles Dickens died in the city of Gads Hill Place.",
+      "hash": "444f2827d1f5e9f4995c727f8f3b1b48",
+      "metadata": {
+        "ordinal": 448,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "died in",
+          "object_text": "the city of Gads Hill Place",
+          "confidence": 0.95,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1274716798713629,
+      "created_at": "2026-07-04T05:07:08.468933-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fbf45872-903a-4dc6-b29c-942af927da9a",
+      "memory": "T. S. Eliot speaks the language of English.",
+      "hash": "60560e9f638a126fa7a2a3a44723c92d",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.12632553744407415,
+      "created_at": "2026-07-04T05:07:03.319769-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a139aa6f-1430-4965-8e37-03fef2d7e105",
+      "memory": "The headquarters of Fordham University is located in the city of New York City.",
+      "hash": "5c669a9a7ea1ca33549c1c03f562524e",
+      "metadata": {
+        "ordinal": 101,
+        "triple": {
+          "subject_id": "fordham_university",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of New York City",
+          "confidence": 0.95,
+          "subject_raw": "Fordham University",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.12439127750633545,
+      "created_at": "2026-07-04T05:07:00.481376-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e6aa1e9a-e9da-4f3b-953c-c0156004a1a1",
+      "memory": "Thus Spoke Zarathustra was created in the country of Germany.",
+      "hash": "9854f20cb6a8b9a0f142fb2de16e699f",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "thus_spoke_zarathustra",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Germany",
+          "confidence": 0.95,
+          "subject_raw": "Thus Spoke Zarathustra",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1243884558225079,
+      "created_at": "2026-07-04T05:07:05.815271-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "84d78026-17f4-4222-b3e1-a711cb65e695",
+      "memory": "The name of the current head of the Pittsburgh government is Bill Peduto.",
+      "hash": "08d001b8633556125ab5c95ff2565b44",
+      "metadata": {
+        "ordinal": 140,
+        "triple": {
+          "subject_id": "pittsburgh_government",
+          "predicate_norm": "has current head",
+          "object_text": "Bill Peduto",
+          "confidence": 0.95,
+          "subject_raw": "Pittsburgh government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.12433260809599368,
+      "created_at": "2026-07-04T05:07:01.404821-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fdccc595-e696-47c6-aa9d-8c5aae148402",
+      "memory": "Jesus Christ worked in the city of Galilee.",
+      "hash": "01053bf9987a31187e2eb873c4dc7dde",
+      "metadata": {
+        "ordinal": 307,
+        "triple": {
+          "subject_id": "jesus_christ",
+          "predicate_norm": "worked in",
+          "object_text": "Galilee",
+          "confidence": 0.95,
+          "subject_raw": "Jesus Christ",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.124215507467726,
+      "created_at": "2026-07-04T05:07:05.063205-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2423ae66-ed7e-4ff7-b30a-e08bddde4d9d",
+      "memory": "The name of the current head of the Italy government is Giuseppe Conte.",
+      "hash": "420c0682d15c77812223c71e80db9917",
+      "metadata": {
+        "ordinal": 375,
+        "triple": {
+          "subject_id": "italy_government",
+          "predicate_norm": "has current head",
+          "object_text": "Giuseppe Conte",
+          "confidence": 0.9,
+          "subject_raw": "Italy government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.12374989280765548,
+      "created_at": "2026-07-04T05:07:06.665468-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "14cf166d-36b8-48d8-81c8-0a0edd12d2aa",
+      "memory": "The name of the current head of the Council of People's Commissars government is Tony Blair.",
+      "hash": "6b8fd5f6a1e56f46a30b0a9417730075",
+      "metadata": {
+        "ordinal": 351,
+        "triple": {
+          "subject_id": "council_of_people's_commissars_government",
+          "predicate_norm": "has current head",
+          "object_text": "Tony Blair",
+          "confidence": 0.9,
+          "subject_raw": "Council of People's Commissars government",
+          "predicate_raw": "has current head"
+        }
+      },
+      "score": 0.12236176271838764,
+      "created_at": "2026-07-04T05:07:06.620420-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a3aa335a-67e8-4115-b26d-1c4e7cacd82e",
+      "memory": "Australia is located in the continent of Oceania",
+      "hash": "daad8affd10538efca5c1bc049c10350",
+      "metadata": {
+        "ordinal": 75,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Oceania",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.12115853109417112,
+      "created_at": "2026-07-04T05:06:59.576268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e4cdd005-0b0a-4a70-a742-4671409be5a7",
+      "memory": "The university where Wilhelm II was educated is University of Bonn.",
+      "hash": "863f7c29b93d7edd857cc96a2196c433",
+      "metadata": {
+        "ordinal": 349,
+        "triple": {
+          "subject_id": "wilhelm_ii",
+          "predicate_norm": "be educated at",
+          "object_text": "University of Bonn",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm II",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.12079738529016379,
+      "created_at": "2026-07-04T05:07:06.613400-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bfbeb5ac-f179-43ec-b643-2345b5deb9d6",
+      "memory": "The official language of Australia is Arabic.",
+      "hash": "5fa5d35e1fce3f796962d2cb658d2dcc",
+      "metadata": {
+        "ordinal": 151,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "has official language",
+          "object_text": "Arabic",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.12024164190859764,
+      "created_at": "2026-07-04T05:07:02.167954-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3c6770c0-d8c5-4909-ac28-69d4352197a2",
+      "memory": "Germany is located in the continent of Africa.",
+      "hash": "ca1c0e24feb080db893e03d76df2127e",
+      "metadata": {
+        "ordinal": 435,
+        "triple": null,
+        "subject_fallback": "germany"
+      },
+      "score": 0.11858192912645743,
+      "created_at": "2026-07-04T05:07:08.449081-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c7620d0d-93b5-454c-9fc4-bc6506ed8688",
+      "memory": "Pius XII died in the city of Castel Gandolfo.",
+      "hash": "197973d346de886d8ee7db46d9035b19",
+      "metadata": {
+        "ordinal": 117,
+        "triple": {
+          "subject_id": "pius_xii",
+          "predicate_norm": "died in",
+          "object_text": "the city of Castel Gandolfo",
+          "confidence": 0.95,
+          "subject_raw": "Pius XII",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.11833330502845593,
+      "created_at": "2026-07-04T05:07:01.377426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c56fb3a6-e566-4cc6-b20b-6703ed398982",
+      "memory": "London is located in the continent of Europe.",
+      "hash": "4f7fa9c7c7858dab4313bbc72ebaf113",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "london",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "London",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.11777288280156417,
+      "created_at": "2026-07-04T05:07:00.495419-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d6003cde-0faa-4bdf-8839-539018b1239f",
+      "memory": "Transcendental Meditation movement was founded by Adalbert of Prague.",
+      "hash": "7657894bd85ae0f44cb6c5de0b8e8e63",
+      "metadata": {
+        "ordinal": 360,
+        "triple": {
+          "subject_id": "transcendental_meditation_movement",
+          "predicate_norm": "be founded by",
+          "object_text": "Adalbert of Prague",
+          "confidence": 0.95,
+          "subject_raw": "Transcendental Meditation movement",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1176768749874022,
+      "created_at": "2026-07-04T05:07:06.641564-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b977f7b4-69c4-47ec-9d35-25521ffe7b5a",
+      "memory": "Philadelphia was founded by William Penn.",
+      "hash": "b3511b20e3dc63f6bebd11e82ff21245",
+      "metadata": {
+        "ordinal": 421,
+        "triple": {
+          "subject_id": "william_penn",
+          "predicate_norm": "founded",
+          "object_text": "Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "William Penn",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.11576088930089767,
+      "created_at": "2026-07-04T05:07:08.404934-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cf0cbf85-1650-4ca8-a9a1-70a0d8d0f561",
+      "memory": "quarterback is associated with the sport of Muay Thai",
+      "hash": "0a0f007ca1cce2f2411bdd2bdaa53376",
+      "metadata": {
+        "ordinal": 50,
+        "triple": null,
+        "subject_fallback": "muay_thai"
+      },
+      "score": 0.1144595985928713,
+      "created_at": "2026-07-04T05:06:59.547493-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "649d09b8-8130-47f0-a7b9-c2d06035ac37",
+      "memory": "Frank Zappa died in the city of Los Angeles",
+      "hash": "061b38b7d689d7ca3198a805134c49ba",
+      "metadata": {
+        "ordinal": 37,
+        "triple": {
+          "subject_id": "frank_zappa",
+          "predicate_norm": "died in",
+          "object_text": "the city of Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "Frank Zappa",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.1141506622654278,
+      "created_at": "2026-07-04T05:06:57.965881-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "33f8e2d0-5ae5-4605-bc9f-32425152687a",
+      "memory": "T. S. Eliot speaks the language of French.",
+      "hash": "91e59bbb7cfa13902a39dc06d0c03058",
+      "metadata": {
+        "ordinal": 197,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.1140899995562551,
+      "created_at": "2026-07-04T05:07:03.323426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b64959d4-3f59-4307-9c6c-cde1fbf8a258",
+      "memory": "Baseball was created in the country of Japan.",
+      "hash": "0873ce695a8eac0e39fc5470db45ff63",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "be created in",
+          "object_text": "Baseball",
+          "confidence": 0.9,
+          "subject_raw": "Japan",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.11308521066863741,
+      "created_at": "2026-07-04T05:07:06.675055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bf2812d4-6ed5-4b64-853e-aee062cedb48",
+      "memory": "The headquarters of Ilyushin is located in the city of Moscow.",
+      "hash": "ed2daa4c8e29ec9141dd4b2f9c35e21f",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "ilyushin",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Ilyushin",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.1125243889049811,
+      "created_at": "2026-07-04T05:07:05.759901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f95e8209-6574-4189-9576-e4c40692a118",
+      "memory": "The name of the current head of the United States of America government is Donald Trump.",
+      "hash": "a8fe3ca3f4e9b5ad8a4a9a809552868f",
+      "metadata": {
+        "ordinal": 432,
+        "triple": {
+          "subject_id": "the_current_head_of_the_united_states_of_america_government",
+          "predicate_norm": "be",
+          "object_text": "Donald Trump",
+          "confidence": 0.95,
+          "subject_raw": "the current head of the United States of America government",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.11248770883800685,
+      "created_at": "2026-07-04T05:07:08.443504-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "18f63004-fa5f-483f-9d33-0e88836f8a48",
+      "memory": "Rap rock was created in the country of United States of America.",
+      "hash": "3dc7cf22a3ce7632f37dac4c2e4e7e32",
+      "metadata": {
+        "ordinal": 359,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "be created in",
+          "object_text": "Rap rock",
+          "confidence": 0.9,
+          "subject_raw": "United States of America",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.11238854197194734,
+      "created_at": "2026-07-04T05:07:06.639575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "944166df-88bc-4c73-b1eb-89d428de3d64",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.11195352023602659,
+      "created_at": "2026-07-04T05:07:05.020350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e8d7307c-c369-46d9-b6f5-0fe6155ebff3",
+      "memory": "Sarit Thanarat is affiliated with the religion of Buddhism.",
+      "hash": "cb4ee33552118f692b1de8cf94aa27b7",
+      "metadata": {
+        "ordinal": 119,
+        "triple": {
+          "subject_id": "sarit_thanarat",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Buddhism",
+          "confidence": 0.95,
+          "subject_raw": "Sarit Thanarat",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.11072399935635455,
+      "created_at": "2026-07-04T05:07:01.379632-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2c49ace9-2579-44c3-b838-9ab58d476761",
+      "memory": "Le Petit Parisien was created in the country of Germany.",
+      "hash": "ecc0f8668480a5366eb37d9bb1e05b7c",
+      "metadata": {
+        "ordinal": 436,
+        "triple": {
+          "subject_id": "le_petit_parisien",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Germany",
+          "confidence": 0.95,
+          "subject_raw": "Le Petit Parisien",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.10943726981298804,
+      "created_at": "2026-07-04T05:07:08.450696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "154758a8-3c37-477a-9ea4-4feaf8d0b1ad",
+      "memory": "Coco Chanel died in the city of Paris.",
+      "hash": "35528f6684626083ab5969218d02c4cb",
+      "metadata": {
+        "ordinal": 352,
+        "triple": {
+          "subject_id": "coco_chanel",
+          "predicate_norm": "died in",
+          "object_text": "Paris",
+          "confidence": 0.95,
+          "subject_raw": "Coco Chanel",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.10909827634316285,
+      "created_at": "2026-07-04T05:07:06.623559-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "123919b4-548f-4068-a175-bbd9ff2b1e18",
+      "memory": "Leo Stein is a citizen of United States of America",
+      "hash": "b276aff045f4d7126a0a6af485028850",
+      "metadata": {
+        "ordinal": 60,
+        "triple": {
+          "subject_id": "leo_stein",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Leo Stein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1086607240678646,
+      "created_at": "2026-07-04T05:06:59.558980-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# Gemma3-1B mem0 — STRUCTURAL ablation variant (weak-model regime).
+# Same write as ours (P1 unified extractor + conservative store), but query =
+# deterministic (S,P) group + ordinal argmax (no LLM grouping/conflict-type at query).
+# Reuses ours' P1 extraction caches → write is held fixed across ours / ours_struct.
+agent_name: Structure_rag_mistral-7b-mem0_512_openai_unified_struct
+model: mistral:7b
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-unified_struct__mistral-7b
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: ollama
+    config:
+      model: mistral:7b
+      temperature: 0
+      max_tokens: 2048
+      ollama_base_url: http://localhost:11434
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_struct__mistral-7b
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_struct__mistral-7b
+      on_disk: true
+  use_unified_extractor: true

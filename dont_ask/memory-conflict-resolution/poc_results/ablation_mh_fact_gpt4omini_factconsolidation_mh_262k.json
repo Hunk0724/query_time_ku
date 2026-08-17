@@ -1,0 +1,1314 @@
+{
+  "experiment": "ablation_mh_fact_gpt4omini",
+  "model": "gpt-4o-mini",
+  "task": "mh",
+  "chunk_strategy": "fact",
+  "source": "factconsolidation_mh_262k",
+  "context_length": "262k",
+  "n_questions": 100,
+  "correct": 27,
+  "accuracy": 0.27,
+  "elapsed_seconds": 743.6951458454132,
+  "results": [
+    {
+      "q_idx": 0,
+      "question": "What is the country of origin of the sport played by Christian Abbiati?",
+      "ground_truth": [
+        "Philippines"
+      ],
+      "answer": "goalkeeper",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 1,
+      "question": "Which religion is the country of citizenship of Karl Lueger predominantly associated with?",
+      "ground_truth": [
+        "atheism"
+      ],
+      "answer": "atheism",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 2,
+      "question": "The continent where the country of citizenship of the spouse of the author of \"American Pastoral\" is related to is what?",
+      "ground_truth": [
+        "Oceania"
+      ],
+      "answer": "F. Scott Fitzgerald",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 3,
+      "question": "What is the place of origin for the broadcaster who first aired \"Your Hit Parade\"?",
+      "ground_truth": [
+        "Paris"
+      ],
+      "answer": "NBC",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 4,
+      "question": "What is the name of the language in which Valmiki wrote his notable works?",
+      "ground_truth": [
+        "English"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 5,
+      "question": "What is the language officially spoken in the country where the spouse of the Chief Executive Officer of CBS Corporation holds citizenship?",
+      "ground_truth": [
+        "Walloon"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 6,
+      "question": "Which language was the one in which Melvil Dewey produced their notable work?",
+      "ground_truth": [
+        "Italian"
+      ],
+      "answer": "Italian",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 7,
+      "question": "In which language does the director/manager, who is affiliated with \"Revolver\", communicate officially in their country of citizenship?",
+      "ground_truth": [
+        "Arabic"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 8,
+      "question": "In which school did the author of \"Measure for Measure\" receive their education?",
+      "ground_truth": [
+        "University of Oxford"
+      ],
+      "answer": "Terrance Dicks",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 9,
+      "question": "What is the name of the person who created the language used as the official language of the headquarters of FC Viikingit?",
+      "ground_truth": [
+        "L. L. Zamenhof"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 10,
+      "question": "What continent does the place of birth of the chief executive officer of Visual Basic .NET belong to?",
+      "ground_truth": [
+        "Oceania"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 11,
+      "question": "Where was the person who created the religion that Giulio Alberoni was associated with born?",
+      "ground_truth": [
+        "Epworth"
+      ],
+      "answer": "John Wesley",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 12,
+      "question": "What is the location of the head office of the broadcaster that originally aired \"Adventures in Paradise\"?",
+      "ground_truth": [
+        "Knoxville"
+      ],
+      "answer": "city of Knoxville",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 13,
+      "question": "What is the notable work of the performer associated with Miley Stewart?",
+      "ground_truth": [
+        "Gundam"
+      ],
+      "answer": "Imagine",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 14,
+      "question": "To which continent does Fernando Lugo belong based on his citizenship?",
+      "ground_truth": [
+        "Oceania"
+      ],
+      "answer": "Oceania",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 15,
+      "question": "What is the place of the headquarters of the educational institution where Stewart Udall received his education?",
+      "ground_truth": [
+        "Long Beach"
+      ],
+      "answer": "Long Beach",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 16,
+      "question": "What is the continent of the country of citizenship of the person who founded International Judo Federation?",
+      "ground_truth": [
+        "Europe"
+      ],
+      "answer": "Europe",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 17,
+      "question": "In which country was the individual who founded Duquesne University born?",
+      "ground_truth": [
+        "Epworth"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 18,
+      "question": "Which city serves as the capital of the country where the manufacturer which created Ford Ranger was founded?",
+      "ground_truth": [
+        "Paris"
+      ],
+      "answer": "Albania",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 19,
+      "question": "Which city is the capital of the country that created the sport associated with Peter Schmeichel's position?",
+      "ground_truth": [
+        "Dublin"
+      ],
+      "answer": "Singapore",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 4
+    },
+    {
+      "q_idx": 20,
+      "question": "Who holds the title of head of state in the country where the sport that Halifax Town A.F.C. is associated with was originated?",
+      "ground_truth": [
+        "Sergio Mattarella"
+      ],
+      "answer": "Sergio Mattarella",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 21,
+      "question": "Which continent is the country of citizenship of Gustav Vigeland located in?",
+      "ground_truth": [
+        "Asia"
+      ],
+      "answer": "Asia",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 22,
+      "question": "What is the country of origin of the sport associated with John Beilein's occupation?",
+      "ground_truth": [
+        "Japan"
+      ],
+      "answer": "Australia",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 23,
+      "question": "What is the name of the employer of Lynn Margulis' spouse?",
+      "ground_truth": [
+        "British Broadcasting Corporation"
+      ],
+      "answer": "British Broadcasting Corporation",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 24,
+      "question": "What kind of sports is Tina Charles into, based on the position she plays in her team?",
+      "ground_truth": [
+        "American football"
+      ],
+      "answer": "center",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 25,
+      "question": "What is the continent of the country where the director / manager of \"Please Please Me\" holds citizenship?",
+      "ground_truth": [
+        "Oceania"
+      ],
+      "answer": "Europe",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 26,
+      "question": "What is the birthplace of the spouse of Bianca Jagger?",
+      "ground_truth": [
+        "North Charleston"
+      ],
+      "answer": "North Charleston",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 27,
+      "question": "What city served as the capital of the country to which the founder of the sport played in the 2014 World Judo Championships belonged?",
+      "ground_truth": [
+        "New Delhi"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 28,
+      "question": "In which city is the seat of government located in the country where Family Force 5 came from?",
+      "ground_truth": [
+        "Bondi Junction"
+      ],
+      "answer": "Japan",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 29,
+      "question": "What location was the place of death of the author of Carmilla?",
+      "ground_truth": [
+        "New York City"
+      ],
+      "answer": "New York City",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 30,
+      "question": "From what country does the music genre of Dave Matthews Band originate?",
+      "ground_truth": [
+        "Spain"
+      ],
+      "answer": "Spain",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 31,
+      "question": "Who holds the position of chairperson at the organization where Stephen Greenblatt is employed?",
+      "ground_truth": [
+        "Mike Cheston"
+      ],
+      "answer": "Mike Cheston",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 32,
+      "question": "What is the language recognized as the official medium of communication in the country where the director/manager of the performer with ID 1 is a citizen?",
+      "ground_truth": [
+        "Arabic"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 33,
+      "question": "Who is responsible for the founding of the religious group that has its roots in the institution where James Michael Curley received his education?",
+      "ground_truth": [
+        "G\u00e9rard Blitz"
+      ],
+      "answer": "Catholic Church",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 34,
+      "question": "In what city did the individual who established Metz Cathedral have their occupation?",
+      "ground_truth": [
+        "London"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 35,
+      "question": "What is the capital city of the country which Sumie Sakai's sport founder holds citizenship in?",
+      "ground_truth": [
+        "New Delhi"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 36,
+      "question": "What is the name of the city which is the capital of the country where the director/manager of \"Back in the U.S.S.R.\" holds citizenship?",
+      "ground_truth": [
+        "Canberra"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 37,
+      "question": "What was the name of the person who founded the religion that Gabriel Narutowicz belonged to?",
+      "ground_truth": [
+        "G\u00e9rard Blitz"
+      ],
+      "answer": "G\u00e9rard Blitz",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 38,
+      "question": "In which language are the official documents written in the country of citizenship of Nate \"Tiny\" Archibald?",
+      "ground_truth": [
+        "German"
+      ],
+      "answer": "Swedish",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 39,
+      "question": "What is the name of the school where the author of \"La Celestina\" studied?",
+      "ground_truth": [
+        "Princeton University"
+      ],
+      "answer": "Pontifical Catholic University of Peru",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 40,
+      "question": "Which language is considered the official language of the religion that Malik Kafur practiced?",
+      "ground_truth": [
+        "Picard"
+      ],
+      "answer": "Picard",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 41,
+      "question": "What is the name of the individual who both directed and managed the performer on \"Yesterday and Today\"?",
+      "ground_truth": [
+        "Narendra Modi"
+      ],
+      "answer": "Madonna",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 42,
+      "question": "What city serves as the capital of the country where the sport played by Derek Holland originated?",
+      "ground_truth": [
+        "Ottawa"
+      ],
+      "answer": "starting pitcher",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 43,
+      "question": "What are the languages that the chairperson of Muttahida Qaumi Movement is fluent in when speaking, writing, or signing?",
+      "ground_truth": [
+        "English"
+      ],
+      "answer": "English",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 4
+    },
+    {
+      "q_idx": 44,
+      "question": "What city serves as the capital of the country that Ragini Dwivedi belongs to?",
+      "ground_truth": [
+        "Rupnagar"
+      ],
+      "answer": "London",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 45,
+      "question": "What is the place of demise of the author of the book \"Dubliners\"?",
+      "ground_truth": [
+        "London"
+      ],
+      "answer": "city of London",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 46,
+      "question": "Where is the headquarters of the company that developed Sailfish OS located?",
+      "ground_truth": [
+        "Normanton"
+      ],
+      "answer": "Helsinki",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 47,
+      "question": "Which city serves as the capital of the country of origin of the sport that David Price plays?",
+      "ground_truth": [
+        "Manila"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 48,
+      "question": "Which language is the official language of the country where the spouse of the artist who sang \"All of Me\" comes from?",
+      "ground_truth": [
+        "Spanish"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 49,
+      "question": "What is the birthplace of the person who created Indiana Jones?",
+      "ground_truth": [
+        "L\u00fcftelberg"
+      ],
+      "answer": "Modesto",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 50,
+      "question": "What is the name of the person who leads the company that produces the Chevrolet Chevelle?",
+      "ground_truth": [
+        "David Potts"
+      ],
+      "answer": "Mary Barra",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 51,
+      "question": "Which profession does the chairperson of the Economic Freedom Fighters belong to?",
+      "ground_truth": [
+        "composer"
+      ],
+      "answer": "composer",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 52,
+      "question": "Which continent is the place of birth of the CEO of the developer of Windows Aero located in?",
+      "ground_truth": [
+        "Africa"
+      ],
+      "answer": "Microsoft",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 53,
+      "question": "Who currently holds the position of head of government in the country where the genre of Julian Lennon was founded?",
+      "ground_truth": [
+        "Ole Johan Vierdal"
+      ],
+      "answer": "Ole Johan Vierdal",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 54,
+      "question": "In which city did the founder of the religion of Steve Cooley have their work location?",
+      "ground_truth": [
+        "Washington, D.C."
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 55,
+      "question": "Which city serves as the capital of the country where the director/manager of the original broadcaster of The Partridge Family is a citizen of?",
+      "ground_truth": [
+        "Oderzo"
+      ],
+      "answer": "Canberra",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 4
+    },
+    {
+      "q_idx": 56,
+      "question": "What is the name of the person who was in charge of the organization that Philip Agee worked for?",
+      "ground_truth": [
+        "Christopher A. Wray"
+      ],
+      "answer": "Central Intelligence Agency",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 57,
+      "question": "What is the birthplace of the person who established the religion of Saint Eligius?",
+      "ground_truth": [
+        "Epworth"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 58,
+      "question": "What is the authorship's greatest contribution to literature of the book \"The Age of Reason\"?",
+      "ground_truth": [
+        "Natya Shastra"
+      ],
+      "answer": "Allen Ginsberg",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 59,
+      "question": "What is the birthplace of the current holder of the Illinois Attorney General's office?",
+      "ground_truth": [
+        "Higashiyamanashi District, Yamanashi"
+      ],
+      "answer": "Higashiyamanashi District, Yamanashi",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 60,
+      "question": "Which historical or religious figure established the religion that Nicholas V is affiliated with?",
+      "ground_truth": [
+        "Lyndon B. Johnson"
+      ],
+      "answer": "The Church of Jesus Christ of Latter-day Saints",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 61,
+      "question": "What is the birthplace of the author of Ivanhoe?",
+      "ground_truth": [
+        "Mexico City"
+      ],
+      "answer": "Mexico City",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 62,
+      "question": "What is the name of the child of the person who created Feluda?",
+      "ground_truth": [
+        "Zygmunt Krasi\u0144ski"
+      ],
+      "answer": "Sandip Ray",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 63,
+      "question": "In what city does the director/manager of the original broadcaster of \"NHL on ABC\" hold their citizenship?",
+      "ground_truth": [
+        "New Delhi"
+      ],
+      "answer": "Australia",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 64,
+      "question": "Which language is considered the official language of the country to which Yip Harburg belongs?",
+      "ground_truth": [
+        "Finnish"
+      ],
+      "answer": "English",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 65,
+      "question": "What is the literary genre of the book \"Dune\" written by the author?",
+      "ground_truth": [
+        "progressive rock"
+      ],
+      "answer": "Dune Messiah",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 66,
+      "question": "What is the continent of origin of Thomas Dolby, a musician?",
+      "ground_truth": [
+        "South America"
+      ],
+      "answer": "South America",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 67,
+      "question": "What is the name of the school where the founder of House of Bonaparte studied?",
+      "ground_truth": [
+        "Trinity College Dublin"
+      ],
+      "answer": "London School of Economics and Political Science",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 68,
+      "question": "In which place was the manufacturing company of Chevrolet Caprice founded?",
+      "ground_truth": [
+        "Silver Lake"
+      ],
+      "answer": "Seattle",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 69,
+      "question": "Which city is the capital of the country where the genre, which Benjamin Sisko performed, originated?",
+      "ground_truth": [
+        "Rajanpur"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 70,
+      "question": "What country is the nationality of the spouse of the author of \"David Copperfield\"?",
+      "ground_truth": [
+        "Belgium"
+      ],
+      "answer": "Charles Dickens",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 71,
+      "question": "In which organization did Francis Parkman work as an employee and who is its chairperson?",
+      "ground_truth": [
+        "William J. Donovan"
+      ],
+      "answer": "Robert James Carlson",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 72,
+      "question": "What is the capital of the country where the director/manager of \"Good Morning America\" holds a citizenship?",
+      "ground_truth": [
+        "Beaumont"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 73,
+      "question": "In which language does the government of the country Pee Wee King holds citizenship conduct its official business?",
+      "ground_truth": [
+        "Hebrew"
+      ],
+      "answer": "France",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 74,
+      "question": "In what language do official government documents get written in the country that Tomokazu Seki is a citizen of?",
+      "ground_truth": [
+        "German"
+      ],
+      "answer": "American English",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 75,
+      "question": "What continent is the country of citizenship of the manager/director of Taxman located in?",
+      "ground_truth": [
+        "Asia"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 76,
+      "question": "In which city was the person who created the centrifugal governor born?",
+      "ground_truth": [
+        "Edinburgh"
+      ],
+      "answer": "Mumbai",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 77,
+      "question": "What is the name of the capital city of the country to which the spouse of the author of Star Trek canon holds citizenship?",
+      "ground_truth": [
+        "Berlin"
+      ],
+      "answer": "London",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 4
+    },
+    {
+      "q_idx": 78,
+      "question": "Which language is considered the official language of Eric Weissberg's country of citizenship?",
+      "ground_truth": [
+        "Finnish"
+      ],
+      "answer": "English",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 79,
+      "question": "Where is the educational institution located where Tom Selleck was educated and its headquarters also situated?",
+      "ground_truth": [
+        "Vienna"
+      ],
+      "answer": "Brooklyn",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 80,
+      "question": "Which language was used by Mario Puzo in writing his famous work?",
+      "ground_truth": [
+        "American English"
+      ],
+      "answer": "Japanese",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 81,
+      "question": "Which continent is the country of origin of Teenage Fanclub located in?",
+      "ground_truth": [
+        "Oceania"
+      ],
+      "answer": "Oceania",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 82,
+      "question": "Where was the work location of the individual who founded the religion practiced by Edward Mooney?",
+      "ground_truth": [
+        "Riyadh Region"
+      ],
+      "answer": "Boston",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 83,
+      "question": "What is the professional background of the spouse of Lalu Prasad Yadav?",
+      "ground_truth": [
+        "singer"
+      ],
+      "answer": "singer",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 84,
+      "question": "What is the name of the capital city of the country that is the origin of the sport played by Enrico Villanueva?",
+      "ground_truth": [
+        "Bondi Junction"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 1
+    },
+    {
+      "q_idx": 85,
+      "question": "In what field did the author, who is known for Julius Caesar, work in?",
+      "ground_truth": [
+        "philosopher"
+      ],
+      "answer": "politician",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 86,
+      "question": "Which faith is the partner of Benigno Aquino Jr. affiliated with?",
+      "ground_truth": [
+        "Methodism"
+      ],
+      "answer": "Methodism",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 87,
+      "question": "From which country does the spouse of the creator of WWE Tough Enough hold citizenship?",
+      "ground_truth": [
+        "Ireland"
+      ],
+      "answer": "William Shakespeare",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 88,
+      "question": "What is the name of the current head of state of the country where \"Outsourced\" came from?",
+      "ground_truth": [
+        "Recep Tayyip Erdo\u011fan"
+      ],
+      "answer": "Recep Tayyip Erdo\u011fan",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 89,
+      "question": "In which city is the headquarters of the TV network that originally broadcasted NBA on ABC?",
+      "ground_truth": [
+        "Red Bank"
+      ],
+      "answer": "California",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 90,
+      "question": "What is the name of the founder of the religion associated with Dzhokhar Dudayev?",
+      "ground_truth": [
+        "G\u00e9rard Blitz"
+      ],
+      "answer": "Catholic Church",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 91,
+      "question": "Which political figure holds the role of head of state for the country that Brad Stevens' sport is associated with?",
+      "ground_truth": [
+        "Mikhail Gorbachev"
+      ],
+      "answer": "basketball",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 92,
+      "question": "What is the name of the leader of the government in the country where the sport related to the 1985 NBA Draft originated?",
+      "ground_truth": [
+        "Lili Bosse"
+      ],
+      "answer": "Elizabeth II",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 4
+    },
+    {
+      "q_idx": 93,
+      "question": "In which city is the capital located of the country where the sport that Ricky Rubio plays originated?",
+      "ground_truth": [
+        "Bondi Junction"
+      ],
+      "answer": "point guard",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 4,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 94,
+      "question": "What is the primary language spoken in the country where Flogging Molly comes from?",
+      "ground_truth": [
+        "English"
+      ],
+      "answer": "German",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 95,
+      "question": "Which company did the employer of the creator of Link work for?",
+      "ground_truth": [
+        "University of Oxford"
+      ],
+      "answer": "University of Oxford",
+      "correct": true,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 96,
+      "question": "What is the country of origin of the sport associated with Dave Dombrowski's employer?",
+      "ground_truth": [
+        "Australia"
+      ],
+      "answer": "American football",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 3,
+      "n_hops_executed": 3
+    },
+    {
+      "q_idx": 97,
+      "question": "Which sport is associated with the position played by Bobby Hurley?",
+      "ground_truth": [
+        "sumo"
+      ],
+      "answer": "basketball",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 98,
+      "question": "What is the place of employment of the individual who founded the religion practiced by Jacqueline Kennedy Onassis?",
+      "ground_truth": [
+        "Edinburgh"
+      ],
+      "answer": "Church of Scotland",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    },
+    {
+      "q_idx": 99,
+      "question": "What is the birthplace of the person who founded the religion that Ferdinando I de' Medici professes?",
+      "ground_truth": [
+        "Epworth"
+      ],
+      "answer": "Methodism",
+      "correct": false,
+      "n_candidates": null,
+      "chosen_serial": null,
+      "n_hops_planned": 2,
+      "n_hops_executed": 2
+    }
+  ]
+}

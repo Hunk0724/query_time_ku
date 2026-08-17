@@ -1,0 +1,3929 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "8d36fd89-441a-432d-8532-3ec9e57c34ca",
+      "memory": "The company that produced Big Mac is McDonald's",
+      "hash": "152f756b70c4b6d8cbaae4f8fb3c791d",
+      "metadata": {
+        "ordinal": 1143,
+        "triple": {
+          "subject_id": "big_mac",
+          "predicate_norm": "be produced by",
+          "object_text": "McDonald's",
+          "confidence": 0.95,
+          "subject_raw": "Big Mac",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.8457251611464638,
+      "created_at": "2026-07-12T09:08:39.163888-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "dafa432b-0381-4150-8fb3-314168059377",
+      "memory": "The company that produced C-5 Galaxy is McDonald's.",
+      "hash": "f4d4eec21c18c47c7e80b8b5d3f642b4",
+      "metadata": {
+        "ordinal": 8736,
+        "triple": {
+          "subject_id": "c_5_galaxy",
+          "predicate_norm": "be produced by",
+          "object_text": "McDonald's",
+          "confidence": 0.95,
+          "subject_raw": "C-5 Galaxy",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.540543296510763,
+      "created_at": "2026-07-12T09:11:52.986147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2f05c810-8f21-4c11-af8d-317de3600bcb",
+      "memory": "Mac Pro was developed by Boeing.",
+      "hash": "e6713803f4ce04c09ec03224bea21ec5",
+      "metadata": {
+        "ordinal": 17548,
+        "triple": {
+          "subject_id": "mac_pro",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Mac Pro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5382561820881537,
+      "created_at": "2026-07-12T09:15:46.492680-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f0e139a9-5bbe-490c-b397-5775987073c9",
+      "memory": "Mac Pro was developed by Apple Inc.",
+      "hash": "05f4736e48aabaa74dd3733d5f35dbfc",
+      "metadata": {
+        "ordinal": 6062,
+        "triple": {
+          "subject_id": "mac_pro",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac Pro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5361583344818103,
+      "created_at": "2026-07-12T09:10:46.300575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "97f6052f-4e1f-4e8e-87c7-5e2cfcfd3249",
+      "memory": "The company that produced Whopper is Burger King.",
+      "hash": "b27e198cb82252cdbe6fee6eb3561350",
+      "metadata": {
+        "ordinal": 10793,
+        "triple": {
+          "subject_id": "whopper",
+          "predicate_norm": "be produced by",
+          "object_text": "Burger King",
+          "confidence": 0.95,
+          "subject_raw": "Whopper",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.49897414778226484,
+      "created_at": "2026-07-12T09:12:49.125324-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "8ecb3524-d463-407f-8e2e-385b6898aec1",
+      "memory": "The company that produced B-29 Superfortress is PepsiCo.",
+      "hash": "48e1fd74049e6a427c16d03d24b87a4e",
+      "metadata": {
+        "ordinal": 17996,
+        "triple": {
+          "subject_id": "b_29_superfortress",
+          "predicate_norm": "be produced by",
+          "object_text": "PepsiCo",
+          "confidence": 0.95,
+          "subject_raw": "B-29 Superfortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.49084393868472936,
+      "created_at": "2026-07-12T09:15:57.746699-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "faa1b272-748a-41d7-8ab9-02ddbf9d16fb",
+      "memory": "The company that produced Whopper is BYD Auto.",
+      "hash": "75c5d3049e9ca9325e3813aa0926eae0",
+      "metadata": {
+        "ordinal": 17915,
+        "triple": {
+          "subject_id": "whopper",
+          "predicate_norm": "be produced by",
+          "object_text": "BYD Auto",
+          "confidence": 0.9,
+          "subject_raw": "Whopper",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.48139025237834615,
+      "created_at": "2026-07-12T09:15:56.075308-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0f5cceed-8b9f-4347-a358-5c7fd74d712a",
+      "memory": "The company that produced Fanta is Apple Inc.",
+      "hash": "c0fe3f2981cb3ac3e0e367af0eed4c14",
+      "metadata": {
+        "ordinal": 9997,
+        "triple": {
+          "subject_id": "fanta",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Fanta",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.4703788903717553,
+      "created_at": "2026-07-12T09:12:28.264209-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "76ddb681-b387-443e-ac93-eaad88fc6156",
+      "memory": "Power Mac G4 was developed by Apple Inc.",
+      "hash": "3d4e4fd5ab6828336bbd8ab287ebe9fc",
+      "metadata": {
+        "ordinal": 13791,
+        "triple": {
+          "subject_id": "power_mac_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Power Mac G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4664147113754511,
+      "created_at": "2026-07-12T09:14:08.572287-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e2e33167-3f6b-41a4-a6f8-080d0a9f9196",
+      "memory": "Classic Mac OS was developed by Apple Inc.",
+      "hash": "4669c6d3bef987589d5c3218bfc8659e",
+      "metadata": {
+        "ordinal": 4850,
+        "triple": {
+          "subject_id": "classic_mac_os",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Classic Mac OS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4657742277054787,
+      "created_at": "2026-07-12T09:10:14.754161-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "51901ce0-0127-4111-ad20-304938b44b3d",
+      "memory": "MacBook Air was developed by Apple Inc.",
+      "hash": "f1b65d500dbbd7c0fde49cd12db34d1d",
+      "metadata": {
+        "ordinal": 15131,
+        "triple": {
+          "subject_id": "macbook_air",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "MacBook Air",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4607717053835878,
+      "created_at": "2026-07-12T09:14:45.256662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f9eba657-9473-45e5-8049-657db4e88e50",
+      "memory": "Power Mac G5 was developed by Apple Inc.",
+      "hash": "cc61df83716828cafe804e5ee27d1c10",
+      "metadata": {
+        "ordinal": 1232,
+        "triple": {
+          "subject_id": "power_mac_g5",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Power Mac G5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4594155800411528,
+      "created_at": "2026-07-12T09:08:40.778245-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4c8bec48-9286-4248-ba37-d8562a2247f0",
+      "memory": "The company that produced iPhone 3G is Apple Inc.",
+      "hash": "872024809085bde5028f1398e553bbe2",
+      "metadata": {
+        "ordinal": 1287,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "produced",
+          "object_text": "iPhone 3G",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.4466939553355719,
+      "created_at": "2026-07-12T09:08:42.574557-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "eafa4b85-f462-456c-b997-9799bcd8b3c9",
+      "memory": "Mac OS X Tiger was developed by Boeing.",
+      "hash": "435c095b008151bffacaaf037891b6a6",
+      "metadata": {
+        "ordinal": 4481,
+        "triple": {
+          "subject_id": "mac_os_x_tiger",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.9,
+          "subject_raw": "Mac OS X Tiger",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4453478030384561,
+      "created_at": "2026-07-12T09:10:06.297275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "826e9d36-0290-4e03-9473-3e1f71be5861",
+      "memory": "The company that produced Jaguar XJS is Apple Inc.",
+      "hash": "db7d2872046f9c3822619413adeb5fae",
+      "metadata": {
+        "ordinal": 16083,
+        "triple": {
+          "subject_id": "jaguar_xjs",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Jaguar XJS",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.44496239586462644,
+      "created_at": "2026-07-12T09:15:09.429783-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "92aea5c2-f034-4b14-a00c-67e810b510a0",
+      "memory": "The company that produced iPhone 6 is Apple Inc.",
+      "hash": "8331699e960ba429f4ad912c6d1c6377",
+      "metadata": {
+        "ordinal": 12857,
+        "triple": {
+          "subject_id": "iphone_6",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 6",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4447187518126272,
+      "created_at": "2026-07-12T09:13:44.476753-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "71cf54b0-1195-4c99-8925-70433e780c6c",
+      "memory": "Mac OS X Panther was developed by Boeing.",
+      "hash": "189227df4099f60e62a9d024484a60fc",
+      "metadata": {
+        "ordinal": 16533,
+        "triple": {
+          "subject_id": "mac_os_x_panther",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Panther",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44315614065233844,
+      "created_at": "2026-07-12T09:15:20.633114-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f3d13d8a-fca7-476e-8bc8-c44f9270888c",
+      "memory": "Mac OS X Lion was developed by Boeing.",
+      "hash": "7fdfbb17d3ced989526cf35d7f73bfac",
+      "metadata": {
+        "ordinal": 15931,
+        "triple": {
+          "subject_id": "mac_os_x_lion",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Lion",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44239861811310754,
+      "created_at": "2026-07-12T09:15:06.030161-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "02482653-fcdc-4c71-bc4e-fff1120c8eaf",
+      "memory": "The company that produced iPod is Apple Inc.",
+      "hash": "e22956dc47b28b0af7b4f957797b575f",
+      "metadata": {
+        "ordinal": 11305,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.4395380221147679,
+      "created_at": "2026-07-12T09:13:03.495459-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "98857cff-69d5-48f1-bd2f-20196803ea7a",
+      "memory": "Power Mac G5 was developed by Sony Interactive Entertainment",
+      "hash": "f0f7127ebea1c58207eb01506612dca7",
+      "metadata": {
+        "ordinal": 1862,
+        "triple": {
+          "subject_id": "power_mac_g5",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "Power Mac G5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.43613729691084613,
+      "created_at": "2026-07-12T09:08:57.185790-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6150323e-dbb0-4a5e-b39d-1710a14ef556",
+      "memory": "The company that produced Apple TV is Apple Inc.",
+      "hash": "15d14e12ff1e633af94f673f61e5be5d",
+      "metadata": {
+        "ordinal": 5372,
+        "triple": {
+          "subject_id": "apple_tv",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple TV",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4347915200521279,
+      "created_at": "2026-07-12T09:10:28.706219-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "90710345-6761-498d-b287-e8c36b712f32",
+      "memory": "The company that produced iPhone 3GS is Apple Inc.",
+      "hash": "58bb31690a65b4ae9d43f84da32dfa36",
+      "metadata": {
+        "ordinal": 15518,
+        "triple": {
+          "subject_id": "iphone_3gs",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 3GS",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4336835452936893,
+      "created_at": "2026-07-12T09:14:55.438778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "12e8c8c4-3851-433d-813e-c64329c5584e",
+      "memory": "The company that produced iPhone 6S is Apple Inc.",
+      "hash": "ba88603e6d89fd12acc6435eb54e932d",
+      "metadata": {
+        "ordinal": 11525,
+        "triple": {
+          "subject_id": "iphone_6s",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 6S",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4327047629069402,
+      "created_at": "2026-07-12T09:13:08.985057-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "491a1e3b-0728-4f01-8a64-d621e261f2f9",
+      "memory": "The company that produced EA-18G Growler is McLaren.",
+      "hash": "700d19a3af5b8d26d5aab3f99a190f2d",
+      "metadata": {
+        "ordinal": 13966,
+        "triple": {
+          "subject_id": "the_company_that_produced_ea_18g_growler",
+          "predicate_norm": "be",
+          "object_text": "McLaren",
+          "confidence": 0.95,
+          "subject_raw": "the company that produced EA-18G Growler",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.4298174948510646,
+      "created_at": "2026-07-12T09:14:13.492301-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9dd1a816-9251-44e6-a7b0-60d6ecd78142",
+      "memory": "Mac OS X Tiger was developed by Apple Inc.",
+      "hash": "02716e6002b44fd30ba3de0ed7788e9c",
+      "metadata": {
+        "ordinal": 2248,
+        "triple": {
+          "subject_id": "mac_os_x_tiger",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Tiger",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.42886757683345966,
+      "created_at": "2026-07-12T09:09:07.122470-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bde6fc5f-53d2-41c6-b57f-595817d0074a",
+      "memory": "The company that produced iPhone 4 is Apple Inc.",
+      "hash": "154287a2ad8188527c8e0b4df52d24dd",
+      "metadata": {
+        "ordinal": 13937,
+        "triple": {
+          "subject_id": "iphone_4",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 4",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4272620992332855,
+      "created_at": "2026-07-12T09:14:13.415870-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7366c2fc-9916-43c3-9c09-8ebfb2410068",
+      "memory": "Mac OS X Panther was developed by Apple Inc.",
+      "hash": "6913b0cc4865bc6ddf4eefc88d16de7a",
+      "metadata": {
+        "ordinal": 2235,
+        "triple": {
+          "subject_id": "mac_os_x_panther",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Panther",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4236622866825646,
+      "created_at": "2026-07-12T09:09:07.092043-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "25a5a43e-3e07-4bf3-b386-c6fbdd70184f",
+      "memory": "Mac OS X Leopard was developed by Boeing.",
+      "hash": "65413de2f2575403566ffaeed042c299",
+      "metadata": {
+        "ordinal": 17056,
+        "triple": null,
+        "subject_fallback": "mac_os_x_leopard"
+      },
+      "score": 0.421136452134654,
+      "created_at": "2026-07-12T09:15:34.396023-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ee57c9dd-79e7-491b-b6af-742cd6ae42da",
+      "memory": "OS X Mavericks was developed by Apple Inc.",
+      "hash": "06b7ae94f7493da7f07bd9258984eeea",
+      "metadata": {
+        "ordinal": 516,
+        "triple": {
+          "subject_id": "os_x_mavericks",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc",
+          "confidence": 0.95,
+          "subject_raw": "OS X Mavericks",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.41955044561619126,
+      "created_at": "2026-07-12T09:08:24.208749-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a4b41a28-825b-43e6-8fbd-2362e79c34c7",
+      "memory": "The company that produced Ford Mustang is Hon Hai Precision Industry.",
+      "hash": "a6bf4d026101e1e47d274fb37714f459",
+      "metadata": {
+        "ordinal": 17101,
+        "triple": {
+          "subject_id": "ford_mustang",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Ford Mustang",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.418902326687259,
+      "created_at": "2026-07-12T09:15:35.208040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9cd62bc8-98f1-473b-b584-98ebeaeae4c7",
+      "memory": "Mac OS X Lion was developed by Apple Inc.",
+      "hash": "559ba14094fc28554467d37032e6923b",
+      "metadata": {
+        "ordinal": 2406,
+        "triple": {
+          "subject_id": "mac_os_x_lion",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Lion",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4187574912670071,
+      "created_at": "2026-07-12T09:09:11.386084-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "77d226bb-e817-4f7c-a6c0-742b586a7809",
+      "memory": "The company that produced iPod Classic is Apple Inc.",
+      "hash": "d1d232ee8c6876625c555c13ba71c6ab",
+      "metadata": {
+        "ordinal": 15905,
+        "triple": {
+          "subject_id": "ipod_classic",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPod Classic",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4183900406543038,
+      "created_at": "2026-07-12T09:15:05.252163-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bd14ca8d-f098-4073-a897-35445e3142ac",
+      "memory": "The company that produced Xbox is Microsoft.",
+      "hash": "98246dfe26646deaa9cae47b8a276d75",
+      "metadata": {
+        "ordinal": 10990,
+        "triple": {
+          "subject_id": "xbox",
+          "predicate_norm": "be produced by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Xbox",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4143880764464606,
+      "created_at": "2026-07-12T09:12:54.360395-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "32d245de-75c1-423f-a6ab-971a08881b3a",
+      "memory": "The company that produced Red Bull is Red Bull GmbH.",
+      "hash": "4355a06900abf497e2d10b8785391a8b",
+      "metadata": {
+        "ordinal": 2361,
+        "triple": {
+          "subject_id": "red_bull",
+          "predicate_norm": "has producer",
+          "object_text": "Red Bull GmbH",
+          "confidence": 0.95,
+          "subject_raw": "Red Bull",
+          "predicate_raw": "has producer"
+        }
+      },
+      "score": 0.4134728156505943,
+      "created_at": "2026-07-12T09:09:09.620571-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d3b40288-04a9-45bf-8403-a2afe8f95754",
+      "memory": "Apple Inc. was created in the country of United States of America.",
+      "hash": "aaea4a164ba20c70de619b56c8ec1873",
+      "metadata": {
+        "ordinal": 12908,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.41291724453051126,
+      "created_at": "2026-07-12T09:13:46.072089-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e0e3a453-b2aa-498e-8fc4-e197dd823d4a",
+      "memory": "The company that produced iPod is Boeing.",
+      "hash": "b5e92f6336b0a58a29579e0fef2b4e91",
+      "metadata": {
+        "ordinal": 12556,
+        "triple": {
+          "subject_id": "the_company_that_produced_ipod",
+          "predicate_norm": "be",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "the company that produced iPod",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.41233271177113373,
+      "created_at": "2026-07-12T09:13:35.414782-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a1012aad-90bb-4d64-b0e4-8986dda7afd8",
+      "memory": "The company that produced Ford Ranchero is Dell Inc.",
+      "hash": "3f1fc9d201b666a6c84a55a645663b17",
+      "metadata": {
+        "ordinal": 13552,
+        "triple": {
+          "subject_id": "ford_ranchero",
+          "predicate_norm": "be produced by",
+          "object_text": "Dell Inc",
+          "confidence": 0.95,
+          "subject_raw": "Ford Ranchero",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.4108083392285169,
+      "created_at": "2026-07-12T09:14:02.201505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bb00f628-57d3-405f-8cfa-18d53418be91",
+      "memory": "Apple Inc. was created in the country of United Kingdom.",
+      "hash": "bd00b06fc52c002f06ad558dc751a2e7",
+      "metadata": {
+        "ordinal": 14835,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "be created in",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.4100467697693375,
+      "created_at": "2026-07-12T09:14:37.225067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ac885a99-a4f9-4f5d-a452-32f158493256",
+      "memory": "The chief executive officer of McDonald's is Matthew Gregory.",
+      "hash": "2963c080e92932716cc9280261c722ad",
+      "metadata": {
+        "ordinal": 5088,
+        "triple": {
+          "subject_id": "mcdonald's",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Matthew Gregory",
+          "confidence": 0.95,
+          "subject_raw": "McDonald's",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.40920862579597755,
+      "created_at": "2026-07-12T09:10:21.315310-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4a66263a-8861-466f-8e98-c42c6385f3d0",
+      "memory": "macOS was developed by Apple Inc.",
+      "hash": "ff47e9617f83543e487fe10b4e3b4b50",
+      "metadata": {
+        "ordinal": 11210,
+        "triple": {
+          "subject_id": "macos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "macOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4072249435674751,
+      "created_at": "2026-07-12T09:13:00.728561-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9e42e93a-944e-4bef-8295-4e18eae45dbe",
+      "memory": "Classic Mac OS was developed by Google.",
+      "hash": "354103f04dd289025e2e83a7b25c0179",
+      "metadata": {
+        "ordinal": 7766,
+        "triple": {
+          "subject_id": "classic_mac_os",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.9,
+          "subject_raw": "Classic Mac OS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.40594666503871163,
+      "created_at": "2026-07-12T09:11:28.275647-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "af93d53c-43f7-4b9d-a3d9-86947ff7cc3b",
+      "memory": "The company that produced iPhone 3GS is General Motors",
+      "hash": "944756dcfecb7d44fe2f8a57a2cd0e55",
+      "metadata": {
+        "ordinal": 16446,
+        "triple": {
+          "subject_id": "iphone_3gs",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 3GS",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4055936148555821,
+      "created_at": "2026-07-12T09:15:18.866380-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4f18d948-4682-4055-b05e-a7287d07b457",
+      "memory": "The company that produced iPad 2 is Apple Inc.",
+      "hash": "285e15e8708359ceeea0c7ce0d84b5ff",
+      "metadata": {
+        "ordinal": 16325,
+        "triple": {
+          "subject_id": "ipad_2",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPad 2",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4052842081207265,
+      "created_at": "2026-07-12T09:15:15.350618-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "8ba2a65b-d171-4bc9-9656-700bc2ccf17c",
+      "memory": "The company that produced Diet Coke is The Coca-Cola Company.",
+      "hash": "710cda5be8312d1c2f942ef14e269ef4",
+      "metadata": {
+        "ordinal": 1567,
+        "triple": {
+          "subject_id": "diet_coke",
+          "predicate_norm": "be produced by",
+          "object_text": "The Coca-Cola Company",
+          "confidence": 0.95,
+          "subject_raw": "Diet Coke",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4041684063713259,
+      "created_at": "2026-07-12T09:08:49.241752-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b5b77ba5-fae4-4ff7-bc88-3e22dd446f74",
+      "memory": "The company that produced B-29 Superfortress is Boeing.",
+      "hash": "e7387cda3e5989a2ada4878b08d25472",
+      "metadata": {
+        "ordinal": 13976,
+        "triple": {
+          "subject_id": "b_29_superfortress",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "B-29 Superfortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.40328135182245295,
+      "created_at": "2026-07-12T09:14:14.039260-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "075ff39b-aebb-4fbb-b556-fbaced3dd382",
+      "memory": "The company that produced Holden Caprice is Hon Hai Precision Industry",
+      "hash": "b0f2e1d4c8d9681ed83aa00853ed2732",
+      "metadata": {
+        "ordinal": 15137,
+        "triple": {
+          "subject_id": "holden_caprice",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Holden Caprice",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4028104950578177,
+      "created_at": "2026-07-12T09:14:46.043063-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "76614a95-1c47-4127-9f23-1369963c92be",
+      "memory": "OS X Mountain Lion was developed by Apple Inc.",
+      "hash": "b48cf00f8ba2b51e1256be618a400e39",
+      "metadata": {
+        "ordinal": 8292,
+        "triple": {
+          "subject_id": "os_x_mountain_lion",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "OS X Mountain Lion",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.40262076980896655,
+      "created_at": "2026-07-12T09:11:41.351747-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c0fcadee-857a-4e83-8269-2d06c4744cb8",
+      "memory": "Mac OS X Leopard was developed by Apple Inc.",
+      "hash": "2e0cdcb3e2870000d098f987512e88f6",
+      "metadata": {
+        "ordinal": 1297,
+        "triple": {
+          "subject_id": "mac_os_x_leopard",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Leopard",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4016269585417176,
+      "created_at": "2026-07-12T09:08:42.585920-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "382ac45c-1c28-4b93-8e08-a75541a6447f",
+      "memory": "OS X El Capitan was developed by Apple Inc.",
+      "hash": "76e2643a42c9d40d1839d6f0b570b731",
+      "metadata": {
+        "ordinal": 4678,
+        "triple": {
+          "subject_id": "os_x_el_capitan",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "OS X El Capitan",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.40116646620062935,
+      "created_at": "2026-07-12T09:10:10.526411-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "84c02272-33e2-4c6c-9bb8-965e93bf8a32",
+      "memory": "The company that produced Coca-Cola is The Coca-Cola Company.",
+      "hash": "80ef5256fcb1cca931599e34e633bc58",
+      "metadata": {
+        "ordinal": 5066,
+        "triple": {
+          "subject_id": "the_coca_cola_company",
+          "predicate_norm": "produced",
+          "object_text": "Coca-Cola",
+          "confidence": 0.95,
+          "subject_raw": "The Coca-Cola Company",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3992249612997715,
+      "created_at": "2026-07-12T09:10:21.291207-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "858a08aa-1f3a-4216-9c80-79c4d73823cb",
+      "memory": "Cocoa was developed by Apple Inc.",
+      "hash": "203cda6686e13712f6870b92dc946eab",
+      "metadata": {
+        "ordinal": 11632,
+        "triple": {
+          "subject_id": "cocoa",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Cocoa",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3955165796532539,
+      "created_at": "2026-07-12T09:13:12.283133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f7760b7e-86c5-4bd7-ac7b-411d53423bbb",
+      "memory": "Mac OS 8 was developed by Apple Inc.",
+      "hash": "015f1d63dc183f8b903b1783163c05dd",
+      "metadata": {
+        "ordinal": 778,
+        "triple": {
+          "subject_id": "mac_os_8",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS 8",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3944185859013466,
+      "created_at": "2026-07-12T09:08:30.841222-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "91109c73-42cf-4f25-85bb-283b90a284c8",
+      "memory": "The company that produced Ford GT is Ford Motor Company",
+      "hash": "594312d944fc58afa0c9414791cb0a2c",
+      "metadata": {
+        "ordinal": 1869,
+        "triple": {
+          "subject_id": "ford_gt",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford GT",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.39255546277275644,
+      "created_at": "2026-07-12T09:08:57.207446-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1bdaea73-6aff-441f-bc96-23052fa917bf",
+      "memory": "The company that produced AMC AMX is American Motors Corporation.",
+      "hash": "9e6e09225e3d85f7a467a86f646b8424",
+      "metadata": {
+        "ordinal": 7101,
+        "triple": {
+          "subject_id": "amc_amx",
+          "predicate_norm": "be produced by",
+          "object_text": "American Motors Corporation",
+          "confidence": 0.95,
+          "subject_raw": "AMC AMX",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.391738937643634,
+      "created_at": "2026-07-12T09:11:11.484116-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6b15cc1e-b536-4dc5-9a5e-d875559851f8",
+      "memory": "The company that produced Ford Ranchero is Ford Motor Company",
+      "hash": "a7cc8860f6f4c3f5d0819cca8701d6cc",
+      "metadata": {
+        "ordinal": 10287,
+        "triple": {
+          "subject_id": "ford_ranchero",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Ranchero",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3915252059990914,
+      "created_at": "2026-07-12T09:12:34.909833-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "722724db-511d-4dee-995c-d82e6404069c",
+      "memory": "The company that produced B-50 Superfortress is Boeing.",
+      "hash": "d31795d444b5ed9d365a8f8e774c29cf",
+      "metadata": {
+        "ordinal": 4482,
+        "triple": {
+          "subject_id": "b_50_superfortress",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.9,
+          "subject_raw": "B-50 Superfortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3913635400506932,
+      "created_at": "2026-07-12T09:10:06.300033-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ed1cf268-71b1-4018-b9c5-78409773df32",
+      "memory": "The company that produced Ford Mustang is Ford Motor Company.",
+      "hash": "7783121bbff4ff1d57f9056aa2bd56d5",
+      "metadata": {
+        "ordinal": 16082,
+        "triple": {
+          "subject_id": "ford_mustang",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Mustang",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3900503984769599,
+      "created_at": "2026-07-12T09:15:09.428612-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "dd9b3905-81f6-41e7-9ad3-9f1e51b18135",
+      "memory": "The company that produced Windows Me is Microsoft.",
+      "hash": "a1259582a70e39a38982544c4dbe7724",
+      "metadata": {
+        "ordinal": 7316,
+        "triple": {
+          "subject_id": "the_company_that_produced_windows_me",
+          "predicate_norm": "be",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "The company that produced Windows Me",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.388779290466432,
+      "created_at": "2026-07-12T09:11:16.492658-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e29a04fb-629b-4a92-9c91-e0dabee13d1f",
+      "memory": "OS X Mavericks was developed by Sony Interactive Entertainment.",
+      "hash": "93ba1a4f045bf8cd7519c03850ca046f",
+      "metadata": {
+        "ordinal": 13397,
+        "triple": {
+          "subject_id": "os_x_mavericks",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "OS X Mavericks",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3885356567901226,
+      "created_at": "2026-07-12T09:13:58.882405-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a9d3d472-8a12-443c-a705-d3f1e25b9e8d",
+      "memory": "Apple Lisa was developed by Apple Inc.",
+      "hash": "60c876201b53d4a5629b73b730f45839",
+      "metadata": {
+        "ordinal": 2352,
+        "triple": {
+          "subject_id": "apple_lisa",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple Lisa",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3874873294129204,
+      "created_at": "2026-07-12T09:09:09.596432-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cdec5354-df13-4a9c-b5fb-d5e4d1834ae4",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 5403,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3874655603235778,
+      "created_at": "2026-07-12T09:10:29.513459-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ebc9f71b-f7d2-45f9-954a-3cdac4a135ad",
+      "memory": "Carbon was developed by Apple Inc.",
+      "hash": "6d95860c834d7b59a6758f27e001dcfe",
+      "metadata": {
+        "ordinal": 3741,
+        "triple": {
+          "subject_id": "carbon",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Carbon",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.38730045223048587,
+      "created_at": "2026-07-12T09:09:46.491738-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fc660d35-b6b5-444e-bab6-906ef99e1f6c",
+      "memory": "The company that produced Ford Ranger is Ford Motor Company.",
+      "hash": "76fb6b0beb64338e4809434ea4d3c910",
+      "metadata": {
+        "ordinal": 16037,
+        "triple": {
+          "subject_id": "ford_ranger",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Ranger",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38703633222035544,
+      "created_at": "2026-07-12T09:15:08.649538-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3de21ff7-58f7-4cc8-97f0-13ad268ee5f4",
+      "memory": "The company that produced Chevrolet Suburban is Hon Hai Precision Industry.",
+      "hash": "f95e4ada973fc34fb69007ed3e2d3b3e",
+      "metadata": {
+        "ordinal": 9034,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "produced",
+          "object_text": "Chevrolet Suburban",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.38568153549327233,
+      "created_at": "2026-07-12T09:12:01.119522-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2b3f06c4-ac1f-4339-ba7b-bc382d3d77e6",
+      "memory": "The company that produced Chevrolet Camaro is Hon Hai Precision Industry.",
+      "hash": "811e8ecbb4e48fc0c46d34db799970b8",
+      "metadata": {
+        "ordinal": 16072,
+        "triple": {
+          "subject_id": "chevrolet_camaro",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Camaro",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38409962418993876,
+      "created_at": "2026-07-12T09:15:09.416996-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "593d3a8e-086d-4998-8e1b-94e409f1f3e0",
+      "memory": "The company that produced Ford Super Duty is Ford Motor Company.",
+      "hash": "4d28a2b456ec13f90cfd1c57ec65691a",
+      "metadata": {
+        "ordinal": 12513,
+        "triple": {
+          "subject_id": "ford_super_duty",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Super Duty",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38368995735918054,
+      "created_at": "2026-07-12T09:13:34.594108-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a378c355-65af-4a54-b064-39080efbfeca",
+      "memory": "AppleWorks was developed by Boeing.",
+      "hash": "6f000191895ab4a03021e1949ea7e5f5",
+      "metadata": {
+        "ordinal": 16756,
+        "triple": {
+          "subject_id": "appleworks",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "AppleWorks",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.382224987418508,
+      "created_at": "2026-07-12T09:15:25.980993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3a261647-0aa0-4bb8-8c10-a3414a8ca8ae",
+      "memory": "The company that produced iPhone 4 is Volkswagen Group.",
+      "hash": "cf0866ce84f8c332164f754f6d7fc0f5",
+      "metadata": {
+        "ordinal": 17588,
+        "triple": {
+          "subject_id": "iphone_4",
+          "predicate_norm": "be produced by",
+          "object_text": "Volkswagen Group",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 4",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38157558240561534,
+      "created_at": "2026-07-12T09:15:47.304844-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e34c98a0-2a34-43d0-878f-f4494fe46c44",
+      "memory": "PowerBook G4 was developed by Microsoft",
+      "hash": "754508a3303fe5c37fec4cfbdc2f2d5a",
+      "metadata": {
+        "ordinal": 15584,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.3814408991247136,
+      "created_at": "2026-07-12T09:14:57.115344-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9631d0d2-4719-4154-b4ed-6617e31a976f",
+      "memory": "The company that produced B-17 Flying Fortress is Boeing",
+      "hash": "06aa58cb5c02b13053f50bfc07a46723",
+      "metadata": {
+        "ordinal": 1243,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "produced",
+          "object_text": "B-17 Flying Fortress",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3793062741182543,
+      "created_at": "2026-07-12T09:08:41.604938-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d21ba179-021e-48ea-93a9-30e90b96fb34",
+      "memory": "Apple A7 was developed by Apple Inc.",
+      "hash": "86542df43fae43d5549ea64874dae43b",
+      "metadata": {
+        "ordinal": 670,
+        "triple": {
+          "subject_id": "apple_a7",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple A7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3789947569571841,
+      "created_at": "2026-07-12T09:08:28.322772-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "486026f8-2821-4da6-8ed2-1a5c2d3bc8f4",
+      "memory": "A/UX was developed by Apple Inc.",
+      "hash": "b6b7716e3d5594b3acb37e018f474565",
+      "metadata": {
+        "ordinal": 11975,
+        "triple": {
+          "subject_id": "a/ux",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "A/UX",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3783767054751339,
+      "created_at": "2026-07-12T09:13:20.053611-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "776d28bc-2cf9-49ab-ab65-8b018d42e4f5",
+      "memory": "Cocoa was developed by Boeing.",
+      "hash": "0514452c308c9686e5c2e6a725cb6884",
+      "metadata": {
+        "ordinal": 14115,
+        "triple": {
+          "subject_id": "cocoa",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Cocoa",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3778386278175646,
+      "created_at": "2026-07-12T09:14:17.540634-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b2fb16ff-2720-4872-85ba-a7680a14f3b9",
+      "memory": "The company that produced Zune is Microsoft",
+      "hash": "ff50ce61ba2d84e0903f0f2cf9b38fbe",
+      "metadata": {
+        "ordinal": 10263,
+        "triple": {
+          "subject_id": "zune",
+          "predicate_norm": "be produced by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Zune",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37765710996733826,
+      "created_at": "2026-07-12T09:12:34.869021-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "5e01c2c3-35af-468c-8767-7c53f40d01b0",
+      "memory": "MobileMe was developed by Apple Inc.",
+      "hash": "de9f37074e6e3b1aecd1f7bbc2c34bcf",
+      "metadata": {
+        "ordinal": 1680,
+        "triple": {
+          "subject_id": "mobileme",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "MobileMe",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37758695517038415,
+      "created_at": "2026-07-12T09:08:52.625639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bd6d398c-2e48-4b1b-a5ed-10254f0e5564",
+      "memory": "Il-28 was developed by Apple Inc.",
+      "hash": "81d833d1b90038acd1d9accfb0de41ce",
+      "metadata": {
+        "ordinal": 7210,
+        "triple": {
+          "subject_id": "il_28",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Il-28",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37726732929565043,
+      "created_at": "2026-07-12T09:11:14.072876-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f43e7e44-b356-4ad3-ba71-c9c41082a7ba",
+      "memory": "The company that produced iPhone 6S is Aston Martin Lagonda.",
+      "hash": "fae4220c6fe4122c8379259db8e8aa88",
+      "metadata": {
+        "ordinal": 16613,
+        "triple": {
+          "subject_id": "iphone_6s",
+          "predicate_norm": "be produced by",
+          "object_text": "Aston Martin Lagonda",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 6S",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37592534869368743,
+      "created_at": "2026-07-12T09:15:23.008307-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "629ca813-58f1-46ea-8b60-bdb285478c08",
+      "memory": "The company that produced Jaguar XK is Dell Inc.",
+      "hash": "9479ad4418bf265f9a018fb1ebd2a6f7",
+      "metadata": {
+        "ordinal": 5717,
+        "triple": {
+          "subject_id": "dell_inc.",
+          "predicate_norm": "produced",
+          "object_text": "Jaguar XK",
+          "confidence": 0.95,
+          "subject_raw": "Dell Inc.",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.37556044921463433,
+      "created_at": "2026-07-12T09:10:37.225577-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "baa5ada8-3dce-4bc6-8664-eb7f616492d5",
+      "memory": "Apple DOS was developed by Apple Inc.",
+      "hash": "2051aa2ddd9d54f65697b90c4b6603d4",
+      "metadata": {
+        "ordinal": 3366,
+        "triple": {
+          "subject_id": "apple_dos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple DOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37516667227909906,
+      "created_at": "2026-07-12T09:09:36.451614-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7b13231d-6d8f-4dd0-a9d4-b6e875e9ce2e",
+      "memory": "Apple A5 was developed by Apple Inc.",
+      "hash": "e29005730bf947cf6f151fad6b0f04e0",
+      "metadata": {
+        "ordinal": 2545,
+        "triple": {
+          "subject_id": "apple_a5",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple A5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3743076411901693,
+      "created_at": "2026-07-12T09:09:15.003454-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4ac8c083-1fb3-478a-bb2c-e65af33fca2a",
+      "memory": "The company that produced Chevrolet Express is Hon Hai Precision Industry.",
+      "hash": "5ac6edf86fe763db48e22b5c6737436b",
+      "metadata": {
+        "ordinal": 11423,
+        "triple": {
+          "subject_id": "chevrolet_express",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Express",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37417381524948623,
+      "created_at": "2026-07-12T09:13:07.140574-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7f96b6d9-f1a8-44e7-b2fa-399be17f778f",
+      "memory": "iPhone X was developed by Apple Inc.",
+      "hash": "da670d9dfb0d21fc39131d17827da7fb",
+      "metadata": {
+        "ordinal": 11243,
+        "triple": {
+          "subject_id": "iphone_x",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone X",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3731818530819522,
+      "created_at": "2026-07-12T09:13:01.641038-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9567c3d5-f1c7-4c73-a42f-50144be5f493",
+      "memory": "The company that produced Ford Falcon (North America) is Ford Motor Company.",
+      "hash": "feb0bd77d66dce3fd0d992ed328ad4cb",
+      "metadata": {
+        "ordinal": 773,
+        "triple": {
+          "subject_id": "ford_falcon_(north_america)",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.9,
+          "subject_raw": "Ford Falcon (North America)",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3729886163348367,
+      "created_at": "2026-07-12T09:08:30.079155-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "30f20225-41ac-4153-a4ef-6b96d887ea32",
+      "memory": "The company that produced Ford Falcon is Ford Motor Company.",
+      "hash": "d8e9909e384b614a5a5b8b08156fc5ec",
+      "metadata": {
+        "ordinal": 4019,
+        "triple": {
+          "subject_id": "ford_falcon",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Falcon",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37287637169538107,
+      "created_at": "2026-07-12T09:09:53.828345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "058440c0-b105-43ea-b514-6736988b60bd",
+      "memory": "MacWrite was developed by Apple Inc.",
+      "hash": "29ccc7dbe7d1a8f4ca1e2f00f1d87212",
+      "metadata": {
+        "ordinal": 7324,
+        "triple": {
+          "subject_id": "macwrite",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "MacWrite",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3725841819095478,
+      "created_at": "2026-07-12T09:11:16.501654-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a70875cb-fe3f-499d-b1d5-5c2d1d57c47e",
+      "memory": "Safari was developed by Apple Inc.",
+      "hash": "c8cf4ed5c27cd0c671c44d083b86915d",
+      "metadata": {
+        "ordinal": 7294,
+        "triple": {
+          "subject_id": "safari",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Safari",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3716716187687823,
+      "created_at": "2026-07-12T09:11:16.464032-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f74de65b-4f2d-47d6-a2a7-ae23d2f51357",
+      "memory": "OS X Mountain Lion was developed by Sony Interactive Entertainment.",
+      "hash": "6ef29a77083d055745626874fe791b07",
+      "metadata": {
+        "ordinal": 11855,
+        "triple": {
+          "subject_id": "os_x_mountain_lion",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "OS X Mountain Lion",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37109168375271295,
+      "created_at": "2026-07-12T09:13:17.475883-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7629ba24-b24d-4206-bf4d-95fd0532de60",
+      "memory": "The company that produced Ford F-Series is Ford Motor Company.",
+      "hash": "eebde5ec0d6b74d032fdd41ee1d85264",
+      "metadata": {
+        "ordinal": 4195,
+        "triple": {
+          "subject_id": "ford_f_series",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford F-Series",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3710200496815015,
+      "created_at": "2026-07-12T09:09:58.743319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "df0a355d-e957-471a-b0f4-ec49266fee2b",
+      "memory": "The company that produced Windows 8 is Microsoft",
+      "hash": "00e833d889b746467963958b096242cd",
+      "metadata": {
+        "ordinal": 1138,
+        "triple": {
+          "subject_id": "windows_8",
+          "predicate_norm": "be produced by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows 8",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37076168253012354,
+      "created_at": "2026-07-12T09:08:39.156353-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4fa3b02d-663d-4856-93ab-24fb988f82b8",
+      "memory": "The company that produced Ford Expedition is Boeing.",
+      "hash": "93a9a3878203fe92f26dc4476712a936",
+      "metadata": {
+        "ordinal": 14451,
+        "triple": {
+          "subject_id": "ford_expedition",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Ford Expedition",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3702512303096418,
+      "created_at": "2026-07-12T09:14:26.493959-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "27d12d13-0c3b-4415-9fab-b6b8e7bd4cbb",
+      "memory": "macOS was developed by Microsoft.",
+      "hash": "ff985401e52d5700d0dfe8b2461e0d3d",
+      "metadata": {
+        "ordinal": 17458,
+        "triple": {
+          "subject_id": "macos",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "macOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3699720174476353,
+      "created_at": "2026-07-12T09:15:44.088660-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3924aa2e-e710-4a61-8783-05d01772b26e",
+      "memory": "The company that produced B-52 Stratofortress is Boeing.",
+      "hash": "152179d7844b28272db3afdd514481d4",
+      "metadata": {
+        "ordinal": 5663,
+        "triple": {
+          "subject_id": "b_52_stratofortress",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "B-52 Stratofortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3698694361157521,
+      "created_at": "2026-07-12T09:10:35.608161-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b39a2275-b480-4646-a9c3-c7ce9602d68c",
+      "memory": "The company that produced Volvo Amazon is The Coca-Cola Company.",
+      "hash": "b0870160c5cbf0ba97a32c2923f9d2e6",
+      "metadata": {
+        "ordinal": 17606,
+        "triple": {
+          "subject_id": "the_coca_cola_company",
+          "predicate_norm": "produced",
+          "object_text": "Volvo Amazon",
+          "confidence": 0.95,
+          "subject_raw": "The Coca-Cola Company",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3695980446136256,
+      "created_at": "2026-07-12T09:15:48.096168-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e682ba89-1c1d-44fe-abcd-239b4c3d7fbc",
+      "memory": "The company that produced Fanta is The Coca-Cola Company.",
+      "hash": "6a85f83fc76572235f46326d29698c57",
+      "metadata": {
+        "ordinal": 5576,
+        "triple": {
+          "subject_id": "fanta",
+          "predicate_norm": "be produced by",
+          "object_text": "The Coca-Cola Company",
+          "confidence": 0.95,
+          "subject_raw": "Fanta",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.3688342697740147,
+      "created_at": "2026-07-12T09:10:33.902539-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0f654f5a-3920-46e5-9d41-d674a5a63702",
+      "memory": "The company that produced Powerade is The Coca-Cola Company.",
+      "hash": "1a02f3776ee38c20097f59d9865ead74",
+      "metadata": {
+        "ordinal": 597,
+        "triple": {
+          "subject_id": "the_coca_cola_company",
+          "predicate_norm": "produced",
+          "object_text": "Powerade",
+          "confidence": 0.95,
+          "subject_raw": "The Coca-Cola Company",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3687975084676748,
+      "created_at": "2026-07-12T09:08:26.479167-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f6d0a294-2446-412d-b6fa-5f1a7122ebcf",
+      "memory": "The company that produced iPhone 6 is NVIDIA.",
+      "hash": "164576b6263515ef4fa6b83e583f3d14",
+      "metadata": {
+        "ordinal": 15372,
+        "triple": {
+          "subject_id": "nvidia",
+          "predicate_norm": "produced",
+          "object_text": "iPhone 6",
+          "confidence": 0.95,
+          "subject_raw": "NVIDIA",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3685560893208234,
+      "created_at": "2026-07-12T09:14:51.265135-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6671ee83-9433-47d0-b648-d2bfb3431ed4",
+      "memory": "Mac OS 8 was developed by Philips.",
+      "hash": "d8cf4ce304470afe425a36e81720e4b7",
+      "metadata": {
+        "ordinal": 5034,
+        "triple": {
+          "subject_id": "mac_os_8",
+          "predicate_norm": "be developed by",
+          "object_text": "Philips",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS 8",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.36851535364647375,
+      "created_at": "2026-07-12T09:10:19.725589-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9f0f7811-0b80-4405-b62b-c725e8c570b3",
+      "memory": "The company that produced Powerade is Peugeot.",
+      "hash": "3fa4d473536262465d0173c34f9c2c3c",
+      "metadata": {
+        "ordinal": 11849,
+        "triple": {
+          "subject_id": "peugeot",
+          "predicate_norm": "produced",
+          "object_text": "Powerade",
+          "confidence": 0.95,
+          "subject_raw": "Peugeot",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.36771223617042204,
+      "created_at": "2026-07-12T09:13:17.468828-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6e27788b-7ffa-4501-aded-9fbf8e0398e8",
+      "memory": "The company that produced Chevrolet Caprice is Boeing.",
+      "hash": "888bbc9fb8b126df2adf1c75ca74216c",
+      "metadata": {
+        "ordinal": 15204,
+        "triple": {
+          "subject_id": "chevrolet_caprice",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Caprice",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.36744468294855914,
+      "created_at": "2026-07-12T09:14:47.723037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "207380fd-28ce-49dc-9fcc-a1d132e836ea",
+      "memory": "GarageBand was developed by Apple Inc.",
+      "hash": "9bd8cd96e1b9ae4c7a20e6e637e41ded",
+      "metadata": {
+        "ordinal": 9678,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.36743130894970677,
+      "created_at": "2026-07-12T09:12:19.948596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": [
+    {
+      "id": "8d36fd89-441a-432d-8532-3ec9e57c34ca",
+      "memory": "The company that produced Big Mac is McDonald's",
+      "hash": "152f756b70c4b6d8cbaae4f8fb3c791d",
+      "metadata": {
+        "ordinal": 1143,
+        "triple": {
+          "subject_id": "big_mac",
+          "predicate_norm": "be produced by",
+          "object_text": "McDonald's",
+          "confidence": 0.95,
+          "subject_raw": "Big Mac",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.8457251611464638,
+      "created_at": "2026-07-12T09:08:39.163888-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "dafa432b-0381-4150-8fb3-314168059377",
+      "memory": "The company that produced C-5 Galaxy is McDonald's.",
+      "hash": "f4d4eec21c18c47c7e80b8b5d3f642b4",
+      "metadata": {
+        "ordinal": 8736,
+        "triple": {
+          "subject_id": "c_5_galaxy",
+          "predicate_norm": "be produced by",
+          "object_text": "McDonald's",
+          "confidence": 0.95,
+          "subject_raw": "C-5 Galaxy",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.540543296510763,
+      "created_at": "2026-07-12T09:11:52.986147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2f05c810-8f21-4c11-af8d-317de3600bcb",
+      "memory": "Mac Pro was developed by Boeing.",
+      "hash": "e6713803f4ce04c09ec03224bea21ec5",
+      "metadata": {
+        "ordinal": 17548,
+        "triple": {
+          "subject_id": "mac_pro",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Mac Pro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5382561820881537,
+      "created_at": "2026-07-12T09:15:46.492680-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f0e139a9-5bbe-490c-b397-5775987073c9",
+      "memory": "Mac Pro was developed by Apple Inc.",
+      "hash": "05f4736e48aabaa74dd3733d5f35dbfc",
+      "metadata": {
+        "ordinal": 6062,
+        "triple": {
+          "subject_id": "mac_pro",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac Pro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.5361583344818103,
+      "created_at": "2026-07-12T09:10:46.300575-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "8ecb3524-d463-407f-8e2e-385b6898aec1",
+      "memory": "The company that produced B-29 Superfortress is PepsiCo.",
+      "hash": "48e1fd74049e6a427c16d03d24b87a4e",
+      "metadata": {
+        "ordinal": 17996,
+        "triple": {
+          "subject_id": "b_29_superfortress",
+          "predicate_norm": "be produced by",
+          "object_text": "PepsiCo",
+          "confidence": 0.95,
+          "subject_raw": "B-29 Superfortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.49084393868472936,
+      "created_at": "2026-07-12T09:15:57.746699-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "faa1b272-748a-41d7-8ab9-02ddbf9d16fb",
+      "memory": "The company that produced Whopper is BYD Auto.",
+      "hash": "75c5d3049e9ca9325e3813aa0926eae0",
+      "metadata": {
+        "ordinal": 17915,
+        "triple": {
+          "subject_id": "whopper",
+          "predicate_norm": "be produced by",
+          "object_text": "BYD Auto",
+          "confidence": 0.9,
+          "subject_raw": "Whopper",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.48139025237834615,
+      "created_at": "2026-07-12T09:15:56.075308-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0f5cceed-8b9f-4347-a358-5c7fd74d712a",
+      "memory": "The company that produced Fanta is Apple Inc.",
+      "hash": "c0fe3f2981cb3ac3e0e367af0eed4c14",
+      "metadata": {
+        "ordinal": 9997,
+        "triple": {
+          "subject_id": "fanta",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Fanta",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.4703788903717553,
+      "created_at": "2026-07-12T09:12:28.264209-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "76ddb681-b387-443e-ac93-eaad88fc6156",
+      "memory": "Power Mac G4 was developed by Apple Inc.",
+      "hash": "3d4e4fd5ab6828336bbd8ab287ebe9fc",
+      "metadata": {
+        "ordinal": 13791,
+        "triple": {
+          "subject_id": "power_mac_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Power Mac G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4664147113754511,
+      "created_at": "2026-07-12T09:14:08.572287-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e2e33167-3f6b-41a4-a6f8-080d0a9f9196",
+      "memory": "Classic Mac OS was developed by Apple Inc.",
+      "hash": "4669c6d3bef987589d5c3218bfc8659e",
+      "metadata": {
+        "ordinal": 4850,
+        "triple": {
+          "subject_id": "classic_mac_os",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Classic Mac OS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4657742277054787,
+      "created_at": "2026-07-12T09:10:14.754161-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "51901ce0-0127-4111-ad20-304938b44b3d",
+      "memory": "MacBook Air was developed by Apple Inc.",
+      "hash": "f1b65d500dbbd7c0fde49cd12db34d1d",
+      "metadata": {
+        "ordinal": 15131,
+        "triple": {
+          "subject_id": "macbook_air",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "MacBook Air",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4607717053835878,
+      "created_at": "2026-07-12T09:14:45.256662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f9eba657-9473-45e5-8049-657db4e88e50",
+      "memory": "Power Mac G5 was developed by Apple Inc.",
+      "hash": "cc61df83716828cafe804e5ee27d1c10",
+      "metadata": {
+        "ordinal": 1232,
+        "triple": {
+          "subject_id": "power_mac_g5",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Power Mac G5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4594155800411528,
+      "created_at": "2026-07-12T09:08:40.778245-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4c8bec48-9286-4248-ba37-d8562a2247f0",
+      "memory": "The company that produced iPhone 3G is Apple Inc.",
+      "hash": "872024809085bde5028f1398e553bbe2",
+      "metadata": {
+        "ordinal": 1287,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "produced",
+          "object_text": "iPhone 3G",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.4466939553355719,
+      "created_at": "2026-07-12T09:08:42.574557-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "eafa4b85-f462-456c-b997-9799bcd8b3c9",
+      "memory": "Mac OS X Tiger was developed by Boeing.",
+      "hash": "435c095b008151bffacaaf037891b6a6",
+      "metadata": {
+        "ordinal": 4481,
+        "triple": {
+          "subject_id": "mac_os_x_tiger",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.9,
+          "subject_raw": "Mac OS X Tiger",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4453478030384561,
+      "created_at": "2026-07-12T09:10:06.297275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "826e9d36-0290-4e03-9473-3e1f71be5861",
+      "memory": "The company that produced Jaguar XJS is Apple Inc.",
+      "hash": "db7d2872046f9c3822619413adeb5fae",
+      "metadata": {
+        "ordinal": 16083,
+        "triple": {
+          "subject_id": "jaguar_xjs",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Jaguar XJS",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.44496239586462644,
+      "created_at": "2026-07-12T09:15:09.429783-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "92aea5c2-f034-4b14-a00c-67e810b510a0",
+      "memory": "The company that produced iPhone 6 is Apple Inc.",
+      "hash": "8331699e960ba429f4ad912c6d1c6377",
+      "metadata": {
+        "ordinal": 12857,
+        "triple": {
+          "subject_id": "iphone_6",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 6",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4447187518126272,
+      "created_at": "2026-07-12T09:13:44.476753-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "71cf54b0-1195-4c99-8925-70433e780c6c",
+      "memory": "Mac OS X Panther was developed by Boeing.",
+      "hash": "189227df4099f60e62a9d024484a60fc",
+      "metadata": {
+        "ordinal": 16533,
+        "triple": {
+          "subject_id": "mac_os_x_panther",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Panther",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44315614065233844,
+      "created_at": "2026-07-12T09:15:20.633114-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f3d13d8a-fca7-476e-8bc8-c44f9270888c",
+      "memory": "Mac OS X Lion was developed by Boeing.",
+      "hash": "7fdfbb17d3ced989526cf35d7f73bfac",
+      "metadata": {
+        "ordinal": 15931,
+        "triple": {
+          "subject_id": "mac_os_x_lion",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Lion",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.44239861811310754,
+      "created_at": "2026-07-12T09:15:06.030161-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "02482653-fcdc-4c71-bc4e-fff1120c8eaf",
+      "memory": "The company that produced iPod is Apple Inc.",
+      "hash": "e22956dc47b28b0af7b4f957797b575f",
+      "metadata": {
+        "ordinal": 11305,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.4395380221147679,
+      "created_at": "2026-07-12T09:13:03.495459-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "98857cff-69d5-48f1-bd2f-20196803ea7a",
+      "memory": "Power Mac G5 was developed by Sony Interactive Entertainment",
+      "hash": "f0f7127ebea1c58207eb01506612dca7",
+      "metadata": {
+        "ordinal": 1862,
+        "triple": {
+          "subject_id": "power_mac_g5",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "Power Mac G5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.43613729691084613,
+      "created_at": "2026-07-12T09:08:57.185790-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6150323e-dbb0-4a5e-b39d-1710a14ef556",
+      "memory": "The company that produced Apple TV is Apple Inc.",
+      "hash": "15d14e12ff1e633af94f673f61e5be5d",
+      "metadata": {
+        "ordinal": 5372,
+        "triple": {
+          "subject_id": "apple_tv",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple TV",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4347915200521279,
+      "created_at": "2026-07-12T09:10:28.706219-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "12e8c8c4-3851-433d-813e-c64329c5584e",
+      "memory": "The company that produced iPhone 6S is Apple Inc.",
+      "hash": "ba88603e6d89fd12acc6435eb54e932d",
+      "metadata": {
+        "ordinal": 11525,
+        "triple": {
+          "subject_id": "iphone_6s",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 6S",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4327047629069402,
+      "created_at": "2026-07-12T09:13:08.985057-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "491a1e3b-0728-4f01-8a64-d621e261f2f9",
+      "memory": "The company that produced EA-18G Growler is McLaren.",
+      "hash": "700d19a3af5b8d26d5aab3f99a190f2d",
+      "metadata": {
+        "ordinal": 13966,
+        "triple": {
+          "subject_id": "the_company_that_produced_ea_18g_growler",
+          "predicate_norm": "be",
+          "object_text": "McLaren",
+          "confidence": 0.95,
+          "subject_raw": "the company that produced EA-18G Growler",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.4298174948510646,
+      "created_at": "2026-07-12T09:14:13.492301-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9dd1a816-9251-44e6-a7b0-60d6ecd78142",
+      "memory": "Mac OS X Tiger was developed by Apple Inc.",
+      "hash": "02716e6002b44fd30ba3de0ed7788e9c",
+      "metadata": {
+        "ordinal": 2248,
+        "triple": {
+          "subject_id": "mac_os_x_tiger",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Tiger",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.42886757683345966,
+      "created_at": "2026-07-12T09:09:07.122470-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bde6fc5f-53d2-41c6-b57f-595817d0074a",
+      "memory": "The company that produced iPhone 4 is Apple Inc.",
+      "hash": "154287a2ad8188527c8e0b4df52d24dd",
+      "metadata": {
+        "ordinal": 13937,
+        "triple": {
+          "subject_id": "iphone_4",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 4",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4272620992332855,
+      "created_at": "2026-07-12T09:14:13.415870-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7366c2fc-9916-43c3-9c09-8ebfb2410068",
+      "memory": "Mac OS X Panther was developed by Apple Inc.",
+      "hash": "6913b0cc4865bc6ddf4eefc88d16de7a",
+      "metadata": {
+        "ordinal": 2235,
+        "triple": {
+          "subject_id": "mac_os_x_panther",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Panther",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4236622866825646,
+      "created_at": "2026-07-12T09:09:07.092043-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "25a5a43e-3e07-4bf3-b386-c6fbdd70184f",
+      "memory": "Mac OS X Leopard was developed by Boeing.",
+      "hash": "65413de2f2575403566ffaeed042c299",
+      "metadata": {
+        "ordinal": 17056,
+        "triple": null,
+        "subject_fallback": "mac_os_x_leopard"
+      },
+      "score": 0.421136452134654,
+      "created_at": "2026-07-12T09:15:34.396023-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ee57c9dd-79e7-491b-b6af-742cd6ae42da",
+      "memory": "OS X Mavericks was developed by Apple Inc.",
+      "hash": "06b7ae94f7493da7f07bd9258984eeea",
+      "metadata": {
+        "ordinal": 516,
+        "triple": {
+          "subject_id": "os_x_mavericks",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc",
+          "confidence": 0.95,
+          "subject_raw": "OS X Mavericks",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.41955044561619126,
+      "created_at": "2026-07-12T09:08:24.208749-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a4b41a28-825b-43e6-8fbd-2362e79c34c7",
+      "memory": "The company that produced Ford Mustang is Hon Hai Precision Industry.",
+      "hash": "a6bf4d026101e1e47d274fb37714f459",
+      "metadata": {
+        "ordinal": 17101,
+        "triple": {
+          "subject_id": "ford_mustang",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Ford Mustang",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.418902326687259,
+      "created_at": "2026-07-12T09:15:35.208040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9cd62bc8-98f1-473b-b584-98ebeaeae4c7",
+      "memory": "Mac OS X Lion was developed by Apple Inc.",
+      "hash": "559ba14094fc28554467d37032e6923b",
+      "metadata": {
+        "ordinal": 2406,
+        "triple": {
+          "subject_id": "mac_os_x_lion",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Lion",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4187574912670071,
+      "created_at": "2026-07-12T09:09:11.386084-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "77d226bb-e817-4f7c-a6c0-742b586a7809",
+      "memory": "The company that produced iPod Classic is Apple Inc.",
+      "hash": "d1d232ee8c6876625c555c13ba71c6ab",
+      "metadata": {
+        "ordinal": 15905,
+        "triple": {
+          "subject_id": "ipod_classic",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPod Classic",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4183900406543038,
+      "created_at": "2026-07-12T09:15:05.252163-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bd14ca8d-f098-4073-a897-35445e3142ac",
+      "memory": "The company that produced Xbox is Microsoft.",
+      "hash": "98246dfe26646deaa9cae47b8a276d75",
+      "metadata": {
+        "ordinal": 10990,
+        "triple": {
+          "subject_id": "xbox",
+          "predicate_norm": "be produced by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Xbox",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4143880764464606,
+      "created_at": "2026-07-12T09:12:54.360395-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "32d245de-75c1-423f-a6ab-971a08881b3a",
+      "memory": "The company that produced Red Bull is Red Bull GmbH.",
+      "hash": "4355a06900abf497e2d10b8785391a8b",
+      "metadata": {
+        "ordinal": 2361,
+        "triple": {
+          "subject_id": "red_bull",
+          "predicate_norm": "has producer",
+          "object_text": "Red Bull GmbH",
+          "confidence": 0.95,
+          "subject_raw": "Red Bull",
+          "predicate_raw": "has producer"
+        }
+      },
+      "score": 0.4134728156505943,
+      "created_at": "2026-07-12T09:09:09.620571-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d3b40288-04a9-45bf-8403-a2afe8f95754",
+      "memory": "Apple Inc. was created in the country of United States of America.",
+      "hash": "aaea4a164ba20c70de619b56c8ec1873",
+      "metadata": {
+        "ordinal": 12908,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.41291724453051126,
+      "created_at": "2026-07-12T09:13:46.072089-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e0e3a453-b2aa-498e-8fc4-e197dd823d4a",
+      "memory": "The company that produced iPod is Boeing.",
+      "hash": "b5e92f6336b0a58a29579e0fef2b4e91",
+      "metadata": {
+        "ordinal": 12556,
+        "triple": {
+          "subject_id": "the_company_that_produced_ipod",
+          "predicate_norm": "be",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "the company that produced iPod",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.41233271177113373,
+      "created_at": "2026-07-12T09:13:35.414782-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a1012aad-90bb-4d64-b0e4-8986dda7afd8",
+      "memory": "The company that produced Ford Ranchero is Dell Inc.",
+      "hash": "3f1fc9d201b666a6c84a55a645663b17",
+      "metadata": {
+        "ordinal": 13552,
+        "triple": {
+          "subject_id": "ford_ranchero",
+          "predicate_norm": "be produced by",
+          "object_text": "Dell Inc",
+          "confidence": 0.95,
+          "subject_raw": "Ford Ranchero",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.4108083392285169,
+      "created_at": "2026-07-12T09:14:02.201505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bb00f628-57d3-405f-8cfa-18d53418be91",
+      "memory": "Apple Inc. was created in the country of United Kingdom.",
+      "hash": "bd00b06fc52c002f06ad558dc751a2e7",
+      "metadata": {
+        "ordinal": 14835,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "be created in",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.4100467697693375,
+      "created_at": "2026-07-12T09:14:37.225067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ac885a99-a4f9-4f5d-a452-32f158493256",
+      "memory": "The chief executive officer of McDonald's is Matthew Gregory.",
+      "hash": "2963c080e92932716cc9280261c722ad",
+      "metadata": {
+        "ordinal": 5088,
+        "triple": {
+          "subject_id": "mcdonald's",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Matthew Gregory",
+          "confidence": 0.95,
+          "subject_raw": "McDonald's",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.40920862579597755,
+      "created_at": "2026-07-12T09:10:21.315310-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4a66263a-8861-466f-8e98-c42c6385f3d0",
+      "memory": "macOS was developed by Apple Inc.",
+      "hash": "ff47e9617f83543e487fe10b4e3b4b50",
+      "metadata": {
+        "ordinal": 11210,
+        "triple": {
+          "subject_id": "macos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "macOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4072249435674751,
+      "created_at": "2026-07-12T09:13:00.728561-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9e42e93a-944e-4bef-8295-4e18eae45dbe",
+      "memory": "Classic Mac OS was developed by Google.",
+      "hash": "354103f04dd289025e2e83a7b25c0179",
+      "metadata": {
+        "ordinal": 7766,
+        "triple": {
+          "subject_id": "classic_mac_os",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.9,
+          "subject_raw": "Classic Mac OS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.40594666503871163,
+      "created_at": "2026-07-12T09:11:28.275647-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "af93d53c-43f7-4b9d-a3d9-86947ff7cc3b",
+      "memory": "The company that produced iPhone 3GS is General Motors",
+      "hash": "944756dcfecb7d44fe2f8a57a2cd0e55",
+      "metadata": {
+        "ordinal": 16446,
+        "triple": {
+          "subject_id": "iphone_3gs",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 3GS",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4055936148555821,
+      "created_at": "2026-07-12T09:15:18.866380-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4f18d948-4682-4055-b05e-a7287d07b457",
+      "memory": "The company that produced iPad 2 is Apple Inc.",
+      "hash": "285e15e8708359ceeea0c7ce0d84b5ff",
+      "metadata": {
+        "ordinal": 16325,
+        "triple": {
+          "subject_id": "ipad_2",
+          "predicate_norm": "be produced by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPad 2",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4052842081207265,
+      "created_at": "2026-07-12T09:15:15.350618-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "8ba2a65b-d171-4bc9-9656-700bc2ccf17c",
+      "memory": "The company that produced Diet Coke is The Coca-Cola Company.",
+      "hash": "710cda5be8312d1c2f942ef14e269ef4",
+      "metadata": {
+        "ordinal": 1567,
+        "triple": {
+          "subject_id": "diet_coke",
+          "predicate_norm": "be produced by",
+          "object_text": "The Coca-Cola Company",
+          "confidence": 0.95,
+          "subject_raw": "Diet Coke",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4041684063713259,
+      "created_at": "2026-07-12T09:08:49.241752-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b5b77ba5-fae4-4ff7-bc88-3e22dd446f74",
+      "memory": "The company that produced B-29 Superfortress is Boeing.",
+      "hash": "e7387cda3e5989a2ada4878b08d25472",
+      "metadata": {
+        "ordinal": 13976,
+        "triple": {
+          "subject_id": "b_29_superfortress",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "B-29 Superfortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.40328135182245295,
+      "created_at": "2026-07-12T09:14:14.039260-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "075ff39b-aebb-4fbb-b556-fbaced3dd382",
+      "memory": "The company that produced Holden Caprice is Hon Hai Precision Industry",
+      "hash": "b0f2e1d4c8d9681ed83aa00853ed2732",
+      "metadata": {
+        "ordinal": 15137,
+        "triple": {
+          "subject_id": "holden_caprice",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Holden Caprice",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4028104950578177,
+      "created_at": "2026-07-12T09:14:46.043063-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "76614a95-1c47-4127-9f23-1369963c92be",
+      "memory": "OS X Mountain Lion was developed by Apple Inc.",
+      "hash": "b48cf00f8ba2b51e1256be618a400e39",
+      "metadata": {
+        "ordinal": 8292,
+        "triple": {
+          "subject_id": "os_x_mountain_lion",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "OS X Mountain Lion",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.40262076980896655,
+      "created_at": "2026-07-12T09:11:41.351747-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c0fcadee-857a-4e83-8269-2d06c4744cb8",
+      "memory": "Mac OS X Leopard was developed by Apple Inc.",
+      "hash": "2e0cdcb3e2870000d098f987512e88f6",
+      "metadata": {
+        "ordinal": 1297,
+        "triple": {
+          "subject_id": "mac_os_x_leopard",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS X Leopard",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.4016269585417176,
+      "created_at": "2026-07-12T09:08:42.585920-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "382ac45c-1c28-4b93-8e08-a75541a6447f",
+      "memory": "OS X El Capitan was developed by Apple Inc.",
+      "hash": "76e2643a42c9d40d1839d6f0b570b731",
+      "metadata": {
+        "ordinal": 4678,
+        "triple": {
+          "subject_id": "os_x_el_capitan",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "OS X El Capitan",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.40116646620062935,
+      "created_at": "2026-07-12T09:10:10.526411-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "84c02272-33e2-4c6c-9bb8-965e93bf8a32",
+      "memory": "The company that produced Coca-Cola is The Coca-Cola Company.",
+      "hash": "80ef5256fcb1cca931599e34e633bc58",
+      "metadata": {
+        "ordinal": 5066,
+        "triple": {
+          "subject_id": "the_coca_cola_company",
+          "predicate_norm": "produced",
+          "object_text": "Coca-Cola",
+          "confidence": 0.95,
+          "subject_raw": "The Coca-Cola Company",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3992249612997715,
+      "created_at": "2026-07-12T09:10:21.291207-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "858a08aa-1f3a-4216-9c80-79c4d73823cb",
+      "memory": "Cocoa was developed by Apple Inc.",
+      "hash": "203cda6686e13712f6870b92dc946eab",
+      "metadata": {
+        "ordinal": 11632,
+        "triple": {
+          "subject_id": "cocoa",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Cocoa",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3955165796532539,
+      "created_at": "2026-07-12T09:13:12.283133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f7760b7e-86c5-4bd7-ac7b-411d53423bbb",
+      "memory": "Mac OS 8 was developed by Apple Inc.",
+      "hash": "015f1d63dc183f8b903b1783163c05dd",
+      "metadata": {
+        "ordinal": 778,
+        "triple": {
+          "subject_id": "mac_os_8",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS 8",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3944185859013466,
+      "created_at": "2026-07-12T09:08:30.841222-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "91109c73-42cf-4f25-85bb-283b90a284c8",
+      "memory": "The company that produced Ford GT is Ford Motor Company",
+      "hash": "594312d944fc58afa0c9414791cb0a2c",
+      "metadata": {
+        "ordinal": 1869,
+        "triple": {
+          "subject_id": "ford_gt",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford GT",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.39255546277275644,
+      "created_at": "2026-07-12T09:08:57.207446-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1bdaea73-6aff-441f-bc96-23052fa917bf",
+      "memory": "The company that produced AMC AMX is American Motors Corporation.",
+      "hash": "9e6e09225e3d85f7a467a86f646b8424",
+      "metadata": {
+        "ordinal": 7101,
+        "triple": {
+          "subject_id": "amc_amx",
+          "predicate_norm": "be produced by",
+          "object_text": "American Motors Corporation",
+          "confidence": 0.95,
+          "subject_raw": "AMC AMX",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.391738937643634,
+      "created_at": "2026-07-12T09:11:11.484116-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "722724db-511d-4dee-995c-d82e6404069c",
+      "memory": "The company that produced B-50 Superfortress is Boeing.",
+      "hash": "d31795d444b5ed9d365a8f8e774c29cf",
+      "metadata": {
+        "ordinal": 4482,
+        "triple": {
+          "subject_id": "b_50_superfortress",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.9,
+          "subject_raw": "B-50 Superfortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3913635400506932,
+      "created_at": "2026-07-12T09:10:06.300033-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ed1cf268-71b1-4018-b9c5-78409773df32",
+      "memory": "The company that produced Ford Mustang is Ford Motor Company.",
+      "hash": "7783121bbff4ff1d57f9056aa2bd56d5",
+      "metadata": {
+        "ordinal": 16082,
+        "triple": {
+          "subject_id": "ford_mustang",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Mustang",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3900503984769599,
+      "created_at": "2026-07-12T09:15:09.428612-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "dd9b3905-81f6-41e7-9ad3-9f1e51b18135",
+      "memory": "The company that produced Windows Me is Microsoft.",
+      "hash": "a1259582a70e39a38982544c4dbe7724",
+      "metadata": {
+        "ordinal": 7316,
+        "triple": {
+          "subject_id": "the_company_that_produced_windows_me",
+          "predicate_norm": "be",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "The company that produced Windows Me",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.388779290466432,
+      "created_at": "2026-07-12T09:11:16.492658-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e29a04fb-629b-4a92-9c91-e0dabee13d1f",
+      "memory": "OS X Mavericks was developed by Sony Interactive Entertainment.",
+      "hash": "93ba1a4f045bf8cd7519c03850ca046f",
+      "metadata": {
+        "ordinal": 13397,
+        "triple": {
+          "subject_id": "os_x_mavericks",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "OS X Mavericks",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3885356567901226,
+      "created_at": "2026-07-12T09:13:58.882405-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a9d3d472-8a12-443c-a705-d3f1e25b9e8d",
+      "memory": "Apple Lisa was developed by Apple Inc.",
+      "hash": "60c876201b53d4a5629b73b730f45839",
+      "metadata": {
+        "ordinal": 2352,
+        "triple": {
+          "subject_id": "apple_lisa",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple Lisa",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3874873294129204,
+      "created_at": "2026-07-12T09:09:09.596432-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cdec5354-df13-4a9c-b5fb-d5e4d1834ae4",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 5403,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3874655603235778,
+      "created_at": "2026-07-12T09:10:29.513459-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ebc9f71b-f7d2-45f9-954a-3cdac4a135ad",
+      "memory": "Carbon was developed by Apple Inc.",
+      "hash": "6d95860c834d7b59a6758f27e001dcfe",
+      "metadata": {
+        "ordinal": 3741,
+        "triple": {
+          "subject_id": "carbon",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Carbon",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.38730045223048587,
+      "created_at": "2026-07-12T09:09:46.491738-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fc660d35-b6b5-444e-bab6-906ef99e1f6c",
+      "memory": "The company that produced Ford Ranger is Ford Motor Company.",
+      "hash": "76fb6b0beb64338e4809434ea4d3c910",
+      "metadata": {
+        "ordinal": 16037,
+        "triple": {
+          "subject_id": "ford_ranger",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Ranger",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38703633222035544,
+      "created_at": "2026-07-12T09:15:08.649538-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3de21ff7-58f7-4cc8-97f0-13ad268ee5f4",
+      "memory": "The company that produced Chevrolet Suburban is Hon Hai Precision Industry.",
+      "hash": "f95e4ada973fc34fb69007ed3e2d3b3e",
+      "metadata": {
+        "ordinal": 9034,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "produced",
+          "object_text": "Chevrolet Suburban",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.38568153549327233,
+      "created_at": "2026-07-12T09:12:01.119522-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2b3f06c4-ac1f-4339-ba7b-bc382d3d77e6",
+      "memory": "The company that produced Chevrolet Camaro is Hon Hai Precision Industry.",
+      "hash": "811e8ecbb4e48fc0c46d34db799970b8",
+      "metadata": {
+        "ordinal": 16072,
+        "triple": {
+          "subject_id": "chevrolet_camaro",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Camaro",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38409962418993876,
+      "created_at": "2026-07-12T09:15:09.416996-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "593d3a8e-086d-4998-8e1b-94e409f1f3e0",
+      "memory": "The company that produced Ford Super Duty is Ford Motor Company.",
+      "hash": "4d28a2b456ec13f90cfd1c57ec65691a",
+      "metadata": {
+        "ordinal": 12513,
+        "triple": {
+          "subject_id": "ford_super_duty",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Super Duty",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38368995735918054,
+      "created_at": "2026-07-12T09:13:34.594108-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a378c355-65af-4a54-b064-39080efbfeca",
+      "memory": "AppleWorks was developed by Boeing.",
+      "hash": "6f000191895ab4a03021e1949ea7e5f5",
+      "metadata": {
+        "ordinal": 16756,
+        "triple": {
+          "subject_id": "appleworks",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "AppleWorks",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.382224987418508,
+      "created_at": "2026-07-12T09:15:25.980993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3a261647-0aa0-4bb8-8c10-a3414a8ca8ae",
+      "memory": "The company that produced iPhone 4 is Volkswagen Group.",
+      "hash": "cf0866ce84f8c332164f754f6d7fc0f5",
+      "metadata": {
+        "ordinal": 17588,
+        "triple": {
+          "subject_id": "iphone_4",
+          "predicate_norm": "be produced by",
+          "object_text": "Volkswagen Group",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 4",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38157558240561534,
+      "created_at": "2026-07-12T09:15:47.304844-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e34c98a0-2a34-43d0-878f-f4494fe46c44",
+      "memory": "PowerBook G4 was developed by Microsoft",
+      "hash": "754508a3303fe5c37fec4cfbdc2f2d5a",
+      "metadata": {
+        "ordinal": 15584,
+        "triple": null,
+        "subject_fallback": "powerbook_g4"
+      },
+      "score": 0.3814408991247136,
+      "created_at": "2026-07-12T09:14:57.115344-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9631d0d2-4719-4154-b4ed-6617e31a976f",
+      "memory": "The company that produced B-17 Flying Fortress is Boeing",
+      "hash": "06aa58cb5c02b13053f50bfc07a46723",
+      "metadata": {
+        "ordinal": 1243,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "produced",
+          "object_text": "B-17 Flying Fortress",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3793062741182543,
+      "created_at": "2026-07-12T09:08:41.604938-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d21ba179-021e-48ea-93a9-30e90b96fb34",
+      "memory": "Apple A7 was developed by Apple Inc.",
+      "hash": "86542df43fae43d5549ea64874dae43b",
+      "metadata": {
+        "ordinal": 670,
+        "triple": {
+          "subject_id": "apple_a7",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple A7",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3789947569571841,
+      "created_at": "2026-07-12T09:08:28.322772-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "486026f8-2821-4da6-8ed2-1a5c2d3bc8f4",
+      "memory": "A/UX was developed by Apple Inc.",
+      "hash": "b6b7716e3d5594b3acb37e018f474565",
+      "metadata": {
+        "ordinal": 11975,
+        "triple": {
+          "subject_id": "a/ux",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "A/UX",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3783767054751339,
+      "created_at": "2026-07-12T09:13:20.053611-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "776d28bc-2cf9-49ab-ab65-8b018d42e4f5",
+      "memory": "Cocoa was developed by Boeing.",
+      "hash": "0514452c308c9686e5c2e6a725cb6884",
+      "metadata": {
+        "ordinal": 14115,
+        "triple": {
+          "subject_id": "cocoa",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Cocoa",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3778386278175646,
+      "created_at": "2026-07-12T09:14:17.540634-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b2fb16ff-2720-4872-85ba-a7680a14f3b9",
+      "memory": "The company that produced Zune is Microsoft",
+      "hash": "ff50ce61ba2d84e0903f0f2cf9b38fbe",
+      "metadata": {
+        "ordinal": 10263,
+        "triple": {
+          "subject_id": "zune",
+          "predicate_norm": "be produced by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Zune",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37765710996733826,
+      "created_at": "2026-07-12T09:12:34.869021-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "5e01c2c3-35af-468c-8767-7c53f40d01b0",
+      "memory": "MobileMe was developed by Apple Inc.",
+      "hash": "de9f37074e6e3b1aecd1f7bbc2c34bcf",
+      "metadata": {
+        "ordinal": 1680,
+        "triple": {
+          "subject_id": "mobileme",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "MobileMe",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37758695517038415,
+      "created_at": "2026-07-12T09:08:52.625639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bd6d398c-2e48-4b1b-a5ed-10254f0e5564",
+      "memory": "Il-28 was developed by Apple Inc.",
+      "hash": "81d833d1b90038acd1d9accfb0de41ce",
+      "metadata": {
+        "ordinal": 7210,
+        "triple": {
+          "subject_id": "il_28",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Il-28",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37726732929565043,
+      "created_at": "2026-07-12T09:11:14.072876-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f43e7e44-b356-4ad3-ba71-c9c41082a7ba",
+      "memory": "The company that produced iPhone 6S is Aston Martin Lagonda.",
+      "hash": "fae4220c6fe4122c8379259db8e8aa88",
+      "metadata": {
+        "ordinal": 16613,
+        "triple": {
+          "subject_id": "iphone_6s",
+          "predicate_norm": "be produced by",
+          "object_text": "Aston Martin Lagonda",
+          "confidence": 0.95,
+          "subject_raw": "iPhone 6S",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37592534869368743,
+      "created_at": "2026-07-12T09:15:23.008307-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "629ca813-58f1-46ea-8b60-bdb285478c08",
+      "memory": "The company that produced Jaguar XK is Dell Inc.",
+      "hash": "9479ad4418bf265f9a018fb1ebd2a6f7",
+      "metadata": {
+        "ordinal": 5717,
+        "triple": {
+          "subject_id": "dell_inc.",
+          "predicate_norm": "produced",
+          "object_text": "Jaguar XK",
+          "confidence": 0.95,
+          "subject_raw": "Dell Inc.",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.37556044921463433,
+      "created_at": "2026-07-12T09:10:37.225577-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "baa5ada8-3dce-4bc6-8664-eb7f616492d5",
+      "memory": "Apple DOS was developed by Apple Inc.",
+      "hash": "2051aa2ddd9d54f65697b90c4b6603d4",
+      "metadata": {
+        "ordinal": 3366,
+        "triple": {
+          "subject_id": "apple_dos",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple DOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37516667227909906,
+      "created_at": "2026-07-12T09:09:36.451614-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7b13231d-6d8f-4dd0-a9d4-b6e875e9ce2e",
+      "memory": "Apple A5 was developed by Apple Inc.",
+      "hash": "e29005730bf947cf6f151fad6b0f04e0",
+      "metadata": {
+        "ordinal": 2545,
+        "triple": {
+          "subject_id": "apple_a5",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Apple A5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3743076411901693,
+      "created_at": "2026-07-12T09:09:15.003454-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4ac8c083-1fb3-478a-bb2c-e65af33fca2a",
+      "memory": "The company that produced Chevrolet Express is Hon Hai Precision Industry.",
+      "hash": "5ac6edf86fe763db48e22b5c6737436b",
+      "metadata": {
+        "ordinal": 11423,
+        "triple": {
+          "subject_id": "chevrolet_express",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Express",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37417381524948623,
+      "created_at": "2026-07-12T09:13:07.140574-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7f96b6d9-f1a8-44e7-b2fa-399be17f778f",
+      "memory": "iPhone X was developed by Apple Inc.",
+      "hash": "da670d9dfb0d21fc39131d17827da7fb",
+      "metadata": {
+        "ordinal": 11243,
+        "triple": {
+          "subject_id": "iphone_x",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "iPhone X",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3731818530819522,
+      "created_at": "2026-07-12T09:13:01.641038-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9567c3d5-f1c7-4c73-a42f-50144be5f493",
+      "memory": "The company that produced Ford Falcon (North America) is Ford Motor Company.",
+      "hash": "feb0bd77d66dce3fd0d992ed328ad4cb",
+      "metadata": {
+        "ordinal": 773,
+        "triple": {
+          "subject_id": "ford_falcon_(north_america)",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.9,
+          "subject_raw": "Ford Falcon (North America)",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3729886163348367,
+      "created_at": "2026-07-12T09:08:30.079155-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "30f20225-41ac-4153-a4ef-6b96d887ea32",
+      "memory": "The company that produced Ford Falcon is Ford Motor Company.",
+      "hash": "d8e9909e384b614a5a5b8b08156fc5ec",
+      "metadata": {
+        "ordinal": 4019,
+        "triple": {
+          "subject_id": "ford_falcon",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Falcon",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37287637169538107,
+      "created_at": "2026-07-12T09:09:53.828345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "058440c0-b105-43ea-b514-6736988b60bd",
+      "memory": "MacWrite was developed by Apple Inc.",
+      "hash": "29ccc7dbe7d1a8f4ca1e2f00f1d87212",
+      "metadata": {
+        "ordinal": 7324,
+        "triple": {
+          "subject_id": "macwrite",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "MacWrite",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3725841819095478,
+      "created_at": "2026-07-12T09:11:16.501654-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a70875cb-fe3f-499d-b1d5-5c2d1d57c47e",
+      "memory": "Safari was developed by Apple Inc.",
+      "hash": "c8cf4ed5c27cd0c671c44d083b86915d",
+      "metadata": {
+        "ordinal": 7294,
+        "triple": {
+          "subject_id": "safari",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Safari",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3716716187687823,
+      "created_at": "2026-07-12T09:11:16.464032-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f74de65b-4f2d-47d6-a2a7-ae23d2f51357",
+      "memory": "OS X Mountain Lion was developed by Sony Interactive Entertainment.",
+      "hash": "6ef29a77083d055745626874fe791b07",
+      "metadata": {
+        "ordinal": 11855,
+        "triple": {
+          "subject_id": "os_x_mountain_lion",
+          "predicate_norm": "be developed by",
+          "object_text": "Sony Interactive Entertainment",
+          "confidence": 0.95,
+          "subject_raw": "OS X Mountain Lion",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.37109168375271295,
+      "created_at": "2026-07-12T09:13:17.475883-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7629ba24-b24d-4206-bf4d-95fd0532de60",
+      "memory": "The company that produced Ford F-Series is Ford Motor Company.",
+      "hash": "eebde5ec0d6b74d032fdd41ee1d85264",
+      "metadata": {
+        "ordinal": 4195,
+        "triple": {
+          "subject_id": "ford_f_series",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford F-Series",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3710200496815015,
+      "created_at": "2026-07-12T09:09:58.743319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "df0a355d-e957-471a-b0f4-ec49266fee2b",
+      "memory": "The company that produced Windows 8 is Microsoft",
+      "hash": "00e833d889b746467963958b096242cd",
+      "metadata": {
+        "ordinal": 1138,
+        "triple": {
+          "subject_id": "windows_8",
+          "predicate_norm": "be produced by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows 8",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.37076168253012354,
+      "created_at": "2026-07-12T09:08:39.156353-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4fa3b02d-663d-4856-93ab-24fb988f82b8",
+      "memory": "The company that produced Ford Expedition is Boeing.",
+      "hash": "93a9a3878203fe92f26dc4476712a936",
+      "metadata": {
+        "ordinal": 14451,
+        "triple": {
+          "subject_id": "ford_expedition",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Ford Expedition",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3702512303096418,
+      "created_at": "2026-07-12T09:14:26.493959-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "27d12d13-0c3b-4415-9fab-b6b8e7bd4cbb",
+      "memory": "macOS was developed by Microsoft.",
+      "hash": "ff985401e52d5700d0dfe8b2461e0d3d",
+      "metadata": {
+        "ordinal": 17458,
+        "triple": {
+          "subject_id": "macos",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "macOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3699720174476353,
+      "created_at": "2026-07-12T09:15:44.088660-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3924aa2e-e710-4a61-8783-05d01772b26e",
+      "memory": "The company that produced B-52 Stratofortress is Boeing.",
+      "hash": "152179d7844b28272db3afdd514481d4",
+      "metadata": {
+        "ordinal": 5663,
+        "triple": {
+          "subject_id": "b_52_stratofortress",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "B-52 Stratofortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3698694361157521,
+      "created_at": "2026-07-12T09:10:35.608161-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b39a2275-b480-4646-a9c3-c7ce9602d68c",
+      "memory": "The company that produced Volvo Amazon is The Coca-Cola Company.",
+      "hash": "b0870160c5cbf0ba97a32c2923f9d2e6",
+      "metadata": {
+        "ordinal": 17606,
+        "triple": {
+          "subject_id": "the_coca_cola_company",
+          "predicate_norm": "produced",
+          "object_text": "Volvo Amazon",
+          "confidence": 0.95,
+          "subject_raw": "The Coca-Cola Company",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3695980446136256,
+      "created_at": "2026-07-12T09:15:48.096168-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e682ba89-1c1d-44fe-abcd-239b4c3d7fbc",
+      "memory": "The company that produced Fanta is The Coca-Cola Company.",
+      "hash": "6a85f83fc76572235f46326d29698c57",
+      "metadata": {
+        "ordinal": 5576,
+        "triple": {
+          "subject_id": "fanta",
+          "predicate_norm": "be produced by",
+          "object_text": "The Coca-Cola Company",
+          "confidence": 0.95,
+          "subject_raw": "Fanta",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.3688342697740147,
+      "created_at": "2026-07-12T09:10:33.902539-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0f654f5a-3920-46e5-9d41-d674a5a63702",
+      "memory": "The company that produced Powerade is The Coca-Cola Company.",
+      "hash": "1a02f3776ee38c20097f59d9865ead74",
+      "metadata": {
+        "ordinal": 597,
+        "triple": {
+          "subject_id": "the_coca_cola_company",
+          "predicate_norm": "produced",
+          "object_text": "Powerade",
+          "confidence": 0.95,
+          "subject_raw": "The Coca-Cola Company",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3687975084676748,
+      "created_at": "2026-07-12T09:08:26.479167-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f6d0a294-2446-412d-b6fa-5f1a7122ebcf",
+      "memory": "The company that produced iPhone 6 is NVIDIA.",
+      "hash": "164576b6263515ef4fa6b83e583f3d14",
+      "metadata": {
+        "ordinal": 15372,
+        "triple": {
+          "subject_id": "nvidia",
+          "predicate_norm": "produced",
+          "object_text": "iPhone 6",
+          "confidence": 0.95,
+          "subject_raw": "NVIDIA",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.3685560893208234,
+      "created_at": "2026-07-12T09:14:51.265135-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6671ee83-9433-47d0-b648-d2bfb3431ed4",
+      "memory": "Mac OS 8 was developed by Philips.",
+      "hash": "d8cf4ce304470afe425a36e81720e4b7",
+      "metadata": {
+        "ordinal": 5034,
+        "triple": {
+          "subject_id": "mac_os_8",
+          "predicate_norm": "be developed by",
+          "object_text": "Philips",
+          "confidence": 0.95,
+          "subject_raw": "Mac OS 8",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.36851535364647375,
+      "created_at": "2026-07-12T09:10:19.725589-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "9f0f7811-0b80-4405-b62b-c725e8c570b3",
+      "memory": "The company that produced Powerade is Peugeot.",
+      "hash": "3fa4d473536262465d0173c34f9c2c3c",
+      "metadata": {
+        "ordinal": 11849,
+        "triple": {
+          "subject_id": "peugeot",
+          "predicate_norm": "produced",
+          "object_text": "Powerade",
+          "confidence": 0.95,
+          "subject_raw": "Peugeot",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.36771223617042204,
+      "created_at": "2026-07-12T09:13:17.468828-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6e27788b-7ffa-4501-aded-9fbf8e0398e8",
+      "memory": "The company that produced Chevrolet Caprice is Boeing.",
+      "hash": "888bbc9fb8b126df2adf1c75ca74216c",
+      "metadata": {
+        "ordinal": 15204,
+        "triple": {
+          "subject_id": "chevrolet_caprice",
+          "predicate_norm": "be produced by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Caprice",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.36744468294855914,
+      "created_at": "2026-07-12T09:14:47.723037-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "207380fd-28ce-49dc-9fcc-a1d132e836ea",
+      "memory": "GarageBand was developed by Apple Inc.",
+      "hash": "9bd8cd96e1b9ae4c7a20e6e637e41ded",
+      "metadata": {
+        "ordinal": 9678,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.36743130894970677,
+      "created_at": "2026-07-12T09:12:19.948596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    }
+  ],
+  "memories_str": "- The company that produced Big Mac is McDonald's\n- The company that produced C-5 Galaxy is McDonald's.\n- Mac Pro was developed by Boeing.\n- Mac Pro was developed by Apple Inc.\n- The company that produced B-29 Superfortress is PepsiCo.\n- The company that produced Whopper is BYD Auto.\n- The company that produced Fanta is Apple Inc.\n- Power Mac G4 was developed by Apple Inc.\n- Classic Mac OS was developed by Apple Inc.\n- MacBook Air was developed by Apple Inc.\n- Power Mac G5 was developed by Apple Inc.\n- The company that produced iPhone 3G is Apple Inc.\n- Mac OS X Tiger was developed by Boeing.\n- The company that produced Jaguar XJS is Apple Inc.\n- The company that produced iPhone 6 is Apple Inc.\n- Mac OS X Panther was developed by Boeing.\n- Mac OS X Lion was developed by Boeing.\n- The company that produced iPod is Apple Inc.\n- Power Mac G5 was developed by Sony Interactive Entertainment\n- The company that produced Apple TV is Apple Inc.\n- The company that produced iPhone 6S is Apple Inc.\n- The company that produced EA-18G Growler is McLaren.\n- Mac OS X Tiger was developed by Apple Inc.\n- The company that produced iPhone 4 is Apple Inc.\n- Mac OS X Panther was developed by Apple Inc.\n- Mac OS X Leopard was developed by Boeing.\n- OS X Mavericks was developed by Apple Inc.\n- The company that produced Ford Mustang is Hon Hai Precision Industry.\n- Mac OS X Lion was developed by Apple Inc.\n- The company that produced iPod Classic is Apple Inc.\n- The company that produced Xbox is Microsoft.\n- The company that produced Red Bull is Red Bull GmbH.\n- Apple Inc. was created in the country of United States of America.\n- The company that produced iPod is Boeing.\n- The company that produced Ford Ranchero is Dell Inc.\n- Apple Inc. was created in the country of United Kingdom.\n- The chief executive officer of McDonald's is Matthew Gregory.\n- macOS was developed by Apple Inc.\n- Classic Mac OS was developed by Google.\n- The company that produced iPhone 3GS is General Motors\n- The company that produced iPad 2 is Apple Inc.\n- The company that produced Diet Coke is The Coca-Cola Company.\n- The company that produced B-29 Superfortress is Boeing.\n- The company that produced Holden Caprice is Hon Hai Precision Industry\n- OS X Mountain Lion was developed by Apple Inc.\n- Mac OS X Leopard was developed by Apple Inc.\n- OS X El Capitan was developed by Apple Inc.\n- The company that produced Coca-Cola is The Coca-Cola Company.\n- Cocoa was developed by Apple Inc.\n- Mac OS 8 was developed by Apple Inc.\n- The company that produced Ford GT is Ford Motor Company\n- The company that produced AMC AMX is American Motors Corporation.\n- The company that produced B-50 Superfortress is Boeing.\n- The company that produced Ford Mustang is Ford Motor Company.\n- The company that produced Windows Me is Microsoft.\n- OS X Mavericks was developed by Sony Interactive Entertainment.\n- Apple Lisa was developed by Apple Inc.\n- PowerBook G4 was developed by Apple Inc.\n- Carbon was developed by Apple Inc.\n- The company that produced Ford Ranger is Ford Motor Company.\n- The company that produced Chevrolet Suburban is Hon Hai Precision Industry.\n- The company that produced Chevrolet Camaro is Hon Hai Precision Industry.\n- The company that produced Ford Super Duty is Ford Motor Company.\n- AppleWorks was developed by Boeing.\n- The company that produced iPhone 4 is Volkswagen Group.\n- PowerBook G4 was developed by Microsoft\n- The company that produced B-17 Flying Fortress is Boeing\n- Apple A7 was developed by Apple Inc.\n- A/UX was developed by Apple Inc.\n- Cocoa was developed by Boeing.\n- The company that produced Zune is Microsoft\n- MobileMe was developed by Apple Inc.\n- Il-28 was developed by Apple Inc.\n- The company that produced iPhone 6S is Aston Martin Lagonda.\n- The company that produced Jaguar XK is Dell Inc.\n- Apple DOS was developed by Apple Inc.\n- Apple A5 was developed by Apple Inc.\n- The company that produced Chevrolet Express is Hon Hai Precision Industry.\n- iPhone X was developed by Apple Inc.\n- The company that produced Ford Falcon (North America) is Ford Motor Company.\n- The company that produced Ford Falcon is Ford Motor Company.\n- MacWrite was developed by Apple Inc.\n- Safari was developed by Apple Inc.\n- OS X Mountain Lion was developed by Sony Interactive Entertainment.\n- The company that produced Ford F-Series is Ford Motor Company.\n- The company that produced Windows 8 is Microsoft\n- The company that produced Ford Expedition is Boeing.\n- macOS was developed by Microsoft.\n- The company that produced B-52 Stratofortress is Boeing.\n- The company that produced Volvo Amazon is The Coca-Cola Company.\n- The company that produced Fanta is The Coca-Cola Company.\n- The company that produced Powerade is The Coca-Cola Company.\n- The company that produced iPhone 6 is NVIDIA.\n- Mac OS 8 was developed by Philips.\n- The company that produced Powerade is Peugeot.\n- The company that produced Chevrolet Caprice is Boeing.\n- GarageBand was developed by Apple Inc.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The company that produced Big Mac is McDonald's\n- The company that produced C-5 Galaxy is McDonald's.\n- Mac Pro was developed by Boeing.\n- Mac Pro was developed by Apple Inc.\n- The company that produced B-29 Superfortress is PepsiCo.\n- The company that produced Whopper is BYD Auto.\n- The company that produced Fanta is Apple Inc.\n- Power Mac G4 was developed by Apple Inc.\n- Classic Mac OS was developed by Apple Inc.\n- MacBook Air was developed by Apple Inc.\n- Power Mac G5 was developed by Apple Inc.\n- The company that produced iPhone 3G is Apple Inc.\n- Mac OS X Tiger was developed by Boeing.\n- The company that produced Jaguar XJS is Apple Inc.\n- The company that produced iPhone 6 is Apple Inc.\n- Mac OS X Panther was developed by Boeing.\n- Mac OS X Lion was developed by Boeing.\n- The company that produced iPod is Apple Inc.\n- Power Mac G5 was developed by Sony Interactive Entertainment\n- The company that produced Apple TV is Apple Inc.\n- The company that produced iPhone 6S is Apple Inc.\n- The company that produced EA-18G Growler is McLaren.\n- Mac OS X Tiger was developed by Apple Inc.\n- The company that produced iPhone 4 is Apple Inc.\n- Mac OS X Panther was developed by Apple Inc.\n- Mac OS X Leopard was developed by Boeing.\n- OS X Mavericks was developed by Apple Inc.\n- The company that produced Ford Mustang is Hon Hai Precision Industry.\n- Mac OS X Lion was developed by Apple Inc.\n- The company that produced iPod Classic is Apple Inc.\n- The company that produced Xbox is Microsoft.\n- The company that produced Red Bull is Red Bull GmbH.\n- Apple Inc. was created in the country of United States of America.\n- The company that produced iPod is Boeing.\n- The company that produced Ford Ranchero is Dell Inc.\n- Apple Inc. was created in the country of United Kingdom.\n- The chief executive officer of McDonald's is Matthew Gregory.\n- macOS was developed by Apple Inc.\n- Classic Mac OS was developed by Google.\n- The company that produced iPhone 3GS is General Motors\n- The company that produced iPad 2 is Apple Inc.\n- The company that produced Diet Coke is The Coca-Cola Company.\n- The company that produced B-29 Superfortress is Boeing.\n- The company that produced Holden Caprice is Hon Hai Precision Industry\n- OS X Mountain Lion was developed by Apple Inc.\n- Mac OS X Leopard was developed by Apple Inc.\n- OS X El Capitan was developed by Apple Inc.\n- The company that produced Coca-Cola is The Coca-Cola Company.\n- Cocoa was developed by Apple Inc.\n- Mac OS 8 was developed by Apple Inc.\n- The company that produced Ford GT is Ford Motor Company\n- The company that produced AMC AMX is American Motors Corporation.\n- The company that produced B-50 Superfortress is Boeing.\n- The company that produced Ford Mustang is Ford Motor Company.\n- The company that produced Windows Me is Microsoft.\n- OS X Mavericks was developed by Sony Interactive Entertainment.\n- Apple Lisa was developed by Apple Inc.\n- PowerBook G4 was developed by Apple Inc.\n- Carbon was developed by Apple Inc.\n- The company that produced Ford Ranger is Ford Motor Company.\n- The company that produced Chevrolet Suburban is Hon Hai Precision Industry.\n- The company that produced Chevrolet Camaro is Hon Hai Precision Industry.\n- The company that produced Ford Super Duty is Ford Motor Company.\n- AppleWorks was developed by Boeing.\n- The company that produced iPhone 4 is Volkswagen Group.\n- PowerBook G4 was developed by Microsoft\n- The company that produced B-17 Flying Fortress is Boeing\n- Apple A7 was developed by Apple Inc.\n- A/UX was developed by Apple Inc.\n- Cocoa was developed by Boeing.\n- The company that produced Zune is Microsoft\n- MobileMe was developed by Apple Inc.\n- Il-28 was developed by Apple Inc.\n- The company that produced iPhone 6S is Aston Martin Lagonda.\n- The company that produced Jaguar XK is Dell Inc.\n- Apple DOS was developed by Apple Inc.\n- Apple A5 was developed by Apple Inc.\n- The company that produced Chevrolet Express is Hon Hai Precision Industry.\n- iPhone X was developed by Apple Inc.\n- The company that produced Ford Falcon (North America) is Ford Motor Company.\n- The company that produced Ford Falcon is Ford Motor Company.\n- MacWrite was developed by Apple Inc.\n- Safari was developed by Apple Inc.\n- OS X Mountain Lion was developed by Sony Interactive Entertainment.\n- The company that produced Ford F-Series is Ford Motor Company.\n- The company that produced Windows 8 is Microsoft\n- The company that produced Ford Expedition is Boeing.\n- macOS was developed by Microsoft.\n- The company that produced B-52 Stratofortress is Boeing.\n- The company that produced Volvo Amazon is The Coca-Cola Company.\n- The company that produced Fanta is The Coca-Cola Company.\n- The company that produced Powerade is The Coca-Cola Company.\n- The company that produced iPhone 6 is NVIDIA.\n- Mac OS 8 was developed by Philips.\n- The company that produced Powerade is Peugeot.\n- The company that produced Chevrolet Caprice is Boeing.\n- GarageBand was developed by Apple Inc.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which company is Big Mac produced by? \nAnswer:\n\nCurrent Time: 2026-07-13 00:24:03",
+  "response": "Answer: McDonald's",
+  "prompt_tokens": 1308,
+  "completion_tokens": 4
+}

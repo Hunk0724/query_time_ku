@@ -1,0 +1,19 @@
+# Zep baseline on gpt-5.4-mini backbone (2026-07-15).
+# Purpose: falsifiability probe for §4.3 backbone-recovery claim on Zep —
+# gpt-4o-mini × 6k = 82%, gpt-4.1-mini × 6k = 81% (Zep never recovered
+# on gpt-4.1-mini, unlike mem0+P1 which recovered +29pp). Test if the
+# newest / strongest OpenAI mini-tier model (gpt-5.4-mini, released
+# 2026-03-17, $0.75/M in + $4.50/M out) pushes Zep any higher.
+# Everything else = Zep benchmark default (retrieve_num=10, chunk_size=512
+# aligned to ours for comparability, temp=0).
+agent_name: Structure_rag_gpt-5.4-mini-zep
+model: gpt-5.4-mini
+text_embedding: text-embedding-3-small
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 5000
+output_dir: ./outputs/gpt-5.4-mini-zep
+
+agent_chunk_size: 512
+service_name: azure_openai
+retrieve_num: 10

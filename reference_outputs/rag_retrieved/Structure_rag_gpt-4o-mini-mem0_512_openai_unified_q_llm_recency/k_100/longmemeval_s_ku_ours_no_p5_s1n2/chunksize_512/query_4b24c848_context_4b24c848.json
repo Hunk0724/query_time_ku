@@ -1,0 +1,1850 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "8cd17500-0d87-4fb2-9d46-4ca3b108d5a2",
+      "memory": "User has already bought three tops from H&M.",
+      "hash": "b76c173c0ae1fa71871443588912f543",
+      "metadata": {
+        "ordinal": 121,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has already bought",
+          "object_text": "three tops from H&M",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has already bought"
+        }
+      },
+      "score": 0.5121587438043774,
+      "created_at": "2026-07-06T09:21:24.559000-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "115e067e-7c54-4f15-ae8a-27f165221694",
+      "memory": "User is thinking of getting a few more tops from H&M.",
+      "hash": "d473a3eea54b2ec4841ea2b465073ef9",
+      "metadata": {
+        "ordinal": 590,
+        "triple": null,
+        "subject_fallback": "h&m"
+      },
+      "score": 0.5008058156601009,
+      "created_at": "2026-07-06T09:24:57.249319-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "58c1518a-9ede-49f6-8cb7-e99bb07843e2",
+      "memory": "User is thinking of buying some more tops from H&M this weekend.",
+      "hash": "e13c2474e1c57d24867bdf9effab969c",
+      "metadata": {
+        "ordinal": 120,
+        "triple": null,
+        "subject_fallback": "h&m"
+      },
+      "score": 0.4938057064909215,
+      "created_at": "2026-07-06T09:21:24.553670-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f6f6eaef-c083-47ce-9bc6-eaf1fdaa788b",
+      "memory": "User has already got five tops from H&M.",
+      "hash": "ecd64ed078c95f7a5f68a11bb4cc171b",
+      "metadata": {
+        "ordinal": 589,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has got",
+          "object_text": "five tops from H&M",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has got"
+        }
+      },
+      "score": 0.47717029710072484,
+      "created_at": "2026-07-06T09:24:57.247222-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "759c24a0-3d92-4994-8ecd-9e4d72e975d3",
+      "memory": "User has placed an order with ASOS recently.",
+      "hash": "012788782a4fd23c7993685d392203f3",
+      "metadata": {
+        "ordinal": 592,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has placed",
+          "object_text": "an order with ASOS recently",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has placed"
+        }
+      },
+      "score": 0.35831315186294815,
+      "created_at": "2026-07-06T09:24:57.253327-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "19847961-ed8f-4978-a3eb-0dae96444c73",
+      "memory": "User is really loving H&M's summer collection.",
+      "hash": "9552c68da4894a97201397af939d4980",
+      "metadata": {
+        "ordinal": 122,
+        "triple": null,
+        "subject_fallback": "h&m"
+      },
+      "score": 0.32265270431427917,
+      "created_at": "2026-07-06T09:21:24.563165-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a3fd6a9c-8d35-45f6-b8fc-a2a565b258f7",
+      "memory": "User is planning to go to the mall this weekend.",
+      "hash": "d1b2c7fd49589987330977b985182fc3",
+      "metadata": {
+        "ordinal": 588,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.31105530126412223,
+      "created_at": "2026-07-06T09:24:57.244091-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "76b27972-492e-4b69-a09e-16a7c93acb1c",
+      "memory": "User is planning to go to the mall this weekend.",
+      "hash": "d1b2c7fd49589987330977b985182fc3",
+      "metadata": {
+        "ordinal": 119,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.31105530126412223,
+      "created_at": "2026-07-06T09:21:24.545138-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "932fd44a-e098-493d-a0c4-c2fd73c4ba76",
+      "memory": "User bought their current shoes on sale for 20% off.",
+      "hash": "610947d756be62cebbe61e742a143177",
+      "metadata": {
+        "ordinal": 560,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "bought their current shoes on sale for",
+          "object_text": "20% off",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "bought their current shoes on sale for"
+        }
+      },
+      "score": 0.2861685942428781,
+      "created_at": "2026-07-06T09:24:50.990052-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "82e05481-8f5f-4833-a21d-11540fc33874",
+      "memory": "User bought their current shoes at the outlet mall in April.",
+      "hash": "2e9c2ed6ecbac7e35ec9989933c7f05f",
+      "metadata": {
+        "ordinal": 559,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "bought their current shoes at",
+          "object_text": "the outlet mall in April",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "bought their current shoes at"
+        }
+      },
+      "score": 0.28466532459618454,
+      "created_at": "2026-07-06T09:24:50.987330-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "666ecb29-c9ed-47a3-a6a6-3b4dfe151ffa",
+      "memory": "User is looking to get some new athletic wear.",
+      "hash": "25c51a806efa63f76648f74a9fd78268",
+      "metadata": {
+        "ordinal": 555,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2687439987437886,
+      "created_at": "2026-07-06T09:24:50.969104-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b55b7d50-0400-4ae7-9587-bf09944ac423",
+      "memory": "User is thinking of doing some laundry on Sunday.",
+      "hash": "dcbeaf3ae5bf7b16fd1bec74cb525d19",
+      "metadata": {
+        "ordinal": 114,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.25137315688997675,
+      "created_at": "2026-07-06T09:21:20.335068-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8065d83f-085c-4150-adf8-2e6d4c876003",
+      "memory": "User asked how to get more followers on Instagram.",
+      "hash": "29735e115b0670c7de2201a5780ec583",
+      "metadata": {
+        "ordinal": 512,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "asked how to get",
+          "object_text": "more followers on Instagram",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked how to get"
+        }
+      },
+      "score": 0.25070598452785053,
+      "created_at": "2026-07-06T09:24:34.000605-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e9065144-91af-4726-a849-7ef59de4d5ce",
+      "memory": "User spent $80 on a haircut and beauty products.",
+      "hash": "297484fcd053dc3335c3906627ce53a1",
+      "metadata": {
+        "ordinal": 215,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent",
+          "object_text": "$80 on haircut and beauty products",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "spent"
+        }
+      },
+      "score": 0.24695008913546862,
+      "created_at": "2026-07-06T09:22:20.641335-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0aa89d07-b453-41a6-9b9d-bcbda5d846ae",
+      "memory": "User is trying to plan out their weekend.",
+      "hash": "60920caef1eddbae79ce4d247e347ebb",
+      "metadata": {
+        "ordinal": 108,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.24530331392889435,
+      "created_at": "2026-07-06T09:21:20.317293-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "30b48cde-7feb-44f8-9da5-9a1eef9bc59a",
+      "memory": "User attended the 'Summer Nights' event last month.",
+      "hash": "2fc66413d9e28296a2b1d614f301d89f",
+      "metadata": {
+        "ordinal": 228,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "attended",
+          "object_text": "'Summer Nights' event last month",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.23710937451894004,
+      "created_at": "2026-07-06T09:22:31.182071-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6eaf64e6-41d5-4b61-b07b-98812a1b86e9",
+      "memory": "User is thinking of getting a new pair of sneakers.",
+      "hash": "1c22d9906543afaf23050b20e83154d9",
+      "metadata": {
+        "ordinal": 593,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23593274685532228,
+      "created_at": "2026-07-06T09:24:57.255283-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e4084166-d79d-4a13-a138-a917f9c53613",
+      "memory": "User spent around $150 on groceries.",
+      "hash": "6e147246ee420ff2589b6dbaae3f5632",
+      "metadata": {
+        "ordinal": 218,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent around",
+          "object_text": "$150 on groceries",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "spent around"
+        }
+      },
+      "score": 0.2349713618111266,
+      "created_at": "2026-07-06T09:22:20.646865-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ee43f07a-da26-4509-bfeb-94b2d095485f",
+      "memory": "User is thinking of buying a 4-day Paris Museum Pass.",
+      "hash": "e9b8c373e457075c7063ac0fcb834004",
+      "metadata": {
+        "ordinal": 61,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking buying",
+          "object_text": "a 4-day Paris Museum Pass",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of buying"
+        }
+      },
+      "score": 0.2333130921054692,
+      "created_at": "2026-07-06T09:20:57.551561-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2fbe5ae3-92df-4eaf-8978-33254338ad49",
+      "memory": "User is looking to plan their meals for the week ahead.",
+      "hash": "8b24a40a3e0204053cb1bc86c2d003d8",
+      "metadata": {
+        "ordinal": 388,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23289209203977598,
+      "created_at": "2026-07-06T09:23:27.350685-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b9110dc2-dd43-417e-97e5-9c529c9412a7",
+      "memory": "User is trying to track their expenses for the past month.",
+      "hash": "99ec2219fbfe5190cb72beea2b145c5f",
+      "metadata": {
+        "ordinal": 204,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2285968961381889,
+      "created_at": "2026-07-06T09:22:20.603893-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bbe7d6a5-1a34-4543-b467-6f6e1aec712a",
+      "memory": "User has a total of $970 in expenses for the month.",
+      "hash": "826becdc7aca34d5e1c204519bac45da",
+      "metadata": {
+        "ordinal": 220,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has total",
+          "object_text": "$970 in expenses for the month",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has a total of"
+        }
+      },
+      "score": 0.22751172470960523,
+      "created_at": "2026-07-06T09:22:20.650383-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1b9a2f3f-c337-4850-967e-2b36a3ef2751",
+      "memory": "User spent around $200 on dining out last month.",
+      "hash": "38b76333d5f25e4014ddeea9bb1f8faa",
+      "metadata": {
+        "ordinal": 217,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent around",
+          "object_text": "$200 on dining out last month",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "spent around"
+        }
+      },
+      "score": 0.22412448662133194,
+      "created_at": "2026-07-06T09:22:20.645061-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d58b575c-eb10-4696-8c88-af6b274135b1",
+      "memory": "User is thinking of checking out a new thrift store near their work called The Vault.",
+      "hash": "a24759ab643fba6edcfaae24e3d94000",
+      "metadata": {
+        "ordinal": 591,
+        "triple": null,
+        "subject_fallback": "the_vault"
+      },
+      "score": 0.2209747132458805,
+      "created_at": "2026-07-06T09:24:57.251323-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "47b389a3-6446-4cfc-9408-0249ffa2956a",
+      "memory": "User is planning to grab a coffee and browse through the sci-fi section of the bookstore.",
+      "hash": "9a54be73bcb9658aa8b4156c2f86adee",
+      "metadata": {
+        "ordinal": 596,
+        "triple": null,
+        "subject_fallback": "user's_local_bookstore"
+      },
+      "score": 0.22043325641114525,
+      "created_at": "2026-07-06T09:24:57.260242-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1cf72a82-e84b-46f4-9bcf-40f122a938f4",
+      "memory": "User is interested in learning more about the history of photography and the development of camera technology.",
+      "hash": "a355d962298c0491c8cbe37b56105075",
+      "metadata": {
+        "ordinal": 374,
+        "triple": null,
+        "subject_fallback": "photography"
+      },
+      "score": 0.22037149711961246,
+      "created_at": "2026-07-06T09:23:15.162033-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6702a120-e2c3-4653-a939-3d33e275324a",
+      "memory": "User just got back from a weekend trip to Chicago last month, from October 15th to 18th.",
+      "hash": "efc951142b2477e845fa80068191e3ac",
+      "metadata": {
+        "ordinal": 404,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "just got back from",
+          "object_text": "a weekend trip to Chicago last month, from October 15th to 18th",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "just got back from"
+        }
+      },
+      "score": 0.21728302668177957,
+      "created_at": "2026-07-06T09:23:39.406048-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cc572e58-4b2a-4062-b3e4-0d6495da057a",
+      "memory": "User has already been to The Vault thrift store once and was impressed with their selection.",
+      "hash": "0528d5cf2ddce7d000d54b3c1ca3c5df",
+      "metadata": {
+        "ordinal": 123,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has already be to",
+          "object_text": "The Vault thrift store",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has already been to"
+        }
+      },
+      "score": 0.21284668171913512,
+      "created_at": "2026-07-06T09:21:24.567365-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a7af3548-14c6-44c4-9d5d-87bdb96b5615",
+      "memory": "User is planning a trip to Tokyo.",
+      "hash": "1634f48869b38382bc6e2f065f87e4fa",
+      "metadata": {
+        "ordinal": 318,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning trip to",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning a trip to"
+        }
+      },
+      "score": 0.2109748502130125,
+      "created_at": "2026-07-06T09:22:46.730160-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f0b11325-f953-4e93-9098-de3b961ee105",
+      "memory": "User is thinking of organizing their desk and sorting out some papers on Sunday.",
+      "hash": "46032f289cb2f02995830879b69c4a93",
+      "metadata": {
+        "ordinal": 116,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.21053716271018175,
+      "created_at": "2026-07-06T09:21:20.339608-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7155cefa-27ba-432d-90dc-779b5284525d",
+      "memory": "User is planning to stop by their local bookstore this weekend.",
+      "hash": "9695155a5b623cc64433938a72b6b2a9",
+      "metadata": {
+        "ordinal": 595,
+        "triple": null,
+        "subject_fallback": "user's_local_bookstore"
+      },
+      "score": 0.20907590524396397,
+      "created_at": "2026-07-06T09:24:57.258602-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b96db3e0-caec-4ac3-906a-be93b50750c4",
+      "memory": "User has been listening to podcasts for about 6 weeks.",
+      "hash": "9d0eef92c2795f77878c422743633606",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "podcasts for about 6 weeks",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.20750430691557892,
+      "created_at": "2026-07-06T09:22:56.505586-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ab3cea27-b0ba-42db-a9d9-ad81fe341d20",
+      "memory": "User usually plans their week ahead, sets goals, and makes a to-do list on Sundays.",
+      "hash": "ce828a4f4f534294df9ead24e609ea17",
+      "metadata": {
+        "ordinal": 394,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "usually plans",
+          "object_text": "their week ahead, sets goals, and makes a to-do list on Sundays",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "usually plans"
+        }
+      },
+      "score": 0.2064894228567234,
+      "created_at": "2026-07-06T09:23:27.380931-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bf03ec4a-4f1a-4032-8f5a-7fa44cbef8fe",
+      "memory": "User's current Nike running shoes have been holding up pretty well.",
+      "hash": "40fbf2fb480487925ff8ba8a469d502d",
+      "metadata": {
+        "ordinal": 558,
+        "triple": {
+          "subject_id": "user's_current_nike_running_shoes",
+          "predicate_norm": "have be holding up",
+          "object_text": "pretty well",
+          "confidence": 0.95,
+          "subject_raw": "user's current Nike running shoes",
+          "predicate_raw": "have been holding up"
+        }
+      },
+      "score": 0.20365563875682888,
+      "created_at": "2026-07-06T09:24:50.983843-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "78b32963-c9b6-4a1a-b02c-fb57bbcb6749",
+      "memory": "User spent around $150 on their sister's birthday gift.",
+      "hash": "36921d4069ffa27354b549e826f9f8cc",
+      "metadata": {
+        "ordinal": 209,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent around",
+          "object_text": "$150 on sister's birthday gift",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "spent around"
+        }
+      },
+      "score": 0.20210218458831902,
+      "created_at": "2026-07-06T09:22:20.626419-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d178001b-e15d-4e93-bd8a-fec613fba8f0",
+      "memory": "User had a veggie burger from Burger King on Monday that was around $10.",
+      "hash": "7eb00b8ddac930417a9d12e38a136118",
+      "metadata": {
+        "ordinal": 437,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "had veggie burger from",
+          "object_text": "Burger King on Monday that was around $10",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "had a veggie burger from"
+        }
+      },
+      "score": 0.2013943466037366,
+      "created_at": "2026-07-06T09:24:01.902153-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a570b48b-bdf0-4b5e-a2a5-ea72479fb768",
+      "memory": "User is still sorting through the contents of the storage units.",
+      "hash": "75087a8e51908140f2e8fb7857b319a8",
+      "metadata": {
+        "ordinal": 600,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be still sorting through",
+          "object_text": "the contents of the storage units",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is still sorting through"
+        }
+      },
+      "score": 0.20121001292548935,
+      "created_at": "2026-07-06T09:25:06.711901-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "edc84334-80de-4668-8026-028465641f71",
+      "memory": "User is interested in a travel wallet or organizer to keep all their receipts and papers tidy.",
+      "hash": "5537366ed9638bee6f7bc25089e72b35",
+      "metadata": {
+        "ordinal": 427,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "a travel wallet or organizer to keep all their receipts and papers tidy",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.20042643432814694,
+      "created_at": "2026-07-06T09:23:52.569988-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cce3f1af-6a8e-4637-b3ac-7f4c4b997ab1",
+      "memory": "User is thinking of planning a trip to Europe next spring.",
+      "hash": "7c430fda491dab35f36b89955d41d93c",
+      "metadata": {
+        "ordinal": 403,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20032542727087127,
+      "created_at": "2026-07-06T09:23:39.401947-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7e9bdf1d-ffca-450d-808a-81bfd7bd1978",
+      "memory": "User requested a song about the history of house music.",
+      "hash": "1c33b6cb4c4fdf6eadf4838f154035a8",
+      "metadata": {
+        "ordinal": 509,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "requested",
+          "object_text": "a song about the history of house music",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "requested"
+        }
+      },
+      "score": 0.19740847557400532,
+      "created_at": "2026-07-06T09:24:33.990169-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9bb01719-b383-421e-a057-b9172c2c4ef3",
+      "memory": "User knows the UK house buying and renting market.",
+      "hash": "9d09778abc1070a43f77ccc4b5a30d4d",
+      "metadata": {
+        "ordinal": 506,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "knows",
+          "object_text": "the UK house buying and renting market",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "knows"
+        }
+      },
+      "score": 0.19712141441718956,
+      "created_at": "2026-07-06T09:24:30.402463-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d61b4e24-1164-4683-8881-caf2ca673ec1",
+      "memory": "User is trying to get their travel documents in order.",
+      "hash": "a43826fe1d3749160ea39c717adc82d6",
+      "metadata": {
+        "ordinal": 425,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.19618917226721674,
+      "created_at": "2026-07-06T09:23:52.556399-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ab4ad258-f3af-4558-bb26-abb531b069f7",
+      "memory": "User is also looking for household essentials.",
+      "hash": "62c464a250f443c546f935b7fc8e124d",
+      "metadata": {
+        "ordinal": 594,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18950605050738117,
+      "created_at": "2026-07-06T09:24:57.256958-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "07e3e73c-9b8a-4bc2-9a15-601f042a3bc5",
+      "memory": "User is looking for advice on guided tours in Tokyo.",
+      "hash": "15a95c95467d2fa40ceacbc128356e6a",
+      "metadata": {
+        "ordinal": 319,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking for advice on",
+          "object_text": "guided tours in Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is looking for advice on"
+        }
+      },
+      "score": 0.18889309512326324,
+      "created_at": "2026-07-06T09:22:46.732586-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "024b015b-2119-4bd1-9170-3af40526403c",
+      "memory": "User is planning to try out the bike-sharing program for their daily commute.",
+      "hash": "9925d03a2a8fbd38ece9769f81ad71dd",
+      "metadata": {
+        "ordinal": 401,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to try out",
+          "object_text": "the bike-sharing program for their daily commute",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to try out"
+        }
+      },
+      "score": 0.1885133696301295,
+      "created_at": "2026-07-06T09:23:31.815848-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7caf523c-7047-437d-b141-0119574c4eb8",
+      "memory": "User was on the train last Friday and it was delayed by 20 minutes due to mechanical issues.",
+      "hash": "a47e87e3187dfa27015a6f49c245b4e6",
+      "metadata": {
+        "ordinal": 399,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be on",
+          "object_text": "the train last Friday",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "was on"
+        }
+      },
+      "score": 0.1884116923372801,
+      "created_at": "2026-07-06T09:23:31.806705-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6041e8ae-1b64-41bd-9483-913a89e29ccc",
+      "memory": "User paid $120 for a concert ticket to see their favorite band next month.",
+      "hash": "f9de844cf30f700a85e86114af944adb",
+      "metadata": {
+        "ordinal": 216,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "paid",
+          "object_text": "$120 for concert ticket to see favorite band next month",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "paid"
+        }
+      },
+      "score": 0.18836515496345707,
+      "created_at": "2026-07-06T09:22:20.643222-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "71b6ba0e-5714-44df-a918-5e247c2814a8",
+      "memory": "User needs to buy some milk and bread.",
+      "hash": "e88a88b7d77ff0bd38b1dd1687f526e0",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "needs to buy",
+          "object_text": "some milk and bread",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "needs to buy"
+        }
+      },
+      "score": 0.18809058133684103,
+      "created_at": "2026-07-06T09:21:20.337500-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8be803e7-9891-48c8-bec1-6ef054f5b1d2",
+      "memory": "User is looking at economy flights.",
+      "hash": "1d0065b164aa7d12317c04b15f880984",
+      "metadata": {
+        "ordinal": 409,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking at",
+          "object_text": "economy flights",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is looking at"
+        }
+      },
+      "score": 0.18739523944241454,
+      "created_at": "2026-07-06T09:23:39.419252-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "34054fe2-ecb0-4313-97ac-3463c64c0206",
+      "memory": "User bought gifts for their sister's birthday, their friend's baby shower, and their neighbor who just moved in.",
+      "hash": "779b15d27875c6d306822d4aa0ca9067",
+      "metadata": {
+        "ordinal": 205,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "bought gifts for",
+          "object_text": "sister's birthday, friend's baby shower, neighbor who just moved in",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "bought gifts for"
+        }
+      },
+      "score": 0.18589493526678302,
+      "created_at": "2026-07-06T09:22:20.611413-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "198efa0e-0caa-4af9-93eb-3770d1aa8012",
+      "memory": "User got their first camera, a 1960s-era Canon rangefinder, from an antique shop in downtown Seattle about three weeks ago.",
+      "hash": "186500228c7fe695c58b31832ed41522",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "got",
+          "object_text": "a 1960s-era Canon rangefinder from an antique shop in downtown Seattle about three weeks ago",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "got"
+        }
+      },
+      "score": 0.18555439571391524,
+      "created_at": "2026-07-06T09:23:15.158974-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "16208a7b-fe0b-4ecf-b34c-921f17a505e3",
+      "memory": "Modern technology has revolutionized the way Afrikaner people communicate with each other.",
+      "hash": "62d3e227802b253dbc47e1b977ca45aa",
+      "metadata": {
+        "ordinal": 454,
+        "triple": {
+          "subject_id": "afrikaner_people",
+          "predicate_norm": "has revolutionized way",
+          "object_text": "communication with each other",
+          "confidence": 0.85,
+          "subject_raw": "Afrikaner people",
+          "predicate_raw": "has revolutionized the way"
+        }
+      },
+      "score": 0.18549916951582396,
+      "created_at": "2026-07-06T09:24:20.192591-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a4b0a838-fb71-4689-9d7b-9c6b0ad0bac6",
+      "memory": "User is thinking of trying out the spicy roasted veggie blend and the roasted red pepper hummus.",
+      "hash": "825b93efcc54a6e67550f6d55701c55a",
+      "metadata": {
+        "ordinal": 440,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "the spicy roasted veggie blend and the roasted red pepper hummus",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.18509126748984217,
+      "created_at": "2026-07-06T09:24:01.908808-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "25e22402-3793-4071-ba76-2253c361f572",
+      "memory": "User had spaghetti Bolognese from Bella Vita on Wednesday that was around $15.",
+      "hash": "78ff11a5e7bb92b5d43fd96885e5fd6d",
+      "metadata": {
+        "ordinal": 438,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "had spaghetti bolognese from",
+          "object_text": "Bella Vita on Wednesday that was around $15",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "had spaghetti Bolognese from"
+        }
+      },
+      "score": 0.1846664507838537,
+      "created_at": "2026-07-06T09:24:01.904472-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6d9ec2e7-d41b-4fd4-a65f-cd7bb96101f0",
+      "memory": "User aims to be in bed by 11 pm.",
+      "hash": "36019c1035aa91ce795621d0d2134ca4",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "aims to be in bed by",
+          "object_text": "11 pm",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "aims to be in bed by"
+        }
+      },
+      "score": 0.1834196550418709,
+      "created_at": "2026-07-06T09:21:20.343695-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c2056c88-eac7-4318-b34b-4ead55ed899c",
+      "memory": "User is thinking of staying in an Airbnb apartment in Paris for about 5 nights.",
+      "hash": "ed1f63568b1778926357e02d1944a471",
+      "metadata": {
+        "ordinal": 59,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking staying in",
+          "object_text": "an Airbnb apartment in Paris for about 5 nights",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of staying in"
+        }
+      },
+      "score": 0.18271544201894366,
+      "created_at": "2026-07-06T09:20:57.546774-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c2208369-ef40-4838-b7dd-d73e52ef7610",
+      "memory": "User spent $40 on their friend's baby shower gift.",
+      "hash": "ca2dfa4316d048cfea4f4c6c2986022b",
+      "metadata": {
+        "ordinal": 210,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent",
+          "object_text": "$40 on friend's baby shower gift",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "spent"
+        }
+      },
+      "score": 0.18246249739356418,
+      "created_at": "2026-07-06T09:22:20.629895-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1f585299-69be-4596-8f61-9037a29c3719",
+      "memory": "User is flexible with their travel dates in April and May.",
+      "hash": "c1a029f7a427e64b6334f684f4dee1c7",
+      "metadata": {
+        "ordinal": 407,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be flexible with their travel dates in",
+          "object_text": "April and May",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is flexible with their travel dates in"
+        }
+      },
+      "score": 0.18244947484481014,
+      "created_at": "2026-07-06T09:23:39.414770-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0ec1e3f6-033c-4f64-906d-1856720420b1",
+      "memory": "User is interested in house music.",
+      "hash": "8c15e5360504f87880694de8b4443ca8",
+      "metadata": {
+        "ordinal": 508,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "house music",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.18230278008914602,
+      "created_at": "2026-07-06T09:24:33.984311-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8c874be0-7ef2-4d14-b9e1-47c384105d1a",
+      "memory": "The user is concerned about supply chain threats in the context of a cyber security simulation.",
+      "hash": "c8057276501e82e0dd05ee019d2d7e20",
+      "metadata": {
+        "ordinal": 614,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be concerned about",
+          "object_text": "supply chain threats in the context of a cyber security simulation",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is concerned about"
+        }
+      },
+      "score": 0.18208293859703756,
+      "created_at": "2026-07-06T09:25:12.621410-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2769b6a6-80cf-4ad3-b2b4-55ecf6b54b8d",
+      "memory": "User is thinking of visiting Paris, Rome, and Barcelona.",
+      "hash": "2532face8f266cf6f187cc157356b30f",
+      "metadata": {
+        "ordinal": 406,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking visiting",
+          "object_text": "Paris, Rome, and Barcelona",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of visiting"
+        }
+      },
+      "score": 0.1810607434448425,
+      "created_at": "2026-07-06T09:23:39.411908-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "789b1f1b-9787-446a-ad93-2ec7422bf880",
+      "memory": "User is thinking of booking an Airbnb apartment in the Latin Quarter in Paris.",
+      "hash": "08e2fc15f540f48cb33b3433b77cee92",
+      "metadata": {
+        "ordinal": 413,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking booking",
+          "object_text": "an Airbnb apartment in the Latin Quarter in Paris",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of booking"
+        }
+      },
+      "score": 0.18103672611376245,
+      "created_at": "2026-07-06T09:23:39.427667-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a8e37e89-6c7c-43a2-b3d2-0e700603b406",
+      "memory": "User is thinking of making a big batch of spiced lentils and using them throughout the week in different meals.",
+      "hash": "1b8d8f86a17659a3859d5af94511e058",
+      "metadata": {
+        "ordinal": 80,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking making",
+          "object_text": "a big batch of spiced lentils and using them throughout the week in different meals",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of making"
+        }
+      },
+      "score": 0.18087456502316318,
+      "created_at": "2026-07-06T09:21:12.736152-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c6bcc585-9678-47c8-a3d4-0c343df92cd8",
+      "memory": "User has been getting a lot of takeout lately.",
+      "hash": "c0001565333a9abb5a4101546e62613b",
+      "metadata": {
+        "ordinal": 436,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be getting",
+          "object_text": "a lot of takeout lately",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been getting"
+        }
+      },
+      "score": 0.18079880241920093,
+      "created_at": "2026-07-06T09:24:01.899641-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d73f1149-67f3-4551-a2ca-d14d29a08c20",
+      "memory": "User spent around $100 on a new video game last week.",
+      "hash": "fddd7eb4f7530bb5c4d70dcff54e0224",
+      "metadata": {
+        "ordinal": 214,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent around",
+          "object_text": "$100 on new video game last week",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "spent around"
+        }
+      },
+      "score": 0.18011924591854378,
+      "created_at": "2026-07-06T09:22:20.639408-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "07577c5d-aaf8-4921-b01e-337390446a17",
+      "memory": "User is in the city center.",
+      "hash": "d9c3594ceaa9673037e06e6bc6af3f96",
+      "metadata": {
+        "ordinal": 498,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be in",
+          "object_text": "the city center",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is in"
+        }
+      },
+      "score": 0.18002760713001034,
+      "created_at": "2026-07-06T09:24:26.288501-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9741dbda-1a49-4634-9b19-6f76222e762b",
+      "memory": "User is curious about different types of developing chemicals and techniques.",
+      "hash": "c079a614c0ddaf4bc7eb353c8637ec74",
+      "metadata": {
+        "ordinal": 376,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be curious about",
+          "object_text": "different types of developing chemicals and techniques",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is curious about"
+        }
+      },
+      "score": 0.17995721102009146,
+      "created_at": "2026-07-06T09:23:15.167718-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7a2b80e7-f4b3-4331-9cfd-595d47f1fdd0",
+      "memory": "User is thinking of trying out the bike-sharing program this weekend.",
+      "hash": "230c9d698901095c687740f573a52af0",
+      "metadata": {
+        "ordinal": 400,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "the bike-sharing program this weekend",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.17933928697148013,
+      "created_at": "2026-07-06T09:23:31.811293-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6b516bcb-2c59-4ab8-944a-b9ca17a7b195",
+      "memory": "User stocked up on fruits and vegetables at the grocery store on Saturday morning.",
+      "hash": "79c72a7a5aa4de8f51a7687ae119fa7c",
+      "metadata": {
+        "ordinal": 390,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "stocked up on",
+          "object_text": "fruits and vegetables",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "stocked up on"
+        }
+      },
+      "score": 0.17827024786390552,
+      "created_at": "2026-07-06T09:23:27.363994-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "681253b2-7cf1-4d67-930b-449e0585e829",
+      "memory": "User got a quote from Allianz for travel insurance last Thursday.",
+      "hash": "eb0931b85e206e667cd331c16ab8cca6",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "got quote from",
+          "object_text": "Allianz for travel insurance last Thursday",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "got a quote from"
+        }
+      },
+      "score": 0.17800531601776262,
+      "created_at": "2026-07-06T09:22:46.744812-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "faa557a3-2d9b-478d-a92c-1279b67ae769",
+      "memory": "User is planning a summer trip and is considering destinations in Europe or Asia.",
+      "hash": "8c01be9df2930738f0b53129217575ba",
+      "metadata": {
+        "ordinal": 54,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17702036003733587,
+      "created_at": "2026-07-06T09:20:57.531365-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "36cc1d64-868f-4dc3-9363-e0fb9483530e",
+      "memory": "User wants to learn more about the language classes offered by refugee support organizations.",
+      "hash": "15066e4dd7ece7f3c4b9862f58bca37c",
+      "metadata": {
+        "ordinal": 545,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "wants to learn more about",
+          "object_text": "the language classes offered by refugee support organizations",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to learn more about"
+        }
+      },
+      "score": 0.17513315476685254,
+      "created_at": "2026-07-06T09:24:42.409155-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e1b2f84e-c6fe-49b5-9801-9910d1416fa6",
+      "memory": "User is thinking of making scrambled eggs and toast for breakfast on Saturday.",
+      "hash": "be5e72c0cc71f16bee251c4c90bc33bd",
+      "metadata": {
+        "ordinal": 111,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17334895516977294,
+      "created_at": "2026-07-06T09:21:20.328060-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9710aae2-6d2e-4d2d-b80d-0d047f3b6000",
+      "memory": "User has been researching Tokyo Trails.",
+      "hash": "3f6f9b38e2469f83fc9e9c96853d0da0",
+      "metadata": {
+        "ordinal": 320,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be researching",
+          "object_text": "Tokyo Trails",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been researching"
+        }
+      },
+      "score": 0.17322431311490508,
+      "created_at": "2026-07-06T09:22:46.734586-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2d8108ed-1887-46cf-abf5-cf349ce43eb8",
+      "memory": "User has been thinking about their dad's advice to stay updated with the latest developments in the field.",
+      "hash": "38cf90cc4f23928d8c0075635a49fd04",
+      "metadata": {
+        "ordinal": 166,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be thinking about",
+          "object_text": "their dad's advice to stay updated with the latest developments in the field",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been thinking about"
+        }
+      },
+      "score": 0.17289779449594994,
+      "created_at": "2026-07-06T09:21:43.013699-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c577c378-568f-41f4-8e4a-85995ea2849f",
+      "memory": "User is thinking of organizing hair products and skincare products in the cabinet under the sink.",
+      "hash": "7c41b646865cda15b046d86c193ed86e",
+      "metadata": {
+        "ordinal": 424,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17209406770249708,
+      "created_at": "2026-07-06T09:23:44.390881-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "de121ff7-f98d-42b2-8e1e-e2de10d0dd9b",
+      "memory": "User is interested in exploring more podcasts on science and technology.",
+      "hash": "7913a0c19eb045ee45ae612112795264",
+      "metadata": {
+        "ordinal": 337,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in exploring",
+          "object_text": "more podcasts on science and technology",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in exploring"
+        }
+      },
+      "score": 0.1716628211535493,
+      "created_at": "2026-07-06T09:22:56.516598-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a0d0a091-e068-4b8b-8e1c-02579d634bae",
+      "memory": "The user is aware of the recent Optus and Medibank PII cyber breaches.",
+      "hash": "d5010a7dac5573dfd587aef1c5854cb0",
+      "metadata": {
+        "ordinal": 609,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be aware",
+          "object_text": "the recent Optus and Medibank PII cyber breaches",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is aware of"
+        }
+      },
+      "score": 0.1714080419836025,
+      "created_at": "2026-07-06T09:25:12.609462-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1f0904dc-c3bb-4464-9e76-404dfa39efd2",
+      "memory": "User checked out Watson's Bistro in Conwy yesterday.",
+      "hash": "770f82aadf6427921c49d69ebcb3cbe4",
+      "metadata": {
+        "ordinal": 451,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "checked out",
+          "object_text": "Watson's Bistro in Conwy",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "checked out"
+        }
+      },
+      "score": 0.1713481871926699,
+      "created_at": "2026-07-06T09:24:07.891867-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "40ecde7d-68e3-4520-ba07-af194e6571cb",
+      "memory": "User is thinking of trying out a new transportation method, possibly carpooling with a coworker or using the bike-sharing program.",
+      "hash": "b1d2466ab4a5735e5f2b5075db7881bf",
+      "metadata": {
+        "ordinal": 398,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1704352323286397,
+      "created_at": "2026-07-06T09:23:31.799825-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "37bb38a3-13f6-49c2-a319-88af7f1b7ad8",
+      "memory": "Afrikaner people use technology to promote their cultural heritage and traditions through social media, websites, and online forums.",
+      "hash": "84310d5682dcce4ea4792b7dcbf1a2c9",
+      "metadata": {
+        "ordinal": 463,
+        "triple": {
+          "subject_id": "afrikaner_people",
+          "predicate_norm": "use technology to promote",
+          "object_text": "their cultural heritage and traditions through social media, websites, and online forums",
+          "confidence": 0.95,
+          "subject_raw": "Afrikaner people",
+          "predicate_raw": "use technology to promote"
+        }
+      },
+      "score": 0.17010413245268755,
+      "created_at": "2026-07-06T09:24:20.207142-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c306ceb3-ece9-4a05-8526-9ada4c2f2985",
+      "memory": "User has been exploring different film stocks and developers.",
+      "hash": "98b310247ab0acbd039f275adb47c06e",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be exploring",
+          "object_text": "different film stocks and developers",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been exploring"
+        }
+      },
+      "score": 0.16948208622423594,
+      "created_at": "2026-07-06T09:23:15.170372-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "959bd543-bf2b-4d59-ad6d-84d8cdc6a113",
+      "memory": "User has been making quinoa and roasted vegetables.",
+      "hash": "2f10d22f40b656986eebdfa1536981b7",
+      "metadata": {
+        "ordinal": 75,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be making",
+          "object_text": "quinoa and roasted vegetables",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been making"
+        }
+      },
+      "score": 0.1689709430972637,
+      "created_at": "2026-07-06T09:21:12.727888-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f612fe27-7bea-4d4d-824e-8370931361b4",
+      "memory": "User spent $20 on the gift for their neighbor.",
+      "hash": "9830aa3673d4b4178a10c7d0fe7a9e11",
+      "metadata": {
+        "ordinal": 211,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "spent",
+          "object_text": "$20 on gift for neighbor",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "spent"
+        }
+      },
+      "score": 0.16894766502304526,
+      "created_at": "2026-07-06T09:22:20.632300-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b3575ce6-edd8-40a1-a059-ad25d07be262",
+      "memory": "User is interested in exploring more about refugee support organizations.",
+      "hash": "34a6a3d53a0f5af2e43ea74659d76562",
+      "metadata": {
+        "ordinal": 544,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in exploring more about",
+          "object_text": "refugee support organizations",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is interested in exploring more about"
+        }
+      },
+      "score": 0.16805169079159823,
+      "created_at": "2026-07-06T09:24:42.405655-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5b21f089-9513-4b22-98e9-53bb9f089076",
+      "memory": "User is looking for tips on how to properly clean and maintain vintage cameras.",
+      "hash": "5176a30d5e03b72c8b06ceaa280ec8ed",
+      "metadata": {
+        "ordinal": 372,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.16741050095959822,
+      "created_at": "2026-07-06T09:23:15.155313-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b5cb364d-84c5-4377-8224-9d008950da38",
+      "memory": "User has a few credit cards with chip technology and PIN authentication.",
+      "hash": "e6ea2e720ee5f10f789557d89c038fee",
+      "metadata": {
+        "ordinal": 429,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "a few credit cards with chip technology and PIN authentication",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.16734679363582808,
+      "created_at": "2026-07-06T09:23:52.578217-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c4132282-1a2e-4ead-87da-d6f52df5a163",
+      "memory": "User liked 'How I Built This'.",
+      "hash": "67d225f277e9287e2da87238b0274a0b",
+      "metadata": {
+        "ordinal": 503,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "liked",
+          "object_text": "'How I Built This'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "liked"
+        }
+      },
+      "score": 0.16708787770037525,
+      "created_at": "2026-07-06T09:24:26.305331-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4fd0e42c-0c1c-4bce-ae68-4c6a778210d9",
+      "memory": "User has been using Nike running shoes for their daily 5K runs.",
+      "hash": "89ce3db96912cd22a85390dc8f25f8b7",
+      "metadata": {
+        "ordinal": 557,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be using",
+          "object_text": "Nike running shoes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.16572874522997494,
+      "created_at": "2026-07-06T09:24:50.979300-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "40c33240-7130-49b7-b81c-dc66c1c7d532",
+      "memory": "User has been to New York City and checked out some of its art scene.",
+      "hash": "b86c0fe1ab2c4afaefc0cd83e666d471",
+      "metadata": {
+        "ordinal": 550,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be to",
+          "object_text": "New York City",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been to"
+        }
+      },
+      "score": 0.1643797970811956,
+      "created_at": "2026-07-06T09:24:46.351166-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "62e102e3-8aab-4c8e-874a-e816bb9c893a",
+      "memory": "User has been listening to a lot of true crime and entrepreneurship podcasts lately.",
+      "hash": "8d7199f33345adaed88a4f5f22284650",
+      "metadata": {
+        "ordinal": 330,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "a lot of true crime and entrepreneurship podcasts lately",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.16422368294309642,
+      "created_at": "2026-07-06T09:22:56.507504-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d06a464e-d982-48cc-880e-a3e23272def6",
+      "memory": "User is trying to establish a better bedtime routine.",
+      "hash": "f452c35b1f58a12614fc43a05f1b174c",
+      "metadata": {
+        "ordinal": 117,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be trying to establish",
+          "object_text": "a better bedtime routine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is trying to establish"
+        }
+      },
+      "score": 0.1639295927300215,
+      "created_at": "2026-07-06T09:21:20.341573-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "865b019b-0f37-44bc-8d39-1dc0e1363f74",
+      "memory": "The user is preparing a threat brief for a simulation involving a cyber incident with an online conveyancing platform provider in Australia.",
+      "hash": "55f7dc60112bcc1a46e8f445a658ff2e",
+      "metadata": {
+        "ordinal": 613,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be preparing",
+          "object_text": "a threat brief for a simulation involving a cyber incident with an online conveyancing platform provider in Australia",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is preparing"
+        }
+      },
+      "score": 0.16366121405911288,
+      "created_at": "2026-07-06T09:25:12.619308-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7feaf23c-57ef-46f7-84b2-186bec250296",
+      "memory": "Some industries, like technology and e-commerce, have thrived during the pandemic, while traditional brick-and-mortar stores have suffered.",
+      "hash": "aeb9f255877e45e8b040cee154b8e580",
+      "metadata": {
+        "ordinal": 196,
+        "triple": null,
+        "subject_fallback": "industries"
+      },
+      "score": 0.16344319052511552,
+      "created_at": "2026-07-06T09:22:09.053917-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a78d4256-3e22-4bc9-a3b6-624eb33220ef",
+      "memory": "Afrikaner people can shop online, order food delivery, and access entertainment without leaving their homes.",
+      "hash": "a192fd62cde2561c6879316086e8d9ca",
+      "metadata": {
+        "ordinal": 459,
+        "triple": {
+          "subject_id": "afrikaner_people",
+          "predicate_norm": "can shop online, order food delivery, and access entertainment",
+          "object_text": "without leaving their homes",
+          "confidence": 0.95,
+          "subject_raw": "Afrikaner people",
+          "predicate_raw": "can shop online, order food delivery, and access entertainment"
+        }
+      },
+      "score": 0.16331792041867993,
+      "created_at": "2026-07-06T09:24:20.201254-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a2aabb57-6722-4d4c-9434-4f1cb7b6a6c4",
+      "memory": "User is looking for a new pair of running shoes.",
+      "hash": "1c8d04bb7cfb9b753bfd861aa71cd653",
+      "metadata": {
+        "ordinal": 556,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.16217721656540834,
+      "created_at": "2026-07-06T09:24:50.975145-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "96b34574-8fcc-480f-8225-f3f086c1a498",
+      "memory": "User liked 'The Power' by Naomi Alderman.",
+      "hash": "b9d9a7ea411a6e4c32f5b0325a3f979a",
+      "metadata": {
+        "ordinal": 502,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "liked",
+          "object_text": "'The Power' by Naomi Alderman",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "liked"
+        }
+      },
+      "score": 0.16160339085929448,
+      "created_at": "2026-07-06T09:24:26.302590-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6a29736c-a676-451f-9a24-bdabf0cbfc9a",
+      "memory": "User got some stuff for their grandma's visit.",
+      "hash": "4c76f461c584d5ff6290ef72fce9a18c",
+      "metadata": {
+        "ordinal": 206,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "got some stuff for",
+          "object_text": "grandma's visit",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "got some stuff for"
+        }
+      },
+      "score": 0.16104708779581178,
+      "created_at": "2026-07-06T09:22:20.615318-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b6afd672-5f25-4285-9446-099ed86b4ce8",
+      "memory": "User has already listened to 'How I Built This' and 'My Favorite Murder'.",
+      "hash": "28cf26a20bffa69be7e8278ffd626e7e",
+      "metadata": {
+        "ordinal": 332,
+        "triple": {
+          "subject_id": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has already listened to",
+          "object_text": "'How I Built This' and 'My Favorite Murder'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has already listened to"
+        }
+      },
+      "score": 0.1587330543399322,
+      "created_at": "2026-07-06T09:22:56.510537-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "79b5deb9-1b6c-4199-ae9f-700f6ed51fee",
+      "memory": "User is planning a trip to Disneyland with their family soon.",
+      "hash": "c2510ec22eb1468d31e9bdb07912d61b",
+      "metadata": {
+        "ordinal": 226,
+        "triple": null,
+        "subject_fallback": "user::context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1584898346657054,
+      "created_at": "2026-07-06T09:22:31.169655-07:00",
+      "updated_at": null,
+      "user_id": "context_4b24c848_longmemeval_s_ku_ours_no_p5_s1n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": null,
+  "memories_str": "121. User has already bought three tops from H&M.\n590. User is thinking of getting a few more tops from H&M.\n120. User is thinking of buying some more tops from H&M this weekend.\n589. User has already got five tops from H&M.\n592. User has placed an order with ASOS recently.\n122. User is really loving H&M's summer collection.\n588. User is planning to go to the mall this weekend.\n119. User is planning to go to the mall this weekend.\n560. User bought their current shoes on sale for 20% off.\n559. User bought their current shoes at the outlet mall in April.\n555. User is looking to get some new athletic wear.\n114. User is thinking of doing some laundry on Sunday.\n512. User asked how to get more followers on Instagram.\n215. User spent $80 on a haircut and beauty products.\n108. User is trying to plan out their weekend.\n228. User attended the 'Summer Nights' event last month.\n593. User is thinking of getting a new pair of sneakers.\n218. User spent around $150 on groceries.\n61. User is thinking of buying a 4-day Paris Museum Pass.\n388. User is looking to plan their meals for the week ahead.\n204. User is trying to track their expenses for the past month.\n220. User has a total of $970 in expenses for the month.\n217. User spent around $200 on dining out last month.\n591. User is thinking of checking out a new thrift store near their work called The Vault.\n596. User is planning to grab a coffee and browse through the sci-fi section of the bookstore.\n374. User is interested in learning more about the history of photography and the development of camera technology.\n404. User just got back from a weekend trip to Chicago last month, from October 15th to 18th.\n123. User has already been to The Vault thrift store once and was impressed with their selection.\n318. User is planning a trip to Tokyo.\n116. User is thinking of organizing their desk and sorting out some papers on Sunday.\n595. User is planning to stop by their local bookstore this weekend.\n329. User has been listening to podcasts for about 6 weeks.\n394. User usually plans their week ahead, sets goals, and makes a to-do list on Sundays.\n558. User's current Nike running shoes have been holding up pretty well.\n209. User spent around $150 on their sister's birthday gift.\n437. User had a veggie burger from Burger King on Monday that was around $10.\n600. User is still sorting through the contents of the storage units.\n427. User is interested in a travel wallet or organizer to keep all their receipts and papers tidy.\n403. User is thinking of planning a trip to Europe next spring.\n509. User requested a song about the history of house music.\n506. User knows the UK house buying and renting market.\n425. User is trying to get their travel documents in order.\n594. User is also looking for household essentials.\n319. User is looking for advice on guided tours in Tokyo.\n401. User is planning to try out the bike-sharing program for their daily commute.\n399. User was on the train last Friday and it was delayed by 20 minutes due to mechanical issues.\n216. User paid $120 for a concert ticket to see their favorite band next month.\n115. User needs to buy some milk and bread.\n409. User is looking at economy flights.\n205. User bought gifts for their sister's birthday, their friend's baby shower, and their neighbor who just moved in.\n373. User got their first camera, a 1960s-era Canon rangefinder, from an antique shop in downtown Seattle about three weeks ago.\n454. Modern technology has revolutionized the way Afrikaner people communicate with each other.\n440. User is thinking of trying out the spicy roasted veggie blend and the roasted red pepper hummus.\n438. User had spaghetti Bolognese from Bella Vita on Wednesday that was around $15.\n118. User aims to be in bed by 11 pm.\n59. User is thinking of staying in an Airbnb apartment in Paris for about 5 nights.\n210. User spent $40 on their friend's baby shower gift.\n407. User is flexible with their travel dates in April and May.\n508. User is interested in house music.\n614. The user is concerned about supply chain threats in the context of a cyber security simulation.\n406. User is thinking of visiting Paris, Rome, and Barcelona.\n413. User is thinking of booking an Airbnb apartment in the Latin Quarter in Paris.\n80. User is thinking of making a big batch of spiced lentils and using them throughout the week in different meals.\n436. User has been getting a lot of takeout lately.\n214. User spent around $100 on a new video game last week.\n498. User is in the city center.\n376. User is curious about different types of developing chemicals and techniques.\n400. User is thinking of trying out the bike-sharing program this weekend.\n390. User stocked up on fruits and vegetables at the grocery store on Saturday morning.\n326. User got a quote from Allianz for travel insurance last Thursday.\n54. User is planning a summer trip and is considering destinations in Europe or Asia.\n545. User wants to learn more about the language classes offered by refugee support organizations.\n111. User is thinking of making scrambled eggs and toast for breakfast on Saturday.\n320. User has been researching Tokyo Trails.\n166. User has been thinking about their dad's advice to stay updated with the latest developments in the field.\n424. User is thinking of organizing hair products and skincare products in the cabinet under the sink.\n337. User is interested in exploring more podcasts on science and technology.\n609. The user is aware of the recent Optus and Medibank PII cyber breaches.\n451. User checked out Watson's Bistro in Conwy yesterday.\n398. User is thinking of trying out a new transportation method, possibly carpooling with a coworker or using the bike-sharing program.\n463. Afrikaner people use technology to promote their cultural heritage and traditions through social media, websites, and online forums.\n377. User has been exploring different film stocks and developers.\n75. User has been making quinoa and roasted vegetables.\n211. User spent $20 on the gift for their neighbor.\n544. User is interested in exploring more about refugee support organizations.\n372. User is looking for tips on how to properly clean and maintain vintage cameras.\n429. User has a few credit cards with chip technology and PIN authentication.\n503. User liked 'How I Built This'.\n557. User has been using Nike running shoes for their daily 5K runs.\n550. User has been to New York City and checked out some of its art scene.\n330. User has been listening to a lot of true crime and entrepreneurship podcasts lately.\n117. User is trying to establish a better bedtime routine.\n613. The user is preparing a threat brief for a simulation involving a cyber incident with an online conveyancing platform provider in Australia.\n196. Some industries, like technology and e-commerce, have thrived during the pandemic, while traditional brick-and-mortar stores have suffered.\n459. Afrikaner people can shop online, order food delivery, and access entertainment without leaving their homes.\n556. User is looking for a new pair of running shoes.\n502. User liked 'The Power' by Naomi Alderman.\n206. User got some stuff for their grandma's visit.\n332. User has already listened to 'How I Built This' and 'My Favorite Murder'.\n226. User is planning a trip to Disneyland with their family soon.",
+  "system_prompt": "You are a careful information-extraction system that outputs only JSON.",
+  "user_message": "You are given retrieved items from a user's personal memory. Each item has a FRESHNESS marker (the prefix integer) — a higher marker means the item was recorded more recently.\n\nYour job: identify EVERY item that DIRECTLY answers the question, and extract the answer from each such item.\n\nDo NOT compare freshness markers. Do NOT pick a \"best\" one. Include ALL items that answer the question.\n\nRules:\n1. An item answers the question only if it states the specific piece of information the question asks about (e.g. the user's current city, job, or preference). A related-but-different topic does NOT count.\n2. Most items describe the user (\"User ...\"); treat the user as the subject unless the question names someone else.\n3. If the user has multiple conflicting values recorded at different freshness markers, INCLUDE BOTH as separate candidates. Do not pick.\n4. If no item answers the question, return an empty list.\n5. Copy the item's text verbatim into `fact_text`, and put the concise answer to the question into `answer_entity`.\n\nQuestion: Today's date is 2023/10/20 (Fri) 08:09.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n How many tops have I bought from H&M so far?\n\nItems:\n121. User has already bought three tops from H&M.\n590. User is thinking of getting a few more tops from H&M.\n120. User is thinking of buying some more tops from H&M this weekend.\n589. User has already got five tops from H&M.\n592. User has placed an order with ASOS recently.\n122. User is really loving H&M's summer collection.\n588. User is planning to go to the mall this weekend.\n119. User is planning to go to the mall this weekend.\n560. User bought their current shoes on sale for 20% off.\n559. User bought their current shoes at the outlet mall in April.\n555. User is looking to get some new athletic wear.\n114. User is thinking of doing some laundry on Sunday.\n512. User asked how to get more followers on Instagram.\n215. User spent $80 on a haircut and beauty products.\n108. User is trying to plan out their weekend.\n228. User attended the 'Summer Nights' event last month.\n593. User is thinking of getting a new pair of sneakers.\n218. User spent around $150 on groceries.\n61. User is thinking of buying a 4-day Paris Museum Pass.\n388. User is looking to plan their meals for the week ahead.\n204. User is trying to track their expenses for the past month.\n220. User has a total of $970 in expenses for the month.\n217. User spent around $200 on dining out last month.\n591. User is thinking of checking out a new thrift store near their work called The Vault.\n596. User is planning to grab a coffee and browse through the sci-fi section of the bookstore.\n374. User is interested in learning more about the history of photography and the development of camera technology.\n404. User just got back from a weekend trip to Chicago last month, from October 15th to 18th.\n123. User has already been to The Vault thrift store once and was impressed with their selection.\n318. User is planning a trip to Tokyo.\n116. User is thinking of organizing their desk and sorting out some papers on Sunday.\n595. User is planning to stop by their local bookstore this weekend.\n329. User has been listening to podcasts for about 6 weeks.\n394. User usually plans their week ahead, sets goals, and makes a to-do list on Sundays.\n558. User's current Nike running shoes have been holding up pretty well.\n209. User spent around $150 on their sister's birthday gift.\n437. User had a veggie burger from Burger King on Monday that was around $10.\n600. User is still sorting through the contents of the storage units.\n427. User is interested in a travel wallet or organizer to keep all their receipts and papers tidy.\n403. User is thinking of planning a trip to Europe next spring.\n509. User requested a song about the history of house music.\n506. User knows the UK house buying and renting market.\n425. User is trying to get their travel documents in order.\n594. User is also looking for household essentials.\n319. User is looking for advice on guided tours in Tokyo.\n401. User is planning to try out the bike-sharing program for their daily commute.\n399. User was on the train last Friday and it was delayed by 20 minutes due to mechanical issues.\n216. User paid $120 for a concert ticket to see their favorite band next month.\n115. User needs to buy some milk and bread.\n409. User is looking at economy flights.\n205. User bought gifts for their sister's birthday, their friend's baby shower, and their neighbor who just moved in.\n373. User got their first camera, a 1960s-era Canon rangefinder, from an antique shop in downtown Seattle about three weeks ago.\n454. Modern technology has revolutionized the way Afrikaner people communicate with each other.\n440. User is thinking of trying out the spicy roasted veggie blend and the roasted red pepper hummus.\n438. User had spaghetti Bolognese from Bella Vita on Wednesday that was around $15.\n118. User aims to be in bed by 11 pm.\n59. User is thinking of staying in an Airbnb apartment in Paris for about 5 nights.\n210. User spent $40 on their friend's baby shower gift.\n407. User is flexible with their travel dates in April and May.\n508. User is interested in house music.\n614. The user is concerned about supply chain threats in the context of a cyber security simulation.\n406. User is thinking of visiting Paris, Rome, and Barcelona.\n413. User is thinking of booking an Airbnb apartment in the Latin Quarter in Paris.\n80. User is thinking of making a big batch of spiced lentils and using them throughout the week in different meals.\n436. User has been getting a lot of takeout lately.\n214. User spent around $100 on a new video game last week.\n498. User is in the city center.\n376. User is curious about different types of developing chemicals and techniques.\n400. User is thinking of trying out the bike-sharing program this weekend.\n390. User stocked up on fruits and vegetables at the grocery store on Saturday morning.\n326. User got a quote from Allianz for travel insurance last Thursday.\n54. User is planning a summer trip and is considering destinations in Europe or Asia.\n545. User wants to learn more about the language classes offered by refugee support organizations.\n111. User is thinking of making scrambled eggs and toast for breakfast on Saturday.\n320. User has been researching Tokyo Trails.\n166. User has been thinking about their dad's advice to stay updated with the latest developments in the field.\n424. User is thinking of organizing hair products and skincare products in the cabinet under the sink.\n337. User is interested in exploring more podcasts on science and technology.\n609. The user is aware of the recent Optus and Medibank PII cyber breaches.\n451. User checked out Watson's Bistro in Conwy yesterday.\n398. User is thinking of trying out a new transportation method, possibly carpooling with a coworker or using the bike-sharing program.\n463. Afrikaner people use technology to promote their cultural heritage and traditions through social media, websites, and online forums.\n377. User has been exploring different film stocks and developers.\n75. User has been making quinoa and roasted vegetables.\n211. User spent $20 on the gift for their neighbor.\n544. User is interested in exploring more about refugee support organizations.\n372. User is looking for tips on how to properly clean and maintain vintage cameras.\n429. User has a few credit cards with chip technology and PIN authentication.\n503. User liked 'How I Built This'.\n557. User has been using Nike running shoes for their daily 5K runs.\n550. User has been to New York City and checked out some of its art scene.\n330. User has been listening to a lot of true crime and entrepreneurship podcasts lately.\n117. User is trying to establish a better bedtime routine.\n613. The user is preparing a threat brief for a simulation involving a cyber incident with an online conveyancing platform provider in Australia.\n196. Some industries, like technology and e-commerce, have thrived during the pandemic, while traditional brick-and-mortar stores have suffered.\n459. Afrikaner people can shop online, order food delivery, and access entertainment without leaving their homes.\n556. User is looking for a new pair of running shoes.\n502. User liked 'The Power' by Naomi Alderman.\n206. User got some stuff for their grandma's visit.\n332. User has already listened to 'How I Built This' and 'My Favorite Murder'.\n226. User is planning a trip to Disneyland with their family soon.\n\nReturn ONLY valid JSON: {\"candidates\": [{\"serial\": <int>, \"fact_text\": \"<verbatim>\", \"answer_entity\": \"<answer>\"}, ...]}",
+  "response": "five",
+  "prompt_tokens": 1910,
+  "completion_tokens": 80
+}

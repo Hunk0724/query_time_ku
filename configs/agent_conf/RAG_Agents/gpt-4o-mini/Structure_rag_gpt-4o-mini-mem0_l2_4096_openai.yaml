@@ -1,0 +1,33 @@
+# gpt-4o-mini mem0 — chunk 4096(benchmark 預設)+ OpenAI embedding(authentic)
+# + L2 extraction(撇除抽取變因,專注 UPDATE pipeline)+ temp 0(可重現)。
+# scale 分析用(6k/32k/64k/262k),觀察失敗模式分布隨長度的轉移。
+agent_name: Structure_rag_gpt-4o-mini-mem0_l2_4096_openai
+model: gpt-4o-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk4096-temp0-l2-openai
+
+agent_chunk_size: 4096
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-4o-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4omini_l2_4096_openai
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4omini_4096_openai
+      on_disk: true
+  use_l2_fc_prompt: true

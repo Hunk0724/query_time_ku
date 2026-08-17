@@ -1,0 +1,3581 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "803a19b1-6b11-48e3-8c99-ba6d9e4240d5",
+      "memory": "Philippines is located in the continent of Asia.",
+      "hash": "fd34814d1883830ff069f8eacc7cb50e",
+      "metadata": {
+        "ordinal": 2129,
+        "triple": {
+          "subject_id": "philippines",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Philippines",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.8220219751228952,
+      "created_at": "2026-07-04T05:28:57.940647-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2c474a9b-7e83-41d0-a1fd-d88626ad1c0b",
+      "memory": "India is located in the continent of Asia",
+      "hash": "209634901d7d96673c42490c749810fc",
+      "metadata": {
+        "ordinal": 567,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5685120987013341,
+      "created_at": "2026-07-04T05:28:19.943602-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b1d4b0c4-fb5c-4471-9d99-84f22bf36541",
+      "memory": "Malaysia is located in the continent of Asia.",
+      "hash": "d769a65a695987e7d394c087a9fdf251",
+      "metadata": {
+        "ordinal": 179,
+        "triple": {
+          "subject_id": "malaysia",
+          "predicate_norm": "be located in",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Malaysia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5521011073282381,
+      "created_at": "2026-07-04T05:28:11.271027-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4a638899-d353-488a-a69e-129e1c5d4aed",
+      "memory": "Japan is located in the continent of Asia.",
+      "hash": "89b86b5c535607e61fa1d3a1f73f22e0",
+      "metadata": {
+        "ordinal": 2049,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5504581523260377,
+      "created_at": "2026-07-04T05:28:55.924345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c1eb53af-f86e-49c3-bd44-9db545fdd7b6",
+      "memory": "Singapore is located in the continent of Asia.",
+      "hash": "7bab37d5611898e88012de5b006a58ed",
+      "metadata": {
+        "ordinal": 1603,
+        "triple": {
+          "subject_id": "singapore",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Singapore",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.5465745117563877,
+      "created_at": "2026-07-04T05:28:44.230313-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cfebc795-0dd1-44eb-a983-98a5319ae505",
+      "memory": "South Korea is located in the continent of Asia.",
+      "hash": "b5f6ea67f3a931e49625076257a3afb9",
+      "metadata": {
+        "ordinal": 1569,
+        "triple": {
+          "subject_id": "south_korea",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "South Korea",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5280304286011636,
+      "created_at": "2026-07-04T05:28:43.498344-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "59237624-0937-4258-b1f5-82b0f82e35f4",
+      "memory": "Beijing is located in the continent of Asia.",
+      "hash": "34f0331bc6d392baa33329cd91f0ed35",
+      "metadata": {
+        "ordinal": 840,
+        "triple": {
+          "subject_id": "beijing",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Beijing",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.5219723227298301,
+      "created_at": "2026-07-04T05:28:26.254181-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1c7b7455-3df6-41b9-90fc-7c1a3ceca3cc",
+      "memory": "The capital of Philippines is Manila.",
+      "hash": "7d6bf41ddd38670711aeeabdf9d9d625",
+      "metadata": {
+        "ordinal": 865,
+        "triple": {
+          "subject_id": "philippines",
+          "predicate_norm": "has capital",
+          "object_text": "Manila",
+          "confidence": 0.95,
+          "subject_raw": "Philippines",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.5188726969540214,
+      "created_at": "2026-07-04T05:28:26.286717-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c5ec680d-db4e-4c0f-8ce9-5e7385246815",
+      "memory": "Tang Empire is located in the continent of Asia.",
+      "hash": "63ca095050e1a3dcfd908e496299988d",
+      "metadata": {
+        "ordinal": 1859,
+        "triple": {
+          "subject_id": "tang_empire",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Tang Empire",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5024684688702905,
+      "created_at": "2026-07-04T05:28:50.355919-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "45704bea-02e1-4d26-8ffd-f7db67fe6495",
+      "memory": "Australia is located in the continent of Oceania.",
+      "hash": "e0bd74c4b4735ebfc0935c94500c589c",
+      "metadata": {
+        "ordinal": 1188,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Oceania",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5005500204951576,
+      "created_at": "2026-07-04T05:28:33.834000-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "492bcd07-4ab3-4c35-a54c-a2fd4fc43bb2",
+      "memory": "France is located in the continent of Europe",
+      "hash": "079f0b92eed33faf02ce8ddd220fb587",
+      "metadata": {
+        "ordinal": 1491,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4935758370957626,
+      "created_at": "2026-07-04T05:28:41.644584-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64ec5c57-7e73-4d73-81e7-e7ace76022b3",
+      "memory": "Israel is located in the continent of Asia.",
+      "hash": "2f3ffc8a09b732eec33932105b3d9619",
+      "metadata": {
+        "ordinal": 965,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.48819742695527923,
+      "created_at": "2026-07-04T05:28:29.033159-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3a9ac452-30d3-48ca-8894-d5ba76a86b4e",
+      "memory": "Spain is located in the continent of Europe.",
+      "hash": "09f83f6d9958becc817d95013efbe69e",
+      "metadata": {
+        "ordinal": 1946,
+        "triple": {
+          "subject_id": "spain",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Spain",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.48781631859970476,
+      "created_at": "2026-07-04T05:28:52.978733-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "49b64076-0c04-4a75-9b91-4f2e76fd0638",
+      "memory": "North Korea is located in the continent of Asia.",
+      "hash": "74425d1082fb048d4ee8b423f1c17d51",
+      "metadata": {
+        "ordinal": 687,
+        "triple": {
+          "subject_id": "north_korea",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "North Korea",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4813620787420593,
+      "created_at": "2026-07-04T05:28:23.069189-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "81a5f5b4-029a-4339-971f-455a6eba6fca",
+      "memory": "Australia is located in the continent of South America.",
+      "hash": "37b3ff7c9a95a1a152e5ad7acfca22e6",
+      "metadata": {
+        "ordinal": 2219,
+        "triple": null,
+        "subject_fallback": "australia"
+      },
+      "score": 0.4779161057461009,
+      "created_at": "2026-07-04T05:29:00.566951-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4884c61f-f795-4a01-97b8-8ff8ceeacf95",
+      "memory": "India is located in the continent of Africa.",
+      "hash": "cf7987e158cfb3cc456be8e912635ec3",
+      "metadata": {
+        "ordinal": 1934,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Africa",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.47474292245440947,
+      "created_at": "2026-07-04T05:28:52.943194-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3cf5680f-0da5-4c1e-9cd5-f4e30a5fcd18",
+      "memory": "Canada is located in the continent of Asia.",
+      "hash": "ace443027384e4a672e98ce56b0a22fe",
+      "metadata": {
+        "ordinal": 1740,
+        "triple": {
+          "subject_id": "canada",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Canada",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4690983230569921,
+      "created_at": "2026-07-04T05:28:47.705486-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "484040dd-2b35-40f2-a0e5-10bde099fc08",
+      "memory": "Malaysia is located in the continent of Antarctica.",
+      "hash": "08d42c32d41c7d52b0330389f540cd8c",
+      "metadata": {
+        "ordinal": 824,
+        "triple": {
+          "subject_id": "malaysia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Antarctica",
+          "confidence": 0.95,
+          "subject_raw": "Malaysia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4676258790467819,
+      "created_at": "2026-07-04T05:28:25.406966-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "673b134f-4df7-4357-a56f-3c920b38d83b",
+      "memory": "Paris is located in the continent of Europe",
+      "hash": "eeee76869b1c89e0af2b39b76296a1fa",
+      "metadata": {
+        "ordinal": 436,
+        "triple": {
+          "subject_id": "paris",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Paris",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.46438543282720407,
+      "created_at": "2026-07-04T05:28:17.442929-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b221169b-1cf2-4bd8-8582-c2244498d4bc",
+      "memory": "Italy is located in the continent of Oceania.",
+      "hash": "7a1254e48ba1961ef55398bdcf8734d4",
+      "metadata": {
+        "ordinal": 1362,
+        "triple": null,
+        "subject_fallback": "italy"
+      },
+      "score": 0.4636980632997909,
+      "created_at": "2026-07-04T05:28:38.383590-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "969de193-4ab4-424f-b754-38677b2e84b7",
+      "memory": "São Paulo is located in the continent of South America.",
+      "hash": "50ff5c02959c577270d7bb832ed23c13",
+      "metadata": {
+        "ordinal": 1367,
+        "triple": {
+          "subject_id": "são_paulo",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "São Paulo",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4615872735458393,
+      "created_at": "2026-07-04T05:28:38.391831-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "57295eb3-6491-4274-ace6-cd858f4999bc",
+      "memory": "Madrid is located in the continent of Europe",
+      "hash": "b7453e46caa5af9d51ddbd1cbbe68f34",
+      "metadata": {
+        "ordinal": 453,
+        "triple": {
+          "subject_id": "madrid",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Madrid",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.45495743976194125,
+      "created_at": "2026-07-04T05:28:17.467316-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3ae1a89c-c913-4619-856b-cee402a934b2",
+      "memory": "United Kingdom is located in the continent of Oceania.",
+      "hash": "d0327848317bfee49420e16b80014555",
+      "metadata": {
+        "ordinal": 2298,
+        "triple": null,
+        "subject_fallback": "united_kingdom"
+      },
+      "score": 0.4522877026431939,
+      "created_at": "2026-07-04T05:29:02.331140-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d49616ea-718c-46e8-8c10-a33354f0c0b3",
+      "memory": "New Zealand is located in the continent of Oceania.",
+      "hash": "9ef8b35c72785998cfed555fd4ec673a",
+      "metadata": {
+        "ordinal": 101,
+        "triple": {
+          "subject_id": "new_zealand",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Oceania",
+          "confidence": 0.95,
+          "subject_raw": "New Zealand",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4502114970952888,
+      "created_at": "2026-07-04T05:28:09.358439-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ed670f74-7bde-4f9c-9d07-a183e5ca7b9f",
+      "memory": "Serbia is located in the continent of Asia",
+      "hash": "5d4d4157f75b49c56473d935238b0d62",
+      "metadata": {
+        "ordinal": 446,
+        "triple": {
+          "subject_id": "serbia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Serbia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4486736616183938,
+      "created_at": "2026-07-04T05:28:17.458226-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7e982132-b868-4b73-a22e-821855a9393f",
+      "memory": "Italy is located in the continent of Europe.",
+      "hash": "c9cf037928b08a6840d47dd2be181197",
+      "metadata": {
+        "ordinal": 1240,
+        "triple": null,
+        "subject_fallback": "italy"
+      },
+      "score": 0.435572581610183,
+      "created_at": "2026-07-04T05:28:35.450175-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "55f78b9c-f513-4dfa-88df-298116e84daa",
+      "memory": "Brazil is located in the continent of South America.",
+      "hash": "f01ac92ea2acdc4f6f7bcb1550150ccb",
+      "metadata": {
+        "ordinal": 1560,
+        "triple": {
+          "subject_id": "brazil",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "Brazil",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.43388582856848457,
+      "created_at": "2026-07-04T05:28:43.484757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "00164ec0-a350-446d-93ad-5cc5b7dc85f1",
+      "memory": "Hyderabad is located in the continent of Asia",
+      "hash": "90aad9a5e136dcc59b0964fa28d2d29b",
+      "metadata": {
+        "ordinal": 1482,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4329116240990488,
+      "created_at": "2026-07-04T05:28:41.627764-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "84fb4761-6609-43c4-b0a9-67a67fc4ee16",
+      "memory": "Paris is located in the continent of Antarctica.",
+      "hash": "6a8c07bb11172ea928a9fe6969491f2f",
+      "metadata": {
+        "ordinal": 1596,
+        "triple": null,
+        "subject_fallback": "paris"
+      },
+      "score": 0.4289037630591924,
+      "created_at": "2026-07-04T05:28:44.218913-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c59b5d76-e962-4117-83ef-769163a3072e",
+      "memory": "England is located in the continent of Europe.",
+      "hash": "d8edb92e99b5f7fc10099f6cde169508",
+      "metadata": {
+        "ordinal": 369,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41950173490091913,
+      "created_at": "2026-07-04T05:28:15.874277-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7b89c864-97ea-40e0-8789-07aedb1ea0f1",
+      "memory": "France is located in the continent of North America.",
+      "hash": "e0af56996af1c5f0590516fd65b16dff",
+      "metadata": {
+        "ordinal": 1681,
+        "triple": null,
+        "subject_fallback": "france"
+      },
+      "score": 0.4192151058053819,
+      "created_at": "2026-07-04T05:28:46.128517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "80810500-5030-483a-bdcb-22f01e57055b",
+      "memory": "United Kingdom is located in the continent of Europe.",
+      "hash": "e14811bd042eeb42f33c07fb5687181f",
+      "metadata": {
+        "ordinal": 102,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41902402050150933,
+      "created_at": "2026-07-04T05:28:09.359775-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d2cfe673-a423-4273-9077-2ff776a3c11b",
+      "memory": "Denmark is located in the continent of Europe.",
+      "hash": "0c67aaf3b78b61b4c51f5f844f829206",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "denmark",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Denmark",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41886895218935105,
+      "created_at": "2026-07-04T05:28:11.278930-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9d5a95f2-41f0-40cf-b1b0-975010439977",
+      "memory": "Bengaluru is located in the continent of Asia.",
+      "hash": "13b518aecc33c06226eb02e6f77a1e6c",
+      "metadata": {
+        "ordinal": 717,
+        "triple": {
+          "subject_id": "bengaluru",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Bengaluru",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41686217591818864,
+      "created_at": "2026-07-04T05:28:23.128796-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cd63da8d-bf01-49db-a788-49d37435d15d",
+      "memory": "New Zealand is located in the continent of Africa.",
+      "hash": "2fe9b4136fd9befe40e2433dafe28338",
+      "metadata": {
+        "ordinal": 2116,
+        "triple": null,
+        "subject_fallback": "new_zealand"
+      },
+      "score": 0.4141242563502897,
+      "created_at": "2026-07-04T05:28:57.921764-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "19449fc2-1109-4975-ba43-64e366b9eef7",
+      "memory": "Brazil is located in the continent of Antarctica.",
+      "hash": "9f38502c399bb443838448ac9f6998ab",
+      "metadata": {
+        "ordinal": 1936,
+        "triple": {
+          "subject_id": "brazil",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Antarctica",
+          "confidence": 0.95,
+          "subject_raw": "Brazil",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41406397839486864,
+      "created_at": "2026-07-04T05:28:52.952062-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "12a9c1bd-e469-40fb-9edd-eea9e72024d5",
+      "memory": "Ireland is located in the continent of Europe.",
+      "hash": "a915c6365b4b9d514eb3b560bd62d4f1",
+      "metadata": {
+        "ordinal": 1654,
+        "triple": {
+          "subject_id": "ireland",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Ireland",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41394900774276144,
+      "created_at": "2026-07-04T05:28:46.079734-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bd7e1e38-778c-4465-a99f-8fe69efe38dc",
+      "memory": "Chile is located in the continent of South America.",
+      "hash": "e3e7164ad1e1afa9891afdb39ab32415",
+      "metadata": {
+        "ordinal": 884,
+        "triple": {
+          "subject_id": "chile",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "Chile",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.413640297377639,
+      "created_at": "2026-07-04T05:28:27.367370-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f5cf6488-7a9c-48b2-9746-50adb53770df",
+      "memory": "Denmark is located in the continent of South America.",
+      "hash": "15ae997b3f850828df5a938eab987100",
+      "metadata": {
+        "ordinal": 223,
+        "triple": null,
+        "subject_fallback": "denmark"
+      },
+      "score": 0.41318085299909574,
+      "created_at": "2026-07-04T05:28:12.210074-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "898ee756-52d8-4d1b-b6bc-432c2558a939",
+      "memory": "San Francisco is located in the continent of North America.",
+      "hash": "dc0541120e69139114c10428be1e2b32",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "san_francisco",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "San Francisco",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4115033109353238,
+      "created_at": "2026-07-04T05:28:09.328250-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fb9f8d36-7fd9-4de8-99c9-00977614040f",
+      "memory": "Germany is located in the continent of Europe.",
+      "hash": "a4e7b19b3efba6449760ecf0b33ddecd",
+      "metadata": {
+        "ordinal": 10,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41093644567039544,
+      "created_at": "2026-07-04T05:28:07.320257-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5357b15a-cce9-4b07-a0c6-4fe5a8ea7fbc",
+      "memory": "Beijing is located in the continent of North America.",
+      "hash": "34521ba5af9a990de01a3a64fbae7047",
+      "metadata": {
+        "ordinal": 2001,
+        "triple": null,
+        "subject_fallback": "beijing"
+      },
+      "score": 0.41034970661112385,
+      "created_at": "2026-07-04T05:28:54.914068-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cb1af93d-43b0-4f20-bb1b-4752e9977628",
+      "memory": "Madrid is located in the continent of Africa.",
+      "hash": "c9ccbc26de1ffed9fbd2f11788fdf74e",
+      "metadata": {
+        "ordinal": 1159,
+        "triple": {
+          "subject_id": "madrid",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Africa",
+          "confidence": 0.9,
+          "subject_raw": "Madrid",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4096064222373571,
+      "created_at": "2026-07-04T05:28:33.056760-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2a6084ba-897d-4221-9f4b-4f60e1c834bf",
+      "memory": "field hockey was created in the country of Philippines.",
+      "hash": "e046225c1e567815e9953f00442fa751",
+      "metadata": {
+        "ordinal": 1106,
+        "triple": {
+          "subject_id": "field_hockey",
+          "predicate_norm": "be created in",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "field hockey",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.4084589712130554,
+      "created_at": "2026-07-04T05:28:32.196706-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "96560b7b-2d56-409c-89eb-f0219675108f",
+      "memory": "Mexico is located in the continent of North America.",
+      "hash": "5dd99ab5d4f8f8ec5b0ad7051740ffc7",
+      "metadata": {
+        "ordinal": 353,
+        "triple": {
+          "subject_id": "mexico",
+          "predicate_norm": "be located in",
+          "object_text": "North America",
+          "confidence": 0.95,
+          "subject_raw": "Mexico",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4082447668186281,
+      "created_at": "2026-07-04T05:28:15.843855-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "021487de-fa0e-46fa-bb40-03dc6267d0de",
+      "memory": "Sweden is located in the continent of Europe.",
+      "hash": "fd0c4ade2705f95580d8abadb3923c8d",
+      "metadata": {
+        "ordinal": 361,
+        "triple": {
+          "subject_id": "sweden",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Sweden",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.40552330094788247,
+      "created_at": "2026-07-04T05:28:15.860919-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fd78f5a0-8803-47aa-ba8c-971a4ef5fe3d",
+      "memory": "Pesäpallo was created in the country of Philippines.",
+      "hash": "abaad0f72f3c072d2dd632e2a4bfcc49",
+      "metadata": {
+        "ordinal": 1599,
+        "triple": {
+          "subject_id": "pesäpallo",
+          "predicate_norm": "be created in country",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "Pesäpallo",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.3989427709236931,
+      "created_at": "2026-07-04T05:28:44.224259-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f553066e-08ca-4cb9-a9ae-607ea778ff6a",
+      "memory": "Kingdom of England is located in the continent of Europe.",
+      "hash": "2faff198e8ecf401dda09cf509e3727d",
+      "metadata": {
+        "ordinal": 2206,
+        "triple": {
+          "subject_id": "kingdom_of_england",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.39877089887157974,
+      "created_at": "2026-07-04T05:28:59.690185-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a393684c-5998-4aa1-8de2-d8ef568e556f",
+      "memory": "London is located in the continent of Europe.",
+      "hash": "4f7fa9c7c7858dab4313bbc72ebaf113",
+      "metadata": {
+        "ordinal": 1267,
+        "triple": null,
+        "subject_fallback": "london"
+      },
+      "score": 0.39651847404503265,
+      "created_at": "2026-07-04T05:28:35.498141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f3b95c97-02b8-4b3e-ae31-c7ea4a224f85",
+      "memory": "North Korea is located in the continent of Europe.",
+      "hash": "fcb5cf06944d39ac59a0186d1a86e189",
+      "metadata": {
+        "ordinal": 1363,
+        "triple": null,
+        "subject_fallback": "north_korea"
+      },
+      "score": 0.3934046778277763,
+      "created_at": "2026-07-04T05:28:38.385698-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f6c44edc-b33d-4bfd-9050-4bbaabe5e2ed",
+      "memory": "London is located in the continent of Eurasia.",
+      "hash": "dfc2120b08b60c560209e6e2eab5a5f4",
+      "metadata": {
+        "ordinal": 2185,
+        "triple": {
+          "subject_id": "london",
+          "predicate_norm": "be located in",
+          "object_text": "Eurasia",
+          "confidence": 0.95,
+          "subject_raw": "London",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.38970802439831503,
+      "created_at": "2026-07-04T05:28:59.661008-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "82abd250-787a-44ca-970e-7c1a5e5d1118",
+      "memory": "Moscow is located in the continent of Europe",
+      "hash": "89dde800e3447059b82bc3434e952952",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "moscow",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Moscow",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.38373647751973755,
+      "created_at": "2026-07-04T05:28:08.208368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "74f633d1-61c7-4f6e-83ab-a0e3f4f39267",
+      "memory": "Warsaw is located in the continent of Europe.",
+      "hash": "0ee4e1badd5a25ca0d7724a8ab58f92b",
+      "metadata": {
+        "ordinal": 234,
+        "triple": {
+          "subject_id": "warsaw",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Warsaw",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3829215675139022,
+      "created_at": "2026-07-04T05:28:13.120044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "140f052a-f065-4aed-8eae-0ba7d9022d36",
+      "memory": "Canada is located in the continent of North America.",
+      "hash": "687c283049be8fe8cb11a1b831c29bdc",
+      "metadata": {
+        "ordinal": 469,
+        "triple": {
+          "subject_id": "canada",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Canada",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.37901955057104364,
+      "created_at": "2026-07-04T05:28:18.335349-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "21ede713-b35e-489c-9cd5-6ec0d419127a",
+      "memory": "San Francisco is located in the continent of Africa.",
+      "hash": "e08e51c063873a69a1a384f670bd7f9e",
+      "metadata": {
+        "ordinal": 1658,
+        "triple": null,
+        "subject_fallback": "san_francisco"
+      },
+      "score": 0.37882109973903333,
+      "created_at": "2026-07-04T05:28:46.091132-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2cb5f4f7-32a6-4a6e-a873-33657a35b046",
+      "memory": "England is located in the continent of South America.",
+      "hash": "116e4f1096c1f6ca2f60b805efcad465",
+      "metadata": {
+        "ordinal": 1849,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3782488031414109,
+      "created_at": "2026-07-04T05:28:50.342526-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d76d6561-f459-4d4b-9ce1-5e178995a453",
+      "memory": "Germany is located in the continent of Africa.",
+      "hash": "ca1c0e24feb080db893e03d76df2127e",
+      "metadata": {
+        "ordinal": 1672,
+        "triple": null,
+        "subject_fallback": "germany"
+      },
+      "score": 0.3740896668189827,
+      "created_at": "2026-07-04T05:28:46.116353-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4d66de67-dc47-4ef6-b508-7fc850ece936",
+      "memory": "Serbia is located in the continent of Europe.",
+      "hash": "5b44ceee4085b7992a9c63c1d28208df",
+      "metadata": {
+        "ordinal": 238,
+        "triple": {
+          "subject_id": "serbia",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Serbia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3737017323348158,
+      "created_at": "2026-07-04T05:28:13.131035-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e376329a-4b11-4038-a9ff-c0c99db8b5dd",
+      "memory": "Chile is located in the continent of Europe.",
+      "hash": "0e59bad078ac104347d786aafdb76a8e",
+      "metadata": {
+        "ordinal": 1238,
+        "triple": null,
+        "subject_fallback": "chile"
+      },
+      "score": 0.3679793737339002,
+      "created_at": "2026-07-04T05:28:35.443899-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "26ee31ac-d7d8-429b-a5c2-1c64b565f7c7",
+      "memory": "Bengaluru is located in the continent of Oceania.",
+      "hash": "1d15af7fd9c2d5f2bc31360740c2712a",
+      "metadata": {
+        "ordinal": 790,
+        "triple": null,
+        "subject_fallback": "bengaluru"
+      },
+      "score": 0.3674987789510706,
+      "created_at": "2026-07-04T05:28:24.586749-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6f119841-e9c5-4342-aa3a-a05a95188ee0",
+      "memory": "Iceland is located in the continent of Europe.",
+      "hash": "1fa1e2924ace3375a78b7a40ba03bf37",
+      "metadata": {
+        "ordinal": 1185,
+        "triple": {
+          "subject_id": "iceland",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Iceland",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3599813434146031,
+      "created_at": "2026-07-04T05:28:33.830722-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "289a0dc6-58b7-46df-bb09-8d7adc9b075b",
+      "memory": "Ireland is located in the continent of North America.",
+      "hash": "a39808e4c7a26c2b751b1b4ec5fc9bb6",
+      "metadata": {
+        "ordinal": 2106,
+        "triple": null,
+        "subject_fallback": "ireland"
+      },
+      "score": 0.3594994056572752,
+      "created_at": "2026-07-04T05:28:57.903350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0a2ee8f6-d872-4abf-9ab3-badab53c671d",
+      "memory": "Israel is located in the continent of North America",
+      "hash": "e969b07aaa8142995b02469ee5bf9eb2",
+      "metadata": {
+        "ordinal": 1499,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3594775752097186,
+      "created_at": "2026-07-04T05:28:41.656778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2a5a0345-5fb4-4c3e-b5af-b22d7a102dcb",
+      "memory": "Romania is located in the continent of Europe.",
+      "hash": "cd24dbd86a93dd6595ba01a948170873",
+      "metadata": {
+        "ordinal": 1027,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.35553153367588186,
+      "created_at": "2026-07-04T05:28:30.519656-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "065631d4-15f2-4027-8c4e-7f482cc488ed",
+      "memory": "Kraków is located in the continent of Europe.",
+      "hash": "90f11573d7292fbb6b79fea94114fef8",
+      "metadata": {
+        "ordinal": 1854,
+        "triple": {
+          "subject_id": "kraków",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Kraków",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.35289406496713016,
+      "created_at": "2026-07-04T05:28:50.349423-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fa818b9a-a45a-4fc3-b18d-c50f5a13f16e",
+      "memory": "Sweden is located in the continent of North America.",
+      "hash": "8cd501fcb6cd7f06fc4135e11acaced3",
+      "metadata": {
+        "ordinal": 1538,
+        "triple": {
+          "subject_id": "sweden",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Sweden",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3449494493035006,
+      "created_at": "2026-07-04T05:28:42.623263-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f680e73b-c036-4cd7-8ca9-d46511ec8b58",
+      "memory": "Dublin is located in the continent of Europe.",
+      "hash": "36342f622c736fb502af14cc40cc5eb5",
+      "metadata": {
+        "ordinal": 1350,
+        "triple": {
+          "subject_id": "dublin",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Dublin",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33782345500783106,
+      "created_at": "2026-07-04T05:28:38.364027-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e0ea9de1-e022-402f-9837-4c7d8f1a6ab9",
+      "memory": "The original language of The Sky at Night is Filipino.",
+      "hash": "2145785934cf84b6d36f93f3d5845b9e",
+      "metadata": {
+        "ordinal": 200,
+        "triple": {
+          "subject_id": "the_sky_at_night",
+          "predicate_norm": "has original language",
+          "object_text": "Filipino",
+          "confidence": 0.95,
+          "subject_raw": "The Sky at Night",
+          "predicate_raw": "has original language"
+        }
+      },
+      "score": 0.3361110297417519,
+      "created_at": "2026-07-04T05:28:12.173166-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ce1ab75f-b8c8-4e70-856e-28c1b3e1745a",
+      "memory": "Kraków is located in the continent of Africa.",
+      "hash": "268880b5b48f6ab920a4ef673125cddf",
+      "metadata": {
+        "ordinal": 2175,
+        "triple": {
+          "subject_id": "kraków",
+          "predicate_norm": "be located in",
+          "object_text": "Africa",
+          "confidence": 0.95,
+          "subject_raw": "Kraków",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3344833230872836,
+      "created_at": "2026-07-04T05:28:59.640805-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d2d2c235-439e-46c4-aa37-82b9262d16f1",
+      "memory": "Lakshmi Mittal is a citizen of Philippines.",
+      "hash": "486fc92be4ab8cbef8acb43113f45a18",
+      "metadata": {
+        "ordinal": 637,
+        "triple": {
+          "subject_id": "lakshmi_mittal",
+          "predicate_norm": "be citizen",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "Lakshmi Mittal",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3287897902305075,
+      "created_at": "2026-07-04T05:28:21.497490-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6aa08a49-df72-4cdb-9c5b-deb36dca34e9",
+      "memory": "Classical Athens is located in the continent of Europe.",
+      "hash": "866d8ecfeb3a17d385bb6c97a780d397",
+      "metadata": {
+        "ordinal": 354,
+        "triple": {
+          "subject_id": "classical_athens",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Classical Athens",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.31981751543606446,
+      "created_at": "2026-07-04T05:28:15.846207-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "18831d62-8a03-4f43-a69a-16ad36dd1a45",
+      "memory": "Ann Arbor is located in the continent of North America.",
+      "hash": "84cbe2e557938806df618871ee2be80b",
+      "metadata": {
+        "ordinal": 1575,
+        "triple": {
+          "subject_id": "ann_arbor",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Ann Arbor",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2941568586447779,
+      "created_at": "2026-07-04T05:28:43.506273-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8a7e8abd-a924-4a4b-95c6-50e04092c1f5",
+      "memory": "Philippine Basketball Association Draft is associated with the sport of basketball.",
+      "hash": "5fda612a4059ed26f1ebe4dfdb21ad0e",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "philippine_basketball_association_draft",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Philippine Basketball Association Draft",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.28802467558383177,
+      "created_at": "2026-07-04T05:28:14.863674-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e5d66759-89d2-44a3-8949-17d135961e9b",
+      "memory": "Imelda Marcos is affiliated with the religion of Catholicism.",
+      "hash": "d1551a58ba47b5911325155a3fc1001e",
+      "metadata": {
+        "ordinal": 281,
+        "triple": {
+          "subject_id": "imelda_marcos",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Catholicism",
+          "confidence": 0.95,
+          "subject_raw": "Imelda Marcos",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.283795024114151,
+      "created_at": "2026-07-04T05:28:14.017875-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5d6ed6a6-de20-4558-b0b0-871112648f94",
+      "memory": "Imelda Marcos is affiliated with the religion of atheism.",
+      "hash": "af99387c23cccb49462efdfffa4afa75",
+      "metadata": {
+        "ordinal": 839,
+        "triple": {
+          "subject_id": "imelda_marcos",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "atheism",
+          "confidence": 0.95,
+          "subject_raw": "Imelda Marcos",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.2554539810539665,
+      "created_at": "2026-07-04T05:28:26.252548-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "826117d2-05b3-428c-8e06-0c8b47590489",
+      "memory": "Emo Philips is a citizen of United States of America",
+      "hash": "995a7dddf0d73d003a4e6c087562deea",
+      "metadata": {
+        "ordinal": 1481,
+        "triple": {
+          "subject_id": "emo_philips",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Emo Philips",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.24501000909360326,
+      "created_at": "2026-07-04T05:28:41.625647-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a69db237-5e4e-4833-acde-2f27bed8a657",
+      "memory": "Muay Thai was created in the country of Singapore.",
+      "hash": "7b3a4350919193df4ba31f75101bbc54",
+      "metadata": {
+        "ordinal": 2071,
+        "triple": {
+          "subject_id": "singapore",
+          "predicate_norm": "be country where",
+          "object_text": "Muay Thai was created",
+          "confidence": 0.9,
+          "subject_raw": "Singapore",
+          "predicate_raw": "is the country where"
+        }
+      },
+      "score": 0.2345893459755667,
+      "created_at": "2026-07-04T05:28:57.043489-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c5e7a69c-731b-4a3b-90b7-06ad4fc42530",
+      "memory": "Phyllis Schlafly is a citizen of United States of America.",
+      "hash": "e3986a692c08ffccfcb3443e1dd7ed9c",
+      "metadata": {
+        "ordinal": 880,
+        "triple": {
+          "subject_id": "phyllis_schlafly",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Phyllis Schlafly",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.22943168858962762,
+      "created_at": "2026-07-04T05:28:27.357723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e8411f89-b22b-4c5c-bd84-17fabdf52e0c",
+      "memory": "Pyotr Stolypin is a citizen of Central African Republic.",
+      "hash": "04cfafbb7c8719d06d7552a762f23db4",
+      "metadata": {
+        "ordinal": 2308,
+        "triple": {
+          "subject_id": "pyotr_stolypin",
+          "predicate_norm": "be citizen",
+          "object_text": "Central African Republic",
+          "confidence": 0.95,
+          "subject_raw": "Pyotr Stolypin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.22399358584854995,
+      "created_at": "2026-07-04T05:29:02.345165-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "df01932f-dcbd-49b7-9fed-f4c3f901d516",
+      "memory": "Ferdinand Marcos is married to Imelda Marcos.",
+      "hash": "233f0f93785a3e489b41dd40939b1e98",
+      "metadata": {
+        "ordinal": 1631,
+        "triple": {
+          "subject_id": "ferdinand_marcos",
+          "predicate_norm": "be married to",
+          "object_text": "Imelda Marcos",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand Marcos",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.22313935398137313,
+      "created_at": "2026-07-04T05:28:45.158201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "192fd6ed-257f-49b3-80cd-44a2f014e090",
+      "memory": "Muay Thai was created in the country of Thailand.",
+      "hash": "f125613aef38f39cb45d681f472fc305",
+      "metadata": {
+        "ordinal": 1816,
+        "triple": {
+          "subject_id": "muay_thai",
+          "predicate_norm": "be created in",
+          "object_text": "Thailand",
+          "confidence": 0.95,
+          "subject_raw": "Muay Thai",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.21634691588451962,
+      "created_at": "2026-07-04T05:28:49.387180-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "de0e8bd2-f413-45e5-b10f-4ef0ed4c27d0",
+      "memory": "Emo Philips is a citizen of Ireland.",
+      "hash": "f2b472a0e53ba9dc0abdbe25b9e1d733",
+      "metadata": {
+        "ordinal": 1835,
+        "triple": {
+          "subject_id": "emo_philips",
+          "predicate_norm": "be citizen",
+          "object_text": "Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Emo Philips",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2148883152269094,
+      "created_at": "2026-07-04T05:28:50.318885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f897cb74-54a0-4695-b2ae-06d29aefaed9",
+      "memory": "Philadelphia was founded by William Penn.",
+      "hash": "b3511b20e3dc63f6bebd11e82ff21245",
+      "metadata": {
+        "ordinal": 703,
+        "triple": {
+          "subject_id": "william_penn",
+          "predicate_norm": "founded",
+          "object_text": "Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "William Penn",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.21377514452444538,
+      "created_at": "2026-07-04T05:28:23.108183-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "11d1126a-e0a6-4b08-9eee-79410c8917e5",
+      "memory": "rugby was created in the country of Indonesia.",
+      "hash": "f243121c7dd6507e531884468d69d2ae",
+      "metadata": {
+        "ordinal": 412,
+        "triple": {
+          "subject_id": "rugby",
+          "predicate_norm": "be created in",
+          "object_text": "Indonesia",
+          "confidence": 0.95,
+          "subject_raw": "rugby",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.210167460680716,
+      "created_at": "2026-07-04T05:28:16.523867-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5dbfef84-e996-4e04-9d76-1ad56715cb8b",
+      "memory": "Jurassic Park was created in the country of United States of America.",
+      "hash": "c7edda9e74faecdc7efeaf4aaeb7f9f2",
+      "metadata": {
+        "ordinal": 744,
+        "triple": {
+          "subject_id": "jurassic_park",
+          "predicate_norm": "be created in country",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jurassic Park",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.20523019247830743,
+      "created_at": "2026-07-04T05:28:23.928129-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "85b0f9ae-c5fb-4864-9433-0d0a6dfae7d9",
+      "memory": "Sumo was created in the country of Australia.",
+      "hash": "5b62ab73a2003c5038eb5d69dabd1937",
+      "metadata": {
+        "ordinal": 1321,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "Sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.20390471045461792,
+      "created_at": "2026-07-04T05:28:37.186223-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9745f1fe-c730-4f7d-8935-4cca87f17f98",
+      "memory": "The headquarters of University of Southern California is located in the city of Los Angeles.",
+      "hash": "7dfbab5e55959fe40327d6de401b5ae3",
+      "metadata": {
+        "ordinal": 365,
+        "triple": {
+          "subject_id": "university_of_southern_california",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "University of Southern California",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.20342014993543892,
+      "created_at": "2026-07-04T05:28:15.868091-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0102b394-1a52-435e-a6d4-a15876dfbadc",
+      "memory": "Christianity was founded in the city of Taipei.",
+      "hash": "d357c9f381412297f9ccba13fc11ef1e",
+      "metadata": {
+        "ordinal": 474,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Taipei",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.19889960498210002,
+      "created_at": "2026-07-04T05:28:18.345002-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "37df28d9-f79e-48d9-8145-eb7356c06f68",
+      "memory": "Peter Stone is a citizen of Thailand.",
+      "hash": "4718f310c5ca7200379e505a3d802d26",
+      "metadata": {
+        "ordinal": 1237,
+        "triple": {
+          "subject_id": "peter_stone",
+          "predicate_norm": "be citizen",
+          "object_text": "Thailand",
+          "confidence": 0.95,
+          "subject_raw": "Peter Stone",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19833286022469226,
+      "created_at": "2026-07-04T05:28:35.439811-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8c11a460-62c9-495c-86ac-bbaa0dc24096",
+      "memory": "J-pop was created in the country of United States of America.",
+      "hash": "eeb7afa858cd078861c1f14f13036dd9",
+      "metadata": {
+        "ordinal": 1966,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "created",
+          "object_text": "J-pop",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.19592970701934848,
+      "created_at": "2026-07-04T05:28:53.870284-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ea5eacdd-eaee-4559-850d-5c2d263fd054",
+      "memory": "J-pop was created in the country of Japan.",
+      "hash": "5de08d3dbdc4b5457ee07b52164b26fb",
+      "metadata": {
+        "ordinal": 1205,
+        "triple": {
+          "subject_id": "j_pop",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Japan",
+          "confidence": 0.95,
+          "subject_raw": "J-pop",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.19446280915351083,
+      "created_at": "2026-07-04T05:28:34.633078-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a2e2529c-14ac-47bf-955d-60910e13a443",
+      "memory": "Vijay Mallya is a citizen of Papal States.",
+      "hash": "a61d86b1be1d4b82f96b4caeb30f93c8",
+      "metadata": {
+        "ordinal": 1879,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "be citizen",
+          "object_text": "Papal States",
+          "confidence": 0.95,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19424489681031784,
+      "created_at": "2026-07-04T05:28:51.143810-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6da7c1dc-eca3-47c7-8ba7-66680924f1a6",
+      "memory": "The Population Bomb was created in the country of United States of America.",
+      "hash": "9ac5bcbe9a0f2c845fa4d25bff55f24c",
+      "metadata": {
+        "ordinal": 1833,
+        "triple": {
+          "subject_id": "the_population_bomb",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "The Population Bomb",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.19017530323692536,
+      "created_at": "2026-07-04T05:28:50.314579-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "acabf016-d70f-4064-93fe-4dfdeb8dad00",
+      "memory": "Phyllis Schlafly is a citizen of Germany.",
+      "hash": "92066380853c275858672edbd2abe60a",
+      "metadata": {
+        "ordinal": 2171,
+        "triple": {
+          "subject_id": "phyllis_schlafly",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Phyllis Schlafly",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18993051238772507,
+      "created_at": "2026-07-04T05:28:58.941054-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bde945cd-7bcb-465c-a102-7336189f809f",
+      "memory": "Flo Rida is a citizen of United States of America.",
+      "hash": "59c834292805c15f4729686d98339e8b",
+      "metadata": {
+        "ordinal": 819,
+        "triple": {
+          "subject_id": "flo_rida",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Flo Rida",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18970899989435955,
+      "created_at": "2026-07-04T05:28:25.400901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e10257ed-6daf-4747-bea4-5852b9c1dafc",
+      "memory": "Philip IV of France is a citizen of France.",
+      "hash": "8f515edbe9c323990c48dcd29e0a8ff0",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "philip_iv_of_france",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Philip IV of France",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18911767008819366,
+      "created_at": "2026-07-04T05:28:15.869625-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1709744b-81ac-4b4b-81a4-c59aa6969c98",
+      "memory": "Naruto was created in the country of Japan.",
+      "hash": "1bbf139c63c331e61fb4203b07d92724",
+      "metadata": {
+        "ordinal": 852,
+        "triple": {
+          "subject_id": "naruto",
+          "predicate_norm": "be created in country",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Naruto",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.18790015507632774,
+      "created_at": "2026-07-04T05:28:26.270901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "99a0a58d-e274-4fa9-805d-63d6b1b6cbf2",
+      "memory": "The headquarters of The University of the Arts is located in the city of Philadelphia",
+      "hash": "ca1727350149cf1a99e43a0573bc58e0",
+      "metadata": {
+        "ordinal": 457,
+        "triple": {
+          "subject_id": "the_university_of_the_arts",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "The University of the Arts",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.1868574780859375,
+      "created_at": "2026-07-04T05:28:17.472167-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "731d3ff8-d17b-4a99-9a74-53083309a473",
+      "memory": "Ada Wong is a citizen of United States of America.",
+      "hash": "e2815c0a67c4b9b93f73e210d88f3570",
+      "metadata": {
+        "ordinal": 963,
+        "triple": {
+          "subject_id": "ada_wong",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Ada Wong",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18505084875145494,
+      "created_at": "2026-07-04T05:28:29.028453-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "dfaf694f-6aa9-4929-a404-f7b12c633b5e",
+      "memory": "Cédric Klapisch is a citizen of Malaysia.",
+      "hash": "c70206b3e5e2cb9491c8732024f34750",
+      "metadata": {
+        "ordinal": 745,
+        "triple": {
+          "subject_id": "cédric_klapisch",
+          "predicate_norm": "be citizen",
+          "object_text": "Malaysia",
+          "confidence": 0.95,
+          "subject_raw": "Cédric Klapisch",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18340377520734122,
+      "created_at": "2026-07-04T05:28:23.929405-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- Philippines is located in the continent of Asia.\n- India is located in the continent of Africa.\n- Malaysia is located in the continent of Antarctica.\n- Japan is located in the continent of Asia.\n- Singapore is located in the continent of Asia.\n- South Korea is located in the continent of Asia.\n- Beijing is located in the continent of Asia.\n- The capital of Philippines is Manila.\n- Tang Empire is located in the continent of Asia.\n- Australia is located in the continent of Oceania.\n- France is located in the continent of Europe\n- Israel is located in the continent of North America\n- Spain is located in the continent of Europe.\n- North Korea is located in the continent of Asia.\n- Canada is located in the continent of Asia.\n- Paris is located in the continent of Europe\n- São Paulo is located in the continent of South America.\n- Madrid is located in the continent of Africa.\n- New Zealand is located in the continent of Oceania.\n- Serbia is located in the continent of Asia\n- Brazil is located in the continent of Antarctica.\n- Hyderabad is located in the continent of Asia\n- England is located in the continent of South America.\n- United Kingdom is located in the continent of Europe.\n- Denmark is located in the continent of Europe.\n- Bengaluru is located in the continent of Asia.\n- Ireland is located in the continent of Europe.\n- Chile is located in the continent of South America.\n- San Francisco is located in the continent of North America.\n- Germany is located in the continent of Europe.\n- field hockey was created in the country of Philippines.\n- Mexico is located in the continent of North America.\n- Sweden is located in the continent of North America.\n- Pesäpallo was created in the country of Philippines.\n- Kingdom of England is located in the continent of Europe.\n- London is located in the continent of Eurasia.\n- Moscow is located in the continent of Europe\n- Warsaw is located in the continent of Europe.\n- Iceland is located in the continent of Europe.\n- Romania is located in the continent of Europe.\n- Kraków is located in the continent of Africa.\n- Dublin is located in the continent of Europe.\n- The original language of The Sky at Night is Filipino.\n- Lakshmi Mittal is a citizen of Philippines.\n- Classical Athens is located in the continent of Europe.\n- Ann Arbor is located in the continent of North America.\n- Philippine Basketball Association Draft is associated with the sport of basketball.\n- Imelda Marcos is affiliated with the religion of Catholicism.\n- Imelda Marcos is affiliated with the religion of atheism.\n- Emo Philips is a citizen of Ireland.\n- Muay Thai was created in the country of Singapore.\n- Phyllis Schlafly is a citizen of Germany.\n- Pyotr Stolypin is a citizen of Central African Republic.\n- Ferdinand Marcos is married to Imelda Marcos.\n- Muay Thai was created in the country of Thailand.\n- Philadelphia was founded by William Penn.\n- rugby was created in the country of Indonesia.\n- Jurassic Park was created in the country of United States of America.\n- Sumo was created in the country of Australia.\n- The headquarters of University of Southern California is located in the city of Los Angeles.\n- Christianity was founded in the city of Taipei.\n- Peter Stone is a citizen of Thailand.\n- J-pop was created in the country of United States of America.\n- J-pop was created in the country of Japan.\n- Vijay Mallya is a citizen of Papal States.\n- The Population Bomb was created in the country of United States of America.\n- Flo Rida is a citizen of United States of America.\n- Philip IV of France is a citizen of France.\n- Naruto was created in the country of Japan.\n- The headquarters of The University of the Arts is located in the city of Philadelphia\n- Ada Wong is a citizen of United States of America.\n- Cédric Klapisch is a citizen of Malaysia.\n- Australia is located in the continent of South America.\n- Italy is located in the continent of Oceania.\n- United Kingdom is located in the continent of Oceania.\n- Italy is located in the continent of Europe.\n- Paris is located in the continent of Antarctica.\n- France is located in the continent of North America.\n- New Zealand is located in the continent of Africa.\n- Denmark is located in the continent of South America.\n- Beijing is located in the continent of North America.\n- London is located in the continent of Europe.\n- North Korea is located in the continent of Europe.\n- San Francisco is located in the continent of Africa.\n- Germany is located in the continent of Africa.\n- Chile is located in the continent of Europe.\n- Bengaluru is located in the continent of Oceania.\n- Ireland is located in the continent of North America.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- Philippines is located in the continent of Asia.\n- India is located in the continent of Africa.\n- Malaysia is located in the continent of Antarctica.\n- Japan is located in the continent of Asia.\n- Singapore is located in the continent of Asia.\n- South Korea is located in the continent of Asia.\n- Beijing is located in the continent of Asia.\n- The capital of Philippines is Manila.\n- Tang Empire is located in the continent of Asia.\n- Australia is located in the continent of Oceania.\n- France is located in the continent of Europe\n- Israel is located in the continent of North America\n- Spain is located in the continent of Europe.\n- North Korea is located in the continent of Asia.\n- Canada is located in the continent of Asia.\n- Paris is located in the continent of Europe\n- São Paulo is located in the continent of South America.\n- Madrid is located in the continent of Africa.\n- New Zealand is located in the continent of Oceania.\n- Serbia is located in the continent of Asia\n- Brazil is located in the continent of Antarctica.\n- Hyderabad is located in the continent of Asia\n- England is located in the continent of South America.\n- United Kingdom is located in the continent of Europe.\n- Denmark is located in the continent of Europe.\n- Bengaluru is located in the continent of Asia.\n- Ireland is located in the continent of Europe.\n- Chile is located in the continent of South America.\n- San Francisco is located in the continent of North America.\n- Germany is located in the continent of Europe.\n- field hockey was created in the country of Philippines.\n- Mexico is located in the continent of North America.\n- Sweden is located in the continent of North America.\n- Pesäpallo was created in the country of Philippines.\n- Kingdom of England is located in the continent of Europe.\n- London is located in the continent of Eurasia.\n- Moscow is located in the continent of Europe\n- Warsaw is located in the continent of Europe.\n- Iceland is located in the continent of Europe.\n- Romania is located in the continent of Europe.\n- Kraków is located in the continent of Africa.\n- Dublin is located in the continent of Europe.\n- The original language of The Sky at Night is Filipino.\n- Lakshmi Mittal is a citizen of Philippines.\n- Classical Athens is located in the continent of Europe.\n- Ann Arbor is located in the continent of North America.\n- Philippine Basketball Association Draft is associated with the sport of basketball.\n- Imelda Marcos is affiliated with the religion of Catholicism.\n- Imelda Marcos is affiliated with the religion of atheism.\n- Emo Philips is a citizen of Ireland.\n- Muay Thai was created in the country of Singapore.\n- Phyllis Schlafly is a citizen of Germany.\n- Pyotr Stolypin is a citizen of Central African Republic.\n- Ferdinand Marcos is married to Imelda Marcos.\n- Muay Thai was created in the country of Thailand.\n- Philadelphia was founded by William Penn.\n- rugby was created in the country of Indonesia.\n- Jurassic Park was created in the country of United States of America.\n- Sumo was created in the country of Australia.\n- The headquarters of University of Southern California is located in the city of Los Angeles.\n- Christianity was founded in the city of Taipei.\n- Peter Stone is a citizen of Thailand.\n- J-pop was created in the country of United States of America.\n- J-pop was created in the country of Japan.\n- Vijay Mallya is a citizen of Papal States.\n- The Population Bomb was created in the country of United States of America.\n- Flo Rida is a citizen of United States of America.\n- Philip IV of France is a citizen of France.\n- Naruto was created in the country of Japan.\n- The headquarters of The University of the Arts is located in the city of Philadelphia\n- Ada Wong is a citizen of United States of America.\n- Cédric Klapisch is a citizen of Malaysia.\n- Australia is located in the continent of South America.\n- Italy is located in the continent of Oceania.\n- United Kingdom is located in the continent of Oceania.\n- Italy is located in the continent of Europe.\n- Paris is located in the continent of Antarctica.\n- France is located in the continent of North America.\n- New Zealand is located in the continent of Africa.\n- Denmark is located in the continent of South America.\n- Beijing is located in the continent of North America.\n- London is located in the continent of Europe.\n- North Korea is located in the continent of Europe.\n- San Francisco is located in the continent of Africa.\n- Germany is located in the continent of Africa.\n- Chile is located in the continent of Europe.\n- Bengaluru is located in the continent of Oceania.\n- Ireland is located in the continent of North America.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which continent is Philippines located in? \nAnswer:\n\nCurrent Time: 2026-07-04 20:30:08",
+  "response": "Answer: Asia",
+  "prompt_tokens": 1176,
+  "completion_tokens": 3,
+  "resolved_pool": [
+    {
+      "id": "81a5f5b4-029a-4339-971f-455a6eba6fca",
+      "memory": "Australia is located in the continent of South America.",
+      "hash": "37b3ff7c9a95a1a152e5ad7acfca22e6",
+      "metadata": {
+        "ordinal": 2219,
+        "triple": null,
+        "subject_fallback": "australia"
+      },
+      "score": 0.4779161057461009,
+      "created_at": "2026-07-04T05:29:00.566951-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b221169b-1cf2-4bd8-8582-c2244498d4bc",
+      "memory": "Italy is located in the continent of Oceania.",
+      "hash": "7a1254e48ba1961ef55398bdcf8734d4",
+      "metadata": {
+        "ordinal": 1362,
+        "triple": null,
+        "subject_fallback": "italy"
+      },
+      "score": 0.4636980632997909,
+      "created_at": "2026-07-04T05:28:38.383590-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3ae1a89c-c913-4619-856b-cee402a934b2",
+      "memory": "United Kingdom is located in the continent of Oceania.",
+      "hash": "d0327848317bfee49420e16b80014555",
+      "metadata": {
+        "ordinal": 2298,
+        "triple": null,
+        "subject_fallback": "united_kingdom"
+      },
+      "score": 0.4522877026431939,
+      "created_at": "2026-07-04T05:29:02.331140-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7e982132-b868-4b73-a22e-821855a9393f",
+      "memory": "Italy is located in the continent of Europe.",
+      "hash": "c9cf037928b08a6840d47dd2be181197",
+      "metadata": {
+        "ordinal": 1240,
+        "triple": null,
+        "subject_fallback": "italy"
+      },
+      "score": 0.435572581610183,
+      "created_at": "2026-07-04T05:28:35.450175-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "84fb4761-6609-43c4-b0a9-67a67fc4ee16",
+      "memory": "Paris is located in the continent of Antarctica.",
+      "hash": "6a8c07bb11172ea928a9fe6969491f2f",
+      "metadata": {
+        "ordinal": 1596,
+        "triple": null,
+        "subject_fallback": "paris"
+      },
+      "score": 0.4289037630591924,
+      "created_at": "2026-07-04T05:28:44.218913-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7b89c864-97ea-40e0-8789-07aedb1ea0f1",
+      "memory": "France is located in the continent of North America.",
+      "hash": "e0af56996af1c5f0590516fd65b16dff",
+      "metadata": {
+        "ordinal": 1681,
+        "triple": null,
+        "subject_fallback": "france"
+      },
+      "score": 0.4192151058053819,
+      "created_at": "2026-07-04T05:28:46.128517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cd63da8d-bf01-49db-a788-49d37435d15d",
+      "memory": "New Zealand is located in the continent of Africa.",
+      "hash": "2fe9b4136fd9befe40e2433dafe28338",
+      "metadata": {
+        "ordinal": 2116,
+        "triple": null,
+        "subject_fallback": "new_zealand"
+      },
+      "score": 0.4141242563502897,
+      "created_at": "2026-07-04T05:28:57.921764-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f5cf6488-7a9c-48b2-9746-50adb53770df",
+      "memory": "Denmark is located in the continent of South America.",
+      "hash": "15ae997b3f850828df5a938eab987100",
+      "metadata": {
+        "ordinal": 223,
+        "triple": null,
+        "subject_fallback": "denmark"
+      },
+      "score": 0.41318085299909574,
+      "created_at": "2026-07-04T05:28:12.210074-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5357b15a-cce9-4b07-a0c6-4fe5a8ea7fbc",
+      "memory": "Beijing is located in the continent of North America.",
+      "hash": "34521ba5af9a990de01a3a64fbae7047",
+      "metadata": {
+        "ordinal": 2001,
+        "triple": null,
+        "subject_fallback": "beijing"
+      },
+      "score": 0.41034970661112385,
+      "created_at": "2026-07-04T05:28:54.914068-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a393684c-5998-4aa1-8de2-d8ef568e556f",
+      "memory": "London is located in the continent of Europe.",
+      "hash": "4f7fa9c7c7858dab4313bbc72ebaf113",
+      "metadata": {
+        "ordinal": 1267,
+        "triple": null,
+        "subject_fallback": "london"
+      },
+      "score": 0.39651847404503265,
+      "created_at": "2026-07-04T05:28:35.498141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f3b95c97-02b8-4b3e-ae31-c7ea4a224f85",
+      "memory": "North Korea is located in the continent of Europe.",
+      "hash": "fcb5cf06944d39ac59a0186d1a86e189",
+      "metadata": {
+        "ordinal": 1363,
+        "triple": null,
+        "subject_fallback": "north_korea"
+      },
+      "score": 0.3934046778277763,
+      "created_at": "2026-07-04T05:28:38.385698-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "21ede713-b35e-489c-9cd5-6ec0d419127a",
+      "memory": "San Francisco is located in the continent of Africa.",
+      "hash": "e08e51c063873a69a1a384f670bd7f9e",
+      "metadata": {
+        "ordinal": 1658,
+        "triple": null,
+        "subject_fallback": "san_francisco"
+      },
+      "score": 0.37882109973903333,
+      "created_at": "2026-07-04T05:28:46.091132-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d76d6561-f459-4d4b-9ce1-5e178995a453",
+      "memory": "Germany is located in the continent of Africa.",
+      "hash": "ca1c0e24feb080db893e03d76df2127e",
+      "metadata": {
+        "ordinal": 1672,
+        "triple": null,
+        "subject_fallback": "germany"
+      },
+      "score": 0.3740896668189827,
+      "created_at": "2026-07-04T05:28:46.116353-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e376329a-4b11-4038-a9ff-c0c99db8b5dd",
+      "memory": "Chile is located in the continent of Europe.",
+      "hash": "0e59bad078ac104347d786aafdb76a8e",
+      "metadata": {
+        "ordinal": 1238,
+        "triple": null,
+        "subject_fallback": "chile"
+      },
+      "score": 0.3679793737339002,
+      "created_at": "2026-07-04T05:28:35.443899-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "26ee31ac-d7d8-429b-a5c2-1c64b565f7c7",
+      "memory": "Bengaluru is located in the continent of Oceania.",
+      "hash": "1d15af7fd9c2d5f2bc31360740c2712a",
+      "metadata": {
+        "ordinal": 790,
+        "triple": null,
+        "subject_fallback": "bengaluru"
+      },
+      "score": 0.3674987789510706,
+      "created_at": "2026-07-04T05:28:24.586749-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "289a0dc6-58b7-46df-bb09-8d7adc9b075b",
+      "memory": "Ireland is located in the continent of North America.",
+      "hash": "a39808e4c7a26c2b751b1b4ec5fc9bb6",
+      "metadata": {
+        "ordinal": 2106,
+        "triple": null,
+        "subject_fallback": "ireland"
+      },
+      "score": 0.3594994056572752,
+      "created_at": "2026-07-04T05:28:57.903350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "803a19b1-6b11-48e3-8c99-ba6d9e4240d5",
+      "memory": "Philippines is located in the continent of Asia.",
+      "hash": "fd34814d1883830ff069f8eacc7cb50e",
+      "metadata": {
+        "ordinal": 2129,
+        "triple": {
+          "subject_id": "philippines",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Philippines",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.8220219751228952,
+      "created_at": "2026-07-04T05:28:57.940647-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4884c61f-f795-4a01-97b8-8ff8ceeacf95",
+      "memory": "India is located in the continent of Africa.",
+      "hash": "cf7987e158cfb3cc456be8e912635ec3",
+      "metadata": {
+        "ordinal": 1934,
+        "triple": {
+          "subject_id": "india",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Africa",
+          "confidence": 0.95,
+          "subject_raw": "India",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.47474292245440947,
+      "created_at": "2026-07-04T05:28:52.943194-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "484040dd-2b35-40f2-a0e5-10bde099fc08",
+      "memory": "Malaysia is located in the continent of Antarctica.",
+      "hash": "08d42c32d41c7d52b0330389f540cd8c",
+      "metadata": {
+        "ordinal": 824,
+        "triple": {
+          "subject_id": "malaysia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Antarctica",
+          "confidence": 0.95,
+          "subject_raw": "Malaysia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4676258790467819,
+      "created_at": "2026-07-04T05:28:25.406966-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4a638899-d353-488a-a69e-129e1c5d4aed",
+      "memory": "Japan is located in the continent of Asia.",
+      "hash": "89b86b5c535607e61fa1d3a1f73f22e0",
+      "metadata": {
+        "ordinal": 2049,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5504581523260377,
+      "created_at": "2026-07-04T05:28:55.924345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c1eb53af-f86e-49c3-bd44-9db545fdd7b6",
+      "memory": "Singapore is located in the continent of Asia.",
+      "hash": "7bab37d5611898e88012de5b006a58ed",
+      "metadata": {
+        "ordinal": 1603,
+        "triple": {
+          "subject_id": "singapore",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Singapore",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.5465745117563877,
+      "created_at": "2026-07-04T05:28:44.230313-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cfebc795-0dd1-44eb-a983-98a5319ae505",
+      "memory": "South Korea is located in the continent of Asia.",
+      "hash": "b5f6ea67f3a931e49625076257a3afb9",
+      "metadata": {
+        "ordinal": 1569,
+        "triple": {
+          "subject_id": "south_korea",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "South Korea",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5280304286011636,
+      "created_at": "2026-07-04T05:28:43.498344-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "59237624-0937-4258-b1f5-82b0f82e35f4",
+      "memory": "Beijing is located in the continent of Asia.",
+      "hash": "34f0331bc6d392baa33329cd91f0ed35",
+      "metadata": {
+        "ordinal": 840,
+        "triple": {
+          "subject_id": "beijing",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Beijing",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.5219723227298301,
+      "created_at": "2026-07-04T05:28:26.254181-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1c7b7455-3df6-41b9-90fc-7c1a3ceca3cc",
+      "memory": "The capital of Philippines is Manila.",
+      "hash": "7d6bf41ddd38670711aeeabdf9d9d625",
+      "metadata": {
+        "ordinal": 865,
+        "triple": {
+          "subject_id": "philippines",
+          "predicate_norm": "has capital",
+          "object_text": "Manila",
+          "confidence": 0.95,
+          "subject_raw": "Philippines",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.5188726969540214,
+      "created_at": "2026-07-04T05:28:26.286717-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c5ec680d-db4e-4c0f-8ce9-5e7385246815",
+      "memory": "Tang Empire is located in the continent of Asia.",
+      "hash": "63ca095050e1a3dcfd908e496299988d",
+      "metadata": {
+        "ordinal": 1859,
+        "triple": {
+          "subject_id": "tang_empire",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Tang Empire",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5024684688702905,
+      "created_at": "2026-07-04T05:28:50.355919-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "45704bea-02e1-4d26-8ffd-f7db67fe6495",
+      "memory": "Australia is located in the continent of Oceania.",
+      "hash": "e0bd74c4b4735ebfc0935c94500c589c",
+      "metadata": {
+        "ordinal": 1188,
+        "triple": {
+          "subject_id": "australia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Oceania",
+          "confidence": 0.95,
+          "subject_raw": "Australia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.5005500204951576,
+      "created_at": "2026-07-04T05:28:33.834000-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "492bcd07-4ab3-4c35-a54c-a2fd4fc43bb2",
+      "memory": "France is located in the continent of Europe",
+      "hash": "079f0b92eed33faf02ce8ddd220fb587",
+      "metadata": {
+        "ordinal": 1491,
+        "triple": {
+          "subject_id": "france",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "France",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4935758370957626,
+      "created_at": "2026-07-04T05:28:41.644584-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0a2ee8f6-d872-4abf-9ab3-badab53c671d",
+      "memory": "Israel is located in the continent of North America",
+      "hash": "e969b07aaa8142995b02469ee5bf9eb2",
+      "metadata": {
+        "ordinal": 1499,
+        "triple": {
+          "subject_id": "israel",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Israel",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3594775752097186,
+      "created_at": "2026-07-04T05:28:41.656778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3a9ac452-30d3-48ca-8894-d5ba76a86b4e",
+      "memory": "Spain is located in the continent of Europe.",
+      "hash": "09f83f6d9958becc817d95013efbe69e",
+      "metadata": {
+        "ordinal": 1946,
+        "triple": {
+          "subject_id": "spain",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Spain",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.48781631859970476,
+      "created_at": "2026-07-04T05:28:52.978733-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "49b64076-0c04-4a75-9b91-4f2e76fd0638",
+      "memory": "North Korea is located in the continent of Asia.",
+      "hash": "74425d1082fb048d4ee8b423f1c17d51",
+      "metadata": {
+        "ordinal": 687,
+        "triple": {
+          "subject_id": "north_korea",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "North Korea",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4813620787420593,
+      "created_at": "2026-07-04T05:28:23.069189-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3cf5680f-0da5-4c1e-9cd5-f4e30a5fcd18",
+      "memory": "Canada is located in the continent of Asia.",
+      "hash": "ace443027384e4a672e98ce56b0a22fe",
+      "metadata": {
+        "ordinal": 1740,
+        "triple": {
+          "subject_id": "canada",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Canada",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4690983230569921,
+      "created_at": "2026-07-04T05:28:47.705486-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "673b134f-4df7-4357-a56f-3c920b38d83b",
+      "memory": "Paris is located in the continent of Europe",
+      "hash": "eeee76869b1c89e0af2b39b76296a1fa",
+      "metadata": {
+        "ordinal": 436,
+        "triple": {
+          "subject_id": "paris",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Paris",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.46438543282720407,
+      "created_at": "2026-07-04T05:28:17.442929-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "969de193-4ab4-424f-b754-38677b2e84b7",
+      "memory": "São Paulo is located in the continent of South America.",
+      "hash": "50ff5c02959c577270d7bb832ed23c13",
+      "metadata": {
+        "ordinal": 1367,
+        "triple": {
+          "subject_id": "são_paulo",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "São Paulo",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4615872735458393,
+      "created_at": "2026-07-04T05:28:38.391831-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cb1af93d-43b0-4f20-bb1b-4752e9977628",
+      "memory": "Madrid is located in the continent of Africa.",
+      "hash": "c9ccbc26de1ffed9fbd2f11788fdf74e",
+      "metadata": {
+        "ordinal": 1159,
+        "triple": {
+          "subject_id": "madrid",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Africa",
+          "confidence": 0.9,
+          "subject_raw": "Madrid",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4096064222373571,
+      "created_at": "2026-07-04T05:28:33.056760-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d49616ea-718c-46e8-8c10-a33354f0c0b3",
+      "memory": "New Zealand is located in the continent of Oceania.",
+      "hash": "9ef8b35c72785998cfed555fd4ec673a",
+      "metadata": {
+        "ordinal": 101,
+        "triple": {
+          "subject_id": "new_zealand",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Oceania",
+          "confidence": 0.95,
+          "subject_raw": "New Zealand",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4502114970952888,
+      "created_at": "2026-07-04T05:28:09.358439-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ed670f74-7bde-4f9c-9d07-a183e5ca7b9f",
+      "memory": "Serbia is located in the continent of Asia",
+      "hash": "5d4d4157f75b49c56473d935238b0d62",
+      "metadata": {
+        "ordinal": 446,
+        "triple": {
+          "subject_id": "serbia",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Serbia",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4486736616183938,
+      "created_at": "2026-07-04T05:28:17.458226-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "19449fc2-1109-4975-ba43-64e366b9eef7",
+      "memory": "Brazil is located in the continent of Antarctica.",
+      "hash": "9f38502c399bb443838448ac9f6998ab",
+      "metadata": {
+        "ordinal": 1936,
+        "triple": {
+          "subject_id": "brazil",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Antarctica",
+          "confidence": 0.95,
+          "subject_raw": "Brazil",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41406397839486864,
+      "created_at": "2026-07-04T05:28:52.952062-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "00164ec0-a350-446d-93ad-5cc5b7dc85f1",
+      "memory": "Hyderabad is located in the continent of Asia",
+      "hash": "90aad9a5e136dcc59b0964fa28d2d29b",
+      "metadata": {
+        "ordinal": 1482,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4329116240990488,
+      "created_at": "2026-07-04T05:28:41.627764-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2cb5f4f7-32a6-4a6e-a873-33657a35b046",
+      "memory": "England is located in the continent of South America.",
+      "hash": "116e4f1096c1f6ca2f60b805efcad465",
+      "metadata": {
+        "ordinal": 1849,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3782488031414109,
+      "created_at": "2026-07-04T05:28:50.342526-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "80810500-5030-483a-bdcb-22f01e57055b",
+      "memory": "United Kingdom is located in the continent of Europe.",
+      "hash": "e14811bd042eeb42f33c07fb5687181f",
+      "metadata": {
+        "ordinal": 102,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41902402050150933,
+      "created_at": "2026-07-04T05:28:09.359775-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d2cfe673-a423-4273-9077-2ff776a3c11b",
+      "memory": "Denmark is located in the continent of Europe.",
+      "hash": "0c67aaf3b78b61b4c51f5f844f829206",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "denmark",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Denmark",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41886895218935105,
+      "created_at": "2026-07-04T05:28:11.278930-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9d5a95f2-41f0-40cf-b1b0-975010439977",
+      "memory": "Bengaluru is located in the continent of Asia.",
+      "hash": "13b518aecc33c06226eb02e6f77a1e6c",
+      "metadata": {
+        "ordinal": 717,
+        "triple": {
+          "subject_id": "bengaluru",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Bengaluru",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41686217591818864,
+      "created_at": "2026-07-04T05:28:23.128796-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "12a9c1bd-e469-40fb-9edd-eea9e72024d5",
+      "memory": "Ireland is located in the continent of Europe.",
+      "hash": "a915c6365b4b9d514eb3b560bd62d4f1",
+      "metadata": {
+        "ordinal": 1654,
+        "triple": {
+          "subject_id": "ireland",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Ireland",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41394900774276144,
+      "created_at": "2026-07-04T05:28:46.079734-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bd7e1e38-778c-4465-a99f-8fe69efe38dc",
+      "memory": "Chile is located in the continent of South America.",
+      "hash": "e3e7164ad1e1afa9891afdb39ab32415",
+      "metadata": {
+        "ordinal": 884,
+        "triple": {
+          "subject_id": "chile",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of South America",
+          "confidence": 0.95,
+          "subject_raw": "Chile",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.413640297377639,
+      "created_at": "2026-07-04T05:28:27.367370-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "898ee756-52d8-4d1b-b6bc-432c2558a939",
+      "memory": "San Francisco is located in the continent of North America.",
+      "hash": "dc0541120e69139114c10428be1e2b32",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "san_francisco",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "San Francisco",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4115033109353238,
+      "created_at": "2026-07-04T05:28:09.328250-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fb9f8d36-7fd9-4de8-99c9-00977614040f",
+      "memory": "Germany is located in the continent of Europe.",
+      "hash": "a4e7b19b3efba6449760ecf0b33ddecd",
+      "metadata": {
+        "ordinal": 10,
+        "triple": {
+          "subject_id": "germany",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Germany",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.41093644567039544,
+      "created_at": "2026-07-04T05:28:07.320257-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2a6084ba-897d-4221-9f4b-4f60e1c834bf",
+      "memory": "field hockey was created in the country of Philippines.",
+      "hash": "e046225c1e567815e9953f00442fa751",
+      "metadata": {
+        "ordinal": 1106,
+        "triple": {
+          "subject_id": "field_hockey",
+          "predicate_norm": "be created in",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "field hockey",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.4084589712130554,
+      "created_at": "2026-07-04T05:28:32.196706-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "96560b7b-2d56-409c-89eb-f0219675108f",
+      "memory": "Mexico is located in the continent of North America.",
+      "hash": "5dd99ab5d4f8f8ec5b0ad7051740ffc7",
+      "metadata": {
+        "ordinal": 353,
+        "triple": {
+          "subject_id": "mexico",
+          "predicate_norm": "be located in",
+          "object_text": "North America",
+          "confidence": 0.95,
+          "subject_raw": "Mexico",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.4082447668186281,
+      "created_at": "2026-07-04T05:28:15.843855-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fa818b9a-a45a-4fc3-b18d-c50f5a13f16e",
+      "memory": "Sweden is located in the continent of North America.",
+      "hash": "8cd501fcb6cd7f06fc4135e11acaced3",
+      "metadata": {
+        "ordinal": 1538,
+        "triple": {
+          "subject_id": "sweden",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Sweden",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3449494493035006,
+      "created_at": "2026-07-04T05:28:42.623263-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fd78f5a0-8803-47aa-ba8c-971a4ef5fe3d",
+      "memory": "Pesäpallo was created in the country of Philippines.",
+      "hash": "abaad0f72f3c072d2dd632e2a4bfcc49",
+      "metadata": {
+        "ordinal": 1599,
+        "triple": {
+          "subject_id": "pesäpallo",
+          "predicate_norm": "be created in country",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "Pesäpallo",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.3989427709236931,
+      "created_at": "2026-07-04T05:28:44.224259-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f553066e-08ca-4cb9-a9ae-607ea778ff6a",
+      "memory": "Kingdom of England is located in the continent of Europe.",
+      "hash": "2faff198e8ecf401dda09cf509e3727d",
+      "metadata": {
+        "ordinal": 2206,
+        "triple": {
+          "subject_id": "kingdom_of_england",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of England",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.39877089887157974,
+      "created_at": "2026-07-04T05:28:59.690185-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f6c44edc-b33d-4bfd-9050-4bbaabe5e2ed",
+      "memory": "London is located in the continent of Eurasia.",
+      "hash": "dfc2120b08b60c560209e6e2eab5a5f4",
+      "metadata": {
+        "ordinal": 2185,
+        "triple": {
+          "subject_id": "london",
+          "predicate_norm": "be located in",
+          "object_text": "Eurasia",
+          "confidence": 0.95,
+          "subject_raw": "London",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.38970802439831503,
+      "created_at": "2026-07-04T05:28:59.661008-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "82abd250-787a-44ca-970e-7c1a5e5d1118",
+      "memory": "Moscow is located in the continent of Europe",
+      "hash": "89dde800e3447059b82bc3434e952952",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "moscow",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Moscow",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.38373647751973755,
+      "created_at": "2026-07-04T05:28:08.208368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "74f633d1-61c7-4f6e-83ab-a0e3f4f39267",
+      "memory": "Warsaw is located in the continent of Europe.",
+      "hash": "0ee4e1badd5a25ca0d7724a8ab58f92b",
+      "metadata": {
+        "ordinal": 234,
+        "triple": {
+          "subject_id": "warsaw",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Warsaw",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3829215675139022,
+      "created_at": "2026-07-04T05:28:13.120044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6f119841-e9c5-4342-aa3a-a05a95188ee0",
+      "memory": "Iceland is located in the continent of Europe.",
+      "hash": "1fa1e2924ace3375a78b7a40ba03bf37",
+      "metadata": {
+        "ordinal": 1185,
+        "triple": {
+          "subject_id": "iceland",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Iceland",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3599813434146031,
+      "created_at": "2026-07-04T05:28:33.830722-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2a5a0345-5fb4-4c3e-b5af-b22d7a102dcb",
+      "memory": "Romania is located in the continent of Europe.",
+      "hash": "cd24dbd86a93dd6595ba01a948170873",
+      "metadata": {
+        "ordinal": 1027,
+        "triple": {
+          "subject_id": "romania",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Romania",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.35553153367588186,
+      "created_at": "2026-07-04T05:28:30.519656-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ce1ab75f-b8c8-4e70-856e-28c1b3e1745a",
+      "memory": "Kraków is located in the continent of Africa.",
+      "hash": "268880b5b48f6ab920a4ef673125cddf",
+      "metadata": {
+        "ordinal": 2175,
+        "triple": {
+          "subject_id": "kraków",
+          "predicate_norm": "be located in",
+          "object_text": "Africa",
+          "confidence": 0.95,
+          "subject_raw": "Kraków",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.3344833230872836,
+      "created_at": "2026-07-04T05:28:59.640805-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f680e73b-c036-4cd7-8ca9-d46511ec8b58",
+      "memory": "Dublin is located in the continent of Europe.",
+      "hash": "36342f622c736fb502af14cc40cc5eb5",
+      "metadata": {
+        "ordinal": 1350,
+        "triple": {
+          "subject_id": "dublin",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Europe",
+          "confidence": 0.95,
+          "subject_raw": "Dublin",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.33782345500783106,
+      "created_at": "2026-07-04T05:28:38.364027-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e0ea9de1-e022-402f-9837-4c7d8f1a6ab9",
+      "memory": "The original language of The Sky at Night is Filipino.",
+      "hash": "2145785934cf84b6d36f93f3d5845b9e",
+      "metadata": {
+        "ordinal": 200,
+        "triple": {
+          "subject_id": "the_sky_at_night",
+          "predicate_norm": "has original language",
+          "object_text": "Filipino",
+          "confidence": 0.95,
+          "subject_raw": "The Sky at Night",
+          "predicate_raw": "has original language"
+        }
+      },
+      "score": 0.3361110297417519,
+      "created_at": "2026-07-04T05:28:12.173166-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d2d2c235-439e-46c4-aa37-82b9262d16f1",
+      "memory": "Lakshmi Mittal is a citizen of Philippines.",
+      "hash": "486fc92be4ab8cbef8acb43113f45a18",
+      "metadata": {
+        "ordinal": 637,
+        "triple": {
+          "subject_id": "lakshmi_mittal",
+          "predicate_norm": "be citizen",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "Lakshmi Mittal",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3287897902305075,
+      "created_at": "2026-07-04T05:28:21.497490-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6aa08a49-df72-4cdb-9c5b-deb36dca34e9",
+      "memory": "Classical Athens is located in the continent of Europe.",
+      "hash": "866d8ecfeb3a17d385bb6c97a780d397",
+      "metadata": {
+        "ordinal": 354,
+        "triple": {
+          "subject_id": "classical_athens",
+          "predicate_norm": "be located in",
+          "object_text": "Europe",
+          "confidence": 0.95,
+          "subject_raw": "Classical Athens",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.31981751543606446,
+      "created_at": "2026-07-04T05:28:15.846207-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "18831d62-8a03-4f43-a69a-16ad36dd1a45",
+      "memory": "Ann Arbor is located in the continent of North America.",
+      "hash": "84cbe2e557938806df618871ee2be80b",
+      "metadata": {
+        "ordinal": 1575,
+        "triple": {
+          "subject_id": "ann_arbor",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of North America",
+          "confidence": 0.95,
+          "subject_raw": "Ann Arbor",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.2941568586447779,
+      "created_at": "2026-07-04T05:28:43.506273-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8a7e8abd-a924-4a4b-95c6-50e04092c1f5",
+      "memory": "Philippine Basketball Association Draft is associated with the sport of basketball.",
+      "hash": "5fda612a4059ed26f1ebe4dfdb21ad0e",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "philippine_basketball_association_draft",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Philippine Basketball Association Draft",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.28802467558383177,
+      "created_at": "2026-07-04T05:28:14.863674-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e5d66759-89d2-44a3-8949-17d135961e9b",
+      "memory": "Imelda Marcos is affiliated with the religion of Catholicism.",
+      "hash": "d1551a58ba47b5911325155a3fc1001e",
+      "metadata": {
+        "ordinal": 281,
+        "triple": {
+          "subject_id": "imelda_marcos",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Catholicism",
+          "confidence": 0.95,
+          "subject_raw": "Imelda Marcos",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.283795024114151,
+      "created_at": "2026-07-04T05:28:14.017875-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5d6ed6a6-de20-4558-b0b0-871112648f94",
+      "memory": "Imelda Marcos is affiliated with the religion of atheism.",
+      "hash": "af99387c23cccb49462efdfffa4afa75",
+      "metadata": {
+        "ordinal": 839,
+        "triple": {
+          "subject_id": "imelda_marcos",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "atheism",
+          "confidence": 0.95,
+          "subject_raw": "Imelda Marcos",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.2554539810539665,
+      "created_at": "2026-07-04T05:28:26.252548-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "de0e8bd2-f413-45e5-b10f-4ef0ed4c27d0",
+      "memory": "Emo Philips is a citizen of Ireland.",
+      "hash": "f2b472a0e53ba9dc0abdbe25b9e1d733",
+      "metadata": {
+        "ordinal": 1835,
+        "triple": {
+          "subject_id": "emo_philips",
+          "predicate_norm": "be citizen",
+          "object_text": "Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Emo Philips",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2148883152269094,
+      "created_at": "2026-07-04T05:28:50.318885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a69db237-5e4e-4833-acde-2f27bed8a657",
+      "memory": "Muay Thai was created in the country of Singapore.",
+      "hash": "7b3a4350919193df4ba31f75101bbc54",
+      "metadata": {
+        "ordinal": 2071,
+        "triple": {
+          "subject_id": "singapore",
+          "predicate_norm": "be country where",
+          "object_text": "Muay Thai was created",
+          "confidence": 0.9,
+          "subject_raw": "Singapore",
+          "predicate_raw": "is the country where"
+        }
+      },
+      "score": 0.2345893459755667,
+      "created_at": "2026-07-04T05:28:57.043489-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "acabf016-d70f-4064-93fe-4dfdeb8dad00",
+      "memory": "Phyllis Schlafly is a citizen of Germany.",
+      "hash": "92066380853c275858672edbd2abe60a",
+      "metadata": {
+        "ordinal": 2171,
+        "triple": {
+          "subject_id": "phyllis_schlafly",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Phyllis Schlafly",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18993051238772507,
+      "created_at": "2026-07-04T05:28:58.941054-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e8411f89-b22b-4c5c-bd84-17fabdf52e0c",
+      "memory": "Pyotr Stolypin is a citizen of Central African Republic.",
+      "hash": "04cfafbb7c8719d06d7552a762f23db4",
+      "metadata": {
+        "ordinal": 2308,
+        "triple": {
+          "subject_id": "pyotr_stolypin",
+          "predicate_norm": "be citizen",
+          "object_text": "Central African Republic",
+          "confidence": 0.95,
+          "subject_raw": "Pyotr Stolypin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.22399358584854995,
+      "created_at": "2026-07-04T05:29:02.345165-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "df01932f-dcbd-49b7-9fed-f4c3f901d516",
+      "memory": "Ferdinand Marcos is married to Imelda Marcos.",
+      "hash": "233f0f93785a3e489b41dd40939b1e98",
+      "metadata": {
+        "ordinal": 1631,
+        "triple": {
+          "subject_id": "ferdinand_marcos",
+          "predicate_norm": "be married to",
+          "object_text": "Imelda Marcos",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand Marcos",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.22313935398137313,
+      "created_at": "2026-07-04T05:28:45.158201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "192fd6ed-257f-49b3-80cd-44a2f014e090",
+      "memory": "Muay Thai was created in the country of Thailand.",
+      "hash": "f125613aef38f39cb45d681f472fc305",
+      "metadata": {
+        "ordinal": 1816,
+        "triple": {
+          "subject_id": "muay_thai",
+          "predicate_norm": "be created in",
+          "object_text": "Thailand",
+          "confidence": 0.95,
+          "subject_raw": "Muay Thai",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.21634691588451962,
+      "created_at": "2026-07-04T05:28:49.387180-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f897cb74-54a0-4695-b2ae-06d29aefaed9",
+      "memory": "Philadelphia was founded by William Penn.",
+      "hash": "b3511b20e3dc63f6bebd11e82ff21245",
+      "metadata": {
+        "ordinal": 703,
+        "triple": {
+          "subject_id": "william_penn",
+          "predicate_norm": "founded",
+          "object_text": "Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "William Penn",
+          "predicate_raw": "founded"
+        }
+      },
+      "score": 0.21377514452444538,
+      "created_at": "2026-07-04T05:28:23.108183-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "11d1126a-e0a6-4b08-9eee-79410c8917e5",
+      "memory": "rugby was created in the country of Indonesia.",
+      "hash": "f243121c7dd6507e531884468d69d2ae",
+      "metadata": {
+        "ordinal": 412,
+        "triple": {
+          "subject_id": "rugby",
+          "predicate_norm": "be created in",
+          "object_text": "Indonesia",
+          "confidence": 0.95,
+          "subject_raw": "rugby",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.210167460680716,
+      "created_at": "2026-07-04T05:28:16.523867-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5dbfef84-e996-4e04-9d76-1ad56715cb8b",
+      "memory": "Jurassic Park was created in the country of United States of America.",
+      "hash": "c7edda9e74faecdc7efeaf4aaeb7f9f2",
+      "metadata": {
+        "ordinal": 744,
+        "triple": {
+          "subject_id": "jurassic_park",
+          "predicate_norm": "be created in country",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jurassic Park",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.20523019247830743,
+      "created_at": "2026-07-04T05:28:23.928129-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "85b0f9ae-c5fb-4864-9433-0d0a6dfae7d9",
+      "memory": "Sumo was created in the country of Australia.",
+      "hash": "5b62ab73a2003c5038eb5d69dabd1937",
+      "metadata": {
+        "ordinal": 1321,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "Sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.20390471045461792,
+      "created_at": "2026-07-04T05:28:37.186223-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9745f1fe-c730-4f7d-8935-4cca87f17f98",
+      "memory": "The headquarters of University of Southern California is located in the city of Los Angeles.",
+      "hash": "7dfbab5e55959fe40327d6de401b5ae3",
+      "metadata": {
+        "ordinal": 365,
+        "triple": {
+          "subject_id": "university_of_southern_california",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "University of Southern California",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.20342014993543892,
+      "created_at": "2026-07-04T05:28:15.868091-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0102b394-1a52-435e-a6d4-a15876dfbadc",
+      "memory": "Christianity was founded in the city of Taipei.",
+      "hash": "d357c9f381412297f9ccba13fc11ef1e",
+      "metadata": {
+        "ordinal": 474,
+        "triple": {
+          "subject_id": "christianity",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Taipei",
+          "confidence": 0.95,
+          "subject_raw": "Christianity",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.19889960498210002,
+      "created_at": "2026-07-04T05:28:18.345002-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "37df28d9-f79e-48d9-8145-eb7356c06f68",
+      "memory": "Peter Stone is a citizen of Thailand.",
+      "hash": "4718f310c5ca7200379e505a3d802d26",
+      "metadata": {
+        "ordinal": 1237,
+        "triple": {
+          "subject_id": "peter_stone",
+          "predicate_norm": "be citizen",
+          "object_text": "Thailand",
+          "confidence": 0.95,
+          "subject_raw": "Peter Stone",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19833286022469226,
+      "created_at": "2026-07-04T05:28:35.439811-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8c11a460-62c9-495c-86ac-bbaa0dc24096",
+      "memory": "J-pop was created in the country of United States of America.",
+      "hash": "eeb7afa858cd078861c1f14f13036dd9",
+      "metadata": {
+        "ordinal": 1966,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "created",
+          "object_text": "J-pop",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.19592970701934848,
+      "created_at": "2026-07-04T05:28:53.870284-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ea5eacdd-eaee-4559-850d-5c2d263fd054",
+      "memory": "J-pop was created in the country of Japan.",
+      "hash": "5de08d3dbdc4b5457ee07b52164b26fb",
+      "metadata": {
+        "ordinal": 1205,
+        "triple": {
+          "subject_id": "j_pop",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Japan",
+          "confidence": 0.95,
+          "subject_raw": "J-pop",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.19446280915351083,
+      "created_at": "2026-07-04T05:28:34.633078-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a2e2529c-14ac-47bf-955d-60910e13a443",
+      "memory": "Vijay Mallya is a citizen of Papal States.",
+      "hash": "a61d86b1be1d4b82f96b4caeb30f93c8",
+      "metadata": {
+        "ordinal": 1879,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "be citizen",
+          "object_text": "Papal States",
+          "confidence": 0.95,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.19424489681031784,
+      "created_at": "2026-07-04T05:28:51.143810-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6da7c1dc-eca3-47c7-8ba7-66680924f1a6",
+      "memory": "The Population Bomb was created in the country of United States of America.",
+      "hash": "9ac5bcbe9a0f2c845fa4d25bff55f24c",
+      "metadata": {
+        "ordinal": 1833,
+        "triple": {
+          "subject_id": "the_population_bomb",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "The Population Bomb",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.19017530323692536,
+      "created_at": "2026-07-04T05:28:50.314579-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bde945cd-7bcb-465c-a102-7336189f809f",
+      "memory": "Flo Rida is a citizen of United States of America.",
+      "hash": "59c834292805c15f4729686d98339e8b",
+      "metadata": {
+        "ordinal": 819,
+        "triple": {
+          "subject_id": "flo_rida",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Flo Rida",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18970899989435955,
+      "created_at": "2026-07-04T05:28:25.400901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e10257ed-6daf-4747-bea4-5852b9c1dafc",
+      "memory": "Philip IV of France is a citizen of France.",
+      "hash": "8f515edbe9c323990c48dcd29e0a8ff0",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "philip_iv_of_france",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Philip IV of France",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18911767008819366,
+      "created_at": "2026-07-04T05:28:15.869625-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1709744b-81ac-4b4b-81a4-c59aa6969c98",
+      "memory": "Naruto was created in the country of Japan.",
+      "hash": "1bbf139c63c331e61fb4203b07d92724",
+      "metadata": {
+        "ordinal": 852,
+        "triple": {
+          "subject_id": "naruto",
+          "predicate_norm": "be created in country",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Naruto",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.18790015507632774,
+      "created_at": "2026-07-04T05:28:26.270901-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "99a0a58d-e274-4fa9-805d-63d6b1b6cbf2",
+      "memory": "The headquarters of The University of the Arts is located in the city of Philadelphia",
+      "hash": "ca1727350149cf1a99e43a0573bc58e0",
+      "metadata": {
+        "ordinal": 457,
+        "triple": {
+          "subject_id": "the_university_of_the_arts",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "the city of Philadelphia",
+          "confidence": 0.95,
+          "subject_raw": "The University of the Arts",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.1868574780859375,
+      "created_at": "2026-07-04T05:28:17.472167-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "731d3ff8-d17b-4a99-9a74-53083309a473",
+      "memory": "Ada Wong is a citizen of United States of America.",
+      "hash": "e2815c0a67c4b9b93f73e210d88f3570",
+      "metadata": {
+        "ordinal": 963,
+        "triple": {
+          "subject_id": "ada_wong",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Ada Wong",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18505084875145494,
+      "created_at": "2026-07-04T05:28:29.028453-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "dfaf694f-6aa9-4929-a404-f7b12c633b5e",
+      "memory": "Cédric Klapisch is a citizen of Malaysia.",
+      "hash": "c70206b3e5e2cb9491c8732024f34750",
+      "metadata": {
+        "ordinal": 745,
+        "triple": {
+          "subject_id": "cédric_klapisch",
+          "predicate_norm": "be citizen",
+          "object_text": "Malaysia",
+          "confidence": 0.95,
+          "subject_raw": "Cédric Klapisch",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18340377520734122,
+      "created_at": "2026-07-04T05:28:23.929405-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ]
+}

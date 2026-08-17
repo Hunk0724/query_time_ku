@@ -1,0 +1,19 @@
+# Zep ablation (2026-07-13):
+#   retrieve_num=100 (vs official 10) + ZEP_EDGES_ONLY=1 (skip nodes+episodes)
+#   Purpose: isolate whether Zep 262k crash (76% @ 64k → 27% @ 262k) is driven
+#   by top-K=10 cap on fact-level edges, or by upstream write-time KU judgment
+#   coverage (only 6.3% of retrieved edges had invalid_at set).
+#   Compare against Structure_rag_gpt-4o-mini-zep_512_temp0.yaml (top-10, all-scope).
+# NOTE: agent.py:_handle_zep_agent reads ZEP_TOP_K and ZEP_EDGES_ONLY env at
+# runtime, so those must ALSO be exported (retrieve_num sets the client-side
+# limit; ZEP_EDGES_ONLY gates scope loop).
+agent_name: Structure_rag_zep_top100_edges
+model: gpt-4o-mini
+text_embedding: text-embedding-3-small
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-zep-top100-edges
+
+agent_chunk_size: 512
+retrieve_num: 100

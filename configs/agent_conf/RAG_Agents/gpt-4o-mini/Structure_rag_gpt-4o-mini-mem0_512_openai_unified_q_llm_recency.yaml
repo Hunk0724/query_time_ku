@@ -1,0 +1,57 @@
+# gpt-4o-mini mem0 — Q-llm-recency baseline (2026-07-11).
+#
+# Q-llm-recency = naive fact-level RAG + LLM does recency judgment.
+# Directly tests C1 ("LLM 全程不參與 recency 裁決" in the abstract).
+#
+# Design (see experiment.md §M-3, §M-4, experiment_prove_main_claim.md §4.8.2 #2):
+#   - Write-time: reuses ours_no_p5 populated store byte-for-byte
+#     (same `path` + `collection_name` below as unified_no_p5.yaml)
+#   - Query-time: MEM0_QUERY_MODE=q_llm_recency (agent.py) — formats top-K
+#     retrieved memories as "<ordinal>. <fact>", constructs USER turn as
+#     memories + factconsolidation.rag_agent template (with question filled),
+#     SYSTEM turn = factconsolidation.system. Matches origin _handle_embedding_rag
+#     message pattern.
+#   - top-K = 100 canonical (matches ours main / (b) / vanilla top-K in the
+#     yaml `retrieve_num`; ensures cross-method fairness in the paper — the
+#     ONLY difference vs ours main is "argmax(ord) vs LLM does recency", not
+#     retrieval bandwidth). top-10 sensitivity available via env override
+#     MEM0_Q_LLM_RECENCY_TOPK=10; see §M-4 for the recall audit that justifies
+#     top-10 as a lossless optimization (retrieval recall already saturates
+#     on ours store) — kept as future work / appendix observation, NOT as
+#     paper canonical.
+#
+# This yaml differs from unified_no_p5.yaml ONLY in:
+#   - agent_name  (so rag_retrieved logs get their own subdir)
+#   - output_dir  (so per-query results don't overwrite ours_no_p5's outputs)
+# Everything else (store path, collection, LLM, embedder) is identical → the
+# populated qdrant from ours_no_p5 is reused as-is.
+agent_name: Structure_rag_gpt-4o-mini-mem0_512_openai_unified_q_llm_recency
+model: gpt-4o-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-unified_q_llm_recency
+
+agent_chunk_size: 512
+retrieve_num: 100     # search still fetches 100; agent.py q_llm_recency mode slices to top-10 for prompt
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-4o-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_no_p5   # SAME as unified_no_p5 → shared store
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_no_p5
+      on_disk: true
+  use_unified_extractor: true

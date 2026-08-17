@@ -1,0 +1,35 @@
+# gpt-4o-mini mem0 — UNIFIED EXTRACTOR write-time SMOKE config (2026-06-26).
+# Identical to ..._unified.yaml EXCEPT isolated agent_name / qdrant store /
+# output_dir so a 5-chunk write-time smoke (fresh P1 extraction, no extraction
+# cache) never touches the real run's store. Phase-2 memory behavior gated by
+# env vars in the launch script (MEM0_ADD_MODE=phase0_structural etc.).
+agent_name: Structure_rag_gpt-4o-mini-mem0_512_openai_unified_smoke
+model: gpt-4o-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-unified-smoke
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-4o-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_smoke
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_smoke
+      on_disk: true
+  use_unified_extractor: true

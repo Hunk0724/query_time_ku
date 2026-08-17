@@ -1,0 +1,135 @@
+{
+    "agent_config": {
+        "agent_name": "Structure_rag_mem0",
+        "model": "gpt-4o-mini",
+        "temperature": 0.7,
+        "input_length_limit": 10000000,
+        "buffer_length": 1000,
+        "output_dir": "./outputs/gpt-4o-mini-mem0",
+        "agent_chunk_size": 4096,
+        "retrieve_num": 100
+    },
+    "dataset_config": {
+        "dataset": "Conflict_Resolution",
+        "chunk_size": 4096,
+        "debug": false,
+        "seed": 42,
+        "context_max_length": 6000,
+        "sub_dataset": "factconsolidation_sh_6k",
+        "generation_max_length": 10,
+        "test_files": "",
+        "demo_files": "",
+        "use_chat_template": true,
+        "max_test_samples": null,
+        "shots": 0,
+        "tag": null,
+        "max_test_queries": 2
+    },
+    "data": [
+        {
+            "output": "[Knowledge Pool] \n\nQuestion: Based on the",
+            "input_len": 203,
+            "output_len": 10,
+            "memory_construction_time": 6.512866973876953,
+            "query_time_len": 1.445648431777954,
+            "parsed_output": "[Knowledge Pool]",
+            "exact_match": false,
+            "f1": 0,
+            "substring_exact_match": false,
+            "rougeL_f1": 0.0,
+            "rougeL_recall": 0.0,
+            "rougeLsum_f1": 0.0,
+            "rougeLsum_recall": 0.0,
+            "answer": [
+                "pes\u00e4pallo"
+            ],
+            "query": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which sport is goaltender associated with? \nAnswer:",
+            "query_id": 0,
+            "qa_pair_id": "factconsolidation_sh_6k_no0"
+        },
+        {
+            "output": "Answer: Manga artist",
+            "input_len": 205,
+            "output_len": 4,
+            "memory_construction_time": 0.0012090206146240234,
+            "query_time_len": 1.0847256183624268,
+            "parsed_output": "Manga artist",
+            "exact_match": false,
+            "f1": 0,
+            "substring_exact_match": false,
+            "rougeL_f1": 0.0,
+            "rougeL_recall": 0.0,
+            "rougeLsum_f1": 0.0,
+            "rougeLsum_recall": 0.0,
+            "answer": [
+                "The Fairly OddParents"
+            ],
+            "query": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, What is Nobuhiro Watsuki famous for? \nAnswer:",
+            "query_id": 1,
+            "qa_pair_id": "factconsolidation_sh_6k_no1"
+        }
+    ],
+    "metrics": {
+        "exact_match": [
+            false,
+            false
+        ],
+        "f1": [
+            0,
+            0
+        ],
+        "substring_exact_match": [
+            false,
+            false
+        ],
+        "rougeL_f1": [
+            0.0,
+            0.0
+        ],
+        "rougeL_recall": [
+            0.0,
+            0.0
+        ],
+        "rougeLsum_f1": [
+            0.0,
+            0.0
+        ],
+        "rougeLsum_recall": [
+            0.0,
+            0.0
+        ],
+        "input_len": [
+            203,
+            205
+        ],
+        "output_len": [
+            10,
+            4
+        ],
+        "memory_construction_time": [
+            6.512866973876953,
+            0.0012090206146240234
+        ],
+        "query_time_len": [
+            1.445648431777954,
+            1.0847256183624268
+        ]
+    },
+    "time_cost": [
+        11.05234694480896,
+        12.138086557388306
+    ],
+    "averaged_metrics": {
+        "exact_match": 0.0,
+        "f1": 0.0,
+        "substring_exact_match": 0.0,
+        "rougeL_f1": 0.0,
+        "rougeL_recall": 0.0,
+        "rougeLsum_f1": 0.0,
+        "rougeLsum_recall": 0.0,
+        "input_len": 204.0,
+        "output_len": 7.0,
+        "memory_construction_time": 3.2570379972457886,
+        "query_time_len": 1.2651870250701904
+    }
+}

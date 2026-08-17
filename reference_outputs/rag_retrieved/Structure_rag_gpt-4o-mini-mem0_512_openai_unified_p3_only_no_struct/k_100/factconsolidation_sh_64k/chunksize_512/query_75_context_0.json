@@ -1,0 +1,4013 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "8c733c5f-6ba3-4e08-8e95-6a6ace7db965",
+      "memory": "Larry Page is employed by Google.",
+      "hash": "aab616a65c6874afb49566d1a600a108",
+      "metadata": {
+        "ordinal": 1251,
+        "triple": {
+          "subject_id": "larry_page",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Larry Page",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.8044053684308081,
+      "created_at": "2026-07-04T05:24:30.832727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4e78c3bc-dc06-4f78-afd9-677e3ff0ca0d",
+      "memory": "Larry Page is employed by University of Edinburgh.",
+      "hash": "a41d873d4b75581e92b3d806757f11db",
+      "metadata": {
+        "ordinal": 3483,
+        "triple": {
+          "subject_id": "larry_page",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Edinburgh",
+          "confidence": 0.95,
+          "subject_raw": "Larry Page",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.7031413835783265,
+      "created_at": "2026-07-04T05:25:23.901408-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6f5970a6-8276-493b-892d-961cd0baf536",
+      "memory": "Jabberwocky was created by Larry Page.",
+      "hash": "8bb2000990a218184fe8686712b3f7f6",
+      "metadata": {
+        "ordinal": 4536,
+        "triple": {
+          "subject_id": "jabberwocky",
+          "predicate_norm": "be created by",
+          "object_text": "Larry Page",
+          "confidence": 0.95,
+          "subject_raw": "Jabberwocky",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.552028242845847,
+      "created_at": "2026-07-04T05:25:49.491373-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "420ec792-1c47-4d29-a9e1-b9ce8bdd397f",
+      "memory": "Max Levchin is employed by Google.",
+      "hash": "2994d39c34a9c3c9aa8bfba164a3e763",
+      "metadata": {
+        "ordinal": 839,
+        "triple": {
+          "subject_id": "max_levchin",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Max Levchin",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.5517262092403634,
+      "created_at": "2026-07-04T05:24:21.356985-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "59231f6b-3403-4dad-9abd-e78dd4c2693f",
+      "memory": "Ray Kurzweil is employed by Google.",
+      "hash": "a1dbb528346194a086690e5c3a423d20",
+      "metadata": {
+        "ordinal": 789,
+        "triple": {
+          "subject_id": "ray_kurzweil",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Ray Kurzweil",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.5208168893716536,
+      "created_at": "2026-07-04T05:24:19.716735-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7bc3d009-e8d9-45f5-a345-775ea80efca6",
+      "memory": "The chief executive officer of Google is Sundar Pichai.",
+      "hash": "49edfa1c8736be3ebc1223bf04d40cef",
+      "metadata": {
+        "ordinal": 1972,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.5177108321758377,
+      "created_at": "2026-07-04T05:24:47.884059-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9fc8bb14-debc-40b5-ad8e-c5687992b559",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 3735,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.49293810793304527,
+      "created_at": "2026-07-04T05:25:29.776596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "921528bd-2c31-448c-9157-fadf56724c29",
+      "memory": "The chief executive officer of SpaceX is Sundar Pichai.",
+      "hash": "545af4cd6072dd21f8f83520edbe697b",
+      "metadata": {
+        "ordinal": 2703,
+        "triple": {
+          "subject_id": "spacex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.9,
+          "subject_raw": "SpaceX",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.47658606980551593,
+      "created_at": "2026-07-04T05:25:05.696581-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5f8be64d-bcb5-47dc-be0d-1a8f971d64de",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 2574,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer named",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer named"
+        }
+      },
+      "score": 0.4727716004147565,
+      "created_at": "2026-07-04T05:25:02.355343-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "996fe1a9-877d-49cd-94c7-2125c85a10f9",
+      "memory": "The chief executive officer of ARM Holdings is Sundar Pichai.",
+      "hash": "3790b9b76e0fbc6ed120b4eaa2502d6c",
+      "metadata": {
+        "ordinal": 3734,
+        "triple": {
+          "subject_id": "arm_holdings",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "ARM Holdings",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4685093875059426,
+      "created_at": "2026-07-04T05:25:29.775344-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f5ba5da2-8582-4b3e-af0b-775941842058",
+      "memory": "Ward Kimball is employed by Google.",
+      "hash": "53024678bac03de89c7ab95e8be82254",
+      "metadata": {
+        "ordinal": 3836,
+        "triple": {
+          "subject_id": "ward_kimball",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Ward Kimball",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.460810265673718,
+      "created_at": "2026-07-04T05:25:31.903017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2baec410-03ba-4344-adef-c2bd4c2b0974",
+      "memory": "Sheryl Sandberg is employed by Facebook.",
+      "hash": "56e45c01050160b1e702eae1fc022a31",
+      "metadata": {
+        "ordinal": 577,
+        "triple": {
+          "subject_id": "sheryl_sandberg",
+          "predicate_norm": "be employed by",
+          "object_text": "Facebook",
+          "confidence": 0.95,
+          "subject_raw": "Sheryl Sandberg",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.4444282864662953,
+      "created_at": "2026-07-04T05:24:15.800853-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "46f92c8a-1f82-4b5e-a648-d526c77ac837",
+      "memory": "Tim Berners-Lee is a citizen of United Kingdom.",
+      "hash": "4ad8dfa79de4521e13cba32a60572921",
+      "metadata": {
+        "ordinal": 2863,
+        "triple": {
+          "subject_id": "tim_berners_lee",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Tim Berners-Lee",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3788075668525079,
+      "created_at": "2026-07-04T05:25:09.445606-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "45fdeebd-e0e2-4b8f-a536-bfceb6512081",
+      "memory": "The chief executive officer of NeXT Computer, Inc. is Steve Jobs.",
+      "hash": "0f478e33829403e529c7082a583e6ec3",
+      "metadata": {
+        "ordinal": 2986,
+        "triple": {
+          "subject_id": "the_chief_executive_officer_of_next_computer,_inc.",
+          "predicate_norm": "be",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "the chief executive officer of NeXT Computer, Inc.",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.37867280567910094,
+      "created_at": "2026-07-04T05:25:12.073977-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3b0452e7-0af2-452a-b7cd-f0bc37578041",
+      "memory": "Max Levchin is employed by WWE.",
+      "hash": "9c3117ac22ab468afab91e8d40e27846",
+      "metadata": {
+        "ordinal": 845,
+        "triple": {
+          "subject_id": "max_levchin",
+          "predicate_norm": "be employed by",
+          "object_text": "WWE",
+          "confidence": 0.95,
+          "subject_raw": "Max Levchin",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.37746551247308535,
+      "created_at": "2026-07-04T05:24:21.368766-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "de7bd026-2b88-412d-8406-a4987fc880ed",
+      "memory": "Les Moonves is employed by University of London.",
+      "hash": "16a42f09ea78f3ac9ef558de7c207d7f",
+      "metadata": {
+        "ordinal": 2972,
+        "triple": {
+          "subject_id": "les_moonves",
+          "predicate_norm": "be employed by",
+          "object_text": "University of London",
+          "confidence": 0.95,
+          "subject_raw": "Les Moonves",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.37736595908467946,
+      "created_at": "2026-07-04T05:25:12.057993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6dddd3f1-3220-479d-9bca-871ed4e8311b",
+      "memory": "Melinda Gates is employed by Microsoft.",
+      "hash": "7dfe815f83d86838a7870800fc107cc0",
+      "metadata": {
+        "ordinal": 2190,
+        "triple": {
+          "subject_id": "melinda_gates",
+          "predicate_norm": "be employed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Melinda Gates",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.37533118917732644,
+      "created_at": "2026-07-04T05:24:53.169872-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0f521e06-a0a9-41af-9f19-551741b495a3",
+      "memory": "The headquarters of Google is located in the city of Mountain View.",
+      "hash": "eac59c8a4432d99d094c215726be6db0",
+      "metadata": {
+        "ordinal": 1664,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Mountain View",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.3717483484204001,
+      "created_at": "2026-07-04T05:24:40.760628-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4b11cf94-9200-48d5-a9d6-8a3c5b874b2f",
+      "memory": "ASP.NET was developed by Google.",
+      "hash": "bea8c78cbbc5a1373d8eda588ba14690",
+      "metadata": {
+        "ordinal": 4130,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.36879750087749086,
+      "created_at": "2026-07-04T05:25:39.225694-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "512ae556-b2d2-43bf-bc96-fa8d6bed120a",
+      "memory": "The headquarters of Google is located in the city of Plovdiv.",
+      "hash": "dc04583c5ee011164bc53e14ee9d4663",
+      "metadata": {
+        "ordinal": 3031,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has headquarters in",
+          "object_text": "Plovdiv",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has headquarters in"
+        }
+      },
+      "score": 0.36759109642698906,
+      "created_at": "2026-07-04T05:25:13.624871-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "339b6f87-eb35-4917-945d-ccf9c02c7183",
+      "memory": "The chief executive officer of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "e1fb3bddd34bea609cd05ddb04da4725",
+      "metadata": {
+        "ordinal": 3603,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3658908675150411,
+      "created_at": "2026-07-04T05:25:26.420160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3ee48923-96f7-4209-aa0a-2c71a6d97f6e",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 4296,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.36276173345943796,
+      "created_at": "2026-07-04T05:25:42.949875-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ceac268f-5e91-489e-8b24-05f682ed1449",
+      "memory": "The chief executive officer of Hewlett-Packard is Meg Whitman.",
+      "hash": "ffcca9a4652f475fc90fd3ad6c4891f3",
+      "metadata": {
+        "ordinal": 1576,
+        "triple": {
+          "subject_id": "hewlett_packard",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Meg Whitman",
+          "confidence": 0.95,
+          "subject_raw": "Hewlett-Packard",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3614770387620619,
+      "created_at": "2026-07-04T05:24:38.986747-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "33aad95a-2e7e-4bfe-8a08-14f3aa2274ce",
+      "memory": "Steve Jobs is a citizen of United States of America.",
+      "hash": "8361be49981f7a5cc65edaee5adc3e18",
+      "metadata": {
+        "ordinal": 3212,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3572361803625048,
+      "created_at": "2026-07-04T05:25:17.566313-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b7b478ac-a26d-438c-acc6-db2de50e80ac",
+      "memory": "Shigeru Miyamoto is employed by University of Oxford.",
+      "hash": "9a4cc3c99ba35a09bd6704d1d651e51d",
+      "metadata": {
+        "ordinal": 2950,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.35318589278986495,
+      "created_at": "2026-07-04T05:25:11.098499-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "10c13ec8-e175-416d-bbe4-6c6d373a37f2",
+      "memory": "The chairperson of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "6b3e394c987856f1649c25b815996c81",
+      "metadata": {
+        "ordinal": 1766,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.35308471641703876,
+      "created_at": "2026-07-04T05:24:43.221140-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "38b9b28c-30c0-471c-8118-d5d668760ca0",
+      "memory": "Shigeru Miyamoto is employed by Nintendo.",
+      "hash": "1afe586da8109e72a54c53a049bd8f4c",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "Nintendo",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3506001971631998,
+      "created_at": "2026-07-04T05:24:03.816137-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "965915a0-448e-4a88-8b43-5f3bb9c25823",
+      "memory": "Steve Jobs is a citizen of South Korea",
+      "hash": "80d32e60669c444b860334101eb59a48",
+      "metadata": {
+        "ordinal": 4398,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "South Korea",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3464195032892498,
+      "created_at": "2026-07-04T05:25:45.875757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "974605f1-75a4-4b2c-b3b6-b5cc548719ca",
+      "memory": "The chief executive officer of Hewlett-Packard is Vijay Mallya.",
+      "hash": "f730edf06f035f710acdd2d0e26858d7",
+      "metadata": {
+        "ordinal": 2683,
+        "triple": {
+          "subject_id": "hewlett_packard",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Hewlett-Packard",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.34591073047165855,
+      "created_at": "2026-07-04T05:25:04.872350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "debb3292-026e-402d-b9b0-4c6c48122e8f",
+      "memory": "iPod was developed by Google.",
+      "hash": "6971b67d7092b2c23f612658118aee31",
+      "metadata": {
+        "ordinal": 3302,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3433574190106491,
+      "created_at": "2026-07-04T05:25:19.362283-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bd581ea3-63a3-441d-b5b9-46eca481c689",
+      "memory": "Dart was developed by Google.",
+      "hash": "1eba89b630856313782058d9200c33e2",
+      "metadata": {
+        "ordinal": 2632,
+        "triple": {
+          "subject_id": "dart",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Dart",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3425913306682934,
+      "created_at": "2026-07-04T05:25:04.053847-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a6361f18-6467-4c8d-ba40-3e38e8728e60",
+      "memory": "iPad Pro was developed by Google.",
+      "hash": "35d7c9b06fe4e0d8d6b707195fe58cec",
+      "metadata": {
+        "ordinal": 870,
+        "triple": {
+          "subject_id": "ipad_pro",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPad Pro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3417593686012509,
+      "created_at": "2026-07-04T05:24:22.358717-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b44dcb17-b99b-45ed-aa00-2d607065febb",
+      "memory": "The chairperson of Hon Hai Precision Industry is Talia Sasson.",
+      "hash": "d61ee7c4f57979a51c5619de12412a57",
+      "metadata": {
+        "ordinal": 2096,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Talia Sasson",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.33978631430342454,
+      "created_at": "2026-07-04T05:24:50.501102-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "933e68ad-ba10-4a1f-9e19-68ab491d2e6c",
+      "memory": "The chief executive officer of Panasonic Corporation is Satya Nadella.",
+      "hash": "d01ef6d4828234fbf3bbd57af34c6ae2",
+      "metadata": {
+        "ordinal": 1875,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.33956746219604234,
+      "created_at": "2026-07-04T05:24:45.662024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f4d87e0c-4e59-4e0f-94ee-54551bf95835",
+      "memory": "NeXT Computer, Inc. was founded by Steve Jobs.",
+      "hash": "bdd91b9b20d480354e66066bc20e25cc",
+      "metadata": {
+        "ordinal": 831,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3393372092326418,
+      "created_at": "2026-07-04T05:24:21.335036-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b1e50652-fd7b-48fd-88cb-0b48ca0d25bb",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 3812,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3379399732749336,
+      "created_at": "2026-07-04T05:25:31.355761-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4bd2e6fe-a14a-43be-bb83-8f16fa363c72",
+      "memory": "Steven Levitt is employed by University of Chicago.",
+      "hash": "edac18ba6460061082270c8e699193cc",
+      "metadata": {
+        "ordinal": 4149,
+        "triple": {
+          "subject_id": "steven_levitt",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "Steven Levitt",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3377703042760841,
+      "created_at": "2026-07-04T05:25:39.846307-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e512a4f0-66a7-4341-abd6-f9576c548a33",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 3164,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.33633263537470626,
+      "created_at": "2026-07-04T05:25:16.259227-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1eb666ea-c42f-43b3-a11b-b55f926ec4b2",
+      "memory": "Derek Bok is employed by Harvard University.",
+      "hash": "0c32fdc08a83513d41c09816c4174e47",
+      "metadata": {
+        "ordinal": 1057,
+        "triple": {
+          "subject_id": "derek_bok",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Derek Bok",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3349190016095183,
+      "created_at": "2026-07-04T05:24:26.783320-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "575a73fe-5dc8-4ca0-b535-074e3a7e1f3e",
+      "memory": "Bing was created by Microsoft.",
+      "hash": "cceea38f8ec0b2367c354aff303d67de",
+      "metadata": {
+        "ordinal": 4201,
+        "triple": {
+          "subject_id": "bing",
+          "predicate_norm": "be created by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Bing",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.3322386786278274,
+      "created_at": "2026-07-04T05:25:40.540665-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "524cceea-4af0-4737-954c-a5d8e3cb8a04",
+      "memory": "Tim Cook is a citizen of United Kingdom.",
+      "hash": "bf47c90a78ef2ced3e891b503b3f7b54",
+      "metadata": {
+        "ordinal": 4049,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3314631921452653,
+      "created_at": "2026-07-04T05:25:36.955837-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "127758b4-7bea-4b38-8256-a205ad0a25ae",
+      "memory": "The chief executive officer of Advanced Micro Devices is Lisa Su",
+      "hash": "46b67dacc3bb9c82e3e3958e1e3003d9",
+      "metadata": {
+        "ordinal": 2143,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lisa Su",
+          "confidence": 0.9,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3313695628340573,
+      "created_at": "2026-07-04T05:24:52.303072-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c487be5-84d1-4741-9f95-1c4b5f2672c4",
+      "memory": "Apple Inc. was created in the country of United States of America.",
+      "hash": "aaea4a164ba20c70de619b56c8ec1873",
+      "metadata": {
+        "ordinal": 1357,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3310774581166845,
+      "created_at": "2026-07-04T05:24:33.048840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "63c632b2-ef35-4e70-97da-7036178283b1",
+      "memory": "The chief executive officer of Valve Corporation is Mukesh Ambani.",
+      "hash": "9a1b0f70d5385788d2b1dc2dc06ea63d",
+      "metadata": {
+        "ordinal": 3447,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mukesh Ambani",
+          "confidence": 0.9,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.330362024669158,
+      "created_at": "2026-07-04T05:25:23.040046-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6e210b33-ad8b-4e50-9f35-06c3e2628ae8",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 3911,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32801729021838394,
+      "created_at": "2026-07-04T05:25:33.350930-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9a1a4b28-93e6-446f-aae1-8304982f0078",
+      "memory": "GarageBand was developed by Google.",
+      "hash": "fe7dbd6b460e82be2da0e8630d0d1fd8",
+      "metadata": {
+        "ordinal": 1984,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3268324788942991,
+      "created_at": "2026-07-04T05:24:47.897814-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7ab0442c-a8b9-4ea7-9a3f-92995ba09600",
+      "memory": "NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.",
+      "hash": "0290215c845d515245c796a58fc66132",
+      "metadata": {
+        "ordinal": 1309,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Mikhail Khodorkovsky",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3233893629070135,
+      "created_at": "2026-07-04T05:24:32.159227-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "47135808-8a5a-4b55-b299-52d61e14595c",
+      "memory": "Satya Nadella was born in the city of London.",
+      "hash": "4eb07739a5839f18d8bef188c5f8246a",
+      "metadata": {
+        "ordinal": 3090,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.32143326834739694,
+      "created_at": "2026-07-04T05:25:14.738315-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5d1ecf9c-3cf3-4087-b27c-91296e579c03",
+      "memory": "The chief executive officer of Canonical Group Limited is Jamie Dimon.",
+      "hash": "d6925eb365c4f47e8061b9e65699bab9",
+      "metadata": {
+        "ordinal": 2575,
+        "triple": {
+          "subject_id": "canonical_group_limited",
+          "predicate_norm": "has chief executive officer named",
+          "object_text": "Jamie Dimon",
+          "confidence": 0.95,
+          "subject_raw": "Canonical Group Limited",
+          "predicate_raw": "has chief executive officer named"
+        }
+      },
+      "score": 0.32034199518524864,
+      "created_at": "2026-07-04T05:25:02.356579-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "302320b0-40f0-4d67-ba16-4f4055ab611a",
+      "memory": "Windows 95 was developed by Google.",
+      "hash": "2aa2f0b59b8216cfb850badad903f5b1",
+      "metadata": {
+        "ordinal": 3686,
+        "triple": {
+          "subject_id": "windows_95",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Windows 95",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3202208790577671,
+      "created_at": "2026-07-04T05:25:28.140140-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b5950fb1-400b-4a72-9328-cd450f571d81",
+      "memory": "Jonas Salk is employed by University of Pittsburgh.",
+      "hash": "57e0d86e471b2c3ccfa5ebc4c915925b",
+      "metadata": {
+        "ordinal": 389,
+        "triple": {
+          "subject_id": "jonas_salk",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Pittsburgh",
+          "confidence": 0.95,
+          "subject_raw": "Jonas Salk",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3194195201023371,
+      "created_at": "2026-07-04T05:24:11.695610-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7e369d49-800f-4389-9290-105522e50e48",
+      "memory": "T. E. Lawrence is employed by University of Oxford.",
+      "hash": "0c829729d125b6f78893f5f33273a7dd",
+      "metadata": {
+        "ordinal": 2034,
+        "triple": {
+          "subject_id": "t._e._lawrence",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "T. E. Lawrence",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31779290110326897,
+      "created_at": "2026-07-04T05:24:49.646240-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fd7c53b1-5cbf-41ea-a0cd-7f9b932cd875",
+      "memory": "Internet Explorer 5 was developed by Google.",
+      "hash": "0fa4771785b501a79b462e6f32902150",
+      "metadata": {
+        "ordinal": 4513,
+        "triple": {
+          "subject_id": "internet_explorer_5",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3152263582753845,
+      "created_at": "2026-07-04T05:25:48.723275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d17338eb-2730-494a-8338-cddfebba3b82",
+      "memory": "Lucrețiu Pătrășcanu is employed by University of Bucharest.",
+      "hash": "6d5b9afa30e0a1acc754b5c315b71d41",
+      "metadata": {
+        "ordinal": 75,
+        "triple": {
+          "subject_id": "lucrețiu_pătrășcanu",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "Lucrețiu Pătrășcanu",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31420889347159797,
+      "created_at": "2026-07-04T05:24:04.586106-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ca731aba-29c0-48e2-96e3-1efe51e8bd94",
+      "memory": "Spotlight was developed by Apple Inc.",
+      "hash": "eec19c5eaaf28b6de30e131df06fa210",
+      "metadata": {
+        "ordinal": 369,
+        "triple": {
+          "subject_id": "spotlight",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Spotlight",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.31366855939046356,
+      "created_at": "2026-07-04T05:24:10.826127-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6cfe3054-727d-419c-854e-cd40249ea7df",
+      "memory": "Omidyar Network was founded by Pierre Omidyar.",
+      "hash": "b15b6148e0b15d8fe3359dde98fa2a0e",
+      "metadata": {
+        "ordinal": 2948,
+        "triple": {
+          "subject_id": "omidyar_network",
+          "predicate_norm": "be founded by",
+          "object_text": "Pierre Omidyar",
+          "confidence": 0.95,
+          "subject_raw": "Omidyar Network",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3130962226817464,
+      "created_at": "2026-07-04T05:25:11.095785-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1956c76c-4bd2-441a-a2d7-ad3cd6b241c8",
+      "memory": "Zynga was founded by Mark Pincus.",
+      "hash": "ecc148342699ee81019f3aba21a787d8",
+      "metadata": {
+        "ordinal": 1314,
+        "triple": {
+          "subject_id": "zynga",
+          "predicate_norm": "be founded by",
+          "object_text": "Mark Pincus",
+          "confidence": 0.95,
+          "subject_raw": "Zynga",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3127139388307657,
+      "created_at": "2026-07-04T05:24:32.165294-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a24c71a6-ca8f-45d8-9d56-1280e017ec1f",
+      "memory": "The chairperson of World Wide Web Consortium is Tim Berners-Lee",
+      "hash": "71d4695f01a6ac4854ecb21d57cf1865",
+      "metadata": {
+        "ordinal": 2142,
+        "triple": {
+          "subject_id": "world_wide_web_consortium",
+          "predicate_norm": "has chairperson",
+          "object_text": "Tim Berners-Lee",
+          "confidence": 0.9,
+          "subject_raw": "World Wide Web Consortium",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.3124521128266913,
+      "created_at": "2026-07-04T05:24:52.301908-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b813222a-5c3a-4d0b-be5c-a40633ba6990",
+      "memory": "George Santayana is employed by Harvard University.",
+      "hash": "dacb4097e3e4916078b79255b3f3cd67",
+      "metadata": {
+        "ordinal": 788,
+        "triple": {
+          "subject_id": "george_santayana",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "George Santayana",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31230622397918073,
+      "created_at": "2026-07-04T05:24:19.715610-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "336693cb-a73d-4006-9241-eccbd3c9f294",
+      "memory": "The director of Blizzard Entertainment is Eben Moglen.",
+      "hash": "210e869c71ad664b14049987f2579581",
+      "metadata": {
+        "ordinal": 1988,
+        "triple": {
+          "subject_id": "blizzard_entertainment",
+          "predicate_norm": "has director",
+          "object_text": "Eben Moglen",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard Entertainment",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.31058357290819183,
+      "created_at": "2026-07-04T05:24:47.902228-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b25d4a80-404f-453c-938f-b70845acadb3",
+      "memory": "John L. Hennessy is employed by Stanford University.",
+      "hash": "5aedc0bd4372fdc4e7d70ce9d83bfb16",
+      "metadata": {
+        "ordinal": 3589,
+        "triple": {
+          "subject_id": "john_l._hennessy",
+          "predicate_norm": "be employed by",
+          "object_text": "Stanford University",
+          "confidence": 0.95,
+          "subject_raw": "John L. Hennessy",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3104226504473336,
+      "created_at": "2026-07-04T05:25:26.403086-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "320b74a1-1f5e-4a0d-82f4-babdcdc96f2f",
+      "memory": "Les Moonves is employed by CBS.",
+      "hash": "ef1906643149dad15fa0bf13e6571a70",
+      "metadata": {
+        "ordinal": 2113,
+        "triple": {
+          "subject_id": "les_moonves",
+          "predicate_norm": "be employed by",
+          "object_text": "CBS",
+          "confidence": 0.95,
+          "subject_raw": "Les Moonves",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31020852269820487,
+      "created_at": "2026-07-04T05:24:51.349907-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "83ec01ba-e7cf-4320-ba2f-adf045c9a688",
+      "memory": "Pierre Omidyar was born in the city of Paris.",
+      "hash": "94c381192f34d9b51bb74a590953b52d",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "pierre_omidyar",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Pierre Omidyar",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.3095652304211448,
+      "created_at": "2026-07-04T05:24:05.418580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8e3b2980-07f3-4084-95c7-6cb28e24378b",
+      "memory": "John Farrell is employed by Los Angeles Dodgers.",
+      "hash": "7378bf2605796dd5f2c59c14a615c580",
+      "metadata": {
+        "ordinal": 2046,
+        "triple": {
+          "subject_id": "john_farrell",
+          "predicate_norm": "be employed by",
+          "object_text": "Los Angeles Dodgers",
+          "confidence": 0.95,
+          "subject_raw": "John Farrell",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3084777988028624,
+      "created_at": "2026-07-04T05:24:49.660221-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f089c56f-c9ca-4aa6-86ac-22b187cbceed",
+      "memory": "The chief executive officer of General Motors is Marc Benioff.",
+      "hash": "9bb13dc38b7c3a7255d4e53251ff8ab5",
+      "metadata": {
+        "ordinal": 4506,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marc Benioff",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.307586908991618,
+      "created_at": "2026-07-04T05:25:48.714604-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6894e2c7-29f2-4c95-ac25-7a55f1791f78",
+      "memory": "Jeff Bezos is a citizen of United States of America.",
+      "hash": "f7a65ebfb81c53ec9b892448aabe5b89",
+      "metadata": {
+        "ordinal": 3304,
+        "triple": {
+          "subject_id": "jeff_bezos",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jeff Bezos",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3072810547324595,
+      "created_at": "2026-07-04T05:25:19.365075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "448187cb-66f4-4d98-a75a-3a9709073000",
+      "memory": "Philip Pullman is employed by University of Oxford.",
+      "hash": "59e2aa6cd75f6dc33757d1f697b46f98",
+      "metadata": {
+        "ordinal": 2628,
+        "triple": {
+          "subject_id": "philip_pullman",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "Philip Pullman",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3059187655446154,
+      "created_at": "2026-07-04T05:25:04.049420-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a52a78e0-b324-45e0-a1de-bea4ba957b00",
+      "memory": "Blue Origin was founded by Jeff Bezos.",
+      "hash": "79bcdb72ec1fe89340db1ff1972a1ea4",
+      "metadata": {
+        "ordinal": 112,
+        "triple": {
+          "subject_id": "blue_origin",
+          "predicate_norm": "be founded by",
+          "object_text": "Jeff Bezos",
+          "confidence": 0.95,
+          "subject_raw": "Blue Origin",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3050436174267048,
+      "created_at": "2026-07-04T05:24:05.417415-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e631c9d9-66e0-4553-bdbf-da3c4ce5de49",
+      "memory": "The chief executive officer of Canonical Group Limited is Jane Silber.",
+      "hash": "5b42382cfb44095c352247ff1f7614ff",
+      "metadata": {
+        "ordinal": 2283,
+        "triple": {
+          "subject_id": "canonical_group_limited",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Jane Silber",
+          "confidence": 0.95,
+          "subject_raw": "Canonical Group Limited",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.30331227001654815,
+      "created_at": "2026-07-04T05:24:55.577881-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5ff6ab4a-5ae9-4588-9d73-f47f32cb9040",
+      "memory": "Clark Kent is employed by Daily Planet.",
+      "hash": "16c4d098d87ff8327fad468e9eaf5349",
+      "metadata": {
+        "ordinal": 3056,
+        "triple": {
+          "subject_id": "clark_kent",
+          "predicate_norm": "be employed by",
+          "object_text": "Daily Planet",
+          "confidence": 0.95,
+          "subject_raw": "Clark Kent",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.30268579826830727,
+      "created_at": "2026-07-04T05:25:13.654697-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cba8e21d-3464-49fe-bf62-73df784fd9f9",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook.",
+      "hash": "dbc052624c7f319f53db7ee009d2c1ae",
+      "metadata": {
+        "ordinal": 356,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Tim Cook",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.30229787624628224,
+      "created_at": "2026-07-04T05:24:10.809193-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "37092b25-744a-41a2-bb18-bbd18406c6ca",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 3851,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3008861906183635,
+      "created_at": "2026-07-04T05:25:31.928798-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bae96e14-d569-4ae0-b91c-4a004f7b6f0e",
+      "memory": "Melinda Gates is employed by WWE.",
+      "hash": "a8481a2350538936bff3206243da5888",
+      "metadata": {
+        "ordinal": 4204,
+        "triple": {
+          "subject_id": "melinda_gates",
+          "predicate_norm": "be employed by",
+          "object_text": "WWE",
+          "confidence": 0.95,
+          "subject_raw": "Melinda Gates",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.30052420843290745,
+      "created_at": "2026-07-04T05:25:40.544586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "09f02a00-9c48-470c-bbbe-7ce06e1eb48a",
+      "memory": "Facebook was created by Mark Zuckerberg.",
+      "hash": "a8e009888fd6a39d8bbf253f9f655684",
+      "metadata": {
+        "ordinal": 505,
+        "triple": {
+          "subject_id": "facebook",
+          "predicate_norm": "be created by",
+          "object_text": "Mark Zuckerberg",
+          "confidence": 0.95,
+          "subject_raw": "Facebook",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.3004053826455302,
+      "created_at": "2026-07-04T05:24:14.209187-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "851d7398-0750-462d-975a-6b932b7e50b8",
+      "memory": "Joseph Story is employed by Harvard University.",
+      "hash": "fd3029c2b4289d21df5690b277ec5105",
+      "metadata": {
+        "ordinal": 3834,
+        "triple": {
+          "subject_id": "joseph_story",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Story",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.30023570476808625,
+      "created_at": "2026-07-04T05:25:31.898569-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "921355b8-394f-4088-8c09-36e9fcfbfe7e",
+      "memory": "The director of Valve Corporation is Gabe Newell.",
+      "hash": "8d2023afa43217dc26a3238e7a1a4626",
+      "metadata": {
+        "ordinal": 2022,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2992191203933534,
+      "created_at": "2026-07-04T05:24:48.792072-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a7a11e58-7f16-48d4-ac17-111d0ea2bc81",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 4460,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.29747953135127525,
+      "created_at": "2026-07-04T05:25:47.644088-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f11089d6-b0f9-47e4-b5a4-bb9cbd62cfb5",
+      "memory": "George Santayana is employed by University of Chicago.",
+      "hash": "68d491a900636e8028a0f145262f0c32",
+      "metadata": {
+        "ordinal": 3893,
+        "triple": {
+          "subject_id": "george_santayana",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "George Santayana",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.29732785681861246,
+      "created_at": "2026-07-04T05:25:32.783425-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9382161a-90cf-43df-8e48-02f56efc5a8d",
+      "memory": "The chief executive officer of SpaceX is Elon Musk.",
+      "hash": "cd9534b4ace4cb0167a7b379b889dd68",
+      "metadata": {
+        "ordinal": 922,
+        "triple": {
+          "subject_id": "spacex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Elon Musk",
+          "confidence": 0.95,
+          "subject_raw": "SpaceX",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2950024434002841,
+      "created_at": "2026-07-04T05:24:23.360673-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c2bf6da8-71f1-4352-8ce4-fe8af624b45c",
+      "memory": "Philip Pullman is employed by University of Cambridge.",
+      "hash": "738a1dcba78a82e0b7e523fa788bed09",
+      "metadata": {
+        "ordinal": 3886,
+        "triple": {
+          "subject_id": "philip_pullman",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Cambridge",
+          "confidence": 0.95,
+          "subject_raw": "Philip Pullman",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.29497761344184925,
+      "created_at": "2026-07-04T05:25:32.772487-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0bf38e16-52ee-4e40-9928-51282622cfcd",
+      "memory": "The chief executive officer of Valve Corporation is Gabe Newell.",
+      "hash": "d78e6179ccb31fcaa1164c84600e371e",
+      "metadata": {
+        "ordinal": 1052,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2941040106483685,
+      "created_at": "2026-07-04T05:24:26.777475-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8e8f68cc-8390-485e-8a51-c798e19a25ce",
+      "memory": "Gabe Newell is a citizen of United States of America.",
+      "hash": "c3eff785bd61bd0e7fb5e8f15f66ec67",
+      "metadata": {
+        "ordinal": 1617,
+        "triple": {
+          "subject_id": "gabe_newell",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Gabe Newell",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2933687586156155,
+      "created_at": "2026-07-04T05:24:39.878246-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "33026da8-2c0c-428e-ac5c-f85f72d84cce",
+      "memory": "The chief executive officer of Netflix is Reed Hastings.",
+      "hash": "69c193b973715d0be7cae7310676fc5a",
+      "metadata": {
+        "ordinal": 472,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Reed Hastings",
+          "confidence": 0.95,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.29332386049770615,
+      "created_at": "2026-07-04T05:24:13.417453-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4c9453f9-c070-489d-a863-4107912f1469",
+      "memory": "The director of Epic Games is Tim Sweeney.",
+      "hash": "5c9428e4db472c0e50bced0a647ef351",
+      "metadata": {
+        "ordinal": 3357,
+        "triple": {
+          "subject_id": "epic_games",
+          "predicate_norm": "has director",
+          "object_text": "Tim Sweeney",
+          "confidence": 0.95,
+          "subject_raw": "Epic Games",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2909921126892427,
+      "created_at": "2026-07-04T05:25:20.780014-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e82f4cd8-f809-42a4-a0e6-4f70e1850d5b",
+      "memory": "Joseph Nye is employed by Harvard University.",
+      "hash": "e124e43fa06fe61b1e94a8adea85a579",
+      "metadata": {
+        "ordinal": 4481,
+        "triple": {
+          "subject_id": "joseph_nye",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Nye",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.29018416947918296,
+      "created_at": "2026-07-04T05:25:47.717069-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fcb7f2c6-cb5e-46ff-8b67-e24a203113dd",
+      "memory": "Richard Herrnstein is employed by Harvard University.",
+      "hash": "e1d18aab539b3315cfddbdbf3774eb88",
+      "metadata": {
+        "ordinal": 804,
+        "triple": {
+          "subject_id": "richard_herrnstein",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Richard Herrnstein",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2896265291506752,
+      "created_at": "2026-07-04T05:24:20.593203-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "afbbac0c-7858-494f-915b-709f00ea530a",
+      "memory": "iMovie was developed by Google.",
+      "hash": "7414821deef40503e0859ee934fa910e",
+      "metadata": {
+        "ordinal": 4031,
+        "triple": {
+          "subject_id": "imovie",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iMovie",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2892814987262919,
+      "created_at": "2026-07-04T05:25:35.911231-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "16dba0f2-07bf-4307-a3e5-750ec79ed617",
+      "memory": "The chief executive officer of Panasonic Corporation is Kazuhiro Tsuga.",
+      "hash": "309bf9e6aa0cc6efa8b333fbdb4ecd60",
+      "metadata": {
+        "ordinal": 580,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Kazuhiro Tsuga",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.28808784155071204,
+      "created_at": "2026-07-04T05:24:15.805667-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "01cf4b56-f74c-43a3-ab27-4825d29c84e5",
+      "memory": "John Farrell is employed by Boston Red Sox.",
+      "hash": "2e51a05dd4c4b0a44b15b5b29370e7a6",
+      "metadata": {
+        "ordinal": 775,
+        "triple": {
+          "subject_id": "john_farrell",
+          "predicate_norm": "be employed by",
+          "object_text": "Boston Red Sox",
+          "confidence": 0.95,
+          "subject_raw": "John Farrell",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.28797237795307296,
+      "created_at": "2026-07-04T05:24:19.697663-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3f61f954-3be9-487b-80ca-c5cabafdd221",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Andrew House",
+      "hash": "acc098f28c29beb6eb22c5f8df75a7b5",
+      "metadata": {
+        "ordinal": 540,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew House",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2869205588181354,
+      "created_at": "2026-07-04T05:24:15.014385-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a9618c4e-4be1-4edc-8eba-a30ae7ead994",
+      "memory": "The chief executive officer of ARM Holdings is Simon Segars.",
+      "hash": "732aea82eb1b9dbe39fb40de67e6ec2d",
+      "metadata": {
+        "ordinal": 514,
+        "triple": {
+          "subject_id": "arm_holdings",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Simon Segars",
+          "confidence": 0.95,
+          "subject_raw": "ARM Holdings",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.28648138179322313,
+      "created_at": "2026-07-04T05:24:14.220063-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "12747800-31c1-4c38-abe5-068beaa587c8",
+      "memory": "Epic Games was founded by Tim Sweeney.",
+      "hash": "bc2441844a2e06fdf23177fe5217d31c",
+      "metadata": {
+        "ordinal": 3060,
+        "triple": {
+          "subject_id": "epic_games",
+          "predicate_norm": "be founded by",
+          "object_text": "Tim Sweeney",
+          "confidence": 0.95,
+          "subject_raw": "Epic Games",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.28544972681319025,
+      "created_at": "2026-07-04T05:25:13.659201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0614833c-2838-4bd8-89fe-57684c04aafe",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 653,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2841040732526052,
+      "created_at": "2026-07-04T05:24:17.390596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2b626da7-cc06-42fa-80b1-9749805c4cd4",
+      "memory": "Satya Nadella was born in the city of Hyderabad.",
+      "hash": "39c8e8e3c78f3ee151b53c943ebf9a1a",
+      "metadata": {
+        "ordinal": 816,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2837666967493749,
+      "created_at": "2026-07-04T05:24:20.613041-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0c3b59a1-7c4b-4afa-904d-670923bd4879",
+      "memory": "Server Message Block was developed by Google",
+      "hash": "c374e1c26ada7df15923144a59ad8c72",
+      "metadata": {
+        "ordinal": 2164,
+        "triple": {
+          "subject_id": "server_message_block",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Server Message Block",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28328023521881207,
+      "created_at": "2026-07-04T05:24:52.325702-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "693a08bc-a6f5-461e-a76b-a3a2a25e4858",
+      "memory": "The chairperson of Xiaomi is Lei Jun.",
+      "hash": "f3c5070182ea67b36a760b9f98072b49",
+      "metadata": {
+        "ordinal": 1383,
+        "triple": {
+          "subject_id": "xiaomi",
+          "predicate_norm": "has chairperson",
+          "object_text": "Lei Jun",
+          "confidence": 0.95,
+          "subject_raw": "Xiaomi",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.2827666067503043,
+      "created_at": "2026-07-04T05:24:33.934422-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "38f71bcd-cf25-40ad-b24f-aef4c7c8c917",
+      "memory": "Steve Lamacq is a citizen of United Kingdom.",
+      "hash": "3c81e1ab808708405210f7f7775baffa",
+      "metadata": {
+        "ordinal": 690,
+        "triple": {
+          "subject_id": "steve_lamacq",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Steve Lamacq",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.28202796343498915,
+      "created_at": "2026-07-04T05:24:18.194029-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bb2301ba-ecde-472b-b5a4-da29810698d6",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 2108,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28165814866355615,
+      "created_at": "2026-07-04T05:24:51.344181-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0149b46b-1fcb-4630-a248-faf87f19d99b",
+      "memory": "The chief executive officer of Netflix is Neil Aspinall.",
+      "hash": "18d2a96baa53942d95b1d9db3567fa92",
+      "metadata": {
+        "ordinal": 4567,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Neil Aspinall",
+          "confidence": 0.95,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2816184402672692,
+      "created_at": "2026-07-04T05:25:49.995145-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "202150e4-037c-44e0-86e6-15574fa9c5c8",
+      "memory": "The chief executive officer of ABB Group is Bernard Arnault.",
+      "hash": "7ce66f1ad34acd1d0596dca6554a6d14",
+      "metadata": {
+        "ordinal": 1797,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2808126828696138,
+      "created_at": "2026-07-04T05:24:44.001047-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- Larry Page is employed by University of Edinburgh.\n- Jabberwocky was created by Larry Page.\n- Max Levchin is employed by Google.\n- Ray Kurzweil is employed by Google.\n- The chief executive officer of Google is Sundar Pichai.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The chief executive officer of SpaceX is Sundar Pichai.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- The chief executive officer of ARM Holdings is Sundar Pichai.\n- Ward Kimball is employed by Google.\n- Sheryl Sandberg is employed by Facebook.\n- Tim Berners-Lee is a citizen of United Kingdom.\n- The chief executive officer of NeXT Computer, Inc. is Steve Jobs.\n- Max Levchin is employed by WWE.\n- Les Moonves is employed by University of London.\n- Melinda Gates is employed by Microsoft.\n- The headquarters of Google is located in the city of Mountain View.\n- ASP.NET was developed by Google.\n- The headquarters of Google is located in the city of Plovdiv.\n- The chief executive officer of Hon Hai Precision Industry is Terry Gou.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The chief executive officer of Hewlett-Packard is Meg Whitman.\n- Steve Jobs is a citizen of United States of America.\n- Shigeru Miyamoto is employed by University of Oxford.\n- The chairperson of Hon Hai Precision Industry is Terry Gou.\n- Shigeru Miyamoto is employed by Nintendo.\n- Steve Jobs is a citizen of South Korea\n- The chief executive officer of Hewlett-Packard is Vijay Mallya.\n- iPod was developed by Google.\n- Dart was developed by Google.\n- iPad Pro was developed by Google.\n- The chairperson of Hon Hai Precision Industry is Talia Sasson.\n- The chief executive officer of Panasonic Corporation is Satya Nadella.\n- NeXT Computer, Inc. was founded by Steve Jobs.\n- Tim Cook is a citizen of United States of America.\n- Steven Levitt is employed by University of Chicago.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- Derek Bok is employed by Harvard University.\n- Bing was created by Microsoft.\n- Tim Cook is a citizen of United Kingdom.\n- The chief executive officer of Advanced Micro Devices is Lisa Su\n- Apple Inc. was created in the country of United States of America.\n- The chief executive officer of Valve Corporation is Mukesh Ambani.\n- The chief executive officer of Microsoft is Satya Nadella.\n- GarageBand was developed by Google.\n- NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.\n- Satya Nadella was born in the city of London.\n- The chief executive officer of Canonical Group Limited is Jamie Dimon.\n- Windows 95 was developed by Google.\n- Jonas Salk is employed by University of Pittsburgh.\n- T. E. Lawrence is employed by University of Oxford.\n- Internet Explorer 5 was developed by Google.\n- Lucrețiu Pătrășcanu is employed by University of Bucharest.\n- Spotlight was developed by Apple Inc.\n- Omidyar Network was founded by Pierre Omidyar.\n- Zynga was founded by Mark Pincus.\n- The chairperson of World Wide Web Consortium is Tim Berners-Lee\n- George Santayana is employed by Harvard University.\n- The director of Blizzard Entertainment is Eben Moglen.\n- John L. Hennessy is employed by Stanford University.\n- Les Moonves is employed by CBS.\n- Pierre Omidyar was born in the city of Paris.\n- John Farrell is employed by Los Angeles Dodgers.\n- The chief executive officer of General Motors is Marc Benioff.\n- Jeff Bezos is a citizen of United States of America.\n- Philip Pullman is employed by University of Oxford.\n- Blue Origin was founded by Jeff Bezos.\n- The chief executive officer of Canonical Group Limited is Jane Silber.\n- Clark Kent is employed by Daily Planet.\n- The chief executive officer of Apple Inc. is Tim Cook.\n- The chief executive officer of Twitter is Bernard Arnault.\n- Melinda Gates is employed by WWE.\n- Facebook was created by Mark Zuckerberg.\n- Joseph Story is employed by Harvard University.\n- The director of Valve Corporation is Gabe Newell.\n- PowerBook G4 was developed by Microsoft.\n- George Santayana is employed by University of Chicago.\n- The chief executive officer of SpaceX is Elon Musk.\n- Philip Pullman is employed by University of Cambridge.\n- The chief executive officer of Valve Corporation is Gabe Newell.\n- Gabe Newell is a citizen of United States of America.\n- The chief executive officer of Netflix is Reed Hastings.\n- The director of Epic Games is Tim Sweeney.\n- Joseph Nye is employed by Harvard University.\n- Richard Herrnstein is employed by Harvard University.\n- iMovie was developed by Google.\n- The chief executive officer of Panasonic Corporation is Kazuhiro Tsuga.\n- John Farrell is employed by Boston Red Sox.\n- The chief executive officer of Sony Interactive Entertainment is Andrew House\n- The chief executive officer of ARM Holdings is Simon Segars.\n- Epic Games was founded by Tim Sweeney.\n- Steve Jobs was born in the city of San Francisco.\n- Satya Nadella was born in the city of Hyderabad.\n- Server Message Block was developed by Google\n- The chairperson of Xiaomi is Lei Jun.\n- Steve Lamacq is a citizen of United Kingdom.\n- PowerBook G4 was developed by Apple Inc.\n- The chief executive officer of Netflix is Neil Aspinall.\n- The chief executive officer of ABB Group is Bernard Arnault.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- Larry Page is employed by University of Edinburgh.\n- Jabberwocky was created by Larry Page.\n- Max Levchin is employed by Google.\n- Ray Kurzweil is employed by Google.\n- The chief executive officer of Google is Sundar Pichai.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The chief executive officer of SpaceX is Sundar Pichai.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- The chief executive officer of ARM Holdings is Sundar Pichai.\n- Ward Kimball is employed by Google.\n- Sheryl Sandberg is employed by Facebook.\n- Tim Berners-Lee is a citizen of United Kingdom.\n- The chief executive officer of NeXT Computer, Inc. is Steve Jobs.\n- Max Levchin is employed by WWE.\n- Les Moonves is employed by University of London.\n- Melinda Gates is employed by Microsoft.\n- The headquarters of Google is located in the city of Mountain View.\n- ASP.NET was developed by Google.\n- The headquarters of Google is located in the city of Plovdiv.\n- The chief executive officer of Hon Hai Precision Industry is Terry Gou.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The chief executive officer of Hewlett-Packard is Meg Whitman.\n- Steve Jobs is a citizen of United States of America.\n- Shigeru Miyamoto is employed by University of Oxford.\n- The chairperson of Hon Hai Precision Industry is Terry Gou.\n- Shigeru Miyamoto is employed by Nintendo.\n- Steve Jobs is a citizen of South Korea\n- The chief executive officer of Hewlett-Packard is Vijay Mallya.\n- iPod was developed by Google.\n- Dart was developed by Google.\n- iPad Pro was developed by Google.\n- The chairperson of Hon Hai Precision Industry is Talia Sasson.\n- The chief executive officer of Panasonic Corporation is Satya Nadella.\n- NeXT Computer, Inc. was founded by Steve Jobs.\n- Tim Cook is a citizen of United States of America.\n- Steven Levitt is employed by University of Chicago.\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- Derek Bok is employed by Harvard University.\n- Bing was created by Microsoft.\n- Tim Cook is a citizen of United Kingdom.\n- The chief executive officer of Advanced Micro Devices is Lisa Su\n- Apple Inc. was created in the country of United States of America.\n- The chief executive officer of Valve Corporation is Mukesh Ambani.\n- The chief executive officer of Microsoft is Satya Nadella.\n- GarageBand was developed by Google.\n- NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.\n- Satya Nadella was born in the city of London.\n- The chief executive officer of Canonical Group Limited is Jamie Dimon.\n- Windows 95 was developed by Google.\n- Jonas Salk is employed by University of Pittsburgh.\n- T. E. Lawrence is employed by University of Oxford.\n- Internet Explorer 5 was developed by Google.\n- Lucrețiu Pătrășcanu is employed by University of Bucharest.\n- Spotlight was developed by Apple Inc.\n- Omidyar Network was founded by Pierre Omidyar.\n- Zynga was founded by Mark Pincus.\n- The chairperson of World Wide Web Consortium is Tim Berners-Lee\n- George Santayana is employed by Harvard University.\n- The director of Blizzard Entertainment is Eben Moglen.\n- John L. Hennessy is employed by Stanford University.\n- Les Moonves is employed by CBS.\n- Pierre Omidyar was born in the city of Paris.\n- John Farrell is employed by Los Angeles Dodgers.\n- The chief executive officer of General Motors is Marc Benioff.\n- Jeff Bezos is a citizen of United States of America.\n- Philip Pullman is employed by University of Oxford.\n- Blue Origin was founded by Jeff Bezos.\n- The chief executive officer of Canonical Group Limited is Jane Silber.\n- Clark Kent is employed by Daily Planet.\n- The chief executive officer of Apple Inc. is Tim Cook.\n- The chief executive officer of Twitter is Bernard Arnault.\n- Melinda Gates is employed by WWE.\n- Facebook was created by Mark Zuckerberg.\n- Joseph Story is employed by Harvard University.\n- The director of Valve Corporation is Gabe Newell.\n- PowerBook G4 was developed by Microsoft.\n- George Santayana is employed by University of Chicago.\n- The chief executive officer of SpaceX is Elon Musk.\n- Philip Pullman is employed by University of Cambridge.\n- The chief executive officer of Valve Corporation is Gabe Newell.\n- Gabe Newell is a citizen of United States of America.\n- The chief executive officer of Netflix is Reed Hastings.\n- The director of Epic Games is Tim Sweeney.\n- Joseph Nye is employed by Harvard University.\n- Richard Herrnstein is employed by Harvard University.\n- iMovie was developed by Google.\n- The chief executive officer of Panasonic Corporation is Kazuhiro Tsuga.\n- John Farrell is employed by Boston Red Sox.\n- The chief executive officer of Sony Interactive Entertainment is Andrew House\n- The chief executive officer of ARM Holdings is Simon Segars.\n- Epic Games was founded by Tim Sweeney.\n- Steve Jobs was born in the city of San Francisco.\n- Satya Nadella was born in the city of Hyderabad.\n- Server Message Block was developed by Google\n- The chairperson of Xiaomi is Lei Jun.\n- Steve Lamacq is a citizen of United Kingdom.\n- PowerBook G4 was developed by Apple Inc.\n- The chief executive officer of Netflix is Neil Aspinall.\n- The chief executive officer of ABB Group is Bernard Arnault.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Who is the employer of Larry Page? \nAnswer:\n\nCurrent Time: 2026-07-04 20:30:52",
+  "response": "Answer: University of Edinburgh",
+  "prompt_tokens": 1362,
+  "completion_tokens": 5,
+  "resolved_pool": [
+    {
+      "id": "8c733c5f-6ba3-4e08-8e95-6a6ace7db965",
+      "memory": "Larry Page is employed by Google.",
+      "hash": "aab616a65c6874afb49566d1a600a108",
+      "metadata": {
+        "ordinal": 1251,
+        "triple": {
+          "subject_id": "larry_page",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Larry Page",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.8044053684308081,
+      "created_at": "2026-07-04T05:24:30.832727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4e78c3bc-dc06-4f78-afd9-677e3ff0ca0d",
+      "memory": "Larry Page is employed by University of Edinburgh.",
+      "hash": "a41d873d4b75581e92b3d806757f11db",
+      "metadata": {
+        "ordinal": 3483,
+        "triple": {
+          "subject_id": "larry_page",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Edinburgh",
+          "confidence": 0.95,
+          "subject_raw": "Larry Page",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.7031413835783265,
+      "created_at": "2026-07-04T05:25:23.901408-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6f5970a6-8276-493b-892d-961cd0baf536",
+      "memory": "Jabberwocky was created by Larry Page.",
+      "hash": "8bb2000990a218184fe8686712b3f7f6",
+      "metadata": {
+        "ordinal": 4536,
+        "triple": {
+          "subject_id": "jabberwocky",
+          "predicate_norm": "be created by",
+          "object_text": "Larry Page",
+          "confidence": 0.95,
+          "subject_raw": "Jabberwocky",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.552028242845847,
+      "created_at": "2026-07-04T05:25:49.491373-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "420ec792-1c47-4d29-a9e1-b9ce8bdd397f",
+      "memory": "Max Levchin is employed by Google.",
+      "hash": "2994d39c34a9c3c9aa8bfba164a3e763",
+      "metadata": {
+        "ordinal": 839,
+        "triple": {
+          "subject_id": "max_levchin",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Max Levchin",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.5517262092403634,
+      "created_at": "2026-07-04T05:24:21.356985-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "59231f6b-3403-4dad-9abd-e78dd4c2693f",
+      "memory": "Ray Kurzweil is employed by Google.",
+      "hash": "a1dbb528346194a086690e5c3a423d20",
+      "metadata": {
+        "ordinal": 789,
+        "triple": {
+          "subject_id": "ray_kurzweil",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Ray Kurzweil",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.5208168893716536,
+      "created_at": "2026-07-04T05:24:19.716735-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7bc3d009-e8d9-45f5-a345-775ea80efca6",
+      "memory": "The chief executive officer of Google is Sundar Pichai.",
+      "hash": "49edfa1c8736be3ebc1223bf04d40cef",
+      "metadata": {
+        "ordinal": 1972,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.5177108321758377,
+      "created_at": "2026-07-04T05:24:47.884059-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9fc8bb14-debc-40b5-ad8e-c5687992b559",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 3735,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.49293810793304527,
+      "created_at": "2026-07-04T05:25:29.776596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "921528bd-2c31-448c-9157-fadf56724c29",
+      "memory": "The chief executive officer of SpaceX is Sundar Pichai.",
+      "hash": "545af4cd6072dd21f8f83520edbe697b",
+      "metadata": {
+        "ordinal": 2703,
+        "triple": {
+          "subject_id": "spacex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.9,
+          "subject_raw": "SpaceX",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.47658606980551593,
+      "created_at": "2026-07-04T05:25:05.696581-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5f8be64d-bcb5-47dc-be0d-1a8f971d64de",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 2574,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer named",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer named"
+        }
+      },
+      "score": 0.4727716004147565,
+      "created_at": "2026-07-04T05:25:02.355343-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "996fe1a9-877d-49cd-94c7-2125c85a10f9",
+      "memory": "The chief executive officer of ARM Holdings is Sundar Pichai.",
+      "hash": "3790b9b76e0fbc6ed120b4eaa2502d6c",
+      "metadata": {
+        "ordinal": 3734,
+        "triple": {
+          "subject_id": "arm_holdings",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "ARM Holdings",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4685093875059426,
+      "created_at": "2026-07-04T05:25:29.775344-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f5ba5da2-8582-4b3e-af0b-775941842058",
+      "memory": "Ward Kimball is employed by Google.",
+      "hash": "53024678bac03de89c7ab95e8be82254",
+      "metadata": {
+        "ordinal": 3836,
+        "triple": {
+          "subject_id": "ward_kimball",
+          "predicate_norm": "be employed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Ward Kimball",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.460810265673718,
+      "created_at": "2026-07-04T05:25:31.903017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2baec410-03ba-4344-adef-c2bd4c2b0974",
+      "memory": "Sheryl Sandberg is employed by Facebook.",
+      "hash": "56e45c01050160b1e702eae1fc022a31",
+      "metadata": {
+        "ordinal": 577,
+        "triple": {
+          "subject_id": "sheryl_sandberg",
+          "predicate_norm": "be employed by",
+          "object_text": "Facebook",
+          "confidence": 0.95,
+          "subject_raw": "Sheryl Sandberg",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.4444282864662953,
+      "created_at": "2026-07-04T05:24:15.800853-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "46f92c8a-1f82-4b5e-a648-d526c77ac837",
+      "memory": "Tim Berners-Lee is a citizen of United Kingdom.",
+      "hash": "4ad8dfa79de4521e13cba32a60572921",
+      "metadata": {
+        "ordinal": 2863,
+        "triple": {
+          "subject_id": "tim_berners_lee",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Tim Berners-Lee",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3788075668525079,
+      "created_at": "2026-07-04T05:25:09.445606-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "45fdeebd-e0e2-4b8f-a536-bfceb6512081",
+      "memory": "The chief executive officer of NeXT Computer, Inc. is Steve Jobs.",
+      "hash": "0f478e33829403e529c7082a583e6ec3",
+      "metadata": {
+        "ordinal": 2986,
+        "triple": {
+          "subject_id": "the_chief_executive_officer_of_next_computer,_inc.",
+          "predicate_norm": "be",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "the chief executive officer of NeXT Computer, Inc.",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.37867280567910094,
+      "created_at": "2026-07-04T05:25:12.073977-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3b0452e7-0af2-452a-b7cd-f0bc37578041",
+      "memory": "Max Levchin is employed by WWE.",
+      "hash": "9c3117ac22ab468afab91e8d40e27846",
+      "metadata": {
+        "ordinal": 845,
+        "triple": {
+          "subject_id": "max_levchin",
+          "predicate_norm": "be employed by",
+          "object_text": "WWE",
+          "confidence": 0.95,
+          "subject_raw": "Max Levchin",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.37746551247308535,
+      "created_at": "2026-07-04T05:24:21.368766-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "de7bd026-2b88-412d-8406-a4987fc880ed",
+      "memory": "Les Moonves is employed by University of London.",
+      "hash": "16a42f09ea78f3ac9ef558de7c207d7f",
+      "metadata": {
+        "ordinal": 2972,
+        "triple": {
+          "subject_id": "les_moonves",
+          "predicate_norm": "be employed by",
+          "object_text": "University of London",
+          "confidence": 0.95,
+          "subject_raw": "Les Moonves",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.37736595908467946,
+      "created_at": "2026-07-04T05:25:12.057993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6dddd3f1-3220-479d-9bca-871ed4e8311b",
+      "memory": "Melinda Gates is employed by Microsoft.",
+      "hash": "7dfe815f83d86838a7870800fc107cc0",
+      "metadata": {
+        "ordinal": 2190,
+        "triple": {
+          "subject_id": "melinda_gates",
+          "predicate_norm": "be employed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Melinda Gates",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.37533118917732644,
+      "created_at": "2026-07-04T05:24:53.169872-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0f521e06-a0a9-41af-9f19-551741b495a3",
+      "memory": "The headquarters of Google is located in the city of Mountain View.",
+      "hash": "eac59c8a4432d99d094c215726be6db0",
+      "metadata": {
+        "ordinal": 1664,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has headquarters located in city",
+          "object_text": "Mountain View",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has headquarters located in the city of"
+        }
+      },
+      "score": 0.3717483484204001,
+      "created_at": "2026-07-04T05:24:40.760628-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4b11cf94-9200-48d5-a9d6-8a3c5b874b2f",
+      "memory": "ASP.NET was developed by Google.",
+      "hash": "bea8c78cbbc5a1373d8eda588ba14690",
+      "metadata": {
+        "ordinal": 4130,
+        "triple": {
+          "subject_id": "asp.net",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "ASP.NET",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.36879750087749086,
+      "created_at": "2026-07-04T05:25:39.225694-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "512ae556-b2d2-43bf-bc96-fa8d6bed120a",
+      "memory": "The headquarters of Google is located in the city of Plovdiv.",
+      "hash": "dc04583c5ee011164bc53e14ee9d4663",
+      "metadata": {
+        "ordinal": 3031,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has headquarters in",
+          "object_text": "Plovdiv",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has headquarters in"
+        }
+      },
+      "score": 0.36759109642698906,
+      "created_at": "2026-07-04T05:25:13.624871-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "339b6f87-eb35-4917-945d-ccf9c02c7183",
+      "memory": "The chief executive officer of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "e1fb3bddd34bea609cd05ddb04da4725",
+      "metadata": {
+        "ordinal": 3603,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3658908675150411,
+      "created_at": "2026-07-04T05:25:26.420160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3ee48923-96f7-4209-aa0a-2c71a6d97f6e",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 4296,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.36276173345943796,
+      "created_at": "2026-07-04T05:25:42.949875-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ceac268f-5e91-489e-8b24-05f682ed1449",
+      "memory": "The chief executive officer of Hewlett-Packard is Meg Whitman.",
+      "hash": "ffcca9a4652f475fc90fd3ad6c4891f3",
+      "metadata": {
+        "ordinal": 1576,
+        "triple": {
+          "subject_id": "hewlett_packard",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Meg Whitman",
+          "confidence": 0.95,
+          "subject_raw": "Hewlett-Packard",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3614770387620619,
+      "created_at": "2026-07-04T05:24:38.986747-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "33aad95a-2e7e-4bfe-8a08-14f3aa2274ce",
+      "memory": "Steve Jobs is a citizen of United States of America.",
+      "hash": "8361be49981f7a5cc65edaee5adc3e18",
+      "metadata": {
+        "ordinal": 3212,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3572361803625048,
+      "created_at": "2026-07-04T05:25:17.566313-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b7b478ac-a26d-438c-acc6-db2de50e80ac",
+      "memory": "Shigeru Miyamoto is employed by University of Oxford.",
+      "hash": "9a4cc3c99ba35a09bd6704d1d651e51d",
+      "metadata": {
+        "ordinal": 2950,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.35318589278986495,
+      "created_at": "2026-07-04T05:25:11.098499-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "10c13ec8-e175-416d-bbe4-6c6d373a37f2",
+      "memory": "The chairperson of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "6b3e394c987856f1649c25b815996c81",
+      "metadata": {
+        "ordinal": 1766,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.35308471641703876,
+      "created_at": "2026-07-04T05:24:43.221140-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "38b9b28c-30c0-471c-8118-d5d668760ca0",
+      "memory": "Shigeru Miyamoto is employed by Nintendo.",
+      "hash": "1afe586da8109e72a54c53a049bd8f4c",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "shigeru_miyamoto",
+          "predicate_norm": "be employed by",
+          "object_text": "Nintendo",
+          "confidence": 0.95,
+          "subject_raw": "Shigeru Miyamoto",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3506001971631998,
+      "created_at": "2026-07-04T05:24:03.816137-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "965915a0-448e-4a88-8b43-5f3bb9c25823",
+      "memory": "Steve Jobs is a citizen of South Korea",
+      "hash": "80d32e60669c444b860334101eb59a48",
+      "metadata": {
+        "ordinal": 4398,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be citizen",
+          "object_text": "South Korea",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3464195032892498,
+      "created_at": "2026-07-04T05:25:45.875757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "974605f1-75a4-4b2c-b3b6-b5cc548719ca",
+      "memory": "The chief executive officer of Hewlett-Packard is Vijay Mallya.",
+      "hash": "f730edf06f035f710acdd2d0e26858d7",
+      "metadata": {
+        "ordinal": 2683,
+        "triple": {
+          "subject_id": "hewlett_packard",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Hewlett-Packard",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.34591073047165855,
+      "created_at": "2026-07-04T05:25:04.872350-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "debb3292-026e-402d-b9b0-4c6c48122e8f",
+      "memory": "iPod was developed by Google.",
+      "hash": "6971b67d7092b2c23f612658118aee31",
+      "metadata": {
+        "ordinal": 3302,
+        "triple": {
+          "subject_id": "ipod",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPod",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3433574190106491,
+      "created_at": "2026-07-04T05:25:19.362283-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bd581ea3-63a3-441d-b5b9-46eca481c689",
+      "memory": "Dart was developed by Google.",
+      "hash": "1eba89b630856313782058d9200c33e2",
+      "metadata": {
+        "ordinal": 2632,
+        "triple": {
+          "subject_id": "dart",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Dart",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3425913306682934,
+      "created_at": "2026-07-04T05:25:04.053847-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a6361f18-6467-4c8d-ba40-3e38e8728e60",
+      "memory": "iPad Pro was developed by Google.",
+      "hash": "35d7c9b06fe4e0d8d6b707195fe58cec",
+      "metadata": {
+        "ordinal": 870,
+        "triple": {
+          "subject_id": "ipad_pro",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iPad Pro",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3417593686012509,
+      "created_at": "2026-07-04T05:24:22.358717-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b44dcb17-b99b-45ed-aa00-2d607065febb",
+      "memory": "The chairperson of Hon Hai Precision Industry is Talia Sasson.",
+      "hash": "d61ee7c4f57979a51c5619de12412a57",
+      "metadata": {
+        "ordinal": 2096,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Talia Sasson",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.33978631430342454,
+      "created_at": "2026-07-04T05:24:50.501102-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "933e68ad-ba10-4a1f-9e19-68ab491d2e6c",
+      "memory": "The chief executive officer of Panasonic Corporation is Satya Nadella.",
+      "hash": "d01ef6d4828234fbf3bbd57af34c6ae2",
+      "metadata": {
+        "ordinal": 1875,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.33956746219604234,
+      "created_at": "2026-07-04T05:24:45.662024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f4d87e0c-4e59-4e0f-94ee-54551bf95835",
+      "memory": "NeXT Computer, Inc. was founded by Steve Jobs.",
+      "hash": "bdd91b9b20d480354e66066bc20e25cc",
+      "metadata": {
+        "ordinal": 831,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3393372092326418,
+      "created_at": "2026-07-04T05:24:21.335036-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b1e50652-fd7b-48fd-88cb-0b48ca0d25bb",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 3812,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3379399732749336,
+      "created_at": "2026-07-04T05:25:31.355761-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4bd2e6fe-a14a-43be-bb83-8f16fa363c72",
+      "memory": "Steven Levitt is employed by University of Chicago.",
+      "hash": "edac18ba6460061082270c8e699193cc",
+      "metadata": {
+        "ordinal": 4149,
+        "triple": {
+          "subject_id": "steven_levitt",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "Steven Levitt",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3377703042760841,
+      "created_at": "2026-07-04T05:25:39.846307-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e512a4f0-66a7-4341-abd6-f9576c548a33",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 3164,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.33633263537470626,
+      "created_at": "2026-07-04T05:25:16.259227-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1eb666ea-c42f-43b3-a11b-b55f926ec4b2",
+      "memory": "Derek Bok is employed by Harvard University.",
+      "hash": "0c32fdc08a83513d41c09816c4174e47",
+      "metadata": {
+        "ordinal": 1057,
+        "triple": {
+          "subject_id": "derek_bok",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Derek Bok",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3349190016095183,
+      "created_at": "2026-07-04T05:24:26.783320-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "575a73fe-5dc8-4ca0-b535-074e3a7e1f3e",
+      "memory": "Bing was created by Microsoft.",
+      "hash": "cceea38f8ec0b2367c354aff303d67de",
+      "metadata": {
+        "ordinal": 4201,
+        "triple": {
+          "subject_id": "bing",
+          "predicate_norm": "be created by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Bing",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.3322386786278274,
+      "created_at": "2026-07-04T05:25:40.540665-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "524cceea-4af0-4737-954c-a5d8e3cb8a04",
+      "memory": "Tim Cook is a citizen of United Kingdom.",
+      "hash": "bf47c90a78ef2ced3e891b503b3f7b54",
+      "metadata": {
+        "ordinal": 4049,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3314631921452653,
+      "created_at": "2026-07-04T05:25:36.955837-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "127758b4-7bea-4b38-8256-a205ad0a25ae",
+      "memory": "The chief executive officer of Advanced Micro Devices is Lisa Su",
+      "hash": "46b67dacc3bb9c82e3e3958e1e3003d9",
+      "metadata": {
+        "ordinal": 2143,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lisa Su",
+          "confidence": 0.9,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3313695628340573,
+      "created_at": "2026-07-04T05:24:52.303072-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c487be5-84d1-4741-9f95-1c4b5f2672c4",
+      "memory": "Apple Inc. was created in the country of United States of America.",
+      "hash": "aaea4a164ba20c70de619b56c8ec1873",
+      "metadata": {
+        "ordinal": 1357,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.3310774581166845,
+      "created_at": "2026-07-04T05:24:33.048840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "63c632b2-ef35-4e70-97da-7036178283b1",
+      "memory": "The chief executive officer of Valve Corporation is Mukesh Ambani.",
+      "hash": "9a1b0f70d5385788d2b1dc2dc06ea63d",
+      "metadata": {
+        "ordinal": 3447,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mukesh Ambani",
+          "confidence": 0.9,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.330362024669158,
+      "created_at": "2026-07-04T05:25:23.040046-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6e210b33-ad8b-4e50-9f35-06c3e2628ae8",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 3911,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32801729021838394,
+      "created_at": "2026-07-04T05:25:33.350930-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9a1a4b28-93e6-446f-aae1-8304982f0078",
+      "memory": "GarageBand was developed by Google.",
+      "hash": "fe7dbd6b460e82be2da0e8630d0d1fd8",
+      "metadata": {
+        "ordinal": 1984,
+        "triple": {
+          "subject_id": "garageband",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "GarageBand",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3268324788942991,
+      "created_at": "2026-07-04T05:24:47.897814-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7ab0442c-a8b9-4ea7-9a3f-92995ba09600",
+      "memory": "NeXT Computer, Inc. was founded by Mikhail Khodorkovsky.",
+      "hash": "0290215c845d515245c796a58fc66132",
+      "metadata": {
+        "ordinal": 1309,
+        "triple": {
+          "subject_id": "next_computer,_inc.",
+          "predicate_norm": "be founded by",
+          "object_text": "Mikhail Khodorkovsky",
+          "confidence": 0.95,
+          "subject_raw": "NeXT Computer, Inc.",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3233893629070135,
+      "created_at": "2026-07-04T05:24:32.159227-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "47135808-8a5a-4b55-b299-52d61e14595c",
+      "memory": "Satya Nadella was born in the city of London.",
+      "hash": "4eb07739a5839f18d8bef188c5f8246a",
+      "metadata": {
+        "ordinal": 3090,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.32143326834739694,
+      "created_at": "2026-07-04T05:25:14.738315-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5d1ecf9c-3cf3-4087-b27c-91296e579c03",
+      "memory": "The chief executive officer of Canonical Group Limited is Jamie Dimon.",
+      "hash": "d6925eb365c4f47e8061b9e65699bab9",
+      "metadata": {
+        "ordinal": 2575,
+        "triple": {
+          "subject_id": "canonical_group_limited",
+          "predicate_norm": "has chief executive officer named",
+          "object_text": "Jamie Dimon",
+          "confidence": 0.95,
+          "subject_raw": "Canonical Group Limited",
+          "predicate_raw": "has chief executive officer named"
+        }
+      },
+      "score": 0.32034199518524864,
+      "created_at": "2026-07-04T05:25:02.356579-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "302320b0-40f0-4d67-ba16-4f4055ab611a",
+      "memory": "Windows 95 was developed by Google.",
+      "hash": "2aa2f0b59b8216cfb850badad903f5b1",
+      "metadata": {
+        "ordinal": 3686,
+        "triple": {
+          "subject_id": "windows_95",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Windows 95",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3202208790577671,
+      "created_at": "2026-07-04T05:25:28.140140-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b5950fb1-400b-4a72-9328-cd450f571d81",
+      "memory": "Jonas Salk is employed by University of Pittsburgh.",
+      "hash": "57e0d86e471b2c3ccfa5ebc4c915925b",
+      "metadata": {
+        "ordinal": 389,
+        "triple": {
+          "subject_id": "jonas_salk",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Pittsburgh",
+          "confidence": 0.95,
+          "subject_raw": "Jonas Salk",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3194195201023371,
+      "created_at": "2026-07-04T05:24:11.695610-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7e369d49-800f-4389-9290-105522e50e48",
+      "memory": "T. E. Lawrence is employed by University of Oxford.",
+      "hash": "0c829729d125b6f78893f5f33273a7dd",
+      "metadata": {
+        "ordinal": 2034,
+        "triple": {
+          "subject_id": "t._e._lawrence",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "T. E. Lawrence",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31779290110326897,
+      "created_at": "2026-07-04T05:24:49.646240-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fd7c53b1-5cbf-41ea-a0cd-7f9b932cd875",
+      "memory": "Internet Explorer 5 was developed by Google.",
+      "hash": "0fa4771785b501a79b462e6f32902150",
+      "metadata": {
+        "ordinal": 4513,
+        "triple": {
+          "subject_id": "internet_explorer_5",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Internet Explorer 5",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3152263582753845,
+      "created_at": "2026-07-04T05:25:48.723275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d17338eb-2730-494a-8338-cddfebba3b82",
+      "memory": "Lucrețiu Pătrășcanu is employed by University of Bucharest.",
+      "hash": "6d5b9afa30e0a1acc754b5c315b71d41",
+      "metadata": {
+        "ordinal": 75,
+        "triple": {
+          "subject_id": "lucrețiu_pătrășcanu",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Bucharest",
+          "confidence": 0.95,
+          "subject_raw": "Lucrețiu Pătrășcanu",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31420889347159797,
+      "created_at": "2026-07-04T05:24:04.586106-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ca731aba-29c0-48e2-96e3-1efe51e8bd94",
+      "memory": "Spotlight was developed by Apple Inc.",
+      "hash": "eec19c5eaaf28b6de30e131df06fa210",
+      "metadata": {
+        "ordinal": 369,
+        "triple": {
+          "subject_id": "spotlight",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "Spotlight",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.31366855939046356,
+      "created_at": "2026-07-04T05:24:10.826127-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6cfe3054-727d-419c-854e-cd40249ea7df",
+      "memory": "Omidyar Network was founded by Pierre Omidyar.",
+      "hash": "b15b6148e0b15d8fe3359dde98fa2a0e",
+      "metadata": {
+        "ordinal": 2948,
+        "triple": {
+          "subject_id": "omidyar_network",
+          "predicate_norm": "be founded by",
+          "object_text": "Pierre Omidyar",
+          "confidence": 0.95,
+          "subject_raw": "Omidyar Network",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3130962226817464,
+      "created_at": "2026-07-04T05:25:11.095785-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1956c76c-4bd2-441a-a2d7-ad3cd6b241c8",
+      "memory": "Zynga was founded by Mark Pincus.",
+      "hash": "ecc148342699ee81019f3aba21a787d8",
+      "metadata": {
+        "ordinal": 1314,
+        "triple": {
+          "subject_id": "zynga",
+          "predicate_norm": "be founded by",
+          "object_text": "Mark Pincus",
+          "confidence": 0.95,
+          "subject_raw": "Zynga",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3127139388307657,
+      "created_at": "2026-07-04T05:24:32.165294-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a24c71a6-ca8f-45d8-9d56-1280e017ec1f",
+      "memory": "The chairperson of World Wide Web Consortium is Tim Berners-Lee",
+      "hash": "71d4695f01a6ac4854ecb21d57cf1865",
+      "metadata": {
+        "ordinal": 2142,
+        "triple": {
+          "subject_id": "world_wide_web_consortium",
+          "predicate_norm": "has chairperson",
+          "object_text": "Tim Berners-Lee",
+          "confidence": 0.9,
+          "subject_raw": "World Wide Web Consortium",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.3124521128266913,
+      "created_at": "2026-07-04T05:24:52.301908-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b813222a-5c3a-4d0b-be5c-a40633ba6990",
+      "memory": "George Santayana is employed by Harvard University.",
+      "hash": "dacb4097e3e4916078b79255b3f3cd67",
+      "metadata": {
+        "ordinal": 788,
+        "triple": {
+          "subject_id": "george_santayana",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "George Santayana",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31230622397918073,
+      "created_at": "2026-07-04T05:24:19.715610-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "336693cb-a73d-4006-9241-eccbd3c9f294",
+      "memory": "The director of Blizzard Entertainment is Eben Moglen.",
+      "hash": "210e869c71ad664b14049987f2579581",
+      "metadata": {
+        "ordinal": 1988,
+        "triple": {
+          "subject_id": "blizzard_entertainment",
+          "predicate_norm": "has director",
+          "object_text": "Eben Moglen",
+          "confidence": 0.95,
+          "subject_raw": "Blizzard Entertainment",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.31058357290819183,
+      "created_at": "2026-07-04T05:24:47.902228-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b25d4a80-404f-453c-938f-b70845acadb3",
+      "memory": "John L. Hennessy is employed by Stanford University.",
+      "hash": "5aedc0bd4372fdc4e7d70ce9d83bfb16",
+      "metadata": {
+        "ordinal": 3589,
+        "triple": {
+          "subject_id": "john_l._hennessy",
+          "predicate_norm": "be employed by",
+          "object_text": "Stanford University",
+          "confidence": 0.95,
+          "subject_raw": "John L. Hennessy",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3104226504473336,
+      "created_at": "2026-07-04T05:25:26.403086-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "320b74a1-1f5e-4a0d-82f4-babdcdc96f2f",
+      "memory": "Les Moonves is employed by CBS.",
+      "hash": "ef1906643149dad15fa0bf13e6571a70",
+      "metadata": {
+        "ordinal": 2113,
+        "triple": {
+          "subject_id": "les_moonves",
+          "predicate_norm": "be employed by",
+          "object_text": "CBS",
+          "confidence": 0.95,
+          "subject_raw": "Les Moonves",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.31020852269820487,
+      "created_at": "2026-07-04T05:24:51.349907-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "83ec01ba-e7cf-4320-ba2f-adf045c9a688",
+      "memory": "Pierre Omidyar was born in the city of Paris.",
+      "hash": "94c381192f34d9b51bb74a590953b52d",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "pierre_omidyar",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Pierre Omidyar",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.3095652304211448,
+      "created_at": "2026-07-04T05:24:05.418580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8e3b2980-07f3-4084-95c7-6cb28e24378b",
+      "memory": "John Farrell is employed by Los Angeles Dodgers.",
+      "hash": "7378bf2605796dd5f2c59c14a615c580",
+      "metadata": {
+        "ordinal": 2046,
+        "triple": {
+          "subject_id": "john_farrell",
+          "predicate_norm": "be employed by",
+          "object_text": "Los Angeles Dodgers",
+          "confidence": 0.95,
+          "subject_raw": "John Farrell",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3084777988028624,
+      "created_at": "2026-07-04T05:24:49.660221-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f089c56f-c9ca-4aa6-86ac-22b187cbceed",
+      "memory": "The chief executive officer of General Motors is Marc Benioff.",
+      "hash": "9bb13dc38b7c3a7255d4e53251ff8ab5",
+      "metadata": {
+        "ordinal": 4506,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marc Benioff",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.307586908991618,
+      "created_at": "2026-07-04T05:25:48.714604-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6894e2c7-29f2-4c95-ac25-7a55f1791f78",
+      "memory": "Jeff Bezos is a citizen of United States of America.",
+      "hash": "f7a65ebfb81c53ec9b892448aabe5b89",
+      "metadata": {
+        "ordinal": 3304,
+        "triple": {
+          "subject_id": "jeff_bezos",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jeff Bezos",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3072810547324595,
+      "created_at": "2026-07-04T05:25:19.365075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "448187cb-66f4-4d98-a75a-3a9709073000",
+      "memory": "Philip Pullman is employed by University of Oxford.",
+      "hash": "59e2aa6cd75f6dc33757d1f697b46f98",
+      "metadata": {
+        "ordinal": 2628,
+        "triple": {
+          "subject_id": "philip_pullman",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "Philip Pullman",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3059187655446154,
+      "created_at": "2026-07-04T05:25:04.049420-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a52a78e0-b324-45e0-a1de-bea4ba957b00",
+      "memory": "Blue Origin was founded by Jeff Bezos.",
+      "hash": "79bcdb72ec1fe89340db1ff1972a1ea4",
+      "metadata": {
+        "ordinal": 112,
+        "triple": {
+          "subject_id": "blue_origin",
+          "predicate_norm": "be founded by",
+          "object_text": "Jeff Bezos",
+          "confidence": 0.95,
+          "subject_raw": "Blue Origin",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3050436174267048,
+      "created_at": "2026-07-04T05:24:05.417415-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e631c9d9-66e0-4553-bdbf-da3c4ce5de49",
+      "memory": "The chief executive officer of Canonical Group Limited is Jane Silber.",
+      "hash": "5b42382cfb44095c352247ff1f7614ff",
+      "metadata": {
+        "ordinal": 2283,
+        "triple": {
+          "subject_id": "canonical_group_limited",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Jane Silber",
+          "confidence": 0.95,
+          "subject_raw": "Canonical Group Limited",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.30331227001654815,
+      "created_at": "2026-07-04T05:24:55.577881-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5ff6ab4a-5ae9-4588-9d73-f47f32cb9040",
+      "memory": "Clark Kent is employed by Daily Planet.",
+      "hash": "16c4d098d87ff8327fad468e9eaf5349",
+      "metadata": {
+        "ordinal": 3056,
+        "triple": {
+          "subject_id": "clark_kent",
+          "predicate_norm": "be employed by",
+          "object_text": "Daily Planet",
+          "confidence": 0.95,
+          "subject_raw": "Clark Kent",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.30268579826830727,
+      "created_at": "2026-07-04T05:25:13.654697-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cba8e21d-3464-49fe-bf62-73df784fd9f9",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook.",
+      "hash": "dbc052624c7f319f53db7ee009d2c1ae",
+      "metadata": {
+        "ordinal": 356,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Tim Cook",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.30229787624628224,
+      "created_at": "2026-07-04T05:24:10.809193-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "37092b25-744a-41a2-bb18-bbd18406c6ca",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 3851,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3008861906183635,
+      "created_at": "2026-07-04T05:25:31.928798-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bae96e14-d569-4ae0-b91c-4a004f7b6f0e",
+      "memory": "Melinda Gates is employed by WWE.",
+      "hash": "a8481a2350538936bff3206243da5888",
+      "metadata": {
+        "ordinal": 4204,
+        "triple": {
+          "subject_id": "melinda_gates",
+          "predicate_norm": "be employed by",
+          "object_text": "WWE",
+          "confidence": 0.95,
+          "subject_raw": "Melinda Gates",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.30052420843290745,
+      "created_at": "2026-07-04T05:25:40.544586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "09f02a00-9c48-470c-bbbe-7ce06e1eb48a",
+      "memory": "Facebook was created by Mark Zuckerberg.",
+      "hash": "a8e009888fd6a39d8bbf253f9f655684",
+      "metadata": {
+        "ordinal": 505,
+        "triple": {
+          "subject_id": "facebook",
+          "predicate_norm": "be created by",
+          "object_text": "Mark Zuckerberg",
+          "confidence": 0.95,
+          "subject_raw": "Facebook",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.3004053826455302,
+      "created_at": "2026-07-04T05:24:14.209187-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "851d7398-0750-462d-975a-6b932b7e50b8",
+      "memory": "Joseph Story is employed by Harvard University.",
+      "hash": "fd3029c2b4289d21df5690b277ec5105",
+      "metadata": {
+        "ordinal": 3834,
+        "triple": {
+          "subject_id": "joseph_story",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Story",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.30023570476808625,
+      "created_at": "2026-07-04T05:25:31.898569-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "921355b8-394f-4088-8c09-36e9fcfbfe7e",
+      "memory": "The director of Valve Corporation is Gabe Newell.",
+      "hash": "8d2023afa43217dc26a3238e7a1a4626",
+      "metadata": {
+        "ordinal": 2022,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2992191203933534,
+      "created_at": "2026-07-04T05:24:48.792072-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a7a11e58-7f16-48d4-ac17-111d0ea2bc81",
+      "memory": "PowerBook G4 was developed by Microsoft.",
+      "hash": "0897d751ef64678c66251cd308f73ee4",
+      "metadata": {
+        "ordinal": 4460,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.29747953135127525,
+      "created_at": "2026-07-04T05:25:47.644088-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f11089d6-b0f9-47e4-b5a4-bb9cbd62cfb5",
+      "memory": "George Santayana is employed by University of Chicago.",
+      "hash": "68d491a900636e8028a0f145262f0c32",
+      "metadata": {
+        "ordinal": 3893,
+        "triple": {
+          "subject_id": "george_santayana",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Chicago",
+          "confidence": 0.95,
+          "subject_raw": "George Santayana",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.29732785681861246,
+      "created_at": "2026-07-04T05:25:32.783425-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9382161a-90cf-43df-8e48-02f56efc5a8d",
+      "memory": "The chief executive officer of SpaceX is Elon Musk.",
+      "hash": "cd9534b4ace4cb0167a7b379b889dd68",
+      "metadata": {
+        "ordinal": 922,
+        "triple": {
+          "subject_id": "spacex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Elon Musk",
+          "confidence": 0.95,
+          "subject_raw": "SpaceX",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2950024434002841,
+      "created_at": "2026-07-04T05:24:23.360673-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c2bf6da8-71f1-4352-8ce4-fe8af624b45c",
+      "memory": "Philip Pullman is employed by University of Cambridge.",
+      "hash": "738a1dcba78a82e0b7e523fa788bed09",
+      "metadata": {
+        "ordinal": 3886,
+        "triple": {
+          "subject_id": "philip_pullman",
+          "predicate_norm": "be employed by",
+          "object_text": "University of Cambridge",
+          "confidence": 0.95,
+          "subject_raw": "Philip Pullman",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.29497761344184925,
+      "created_at": "2026-07-04T05:25:32.772487-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0bf38e16-52ee-4e40-9928-51282622cfcd",
+      "memory": "The chief executive officer of Valve Corporation is Gabe Newell.",
+      "hash": "d78e6179ccb31fcaa1164c84600e371e",
+      "metadata": {
+        "ordinal": 1052,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2941040106483685,
+      "created_at": "2026-07-04T05:24:26.777475-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8e8f68cc-8390-485e-8a51-c798e19a25ce",
+      "memory": "Gabe Newell is a citizen of United States of America.",
+      "hash": "c3eff785bd61bd0e7fb5e8f15f66ec67",
+      "metadata": {
+        "ordinal": 1617,
+        "triple": {
+          "subject_id": "gabe_newell",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Gabe Newell",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2933687586156155,
+      "created_at": "2026-07-04T05:24:39.878246-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "33026da8-2c0c-428e-ac5c-f85f72d84cce",
+      "memory": "The chief executive officer of Netflix is Reed Hastings.",
+      "hash": "69c193b973715d0be7cae7310676fc5a",
+      "metadata": {
+        "ordinal": 472,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Reed Hastings",
+          "confidence": 0.95,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.29332386049770615,
+      "created_at": "2026-07-04T05:24:13.417453-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4c9453f9-c070-489d-a863-4107912f1469",
+      "memory": "The director of Epic Games is Tim Sweeney.",
+      "hash": "5c9428e4db472c0e50bced0a647ef351",
+      "metadata": {
+        "ordinal": 3357,
+        "triple": {
+          "subject_id": "epic_games",
+          "predicate_norm": "has director",
+          "object_text": "Tim Sweeney",
+          "confidence": 0.95,
+          "subject_raw": "Epic Games",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.2909921126892427,
+      "created_at": "2026-07-04T05:25:20.780014-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e82f4cd8-f809-42a4-a0e6-4f70e1850d5b",
+      "memory": "Joseph Nye is employed by Harvard University.",
+      "hash": "e124e43fa06fe61b1e94a8adea85a579",
+      "metadata": {
+        "ordinal": 4481,
+        "triple": {
+          "subject_id": "joseph_nye",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Nye",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.29018416947918296,
+      "created_at": "2026-07-04T05:25:47.717069-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fcb7f2c6-cb5e-46ff-8b67-e24a203113dd",
+      "memory": "Richard Herrnstein is employed by Harvard University.",
+      "hash": "e1d18aab539b3315cfddbdbf3774eb88",
+      "metadata": {
+        "ordinal": 804,
+        "triple": {
+          "subject_id": "richard_herrnstein",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Richard Herrnstein",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.2896265291506752,
+      "created_at": "2026-07-04T05:24:20.593203-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "afbbac0c-7858-494f-915b-709f00ea530a",
+      "memory": "iMovie was developed by Google.",
+      "hash": "7414821deef40503e0859ee934fa910e",
+      "metadata": {
+        "ordinal": 4031,
+        "triple": {
+          "subject_id": "imovie",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "iMovie",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2892814987262919,
+      "created_at": "2026-07-04T05:25:35.911231-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "16dba0f2-07bf-4307-a3e5-750ec79ed617",
+      "memory": "The chief executive officer of Panasonic Corporation is Kazuhiro Tsuga.",
+      "hash": "309bf9e6aa0cc6efa8b333fbdb4ecd60",
+      "metadata": {
+        "ordinal": 580,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Kazuhiro Tsuga",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.28808784155071204,
+      "created_at": "2026-07-04T05:24:15.805667-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "01cf4b56-f74c-43a3-ab27-4825d29c84e5",
+      "memory": "John Farrell is employed by Boston Red Sox.",
+      "hash": "2e51a05dd4c4b0a44b15b5b29370e7a6",
+      "metadata": {
+        "ordinal": 775,
+        "triple": {
+          "subject_id": "john_farrell",
+          "predicate_norm": "be employed by",
+          "object_text": "Boston Red Sox",
+          "confidence": 0.95,
+          "subject_raw": "John Farrell",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.28797237795307296,
+      "created_at": "2026-07-04T05:24:19.697663-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3f61f954-3be9-487b-80ca-c5cabafdd221",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Andrew House",
+      "hash": "acc098f28c29beb6eb22c5f8df75a7b5",
+      "metadata": {
+        "ordinal": 540,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew House",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2869205588181354,
+      "created_at": "2026-07-04T05:24:15.014385-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a9618c4e-4be1-4edc-8eba-a30ae7ead994",
+      "memory": "The chief executive officer of ARM Holdings is Simon Segars.",
+      "hash": "732aea82eb1b9dbe39fb40de67e6ec2d",
+      "metadata": {
+        "ordinal": 514,
+        "triple": {
+          "subject_id": "arm_holdings",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Simon Segars",
+          "confidence": 0.95,
+          "subject_raw": "ARM Holdings",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.28648138179322313,
+      "created_at": "2026-07-04T05:24:14.220063-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "12747800-31c1-4c38-abe5-068beaa587c8",
+      "memory": "Epic Games was founded by Tim Sweeney.",
+      "hash": "bc2441844a2e06fdf23177fe5217d31c",
+      "metadata": {
+        "ordinal": 3060,
+        "triple": {
+          "subject_id": "epic_games",
+          "predicate_norm": "be founded by",
+          "object_text": "Tim Sweeney",
+          "confidence": 0.95,
+          "subject_raw": "Epic Games",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.28544972681319025,
+      "created_at": "2026-07-04T05:25:13.659201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0614833c-2838-4bd8-89fe-57684c04aafe",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 653,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in",
+          "object_text": "the city of San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2841040732526052,
+      "created_at": "2026-07-04T05:24:17.390596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2b626da7-cc06-42fa-80b1-9749805c4cd4",
+      "memory": "Satya Nadella was born in the city of Hyderabad.",
+      "hash": "39c8e8e3c78f3ee151b53c943ebf9a1a",
+      "metadata": {
+        "ordinal": 816,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2837666967493749,
+      "created_at": "2026-07-04T05:24:20.613041-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0c3b59a1-7c4b-4afa-904d-670923bd4879",
+      "memory": "Server Message Block was developed by Google",
+      "hash": "c374e1c26ada7df15923144a59ad8c72",
+      "metadata": {
+        "ordinal": 2164,
+        "triple": {
+          "subject_id": "server_message_block",
+          "predicate_norm": "be developed by",
+          "object_text": "Google",
+          "confidence": 0.95,
+          "subject_raw": "Server Message Block",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28328023521881207,
+      "created_at": "2026-07-04T05:24:52.325702-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "693a08bc-a6f5-461e-a76b-a3a2a25e4858",
+      "memory": "The chairperson of Xiaomi is Lei Jun.",
+      "hash": "f3c5070182ea67b36a760b9f98072b49",
+      "metadata": {
+        "ordinal": 1383,
+        "triple": {
+          "subject_id": "xiaomi",
+          "predicate_norm": "has chairperson",
+          "object_text": "Lei Jun",
+          "confidence": 0.95,
+          "subject_raw": "Xiaomi",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.2827666067503043,
+      "created_at": "2026-07-04T05:24:33.934422-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "38f71bcd-cf25-40ad-b24f-aef4c7c8c917",
+      "memory": "Steve Lamacq is a citizen of United Kingdom.",
+      "hash": "3c81e1ab808708405210f7f7775baffa",
+      "metadata": {
+        "ordinal": 690,
+        "triple": {
+          "subject_id": "steve_lamacq",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Steve Lamacq",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.28202796343498915,
+      "created_at": "2026-07-04T05:24:18.194029-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bb2301ba-ecde-472b-b5a4-da29810698d6",
+      "memory": "PowerBook G4 was developed by Apple Inc.",
+      "hash": "3b2dc035e57b84ce14ec20943df9caee",
+      "metadata": {
+        "ordinal": 2108,
+        "triple": {
+          "subject_id": "powerbook_g4",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "PowerBook G4",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.28165814866355615,
+      "created_at": "2026-07-04T05:24:51.344181-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0149b46b-1fcb-4630-a248-faf87f19d99b",
+      "memory": "The chief executive officer of Netflix is Neil Aspinall.",
+      "hash": "18d2a96baa53942d95b1d9db3567fa92",
+      "metadata": {
+        "ordinal": 4567,
+        "triple": {
+          "subject_id": "netflix",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Neil Aspinall",
+          "confidence": 0.95,
+          "subject_raw": "Netflix",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2816184402672692,
+      "created_at": "2026-07-04T05:25:49.995145-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "202150e4-037c-44e0-86e6-15574fa9c5c8",
+      "memory": "The chief executive officer of ABB Group is Bernard Arnault.",
+      "hash": "7ce66f1ad34acd1d0596dca6554a6d14",
+      "metadata": {
+        "ordinal": 1797,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2808126828696138,
+      "created_at": "2026-07-04T05:24:44.001047-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ]
+}

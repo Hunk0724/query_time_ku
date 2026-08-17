@@ -1,0 +1,36 @@
+# Mem0 (vector) — T5 diagnostic run for mem0 failure decomposition (2026-06-03).
+# Identical to Structure_rag_mem0_gemini-3.1-flash-lite_chunk512_temp0.yaml EXCEPT:
+#   - fact-aware chunker (auto-routed for factconsolidation in conversation_creator)
+#   - fresh namespace (output_dir / qdrant / agent_name suffix) so the prior
+#     2026-05-30 old-chunker result is preserved for comparison.
+# Component-1/2/3 instrumentation activates only when env MEM0_CAND_LOG_DIR is set.
+# See docs/0603_current_research_main_evidence/00_research_axis_and_setup.md.
+agent_name: Structure_rag_mem0_gemini-3.1-flash-lite_chunk512_factaware
+model: gemini-3.1-flash-lite
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gemini-3.1-flash-lite-mem0-chunk512-temp0-factaware
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: vertexai
+    config:
+      model: gemini-3.1-flash-lite
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: vertexai
+    config:
+      model: text-embedding-004
+      embedding_dims: 768
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_vertex_factaware_768
+      embedding_model_dims: 768
+      path: /tmp/qdrant_mem0_vertex_factaware
+  use_l1_fc_prompt: true

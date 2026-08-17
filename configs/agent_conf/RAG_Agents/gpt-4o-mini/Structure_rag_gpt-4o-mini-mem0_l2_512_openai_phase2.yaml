@@ -1,0 +1,37 @@
+# gpt-4o-mini mem0 — Phase 2 (0615) structural + LLM dynamic grouping variant.
+# IDENTICAL to Structure_rag_gpt-4o-mini-mem0_l2_512_openai.yaml EXCEPT isolated
+# qdrant store + output_dir. Phase 0 behavior is gated entirely by env vars set
+# in the launch script (MEM0_ADD_MODE=phase0_structural + frozen caches), so the
+# extraction/embedder/retrieval/inference prompt are byte-identical to vanilla;
+# only the memory-side (conservative ADD + (S,P) triple index at write, group +
+# temporal resolve at query) differs.
+agent_name: Structure_rag_gpt-4o-mini-mem0_l2_512_openai_phase2
+model: gpt-4o-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-l2-openai-phase2
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-4o-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_l2_512_openai_phase2
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_phase2
+      on_disk: true
+  use_l2_fc_prompt: true

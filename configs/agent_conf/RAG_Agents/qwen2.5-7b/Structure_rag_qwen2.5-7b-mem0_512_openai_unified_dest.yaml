@@ -1,0 +1,36 @@
+# Gemma3-1b mem0 — DESTRUCTIVE write baseline (b, weak-model regime).
+# ours unified extraction HELD FIXED (env MEM0_EXTRACTION_CACHE reuses ours' P1)
+# + stock mem0 ADD/UPDATE/DELETE at WRITE time, LLM-judged by qwen2.5:7b.
+# Isolates write-time destructive-update loss vs our query-time resolution.
+# Native-vanilla (mem0's own extractor) skipped: weak gemma barely extracts.
+agent_name: Structure_rag_qwen2.5-7b-mem0_512_openai_unified_dest
+model: qwen2.5:7b
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-unified_dest__qwen2.5-7b
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: ollama
+    config:
+      model: qwen2.5:7b
+      temperature: 0
+      max_tokens: 4096
+      ollama_base_url: http://localhost:11434
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_dest__qwen2.5-7b
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_dest__qwen2.5-7b
+      on_disk: true
+  use_unified_extractor: true

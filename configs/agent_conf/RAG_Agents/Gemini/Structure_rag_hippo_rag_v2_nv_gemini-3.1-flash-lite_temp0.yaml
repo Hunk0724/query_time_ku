@@ -1,0 +1,21 @@
+# HippoRAG-v2 vanilla Plan A — GA backbone + temp=0.
+# All modification flags default to false → pure vanilla pipeline:
+#   indexing: OpenIE triple → entity/passage/synonymy edges
+#   query: fact scoring → fact rerank → seed weights → PPR
+#   inference: top-K passages → answer LLM
+# See method_v2.0.2_status_brief.md for our modification stack (W1/W2 disabled here).
+agent_name: Structure_rag_hippo_rag_v2_nv
+model: gemini-3.1-flash-lite               # GA (was -preview in old pilot)
+temperature: 0                              # deterministic EM
+input_length_limit: 10000000
+buffer_length: 200
+output_dir: ./outputs/gemini-3.1-flash-lite-hippo_rag_v2_nv-vanilla-temp0
+
+retrieve_num: 10
+
+# (All HippoRAG-v2 modification flags omitted → default false → vanilla)
+# - enable_supersession: false
+# - enable_phase2_chain_detection: false
+# - enable_phase3_v2_enriched: false
+# - enable_v2_detect: false
+# See methods/hipporag/config_utils.py for the full flag list.

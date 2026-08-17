@@ -1,0 +1,48 @@
+# Mem0g-prompt-aware variant: verbalize graph relations into inference prompt
+# (MABench-as-is bug fix; restores upstream mem0 cookbook pattern).
+# See docs/baseline_methods/mem0g_reproducibility.md
+#
+# Differences vs. Structure_rag_mem0g_gemini-3.1-flash-lite_chunk512.yaml:
+#   1. agent_name suffix "_promptaware" — for output dir + SQLite isolation
+#      (P8 in agent.py now appends agent_name fingerprint to history.db suffix)
+#   2. temperature: 0.7 + mem0 internal LLM 0.7 — benchmark default
+#      (Structure_rag_gpt-4o-mini-mem0.yaml:3)
+#   3. mem0_config.prompt_aware_graph: true — flips agent.py _handle_mem0_agent
+#      to emit relations under "Relationships:" in the system prompt
+#   4. Separate qdrant collection/path so this can run in parallel with mem0-as-is
+agent_name: Structure_rag_mem0g_promptaware_gemini-3.1-flash-lite_chunk512_temp07
+model: gemini-3.1-flash-lite
+temperature: 0.7                        # benchmark default
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gemini-3.1-flash-lite-mem0g-promptaware-chunk512-temp07
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: vertexai
+    config:
+      model: gemini-3.1-flash-lite
+      temperature: 0.7                  # benchmark default
+      max_tokens: 16384
+  embedder:
+    provider: vertexai
+    config:
+      model: text-embedding-004
+      embedding_dims: 768
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0g_promptaware_t4_768       # isolated from mem0/mem0g-as-is
+      embedding_model_dims: 768
+      path: /tmp/qdrant_mem0g_promptaware_t4          # isolated qdrant path
+  use_l1_fc_prompt: true
+  prompt_aware_graph: true              # ← flips inference branch in agent.py:_handle_mem0_agent
+  graph_store:
+    provider: neo4j
+    config:
+      url: neo4j://localhost:7687
+      username: neo4j
+      password: mem0gpassword

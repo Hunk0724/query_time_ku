@@ -1,0 +1,3989 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "a53b6124-787a-4d11-b2c9-2be923489aa5",
+      "memory": "Wilhelm von Humboldt is a citizen of Germany.",
+      "hash": "8d070e601b9dd3870b85c2a53b112732",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "wilhelm_von_humboldt",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm von Humboldt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.8610674205552811,
+      "created_at": "2026-07-04T04:40:25.395375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "03fbec08-88ad-46e2-97fb-53b48ac8d24c",
+      "memory": "Humboldt University of Berlin was founded by Wilhelm von Humboldt.",
+      "hash": "5d04111ff618c43093d0077cbaafcf04",
+      "metadata": {
+        "ordinal": 20,
+        "triple": {
+          "subject_id": "humboldt_university_of_berlin",
+          "predicate_norm": "be founded by",
+          "object_text": "Wilhelm von Humboldt",
+          "confidence": 0.95,
+          "subject_raw": "Humboldt University of Berlin",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.6385944785908197,
+      "created_at": "2026-07-04T04:40:19.794689-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ecaf4d79-7bb8-4bb1-ab06-f358cc8b2cb6",
+      "memory": "The university where Ernst Cassirer was educated is Humboldt University of Berlin.",
+      "hash": "d9b1cc7e066e9d3e819c53763bd1e3c9",
+      "metadata": {
+        "ordinal": 721,
+        "triple": {
+          "subject_id": "ernst_cassirer",
+          "predicate_norm": "be educated at",
+          "object_text": "Humboldt University of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Cassirer",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.47622112249730353,
+      "created_at": "2026-07-04T04:41:16.389941-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6c7d7d33-7fed-4059-a5ad-e62c0f6a4f14",
+      "memory": "Hans Delbrück is employed by Humboldt University of Berlin.",
+      "hash": "7ce935aa42c48f6663cfadce42944690",
+      "metadata": {
+        "ordinal": 1377,
+        "triple": {
+          "subject_id": "hans_delbrück",
+          "predicate_norm": "be employed by",
+          "object_text": "Humboldt University of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Hans Delbrück",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.46665275403684486,
+      "created_at": "2026-07-04T04:41:54.478928-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "40e32f0d-1a40-4a31-8816-1fc293fcc8fc",
+      "memory": "Ernest of Bavaria is a citizen of Germany.",
+      "hash": "e6423f86d1faad321ddce29977a90906",
+      "metadata": {
+        "ordinal": 956,
+        "triple": {
+          "subject_id": "ernest_of_bavaria",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernest of Bavaria",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4565763476831367,
+      "created_at": "2026-07-04T04:41:30.674837-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "eaeee06f-2296-413a-8000-555417c424cc",
+      "memory": "Victor Hugo is a citizen of France.",
+      "hash": "52010f712df82e0192fa624b844238b0",
+      "metadata": {
+        "ordinal": 951,
+        "triple": {
+          "subject_id": "victor_hugo",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Victor Hugo",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.45386628421810227,
+      "created_at": "2026-07-04T04:41:28.767251-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f727da90-2ab9-4fd7-a1e2-c1f7e60d2299",
+      "memory": "The university where Wilhelm II was educated is University of Bonn.",
+      "hash": "863f7c29b93d7edd857cc96a2196c433",
+      "metadata": {
+        "ordinal": 1691,
+        "triple": {
+          "subject_id": "wilhelm_ii",
+          "predicate_norm": "be educated at",
+          "object_text": "University of Bonn",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm II",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.45361256387952376,
+      "created_at": "2026-07-04T04:42:10.520743-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c9544b2b-d543-40ca-8453-9194d73b5351",
+      "memory": "Hugo Junkers is a citizen of Germany.",
+      "hash": "830c0b5faf3eea1563385b5f897fae95",
+      "metadata": {
+        "ordinal": 1169,
+        "triple": {
+          "subject_id": "hugo_junkers",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Hugo Junkers",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.45045176191221115,
+      "created_at": "2026-07-04T04:41:43.952890-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "dc62bc03-409b-4058-9032-261ccf2e4493",
+      "memory": "Humboldt University of Berlin was founded by Howard Hughes.",
+      "hash": "be107c038c49cc4fbf2c9371ea2d8644",
+      "metadata": {
+        "ordinal": 171,
+        "triple": {
+          "subject_id": "humboldt_university_of_berlin",
+          "predicate_norm": "be founded by",
+          "object_text": "Howard Hughes",
+          "confidence": 0.95,
+          "subject_raw": "Humboldt University of Berlin",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.4398050659053508,
+      "created_at": "2026-07-04T04:40:28.711580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "781060ae-ebe8-494d-a798-a322dbd0161f",
+      "memory": "W. G. Sebald is a citizen of Germany.",
+      "hash": "3d6abdf321374cc35e95bfa52e41c5e2",
+      "metadata": {
+        "ordinal": 597,
+        "triple": {
+          "subject_id": "w._g._sebald",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "W. G. Sebald",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.43192060839162427,
+      "created_at": "2026-07-04T04:41:09.392947-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bbc040db-68d3-4cd8-8739-22e745852324",
+      "memory": "Ernest of Bavaria is a citizen of United Kingdom.",
+      "hash": "47c7939bb0047c9d053801135e3f98b4",
+      "metadata": {
+        "ordinal": 1930,
+        "triple": {
+          "subject_id": "ernest_of_bavaria",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Ernest of Bavaria",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4255606494095904,
+      "created_at": "2026-07-04T04:42:21.652642-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "afcb86e0-2e12-487e-8837-3af133e70602",
+      "memory": "The university where Wilhelm II was educated is Baldwin Wallace University.",
+      "hash": "5e7765c5fb4cd3683b56845d95fd62f0",
+      "metadata": {
+        "ordinal": 1891,
+        "triple": {
+          "subject_id": "wilhelm_ii",
+          "predicate_norm": "be educated at",
+          "object_text": "Baldwin Wallace University",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm II",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.4147839552388511,
+      "created_at": "2026-07-04T04:42:20.218409-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3997a8b1-8f62-47fc-a513-50d3f7e7efe0",
+      "memory": "The university where Gary Andersen was educated is Humboldt University of Berlin.",
+      "hash": "b3336016d2c538f818a6bac0dbd687ca",
+      "metadata": {
+        "ordinal": 1464,
+        "triple": {
+          "subject_id": "gary_andersen",
+          "predicate_norm": "be educated at",
+          "object_text": "Humboldt University of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Gary Andersen",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.40749578454497404,
+      "created_at": "2026-07-04T04:41:58.176734-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "230a4083-c56f-4154-b6de-bb16ada88fe2",
+      "memory": "Ferdinand von Richthofen is a citizen of Germany.",
+      "hash": "5092268b30f4774c550e51222ea509fc",
+      "metadata": {
+        "ordinal": 291,
+        "triple": {
+          "subject_id": "ferdinand_von_richthofen",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand von Richthofen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.40284913386122767,
+      "created_at": "2026-07-04T04:40:35.238903-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3f628262-1aa7-4bfa-9bf6-f2c0a3ab3af2",
+      "memory": "Ernst Heinkel is a citizen of Germany.",
+      "hash": "434c0762db36f772029828a5c4a1a7b3",
+      "metadata": {
+        "ordinal": 1883,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.39599021528537126,
+      "created_at": "2026-07-04T04:42:20.206321-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3729006e-1c49-4a34-a03e-d79038ab0205",
+      "memory": "Tomoyasu Hotei is a citizen of Germany.",
+      "hash": "68bb690afaa4f224844cd6a899de0289",
+      "metadata": {
+        "ordinal": 640,
+        "triple": {
+          "subject_id": "tomoyasu_hotei",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Tomoyasu Hotei",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3908349781367314,
+      "created_at": "2026-07-04T04:41:10.955596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e816911b-537b-4f04-9a19-569d553265c8",
+      "memory": "Willy Messerschmitt is a citizen of Germany.",
+      "hash": "92fc5af664900eb4733bc0015d859ef6",
+      "metadata": {
+        "ordinal": 1050,
+        "triple": {
+          "subject_id": "willy_messerschmitt",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Willy Messerschmitt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.39072464474011975,
+      "created_at": "2026-07-04T04:41:33.572433-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fa8e6e52-1d71-4388-aac7-f9f6f4f9dc83",
+      "memory": "Armin Veh is a citizen of Germany.",
+      "hash": "711cb74fe7c0a25c0ab85fd3a50d4fee",
+      "metadata": {
+        "ordinal": 1916,
+        "triple": {
+          "subject_id": "armin_veh",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Armin Veh",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.38504661556746644,
+      "created_at": "2026-07-04T04:42:21.637394-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fc8de67b-143e-4964-8bab-6dfffe021ebe",
+      "memory": "Henry W. Corbett is a citizen of Spain.",
+      "hash": "be7c9c6559ad5a0c8d5b69aba99884c9",
+      "metadata": {
+        "ordinal": 991,
+        "triple": {
+          "subject_id": "henry_w._corbett",
+          "predicate_norm": "be citizen",
+          "object_text": "Spain",
+          "confidence": 0.95,
+          "subject_raw": "Henry W. Corbett",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.38147875450861124,
+      "created_at": "2026-07-04T04:41:32.303487-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "09746d80-cfec-46e2-8487-55c980c75569",
+      "memory": "Louis Joseph, Prince of Condé is a citizen of United Kingdom.",
+      "hash": "03e2cb53c4adf8ef97a2f8ffd041ed8b",
+      "metadata": {
+        "ordinal": 1943,
+        "triple": {
+          "subject_id": "louis_joseph,_prince_of_condé",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Louis Joseph, Prince of Condé",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.38107948422452587,
+      "created_at": "2026-07-04T04:42:23.833361-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "29dce9e7-5fbe-4253-9c9b-ff940fab1222",
+      "memory": "Henry W. Corbett is a citizen of United States of America.",
+      "hash": "f643c3b89a1f7c390bda50199ed0d0a7",
+      "metadata": {
+        "ordinal": 129,
+        "triple": {
+          "subject_id": "henry_w._corbett",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Henry W. Corbett",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.378644744507791,
+      "created_at": "2026-07-04T04:40:27.182880-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "df93eaef-f367-49ea-b34c-3b3bea6a96ce",
+      "memory": "Michael Feinstein is a citizen of German Empire.",
+      "hash": "d4635743ca8521668febb42cd96acbfd",
+      "metadata": {
+        "ordinal": 2153,
+        "triple": {
+          "subject_id": "michael_feinstein",
+          "predicate_norm": "be citizen",
+          "object_text": "German Empire",
+          "confidence": 0.95,
+          "subject_raw": "Michael Feinstein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.37729834438954174,
+      "created_at": "2026-07-04T04:42:36.660587-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c4d14630-c4eb-487b-bc2a-286ecb961146",
+      "memory": "Jusuf Kalla is a citizen of Germany.",
+      "hash": "cfeaf8f74745ce60563c7fe560cceacb",
+      "metadata": {
+        "ordinal": 1662,
+        "triple": {
+          "subject_id": "jusuf_kalla",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Jusuf Kalla",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.37330689543842965,
+      "created_at": "2026-07-04T04:42:08.044696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fffb573d-0426-44d2-8e0a-cbd52d2ddc42",
+      "memory": "Robert A. Heinlein is a citizen of United States of America.",
+      "hash": "8fbc9d88737c05292fc1319999c84725",
+      "metadata": {
+        "ordinal": 138,
+        "triple": {
+          "subject_id": "robert_a._heinlein",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Robert A. Heinlein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.37015034151397713,
+      "created_at": "2026-07-04T04:40:27.196654-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "606cea9e-f2ed-4b51-b56e-c50b4c86f6a9",
+      "memory": "Jaya Bhaduri Bachchan is a citizen of Germany.",
+      "hash": "9d67f5a52e3cea024852def2cde25dca",
+      "metadata": {
+        "ordinal": 1288,
+        "triple": {
+          "subject_id": "jaya_bhaduri_bachchan",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Jaya Bhaduri Bachchan",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3664572356560405,
+      "created_at": "2026-07-04T04:41:49.777856-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a0ad7367-a3ae-4f4b-8e27-47d963fd823a",
+      "memory": "Hal Erickson is a citizen of United States of America.",
+      "hash": "fce27afa9eca49de78c5b4089108a03a",
+      "metadata": {
+        "ordinal": 1636,
+        "triple": {
+          "subject_id": "hal_erickson",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Hal Erickson",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3658370614928692,
+      "created_at": "2026-07-04T04:42:06.410139-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "662f0881-7d42-4ab3-a5aa-1e62de96cffb",
+      "memory": "Elbridge Gerry is a citizen of Kingdom of the Netherlands.",
+      "hash": "a80ca7ca806d8c2b85e8f27e13dbbc09",
+      "metadata": {
+        "ordinal": 334,
+        "triple": {
+          "subject_id": "elbridge_gerry",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of the Netherlands",
+          "confidence": 0.95,
+          "subject_raw": "Elbridge Gerry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3633888484342369,
+      "created_at": "2026-07-04T04:40:37.309795-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4c9a40e1-7ccd-4c6a-83f0-33cfed4eaf70",
+      "memory": "The capital of German Empire is Berlin",
+      "hash": "376cb0b68425b6c54033fad0c8937805",
+      "metadata": {
+        "ordinal": 1475,
+        "triple": {
+          "subject_id": "german_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Berlin",
+          "confidence": 0.95,
+          "subject_raw": "German Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3603242174135452,
+      "created_at": "2026-07-04T04:42:00.280429-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0ede8743-f796-41db-9093-535fec7c3d51",
+      "memory": "Ernst Heinkel is a citizen of Tang Empire.",
+      "hash": "04e6913e6ea6fe86133cdb75eac9223a",
+      "metadata": {
+        "ordinal": 2121,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Tang Empire",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3573681054467703,
+      "created_at": "2026-07-04T04:42:34.485501-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "34cb7021-6b2e-487d-b463-358995f48841",
+      "memory": "Augustinas Voldemaras is a citizen of Duchy of Lorraine.",
+      "hash": "8638df7ca8a0a427e6c42044583354b0",
+      "metadata": {
+        "ordinal": 1732,
+        "triple": {
+          "subject_id": "augustinas_voldemaras",
+          "predicate_norm": "be citizen",
+          "object_text": "Duchy of Lorraine",
+          "confidence": 0.95,
+          "subject_raw": "Augustinas Voldemaras",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35695106244621294,
+      "created_at": "2026-07-04T04:42:12.902070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "41130100-eecc-4079-b7c4-2bb56e71654f",
+      "memory": "Henri Grégoire is a citizen of India.",
+      "hash": "1f38e0e7f2697fdbff4d3232bbb26ed5",
+      "metadata": {
+        "ordinal": 1453,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35623743579455874,
+      "created_at": "2026-07-04T04:41:58.160289-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f2686679-b8df-46e1-bc94-a2ef48e6426a",
+      "memory": "Carl Jacobsen is a citizen of Denmark.",
+      "hash": "36e726ddef86634ceaf8472dbc6efa35",
+      "metadata": {
+        "ordinal": 375,
+        "triple": {
+          "subject_id": "carl_jacobsen",
+          "predicate_norm": "be citizen",
+          "object_text": "Denmark",
+          "confidence": 0.95,
+          "subject_raw": "Carl Jacobsen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35488679355632663,
+      "created_at": "2026-07-04T04:40:39.366273-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d3a28ed0-425a-43a6-86bf-df67d963fdca",
+      "memory": "Chris Hutchings is a citizen of United Kingdom.",
+      "hash": "616450ac0f113d299d1367e1b70609a8",
+      "metadata": {
+        "ordinal": 473,
+        "triple": {
+          "subject_id": "chris_hutchings",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Chris Hutchings",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35315363591098664,
+      "created_at": "2026-07-04T04:40:54.635599-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c53e14a2-4e39-45f5-983b-b359c0406c14",
+      "memory": "Howard Hughes is a citizen of United States of America.",
+      "hash": "8b34c033547081645d69b82917c60b43",
+      "metadata": {
+        "ordinal": 79,
+        "triple": {
+          "subject_id": "howard_hughes",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Howard Hughes",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35014891967474115,
+      "created_at": "2026-07-04T04:40:25.362517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "991d1ed4-7302-404c-b278-2922455eb6d5",
+      "memory": "Dirk Nowitzki is a citizen of Germany.",
+      "hash": "bb743e5ba1fe569275b62b08632760b0",
+      "metadata": {
+        "ordinal": 2039,
+        "triple": {
+          "subject_id": "dirk_nowitzki",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Dirk Nowitzki",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.34950645598702973,
+      "created_at": "2026-07-04T04:42:29.108403-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ecf2c6dd-c590-41ae-bcf2-52fa8f92957a",
+      "memory": "Francis, Duke of Cádiz is a citizen of United States of America.",
+      "hash": "7661ccb19fb35b72a75bd014049c99f5",
+      "metadata": {
+        "ordinal": 1739,
+        "triple": {
+          "subject_id": "francis,_duke_of_cádiz",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Francis, Duke of Cádiz",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3476851248876285,
+      "created_at": "2026-07-04T04:42:12.913889-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6510ac4a-f206-483b-afe9-a3ca23812336",
+      "memory": "Edmund Husserl worked in the city of Freiburg im Breisgau.",
+      "hash": "739a522e584b74f13d99ff0daed409b6",
+      "metadata": {
+        "ordinal": 2127,
+        "triple": {
+          "subject_id": "edmund_husserl",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Freiburg im Breisgau",
+          "confidence": 0.95,
+          "subject_raw": "Edmund Husserl",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.3466540722854393,
+      "created_at": "2026-07-04T04:42:34.494212-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f5989a3e-9ac6-42fd-8a1e-effcae2f253b",
+      "memory": "Louis Henri Loison is a citizen of Mexico.",
+      "hash": "a92d52d46107b97710490c8604ac615b",
+      "metadata": {
+        "ordinal": 1442,
+        "triple": {
+          "subject_id": "louis_henri_loison",
+          "predicate_norm": "be citizen",
+          "object_text": "Mexico",
+          "confidence": 0.95,
+          "subject_raw": "Louis Henri Loison",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3454356373455428,
+      "created_at": "2026-07-04T04:41:58.135429-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ce2fbb14-861e-4561-b45c-0ab19ed46dd1",
+      "memory": "Ferdinand von Richthofen is a citizen of Canada.",
+      "hash": "2730f9f1fa83af069b364273a47e32c3",
+      "metadata": {
+        "ordinal": 955,
+        "triple": {
+          "subject_id": "ferdinand_von_richthofen",
+          "predicate_norm": "be citizen",
+          "object_text": "Canada",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand von Richthofen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.34423399426509593,
+      "created_at": "2026-07-04T04:41:30.672891-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "aad8a242-8f69-4a91-8ee6-5d22ffded620",
+      "memory": "Louis Joseph, Prince of Condé is a citizen of France",
+      "hash": "a24e0deede1c6723527cfa9c246fe4d7",
+      "metadata": {
+        "ordinal": 1500,
+        "triple": {
+          "subject_id": "louis_joseph,_prince_of_condé",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Louis Joseph, Prince of Condé",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.34346150179443974,
+      "created_at": "2026-07-04T04:42:00.331976-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e63dddb8-0082-4c80-9722-902c03403c17",
+      "memory": "Sarah Churchill is a citizen of Kingdom of the Netherlands.",
+      "hash": "12edf8a8fc3dcf530398f9f032fd3221",
+      "metadata": {
+        "ordinal": 861,
+        "triple": {
+          "subject_id": "sarah_churchill",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of the Netherlands",
+          "confidence": 0.95,
+          "subject_raw": "Sarah Churchill",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3404840349347382,
+      "created_at": "2026-07-04T04:41:23.969052-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1b207e0b-250d-42b4-b3b0-c5f76d4c49cd",
+      "memory": "Louis Henri Loison is a citizen of France.",
+      "hash": "85c0696e92805f2f9c9002b6b65d0159",
+      "metadata": {
+        "ordinal": 941,
+        "triple": {
+          "subject_id": "louis_henri_loison",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Louis Henri Loison",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.33582487048598064,
+      "created_at": "2026-07-04T04:41:28.754622-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a5e83149-315c-4c61-b97b-4afa6ec5da5f",
+      "memory": "Germaine Dulac is a citizen of France",
+      "hash": "26a807fc1fdb6ea0d05d3d71abef0e22",
+      "metadata": {
+        "ordinal": 443,
+        "triple": {
+          "subject_id": "germaine_dulac",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Germaine Dulac",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.33313131415328934,
+      "created_at": "2026-07-04T04:40:45.978088-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d2c231d2-83ae-4984-be71-d66b0b9f7e8d",
+      "memory": "Magda Goebbels is a citizen of Germany.",
+      "hash": "1a069c01ef879bd6bad10d50c5fe4700",
+      "metadata": {
+        "ordinal": 675,
+        "triple": {
+          "subject_id": "magda_goebbels",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Magda Goebbels",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3324786287057628,
+      "created_at": "2026-07-04T04:41:13.899268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "667b2bc1-7ab1-4eae-8c8d-c10cb2e18892",
+      "memory": "Henri Grégoire is a citizen of France.",
+      "hash": "8d14fff4de043a829b02fa59b6c08739",
+      "metadata": {
+        "ordinal": 1397,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3293533261479106,
+      "created_at": "2026-07-04T04:41:54.511788-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1cdb1de1-6847-4c68-a066-d331057ec1c9",
+      "memory": "Wilbert Awdry is a citizen of United Kingdom.",
+      "hash": "f4a48e706e069e9804b76371147a9907",
+      "metadata": {
+        "ordinal": 1393,
+        "triple": {
+          "subject_id": "wilbert_awdry",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Wilbert Awdry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3292562575475616,
+      "created_at": "2026-07-04T04:41:54.506294-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76889f98-b639-43af-8bc4-6acc81e33fb7",
+      "memory": "Charles de Gaulle is a citizen of India.",
+      "hash": "17ff66fb245982234748a64d90f9eaf1",
+      "metadata": {
+        "ordinal": 1880,
+        "triple": {
+          "subject_id": "charles_de_gaulle",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Charles de Gaulle",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.329175255856954,
+      "created_at": "2026-07-04T04:42:20.201778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "063a4946-f367-4f88-8953-5a8b80d616dc",
+      "memory": "Elbridge Gerry is a citizen of United States of America.",
+      "hash": "4fc73eb25ecabfadaea666b6e385c508",
+      "metadata": {
+        "ordinal": 203,
+        "triple": {
+          "subject_id": "elbridge_gerry",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Elbridge Gerry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.328549171493934,
+      "created_at": "2026-07-04T04:40:31.918017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "59e92e9f-a82e-43aa-9847-3e2da4c50511",
+      "memory": "Chris Hutchings is a citizen of Ireland.",
+      "hash": "447ab6d8331fbe578d0e5929bbfbcc11",
+      "metadata": {
+        "ordinal": 1323,
+        "triple": {
+          "subject_id": "chris_hutchings",
+          "predicate_norm": "be citizen",
+          "object_text": "Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Chris Hutchings",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.327923658284049,
+      "created_at": "2026-07-04T04:41:51.386615-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "568ebbe5-4be8-4fdb-abdb-b8483d464f1f",
+      "memory": "Jean-Baptiste Charcot is a citizen of France.",
+      "hash": "d6603a83470b2f68bf1b3304505e9935",
+      "metadata": {
+        "ordinal": 1568,
+        "triple": {
+          "subject_id": "jean_baptiste_charcot",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Jean-Baptiste Charcot",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32604590683554124,
+      "created_at": "2026-07-04T04:42:03.307293-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6b522a57-adf2-4412-bf29-ecc58233d895",
+      "memory": "Gebhard Truchsess von Waldburg is affiliated with the religion of Catholic Church.",
+      "hash": "05fbe0bd9cd11fe8bc5f56a03b1d97ff",
+      "metadata": {
+        "ordinal": 2074,
+        "triple": {
+          "subject_id": "gebhard_truchsess_von_waldburg",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Gebhard Truchsess von Waldburg",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.32491531710805044,
+      "created_at": "2026-07-04T04:42:30.801367-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b8a3ab9f-5647-448c-a430-d1d773d57966",
+      "memory": "Sher Bahadur Deuba is a citizen of Nepal.",
+      "hash": "5c28d387c0dc98a865e957050f3e6e87",
+      "metadata": {
+        "ordinal": 471,
+        "triple": {
+          "subject_id": "sher_bahadur_deuba",
+          "predicate_norm": "be citizen",
+          "object_text": "Nepal",
+          "confidence": 0.95,
+          "subject_raw": "Sher Bahadur Deuba",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3246681969798462,
+      "created_at": "2026-07-04T04:40:54.633269-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e5ffeb7b-a8bf-4a7c-a610-001be21e3a05",
+      "memory": "John Evelyn is a citizen of Kingdom of England.",
+      "hash": "0b3f244a3d6aa593d0c32ff612241cda",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "john_evelyn",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of England",
+          "confidence": 0.95,
+          "subject_raw": "John Evelyn",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32444434744281425,
+      "created_at": "2026-07-04T04:40:19.808250-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "55db6efe-bd17-4938-a2f8-53cd57b4ee94",
+      "memory": "Rex Harrison is a citizen of United Kingdom.",
+      "hash": "f39c665c7eca1bcbe0229836f5707262",
+      "metadata": {
+        "ordinal": 1255,
+        "triple": {
+          "subject_id": "rex_harrison",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Rex Harrison",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3240374516615877,
+      "created_at": "2026-07-04T04:41:48.210319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3b8e2759-5a37-4cd4-8e29-3cd8ff835342",
+      "memory": "Sarah Churchill is a citizen of United Kingdom.",
+      "hash": "b408de0b6ca352b000b396b97dab5ebc",
+      "metadata": {
+        "ordinal": 327,
+        "triple": {
+          "subject_id": "sarah_churchill",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Sarah Churchill",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3239411417437299,
+      "created_at": "2026-07-04T04:40:37.299724-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f3e4115d-b72d-46ed-a379-c3884a21995b",
+      "memory": "The official language of United States of America is German.",
+      "hash": "eda756eed2c21c07c62286e9d1d9b3d1",
+      "metadata": {
+        "ordinal": 2252,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3233849669959047,
+      "created_at": "2026-07-04T04:42:41.889767-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "19b5fc2f-3eb3-4315-a2a6-bf8522246cd6",
+      "memory": "Faure Essozimna Gnassingbé Eyadéma is a citizen of Chile.",
+      "hash": "0c6ef7a01c739d03a71d948d1b995a39",
+      "metadata": {
+        "ordinal": 2273,
+        "triple": {
+          "subject_id": "faure_essozimna_gnassingbé_eyadéma",
+          "predicate_norm": "be citizen",
+          "object_text": "Chile",
+          "confidence": 0.95,
+          "subject_raw": "Faure Essozimna Gnassingbé Eyadéma",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32292182938193326,
+      "created_at": "2026-07-04T04:42:41.917178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7f816e45-db70-4e6b-b456-934dfe68cf3f",
+      "memory": "Albert, Prince Consort is a citizen of United Kingdom of Great Britain and Ireland.",
+      "hash": "23700fcccf5177ee9bef30020224b85c",
+      "metadata": {
+        "ordinal": 2061,
+        "triple": {
+          "subject_id": "albert,_prince_consort",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom of Great Britain and Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Albert, Prince Consort",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32286038589735394,
+      "created_at": "2026-07-04T04:42:29.143710-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c7f33707-9a12-443e-8bfe-946860010df5",
+      "memory": "Cy Young is a citizen of United States of America.",
+      "hash": "42f42d3d82661bbd71089240102c4329",
+      "metadata": {
+        "ordinal": 793,
+        "triple": {
+          "subject_id": "cy_young",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Cy Young",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.322512093655539,
+      "created_at": "2026-07-04T04:41:19.878728-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "56973720-b894-4ea2-bd5b-34e66dc7dcea",
+      "memory": "Colin Irwin is a citizen of United Kingdom.",
+      "hash": "d9fad727018bc0eaf2df0c9bb5b73014",
+      "metadata": {
+        "ordinal": 654,
+        "triple": {
+          "subject_id": "colin_irwin",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Colin Irwin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3207125816501898,
+      "created_at": "2026-07-04T04:41:13.860422-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5ef84163-d4cb-40a3-ad97-a899ac9656c3",
+      "memory": "Charles de Gaulle is a citizen of France.",
+      "hash": "04d56367113884f12e684850555a47c4",
+      "metadata": {
+        "ordinal": 661,
+        "triple": {
+          "subject_id": "charles_de_gaulle",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles de Gaulle",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31961402054917254,
+      "created_at": "2026-07-04T04:41:13.876525-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4a1a8d45-79ea-4e70-a731-912b5db6d690",
+      "memory": "John Wayles is a citizen of England.",
+      "hash": "0d5c5d9858d581ff87689e1a46025b4e",
+      "metadata": {
+        "ordinal": 413,
+        "triple": {
+          "subject_id": "john_wayles",
+          "predicate_norm": "be citizen",
+          "object_text": "England",
+          "confidence": 0.95,
+          "subject_raw": "John Wayles",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3187880157047053,
+      "created_at": "2026-07-04T04:40:44.236731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "87172b83-e367-415e-a1ae-a39143c76dc6",
+      "memory": "Robert Wisdom is a citizen of United States of America.",
+      "hash": "900b22877b40cdeca8e7f8f52c35e015",
+      "metadata": {
+        "ordinal": 218,
+        "triple": {
+          "subject_id": "robert_wisdom",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Robert Wisdom",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3172470893754541,
+      "created_at": "2026-07-04T04:40:31.944541-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "72f8b985-ba14-4e55-bbf4-0dbcd29c96f9",
+      "memory": "Dan Christensen is a citizen of United States of America.",
+      "hash": "f1ca8d6fd4ac95b23026316126a0961d",
+      "metadata": {
+        "ordinal": 1742,
+        "triple": {
+          "subject_id": "dan_christensen",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Dan Christensen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3165799379179748,
+      "created_at": "2026-07-04T04:42:12.918238-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3b6722e5-88c8-452f-bb19-f47c8eeb1519",
+      "memory": "Edmund Burke is a citizen of Kingdom of Ireland.",
+      "hash": "9b006993a0be7f188a3392da87929d67",
+      "metadata": {
+        "ordinal": 708,
+        "triple": {
+          "subject_id": "edmund_burke",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Edmund Burke",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31603446580970285,
+      "created_at": "2026-07-04T04:41:16.372592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f8366663-3545-4788-835e-ca3a31c18cbb",
+      "memory": "John Stuart Mill is a citizen of United Kingdom of Great Britain and Ireland.",
+      "hash": "f3bdb29f77ab3c96ca9d235d237e9998",
+      "metadata": {
+        "ordinal": 1432,
+        "triple": {
+          "subject_id": "john_stuart_mill",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom of Great Britain and Ireland",
+          "confidence": 0.95,
+          "subject_raw": "John Stuart Mill",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3154713462302759,
+      "created_at": "2026-07-04T04:41:55.992797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76c6e2a9-1b47-4c1e-8b05-9bd88297f36e",
+      "memory": "Derek Nimmo is a citizen of United Kingdom.",
+      "hash": "a970fa3b71a4d4e4aae3ea2b7ced51ce",
+      "metadata": {
+        "ordinal": 2073,
+        "triple": {
+          "subject_id": "derek_nimmo",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Derek Nimmo",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3146609098204091,
+      "created_at": "2026-07-04T04:42:30.797329-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9e3ed90d-665e-410a-b3a8-d07ffb64f1c1",
+      "memory": "Leo Stein is a citizen of United States of America.",
+      "hash": "31ac1d525d9b7d42aaae06a3b42a998c",
+      "metadata": {
+        "ordinal": 900,
+        "triple": {
+          "subject_id": "leo_stein",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Leo Stein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3126597632787102,
+      "created_at": "2026-07-04T04:41:27.185974-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "030b8ce1-9c26-42ea-8b76-9f68a1b65e95",
+      "memory": "Samuel Colt is a citizen of United States of America.",
+      "hash": "ab3b121c642de7d2c651cf7b5ed09d73",
+      "metadata": {
+        "ordinal": 1729,
+        "triple": {
+          "subject_id": "samuel_colt",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Colt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31245408530353397,
+      "created_at": "2026-07-04T04:42:12.896098-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a2ce388c-75fa-463e-a9cf-031be1db3f14",
+      "memory": "Phyllis Schlafly is a citizen of Germany.",
+      "hash": "92066380853c275858672edbd2abe60a",
+      "metadata": {
+        "ordinal": 2171,
+        "triple": {
+          "subject_id": "phyllis_schlafly",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Phyllis Schlafly",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3117800655846339,
+      "created_at": "2026-07-04T04:42:36.686630-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7048c744-aaf3-47e9-8847-106b93cbb081",
+      "memory": "Andy Hamilton is a citizen of United Kingdom.",
+      "hash": "a2ba18c5f78996fc0ea8d888ee415bc4",
+      "metadata": {
+        "ordinal": 510,
+        "triple": {
+          "subject_id": "andy_hamilton",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Andy Hamilton",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3097010408624792,
+      "created_at": "2026-07-04T04:40:56.170818-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "94f6bcd6-0457-402e-91be-667fd25e462f",
+      "memory": "Scott Walker is a citizen of United States of America",
+      "hash": "f918b7ca04f0702c2b2560c9c0a49308",
+      "metadata": {
+        "ordinal": 55,
+        "triple": {
+          "subject_id": "scott_walker",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Scott Walker",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3092382841835231,
+      "created_at": "2026-07-04T04:40:23.842872-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76c371f6-fe8d-49fc-ae5f-54fa212fc559",
+      "memory": "Ken Thompson is a citizen of United States of America.",
+      "hash": "597ea84a68cb7681aface45d4801d0ae",
+      "metadata": {
+        "ordinal": 35,
+        "triple": {
+          "subject_id": "ken_thompson",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Ken Thompson",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3074213618393775,
+      "created_at": "2026-07-04T04:40:19.812788-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2495e32f-3e43-413a-8746-b01b0762d8cc",
+      "memory": "Hal Needham is a citizen of United States of America.",
+      "hash": "23c520d8adfa2ebddbc855f92548c9e5",
+      "metadata": {
+        "ordinal": 1354,
+        "triple": {
+          "subject_id": "hal_needham",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Hal Needham",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3067613898283301,
+      "created_at": "2026-07-04T04:41:52.919816-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9a275319-55ad-4c2e-a055-4ecfe08678e8",
+      "memory": "Leo Gordon is a citizen of United States of America.",
+      "hash": "edad6b309b4d9a71cc1600a8ca0d793b",
+      "metadata": {
+        "ordinal": 2178,
+        "triple": {
+          "subject_id": "leo_gordon",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Leo Gordon",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30653880955066826,
+      "created_at": "2026-07-04T04:42:38.135684-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2f229846-69ad-4cfd-8049-a392583201cb",
+      "memory": "Simon Blackburn is a citizen of United Kingdom.",
+      "hash": "5420884168dd8656ba73f37e6300f9be",
+      "metadata": {
+        "ordinal": 1395,
+        "triple": {
+          "subject_id": "simon_blackburn",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Simon Blackburn",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3051706066255114,
+      "created_at": "2026-07-04T04:41:54.509118-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4b935aa0-803f-40f4-b41b-567688bcc358",
+      "memory": "Helle Thorning-Schmidt is a citizen of Denmark.",
+      "hash": "076a0389c4fc14d63f30edc636e3ed24",
+      "metadata": {
+        "ordinal": 1206,
+        "triple": {
+          "subject_id": "helle_thorning_schmidt",
+          "predicate_norm": "be citizen",
+          "object_text": "Denmark",
+          "confidence": 0.95,
+          "subject_raw": "Helle Thorning-Schmidt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3046009103096157,
+      "created_at": "2026-07-04T04:41:46.349648-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4f787430-23aa-4571-aa46-631ed577ea44",
+      "memory": "Andrew Carnegie is a citizen of United Kingdom.",
+      "hash": "88a3a667d98400d0fa9a268862573d34",
+      "metadata": {
+        "ordinal": 367,
+        "triple": {
+          "subject_id": "andrew_carnegie",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Andrew Carnegie",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30432047436886345,
+      "created_at": "2026-07-04T04:40:39.357070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e1d9c0b5-70f1-4f4b-ad6c-0e9913138300",
+      "memory": "Francis, Duke of Cádiz is a citizen of Spain",
+      "hash": "946161ce38133de44a8e812d904b2e1e",
+      "metadata": {
+        "ordinal": 456,
+        "triple": {
+          "subject_id": "francis,_duke_of_cádiz",
+          "predicate_norm": "be citizen",
+          "object_text": "Spain",
+          "confidence": 0.95,
+          "subject_raw": "Francis, Duke of Cádiz",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30427079647593425,
+      "created_at": "2026-07-04T04:40:45.995359-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9ce30ca2-b1de-4fda-b3a9-dc5cf78f92a8",
+      "memory": "Philip IV of France is a citizen of France.",
+      "hash": "8f515edbe9c323990c48dcd29e0a8ff0",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "philip_iv_of_france",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Philip IV of France",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3038303257494218,
+      "created_at": "2026-07-04T04:40:39.355895-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8df27561-08f5-47df-a14e-70ed8e1c6e4e",
+      "memory": "William Holman Hunt died in the city of Washington, D.C.",
+      "hash": "ba6053f4d796e0c2c4d6feee4ad1e1d2",
+      "metadata": {
+        "ordinal": 1756,
+        "triple": {
+          "subject_id": "william_holman_hunt",
+          "predicate_norm": "died in",
+          "object_text": "the city of Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "William Holman Hunt",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.3026744609941202,
+      "created_at": "2026-07-04T04:42:14.641356-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fc6e3cc9-0edd-41db-b4de-9fe215a24d90",
+      "memory": "German Empire is affiliated with the religion of Protestantism.",
+      "hash": "36c4e71b253894bee33372cf4d09c138",
+      "metadata": {
+        "ordinal": 1007,
+        "triple": {
+          "subject_id": "german_empire",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "Protestantism",
+          "confidence": 0.95,
+          "subject_raw": "German Empire",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.30058927744574965,
+      "created_at": "2026-07-04T04:41:32.348067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "dfa36a46-ea1d-457b-b72b-b4956b45ba16",
+      "memory": "The university where Hendrik Lorentz was educated is Bowdoin College.",
+      "hash": "f5f7df695d65dea5d9ece8405876dc47",
+      "metadata": {
+        "ordinal": 1239,
+        "triple": {
+          "subject_id": "hendrik_lorentz",
+          "predicate_norm": "be educated at",
+          "object_text": "Bowdoin College",
+          "confidence": 0.95,
+          "subject_raw": "Hendrik Lorentz",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.29990410858936134,
+      "created_at": "2026-07-04T04:41:48.182149-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1675b6f5-5a8b-4d1a-9334-342364445e3e",
+      "memory": "Rex Harrison is a citizen of France.",
+      "hash": "ca5229f1ec3f1154f97a79c7db63558e",
+      "metadata": {
+        "ordinal": 1905,
+        "triple": {
+          "subject_id": "rex_harrison",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Rex Harrison",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.29955380018156386,
+      "created_at": "2026-07-04T04:42:21.624796-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "181051d1-394a-459e-8e2b-73a22db03869",
+      "memory": "The capital of Canada is Königsberg.",
+      "hash": "fbe64b4459bfe305d8d522160559d5d7",
+      "metadata": {
+        "ordinal": 2041,
+        "triple": null,
+        "subject_fallback": "canada"
+      },
+      "score": 0.298783293089985,
+      "created_at": "2026-07-04T04:42:29.112200-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b96438a5-5912-492c-bf27-c70f7e059202",
+      "memory": "Andrew Carnegie is a citizen of United States of America.",
+      "hash": "041d01a49bbee0b0d8ef07bde97ee15a",
+      "metadata": {
+        "ordinal": 94,
+        "triple": {
+          "subject_id": "andrew_carnegie",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Andrew Carnegie",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2986108500768917,
+      "created_at": "2026-07-04T04:40:25.387475-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d468ae18-fd6a-4ffb-9281-7ccf9058a3fe",
+      "memory": "Clemens August of Bavaria is affiliated with the religion of Catholic Church.",
+      "hash": "b02643303b2a139bf54d3b61ffa5faaa",
+      "metadata": {
+        "ordinal": 212,
+        "triple": {
+          "subject_id": "clemens_august_of_bavaria",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Clemens August of Bavaria",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.2984275811697002,
+      "created_at": "2026-07-04T04:40:31.935066-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e150274d-3f1b-4468-a0ed-7befc312be94",
+      "memory": "Charles the Bold is a citizen of France.",
+      "hash": "f9dedca9adbd0eaeef5f930f462d8109",
+      "metadata": {
+        "ordinal": 1863,
+        "triple": {
+          "subject_id": "charles_the_bold",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles the Bold",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2980346274814828,
+      "created_at": "2026-07-04T04:42:20.157846-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fe506fe9-6786-4d1a-953d-6ab45b530d12",
+      "memory": "Christopher Robin Milne is a citizen of United Kingdom.",
+      "hash": "8b5f15dd6eeb9750ebda5cd03f51133c",
+      "metadata": {
+        "ordinal": 191,
+        "triple": {
+          "subject_id": "christopher_robin_milne",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Christopher Robin Milne",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.29800500735916247,
+      "created_at": "2026-07-04T04:40:31.880193-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9f4258f4-aceb-42bc-afe5-b3b51a57dd4c",
+      "memory": "Catherine Dickens is a citizen of United Kingdom.",
+      "hash": "f27ef1f2216c8a4559da954bf9e8f4d0",
+      "metadata": {
+        "ordinal": 613,
+        "triple": {
+          "subject_id": "catherine_dickens",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Catherine Dickens",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2973242145570012,
+      "created_at": "2026-07-04T04:41:10.902084-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d35c8991-c7e2-4697-95ae-46b9fabe9fb9",
+      "memory": "Gebhard Truchsess von Waldburg is affiliated with the religion of Methodism.",
+      "hash": "6f9690a83b610f5113126f6cdbc133e6",
+      "metadata": {
+        "ordinal": 2187,
+        "triple": {
+          "subject_id": "gebhard_truchsess_von_waldburg",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Methodism",
+          "confidence": 0.95,
+          "subject_raw": "Gebhard Truchsess von Waldburg",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.29652093834662635,
+      "created_at": "2026-07-04T04:42:38.145760-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "03fa4e04-d4d8-4b1b-9f06-e831bd511f5c",
+      "memory": "Nat Adderley is a citizen of United States of America",
+      "hash": "df6b99d3789ad6981485eddb6052cf3c",
+      "metadata": {
+        "ordinal": 1502,
+        "triple": {
+          "subject_id": "nat_adderley",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Nat Adderley",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2955112990370793,
+      "created_at": "2026-07-04T04:42:00.334621-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "01119aff-ae7d-4f79-ac38-2e41c613bee8",
+      "memory": "House of Bonaparte was founded by Gustav I of Sweden.",
+      "hash": "9b6124b6fc6e5a516d60e4b565d35169",
+      "metadata": {
+        "ordinal": 2193,
+        "triple": {
+          "subject_id": "house_of_bonaparte",
+          "predicate_norm": "be founded by",
+          "object_text": "Gustav I of Sweden",
+          "confidence": 0.95,
+          "subject_raw": "House of Bonaparte",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2944620171990679,
+      "created_at": "2026-07-04T04:42:38.152481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "133f285a-1915-445e-bbe9-d7df45ee6c51",
+      "memory": "The university where Gustav I of Sweden was educated is Trinity College Dublin.",
+      "hash": "3cb2f1999f47ba9ebbf4d3b704291a22",
+      "metadata": {
+        "ordinal": 783,
+        "triple": null,
+        "subject_fallback": "gustav_i_of_sweden"
+      },
+      "score": 0.29430186105969636,
+      "created_at": "2026-07-04T04:41:19.864706-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "92833523-25c0-4e8f-9001-bde77a99f144",
+      "memory": "Tomoyasu Hotei is a citizen of Japan.",
+      "hash": "f0955b37fb230ee15179a07ca9e33c1c",
+      "metadata": {
+        "ordinal": 307,
+        "triple": {
+          "subject_id": "tomoyasu_hotei",
+          "predicate_norm": "be citizen",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Tomoyasu Hotei",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2939103597643724,
+      "created_at": "2026-07-04T04:40:37.246390-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "15d099bc-39b0-4875-b422-c827ee55eba0",
+      "memory": "Ada Wong is a citizen of United States of America.",
+      "hash": "e2815c0a67c4b9b93f73e210d88f3570",
+      "metadata": {
+        "ordinal": 963,
+        "triple": {
+          "subject_id": "ada_wong",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Ada Wong",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2921564685674126,
+      "created_at": "2026-07-04T04:41:30.686681-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "46970938-7660-429d-a754-bbe04bf61621",
+      "memory": "Bernard Arnault is a citizen of France.",
+      "hash": "9a2075f9f14dd012ea8177346441b4e8",
+      "metadata": {
+        "ordinal": 869,
+        "triple": {
+          "subject_id": "bernard_arnault",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Bernard Arnault",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2917898888210502,
+      "created_at": "2026-07-04T04:41:23.978635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4ed2e218-5e73-41c7-9b6f-e5d24934c48c",
+      "memory": "Jeff Bezos is a citizen of United States of America",
+      "hash": "6ddfc20e5f080fc77ee950ac696154f8",
+      "metadata": {
+        "ordinal": 1498,
+        "triple": {
+          "subject_id": "jeff_bezos",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jeff Bezos",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2917355382104938,
+      "created_at": "2026-07-04T04:42:00.329390-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "52ea0527-b426-409f-bdc0-9b526487d781",
+      "memory": "David Crane is a citizen of United States of America.",
+      "hash": "385a238025d70dfacd0e634e8393c9d8",
+      "metadata": {
+        "ordinal": 1515,
+        "triple": {
+          "subject_id": "david_crane",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "David Crane",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2916398664197237,
+      "created_at": "2026-07-04T04:42:01.843855-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c441fafc-0cf3-4b73-83fa-9f1304437416",
+      "memory": "Universal Soldier was created in the country of United States of America",
+      "hash": "667191b9e2b4a24ffd1a1021b7456370",
+      "metadata": {
+        "ordinal": 449,
+        "triple": {
+          "subject_id": "universal_soldier",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Universal Soldier",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2913530014329222,
+      "created_at": "2026-07-04T04:40:45.986566-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- Wilhelm von Humboldt is a citizen of Germany.\n- The university where Ernst Cassirer was educated is Humboldt University of Berlin.\n- Hans Delbrück is employed by Humboldt University of Berlin.\n- Victor Hugo is a citizen of France.\n- Hugo Junkers is a citizen of Germany.\n- Humboldt University of Berlin was founded by Howard Hughes.\n- W. G. Sebald is a citizen of Germany.\n- Ernest of Bavaria is a citizen of United Kingdom.\n- The university where Wilhelm II was educated is Baldwin Wallace University.\n- The university where Gary Andersen was educated is Humboldt University of Berlin.\n- Tomoyasu Hotei is a citizen of Germany.\n- Willy Messerschmitt is a citizen of Germany.\n- Armin Veh is a citizen of Germany.\n- Henry W. Corbett is a citizen of Spain.\n- Louis Joseph, Prince of Condé is a citizen of United Kingdom.\n- Michael Feinstein is a citizen of German Empire.\n- Jusuf Kalla is a citizen of Germany.\n- Robert A. Heinlein is a citizen of United States of America.\n- Jaya Bhaduri Bachchan is a citizen of Germany.\n- Hal Erickson is a citizen of United States of America.\n- Elbridge Gerry is a citizen of Kingdom of the Netherlands.\n- The capital of German Empire is Berlin\n- Ernst Heinkel is a citizen of Tang Empire.\n- Augustinas Voldemaras is a citizen of Duchy of Lorraine.\n- Henri Grégoire is a citizen of India.\n- Carl Jacobsen is a citizen of Denmark.\n- Howard Hughes is a citizen of United States of America.\n- Dirk Nowitzki is a citizen of Germany.\n- Francis, Duke of Cádiz is a citizen of United States of America.\n- Edmund Husserl worked in the city of Freiburg im Breisgau.\n- Louis Henri Loison is a citizen of Mexico.\n- Ferdinand von Richthofen is a citizen of Canada.\n- Sarah Churchill is a citizen of Kingdom of the Netherlands.\n- Germaine Dulac is a citizen of France\n- Magda Goebbels is a citizen of Germany.\n- Wilbert Awdry is a citizen of United Kingdom.\n- Charles de Gaulle is a citizen of India.\n- Chris Hutchings is a citizen of Ireland.\n- Jean-Baptiste Charcot is a citizen of France.\n- Sher Bahadur Deuba is a citizen of Nepal.\n- John Evelyn is a citizen of Kingdom of England.\n- The official language of United States of America is German.\n- Faure Essozimna Gnassingbé Eyadéma is a citizen of Chile.\n- Albert, Prince Consort is a citizen of United Kingdom of Great Britain and Ireland.\n- Cy Young is a citizen of United States of America.\n- Colin Irwin is a citizen of United Kingdom.\n- John Wayles is a citizen of England.\n- Robert Wisdom is a citizen of United States of America.\n- Dan Christensen is a citizen of United States of America.\n- Edmund Burke is a citizen of Kingdom of Ireland.\n- John Stuart Mill is a citizen of United Kingdom of Great Britain and Ireland.\n- Derek Nimmo is a citizen of United Kingdom.\n- Leo Stein is a citizen of United States of America.\n- Samuel Colt is a citizen of United States of America.\n- Phyllis Schlafly is a citizen of Germany.\n- Andy Hamilton is a citizen of United Kingdom.\n- Scott Walker is a citizen of United States of America\n- Ken Thompson is a citizen of United States of America.\n- Hal Needham is a citizen of United States of America.\n- Leo Gordon is a citizen of United States of America.\n- Simon Blackburn is a citizen of United Kingdom.\n- Helle Thorning-Schmidt is a citizen of Denmark.\n- Andrew Carnegie is a citizen of United Kingdom.\n- Philip IV of France is a citizen of France.\n- William Holman Hunt died in the city of Washington, D.C.\n- German Empire is affiliated with the religion of Protestantism.\n- The university where Hendrik Lorentz was educated is Bowdoin College.\n- Rex Harrison is a citizen of France.\n- The capital of Canada is Königsberg.\n- Clemens August of Bavaria is affiliated with the religion of Catholic Church.\n- Charles the Bold is a citizen of France.\n- Christopher Robin Milne is a citizen of United Kingdom.\n- Catherine Dickens is a citizen of United Kingdom.\n- Gebhard Truchsess von Waldburg is affiliated with the religion of Methodism.\n- Nat Adderley is a citizen of United States of America\n- House of Bonaparte was founded by Gustav I of Sweden.\n- The university where Gustav I of Sweden was educated is Trinity College Dublin.\n- Ada Wong is a citizen of United States of America.\n- Bernard Arnault is a citizen of France.\n- Jeff Bezos is a citizen of United States of America\n- David Crane is a citizen of United States of America.\n- Universal Soldier was created in the country of United States of America",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- Wilhelm von Humboldt is a citizen of Germany.\n- The university where Ernst Cassirer was educated is Humboldt University of Berlin.\n- Hans Delbrück is employed by Humboldt University of Berlin.\n- Victor Hugo is a citizen of France.\n- Hugo Junkers is a citizen of Germany.\n- Humboldt University of Berlin was founded by Howard Hughes.\n- W. G. Sebald is a citizen of Germany.\n- Ernest of Bavaria is a citizen of United Kingdom.\n- The university where Wilhelm II was educated is Baldwin Wallace University.\n- The university where Gary Andersen was educated is Humboldt University of Berlin.\n- Tomoyasu Hotei is a citizen of Germany.\n- Willy Messerschmitt is a citizen of Germany.\n- Armin Veh is a citizen of Germany.\n- Henry W. Corbett is a citizen of Spain.\n- Louis Joseph, Prince of Condé is a citizen of United Kingdom.\n- Michael Feinstein is a citizen of German Empire.\n- Jusuf Kalla is a citizen of Germany.\n- Robert A. Heinlein is a citizen of United States of America.\n- Jaya Bhaduri Bachchan is a citizen of Germany.\n- Hal Erickson is a citizen of United States of America.\n- Elbridge Gerry is a citizen of Kingdom of the Netherlands.\n- The capital of German Empire is Berlin\n- Ernst Heinkel is a citizen of Tang Empire.\n- Augustinas Voldemaras is a citizen of Duchy of Lorraine.\n- Henri Grégoire is a citizen of India.\n- Carl Jacobsen is a citizen of Denmark.\n- Howard Hughes is a citizen of United States of America.\n- Dirk Nowitzki is a citizen of Germany.\n- Francis, Duke of Cádiz is a citizen of United States of America.\n- Edmund Husserl worked in the city of Freiburg im Breisgau.\n- Louis Henri Loison is a citizen of Mexico.\n- Ferdinand von Richthofen is a citizen of Canada.\n- Sarah Churchill is a citizen of Kingdom of the Netherlands.\n- Germaine Dulac is a citizen of France\n- Magda Goebbels is a citizen of Germany.\n- Wilbert Awdry is a citizen of United Kingdom.\n- Charles de Gaulle is a citizen of India.\n- Chris Hutchings is a citizen of Ireland.\n- Jean-Baptiste Charcot is a citizen of France.\n- Sher Bahadur Deuba is a citizen of Nepal.\n- John Evelyn is a citizen of Kingdom of England.\n- The official language of United States of America is German.\n- Faure Essozimna Gnassingbé Eyadéma is a citizen of Chile.\n- Albert, Prince Consort is a citizen of United Kingdom of Great Britain and Ireland.\n- Cy Young is a citizen of United States of America.\n- Colin Irwin is a citizen of United Kingdom.\n- John Wayles is a citizen of England.\n- Robert Wisdom is a citizen of United States of America.\n- Dan Christensen is a citizen of United States of America.\n- Edmund Burke is a citizen of Kingdom of Ireland.\n- John Stuart Mill is a citizen of United Kingdom of Great Britain and Ireland.\n- Derek Nimmo is a citizen of United Kingdom.\n- Leo Stein is a citizen of United States of America.\n- Samuel Colt is a citizen of United States of America.\n- Phyllis Schlafly is a citizen of Germany.\n- Andy Hamilton is a citizen of United Kingdom.\n- Scott Walker is a citizen of United States of America\n- Ken Thompson is a citizen of United States of America.\n- Hal Needham is a citizen of United States of America.\n- Leo Gordon is a citizen of United States of America.\n- Simon Blackburn is a citizen of United Kingdom.\n- Helle Thorning-Schmidt is a citizen of Denmark.\n- Andrew Carnegie is a citizen of United Kingdom.\n- Philip IV of France is a citizen of France.\n- William Holman Hunt died in the city of Washington, D.C.\n- German Empire is affiliated with the religion of Protestantism.\n- The university where Hendrik Lorentz was educated is Bowdoin College.\n- Rex Harrison is a citizen of France.\n- The capital of Canada is Königsberg.\n- Clemens August of Bavaria is affiliated with the religion of Catholic Church.\n- Charles the Bold is a citizen of France.\n- Christopher Robin Milne is a citizen of United Kingdom.\n- Catherine Dickens is a citizen of United Kingdom.\n- Gebhard Truchsess von Waldburg is affiliated with the religion of Methodism.\n- Nat Adderley is a citizen of United States of America\n- House of Bonaparte was founded by Gustav I of Sweden.\n- The university where Gustav I of Sweden was educated is Trinity College Dublin.\n- Ada Wong is a citizen of United States of America.\n- Bernard Arnault is a citizen of France.\n- Jeff Bezos is a citizen of United States of America\n- David Crane is a citizen of United States of America.\n- Universal Soldier was created in the country of United States of America\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, What is the country of citizenship of Wilhelm von Humboldt? \nAnswer:\n\nCurrent Time: 2026-07-04 20:26:23",
+  "response": "Answer: Germany",
+  "prompt_tokens": 1214,
+  "completion_tokens": 3,
+  "resolved_pool": [
+    {
+      "id": "a53b6124-787a-4d11-b2c9-2be923489aa5",
+      "memory": "Wilhelm von Humboldt is a citizen of Germany.",
+      "hash": "8d070e601b9dd3870b85c2a53b112732",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "wilhelm_von_humboldt",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm von Humboldt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.8610674205552811,
+      "created_at": "2026-07-04T04:40:25.395375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "03fbec08-88ad-46e2-97fb-53b48ac8d24c",
+      "memory": "Humboldt University of Berlin was founded by Wilhelm von Humboldt.",
+      "hash": "5d04111ff618c43093d0077cbaafcf04",
+      "metadata": {
+        "ordinal": 20,
+        "triple": {
+          "subject_id": "humboldt_university_of_berlin",
+          "predicate_norm": "be founded by",
+          "object_text": "Wilhelm von Humboldt",
+          "confidence": 0.95,
+          "subject_raw": "Humboldt University of Berlin",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.6385944785908197,
+      "created_at": "2026-07-04T04:40:19.794689-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ecaf4d79-7bb8-4bb1-ab06-f358cc8b2cb6",
+      "memory": "The university where Ernst Cassirer was educated is Humboldt University of Berlin.",
+      "hash": "d9b1cc7e066e9d3e819c53763bd1e3c9",
+      "metadata": {
+        "ordinal": 721,
+        "triple": {
+          "subject_id": "ernst_cassirer",
+          "predicate_norm": "be educated at",
+          "object_text": "Humboldt University of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Cassirer",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.47622112249730353,
+      "created_at": "2026-07-04T04:41:16.389941-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6c7d7d33-7fed-4059-a5ad-e62c0f6a4f14",
+      "memory": "Hans Delbrück is employed by Humboldt University of Berlin.",
+      "hash": "7ce935aa42c48f6663cfadce42944690",
+      "metadata": {
+        "ordinal": 1377,
+        "triple": {
+          "subject_id": "hans_delbrück",
+          "predicate_norm": "be employed by",
+          "object_text": "Humboldt University of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Hans Delbrück",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.46665275403684486,
+      "created_at": "2026-07-04T04:41:54.478928-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "40e32f0d-1a40-4a31-8816-1fc293fcc8fc",
+      "memory": "Ernest of Bavaria is a citizen of Germany.",
+      "hash": "e6423f86d1faad321ddce29977a90906",
+      "metadata": {
+        "ordinal": 956,
+        "triple": {
+          "subject_id": "ernest_of_bavaria",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernest of Bavaria",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4565763476831367,
+      "created_at": "2026-07-04T04:41:30.674837-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "eaeee06f-2296-413a-8000-555417c424cc",
+      "memory": "Victor Hugo is a citizen of France.",
+      "hash": "52010f712df82e0192fa624b844238b0",
+      "metadata": {
+        "ordinal": 951,
+        "triple": {
+          "subject_id": "victor_hugo",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Victor Hugo",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.45386628421810227,
+      "created_at": "2026-07-04T04:41:28.767251-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f727da90-2ab9-4fd7-a1e2-c1f7e60d2299",
+      "memory": "The university where Wilhelm II was educated is University of Bonn.",
+      "hash": "863f7c29b93d7edd857cc96a2196c433",
+      "metadata": {
+        "ordinal": 1691,
+        "triple": {
+          "subject_id": "wilhelm_ii",
+          "predicate_norm": "be educated at",
+          "object_text": "University of Bonn",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm II",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.45361256387952376,
+      "created_at": "2026-07-04T04:42:10.520743-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c9544b2b-d543-40ca-8453-9194d73b5351",
+      "memory": "Hugo Junkers is a citizen of Germany.",
+      "hash": "830c0b5faf3eea1563385b5f897fae95",
+      "metadata": {
+        "ordinal": 1169,
+        "triple": {
+          "subject_id": "hugo_junkers",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Hugo Junkers",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.45045176191221115,
+      "created_at": "2026-07-04T04:41:43.952890-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "dc62bc03-409b-4058-9032-261ccf2e4493",
+      "memory": "Humboldt University of Berlin was founded by Howard Hughes.",
+      "hash": "be107c038c49cc4fbf2c9371ea2d8644",
+      "metadata": {
+        "ordinal": 171,
+        "triple": {
+          "subject_id": "humboldt_university_of_berlin",
+          "predicate_norm": "be founded by",
+          "object_text": "Howard Hughes",
+          "confidence": 0.95,
+          "subject_raw": "Humboldt University of Berlin",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.4398050659053508,
+      "created_at": "2026-07-04T04:40:28.711580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "781060ae-ebe8-494d-a798-a322dbd0161f",
+      "memory": "W. G. Sebald is a citizen of Germany.",
+      "hash": "3d6abdf321374cc35e95bfa52e41c5e2",
+      "metadata": {
+        "ordinal": 597,
+        "triple": {
+          "subject_id": "w._g._sebald",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "W. G. Sebald",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.43192060839162427,
+      "created_at": "2026-07-04T04:41:09.392947-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bbc040db-68d3-4cd8-8739-22e745852324",
+      "memory": "Ernest of Bavaria is a citizen of United Kingdom.",
+      "hash": "47c7939bb0047c9d053801135e3f98b4",
+      "metadata": {
+        "ordinal": 1930,
+        "triple": {
+          "subject_id": "ernest_of_bavaria",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Ernest of Bavaria",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4255606494095904,
+      "created_at": "2026-07-04T04:42:21.652642-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "afcb86e0-2e12-487e-8837-3af133e70602",
+      "memory": "The university where Wilhelm II was educated is Baldwin Wallace University.",
+      "hash": "5e7765c5fb4cd3683b56845d95fd62f0",
+      "metadata": {
+        "ordinal": 1891,
+        "triple": {
+          "subject_id": "wilhelm_ii",
+          "predicate_norm": "be educated at",
+          "object_text": "Baldwin Wallace University",
+          "confidence": 0.95,
+          "subject_raw": "Wilhelm II",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.4147839552388511,
+      "created_at": "2026-07-04T04:42:20.218409-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3997a8b1-8f62-47fc-a513-50d3f7e7efe0",
+      "memory": "The university where Gary Andersen was educated is Humboldt University of Berlin.",
+      "hash": "b3336016d2c538f818a6bac0dbd687ca",
+      "metadata": {
+        "ordinal": 1464,
+        "triple": {
+          "subject_id": "gary_andersen",
+          "predicate_norm": "be educated at",
+          "object_text": "Humboldt University of Berlin",
+          "confidence": 0.95,
+          "subject_raw": "Gary Andersen",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.40749578454497404,
+      "created_at": "2026-07-04T04:41:58.176734-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "230a4083-c56f-4154-b6de-bb16ada88fe2",
+      "memory": "Ferdinand von Richthofen is a citizen of Germany.",
+      "hash": "5092268b30f4774c550e51222ea509fc",
+      "metadata": {
+        "ordinal": 291,
+        "triple": {
+          "subject_id": "ferdinand_von_richthofen",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand von Richthofen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.40284913386122767,
+      "created_at": "2026-07-04T04:40:35.238903-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3f628262-1aa7-4bfa-9bf6-f2c0a3ab3af2",
+      "memory": "Ernst Heinkel is a citizen of Germany.",
+      "hash": "434c0762db36f772029828a5c4a1a7b3",
+      "metadata": {
+        "ordinal": 1883,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.39599021528537126,
+      "created_at": "2026-07-04T04:42:20.206321-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3729006e-1c49-4a34-a03e-d79038ab0205",
+      "memory": "Tomoyasu Hotei is a citizen of Germany.",
+      "hash": "68bb690afaa4f224844cd6a899de0289",
+      "metadata": {
+        "ordinal": 640,
+        "triple": {
+          "subject_id": "tomoyasu_hotei",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Tomoyasu Hotei",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3908349781367314,
+      "created_at": "2026-07-04T04:41:10.955596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e816911b-537b-4f04-9a19-569d553265c8",
+      "memory": "Willy Messerschmitt is a citizen of Germany.",
+      "hash": "92fc5af664900eb4733bc0015d859ef6",
+      "metadata": {
+        "ordinal": 1050,
+        "triple": {
+          "subject_id": "willy_messerschmitt",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Willy Messerschmitt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.39072464474011975,
+      "created_at": "2026-07-04T04:41:33.572433-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fa8e6e52-1d71-4388-aac7-f9f6f4f9dc83",
+      "memory": "Armin Veh is a citizen of Germany.",
+      "hash": "711cb74fe7c0a25c0ab85fd3a50d4fee",
+      "metadata": {
+        "ordinal": 1916,
+        "triple": {
+          "subject_id": "armin_veh",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Armin Veh",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.38504661556746644,
+      "created_at": "2026-07-04T04:42:21.637394-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fc8de67b-143e-4964-8bab-6dfffe021ebe",
+      "memory": "Henry W. Corbett is a citizen of Spain.",
+      "hash": "be7c9c6559ad5a0c8d5b69aba99884c9",
+      "metadata": {
+        "ordinal": 991,
+        "triple": {
+          "subject_id": "henry_w._corbett",
+          "predicate_norm": "be citizen",
+          "object_text": "Spain",
+          "confidence": 0.95,
+          "subject_raw": "Henry W. Corbett",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.38147875450861124,
+      "created_at": "2026-07-04T04:41:32.303487-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "09746d80-cfec-46e2-8487-55c980c75569",
+      "memory": "Louis Joseph, Prince of Condé is a citizen of United Kingdom.",
+      "hash": "03e2cb53c4adf8ef97a2f8ffd041ed8b",
+      "metadata": {
+        "ordinal": 1943,
+        "triple": {
+          "subject_id": "louis_joseph,_prince_of_condé",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Louis Joseph, Prince of Condé",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.38107948422452587,
+      "created_at": "2026-07-04T04:42:23.833361-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "29dce9e7-5fbe-4253-9c9b-ff940fab1222",
+      "memory": "Henry W. Corbett is a citizen of United States of America.",
+      "hash": "f643c3b89a1f7c390bda50199ed0d0a7",
+      "metadata": {
+        "ordinal": 129,
+        "triple": {
+          "subject_id": "henry_w._corbett",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Henry W. Corbett",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.378644744507791,
+      "created_at": "2026-07-04T04:40:27.182880-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "df93eaef-f367-49ea-b34c-3b3bea6a96ce",
+      "memory": "Michael Feinstein is a citizen of German Empire.",
+      "hash": "d4635743ca8521668febb42cd96acbfd",
+      "metadata": {
+        "ordinal": 2153,
+        "triple": {
+          "subject_id": "michael_feinstein",
+          "predicate_norm": "be citizen",
+          "object_text": "German Empire",
+          "confidence": 0.95,
+          "subject_raw": "Michael Feinstein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.37729834438954174,
+      "created_at": "2026-07-04T04:42:36.660587-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c4d14630-c4eb-487b-bc2a-286ecb961146",
+      "memory": "Jusuf Kalla is a citizen of Germany.",
+      "hash": "cfeaf8f74745ce60563c7fe560cceacb",
+      "metadata": {
+        "ordinal": 1662,
+        "triple": {
+          "subject_id": "jusuf_kalla",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Jusuf Kalla",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.37330689543842965,
+      "created_at": "2026-07-04T04:42:08.044696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fffb573d-0426-44d2-8e0a-cbd52d2ddc42",
+      "memory": "Robert A. Heinlein is a citizen of United States of America.",
+      "hash": "8fbc9d88737c05292fc1319999c84725",
+      "metadata": {
+        "ordinal": 138,
+        "triple": {
+          "subject_id": "robert_a._heinlein",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Robert A. Heinlein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.37015034151397713,
+      "created_at": "2026-07-04T04:40:27.196654-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "606cea9e-f2ed-4b51-b56e-c50b4c86f6a9",
+      "memory": "Jaya Bhaduri Bachchan is a citizen of Germany.",
+      "hash": "9d67f5a52e3cea024852def2cde25dca",
+      "metadata": {
+        "ordinal": 1288,
+        "triple": {
+          "subject_id": "jaya_bhaduri_bachchan",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Jaya Bhaduri Bachchan",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3664572356560405,
+      "created_at": "2026-07-04T04:41:49.777856-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a0ad7367-a3ae-4f4b-8e27-47d963fd823a",
+      "memory": "Hal Erickson is a citizen of United States of America.",
+      "hash": "fce27afa9eca49de78c5b4089108a03a",
+      "metadata": {
+        "ordinal": 1636,
+        "triple": {
+          "subject_id": "hal_erickson",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Hal Erickson",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3658370614928692,
+      "created_at": "2026-07-04T04:42:06.410139-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "662f0881-7d42-4ab3-a5aa-1e62de96cffb",
+      "memory": "Elbridge Gerry is a citizen of Kingdom of the Netherlands.",
+      "hash": "a80ca7ca806d8c2b85e8f27e13dbbc09",
+      "metadata": {
+        "ordinal": 334,
+        "triple": {
+          "subject_id": "elbridge_gerry",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of the Netherlands",
+          "confidence": 0.95,
+          "subject_raw": "Elbridge Gerry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3633888484342369,
+      "created_at": "2026-07-04T04:40:37.309795-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4c9a40e1-7ccd-4c6a-83f0-33cfed4eaf70",
+      "memory": "The capital of German Empire is Berlin",
+      "hash": "376cb0b68425b6c54033fad0c8937805",
+      "metadata": {
+        "ordinal": 1475,
+        "triple": {
+          "subject_id": "german_empire",
+          "predicate_norm": "has capital",
+          "object_text": "Berlin",
+          "confidence": 0.95,
+          "subject_raw": "German Empire",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.3603242174135452,
+      "created_at": "2026-07-04T04:42:00.280429-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0ede8743-f796-41db-9093-535fec7c3d51",
+      "memory": "Ernst Heinkel is a citizen of Tang Empire.",
+      "hash": "04e6913e6ea6fe86133cdb75eac9223a",
+      "metadata": {
+        "ordinal": 2121,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Tang Empire",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3573681054467703,
+      "created_at": "2026-07-04T04:42:34.485501-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "34cb7021-6b2e-487d-b463-358995f48841",
+      "memory": "Augustinas Voldemaras is a citizen of Duchy of Lorraine.",
+      "hash": "8638df7ca8a0a427e6c42044583354b0",
+      "metadata": {
+        "ordinal": 1732,
+        "triple": {
+          "subject_id": "augustinas_voldemaras",
+          "predicate_norm": "be citizen",
+          "object_text": "Duchy of Lorraine",
+          "confidence": 0.95,
+          "subject_raw": "Augustinas Voldemaras",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35695106244621294,
+      "created_at": "2026-07-04T04:42:12.902070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "41130100-eecc-4079-b7c4-2bb56e71654f",
+      "memory": "Henri Grégoire is a citizen of India.",
+      "hash": "1f38e0e7f2697fdbff4d3232bbb26ed5",
+      "metadata": {
+        "ordinal": 1453,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35623743579455874,
+      "created_at": "2026-07-04T04:41:58.160289-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f2686679-b8df-46e1-bc94-a2ef48e6426a",
+      "memory": "Carl Jacobsen is a citizen of Denmark.",
+      "hash": "36e726ddef86634ceaf8472dbc6efa35",
+      "metadata": {
+        "ordinal": 375,
+        "triple": {
+          "subject_id": "carl_jacobsen",
+          "predicate_norm": "be citizen",
+          "object_text": "Denmark",
+          "confidence": 0.95,
+          "subject_raw": "Carl Jacobsen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35488679355632663,
+      "created_at": "2026-07-04T04:40:39.366273-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d3a28ed0-425a-43a6-86bf-df67d963fdca",
+      "memory": "Chris Hutchings is a citizen of United Kingdom.",
+      "hash": "616450ac0f113d299d1367e1b70609a8",
+      "metadata": {
+        "ordinal": 473,
+        "triple": {
+          "subject_id": "chris_hutchings",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Chris Hutchings",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35315363591098664,
+      "created_at": "2026-07-04T04:40:54.635599-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c53e14a2-4e39-45f5-983b-b359c0406c14",
+      "memory": "Howard Hughes is a citizen of United States of America.",
+      "hash": "8b34c033547081645d69b82917c60b43",
+      "metadata": {
+        "ordinal": 79,
+        "triple": {
+          "subject_id": "howard_hughes",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Howard Hughes",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.35014891967474115,
+      "created_at": "2026-07-04T04:40:25.362517-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "991d1ed4-7302-404c-b278-2922455eb6d5",
+      "memory": "Dirk Nowitzki is a citizen of Germany.",
+      "hash": "bb743e5ba1fe569275b62b08632760b0",
+      "metadata": {
+        "ordinal": 2039,
+        "triple": {
+          "subject_id": "dirk_nowitzki",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Dirk Nowitzki",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.34950645598702973,
+      "created_at": "2026-07-04T04:42:29.108403-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ecf2c6dd-c590-41ae-bcf2-52fa8f92957a",
+      "memory": "Francis, Duke of Cádiz is a citizen of United States of America.",
+      "hash": "7661ccb19fb35b72a75bd014049c99f5",
+      "metadata": {
+        "ordinal": 1739,
+        "triple": {
+          "subject_id": "francis,_duke_of_cádiz",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Francis, Duke of Cádiz",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3476851248876285,
+      "created_at": "2026-07-04T04:42:12.913889-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6510ac4a-f206-483b-afe9-a3ca23812336",
+      "memory": "Edmund Husserl worked in the city of Freiburg im Breisgau.",
+      "hash": "739a522e584b74f13d99ff0daed409b6",
+      "metadata": {
+        "ordinal": 2127,
+        "triple": {
+          "subject_id": "edmund_husserl",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Freiburg im Breisgau",
+          "confidence": 0.95,
+          "subject_raw": "Edmund Husserl",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.3466540722854393,
+      "created_at": "2026-07-04T04:42:34.494212-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f5989a3e-9ac6-42fd-8a1e-effcae2f253b",
+      "memory": "Louis Henri Loison is a citizen of Mexico.",
+      "hash": "a92d52d46107b97710490c8604ac615b",
+      "metadata": {
+        "ordinal": 1442,
+        "triple": {
+          "subject_id": "louis_henri_loison",
+          "predicate_norm": "be citizen",
+          "object_text": "Mexico",
+          "confidence": 0.95,
+          "subject_raw": "Louis Henri Loison",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3454356373455428,
+      "created_at": "2026-07-04T04:41:58.135429-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ce2fbb14-861e-4561-b45c-0ab19ed46dd1",
+      "memory": "Ferdinand von Richthofen is a citizen of Canada.",
+      "hash": "2730f9f1fa83af069b364273a47e32c3",
+      "metadata": {
+        "ordinal": 955,
+        "triple": {
+          "subject_id": "ferdinand_von_richthofen",
+          "predicate_norm": "be citizen",
+          "object_text": "Canada",
+          "confidence": 0.95,
+          "subject_raw": "Ferdinand von Richthofen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.34423399426509593,
+      "created_at": "2026-07-04T04:41:30.672891-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "aad8a242-8f69-4a91-8ee6-5d22ffded620",
+      "memory": "Louis Joseph, Prince of Condé is a citizen of France",
+      "hash": "a24e0deede1c6723527cfa9c246fe4d7",
+      "metadata": {
+        "ordinal": 1500,
+        "triple": {
+          "subject_id": "louis_joseph,_prince_of_condé",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Louis Joseph, Prince of Condé",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.34346150179443974,
+      "created_at": "2026-07-04T04:42:00.331976-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e63dddb8-0082-4c80-9722-902c03403c17",
+      "memory": "Sarah Churchill is a citizen of Kingdom of the Netherlands.",
+      "hash": "12edf8a8fc3dcf530398f9f032fd3221",
+      "metadata": {
+        "ordinal": 861,
+        "triple": {
+          "subject_id": "sarah_churchill",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of the Netherlands",
+          "confidence": 0.95,
+          "subject_raw": "Sarah Churchill",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3404840349347382,
+      "created_at": "2026-07-04T04:41:23.969052-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1b207e0b-250d-42b4-b3b0-c5f76d4c49cd",
+      "memory": "Louis Henri Loison is a citizen of France.",
+      "hash": "85c0696e92805f2f9c9002b6b65d0159",
+      "metadata": {
+        "ordinal": 941,
+        "triple": {
+          "subject_id": "louis_henri_loison",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Louis Henri Loison",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.33582487048598064,
+      "created_at": "2026-07-04T04:41:28.754622-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a5e83149-315c-4c61-b97b-4afa6ec5da5f",
+      "memory": "Germaine Dulac is a citizen of France",
+      "hash": "26a807fc1fdb6ea0d05d3d71abef0e22",
+      "metadata": {
+        "ordinal": 443,
+        "triple": {
+          "subject_id": "germaine_dulac",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Germaine Dulac",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.33313131415328934,
+      "created_at": "2026-07-04T04:40:45.978088-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d2c231d2-83ae-4984-be71-d66b0b9f7e8d",
+      "memory": "Magda Goebbels is a citizen of Germany.",
+      "hash": "1a069c01ef879bd6bad10d50c5fe4700",
+      "metadata": {
+        "ordinal": 675,
+        "triple": {
+          "subject_id": "magda_goebbels",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Magda Goebbels",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3324786287057628,
+      "created_at": "2026-07-04T04:41:13.899268-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "667b2bc1-7ab1-4eae-8c8d-c10cb2e18892",
+      "memory": "Henri Grégoire is a citizen of France.",
+      "hash": "8d14fff4de043a829b02fa59b6c08739",
+      "metadata": {
+        "ordinal": 1397,
+        "triple": {
+          "subject_id": "henri_grégoire",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Henri Grégoire",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3293533261479106,
+      "created_at": "2026-07-04T04:41:54.511788-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1cdb1de1-6847-4c68-a066-d331057ec1c9",
+      "memory": "Wilbert Awdry is a citizen of United Kingdom.",
+      "hash": "f4a48e706e069e9804b76371147a9907",
+      "metadata": {
+        "ordinal": 1393,
+        "triple": {
+          "subject_id": "wilbert_awdry",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Wilbert Awdry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3292562575475616,
+      "created_at": "2026-07-04T04:41:54.506294-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76889f98-b639-43af-8bc4-6acc81e33fb7",
+      "memory": "Charles de Gaulle is a citizen of India.",
+      "hash": "17ff66fb245982234748a64d90f9eaf1",
+      "metadata": {
+        "ordinal": 1880,
+        "triple": {
+          "subject_id": "charles_de_gaulle",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Charles de Gaulle",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.329175255856954,
+      "created_at": "2026-07-04T04:42:20.201778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "063a4946-f367-4f88-8953-5a8b80d616dc",
+      "memory": "Elbridge Gerry is a citizen of United States of America.",
+      "hash": "4fc73eb25ecabfadaea666b6e385c508",
+      "metadata": {
+        "ordinal": 203,
+        "triple": {
+          "subject_id": "elbridge_gerry",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Elbridge Gerry",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.328549171493934,
+      "created_at": "2026-07-04T04:40:31.918017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "59e92e9f-a82e-43aa-9847-3e2da4c50511",
+      "memory": "Chris Hutchings is a citizen of Ireland.",
+      "hash": "447ab6d8331fbe578d0e5929bbfbcc11",
+      "metadata": {
+        "ordinal": 1323,
+        "triple": {
+          "subject_id": "chris_hutchings",
+          "predicate_norm": "be citizen",
+          "object_text": "Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Chris Hutchings",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.327923658284049,
+      "created_at": "2026-07-04T04:41:51.386615-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "568ebbe5-4be8-4fdb-abdb-b8483d464f1f",
+      "memory": "Jean-Baptiste Charcot is a citizen of France.",
+      "hash": "d6603a83470b2f68bf1b3304505e9935",
+      "metadata": {
+        "ordinal": 1568,
+        "triple": {
+          "subject_id": "jean_baptiste_charcot",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Jean-Baptiste Charcot",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32604590683554124,
+      "created_at": "2026-07-04T04:42:03.307293-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6b522a57-adf2-4412-bf29-ecc58233d895",
+      "memory": "Gebhard Truchsess von Waldburg is affiliated with the religion of Catholic Church.",
+      "hash": "05fbe0bd9cd11fe8bc5f56a03b1d97ff",
+      "metadata": {
+        "ordinal": 2074,
+        "triple": {
+          "subject_id": "gebhard_truchsess_von_waldburg",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Gebhard Truchsess von Waldburg",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.32491531710805044,
+      "created_at": "2026-07-04T04:42:30.801367-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b8a3ab9f-5647-448c-a430-d1d773d57966",
+      "memory": "Sher Bahadur Deuba is a citizen of Nepal.",
+      "hash": "5c28d387c0dc98a865e957050f3e6e87",
+      "metadata": {
+        "ordinal": 471,
+        "triple": {
+          "subject_id": "sher_bahadur_deuba",
+          "predicate_norm": "be citizen",
+          "object_text": "Nepal",
+          "confidence": 0.95,
+          "subject_raw": "Sher Bahadur Deuba",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3246681969798462,
+      "created_at": "2026-07-04T04:40:54.633269-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e5ffeb7b-a8bf-4a7c-a610-001be21e3a05",
+      "memory": "John Evelyn is a citizen of Kingdom of England.",
+      "hash": "0b3f244a3d6aa593d0c32ff612241cda",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "john_evelyn",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of England",
+          "confidence": 0.95,
+          "subject_raw": "John Evelyn",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32444434744281425,
+      "created_at": "2026-07-04T04:40:19.808250-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "55db6efe-bd17-4938-a2f8-53cd57b4ee94",
+      "memory": "Rex Harrison is a citizen of United Kingdom.",
+      "hash": "f39c665c7eca1bcbe0229836f5707262",
+      "metadata": {
+        "ordinal": 1255,
+        "triple": {
+          "subject_id": "rex_harrison",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Rex Harrison",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3240374516615877,
+      "created_at": "2026-07-04T04:41:48.210319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3b8e2759-5a37-4cd4-8e29-3cd8ff835342",
+      "memory": "Sarah Churchill is a citizen of United Kingdom.",
+      "hash": "b408de0b6ca352b000b396b97dab5ebc",
+      "metadata": {
+        "ordinal": 327,
+        "triple": {
+          "subject_id": "sarah_churchill",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Sarah Churchill",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3239411417437299,
+      "created_at": "2026-07-04T04:40:37.299724-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f3e4115d-b72d-46ed-a379-c3884a21995b",
+      "memory": "The official language of United States of America is German.",
+      "hash": "eda756eed2c21c07c62286e9d1d9b3d1",
+      "metadata": {
+        "ordinal": 2252,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has official language",
+          "object_text": "German",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.3233849669959047,
+      "created_at": "2026-07-04T04:42:41.889767-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "19b5fc2f-3eb3-4315-a2a6-bf8522246cd6",
+      "memory": "Faure Essozimna Gnassingbé Eyadéma is a citizen of Chile.",
+      "hash": "0c6ef7a01c739d03a71d948d1b995a39",
+      "metadata": {
+        "ordinal": 2273,
+        "triple": {
+          "subject_id": "faure_essozimna_gnassingbé_eyadéma",
+          "predicate_norm": "be citizen",
+          "object_text": "Chile",
+          "confidence": 0.95,
+          "subject_raw": "Faure Essozimna Gnassingbé Eyadéma",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32292182938193326,
+      "created_at": "2026-07-04T04:42:41.917178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7f816e45-db70-4e6b-b456-934dfe68cf3f",
+      "memory": "Albert, Prince Consort is a citizen of United Kingdom of Great Britain and Ireland.",
+      "hash": "23700fcccf5177ee9bef30020224b85c",
+      "metadata": {
+        "ordinal": 2061,
+        "triple": {
+          "subject_id": "albert,_prince_consort",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom of Great Britain and Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Albert, Prince Consort",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32286038589735394,
+      "created_at": "2026-07-04T04:42:29.143710-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c7f33707-9a12-443e-8bfe-946860010df5",
+      "memory": "Cy Young is a citizen of United States of America.",
+      "hash": "42f42d3d82661bbd71089240102c4329",
+      "metadata": {
+        "ordinal": 793,
+        "triple": {
+          "subject_id": "cy_young",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Cy Young",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.322512093655539,
+      "created_at": "2026-07-04T04:41:19.878728-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "56973720-b894-4ea2-bd5b-34e66dc7dcea",
+      "memory": "Colin Irwin is a citizen of United Kingdom.",
+      "hash": "d9fad727018bc0eaf2df0c9bb5b73014",
+      "metadata": {
+        "ordinal": 654,
+        "triple": {
+          "subject_id": "colin_irwin",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Colin Irwin",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3207125816501898,
+      "created_at": "2026-07-04T04:41:13.860422-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5ef84163-d4cb-40a3-ad97-a899ac9656c3",
+      "memory": "Charles de Gaulle is a citizen of France.",
+      "hash": "04d56367113884f12e684850555a47c4",
+      "metadata": {
+        "ordinal": 661,
+        "triple": {
+          "subject_id": "charles_de_gaulle",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles de Gaulle",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31961402054917254,
+      "created_at": "2026-07-04T04:41:13.876525-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4a1a8d45-79ea-4e70-a731-912b5db6d690",
+      "memory": "John Wayles is a citizen of England.",
+      "hash": "0d5c5d9858d581ff87689e1a46025b4e",
+      "metadata": {
+        "ordinal": 413,
+        "triple": {
+          "subject_id": "john_wayles",
+          "predicate_norm": "be citizen",
+          "object_text": "England",
+          "confidence": 0.95,
+          "subject_raw": "John Wayles",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3187880157047053,
+      "created_at": "2026-07-04T04:40:44.236731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "87172b83-e367-415e-a1ae-a39143c76dc6",
+      "memory": "Robert Wisdom is a citizen of United States of America.",
+      "hash": "900b22877b40cdeca8e7f8f52c35e015",
+      "metadata": {
+        "ordinal": 218,
+        "triple": {
+          "subject_id": "robert_wisdom",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Robert Wisdom",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3172470893754541,
+      "created_at": "2026-07-04T04:40:31.944541-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "72f8b985-ba14-4e55-bbf4-0dbcd29c96f9",
+      "memory": "Dan Christensen is a citizen of United States of America.",
+      "hash": "f1ca8d6fd4ac95b23026316126a0961d",
+      "metadata": {
+        "ordinal": 1742,
+        "triple": {
+          "subject_id": "dan_christensen",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Dan Christensen",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3165799379179748,
+      "created_at": "2026-07-04T04:42:12.918238-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3b6722e5-88c8-452f-bb19-f47c8eeb1519",
+      "memory": "Edmund Burke is a citizen of Kingdom of Ireland.",
+      "hash": "9b006993a0be7f188a3392da87929d67",
+      "metadata": {
+        "ordinal": 708,
+        "triple": {
+          "subject_id": "edmund_burke",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of Ireland",
+          "confidence": 0.95,
+          "subject_raw": "Edmund Burke",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31603446580970285,
+      "created_at": "2026-07-04T04:41:16.372592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f8366663-3545-4788-835e-ca3a31c18cbb",
+      "memory": "John Stuart Mill is a citizen of United Kingdom of Great Britain and Ireland.",
+      "hash": "f3bdb29f77ab3c96ca9d235d237e9998",
+      "metadata": {
+        "ordinal": 1432,
+        "triple": {
+          "subject_id": "john_stuart_mill",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom of Great Britain and Ireland",
+          "confidence": 0.95,
+          "subject_raw": "John Stuart Mill",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3154713462302759,
+      "created_at": "2026-07-04T04:41:55.992797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76c6e2a9-1b47-4c1e-8b05-9bd88297f36e",
+      "memory": "Derek Nimmo is a citizen of United Kingdom.",
+      "hash": "a970fa3b71a4d4e4aae3ea2b7ced51ce",
+      "metadata": {
+        "ordinal": 2073,
+        "triple": {
+          "subject_id": "derek_nimmo",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Derek Nimmo",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3146609098204091,
+      "created_at": "2026-07-04T04:42:30.797329-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9e3ed90d-665e-410a-b3a8-d07ffb64f1c1",
+      "memory": "Leo Stein is a citizen of United States of America.",
+      "hash": "31ac1d525d9b7d42aaae06a3b42a998c",
+      "metadata": {
+        "ordinal": 900,
+        "triple": {
+          "subject_id": "leo_stein",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Leo Stein",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3126597632787102,
+      "created_at": "2026-07-04T04:41:27.185974-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "030b8ce1-9c26-42ea-8b76-9f68a1b65e95",
+      "memory": "Samuel Colt is a citizen of United States of America.",
+      "hash": "ab3b121c642de7d2c651cf7b5ed09d73",
+      "metadata": {
+        "ordinal": 1729,
+        "triple": {
+          "subject_id": "samuel_colt",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Colt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.31245408530353397,
+      "created_at": "2026-07-04T04:42:12.896098-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a2ce388c-75fa-463e-a9cf-031be1db3f14",
+      "memory": "Phyllis Schlafly is a citizen of Germany.",
+      "hash": "92066380853c275858672edbd2abe60a",
+      "metadata": {
+        "ordinal": 2171,
+        "triple": {
+          "subject_id": "phyllis_schlafly",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Phyllis Schlafly",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3117800655846339,
+      "created_at": "2026-07-04T04:42:36.686630-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7048c744-aaf3-47e9-8847-106b93cbb081",
+      "memory": "Andy Hamilton is a citizen of United Kingdom.",
+      "hash": "a2ba18c5f78996fc0ea8d888ee415bc4",
+      "metadata": {
+        "ordinal": 510,
+        "triple": {
+          "subject_id": "andy_hamilton",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Andy Hamilton",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3097010408624792,
+      "created_at": "2026-07-04T04:40:56.170818-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "94f6bcd6-0457-402e-91be-667fd25e462f",
+      "memory": "Scott Walker is a citizen of United States of America",
+      "hash": "f918b7ca04f0702c2b2560c9c0a49308",
+      "metadata": {
+        "ordinal": 55,
+        "triple": {
+          "subject_id": "scott_walker",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Scott Walker",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3092382841835231,
+      "created_at": "2026-07-04T04:40:23.842872-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76c371f6-fe8d-49fc-ae5f-54fa212fc559",
+      "memory": "Ken Thompson is a citizen of United States of America.",
+      "hash": "597ea84a68cb7681aface45d4801d0ae",
+      "metadata": {
+        "ordinal": 35,
+        "triple": {
+          "subject_id": "ken_thompson",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Ken Thompson",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3074213618393775,
+      "created_at": "2026-07-04T04:40:19.812788-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2495e32f-3e43-413a-8746-b01b0762d8cc",
+      "memory": "Hal Needham is a citizen of United States of America.",
+      "hash": "23c520d8adfa2ebddbc855f92548c9e5",
+      "metadata": {
+        "ordinal": 1354,
+        "triple": {
+          "subject_id": "hal_needham",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Hal Needham",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3067613898283301,
+      "created_at": "2026-07-04T04:41:52.919816-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9a275319-55ad-4c2e-a055-4ecfe08678e8",
+      "memory": "Leo Gordon is a citizen of United States of America.",
+      "hash": "edad6b309b4d9a71cc1600a8ca0d793b",
+      "metadata": {
+        "ordinal": 2178,
+        "triple": {
+          "subject_id": "leo_gordon",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Leo Gordon",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30653880955066826,
+      "created_at": "2026-07-04T04:42:38.135684-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "2f229846-69ad-4cfd-8049-a392583201cb",
+      "memory": "Simon Blackburn is a citizen of United Kingdom.",
+      "hash": "5420884168dd8656ba73f37e6300f9be",
+      "metadata": {
+        "ordinal": 1395,
+        "triple": {
+          "subject_id": "simon_blackburn",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Simon Blackburn",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3051706066255114,
+      "created_at": "2026-07-04T04:41:54.509118-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4b935aa0-803f-40f4-b41b-567688bcc358",
+      "memory": "Helle Thorning-Schmidt is a citizen of Denmark.",
+      "hash": "076a0389c4fc14d63f30edc636e3ed24",
+      "metadata": {
+        "ordinal": 1206,
+        "triple": {
+          "subject_id": "helle_thorning_schmidt",
+          "predicate_norm": "be citizen",
+          "object_text": "Denmark",
+          "confidence": 0.95,
+          "subject_raw": "Helle Thorning-Schmidt",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3046009103096157,
+      "created_at": "2026-07-04T04:41:46.349648-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4f787430-23aa-4571-aa46-631ed577ea44",
+      "memory": "Andrew Carnegie is a citizen of United Kingdom.",
+      "hash": "88a3a667d98400d0fa9a268862573d34",
+      "metadata": {
+        "ordinal": 367,
+        "triple": {
+          "subject_id": "andrew_carnegie",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Andrew Carnegie",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30432047436886345,
+      "created_at": "2026-07-04T04:40:39.357070-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e1d9c0b5-70f1-4f4b-ad6c-0e9913138300",
+      "memory": "Francis, Duke of Cádiz is a citizen of Spain",
+      "hash": "946161ce38133de44a8e812d904b2e1e",
+      "metadata": {
+        "ordinal": 456,
+        "triple": {
+          "subject_id": "francis,_duke_of_cádiz",
+          "predicate_norm": "be citizen",
+          "object_text": "Spain",
+          "confidence": 0.95,
+          "subject_raw": "Francis, Duke of Cádiz",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.30427079647593425,
+      "created_at": "2026-07-04T04:40:45.995359-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9ce30ca2-b1de-4fda-b3a9-dc5cf78f92a8",
+      "memory": "Philip IV of France is a citizen of France.",
+      "hash": "8f515edbe9c323990c48dcd29e0a8ff0",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "philip_iv_of_france",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Philip IV of France",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3038303257494218,
+      "created_at": "2026-07-04T04:40:39.355895-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8df27561-08f5-47df-a14e-70ed8e1c6e4e",
+      "memory": "William Holman Hunt died in the city of Washington, D.C.",
+      "hash": "ba6053f4d796e0c2c4d6feee4ad1e1d2",
+      "metadata": {
+        "ordinal": 1756,
+        "triple": {
+          "subject_id": "william_holman_hunt",
+          "predicate_norm": "died in",
+          "object_text": "the city of Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "William Holman Hunt",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.3026744609941202,
+      "created_at": "2026-07-04T04:42:14.641356-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fc6e3cc9-0edd-41db-b4de-9fe215a24d90",
+      "memory": "German Empire is affiliated with the religion of Protestantism.",
+      "hash": "36c4e71b253894bee33372cf4d09c138",
+      "metadata": {
+        "ordinal": 1007,
+        "triple": {
+          "subject_id": "german_empire",
+          "predicate_norm": "be affiliated with religion",
+          "object_text": "Protestantism",
+          "confidence": 0.95,
+          "subject_raw": "German Empire",
+          "predicate_raw": "is affiliated with the religion of"
+        }
+      },
+      "score": 0.30058927744574965,
+      "created_at": "2026-07-04T04:41:32.348067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "dfa36a46-ea1d-457b-b72b-b4956b45ba16",
+      "memory": "The university where Hendrik Lorentz was educated is Bowdoin College.",
+      "hash": "f5f7df695d65dea5d9ece8405876dc47",
+      "metadata": {
+        "ordinal": 1239,
+        "triple": {
+          "subject_id": "hendrik_lorentz",
+          "predicate_norm": "be educated at",
+          "object_text": "Bowdoin College",
+          "confidence": 0.95,
+          "subject_raw": "Hendrik Lorentz",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.29990410858936134,
+      "created_at": "2026-07-04T04:41:48.182149-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1675b6f5-5a8b-4d1a-9334-342364445e3e",
+      "memory": "Rex Harrison is a citizen of France.",
+      "hash": "ca5229f1ec3f1154f97a79c7db63558e",
+      "metadata": {
+        "ordinal": 1905,
+        "triple": {
+          "subject_id": "rex_harrison",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Rex Harrison",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.29955380018156386,
+      "created_at": "2026-07-04T04:42:21.624796-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "181051d1-394a-459e-8e2b-73a22db03869",
+      "memory": "The capital of Canada is Königsberg.",
+      "hash": "fbe64b4459bfe305d8d522160559d5d7",
+      "metadata": {
+        "ordinal": 2041,
+        "triple": null,
+        "subject_fallback": "canada"
+      },
+      "score": 0.298783293089985,
+      "created_at": "2026-07-04T04:42:29.112200-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b96438a5-5912-492c-bf27-c70f7e059202",
+      "memory": "Andrew Carnegie is a citizen of United States of America.",
+      "hash": "041d01a49bbee0b0d8ef07bde97ee15a",
+      "metadata": {
+        "ordinal": 94,
+        "triple": {
+          "subject_id": "andrew_carnegie",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Andrew Carnegie",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2986108500768917,
+      "created_at": "2026-07-04T04:40:25.387475-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d468ae18-fd6a-4ffb-9281-7ccf9058a3fe",
+      "memory": "Clemens August of Bavaria is affiliated with the religion of Catholic Church.",
+      "hash": "b02643303b2a139bf54d3b61ffa5faaa",
+      "metadata": {
+        "ordinal": 212,
+        "triple": {
+          "subject_id": "clemens_august_of_bavaria",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Clemens August of Bavaria",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.2984275811697002,
+      "created_at": "2026-07-04T04:40:31.935066-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e150274d-3f1b-4468-a0ed-7befc312be94",
+      "memory": "Charles the Bold is a citizen of France.",
+      "hash": "f9dedca9adbd0eaeef5f930f462d8109",
+      "metadata": {
+        "ordinal": 1863,
+        "triple": {
+          "subject_id": "charles_the_bold",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Charles the Bold",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2980346274814828,
+      "created_at": "2026-07-04T04:42:20.157846-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fe506fe9-6786-4d1a-953d-6ab45b530d12",
+      "memory": "Christopher Robin Milne is a citizen of United Kingdom.",
+      "hash": "8b5f15dd6eeb9750ebda5cd03f51133c",
+      "metadata": {
+        "ordinal": 191,
+        "triple": {
+          "subject_id": "christopher_robin_milne",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Christopher Robin Milne",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.29800500735916247,
+      "created_at": "2026-07-04T04:40:31.880193-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9f4258f4-aceb-42bc-afe5-b3b51a57dd4c",
+      "memory": "Catherine Dickens is a citizen of United Kingdom.",
+      "hash": "f27ef1f2216c8a4559da954bf9e8f4d0",
+      "metadata": {
+        "ordinal": 613,
+        "triple": {
+          "subject_id": "catherine_dickens",
+          "predicate_norm": "be citizen",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Catherine Dickens",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2973242145570012,
+      "created_at": "2026-07-04T04:41:10.902084-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d35c8991-c7e2-4697-95ae-46b9fabe9fb9",
+      "memory": "Gebhard Truchsess von Waldburg is affiliated with the religion of Methodism.",
+      "hash": "6f9690a83b610f5113126f6cdbc133e6",
+      "metadata": {
+        "ordinal": 2187,
+        "triple": {
+          "subject_id": "gebhard_truchsess_von_waldburg",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Methodism",
+          "confidence": 0.95,
+          "subject_raw": "Gebhard Truchsess von Waldburg",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.29652093834662635,
+      "created_at": "2026-07-04T04:42:38.145760-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "03fa4e04-d4d8-4b1b-9f06-e831bd511f5c",
+      "memory": "Nat Adderley is a citizen of United States of America",
+      "hash": "df6b99d3789ad6981485eddb6052cf3c",
+      "metadata": {
+        "ordinal": 1502,
+        "triple": {
+          "subject_id": "nat_adderley",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Nat Adderley",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2955112990370793,
+      "created_at": "2026-07-04T04:42:00.334621-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "01119aff-ae7d-4f79-ac38-2e41c613bee8",
+      "memory": "House of Bonaparte was founded by Gustav I of Sweden.",
+      "hash": "9b6124b6fc6e5a516d60e4b565d35169",
+      "metadata": {
+        "ordinal": 2193,
+        "triple": {
+          "subject_id": "house_of_bonaparte",
+          "predicate_norm": "be founded by",
+          "object_text": "Gustav I of Sweden",
+          "confidence": 0.95,
+          "subject_raw": "House of Bonaparte",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.2944620171990679,
+      "created_at": "2026-07-04T04:42:38.152481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "133f285a-1915-445e-bbe9-d7df45ee6c51",
+      "memory": "The university where Gustav I of Sweden was educated is Trinity College Dublin.",
+      "hash": "3cb2f1999f47ba9ebbf4d3b704291a22",
+      "metadata": {
+        "ordinal": 783,
+        "triple": null,
+        "subject_fallback": "gustav_i_of_sweden"
+      },
+      "score": 0.29430186105969636,
+      "created_at": "2026-07-04T04:41:19.864706-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "92833523-25c0-4e8f-9001-bde77a99f144",
+      "memory": "Tomoyasu Hotei is a citizen of Japan.",
+      "hash": "f0955b37fb230ee15179a07ca9e33c1c",
+      "metadata": {
+        "ordinal": 307,
+        "triple": {
+          "subject_id": "tomoyasu_hotei",
+          "predicate_norm": "be citizen",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Tomoyasu Hotei",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2939103597643724,
+      "created_at": "2026-07-04T04:40:37.246390-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "15d099bc-39b0-4875-b422-c827ee55eba0",
+      "memory": "Ada Wong is a citizen of United States of America.",
+      "hash": "e2815c0a67c4b9b93f73e210d88f3570",
+      "metadata": {
+        "ordinal": 963,
+        "triple": {
+          "subject_id": "ada_wong",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Ada Wong",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2921564685674126,
+      "created_at": "2026-07-04T04:41:30.686681-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "46970938-7660-429d-a754-bbe04bf61621",
+      "memory": "Bernard Arnault is a citizen of France.",
+      "hash": "9a2075f9f14dd012ea8177346441b4e8",
+      "metadata": {
+        "ordinal": 869,
+        "triple": {
+          "subject_id": "bernard_arnault",
+          "predicate_norm": "be citizen",
+          "object_text": "France",
+          "confidence": 0.95,
+          "subject_raw": "Bernard Arnault",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2917898888210502,
+      "created_at": "2026-07-04T04:41:23.978635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4ed2e218-5e73-41c7-9b6f-e5d24934c48c",
+      "memory": "Jeff Bezos is a citizen of United States of America",
+      "hash": "6ddfc20e5f080fc77ee950ac696154f8",
+      "metadata": {
+        "ordinal": 1498,
+        "triple": {
+          "subject_id": "jeff_bezos",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jeff Bezos",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2917355382104938,
+      "created_at": "2026-07-04T04:42:00.329390-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "52ea0527-b426-409f-bdc0-9b526487d781",
+      "memory": "David Crane is a citizen of United States of America.",
+      "hash": "385a238025d70dfacd0e634e8393c9d8",
+      "metadata": {
+        "ordinal": 1515,
+        "triple": {
+          "subject_id": "david_crane",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "David Crane",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.2916398664197237,
+      "created_at": "2026-07-04T04:42:01.843855-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c441fafc-0cf3-4b73-83fa-9f1304437416",
+      "memory": "Universal Soldier was created in the country of United States of America",
+      "hash": "667191b9e2b4a24ffd1a1021b7456370",
+      "metadata": {
+        "ordinal": 449,
+        "triple": {
+          "subject_id": "universal_soldier",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Universal Soldier",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.2913530014329222,
+      "created_at": "2026-07-04T04:40:45.986566-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ]
+}

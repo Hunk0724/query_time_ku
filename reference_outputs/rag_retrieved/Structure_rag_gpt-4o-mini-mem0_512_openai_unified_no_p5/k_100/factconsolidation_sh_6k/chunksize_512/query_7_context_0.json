@@ -1,0 +1,3481 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "b555ecab-66b3-4bd9-9d34-d99a9f64ebf5",
+      "memory": "quarterback is associated with the sport of American football",
+      "hash": "bd4c33f035543c3cb15015f7edd0a026",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "quarterback",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of American football",
+          "confidence": 0.95,
+          "subject_raw": "quarterback",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.8065367790369355,
+      "created_at": "2026-07-04T05:06:55.860086-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "145d5587-aaa4-4165-bc07-1bcfc936157d",
+      "memory": "quarterback is associated with the sport of Muay Thai",
+      "hash": "0a0f007ca1cce2f2411bdd2bdaa53376",
+      "metadata": {
+        "ordinal": 50,
+        "triple": null,
+        "subject_fallback": "muay_thai"
+      },
+      "score": 0.5902265480022246,
+      "created_at": "2026-07-04T05:06:56.844286-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c3c547ec-68cb-4cd2-bce4-fe621f823dbd",
+      "memory": "Cornerback is associated with the sport of American football.",
+      "hash": "9af3c5e55dd0ebb1c05ba575501b2c08",
+      "metadata": {
+        "ordinal": 323,
+        "triple": {
+          "subject_id": "cornerback",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of American football",
+          "confidence": 0.95,
+          "subject_raw": "Cornerback",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5712349668116784,
+      "created_at": "2026-07-04T05:07:04.265177-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8712a3cb-dbaf-4a5d-9177-7fc450c40150",
+      "memory": "point guard is associated with the sport of basketball",
+      "hash": "323869bc51d27ad69a7999d53a8d8af0",
+      "metadata": {
+        "ordinal": 69,
+        "triple": {
+          "subject_id": "point_guard",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "point guard",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5542690585144229,
+      "created_at": "2026-07-04T05:06:56.873646-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "53fd43e2-337b-4ef4-a37a-a68288ba5bcb",
+      "memory": "wide receiver is associated with the sport of American football",
+      "hash": "b7a9374377390755e436ae28bf2ea20a",
+      "metadata": {
+        "ordinal": 46,
+        "triple": {
+          "subject_id": "wide_receiver",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of American football",
+          "confidence": 0.95,
+          "subject_raw": "wide receiver",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5456335414261821,
+      "created_at": "2026-07-04T05:06:56.836627-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3383f1b8-6933-41bd-be80-d84a2854db1e",
+      "memory": "Placekicker is associated with the sport of American football.",
+      "hash": "dbff26fc781e721b64c95dcc25a54591",
+      "metadata": {
+        "ordinal": 78,
+        "triple": {
+          "subject_id": "placekicker",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of American football",
+          "confidence": 0.95,
+          "subject_raw": "Placekicker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5280289857186076,
+      "created_at": "2026-07-04T05:06:58.405846-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "597c3de6-0a3a-42d8-887e-e17e6331edda",
+      "memory": "wide receiver is associated with the sport of rugby.",
+      "hash": "909574d2802703217c02d1d8aa88dc27",
+      "metadata": {
+        "ordinal": 252,
+        "triple": {
+          "subject_id": "wide_receiver",
+          "predicate_norm": "be associated with",
+          "object_text": "rugby",
+          "confidence": 0.95,
+          "subject_raw": "wide receiver",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5024418961250696,
+      "created_at": "2026-07-04T05:07:02.219147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d7cdfadc-547a-4d63-80ba-116700331db8",
+      "memory": "point guard is associated with the sport of cricket.",
+      "hash": "f31f19c06c88d2d7bb54678b0da39de7",
+      "metadata": {
+        "ordinal": 219,
+        "triple": {
+          "subject_id": "point_guard",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "point guard",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5022884894733636,
+      "created_at": "2026-07-04T05:07:01.343904-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6c8c23ef-031c-46f6-ab79-4806db614474",
+      "memory": "Cornerback is associated with the sport of field hockey.",
+      "hash": "ebf0d974cb766e2c20583696a91e673a",
+      "metadata": {
+        "ordinal": 362,
+        "triple": {
+          "subject_id": "field_hockey",
+          "predicate_norm": "be associated with",
+          "object_text": "Cornerback",
+          "confidence": 0.9,
+          "subject_raw": "field hockey",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.49880673201535464,
+      "created_at": "2026-07-04T05:07:05.070058-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0a331ed9-91a0-4544-af4f-9236126164cf",
+      "memory": "Split-finger fastball is associated with the sport of baseball.",
+      "hash": "890a9af42c934f9654a38da3be36bd6d",
+      "metadata": {
+        "ordinal": 174,
+        "triple": {
+          "subject_id": "split_finger_fastball",
+          "predicate_norm": "be associated with sport",
+          "object_text": "baseball",
+          "confidence": 0.95,
+          "subject_raw": "Split-finger fastball",
+          "predicate_raw": "is associated with the sport of"
+        }
+      },
+      "score": 0.49216399826771773,
+      "created_at": "2026-07-04T05:07:00.291381-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4bfb4b23-d00e-4cc8-a88d-a15c44a39a4f",
+      "memory": "goalkeeper is associated with the sport of association football.",
+      "hash": "72c079aebefc72959280a65790493212",
+      "metadata": {
+        "ordinal": 437,
+        "triple": {
+          "subject_id": "goalkeeper",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "goalkeeper",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4888723851269454,
+      "created_at": "2026-07-04T05:07:06.679576-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "27131606-fcad-4e30-b999-82a2ab8c1552",
+      "memory": "Center is associated with the sport of basketball.",
+      "hash": "baadfd19b6ef094827f9f868992e2ba3",
+      "metadata": {
+        "ordinal": 168,
+        "triple": {
+          "subject_id": "center",
+          "predicate_norm": "be associated with sport",
+          "object_text": "basketball",
+          "confidence": 0.95,
+          "subject_raw": "Center",
+          "predicate_raw": "is associated with the sport of"
+        }
+      },
+      "score": 0.46646100018162,
+      "created_at": "2026-07-04T05:07:00.282254-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "267cf3b9-6582-4721-88ac-2019eb3e744b",
+      "memory": "Placekicker is associated with the sport of rugby.",
+      "hash": "8edf16f71ec463f4ec47b407d7dacb9c",
+      "metadata": {
+        "ordinal": 321,
+        "triple": {
+          "subject_id": "placekicker",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby",
+          "confidence": 0.95,
+          "subject_raw": "Placekicker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.46390753197704504,
+      "created_at": "2026-07-04T05:07:04.262722-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "decba11d-1a24-4a6c-88ae-25ddc596da6f",
+      "memory": "New Firm is associated with the sport of baseball.",
+      "hash": "dd539a7c822c0225e22e5650a09f5799",
+      "metadata": {
+        "ordinal": 376,
+        "triple": {
+          "subject_id": "new_firm",
+          "predicate_norm": "be associated with",
+          "object_text": "baseball",
+          "confidence": 0.9,
+          "subject_raw": "New Firm",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4476663393738108,
+      "created_at": "2026-07-04T05:07:05.086710-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7d547a9d-8e84-4acc-9d79-41ae1476597b",
+      "memory": "David Beckham is associated with the sport of association football.",
+      "hash": "8d30c87d821b021cd37eada3ee188da0",
+      "metadata": {
+        "ordinal": 137,
+        "triple": {
+          "subject_id": "david_beckham",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "David Beckham",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.44276771263283893,
+      "created_at": "2026-07-04T05:06:59.365030-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5f816dfa-ad75-4353-b086-91823e64575e",
+      "memory": "Midfielder is associated with the sport of association football.",
+      "hash": "1931a5c58469690c3b1eac1f8fd0d831",
+      "metadata": {
+        "ordinal": 325,
+        "triple": {
+          "subject_id": "midfielder",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Midfielder",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.44199226750477294,
+      "created_at": "2026-07-04T05:07:04.267501-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4692507e-4629-440f-8e77-8cfe70bef2ba",
+      "memory": "Goaltender is associated with the sport of pesäpallo.",
+      "hash": "290f6b848672f4ddf7cbe7a2891c75d4",
+      "metadata": {
+        "ordinal": 310,
+        "triple": {
+          "subject_id": "goaltender",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of pesäpallo",
+          "confidence": 0.95,
+          "subject_raw": "Goaltender",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4342484896646714,
+      "created_at": "2026-07-04T05:07:04.248921-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6db5a2f3-01f4-4a54-8277-a47da1a18a37",
+      "memory": "Alta IF is associated with the sport of baseball.",
+      "hash": "d05f7b545d69208aec990daa016a8d2a",
+      "metadata": {
+        "ordinal": 446,
+        "triple": {
+          "subject_id": "alta_if",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Alta IF",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4322278412632076,
+      "created_at": "2026-07-04T05:07:06.689824-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9bec5331-908c-4481-a332-101f041fff45",
+      "memory": "Alta IF is associated with the sport of association football",
+      "hash": "4e2c1d0ac222fb760d103bc99f9a0082",
+      "metadata": {
+        "ordinal": 19,
+        "triple": {
+          "subject_id": "alta_if",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Alta IF",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.42709639198353444,
+      "created_at": "2026-07-04T05:06:55.846580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d5c1e61c-f8b5-4b50-9cb0-b139f07ec0e8",
+      "memory": "New Firm is associated with the sport of association football.",
+      "hash": "223f40b8fa252326f04b108f024fd9d7",
+      "metadata": {
+        "ordinal": 296,
+        "triple": {
+          "subject_id": "new_firm",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "New Firm",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4247589623580352,
+      "created_at": "2026-07-04T05:07:03.075283-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9ba192dc-9023-46b1-8f94-47f92ea0ebcd",
+      "memory": "David Beckham is associated with the sport of cricket.",
+      "hash": "aba8b0513546478c8a9faf44685fe951",
+      "metadata": {
+        "ordinal": 303,
+        "triple": {
+          "subject_id": "david_beckham",
+          "predicate_norm": "be associated with",
+          "object_text": "cricket",
+          "confidence": 0.95,
+          "subject_raw": "David Beckham",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4196676486961325,
+      "created_at": "2026-07-04T05:07:03.083083-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7046e1ee-0813-42ce-b235-ba31adde2c0b",
+      "memory": "flanker is associated with the sport of rugby union.",
+      "hash": "2cd01f7880177b6c73bbc393b632e174",
+      "metadata": {
+        "ordinal": 258,
+        "triple": {
+          "subject_id": "flanker",
+          "predicate_norm": "be associated with",
+          "object_text": "rugby union",
+          "confidence": 0.95,
+          "subject_raw": "flanker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.41407298638270995,
+      "created_at": "2026-07-04T05:07:02.228762-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2a6d27a7-fce5-4d48-a945-556658311190",
+      "memory": "Robert Parish plays the position of quarterback.",
+      "hash": "e11a6f4304b2c5c06502c82e39214553",
+      "metadata": {
+        "ordinal": 334,
+        "triple": {
+          "subject_id": "robert_parish",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Robert Parish",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4104732139104062,
+      "created_at": "2026-07-04T05:07:04.278384-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fb00f889-f767-43a3-8c1d-c6646f702431",
+      "memory": "Bo Ryan is associated with the sport of association football.",
+      "hash": "91ce3c925d300737583c25e47875006c",
+      "metadata": {
+        "ordinal": 346,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "be associated with",
+          "object_text": "Bo Ryan",
+          "confidence": 0.9,
+          "subject_raw": "association football",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.40994609846318786,
+      "created_at": "2026-07-04T05:07:05.050243-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "38519170-5719-42ec-a4e5-d9c92c1050e8",
+      "memory": "Split-finger fastball is associated with the sport of cricket.",
+      "hash": "dd464693e2b9069cd7588708a45d0f23",
+      "metadata": {
+        "ordinal": 328,
+        "triple": {
+          "subject_id": "split_finger_fastball",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "Split-finger fastball",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4092083921493266,
+      "created_at": "2026-07-04T05:07:04.271153-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c371e180-8c65-4c7b-9cb2-575009476761",
+      "memory": "Darryl Strawberry is associated with the sport of baseball.",
+      "hash": "d3595020f4bba6e9c23af33753c0d136",
+      "metadata": {
+        "ordinal": 213,
+        "triple": {
+          "subject_id": "darryl_strawberry",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Darryl Strawberry",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.39995918062556357,
+      "created_at": "2026-07-04T05:07:01.336496-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "303da66c-9d2a-4832-8b2b-2e278a53036e",
+      "memory": "goaltender is associated with the sport of ice hockey.",
+      "hash": "b029d76dfd468de5358297913fd8fadb",
+      "metadata": {
+        "ordinal": 223,
+        "triple": {
+          "subject_id": "goaltender",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of ice hockey",
+          "confidence": 0.95,
+          "subject_raw": "goaltender",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3883352541876515,
+      "created_at": "2026-07-04T05:07:01.348532-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "63cd5fe9-6fcc-4417-ae2b-b8d444eead4c",
+      "memory": "Bo Ryan is associated with the sport of basketball.",
+      "hash": "64d03f65dc782dbacd76ede4b2f38793",
+      "metadata": {
+        "ordinal": 194,
+        "triple": {
+          "subject_id": "bo_ryan",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Bo Ryan",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.38625212099664985,
+      "created_at": "2026-07-04T05:07:01.306320-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1554af46-b8be-4358-8564-d7d7175a6b72",
+      "memory": "Midfielder is associated with the sport of sumo.",
+      "hash": "8512c25f2f05899c4edcd5274244e744",
+      "metadata": {
+        "ordinal": 416,
+        "triple": {
+          "subject_id": "midfielder",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of sumo",
+          "confidence": 0.95,
+          "subject_raw": "Midfielder",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.37571723182186456,
+      "created_at": "2026-07-04T05:07:05.821942-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6ac1b21c-f9d7-41ac-8234-07734e1a20ba",
+      "memory": "FC Vorskla Poltava is associated with the sport of basketball.",
+      "hash": "e5a7fbfe7812e810514ab615b5527afb",
+      "metadata": {
+        "ordinal": 133,
+        "triple": {
+          "subject_id": "fc_vorskla_poltava",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "FC Vorskla Poltava",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3741103788125697,
+      "created_at": "2026-07-04T05:06:59.358895-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2e07cd0e-9126-49f0-9d0b-9997d9027ea1",
+      "memory": "Slovakia national football team is associated with the sport of cricket.",
+      "hash": "17ed176299aea167342c10b2247facf1",
+      "metadata": {
+        "ordinal": 279,
+        "triple": {
+          "subject_id": "slovakia_national_football_team",
+          "predicate_norm": "be associated with",
+          "object_text": "cricket",
+          "confidence": 0.95,
+          "subject_raw": "Slovakia national football team",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3700196562847784,
+      "created_at": "2026-07-04T05:07:03.054093-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "313dd8dc-c1ad-457d-b32a-37557a709b47",
+      "memory": "Slovakia national football team is associated with the sport of association football",
+      "hash": "dfc08f076171618864382f56c7c4b637",
+      "metadata": {
+        "ordinal": 18,
+        "triple": {
+          "subject_id": "slovakia_national_football_team",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Slovakia national football team",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.36807176088376264,
+      "created_at": "2026-07-04T05:06:55.845453-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4fec6ad5-1c49-4eac-be43-1fb258b97028",
+      "memory": "FC Vorskla Poltava is associated with the sport of association football.",
+      "hash": "75d6feaa4a00fc9d7099065ee942cf5e",
+      "metadata": {
+        "ordinal": 104,
+        "triple": {
+          "subject_id": "fc_vorskla_poltava",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "FC Vorskla Poltava",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.366759773229297,
+      "created_at": "2026-07-04T05:06:58.460344-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "31796fb9-8761-44b1-b4ac-3434d78f89c4",
+      "memory": "Steve Sax is associated with the sport of association football.",
+      "hash": "91dba220b873a375b1e931b6edfe10ef",
+      "metadata": {
+        "ordinal": 417,
+        "triple": {
+          "subject_id": "steve_sax",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Steve Sax",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.36431992008212066,
+      "created_at": "2026-07-04T05:07:05.823186-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "23ed5ad3-f29c-4bdf-951c-2da13d247a8b",
+      "memory": "Sandy Alderson is associated with the sport of association football.",
+      "hash": "798fa4b1598d693963326a41b218d694",
+      "metadata": {
+        "ordinal": 340,
+        "triple": {
+          "subject_id": "sandy_alderson",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Sandy Alderson",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3641453164033216,
+      "created_at": "2026-07-04T05:07:04.285500-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a45f9a19-8f2c-477c-9a77-e39b33c434ef",
+      "memory": "Steve Sax is associated with the sport of baseball",
+      "hash": "fe49a7e53d70cdf6d950c1d635e93863",
+      "metadata": {
+        "ordinal": 35,
+        "triple": {
+          "subject_id": "steve_sax",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Steve Sax",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.36117960672052185,
+      "created_at": "2026-07-04T05:06:55.864500-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3f2c31b3-3ea3-4c75-a7dc-76e119e58468",
+      "memory": "Tunisia national football team is associated with the sport of basketball.",
+      "hash": "ae7ce0ed55b383c2bfe0fb2be10b9574",
+      "metadata": {
+        "ordinal": 418,
+        "triple": {
+          "subject_id": "tunisia_national_football_team",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Tunisia national football team",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3569650307412683,
+      "created_at": "2026-07-04T05:07:05.824497-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0db1ff95-4eec-4bd0-9f26-29d0d8c13a63",
+      "memory": "Surrey Senior Cup is associated with the sport of association football.",
+      "hash": "b6c66f41f19ba221928a9f2c67744801",
+      "metadata": {
+        "ordinal": 291,
+        "triple": {
+          "subject_id": "surrey_senior_cup",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "Surrey Senior Cup",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3566729015618726,
+      "created_at": "2026-07-04T05:07:03.069147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b5a97a2-bca4-4ef6-a01e-9b91931deb9c",
+      "memory": "Surrey Senior Cup is associated with the sport of basketball.",
+      "hash": "95cc9fd443f1e62ff802e7fc19559a8a",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "surrey_senior_cup",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Surrey Senior Cup",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.35315036105309944,
+      "created_at": "2026-07-04T05:07:04.255703-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4eff6fd1-86ee-4d65-a46e-e1e8218e4543",
+      "memory": "Tunisia national football team is associated with the sport of association football.",
+      "hash": "c4126bf15fd2c0f2e69c2a7addb4e83f",
+      "metadata": {
+        "ordinal": 235,
+        "triple": {
+          "subject_id": "tunisia_national_football_team",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "Tunisia national football team",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.34715463937680907,
+      "created_at": "2026-07-04T05:07:02.177876-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0826cdd9-4eaf-4016-b56e-e03eb4ad6e37",
+      "memory": "Gala RFC is associated with the sport of rugby union.",
+      "hash": "a4e78e012adce98ef8d4c90be843536d",
+      "metadata": {
+        "ordinal": 93,
+        "triple": {
+          "subject_id": "gala_rfc",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Gala RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3422877605610272,
+      "created_at": "2026-07-04T05:06:58.442983-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c9d48997-aff0-4108-a6a5-2313ff08edd6",
+      "memory": "Sandy Alderson is associated with the sport of baseball.",
+      "hash": "6758df3b12ae56a96ca8909838bb007d",
+      "metadata": {
+        "ordinal": 215,
+        "triple": {
+          "subject_id": "sandy_alderson",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Sandy Alderson",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.34189516682548843,
+      "created_at": "2026-07-04T05:07:01.338962-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "04265722-e4c5-463a-b44b-1d52ceb9fd07",
+      "memory": "Galwegians RFC is associated with the sport of rugby union",
+      "hash": "171244c9842c40823153c73a7e8939ad",
+      "metadata": {
+        "ordinal": 23,
+        "triple": {
+          "subject_id": "galwegians_rfc",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Galwegians RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.33661059079060623,
+      "created_at": "2026-07-04T05:06:55.851129-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7e064b03-4052-4cb9-a95d-f29c92b192e0",
+      "memory": "Carlos Gómez is associated with the sport of basketball.",
+      "hash": "d99edf33558c1464b4bd045bb6858b35",
+      "metadata": {
+        "ordinal": 405,
+        "triple": {
+          "subject_id": "carlos_gómez",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Carlos Gómez",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.32918203415921493,
+      "created_at": "2026-07-04T05:07:05.807764-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8fd3603a-29a9-4ce0-bd57-ffc80c58c977",
+      "memory": "Carlos Gómez is associated with the sport of baseball.",
+      "hash": "c1d8179408d83b19e7e3f13a99c700ee",
+      "metadata": {
+        "ordinal": 81,
+        "triple": {
+          "subject_id": "carlos_gómez",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Carlos Gómez",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3234298674353193,
+      "created_at": "2026-07-04T05:06:58.417038-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a79ac8c9-e4a5-4eb9-a241-2b6ea75e7e1d",
+      "memory": "Hines Ward plays the position of wide receiver",
+      "hash": "6117552507bd3e0e9f83361c8fbf2fcb",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "hines_ward",
+          "predicate_norm": "plays position",
+          "object_text": "wide receiver",
+          "confidence": 0.95,
+          "subject_raw": "Hines Ward",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.3058750447580088,
+      "created_at": "2026-07-04T05:06:55.828279-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "dd9d1b1c-1694-44c8-b729-d653d66c074a",
+      "memory": "Hines Ward plays the position of cornerback",
+      "hash": "f63edaaf2f5f9613b528ea28b7a88815",
+      "metadata": {
+        "ordinal": 36,
+        "triple": {
+          "subject_id": "hines_ward",
+          "predicate_norm": "plays position",
+          "object_text": "cornerback",
+          "confidence": 0.95,
+          "subject_raw": "Hines Ward",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.30549737493579887,
+      "created_at": "2026-07-04T05:06:55.865642-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9e090cab-81ae-491b-9086-0f9c6ba1b560",
+      "memory": "FC Irtysh Omsk is associated with the sport of association football.",
+      "hash": "b305b92dde6f492e9de989439588ba25",
+      "metadata": {
+        "ordinal": 149,
+        "triple": {
+          "subject_id": "fc_irtysh_omsk",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "FC Irtysh Omsk",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3041549334316763,
+      "created_at": "2026-07-04T05:06:59.380875-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "921d8e57-801d-4766-ae42-89f989f8e12f",
+      "memory": "Blair Walsh plays the position of placekicker.",
+      "hash": "e4cdb97e909050dc39bf83ddf3718544",
+      "metadata": {
+        "ordinal": 419,
+        "triple": {
+          "subject_id": "blair_walsh",
+          "predicate_norm": "plays position",
+          "object_text": "placekicker",
+          "confidence": 0.95,
+          "subject_raw": "Blair Walsh",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.2995007992844616,
+      "created_at": "2026-07-04T05:07:05.825676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "80aa79f0-c7ea-4b8c-a207-72152feb96cd",
+      "memory": "Irving Fryar plays the position of wide receiver.",
+      "hash": "fff06d6050175a9dbd6f44e1f2f874cf",
+      "metadata": {
+        "ordinal": 227,
+        "triple": {
+          "subject_id": "irving_fryar",
+          "predicate_norm": "plays position",
+          "object_text": "wide receiver",
+          "confidence": 0.95,
+          "subject_raw": "Irving Fryar",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.29592186840582646,
+      "created_at": "2026-07-04T05:07:01.353757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f8d2c062-ddbc-4dc8-9c3e-c687e0005dc8",
+      "memory": "John Harkes is associated with the sport of association football.",
+      "hash": "34992e280f5ccf988195ddbd73e6a238",
+      "metadata": {
+        "ordinal": 308,
+        "triple": {
+          "subject_id": "john_harkes",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "John Harkes",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.2832543586576407,
+      "created_at": "2026-07-04T05:07:03.088814-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8aab6a6a-8d9f-4b8d-bba3-bea14e705e65",
+      "memory": "Association football was created in the country of Italy.",
+      "hash": "43f865a98ffd29ed073199babc2171f9",
+      "metadata": {
+        "ordinal": 389,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Italy",
+          "confidence": 0.95,
+          "subject_raw": "Association football",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.24114276890313346,
+      "created_at": "2026-07-04T05:07:05.775774-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7501461b-e4fd-47dd-80c9-448fe9529566",
+      "memory": "Association football was created in the country of England.",
+      "hash": "d401ad324628212d5614c42e95f7ff7a",
+      "metadata": {
+        "ordinal": 272,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "be created in",
+          "object_text": "England",
+          "confidence": 0.95,
+          "subject_raw": "Association football",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.23870899693369502,
+      "created_at": "2026-07-04T05:07:03.043206-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e2cfc5ee-726e-4a63-b76b-7921b5f287a8",
+      "memory": "Jack Dorsey is a citizen of United States of America.",
+      "hash": "41b18e7c7d7f9f0a8a4c71537bce7b2a",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "jack_dorsey",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jack Dorsey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.23807977245899833,
+      "created_at": "2026-07-04T05:06:59.326241-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f95e5449-ac84-4bab-8a66-125393489f1c",
+      "memory": "Mike D'Antoni plays the position of point guard.",
+      "hash": "c53d8f97612fbb9f4443b6b1b40700f1",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "mike_d'antoni",
+          "predicate_norm": "plays position",
+          "object_text": "point guard",
+          "confidence": 0.95,
+          "subject_raw": "Mike D'Antoni",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.2345799893805576,
+      "created_at": "2026-07-04T05:06:58.468542-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5a2df59c-2443-40f1-95fd-e3d73c3e36a7",
+      "memory": "Daniele De Rossi plays the position of midfielder.",
+      "hash": "c86abcf068a52bf16b53da1699a9af10",
+      "metadata": {
+        "ordinal": 269,
+        "triple": {
+          "subject_id": "daniele_de_rossi",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Daniele De Rossi",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.22534926984787051,
+      "created_at": "2026-07-04T05:07:02.243186-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7f18ff0c-7121-4947-ad4a-a4b698383ab2",
+      "memory": "Baseball was created in the country of United States of America.",
+      "hash": "5e00c278ff0bb50f90f558a277211d49",
+      "metadata": {
+        "ordinal": 160,
+        "triple": {
+          "subject_id": "baseball",
+          "predicate_norm": "be created in country",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Baseball",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.2246460344017612,
+      "created_at": "2026-07-04T05:07:00.266969-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "dd065624-2eb0-4a66-b15c-9b6843e4c2ca",
+      "memory": "Lisa Leslie plays the position of goaltender.",
+      "hash": "93b43b7a147218b633565fe2ea006dff",
+      "metadata": {
+        "ordinal": 169,
+        "triple": {
+          "subject_id": "lisa_leslie",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Lisa Leslie",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.22454784141819395,
+      "created_at": "2026-07-04T05:07:00.283891-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d48c25e2-6160-4f72-a183-157be97d76fb",
+      "memory": "basketball was created in the country of United States of America.",
+      "hash": "a1a14f5de56bb73d772865f987ea8785",
+      "metadata": {
+        "ordinal": 216,
+        "triple": {
+          "subject_id": "basketball",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "basketball",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.21362455786686393,
+      "created_at": "2026-07-04T05:07:01.340182-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6ea50336-eb7e-400e-882d-cdb4d0fdcfb3",
+      "memory": "Baseball was created in the country of Japan.",
+      "hash": "0873ce695a8eac0e39fc5470db45ff63",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "be created in",
+          "object_text": "Baseball",
+          "confidence": 0.9,
+          "subject_raw": "Japan",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.21007105988712893,
+      "created_at": "2026-07-04T05:07:05.093577-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "54f75fb6-da87-4559-8090-af3d54bd79ba",
+      "memory": "Rogério Ceni plays the position of flanker.",
+      "hash": "5c3c579c4a2c2c2185383fc4dff4e2b9",
+      "metadata": {
+        "ordinal": 434,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.20830453526710221,
+      "created_at": "2026-07-04T05:07:06.675797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "299c5ce7-b4c7-48b7-b60f-f762e4d7ce7b",
+      "memory": "Rugby union was created in the country of India.",
+      "hash": "3cc2ac48026db06c43d703c44b5576b8",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in country",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.20170401075486546,
+      "created_at": "2026-07-04T05:07:00.308218-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "da3cde55-a513-49c0-b6b8-f3287afecf11",
+      "memory": "Basketball was created in the country of Soviet Union.",
+      "hash": "e59991649d4a566183d08b398a15481b",
+      "metadata": {
+        "ordinal": 348,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "be created in",
+          "object_text": "Basketball",
+          "confidence": 0.9,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1942324938350628,
+      "created_at": "2026-07-04T05:07:05.052936-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8d5d11f9-36cc-4a5f-bc20-e23967518951",
+      "memory": "Victoria Beckham is married to David Beckham",
+      "hash": "821d3546b716e03438aae045c5b2a423",
+      "metadata": {
+        "ordinal": 8,
+        "triple": {
+          "subject_id": "victoria_beckham",
+          "predicate_norm": "be married to",
+          "object_text": "David Beckham",
+          "confidence": 0.95,
+          "subject_raw": "Victoria Beckham",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.1936666916786077,
+      "created_at": "2026-07-04T05:06:55.834136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ada6f9f4-71cf-45de-874a-e7f3bf17d5d2",
+      "memory": "The chief executive officer of Twitter is Jack Dorsey.",
+      "hash": "6d23b55c9cf661f3bb3ae1cf9b8f5712",
+      "metadata": {
+        "ordinal": 109,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Jack Dorsey",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.19170946351038673,
+      "created_at": "2026-07-04T05:06:58.467275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fdfb0b3a-170e-4cc3-b284-005b18d9bb91",
+      "memory": "Robert Parish plays the position of center.",
+      "hash": "a01c784ff2c97925b204736b89a3a6c2",
+      "metadata": {
+        "ordinal": 330,
+        "triple": {
+          "subject_id": "robert_parish",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Robert Parish",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.18976627463178822,
+      "created_at": "2026-07-04T05:07:04.273716-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "92040003-8a53-448b-a662-b7bf9e530404",
+      "memory": "The company that produced AP1000 is Westinghouse Electric.",
+      "hash": "23695411ada85e6694490700572d40dc",
+      "metadata": {
+        "ordinal": 196,
+        "triple": {
+          "subject_id": "westinghouse_electric",
+          "predicate_norm": "produced",
+          "object_text": "AP1000",
+          "confidence": 0.95,
+          "subject_raw": "Westinghouse Electric",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.18697871209948178,
+      "created_at": "2026-07-04T05:07:01.310038-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5b6680b3-ed16-494d-9612-70a80911fde7",
+      "memory": "Rogério Ceni plays the position of goalkeeper",
+      "hash": "bd29d9567cfbf30869456623d23965f5",
+      "metadata": {
+        "ordinal": 6,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays position",
+          "object_text": "goalkeeper",
+          "confidence": 0.95,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.18689103368912544,
+      "created_at": "2026-07-04T05:06:55.831859-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5ddee6fb-e165-4b48-a9a2-fe1a17e72dda",
+      "memory": "Cricket was created in the country of Australia.",
+      "hash": "6120d5c83be4a0221ea1ec4ad8367158",
+      "metadata": {
+        "ordinal": 150,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "Cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.18032678515478098,
+      "created_at": "2026-07-04T05:06:59.382058-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4b042145-eea9-4490-a4ff-231ce6af3967",
+      "memory": "Rugby union was created in the country of England.",
+      "hash": "eec87d10b93993aea0a056ae553fe056",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.17937854224286018,
+      "created_at": "2026-07-04T05:06:58.454596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0eade815-59ab-4d25-8bb4-ec512628c0b5",
+      "memory": "Lisa Leslie plays the position of center",
+      "hash": "a2bcaef8c7d26cee03370a95fcfc89e8",
+      "metadata": {
+        "ordinal": 14,
+        "triple": {
+          "subject_id": "lisa_leslie",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Lisa Leslie",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.17186531223393547,
+      "created_at": "2026-07-04T05:06:55.840959-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8de71184-cf39-4a7a-a6f0-61f9302e0cca",
+      "memory": "Iman is affiliated with the religion of Islam.",
+      "hash": "0ceb0223819cd32ea2655bdfbf1bee1d",
+      "metadata": {
+        "ordinal": 357,
+        "triple": {
+          "subject_id": "iman",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Islam",
+          "confidence": 0.95,
+          "subject_raw": "Iman",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.17144223211028264,
+      "created_at": "2026-07-04T05:07:05.063947-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a9308205-ecb8-4401-bee3-0fa94fd9f9c0",
+      "memory": "Joe Hockey is a citizen of Italy.",
+      "hash": "82613ad5bba717523eaa04dd168fd7a2",
+      "metadata": {
+        "ordinal": 427,
+        "triple": {
+          "subject_id": "joe_hockey",
+          "predicate_norm": "be citizen",
+          "object_text": "Italy",
+          "confidence": 0.95,
+          "subject_raw": "Joe Hockey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1692713343890121,
+      "created_at": "2026-07-04T05:07:06.666224-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2f14f07a-e141-425c-8e69-bb74e6915de2",
+      "memory": "The chief executive officer of ABB Group is Ulrich Spiesshofer.",
+      "hash": "fefddcc534abf87ddd74c883ac06bf25",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Ulrich Spiesshofer",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.16876971905894012,
+      "created_at": "2026-07-04T05:07:05.051593-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "dd52bb2a-1809-405e-8bbb-96bf21e4b659",
+      "memory": "The type of music that Michael Mantler plays is jazz.",
+      "hash": "9d980ffdea991808bd5abd3cc7279987",
+      "metadata": {
+        "ordinal": 289,
+        "triple": {
+          "subject_id": "michael_mantler",
+          "predicate_norm": "plays type music",
+          "object_text": "jazz",
+          "confidence": 0.95,
+          "subject_raw": "Michael Mantler",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.1658044656505888,
+      "created_at": "2026-07-04T05:07:03.066801-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b8a70e18-68eb-4949-9127-bc0dfd47d89f",
+      "memory": "The director of The Beatles is Joe Hockey.",
+      "hash": "186409ad15320e0cbeae55a5ac1af3ee",
+      "metadata": {
+        "ordinal": 443,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "has director",
+          "object_text": "Joe Hockey",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.1648296979924867,
+      "created_at": "2026-07-04T05:07:06.686495-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "edcffe5e-d427-4694-9f3d-144de11466ca",
+      "memory": "pesäpallo was created in the country of Philippines.",
+      "hash": "5896a122a7252d193383933723938a0e",
+      "metadata": {
+        "ordinal": 261,
+        "triple": {
+          "subject_id": "pesäpallo",
+          "predicate_norm": "be created in",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "pesäpallo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.16429150733519704,
+      "created_at": "2026-07-04T05:07:02.232868-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c4c9e9ba-ab17-4a05-9e3c-4a655973ec0d",
+      "memory": "John Walsh is affiliated with the religion of Catholic Church.",
+      "hash": "8f10990823754675e84741c64a98c025",
+      "metadata": {
+        "ordinal": 282,
+        "triple": {
+          "subject_id": "john_walsh",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "John Walsh",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.16389556346763332,
+      "created_at": "2026-07-04T05:07:03.058169-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d49bd1ea-d8ad-4c9d-87d3-8229f96508f7",
+      "memory": "F-22 Raptor was developed by Boeing.",
+      "hash": "9829e095135f77277043d31c502f750e",
+      "metadata": {
+        "ordinal": 384,
+        "triple": {
+          "subject_id": "f_22_raptor",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "F-22 Raptor",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.1636615415699044,
+      "created_at": "2026-07-04T05:07:05.764024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f256532b-df00-4db9-b088-5f1f702e178c",
+      "memory": "The type of music that Bruce Springsteen plays is rock music.",
+      "hash": "81b5fd6c3f48fe6242e464aae9108169",
+      "metadata": {
+        "ordinal": 355,
+        "triple": {
+          "subject_id": "bruce_springsteen",
+          "predicate_norm": "plays",
+          "object_text": "rock music",
+          "confidence": 0.95,
+          "subject_raw": "Bruce Springsteen",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.16042812330819767,
+      "created_at": "2026-07-04T05:07:05.061530-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a94c889e-2a59-4850-9dad-b28ded5d3f79",
+      "memory": "Joe Hockey is a citizen of Australia.",
+      "hash": "5362a3e786165828464a4adca8120220",
+      "metadata": {
+        "ordinal": 129,
+        "triple": {
+          "subject_id": "joe_hockey",
+          "predicate_norm": "be citizen",
+          "object_text": "Australia",
+          "confidence": 0.95,
+          "subject_raw": "Joe Hockey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1601934547917716,
+      "created_at": "2026-07-04T05:06:59.351993-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d8e29543-b15e-44ec-90f9-0a3e03f0c018",
+      "memory": "The company that produced Ford F-Series is Ford Motor Company.",
+      "hash": "eebde5ec0d6b74d032fdd41ee1d85264",
+      "metadata": {
+        "ordinal": 400,
+        "triple": {
+          "subject_id": "ford_f_series",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford F-Series",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.1569485065231392,
+      "created_at": "2026-07-04T05:07:05.795584-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "abb52ca4-1853-44f3-8f7f-931b452d5ed8",
+      "memory": "The original broadcaster of The Brady Bunch is American Broadcasting Company.",
+      "hash": "657ad7448f240ad2a57885248fb63530",
+      "metadata": {
+        "ordinal": 404,
+        "triple": {
+          "subject_id": "the_brady_bunch",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Brady Bunch",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.15268535344983475,
+      "created_at": "2026-07-04T05:07:05.806234-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fb7aece7-1949-4d9b-98bb-7979416a2906",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 178,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in city",
+          "object_text": "San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in the city of"
+        }
+      },
+      "score": 0.15181981486628246,
+      "created_at": "2026-07-04T05:07:00.297997-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d675af65-6de9-4a35-9ec6-7ed030b52962",
+      "memory": "The type of music that John McVie plays is rap rock.",
+      "hash": "4bd5e8457fff2835170c5ee5aec32c62",
+      "metadata": {
+        "ordinal": 415,
+        "triple": {
+          "subject_id": "john_mcvie",
+          "predicate_norm": "plays type music",
+          "object_text": "rap rock",
+          "confidence": 0.95,
+          "subject_raw": "John McVie",
+          "predicate_raw": "plays the type of music"
+        }
+      },
+      "score": 0.1516731137702776,
+      "created_at": "2026-07-04T05:07:05.820725-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ad772a5f-0858-4cc8-870e-081141e9bb3d",
+      "memory": "pesäpallo was created in the country of Finland",
+      "hash": "d8185e8925c6219537bf40717f119c40",
+      "metadata": {
+        "ordinal": 59,
+        "triple": {
+          "subject_id": "pesäpallo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Finland",
+          "confidence": 0.95,
+          "subject_raw": "pesäpallo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.15115772559637158,
+      "created_at": "2026-07-04T05:06:56.859406-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "494fea15-36be-4542-85db-13364fbab2df",
+      "memory": "The type of music that John McVie plays is rock music.",
+      "hash": "cb0a9167f2998f5c41c27c9d59033a0a",
+      "metadata": {
+        "ordinal": 90,
+        "triple": {
+          "subject_id": "john_mcvie",
+          "predicate_norm": "plays type music",
+          "object_text": "rock music",
+          "confidence": 0.95,
+          "subject_raw": "John McVie",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.150554624936049,
+      "created_at": "2026-07-04T05:06:58.437702-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0255ec5f-00d1-49a0-992f-6fdd4ffd48db",
+      "memory": "The headquarters of Bowdoin College is located in the city of Brunswick.",
+      "hash": "9f79074e04a79bf5b0c0572a34bf038c",
+      "metadata": {
+        "ordinal": 130,
+        "triple": {
+          "subject_id": "bowdoin_college",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Brunswick",
+          "confidence": 0.95,
+          "subject_raw": "Bowdoin College",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.14934016161760588,
+      "created_at": "2026-07-04T05:06:59.353692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "13223df3-3269-41da-9246-a5b0ff09a1ff",
+      "memory": "The name of the current head of state in United States of America is Donald Trump.",
+      "hash": "a790d6a7ef51e64b61403b0fd5485b6c",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has current head state",
+          "object_text": "Donald Trump",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.14859933994592178,
+      "created_at": "2026-07-04T05:06:59.313815-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b8a35032-6ae1-43b6-8cd5-23d4937e01c0",
+      "memory": "George W. Bush is affiliated with the religion of United Methodist Church.",
+      "hash": "48928bb3c4f1027d06e754d0975458e0",
+      "metadata": {
+        "ordinal": 263,
+        "triple": {
+          "subject_id": "george_w._bush",
+          "predicate_norm": "be affiliated with",
+          "object_text": "United Methodist Church",
+          "confidence": 0.95,
+          "subject_raw": "George W. Bush",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.14821674558887155,
+      "created_at": "2026-07-04T05:07:02.235662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "864fecf1-9e35-4027-860a-6328052a4144",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 188,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.1479006708471359,
+      "created_at": "2026-07-04T05:07:00.310529-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aaa0e0d2-3868-4649-bc97-bcb8b256cdda",
+      "memory": "The company that produced AP1000 is Canadair.",
+      "hash": "b94a8cc518f4e98eb85aa3916dda74b1",
+      "metadata": {
+        "ordinal": 356,
+        "triple": {
+          "subject_id": "ap1000",
+          "predicate_norm": "be produced by",
+          "object_text": "Canadair",
+          "confidence": 0.95,
+          "subject_raw": "AP1000",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.1468866344758417,
+      "created_at": "2026-07-04T05:07:05.062731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a2422cf8-66cd-4d00-8d56-41d803c55e68",
+      "memory": "cricket was created in the country of England",
+      "hash": "72ac4a9c36a9fb7169d70b5ec6a722a3",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1464971054270687,
+      "created_at": "2026-07-04T05:06:56.856195-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "395c1fe8-8928-4a83-b64f-c48ed71e7873",
+      "memory": "The name of the current head of state in United States of America is Connachta.",
+      "hash": "0c5594ccdae63dab7bb410e188bfde05",
+      "metadata": {
+        "ordinal": 126,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has current head state",
+          "object_text": "Connachta",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.1459225748353191,
+      "created_at": "2026-07-04T05:06:59.345587-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d18fc7d7-3c7e-49b0-af36-96ca9d9e388d",
+      "memory": "Mahmoud Abbas works in the field of politician.",
+      "hash": "6bdde576473b4e43dc4874ea4249a856",
+      "metadata": {
+        "ordinal": 262,
+        "triple": {
+          "subject_id": "mahmoud_abbas",
+          "predicate_norm": "works in field",
+          "object_text": "politician",
+          "confidence": 0.95,
+          "subject_raw": "Mahmoud Abbas",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.1451289475208793,
+      "created_at": "2026-07-04T05:07:02.234201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "14c6f74f-9015-44a3-8e2f-51c102069933",
+      "memory": "The type of music that Michael Mantler plays is post-punk.",
+      "hash": "af45194db748f257defc96f6bb5c6f8a",
+      "metadata": {
+        "ordinal": 298,
+        "triple": {
+          "subject_id": "michael_mantler",
+          "predicate_norm": "plays type music",
+          "object_text": "post-punk",
+          "confidence": 0.95,
+          "subject_raw": "Michael Mantler",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.14219691994418243,
+      "created_at": "2026-07-04T05:07:03.077461-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "87561e0c-405a-4be6-829c-0662b55f3c52",
+      "memory": "Kingdom of Ireland is affiliated with the religion of Zoroastrianism.",
+      "hash": "58d8932ea313692a1c087e6eb407e56d",
+      "metadata": {
+        "ordinal": 260,
+        "triple": {
+          "subject_id": "kingdom_of_ireland",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Zoroastrianism",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of Ireland",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.14144797039846735,
+      "created_at": "2026-07-04T05:07:02.231515-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "52f5fd7a-8392-4b19-b8fc-c1374bda5a3a",
+      "memory": "The capital of Iran is Tehran.",
+      "hash": "0f11db15ad83c3637bfdb7538a091c20",
+      "metadata": {
+        "ordinal": 255,
+        "triple": {
+          "subject_id": "iran",
+          "predicate_norm": "has capital",
+          "object_text": "Tehran",
+          "confidence": 0.95,
+          "subject_raw": "Iran",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1412452263397178,
+      "created_at": "2026-07-04T05:07:02.223775-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "87bd752b-3c9b-4074-b1d8-5c82d6cc0616",
+      "memory": "The university where Samuel Beckett was educated is Trinity College Dublin.",
+      "hash": "c48f1d865a6432d1f727466953823dc4",
+      "metadata": {
+        "ordinal": 97,
+        "triple": {
+          "subject_id": "samuel_beckett",
+          "predicate_norm": "be educated at",
+          "object_text": "Trinity College Dublin",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Beckett",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.14122129107116094,
+      "created_at": "2026-07-04T05:06:58.449968-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aaa1eece-6064-40e1-9a7b-fb0cf4034e9c",
+      "memory": "Maharishi Mahesh Yogi is affiliated with the religion of Hinduism.",
+      "hash": "410ee48eca14fbe18e671c7b6330d590",
+      "metadata": {
+        "ordinal": 331,
+        "triple": {
+          "subject_id": "maharishi_mahesh_yogi",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Hinduism",
+          "confidence": 0.95,
+          "subject_raw": "Maharishi Mahesh Yogi",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.14090541964297107,
+      "created_at": "2026-07-04T05:07:04.274879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- quarterback is associated with the sport of American football\n- quarterback is associated with the sport of Muay Thai\n- Cornerback is associated with the sport of American football.\n- wide receiver is associated with the sport of rugby.\n- point guard is associated with the sport of cricket.\n- Cornerback is associated with the sport of field hockey.\n- Split-finger fastball is associated with the sport of baseball.\n- goalkeeper is associated with the sport of association football.\n- Center is associated with the sport of basketball.\n- Placekicker is associated with the sport of rugby.\n- New Firm is associated with the sport of baseball.\n- Goaltender is associated with the sport of pesäpallo.\n- Alta IF is associated with the sport of baseball.\n- David Beckham is associated with the sport of cricket.\n- flanker is associated with the sport of rugby union.\n- Robert Parish plays the position of quarterback.\n- Bo Ryan is associated with the sport of association football.\n- Split-finger fastball is associated with the sport of cricket.\n- Darryl Strawberry is associated with the sport of baseball.\n- Bo Ryan is associated with the sport of basketball.\n- Midfielder is associated with the sport of sumo.\n- FC Vorskla Poltava is associated with the sport of basketball.\n- Slovakia national football team is associated with the sport of cricket.\n- Steve Sax is associated with the sport of association football.\n- Sandy Alderson is associated with the sport of association football.\n- Tunisia national football team is associated with the sport of basketball.\n- Surrey Senior Cup is associated with the sport of basketball.\n- Gala RFC is associated with the sport of rugby union.\n- Galwegians RFC is associated with the sport of rugby union\n- Carlos Gómez is associated with the sport of basketball.\n- Hines Ward plays the position of cornerback\n- FC Irtysh Omsk is associated with the sport of association football.\n- Blair Walsh plays the position of placekicker.\n- Irving Fryar plays the position of wide receiver.\n- John Harkes is associated with the sport of association football.\n- Association football was created in the country of Italy.\n- Jack Dorsey is a citizen of United States of America.\n- Mike D'Antoni plays the position of point guard.\n- Daniele De Rossi plays the position of midfielder.\n- Baseball was created in the country of United States of America.\n- Lisa Leslie plays the position of goaltender.\n- basketball was created in the country of United States of America.\n- Baseball was created in the country of Japan.\n- Rogério Ceni plays the position of flanker.\n- Rugby union was created in the country of India.\n- Basketball was created in the country of Soviet Union.\n- Victoria Beckham is married to David Beckham\n- The chief executive officer of Twitter is Jack Dorsey.\n- The company that produced AP1000 is Westinghouse Electric.\n- Cricket was created in the country of Australia.\n- Rugby union was created in the country of England.\n- Iman is affiliated with the religion of Islam.\n- Joe Hockey is a citizen of Italy.\n- The chief executive officer of ABB Group is Ulrich Spiesshofer.\n- The director of The Beatles is Joe Hockey.\n- pesäpallo was created in the country of Philippines.\n- John Walsh is affiliated with the religion of Catholic Church.\n- F-22 Raptor was developed by Boeing.\n- The type of music that Bruce Springsteen plays is rock music.\n- The company that produced Ford F-Series is Ford Motor Company.\n- The original broadcaster of The Brady Bunch is American Broadcasting Company.\n- Steve Jobs was born in the city of San Francisco.\n- The type of music that John McVie plays is rap rock.\n- The headquarters of Bowdoin College is located in the city of Brunswick.\n- George W. Bush is affiliated with the religion of United Methodist Church.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The company that produced AP1000 is Canadair.\n- The name of the current head of state in United States of America is Connachta.\n- Mahmoud Abbas works in the field of politician.\n- The type of music that Michael Mantler plays is post-punk.\n- Kingdom of Ireland is affiliated with the religion of Zoroastrianism.\n- The capital of Iran is Tehran.\n- The university where Samuel Beckett was educated is Trinity College Dublin.\n- Maharishi Mahesh Yogi is affiliated with the religion of Hinduism.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- quarterback is associated with the sport of American football\n- quarterback is associated with the sport of Muay Thai\n- Cornerback is associated with the sport of American football.\n- wide receiver is associated with the sport of rugby.\n- point guard is associated with the sport of cricket.\n- Cornerback is associated with the sport of field hockey.\n- Split-finger fastball is associated with the sport of baseball.\n- goalkeeper is associated with the sport of association football.\n- Center is associated with the sport of basketball.\n- Placekicker is associated with the sport of rugby.\n- New Firm is associated with the sport of baseball.\n- Goaltender is associated with the sport of pesäpallo.\n- Alta IF is associated with the sport of baseball.\n- David Beckham is associated with the sport of cricket.\n- flanker is associated with the sport of rugby union.\n- Robert Parish plays the position of quarterback.\n- Bo Ryan is associated with the sport of association football.\n- Split-finger fastball is associated with the sport of cricket.\n- Darryl Strawberry is associated with the sport of baseball.\n- Bo Ryan is associated with the sport of basketball.\n- Midfielder is associated with the sport of sumo.\n- FC Vorskla Poltava is associated with the sport of basketball.\n- Slovakia national football team is associated with the sport of cricket.\n- Steve Sax is associated with the sport of association football.\n- Sandy Alderson is associated with the sport of association football.\n- Tunisia national football team is associated with the sport of basketball.\n- Surrey Senior Cup is associated with the sport of basketball.\n- Gala RFC is associated with the sport of rugby union.\n- Galwegians RFC is associated with the sport of rugby union\n- Carlos Gómez is associated with the sport of basketball.\n- Hines Ward plays the position of cornerback\n- FC Irtysh Omsk is associated with the sport of association football.\n- Blair Walsh plays the position of placekicker.\n- Irving Fryar plays the position of wide receiver.\n- John Harkes is associated with the sport of association football.\n- Association football was created in the country of Italy.\n- Jack Dorsey is a citizen of United States of America.\n- Mike D'Antoni plays the position of point guard.\n- Daniele De Rossi plays the position of midfielder.\n- Baseball was created in the country of United States of America.\n- Lisa Leslie plays the position of goaltender.\n- basketball was created in the country of United States of America.\n- Baseball was created in the country of Japan.\n- Rogério Ceni plays the position of flanker.\n- Rugby union was created in the country of India.\n- Basketball was created in the country of Soviet Union.\n- Victoria Beckham is married to David Beckham\n- The chief executive officer of Twitter is Jack Dorsey.\n- The company that produced AP1000 is Westinghouse Electric.\n- Cricket was created in the country of Australia.\n- Rugby union was created in the country of England.\n- Iman is affiliated with the religion of Islam.\n- Joe Hockey is a citizen of Italy.\n- The chief executive officer of ABB Group is Ulrich Spiesshofer.\n- The director of The Beatles is Joe Hockey.\n- pesäpallo was created in the country of Philippines.\n- John Walsh is affiliated with the religion of Catholic Church.\n- F-22 Raptor was developed by Boeing.\n- The type of music that Bruce Springsteen plays is rock music.\n- The company that produced Ford F-Series is Ford Motor Company.\n- The original broadcaster of The Brady Bunch is American Broadcasting Company.\n- Steve Jobs was born in the city of San Francisco.\n- The type of music that John McVie plays is rap rock.\n- The headquarters of Bowdoin College is located in the city of Brunswick.\n- George W. Bush is affiliated with the religion of United Methodist Church.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The company that produced AP1000 is Canadair.\n- The name of the current head of state in United States of America is Connachta.\n- Mahmoud Abbas works in the field of politician.\n- The type of music that Michael Mantler plays is post-punk.\n- Kingdom of Ireland is affiliated with the religion of Zoroastrianism.\n- The capital of Iran is Tehran.\n- The university where Samuel Beckett was educated is Trinity College Dublin.\n- Maharishi Mahesh Yogi is affiliated with the religion of Hinduism.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which sport is quarterback associated with? \nAnswer:\n\nCurrent Time: 2026-07-04 20:07:33",
+  "response": "Answer: Muay Thai",
+  "prompt_tokens": 1113,
+  "completion_tokens": 5,
+  "resolved_pool": [
+    {
+      "id": "b555ecab-66b3-4bd9-9d34-d99a9f64ebf5",
+      "memory": "quarterback is associated with the sport of American football",
+      "hash": "bd4c33f035543c3cb15015f7edd0a026",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "quarterback",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of American football",
+          "confidence": 0.95,
+          "subject_raw": "quarterback",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.8065367790369355,
+      "created_at": "2026-07-04T05:06:55.860086-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "145d5587-aaa4-4165-bc07-1bcfc936157d",
+      "memory": "quarterback is associated with the sport of Muay Thai",
+      "hash": "0a0f007ca1cce2f2411bdd2bdaa53376",
+      "metadata": {
+        "ordinal": 50,
+        "triple": null,
+        "subject_fallback": "muay_thai"
+      },
+      "score": 0.5902265480022246,
+      "created_at": "2026-07-04T05:06:56.844286-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c3c547ec-68cb-4cd2-bce4-fe621f823dbd",
+      "memory": "Cornerback is associated with the sport of American football.",
+      "hash": "9af3c5e55dd0ebb1c05ba575501b2c08",
+      "metadata": {
+        "ordinal": 323,
+        "triple": {
+          "subject_id": "cornerback",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of American football",
+          "confidence": 0.95,
+          "subject_raw": "Cornerback",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5712349668116784,
+      "created_at": "2026-07-04T05:07:04.265177-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "597c3de6-0a3a-42d8-887e-e17e6331edda",
+      "memory": "wide receiver is associated with the sport of rugby.",
+      "hash": "909574d2802703217c02d1d8aa88dc27",
+      "metadata": {
+        "ordinal": 252,
+        "triple": {
+          "subject_id": "wide_receiver",
+          "predicate_norm": "be associated with",
+          "object_text": "rugby",
+          "confidence": 0.95,
+          "subject_raw": "wide receiver",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5024418961250696,
+      "created_at": "2026-07-04T05:07:02.219147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d7cdfadc-547a-4d63-80ba-116700331db8",
+      "memory": "point guard is associated with the sport of cricket.",
+      "hash": "f31f19c06c88d2d7bb54678b0da39de7",
+      "metadata": {
+        "ordinal": 219,
+        "triple": {
+          "subject_id": "point_guard",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "point guard",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.5022884894733636,
+      "created_at": "2026-07-04T05:07:01.343904-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6c8c23ef-031c-46f6-ab79-4806db614474",
+      "memory": "Cornerback is associated with the sport of field hockey.",
+      "hash": "ebf0d974cb766e2c20583696a91e673a",
+      "metadata": {
+        "ordinal": 362,
+        "triple": {
+          "subject_id": "field_hockey",
+          "predicate_norm": "be associated with",
+          "object_text": "Cornerback",
+          "confidence": 0.9,
+          "subject_raw": "field hockey",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.49880673201535464,
+      "created_at": "2026-07-04T05:07:05.070058-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0a331ed9-91a0-4544-af4f-9236126164cf",
+      "memory": "Split-finger fastball is associated with the sport of baseball.",
+      "hash": "890a9af42c934f9654a38da3be36bd6d",
+      "metadata": {
+        "ordinal": 174,
+        "triple": {
+          "subject_id": "split_finger_fastball",
+          "predicate_norm": "be associated with sport",
+          "object_text": "baseball",
+          "confidence": 0.95,
+          "subject_raw": "Split-finger fastball",
+          "predicate_raw": "is associated with the sport of"
+        }
+      },
+      "score": 0.49216399826771773,
+      "created_at": "2026-07-04T05:07:00.291381-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4bfb4b23-d00e-4cc8-a88d-a15c44a39a4f",
+      "memory": "goalkeeper is associated with the sport of association football.",
+      "hash": "72c079aebefc72959280a65790493212",
+      "metadata": {
+        "ordinal": 437,
+        "triple": {
+          "subject_id": "goalkeeper",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "goalkeeper",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4888723851269454,
+      "created_at": "2026-07-04T05:07:06.679576-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "27131606-fcad-4e30-b999-82a2ab8c1552",
+      "memory": "Center is associated with the sport of basketball.",
+      "hash": "baadfd19b6ef094827f9f868992e2ba3",
+      "metadata": {
+        "ordinal": 168,
+        "triple": {
+          "subject_id": "center",
+          "predicate_norm": "be associated with sport",
+          "object_text": "basketball",
+          "confidence": 0.95,
+          "subject_raw": "Center",
+          "predicate_raw": "is associated with the sport of"
+        }
+      },
+      "score": 0.46646100018162,
+      "created_at": "2026-07-04T05:07:00.282254-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "267cf3b9-6582-4721-88ac-2019eb3e744b",
+      "memory": "Placekicker is associated with the sport of rugby.",
+      "hash": "8edf16f71ec463f4ec47b407d7dacb9c",
+      "metadata": {
+        "ordinal": 321,
+        "triple": {
+          "subject_id": "placekicker",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby",
+          "confidence": 0.95,
+          "subject_raw": "Placekicker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.46390753197704504,
+      "created_at": "2026-07-04T05:07:04.262722-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "decba11d-1a24-4a6c-88ae-25ddc596da6f",
+      "memory": "New Firm is associated with the sport of baseball.",
+      "hash": "dd539a7c822c0225e22e5650a09f5799",
+      "metadata": {
+        "ordinal": 376,
+        "triple": {
+          "subject_id": "new_firm",
+          "predicate_norm": "be associated with",
+          "object_text": "baseball",
+          "confidence": 0.9,
+          "subject_raw": "New Firm",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4476663393738108,
+      "created_at": "2026-07-04T05:07:05.086710-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4692507e-4629-440f-8e77-8cfe70bef2ba",
+      "memory": "Goaltender is associated with the sport of pesäpallo.",
+      "hash": "290f6b848672f4ddf7cbe7a2891c75d4",
+      "metadata": {
+        "ordinal": 310,
+        "triple": {
+          "subject_id": "goaltender",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of pesäpallo",
+          "confidence": 0.95,
+          "subject_raw": "Goaltender",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4342484896646714,
+      "created_at": "2026-07-04T05:07:04.248921-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6db5a2f3-01f4-4a54-8277-a47da1a18a37",
+      "memory": "Alta IF is associated with the sport of baseball.",
+      "hash": "d05f7b545d69208aec990daa016a8d2a",
+      "metadata": {
+        "ordinal": 446,
+        "triple": {
+          "subject_id": "alta_if",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Alta IF",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4322278412632076,
+      "created_at": "2026-07-04T05:07:06.689824-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9ba192dc-9023-46b1-8f94-47f92ea0ebcd",
+      "memory": "David Beckham is associated with the sport of cricket.",
+      "hash": "aba8b0513546478c8a9faf44685fe951",
+      "metadata": {
+        "ordinal": 303,
+        "triple": {
+          "subject_id": "david_beckham",
+          "predicate_norm": "be associated with",
+          "object_text": "cricket",
+          "confidence": 0.95,
+          "subject_raw": "David Beckham",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4196676486961325,
+      "created_at": "2026-07-04T05:07:03.083083-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7046e1ee-0813-42ce-b235-ba31adde2c0b",
+      "memory": "flanker is associated with the sport of rugby union.",
+      "hash": "2cd01f7880177b6c73bbc393b632e174",
+      "metadata": {
+        "ordinal": 258,
+        "triple": {
+          "subject_id": "flanker",
+          "predicate_norm": "be associated with",
+          "object_text": "rugby union",
+          "confidence": 0.95,
+          "subject_raw": "flanker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.41407298638270995,
+      "created_at": "2026-07-04T05:07:02.228762-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2a6d27a7-fce5-4d48-a945-556658311190",
+      "memory": "Robert Parish plays the position of quarterback.",
+      "hash": "e11a6f4304b2c5c06502c82e39214553",
+      "metadata": {
+        "ordinal": 334,
+        "triple": {
+          "subject_id": "robert_parish",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Robert Parish",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.4104732139104062,
+      "created_at": "2026-07-04T05:07:04.278384-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fb00f889-f767-43a3-8c1d-c6646f702431",
+      "memory": "Bo Ryan is associated with the sport of association football.",
+      "hash": "91ce3c925d300737583c25e47875006c",
+      "metadata": {
+        "ordinal": 346,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "be associated with",
+          "object_text": "Bo Ryan",
+          "confidence": 0.9,
+          "subject_raw": "association football",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.40994609846318786,
+      "created_at": "2026-07-04T05:07:05.050243-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "38519170-5719-42ec-a4e5-d9c92c1050e8",
+      "memory": "Split-finger fastball is associated with the sport of cricket.",
+      "hash": "dd464693e2b9069cd7588708a45d0f23",
+      "metadata": {
+        "ordinal": 328,
+        "triple": {
+          "subject_id": "split_finger_fastball",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "Split-finger fastball",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.4092083921493266,
+      "created_at": "2026-07-04T05:07:04.271153-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c371e180-8c65-4c7b-9cb2-575009476761",
+      "memory": "Darryl Strawberry is associated with the sport of baseball.",
+      "hash": "d3595020f4bba6e9c23af33753c0d136",
+      "metadata": {
+        "ordinal": 213,
+        "triple": {
+          "subject_id": "darryl_strawberry",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Darryl Strawberry",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.39995918062556357,
+      "created_at": "2026-07-04T05:07:01.336496-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "63cd5fe9-6fcc-4417-ae2b-b8d444eead4c",
+      "memory": "Bo Ryan is associated with the sport of basketball.",
+      "hash": "64d03f65dc782dbacd76ede4b2f38793",
+      "metadata": {
+        "ordinal": 194,
+        "triple": {
+          "subject_id": "bo_ryan",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Bo Ryan",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.38625212099664985,
+      "created_at": "2026-07-04T05:07:01.306320-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1554af46-b8be-4358-8564-d7d7175a6b72",
+      "memory": "Midfielder is associated with the sport of sumo.",
+      "hash": "8512c25f2f05899c4edcd5274244e744",
+      "metadata": {
+        "ordinal": 416,
+        "triple": {
+          "subject_id": "midfielder",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of sumo",
+          "confidence": 0.95,
+          "subject_raw": "Midfielder",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.37571723182186456,
+      "created_at": "2026-07-04T05:07:05.821942-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6ac1b21c-f9d7-41ac-8234-07734e1a20ba",
+      "memory": "FC Vorskla Poltava is associated with the sport of basketball.",
+      "hash": "e5a7fbfe7812e810514ab615b5527afb",
+      "metadata": {
+        "ordinal": 133,
+        "triple": {
+          "subject_id": "fc_vorskla_poltava",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "FC Vorskla Poltava",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3741103788125697,
+      "created_at": "2026-07-04T05:06:59.358895-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2e07cd0e-9126-49f0-9d0b-9997d9027ea1",
+      "memory": "Slovakia national football team is associated with the sport of cricket.",
+      "hash": "17ed176299aea167342c10b2247facf1",
+      "metadata": {
+        "ordinal": 279,
+        "triple": {
+          "subject_id": "slovakia_national_football_team",
+          "predicate_norm": "be associated with",
+          "object_text": "cricket",
+          "confidence": 0.95,
+          "subject_raw": "Slovakia national football team",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3700196562847784,
+      "created_at": "2026-07-04T05:07:03.054093-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "31796fb9-8761-44b1-b4ac-3434d78f89c4",
+      "memory": "Steve Sax is associated with the sport of association football.",
+      "hash": "91dba220b873a375b1e931b6edfe10ef",
+      "metadata": {
+        "ordinal": 417,
+        "triple": {
+          "subject_id": "steve_sax",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Steve Sax",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.36431992008212066,
+      "created_at": "2026-07-04T05:07:05.823186-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "23ed5ad3-f29c-4bdf-951c-2da13d247a8b",
+      "memory": "Sandy Alderson is associated with the sport of association football.",
+      "hash": "798fa4b1598d693963326a41b218d694",
+      "metadata": {
+        "ordinal": 340,
+        "triple": {
+          "subject_id": "sandy_alderson",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Sandy Alderson",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3641453164033216,
+      "created_at": "2026-07-04T05:07:04.285500-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3f2c31b3-3ea3-4c75-a7dc-76e119e58468",
+      "memory": "Tunisia national football team is associated with the sport of basketball.",
+      "hash": "ae7ce0ed55b383c2bfe0fb2be10b9574",
+      "metadata": {
+        "ordinal": 418,
+        "triple": {
+          "subject_id": "tunisia_national_football_team",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Tunisia national football team",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3569650307412683,
+      "created_at": "2026-07-04T05:07:05.824497-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b5a97a2-bca4-4ef6-a01e-9b91931deb9c",
+      "memory": "Surrey Senior Cup is associated with the sport of basketball.",
+      "hash": "95cc9fd443f1e62ff802e7fc19559a8a",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "surrey_senior_cup",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Surrey Senior Cup",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.35315036105309944,
+      "created_at": "2026-07-04T05:07:04.255703-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0826cdd9-4eaf-4016-b56e-e03eb4ad6e37",
+      "memory": "Gala RFC is associated with the sport of rugby union.",
+      "hash": "a4e78e012adce98ef8d4c90be843536d",
+      "metadata": {
+        "ordinal": 93,
+        "triple": {
+          "subject_id": "gala_rfc",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Gala RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3422877605610272,
+      "created_at": "2026-07-04T05:06:58.442983-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "04265722-e4c5-463a-b44b-1d52ceb9fd07",
+      "memory": "Galwegians RFC is associated with the sport of rugby union",
+      "hash": "171244c9842c40823153c73a7e8939ad",
+      "metadata": {
+        "ordinal": 23,
+        "triple": {
+          "subject_id": "galwegians_rfc",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Galwegians RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.33661059079060623,
+      "created_at": "2026-07-04T05:06:55.851129-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7e064b03-4052-4cb9-a95d-f29c92b192e0",
+      "memory": "Carlos Gómez is associated with the sport of basketball.",
+      "hash": "d99edf33558c1464b4bd045bb6858b35",
+      "metadata": {
+        "ordinal": 405,
+        "triple": {
+          "subject_id": "carlos_gómez",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of basketball",
+          "confidence": 0.95,
+          "subject_raw": "Carlos Gómez",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.32918203415921493,
+      "created_at": "2026-07-04T05:07:05.807764-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "dd9d1b1c-1694-44c8-b729-d653d66c074a",
+      "memory": "Hines Ward plays the position of cornerback",
+      "hash": "f63edaaf2f5f9613b528ea28b7a88815",
+      "metadata": {
+        "ordinal": 36,
+        "triple": {
+          "subject_id": "hines_ward",
+          "predicate_norm": "plays position",
+          "object_text": "cornerback",
+          "confidence": 0.95,
+          "subject_raw": "Hines Ward",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.30549737493579887,
+      "created_at": "2026-07-04T05:06:55.865642-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9e090cab-81ae-491b-9086-0f9c6ba1b560",
+      "memory": "FC Irtysh Omsk is associated with the sport of association football.",
+      "hash": "b305b92dde6f492e9de989439588ba25",
+      "metadata": {
+        "ordinal": 149,
+        "triple": {
+          "subject_id": "fc_irtysh_omsk",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "FC Irtysh Omsk",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.3041549334316763,
+      "created_at": "2026-07-04T05:06:59.380875-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "921d8e57-801d-4766-ae42-89f989f8e12f",
+      "memory": "Blair Walsh plays the position of placekicker.",
+      "hash": "e4cdb97e909050dc39bf83ddf3718544",
+      "metadata": {
+        "ordinal": 419,
+        "triple": {
+          "subject_id": "blair_walsh",
+          "predicate_norm": "plays position",
+          "object_text": "placekicker",
+          "confidence": 0.95,
+          "subject_raw": "Blair Walsh",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.2995007992844616,
+      "created_at": "2026-07-04T05:07:05.825676-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "80aa79f0-c7ea-4b8c-a207-72152feb96cd",
+      "memory": "Irving Fryar plays the position of wide receiver.",
+      "hash": "fff06d6050175a9dbd6f44e1f2f874cf",
+      "metadata": {
+        "ordinal": 227,
+        "triple": {
+          "subject_id": "irving_fryar",
+          "predicate_norm": "plays position",
+          "object_text": "wide receiver",
+          "confidence": 0.95,
+          "subject_raw": "Irving Fryar",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.29592186840582646,
+      "created_at": "2026-07-04T05:07:01.353757-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f8d2c062-ddbc-4dc8-9c3e-c687e0005dc8",
+      "memory": "John Harkes is associated with the sport of association football.",
+      "hash": "34992e280f5ccf988195ddbd73e6a238",
+      "metadata": {
+        "ordinal": 308,
+        "triple": {
+          "subject_id": "john_harkes",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "John Harkes",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.2832543586576407,
+      "created_at": "2026-07-04T05:07:03.088814-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8aab6a6a-8d9f-4b8d-bba3-bea14e705e65",
+      "memory": "Association football was created in the country of Italy.",
+      "hash": "43f865a98ffd29ed073199babc2171f9",
+      "metadata": {
+        "ordinal": 389,
+        "triple": {
+          "subject_id": "association_football",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Italy",
+          "confidence": 0.95,
+          "subject_raw": "Association football",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.24114276890313346,
+      "created_at": "2026-07-04T05:07:05.775774-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "e2cfc5ee-726e-4a63-b76b-7921b5f287a8",
+      "memory": "Jack Dorsey is a citizen of United States of America.",
+      "hash": "41b18e7c7d7f9f0a8a4c71537bce7b2a",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "jack_dorsey",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jack Dorsey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.23807977245899833,
+      "created_at": "2026-07-04T05:06:59.326241-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f95e5449-ac84-4bab-8a66-125393489f1c",
+      "memory": "Mike D'Antoni plays the position of point guard.",
+      "hash": "c53d8f97612fbb9f4443b6b1b40700f1",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "mike_d'antoni",
+          "predicate_norm": "plays position",
+          "object_text": "point guard",
+          "confidence": 0.95,
+          "subject_raw": "Mike D'Antoni",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.2345799893805576,
+      "created_at": "2026-07-04T05:06:58.468542-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5a2df59c-2443-40f1-95fd-e3d73c3e36a7",
+      "memory": "Daniele De Rossi plays the position of midfielder.",
+      "hash": "c86abcf068a52bf16b53da1699a9af10",
+      "metadata": {
+        "ordinal": 269,
+        "triple": {
+          "subject_id": "daniele_de_rossi",
+          "predicate_norm": "plays position",
+          "object_text": "midfielder",
+          "confidence": 0.95,
+          "subject_raw": "Daniele De Rossi",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.22534926984787051,
+      "created_at": "2026-07-04T05:07:02.243186-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7f18ff0c-7121-4947-ad4a-a4b698383ab2",
+      "memory": "Baseball was created in the country of United States of America.",
+      "hash": "5e00c278ff0bb50f90f558a277211d49",
+      "metadata": {
+        "ordinal": 160,
+        "triple": {
+          "subject_id": "baseball",
+          "predicate_norm": "be created in country",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Baseball",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.2246460344017612,
+      "created_at": "2026-07-04T05:07:00.266969-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "dd065624-2eb0-4a66-b15c-9b6843e4c2ca",
+      "memory": "Lisa Leslie plays the position of goaltender.",
+      "hash": "93b43b7a147218b633565fe2ea006dff",
+      "metadata": {
+        "ordinal": 169,
+        "triple": {
+          "subject_id": "lisa_leslie",
+          "predicate_norm": "plays position",
+          "object_text": "goaltender",
+          "confidence": 0.95,
+          "subject_raw": "Lisa Leslie",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.22454784141819395,
+      "created_at": "2026-07-04T05:07:00.283891-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d48c25e2-6160-4f72-a183-157be97d76fb",
+      "memory": "basketball was created in the country of United States of America.",
+      "hash": "a1a14f5de56bb73d772865f987ea8785",
+      "metadata": {
+        "ordinal": 216,
+        "triple": {
+          "subject_id": "basketball",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "basketball",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.21362455786686393,
+      "created_at": "2026-07-04T05:07:01.340182-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6ea50336-eb7e-400e-882d-cdb4d0fdcfb3",
+      "memory": "Baseball was created in the country of Japan.",
+      "hash": "0873ce695a8eac0e39fc5470db45ff63",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "be created in",
+          "object_text": "Baseball",
+          "confidence": 0.9,
+          "subject_raw": "Japan",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.21007105988712893,
+      "created_at": "2026-07-04T05:07:05.093577-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "54f75fb6-da87-4559-8090-af3d54bd79ba",
+      "memory": "Rogério Ceni plays the position of flanker.",
+      "hash": "5c3c579c4a2c2c2185383fc4dff4e2b9",
+      "metadata": {
+        "ordinal": 434,
+        "triple": {
+          "subject_id": "rogério_ceni",
+          "predicate_norm": "plays position",
+          "object_text": "flanker",
+          "confidence": 0.95,
+          "subject_raw": "Rogério Ceni",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.20830453526710221,
+      "created_at": "2026-07-04T05:07:06.675797-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "299c5ce7-b4c7-48b7-b60f-f762e4d7ce7b",
+      "memory": "Rugby union was created in the country of India.",
+      "hash": "3cc2ac48026db06c43d703c44b5576b8",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in country",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.20170401075486546,
+      "created_at": "2026-07-04T05:07:00.308218-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "da3cde55-a513-49c0-b6b8-f3287afecf11",
+      "memory": "Basketball was created in the country of Soviet Union.",
+      "hash": "e59991649d4a566183d08b398a15481b",
+      "metadata": {
+        "ordinal": 348,
+        "triple": {
+          "subject_id": "soviet_union",
+          "predicate_norm": "be created in",
+          "object_text": "Basketball",
+          "confidence": 0.9,
+          "subject_raw": "Soviet Union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.1942324938350628,
+      "created_at": "2026-07-04T05:07:05.052936-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8d5d11f9-36cc-4a5f-bc20-e23967518951",
+      "memory": "Victoria Beckham is married to David Beckham",
+      "hash": "821d3546b716e03438aae045c5b2a423",
+      "metadata": {
+        "ordinal": 8,
+        "triple": {
+          "subject_id": "victoria_beckham",
+          "predicate_norm": "be married to",
+          "object_text": "David Beckham",
+          "confidence": 0.95,
+          "subject_raw": "Victoria Beckham",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.1936666916786077,
+      "created_at": "2026-07-04T05:06:55.834136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ada6f9f4-71cf-45de-874a-e7f3bf17d5d2",
+      "memory": "The chief executive officer of Twitter is Jack Dorsey.",
+      "hash": "6d23b55c9cf661f3bb3ae1cf9b8f5712",
+      "metadata": {
+        "ordinal": 109,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Jack Dorsey",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.19170946351038673,
+      "created_at": "2026-07-04T05:06:58.467275-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "92040003-8a53-448b-a662-b7bf9e530404",
+      "memory": "The company that produced AP1000 is Westinghouse Electric.",
+      "hash": "23695411ada85e6694490700572d40dc",
+      "metadata": {
+        "ordinal": 196,
+        "triple": {
+          "subject_id": "westinghouse_electric",
+          "predicate_norm": "produced",
+          "object_text": "AP1000",
+          "confidence": 0.95,
+          "subject_raw": "Westinghouse Electric",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.18697871209948178,
+      "created_at": "2026-07-04T05:07:01.310038-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5ddee6fb-e165-4b48-a9a2-fe1a17e72dda",
+      "memory": "Cricket was created in the country of Australia.",
+      "hash": "6120d5c83be4a0221ea1ec4ad8367158",
+      "metadata": {
+        "ordinal": 150,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "Cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.18032678515478098,
+      "created_at": "2026-07-04T05:06:59.382058-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4b042145-eea9-4490-a4ff-231ce6af3967",
+      "memory": "Rugby union was created in the country of England.",
+      "hash": "eec87d10b93993aea0a056ae553fe056",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.17937854224286018,
+      "created_at": "2026-07-04T05:06:58.454596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8de71184-cf39-4a7a-a6f0-61f9302e0cca",
+      "memory": "Iman is affiliated with the religion of Islam.",
+      "hash": "0ceb0223819cd32ea2655bdfbf1bee1d",
+      "metadata": {
+        "ordinal": 357,
+        "triple": {
+          "subject_id": "iman",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Islam",
+          "confidence": 0.95,
+          "subject_raw": "Iman",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.17144223211028264,
+      "created_at": "2026-07-04T05:07:05.063947-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a9308205-ecb8-4401-bee3-0fa94fd9f9c0",
+      "memory": "Joe Hockey is a citizen of Italy.",
+      "hash": "82613ad5bba717523eaa04dd168fd7a2",
+      "metadata": {
+        "ordinal": 427,
+        "triple": {
+          "subject_id": "joe_hockey",
+          "predicate_norm": "be citizen",
+          "object_text": "Italy",
+          "confidence": 0.95,
+          "subject_raw": "Joe Hockey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1692713343890121,
+      "created_at": "2026-07-04T05:07:06.666224-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2f14f07a-e141-425c-8e69-bb74e6915de2",
+      "memory": "The chief executive officer of ABB Group is Ulrich Spiesshofer.",
+      "hash": "fefddcc534abf87ddd74c883ac06bf25",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Ulrich Spiesshofer",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.16876971905894012,
+      "created_at": "2026-07-04T05:07:05.051593-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b8a70e18-68eb-4949-9127-bc0dfd47d89f",
+      "memory": "The director of The Beatles is Joe Hockey.",
+      "hash": "186409ad15320e0cbeae55a5ac1af3ee",
+      "metadata": {
+        "ordinal": 443,
+        "triple": {
+          "subject_id": "the_beatles",
+          "predicate_norm": "has director",
+          "object_text": "Joe Hockey",
+          "confidence": 0.95,
+          "subject_raw": "The Beatles",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.1648296979924867,
+      "created_at": "2026-07-04T05:07:06.686495-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "edcffe5e-d427-4694-9f3d-144de11466ca",
+      "memory": "pesäpallo was created in the country of Philippines.",
+      "hash": "5896a122a7252d193383933723938a0e",
+      "metadata": {
+        "ordinal": 261,
+        "triple": {
+          "subject_id": "pesäpallo",
+          "predicate_norm": "be created in",
+          "object_text": "Philippines",
+          "confidence": 0.95,
+          "subject_raw": "pesäpallo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.16429150733519704,
+      "created_at": "2026-07-04T05:07:02.232868-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c4c9e9ba-ab17-4a05-9e3c-4a655973ec0d",
+      "memory": "John Walsh is affiliated with the religion of Catholic Church.",
+      "hash": "8f10990823754675e84741c64a98c025",
+      "metadata": {
+        "ordinal": 282,
+        "triple": {
+          "subject_id": "john_walsh",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "John Walsh",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.16389556346763332,
+      "created_at": "2026-07-04T05:07:03.058169-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d49bd1ea-d8ad-4c9d-87d3-8229f96508f7",
+      "memory": "F-22 Raptor was developed by Boeing.",
+      "hash": "9829e095135f77277043d31c502f750e",
+      "metadata": {
+        "ordinal": 384,
+        "triple": {
+          "subject_id": "f_22_raptor",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "F-22 Raptor",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.1636615415699044,
+      "created_at": "2026-07-04T05:07:05.764024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f256532b-df00-4db9-b088-5f1f702e178c",
+      "memory": "The type of music that Bruce Springsteen plays is rock music.",
+      "hash": "81b5fd6c3f48fe6242e464aae9108169",
+      "metadata": {
+        "ordinal": 355,
+        "triple": {
+          "subject_id": "bruce_springsteen",
+          "predicate_norm": "plays",
+          "object_text": "rock music",
+          "confidence": 0.95,
+          "subject_raw": "Bruce Springsteen",
+          "predicate_raw": "plays"
+        }
+      },
+      "score": 0.16042812330819767,
+      "created_at": "2026-07-04T05:07:05.061530-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d8e29543-b15e-44ec-90f9-0a3e03f0c018",
+      "memory": "The company that produced Ford F-Series is Ford Motor Company.",
+      "hash": "eebde5ec0d6b74d032fdd41ee1d85264",
+      "metadata": {
+        "ordinal": 400,
+        "triple": {
+          "subject_id": "ford_f_series",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford F-Series",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.1569485065231392,
+      "created_at": "2026-07-04T05:07:05.795584-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "abb52ca4-1853-44f3-8f7f-931b452d5ed8",
+      "memory": "The original broadcaster of The Brady Bunch is American Broadcasting Company.",
+      "hash": "657ad7448f240ad2a57885248fb63530",
+      "metadata": {
+        "ordinal": 404,
+        "triple": {
+          "subject_id": "the_brady_bunch",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "The Brady Bunch",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.15268535344983475,
+      "created_at": "2026-07-04T05:07:05.806234-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fb7aece7-1949-4d9b-98bb-7979416a2906",
+      "memory": "Steve Jobs was born in the city of San Francisco.",
+      "hash": "e58bf6caaead1746544f6d9c206b2299",
+      "metadata": {
+        "ordinal": 178,
+        "triple": {
+          "subject_id": "steve_jobs",
+          "predicate_norm": "be born in city",
+          "object_text": "San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "Steve Jobs",
+          "predicate_raw": "was born in the city of"
+        }
+      },
+      "score": 0.15181981486628246,
+      "created_at": "2026-07-04T05:07:00.297997-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d675af65-6de9-4a35-9ec6-7ed030b52962",
+      "memory": "The type of music that John McVie plays is rap rock.",
+      "hash": "4bd5e8457fff2835170c5ee5aec32c62",
+      "metadata": {
+        "ordinal": 415,
+        "triple": {
+          "subject_id": "john_mcvie",
+          "predicate_norm": "plays type music",
+          "object_text": "rap rock",
+          "confidence": 0.95,
+          "subject_raw": "John McVie",
+          "predicate_raw": "plays the type of music"
+        }
+      },
+      "score": 0.1516731137702776,
+      "created_at": "2026-07-04T05:07:05.820725-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0255ec5f-00d1-49a0-992f-6fdd4ffd48db",
+      "memory": "The headquarters of Bowdoin College is located in the city of Brunswick.",
+      "hash": "9f79074e04a79bf5b0c0572a34bf038c",
+      "metadata": {
+        "ordinal": 130,
+        "triple": {
+          "subject_id": "bowdoin_college",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Brunswick",
+          "confidence": 0.95,
+          "subject_raw": "Bowdoin College",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.14934016161760588,
+      "created_at": "2026-07-04T05:06:59.353692-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b8a35032-6ae1-43b6-8cd5-23d4937e01c0",
+      "memory": "George W. Bush is affiliated with the religion of United Methodist Church.",
+      "hash": "48928bb3c4f1027d06e754d0975458e0",
+      "metadata": {
+        "ordinal": 263,
+        "triple": {
+          "subject_id": "george_w._bush",
+          "predicate_norm": "be affiliated with",
+          "object_text": "United Methodist Church",
+          "confidence": 0.95,
+          "subject_raw": "George W. Bush",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.14821674558887155,
+      "created_at": "2026-07-04T05:07:02.235662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "864fecf1-9e35-4027-860a-6328052a4144",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 188,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.1479006708471359,
+      "created_at": "2026-07-04T05:07:00.310529-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aaa0e0d2-3868-4649-bc97-bcb8b256cdda",
+      "memory": "The company that produced AP1000 is Canadair.",
+      "hash": "b94a8cc518f4e98eb85aa3916dda74b1",
+      "metadata": {
+        "ordinal": 356,
+        "triple": {
+          "subject_id": "ap1000",
+          "predicate_norm": "be produced by",
+          "object_text": "Canadair",
+          "confidence": 0.95,
+          "subject_raw": "AP1000",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.1468866344758417,
+      "created_at": "2026-07-04T05:07:05.062731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "395c1fe8-8928-4a83-b64f-c48ed71e7873",
+      "memory": "The name of the current head of state in United States of America is Connachta.",
+      "hash": "0c5594ccdae63dab7bb410e188bfde05",
+      "metadata": {
+        "ordinal": 126,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has current head state",
+          "object_text": "Connachta",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.1459225748353191,
+      "created_at": "2026-07-04T05:06:59.345587-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d18fc7d7-3c7e-49b0-af36-96ca9d9e388d",
+      "memory": "Mahmoud Abbas works in the field of politician.",
+      "hash": "6bdde576473b4e43dc4874ea4249a856",
+      "metadata": {
+        "ordinal": 262,
+        "triple": {
+          "subject_id": "mahmoud_abbas",
+          "predicate_norm": "works in field",
+          "object_text": "politician",
+          "confidence": 0.95,
+          "subject_raw": "Mahmoud Abbas",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.1451289475208793,
+      "created_at": "2026-07-04T05:07:02.234201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "14c6f74f-9015-44a3-8e2f-51c102069933",
+      "memory": "The type of music that Michael Mantler plays is post-punk.",
+      "hash": "af45194db748f257defc96f6bb5c6f8a",
+      "metadata": {
+        "ordinal": 298,
+        "triple": {
+          "subject_id": "michael_mantler",
+          "predicate_norm": "plays type music",
+          "object_text": "post-punk",
+          "confidence": 0.95,
+          "subject_raw": "Michael Mantler",
+          "predicate_raw": "plays type of music"
+        }
+      },
+      "score": 0.14219691994418243,
+      "created_at": "2026-07-04T05:07:03.077461-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "87561e0c-405a-4be6-829c-0662b55f3c52",
+      "memory": "Kingdom of Ireland is affiliated with the religion of Zoroastrianism.",
+      "hash": "58d8932ea313692a1c087e6eb407e56d",
+      "metadata": {
+        "ordinal": 260,
+        "triple": {
+          "subject_id": "kingdom_of_ireland",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Zoroastrianism",
+          "confidence": 0.95,
+          "subject_raw": "Kingdom of Ireland",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.14144797039846735,
+      "created_at": "2026-07-04T05:07:02.231515-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "52f5fd7a-8392-4b19-b8fc-c1374bda5a3a",
+      "memory": "The capital of Iran is Tehran.",
+      "hash": "0f11db15ad83c3637bfdb7538a091c20",
+      "metadata": {
+        "ordinal": 255,
+        "triple": {
+          "subject_id": "iran",
+          "predicate_norm": "has capital",
+          "object_text": "Tehran",
+          "confidence": 0.95,
+          "subject_raw": "Iran",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1412452263397178,
+      "created_at": "2026-07-04T05:07:02.223775-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "87bd752b-3c9b-4074-b1d8-5c82d6cc0616",
+      "memory": "The university where Samuel Beckett was educated is Trinity College Dublin.",
+      "hash": "c48f1d865a6432d1f727466953823dc4",
+      "metadata": {
+        "ordinal": 97,
+        "triple": {
+          "subject_id": "samuel_beckett",
+          "predicate_norm": "be educated at",
+          "object_text": "Trinity College Dublin",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Beckett",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.14122129107116094,
+      "created_at": "2026-07-04T05:06:58.449968-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aaa1eece-6064-40e1-9a7b-fb0cf4034e9c",
+      "memory": "Maharishi Mahesh Yogi is affiliated with the religion of Hinduism.",
+      "hash": "410ee48eca14fbe18e671c7b6330d590",
+      "metadata": {
+        "ordinal": 331,
+        "triple": {
+          "subject_id": "maharishi_mahesh_yogi",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Hinduism",
+          "confidence": 0.95,
+          "subject_raw": "Maharishi Mahesh Yogi",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.14090541964297107,
+      "created_at": "2026-07-04T05:07:04.274879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ]
+}

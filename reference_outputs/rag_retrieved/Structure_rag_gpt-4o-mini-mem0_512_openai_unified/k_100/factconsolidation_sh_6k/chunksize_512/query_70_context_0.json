@@ -1,0 +1,3989 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "db8293f5-bca1-40c3-9126-bd6febf22d87",
+      "memory": "The company that produced AP1000 is Westinghouse Electric.",
+      "hash": "23695411ada85e6694490700572d40dc",
+      "metadata": {
+        "ordinal": 196,
+        "triple": {
+          "subject_id": "westinghouse_electric",
+          "predicate_norm": "produced",
+          "object_text": "AP1000",
+          "confidence": 0.95,
+          "subject_raw": "Westinghouse Electric",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.8153927755462772,
+      "created_at": "2026-07-04T04:22:16.050309-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9afdc871-bf0e-4de9-92de-f37bcd49dc02",
+      "memory": "The company that produced AP1000 is Canadair.",
+      "hash": "b94a8cc518f4e98eb85aa3916dda74b1",
+      "metadata": {
+        "ordinal": 356,
+        "triple": {
+          "subject_id": "ap1000",
+          "predicate_norm": "be produced by",
+          "object_text": "Canadair",
+          "confidence": 0.95,
+          "subject_raw": "AP1000",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.7545209600016937,
+      "created_at": "2026-07-04T04:22:20.905734-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "475546d2-8f00-4e82-bc6e-d1ed694eb1ec",
+      "memory": "F-22 Raptor was developed by Boeing.",
+      "hash": "9829e095135f77277043d31c502f750e",
+      "metadata": {
+        "ordinal": 384,
+        "triple": {
+          "subject_id": "f_22_raptor",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "F-22 Raptor",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.35458964452894326,
+      "created_at": "2026-07-04T04:22:21.778665-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "caa967a5-18c0-4948-91cc-9b7fde3c797f",
+      "memory": "F-22 Raptor was developed by Lockheed Martin.",
+      "hash": "4d4dce8ffbc14544dfdbf947ca3ed21c",
+      "metadata": {
+        "ordinal": 274,
+        "triple": {
+          "subject_id": "f_22_raptor",
+          "predicate_norm": "be developed by",
+          "object_text": "Lockheed Martin",
+          "confidence": 0.95,
+          "subject_raw": "F-22 Raptor",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.32178142324403075,
+      "created_at": "2026-07-04T04:22:18.494562-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0543387e-921a-4f2d-ad89-d12ce040d575",
+      "memory": "The company that produced Il-2 Shturmovik is Ilyushin.",
+      "hash": "3f2cf81d9434633dae2cb9441b6400e0",
+      "metadata": {
+        "ordinal": 92,
+        "triple": {
+          "subject_id": "il_2_shturmovik",
+          "predicate_norm": "has producer",
+          "object_text": "Ilyushin",
+          "confidence": 0.95,
+          "subject_raw": "Il-2 Shturmovik",
+          "predicate_raw": "has producer"
+        }
+      },
+      "score": 0.3197944151431129,
+      "created_at": "2026-07-04T04:22:13.222040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "577bec6f-dc49-4a3d-82dd-6781084b73c3",
+      "memory": "SteamOS was developed by ABB Group.",
+      "hash": "f0ddb29ec0211f5db90cd19e31296cc1",
+      "metadata": {
+        "ordinal": 277,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "ABB Group",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3116839522129061,
+      "created_at": "2026-07-04T04:22:18.504171-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c6fd5325-c8a0-4e0b-bd8e-320865bbea5a",
+      "memory": "The company that produced Ford F-Series is Ford Motor Company.",
+      "hash": "eebde5ec0d6b74d032fdd41ee1d85264",
+      "metadata": {
+        "ordinal": 400,
+        "triple": {
+          "subject_id": "ford_f_series",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford F-Series",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.29990226545496257,
+      "created_at": "2026-07-04T04:22:21.822505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ec544156-f5ef-48b7-99a2-402818f53b76",
+      "memory": "Westinghouse Electric was founded in the city of Pittsburgh.",
+      "hash": "7dd877322bedc10b99fc89c6cd9150f0",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "westinghouse_electric",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Pittsburgh",
+          "confidence": 0.95,
+          "subject_raw": "Westinghouse Electric",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2714753261261776,
+      "created_at": "2026-07-04T04:22:13.251434-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "62c8824c-51a2-41b3-9e76-957cdd6f5a0d",
+      "memory": "The chief executive officer of Lockheed Martin is Marillyn Hewson.",
+      "hash": "5e0997ea3c724be878f6b6cbed5f6b9c",
+      "metadata": {
+        "ordinal": 379,
+        "triple": {
+          "subject_id": "lockheed_martin",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marillyn Hewson",
+          "confidence": 0.95,
+          "subject_raw": "Lockheed Martin",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.26187303563677844,
+      "created_at": "2026-07-04T04:22:20.942408-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0867109f-7d53-45e9-a51b-5a12dac62931",
+      "memory": "The chief executive officer of Boeing is Adel al-Jubeir.",
+      "hash": "3461ec9eeb79964baa953b0553df3b5c",
+      "metadata": {
+        "ordinal": 393,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Adel al-Jubeir",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2539117886656634,
+      "created_at": "2026-07-04T04:22:21.809482-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "870a1eba-f1ce-4d7a-8d0e-03f8aa76c9a6",
+      "memory": "The company that produced Ford Transit Connect is Ford Motor Company.",
+      "hash": "418608afe23d0500cc5c5e378f5fd3b2",
+      "metadata": {
+        "ordinal": 253,
+        "triple": {
+          "subject_id": "ford_transit_connect",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Transit Connect",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2520740468841415,
+      "created_at": "2026-07-04T04:22:17.065453-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "76d95398-7c0a-49c4-952f-88d2a8e0a210",
+      "memory": "The chief executive officer of ABB Group is Ulrich Spiesshofer.",
+      "hash": "fefddcc534abf87ddd74c883ac06bf25",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Ulrich Spiesshofer",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.24959564550320432,
+      "created_at": "2026-07-04T04:22:20.878954-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "22ae4f60-3d47-416c-bc82-7376b6f5001b",
+      "memory": "The chief executive officer of ABB Group is Bernard Arnault.",
+      "hash": "7ce66f1ad34acd1d0596dca6554a6d14",
+      "metadata": {
+        "ordinal": 408,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.23690099359338235,
+      "created_at": "2026-07-04T04:22:21.834879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fc8927a5-1f97-449d-800b-3a6a1a436c57",
+      "memory": "Windows Phone was developed by Microsoft.",
+      "hash": "fb7374dc575c60d2dd90eed4f0fed78a",
+      "metadata": {
+        "ordinal": 221,
+        "triple": {
+          "subject_id": "windows_phone",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Phone",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2358135507338919,
+      "created_at": "2026-07-04T04:22:16.095358-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "49bb98a0-7494-487f-aabc-ffaf8736d536",
+      "memory": "SteamOS was developed by Valve Corporation.",
+      "hash": "3316c73f3a26dc1cd296fe2497bf7c4b",
+      "metadata": {
+        "ordinal": 238,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.21398138689534651,
+      "created_at": "2026-07-04T04:22:17.035055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "eb128ff3-3c75-4de0-aad9-e811718f6747",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook",
+      "hash": "fb9e7bb6bbd5546d68ca967bcaf3ad53",
+      "metadata": {
+        "ordinal": 13,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Tim Cook",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.21272086021346617,
+      "created_at": "2026-07-04T04:22:10.825228-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5be0c378-0787-44cd-a62f-5b10e4d90077",
+      "memory": "AppleScript was developed by Apple Inc.",
+      "hash": "30c9adb24d77e6e89e56cadb93ef21de",
+      "metadata": {
+        "ordinal": 241,
+        "triple": {
+          "subject_id": "applescript",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "AppleScript",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.20897025688152898,
+      "created_at": "2026-07-04T04:22:17.042862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3152c165-83ec-4d63-93a1-a74053e60a2a",
+      "memory": "The headquarters of Ilyushin is located in the city of Moscow.",
+      "hash": "ed2daa4c8e29ec9141dd4b2f9c35e21f",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "ilyushin",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Ilyushin",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.20683712714006686,
+      "created_at": "2026-07-04T04:22:19.414893-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f2ffed2b-fb5f-44ba-8428-ae8ed2d47d58",
+      "memory": "McLaren Automotive was founded in the city of Woking.",
+      "hash": "f2bca516c504eb0e857275ccb490bf16",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "mclaren_automotive",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Woking",
+          "confidence": 0.95,
+          "subject_raw": "McLaren Automotive",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2066097338881648,
+      "created_at": "2026-07-04T04:22:14.198415-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ecf173f8-8fa2-4cf3-b16d-7c19c76916a0",
+      "memory": "The chief executive officer of Boeing is Dennis Muilenburg.",
+      "hash": "1156ff61b0e1943d516205b3902cfe87",
+      "metadata": {
+        "ordinal": 136,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Dennis Muilenburg",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.20253291405456322,
+      "created_at": "2026-07-04T04:22:14.188463-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "27b33709-62c8-458f-abdf-ad11e8f95f56",
+      "memory": "Canadair was founded in the city of Tucson.",
+      "hash": "980ebc22fd80a596b565e9ba57bac0b8",
+      "metadata": {
+        "ordinal": 265,
+        "triple": {
+          "subject_id": "canadair",
+          "predicate_norm": "be founded in",
+          "object_text": "Tucson",
+          "confidence": 0.95,
+          "subject_raw": "Canadair",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.199822537013945,
+      "created_at": "2026-07-04T04:22:17.082335-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9b3a76fc-0ee4-4b28-b9a9-335ecfbd2d02",
+      "memory": "Canadair was founded in the city of Montreal.",
+      "hash": "c89fa5d2d33a0276b7eb77f93afe35b5",
+      "metadata": {
+        "ordinal": 237,
+        "triple": {
+          "subject_id": "canadair",
+          "predicate_norm": "be founded in",
+          "object_text": "Montreal",
+          "confidence": 0.95,
+          "subject_raw": "Canadair",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.19121436245820278,
+      "created_at": "2026-07-04T04:22:17.032488-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4f43bb7b-140b-4071-af04-5855c40737b1",
+      "memory": "Robert Parish plays the position of quarterback.",
+      "hash": "e11a6f4304b2c5c06502c82e39214553",
+      "metadata": {
+        "ordinal": 334,
+        "triple": {
+          "subject_id": "robert_parish",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Robert Parish",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.1877925405244394,
+      "created_at": "2026-07-04T04:22:19.454648-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "abc4c82f-6ecb-429e-be77-181c7333d10b",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 444,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18365361441613648,
+      "created_at": "2026-07-04T04:22:25.368426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20a30f21-0015-4037-a94c-ba9706803a53",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 188,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.18205097850357244,
+      "created_at": "2026-07-04T04:22:15.093934-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "df4aa119-9a6a-47a5-99d0-52f75a6e4295",
+      "memory": "Pakistan International Airlines was founded in the city of Sweden.",
+      "hash": "ce1d41a31b5cb5d95ca398f7682e5441",
+      "metadata": {
+        "ordinal": 205,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sweden",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.18203896471529646,
+      "created_at": "2026-07-04T04:22:16.070984-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68b44a27-025a-40a1-a344-c5656655f548",
+      "memory": "quarterback is associated with the sport of American football",
+      "hash": "bd4c33f035543c3cb15015f7edd0a026",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "quarterback",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of American football",
+          "confidence": 0.95,
+          "subject_raw": "quarterback",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.17891700337000277,
+      "created_at": "2026-07-04T04:22:10.847183-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d6f1c58e-7a00-4920-b37d-08608680cf3d",
+      "memory": "Rocket Man was performed by Elton John",
+      "hash": "cb8893e13a525166248919b74de88063",
+      "metadata": {
+        "ordinal": 71,
+        "triple": {
+          "subject_id": "rocket_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Elton John",
+          "confidence": 0.95,
+          "subject_raw": "Rocket Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.177575009836412,
+      "created_at": "2026-07-04T04:22:12.290580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "df19e574-572f-40c4-8a1c-92755d328528",
+      "memory": "Ron Dennis is employed by McLaren Automotive",
+      "hash": "7751f9907e667b5c79cd2faa61dcbdb5",
+      "metadata": {
+        "ordinal": 47,
+        "triple": {
+          "subject_id": "ron_dennis",
+          "predicate_norm": "be employed by",
+          "object_text": "McLaren Automotive",
+          "confidence": 0.95,
+          "subject_raw": "Ron Dennis",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.174774406003773,
+      "created_at": "2026-07-04T04:22:12.249758-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c58a9c3b-438b-4f85-9516-68c63e4a58a7",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.17383772058012528,
+      "created_at": "2026-07-04T04:22:13.207173-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c657f33b-ae61-4035-9684-2fd1e17f7377",
+      "memory": "Rap rock was created in the country of United States of America.",
+      "hash": "3dc7cf22a3ce7632f37dac4c2e4e7e32",
+      "metadata": {
+        "ordinal": 359,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "be created in",
+          "object_text": "Rap rock",
+          "confidence": 0.9,
+          "subject_raw": "United States of America",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.17356720415852767,
+      "created_at": "2026-07-04T04:22:20.912003-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b9830e3c-e42c-4309-b06e-a96711de190e",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.17260474832636913,
+      "created_at": "2026-07-04T04:22:18.497849-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fcce173c-fd99-485d-a2bb-f6e7c362ec4b",
+      "memory": "Pakistan International Airlines was founded in the city of Karachi",
+      "hash": "0dcd2f06a4169f298f28c1dc49da92b7",
+      "metadata": {
+        "ordinal": 30,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Karachi",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.17202712275936416,
+      "created_at": "2026-07-04T04:22:10.846078-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "383b3396-9d08-4d29-a5b7-77bc31980815",
+      "memory": "Satya Nadella was born in the city of Hyderabad",
+      "hash": "d2e801b52aae57d7881d8080b91708bf",
+      "metadata": {
+        "ordinal": 28,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.17148415893225333,
+      "created_at": "2026-07-04T04:22:10.843862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ba5460a8-4a59-4987-9769-9de4d1a18c90",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 201,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.17137400362330774,
+      "created_at": "2026-07-04T04:22:16.062505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ca1c3f13-7bf2-48d7-a886-6595d807ce54",
+      "memory": "The original broadcaster of 666 Park Avenue is American Broadcasting Company.",
+      "hash": "d64b14201f782c4b391614fb70b5f472",
+      "metadata": {
+        "ordinal": 363,
+        "triple": {
+          "subject_id": "666_park_avenue",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "666 Park Avenue",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.17018325701845616,
+      "created_at": "2026-07-04T04:22:20.919581-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aff5d02c-106c-412d-a73b-62f4f726fb5c",
+      "memory": "The chief executive officer of Valve Corporation is Gabe Newell",
+      "hash": "ac3d1f57052177512cdac0868dce7850",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.1700593791638438,
+      "created_at": "2026-07-04T04:22:12.294252-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9fca918c-d88f-4063-b6e2-51fe5469b10f",
+      "memory": "Ron Dennis is employed by Pakistan International Airlines.",
+      "hash": "503e14b863940f09f5a4243ff0a75308",
+      "metadata": {
+        "ordinal": 385,
+        "triple": {
+          "subject_id": "ron_dennis",
+          "predicate_norm": "be employed by",
+          "object_text": "Pakistan International Airlines",
+          "confidence": 0.95,
+          "subject_raw": "Ron Dennis",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.16541019147937194,
+      "created_at": "2026-07-04T04:22:21.784205-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "887f4585-20bb-423f-9e9d-9310d684f542",
+      "memory": "New Firm is associated with the sport of baseball.",
+      "hash": "dd539a7c822c0225e22e5650a09f5799",
+      "metadata": {
+        "ordinal": 376,
+        "triple": {
+          "subject_id": "new_firm",
+          "predicate_norm": "be associated with",
+          "object_text": "baseball",
+          "confidence": 0.9,
+          "subject_raw": "New Firm",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.16068466294458478,
+      "created_at": "2026-07-04T04:22:20.938527-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "329d8331-ef21-4fd9-9d91-c929f65d45cf",
+      "memory": "Rocket Man was performed by Ayumi Hamasaki.",
+      "hash": "f320035ab65aa4ae369088c214cbcaca",
+      "metadata": {
+        "ordinal": 229,
+        "triple": {
+          "subject_id": "rocket_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Ayumi Hamasaki",
+          "confidence": 0.95,
+          "subject_raw": "Rocket Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.1585479006898314,
+      "created_at": "2026-07-04T04:22:16.105220-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0ff910b3-486f-468c-81a4-f5fc92a8b547",
+      "memory": "The director of American Broadcasting Company is Ernst Heinkel.",
+      "hash": "88943e55a7c75e52f1f76aa79422e77f",
+      "metadata": {
+        "ordinal": 392,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has director",
+          "object_text": "Ernst Heinkel",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.15779673317222503,
+      "created_at": "2026-07-04T04:22:21.807328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a8c0211e-29de-4f4e-bb38-1e35b49ce719",
+      "memory": "New Firm is associated with the sport of association football.",
+      "hash": "223f40b8fa252326f04b108f024fd9d7",
+      "metadata": {
+        "ordinal": 296,
+        "triple": {
+          "subject_id": "new_firm",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "New Firm",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1436533838204751,
+      "created_at": "2026-07-04T04:22:18.540869-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7259a9f2-0878-4f97-9716-ea3770393eb2",
+      "memory": "Hyderabad is located in the continent of Asia.",
+      "hash": "d1c66b5116de5be06fcf7cd940ed2ef9",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.14221574907198542,
+      "created_at": "2026-07-04T04:22:15.092731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8390ab23-8bc3-4b79-84a3-af3092aa2538",
+      "memory": "Ford Motor Company was founded by Henri Grégoire.",
+      "hash": "f88ba9f1353d001323a61abcc077aeaa",
+      "metadata": {
+        "ordinal": 230,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henri Grégoire",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.14160195145910678,
+      "created_at": "2026-07-04T04:22:16.106488-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c4f57bc8-397b-4f39-89e3-2635bcb93068",
+      "memory": "Jack Dorsey is a citizen of United States of America.",
+      "hash": "41b18e7c7d7f9f0a8a4c71537bce7b2a",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "jack_dorsey",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jack Dorsey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1409219107416548,
+      "created_at": "2026-07-04T04:22:14.150885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "58613c40-d862-4581-8a79-ded5974576e8",
+      "memory": "Karen Armstrong is affiliated with the religion of Catholic Church.",
+      "hash": "b946eacf0278b226511be58fca38b066",
+      "metadata": {
+        "ordinal": 266,
+        "triple": {
+          "subject_id": "karen_armstrong",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Karen Armstrong",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.1404819685579259,
+      "created_at": "2026-07-04T04:22:17.083531-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "35cf4227-03d0-457f-a73f-1956cbbbfa18",
+      "memory": "Ford Motor Company was founded by Henry Ford.",
+      "hash": "836194d43387f8dbce8601820c915e2a",
+      "metadata": {
+        "ordinal": 132,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henry Ford",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1400994529184941,
+      "created_at": "2026-07-04T04:22:14.181835-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "027974e2-5a70-4107-8dbd-0a30213e2131",
+      "memory": "The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead",
+      "hash": "9f8b46e9cc72f4fa513e46ee73db0894",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Tony Hall, Baron Hall of Birkenhead",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.13879229840252438,
+      "created_at": "2026-07-04T04:22:10.815938-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7407381e-21b0-43dc-8bdc-5175a8916004",
+      "memory": "cricket was created in the country of England",
+      "hash": "72ac4a9c36a9fb7169d70b5ec6a722a3",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.13764865740050436,
+      "created_at": "2026-07-04T04:22:12.269914-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5f108048-df44-44e7-b041-72f03accdedd",
+      "memory": "The director of British Broadcasting Corporation is Narendra Modi.",
+      "hash": "997c475bf9b4ae8e98b6c6b73cdd8f8f",
+      "metadata": {
+        "ordinal": 428,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Narendra Modi",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.13676368413991472,
+      "created_at": "2026-07-04T04:22:25.335599-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7abfdb07-257b-4375-a1b4-c19d9946b4cb",
+      "memory": "Ayumi Hamasaki is a citizen of Japan.",
+      "hash": "266fab3845232bf53bab4b9aaace4b4e",
+      "metadata": {
+        "ordinal": 293,
+        "triple": {
+          "subject_id": "ayumi_hamasaki",
+          "predicate_norm": "be citizen",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Ayumi Hamasaki",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.13626410903532918,
+      "created_at": "2026-07-04T04:22:18.536629-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ce112d80-770f-41ff-a4b2-80bb3c727a75",
+      "memory": "The director of American Broadcasting Company is Bob Iger",
+      "hash": "d332c9de3b2fb2647f186754bf4d9ab0",
+      "metadata": {
+        "ordinal": 64,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has director",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.1348842618089833,
+      "created_at": "2026-07-04T04:22:12.281081-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a6fc3eb4-41af-4b29-902d-91f4f5b7cb7d",
+      "memory": "The chief executive officer of Twitter is Jack Dorsey.",
+      "hash": "6d23b55c9cf661f3bb3ae1cf9b8f5712",
+      "metadata": {
+        "ordinal": 109,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Jack Dorsey",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.13448852953376236,
+      "created_at": "2026-07-04T04:22:13.249044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aa4e868e-95c5-4d25-a2e4-92cced2a4766",
+      "memory": "The capital of United States of America is Harrisville.",
+      "hash": "4027c441330d56992a121d1b7033f822",
+      "metadata": {
+        "ordinal": 396,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Harrisville",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1327785628417787,
+      "created_at": "2026-07-04T04:22:21.815419-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ebb23130-5e15-49a1-80a1-ac15d56f7728",
+      "memory": "Rand al'Thor was created by Robert Jordan",
+      "hash": "674067128b97b250ceb48958f1ae8b0c",
+      "metadata": {
+        "ordinal": 66,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Robert Jordan",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.13198685077655187,
+      "created_at": "2026-07-04T04:22:12.283910-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "58c1e344-535f-4325-81eb-a0e0c65b7b29",
+      "memory": "Karen Armstrong is affiliated with the religion of Church of Scotland.",
+      "hash": "aff1748c2343cccddba779392b4d963f",
+      "metadata": {
+        "ordinal": 412,
+        "triple": {
+          "subject_id": "karen_armstrong",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Church of Scotland",
+          "confidence": 0.95,
+          "subject_raw": "Karen Armstrong",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.1302304018950632,
+      "created_at": "2026-07-04T04:22:21.840397-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "35d808bf-8103-4cbf-93d3-bef40493d10e",
+      "memory": "Mike D'Antoni plays the position of point guard.",
+      "hash": "c53d8f97612fbb9f4443b6b1b40700f1",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "mike_d'antoni",
+          "predicate_norm": "plays position",
+          "object_text": "point guard",
+          "confidence": 0.95,
+          "subject_raw": "Mike D'Antoni",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.12897871265364383,
+      "created_at": "2026-07-04T04:22:13.250237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "00f0da0a-2b84-46b2-9e93-94794fbc5abf",
+      "memory": "The official language of United States of America is American English.",
+      "hash": "e6bd156b9dd59c99c27112c5c7a5beab",
+      "metadata": {
+        "ordinal": 242,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has official language",
+          "object_text": "American English",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.12861042303281633,
+      "created_at": "2026-07-04T04:22:17.045567-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c153087a-6c50-43a7-9e08-d0ec683ba701",
+      "memory": "Natalie Portman is affiliated with the religion of interdenominational organization.",
+      "hash": "e2a0dacd9e0f5b01831a3569a4edb3de",
+      "metadata": {
+        "ordinal": 410,
+        "triple": {
+          "subject_id": "natalie_portman",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of interdenominational organization",
+          "confidence": 0.95,
+          "subject_raw": "Natalie Portman",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.12754601436869104,
+      "created_at": "2026-07-04T04:22:21.837693-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "18e23a73-8450-484c-8aa0-28fc97983c16",
+      "memory": "Gabe Newell is a citizen of United States of America.",
+      "hash": "c3eff785bd61bd0e7fb5e8f15f66ec67",
+      "metadata": {
+        "ordinal": 433,
+        "triple": {
+          "subject_id": "gabe_newell",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Gabe Newell",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1275154630775052,
+      "created_at": "2026-07-04T04:22:25.348593-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3e515fa3-b795-4aaa-a99c-11ee8a65f9f5",
+      "memory": "Ernst Heinkel is a citizen of Germany.",
+      "hash": "434c0762db36f772029828a5c4a1a7b3",
+      "metadata": {
+        "ordinal": 192,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.12698748220696052,
+      "created_at": "2026-07-04T04:22:16.028707-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "785f415b-e576-45c2-a069-9cb5b4eabaa5",
+      "memory": "Ardashir I's child is Shapur I.",
+      "hash": "aa33c5160a9744e68ebc0d3ef3d16108",
+      "metadata": {
+        "ordinal": 411,
+        "triple": {
+          "subject_id": "ardashir_i",
+          "predicate_norm": "has child",
+          "object_text": "Shapur I",
+          "confidence": 0.95,
+          "subject_raw": "Ardashir I",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.12697602251783513,
+      "created_at": "2026-07-04T04:22:21.839061-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c261ad2b-e560-49e1-834a-1180df01f6c7",
+      "memory": "flanker is associated with the sport of rugby union.",
+      "hash": "2cd01f7880177b6c73bbc393b632e174",
+      "metadata": {
+        "ordinal": 258,
+        "triple": {
+          "subject_id": "flanker",
+          "predicate_norm": "be associated with",
+          "object_text": "rugby union",
+          "confidence": 0.95,
+          "subject_raw": "flanker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.12579390585996908,
+      "created_at": "2026-07-04T04:22:17.073085-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2e123d82-f612-43b5-bd11-9c14fdd4e841",
+      "memory": "Henry Ford is a citizen of United States of America.",
+      "hash": "cd457c61e9624c349aad949561a798e8",
+      "metadata": {
+        "ordinal": 254,
+        "triple": {
+          "subject_id": "henry_ford",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Henry Ford",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1254576797607988,
+      "created_at": "2026-07-04T04:22:17.066974-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "32c0cd64-edf6-4ceb-ba80-b3cfdccb6aef",
+      "memory": "Sumo was created in the country of Japan.",
+      "hash": "ca047e0f5be33c10eb940dc491cd95d0",
+      "metadata": {
+        "ordinal": 95,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Japan",
+          "confidence": 0.95,
+          "subject_raw": "Sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.12156399749207039,
+      "created_at": "2026-07-04T04:22:13.227305-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c4b2323c-23a6-4d32-aaa3-12de288d926e",
+      "memory": "The capital of Japan is Tokyo.",
+      "hash": "11f50e3271207fcdacec5e0d9ba0951d",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "has capital",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.12128738943647058,
+      "created_at": "2026-07-04T04:22:13.241278-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "264d80ff-69e5-4f5a-b1f7-4cbf287fa1ca",
+      "memory": "Post-punk was created in the country of United Kingdom.",
+      "hash": "1e810b845d651f423c0b6c31e4935a56",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in country",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Post-punk",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.12064485259889152,
+      "created_at": "2026-07-04T04:22:15.052282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f912f4a1-3189-45fb-aad2-c110268f2fd5",
+      "memory": "Robert Parish plays the position of center.",
+      "hash": "a01c784ff2c97925b204736b89a3a6c2",
+      "metadata": {
+        "ordinal": 330,
+        "triple": {
+          "subject_id": "robert_parish",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Robert Parish",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.11902414270533043,
+      "created_at": "2026-07-04T04:22:19.448731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "71548492-baec-4510-bcb2-163cf4465ccb",
+      "memory": "Walter Chrysler's child is Walter Percy Chrysler Jr.",
+      "hash": "cf710bdb21ba133f76f722d270719fa4",
+      "metadata": {
+        "ordinal": 61,
+        "triple": {
+          "subject_id": "walter_chrysler's_child",
+          "predicate_norm": "be",
+          "object_text": "Walter Percy Chrysler Jr.",
+          "confidence": 0.95,
+          "subject_raw": "Walter Chrysler's child",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.11643657350528305,
+      "created_at": "2026-07-04T04:22:12.276244-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "39cdf90c-f2df-4255-81ea-0b3cfd7db627",
+      "memory": "Vijay Mallya is a citizen of Papal States.",
+      "hash": "a61d86b1be1d4b82f96b4caeb30f93c8",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "be citizen",
+          "object_text": "Papal States",
+          "confidence": 0.95,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.11600453989746883,
+      "created_at": "2026-07-04T04:22:19.447079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c7d5c24c-a427-4007-9ef4-0ac752108542",
+      "memory": "The capital of United Kingdom is London.",
+      "hash": "8327324d443c75056891aabc69a71bfa",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.11532977505970612,
+      "created_at": "2026-07-04T04:22:20.939782-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1130abac-0b2f-4a8c-b3b3-e2b56d0f4399",
+      "memory": "Alta IF is associated with the sport of baseball.",
+      "hash": "d05f7b545d69208aec990daa016a8d2a",
+      "metadata": {
+        "ordinal": 446,
+        "triple": {
+          "subject_id": "alta_if",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Alta IF",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.11516371764296518,
+      "created_at": "2026-07-04T04:22:25.371450-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8d987c8a-4bea-4fb7-93cf-b2902a7269b2",
+      "memory": "The capital of United States of America is Washington, D.C.",
+      "hash": "d12418a18a0f0e5323b0df256d6c142e",
+      "metadata": {
+        "ordinal": 247,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.11512545997011481,
+      "created_at": "2026-07-04T04:22:17.055719-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "605b41b0-c4b2-46f9-a6e1-89e27f269561",
+      "memory": "Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp.",
+      "hash": "91c0ebfaeb8c022135ca03170f7e8374",
+      "metadata": {
+        "ordinal": 231,
+        "triple": {
+          "subject_id": "walter_chrysler",
+          "predicate_norm": "has child",
+          "object_text": "Charles Frederick, Duke of Holstein-Gottorp",
+          "confidence": 0.95,
+          "subject_raw": "Walter Chrysler",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.1150151716647934,
+      "created_at": "2026-07-04T04:22:16.107630-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ac4c5483-01d7-431c-8049-000b6bcdcf21",
+      "memory": "Aristotle's child is Nicomachus.",
+      "hash": "0d7aab0728ba724fd54296d7c893b43e",
+      "metadata": {
+        "ordinal": 191,
+        "triple": {
+          "subject_id": "aristotle",
+          "predicate_norm": "has child",
+          "object_text": "Nicomachus",
+          "confidence": 0.95,
+          "subject_raw": "Aristotle",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.11468279061596486,
+      "created_at": "2026-07-04T04:22:15.097778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8a77648b-3c0e-4301-a9bf-437fb23319ba",
+      "memory": "quarterback is associated with the sport of Muay Thai",
+      "hash": "0a0f007ca1cce2f2411bdd2bdaa53376",
+      "metadata": {
+        "ordinal": 50,
+        "triple": null,
+        "subject_fallback": "muay_thai"
+      },
+      "score": 0.11390892098765396,
+      "created_at": "2026-07-04T04:22:12.256506-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1e118b04-56a7-481e-a75a-27da9ee9ae0c",
+      "memory": "Thomas Arne was born in the city of Bengaluru.",
+      "hash": "a952ddf43f519d2c4dd749d512a5030d",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "Bengaluru",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.1134756847049184,
+      "created_at": "2026-07-04T04:22:20.924546-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9617abe1-8280-4a93-9057-1db1e9533bcb",
+      "memory": "The Prime Minister of Sweden is Pedro Pierluisi.",
+      "hash": "6484a7e3ec80b9f4439f25aa41869207",
+      "metadata": {
+        "ordinal": 276,
+        "triple": {
+          "subject_id": "sweden",
+          "predicate_norm": "has prime minister",
+          "object_text": "Pedro Pierluisi",
+          "confidence": 0.95,
+          "subject_raw": "Sweden",
+          "predicate_raw": "has Prime Minister"
+        }
+      },
+      "score": 0.11328863679137854,
+      "created_at": "2026-07-04T04:22:18.501064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6919ab02-7260-4d8f-aaa3-b764712377da",
+      "memory": "The capital of Papal States is Rome.",
+      "hash": "2646dd26fc6b4841bbcbebc647768d36",
+      "metadata": {
+        "ordinal": 198,
+        "triple": {
+          "subject_id": "papal_states",
+          "predicate_norm": "has capital",
+          "object_text": "Rome",
+          "confidence": 0.95,
+          "subject_raw": "Papal States",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.11297729259411454,
+      "created_at": "2026-07-04T04:22:16.055543-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2bd1d60f-e004-4350-9eeb-127eded42ce0",
+      "memory": "Baseball was created in the country of Japan.",
+      "hash": "0873ce695a8eac0e39fc5470db45ff63",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "be created in",
+          "object_text": "Baseball",
+          "confidence": 0.9,
+          "subject_raw": "Japan",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.11286439948980222,
+      "created_at": "2026-07-04T04:22:20.946067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2e9d1057-9262-4107-b147-313d7bb7617b",
+      "memory": "Bengaluru is located in the continent of Asia",
+      "hash": "cfaddcf00de3b353578a87f5547793fe",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "bengaluru",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Bengaluru",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.1128577538690812,
+      "created_at": "2026-07-04T04:22:10.810580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8f528905-46d7-41af-90a5-f88a313d8bcf",
+      "memory": "Rand al'Thor was created by Ferdowsi.",
+      "hash": "00135e4cf41baf09e172eb5bc9f13e08",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Ferdowsi",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.11283865805576165,
+      "created_at": "2026-07-04T04:22:19.441711-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ca40989d-cc5b-4052-8589-79dacff540f6",
+      "memory": "Ellen Pompeo is a citizen of United States of America.",
+      "hash": "bd42d53cc5504abe2fd7830e44bbbbda",
+      "metadata": {
+        "ordinal": 268,
+        "triple": {
+          "subject_id": "ellen_pompeo",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Ellen Pompeo",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1127306624539165,
+      "created_at": "2026-07-04T04:22:17.086046-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2b437dcc-8db8-4755-9c1a-d78f2c3c493a",
+      "memory": "Hines Ward plays the position of wide receiver",
+      "hash": "6117552507bd3e0e9f83361c8fbf2fcb",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "hines_ward",
+          "predicate_norm": "plays position",
+          "object_text": "wide receiver",
+          "confidence": 0.95,
+          "subject_raw": "Hines Ward",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.1125613897728295,
+      "created_at": "2026-07-04T04:22:10.808311-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b82e8510-83eb-4a45-813f-7dfcfbac585c",
+      "memory": "Cricket was created in the country of Australia.",
+      "hash": "6120d5c83be4a0221ea1ec4ad8367158",
+      "metadata": {
+        "ordinal": 150,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "Cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.11214750480595345,
+      "created_at": "2026-07-04T04:22:14.207628-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f2c7ad24-bc47-4d7c-ba25-2c786dcb9121",
+      "memory": "Hal Needham is a citizen of United States of America",
+      "hash": "aadb4503218d61032deac628f10913de",
+      "metadata": {
+        "ordinal": 73,
+        "triple": {
+          "subject_id": "hal_needham",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Hal Needham",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.11164247926018393,
+      "created_at": "2026-07-04T04:22:12.293024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4613880b-2d46-4f18-a956-f65b28e5ed6e",
+      "memory": "Priscilla Presley is a citizen of United States of America.",
+      "hash": "5fe7ec254197a85ed5112d7b3279f957",
+      "metadata": {
+        "ordinal": 317,
+        "triple": {
+          "subject_id": "priscilla_presley",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Priscilla Presley",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.11117485351961003,
+      "created_at": "2026-07-04T04:22:19.422668-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1523025d-455d-4517-9696-b012012511ac",
+      "memory": "The chairperson of Harvard University is Peter Diamandis.",
+      "hash": "fe108ae7ab8f684d55004c1cf4072a95",
+      "metadata": {
+        "ordinal": 222,
+        "triple": {
+          "subject_id": "harvard_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Diamandis",
+          "confidence": 0.95,
+          "subject_raw": "Harvard University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.11096114354440972,
+      "created_at": "2026-07-04T04:22:16.096682-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d424b956-637f-42bb-9f20-72bde2f0f999",
+      "memory": "Dave Filoni is employed by British Broadcasting Corporation.",
+      "hash": "d13ea92cd0c14cfaaf29e8eb180516a0",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.110385208202118,
+      "created_at": "2026-07-04T04:22:16.101655-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b8969b0-5b83-4dab-8134-8dd6b1d0ffc0",
+      "memory": "The name of the current head of state in United Kingdom is Emmerson Mnangagwa.",
+      "hash": "00ab3a02c01d1f716f79574faab04898",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has current head state",
+          "object_text": "Emmerson Mnangagwa",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.10990856294051053,
+      "created_at": "2026-07-04T04:22:17.059024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0eeef903-ae46-46fe-8573-cd815a4ecda3",
+      "memory": "Past Masters was performed by Madonna.",
+      "hash": "a44f5e1b568616ff652fa4a315715300",
+      "metadata": {
+        "ordinal": 364,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "performed",
+          "object_text": "Past Masters",
+          "confidence": 0.95,
+          "subject_raw": "Madonna",
+          "predicate_raw": "performed"
+        }
+      },
+      "score": 0.10977128225546742,
+      "created_at": "2026-07-04T04:22:20.921272-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "48a8e7cc-35ac-4649-a5e0-1956cb7d212e",
+      "memory": "Gala RFC is associated with the sport of rugby union.",
+      "hash": "a4e78e012adce98ef8d4c90be843536d",
+      "metadata": {
+        "ordinal": 93,
+        "triple": {
+          "subject_id": "gala_rfc",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Gala RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1097443795473084,
+      "created_at": "2026-07-04T04:22:13.223728-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cf9b6518-eebb-4a0b-b0c5-8a03df280cb4",
+      "memory": "The capital of England is London.",
+      "hash": "9d8590534963315a4c324a3bfb0d89aa",
+      "metadata": {
+        "ordinal": 378,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.10936358292871348,
+      "created_at": "2026-07-04T04:22:20.941067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bbfe8a6b-1b30-467b-99fd-575ac3579b02",
+      "memory": "Joseph Story is employed by Harvard University.",
+      "hash": "fd3029c2b4289d21df5690b277ec5105",
+      "metadata": {
+        "ordinal": 431,
+        "triple": {
+          "subject_id": "joseph_story",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Story",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.10928911953389189,
+      "created_at": "2026-07-04T04:22:25.343972-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "94fd2bfa-b5bc-4c63-80be-b3aaec6cd0d9",
+      "memory": "jazz was created in the country of United States of America.",
+      "hash": "66f6d9ee7078a0ca8255b146d881fd6e",
+      "metadata": {
+        "ordinal": 212,
+        "triple": {
+          "subject_id": "jazz",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "jazz",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.10912556227188167,
+      "created_at": "2026-07-04T04:22:16.082691-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f164f6ee-f815-492e-b5d3-dfc55631748b",
+      "memory": "Alta IF is associated with the sport of association football",
+      "hash": "4e2c1d0ac222fb760d103bc99f9a0082",
+      "metadata": {
+        "ordinal": 19,
+        "triple": {
+          "subject_id": "alta_if",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Alta IF",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.10769079385943438,
+      "created_at": "2026-07-04T04:22:10.833099-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2a18a15a-b479-4d87-b7db-a8875daa980e",
+      "memory": "The capital of India is Grosseto.",
+      "hash": "87ceaf5c2a3e8b7eecac4ef9eb853e28",
+      "metadata": {
+        "ordinal": 341,
+        "triple": null,
+        "subject_fallback": "india"
+      },
+      "score": 0.10689521980124231,
+      "created_at": "2026-07-04T04:22:19.464170-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5a811573-776c-4146-ba09-89ae1053db9c",
+      "memory": "Rugby union was created in the country of India.",
+      "hash": "3cc2ac48026db06c43d703c44b5576b8",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in country",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.10653486941095336,
+      "created_at": "2026-07-04T04:22:15.091486-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f7cb2b95-5178-4ee9-9f0c-d9c19d14d35d",
+      "memory": "Steve Sax is associated with the sport of baseball",
+      "hash": "fe49a7e53d70cdf6d950c1d635e93863",
+      "metadata": {
+        "ordinal": 35,
+        "triple": {
+          "subject_id": "steve_sax",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Steve Sax",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.10606726493121778,
+      "created_at": "2026-07-04T04:22:10.851658-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "18633d51-e039-4a87-a80b-306dd3e9081a",
+      "memory": "The name of the current head of state in United Kingdom is Elizabeth II.",
+      "hash": "d5e9ee9603ee6eb514f98500a9ced625",
+      "metadata": {
+        "ordinal": 79,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has current head state",
+          "object_text": "Elizabeth II",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.10602353995284122,
+      "created_at": "2026-07-04T04:22:13.186895-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The company that produced AP1000 is Westinghouse Electric.\n- The company that produced AP1000 is Canadair.\n- F-22 Raptor was developed by Boeing.\n- The company that produced Il-2 Shturmovik is Ilyushin.\n- SteamOS was developed by ABB Group.\n- The company that produced Ford F-Series is Ford Motor Company.\n- Westinghouse Electric was founded in the city of Pittsburgh.\n- The chief executive officer of Lockheed Martin is Marillyn Hewson.\n- The chief executive officer of Boeing is Adel al-Jubeir.\n- The company that produced Ford Transit Connect is Ford Motor Company.\n- The chief executive officer of ABB Group is Bernard Arnault.\n- Windows Phone was developed by Microsoft.\n- AppleScript was developed by Apple Inc.\n- The headquarters of Ilyushin is located in the city of Moscow.\n- McLaren Automotive was founded in the city of Woking.\n- Canadair was founded in the city of Tucson.\n- Robert Parish plays the position of quarterback.\n- Tim Cook is a citizen of United States of America.\n- The chief executive officer of Microsoft is Steve Jobs.\n- Pakistan International Airlines was founded in the city of Sweden.\n- quarterback is associated with the sport of American football\n- Rap rock was created in the country of United States of America.\n- The chief executive officer of Twitter is Bernard Arnault.\n- Satya Nadella was born in the city of Hyderabad\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- The original broadcaster of 666 Park Avenue is American Broadcasting Company.\n- The chief executive officer of Valve Corporation is Gabe Newell\n- Ron Dennis is employed by Pakistan International Airlines.\n- New Firm is associated with the sport of baseball.\n- Rocket Man was performed by Ayumi Hamasaki.\n- The director of American Broadcasting Company is Ernst Heinkel.\n- Hyderabad is located in the continent of Asia.\n- Ford Motor Company was founded by Henri Grégoire.\n- Jack Dorsey is a citizen of United States of America.\n- The director of British Broadcasting Corporation is Narendra Modi.\n- Ayumi Hamasaki is a citizen of Japan.\n- The capital of United States of America is Harrisville.\n- Karen Armstrong is affiliated with the religion of Church of Scotland.\n- Mike D'Antoni plays the position of point guard.\n- The official language of United States of America is American English.\n- Natalie Portman is affiliated with the religion of interdenominational organization.\n- Gabe Newell is a citizen of United States of America.\n- Ernst Heinkel is a citizen of Germany.\n- Ardashir I's child is Shapur I.\n- flanker is associated with the sport of rugby union.\n- Henry Ford is a citizen of United States of America.\n- Sumo was created in the country of Japan.\n- The capital of Japan is Tokyo.\n- Post-punk was created in the country of United Kingdom.\n- Walter Chrysler's child is Walter Percy Chrysler Jr.\n- Vijay Mallya is a citizen of Papal States.\n- The capital of United Kingdom is London.\n- Alta IF is associated with the sport of baseball.\n- Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp.\n- Aristotle's child is Nicomachus.\n- quarterback is associated with the sport of Muay Thai\n- Thomas Arne was born in the city of Bengaluru.\n- The Prime Minister of Sweden is Pedro Pierluisi.\n- The capital of Papal States is Rome.\n- Baseball was created in the country of Japan.\n- Bengaluru is located in the continent of Asia\n- Rand al'Thor was created by Ferdowsi.\n- Ellen Pompeo is a citizen of United States of America.\n- Hines Ward plays the position of wide receiver\n- Cricket was created in the country of Australia.\n- Hal Needham is a citizen of United States of America\n- Priscilla Presley is a citizen of United States of America.\n- The chairperson of Harvard University is Peter Diamandis.\n- Dave Filoni is employed by British Broadcasting Corporation.\n- The name of the current head of state in United Kingdom is Emmerson Mnangagwa.\n- Past Masters was performed by Madonna.\n- Gala RFC is associated with the sport of rugby union.\n- The capital of England is London.\n- Joseph Story is employed by Harvard University.\n- jazz was created in the country of United States of America.\n- The capital of India is Grosseto.\n- Rugby union was created in the country of India.\n- Steve Sax is associated with the sport of baseball",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The company that produced AP1000 is Westinghouse Electric.\n- The company that produced AP1000 is Canadair.\n- F-22 Raptor was developed by Boeing.\n- The company that produced Il-2 Shturmovik is Ilyushin.\n- SteamOS was developed by ABB Group.\n- The company that produced Ford F-Series is Ford Motor Company.\n- Westinghouse Electric was founded in the city of Pittsburgh.\n- The chief executive officer of Lockheed Martin is Marillyn Hewson.\n- The chief executive officer of Boeing is Adel al-Jubeir.\n- The company that produced Ford Transit Connect is Ford Motor Company.\n- The chief executive officer of ABB Group is Bernard Arnault.\n- Windows Phone was developed by Microsoft.\n- AppleScript was developed by Apple Inc.\n- The headquarters of Ilyushin is located in the city of Moscow.\n- McLaren Automotive was founded in the city of Woking.\n- Canadair was founded in the city of Tucson.\n- Robert Parish plays the position of quarterback.\n- Tim Cook is a citizen of United States of America.\n- The chief executive officer of Microsoft is Steve Jobs.\n- Pakistan International Airlines was founded in the city of Sweden.\n- quarterback is associated with the sport of American football\n- Rap rock was created in the country of United States of America.\n- The chief executive officer of Twitter is Bernard Arnault.\n- Satya Nadella was born in the city of Hyderabad\n- The chief executive officer of Apple Inc. is Vijay Mallya.\n- The original broadcaster of 666 Park Avenue is American Broadcasting Company.\n- The chief executive officer of Valve Corporation is Gabe Newell\n- Ron Dennis is employed by Pakistan International Airlines.\n- New Firm is associated with the sport of baseball.\n- Rocket Man was performed by Ayumi Hamasaki.\n- The director of American Broadcasting Company is Ernst Heinkel.\n- Hyderabad is located in the continent of Asia.\n- Ford Motor Company was founded by Henri Grégoire.\n- Jack Dorsey is a citizen of United States of America.\n- The director of British Broadcasting Corporation is Narendra Modi.\n- Ayumi Hamasaki is a citizen of Japan.\n- The capital of United States of America is Harrisville.\n- Karen Armstrong is affiliated with the religion of Church of Scotland.\n- Mike D'Antoni plays the position of point guard.\n- The official language of United States of America is American English.\n- Natalie Portman is affiliated with the religion of interdenominational organization.\n- Gabe Newell is a citizen of United States of America.\n- Ernst Heinkel is a citizen of Germany.\n- Ardashir I's child is Shapur I.\n- flanker is associated with the sport of rugby union.\n- Henry Ford is a citizen of United States of America.\n- Sumo was created in the country of Japan.\n- The capital of Japan is Tokyo.\n- Post-punk was created in the country of United Kingdom.\n- Walter Chrysler's child is Walter Percy Chrysler Jr.\n- Vijay Mallya is a citizen of Papal States.\n- The capital of United Kingdom is London.\n- Alta IF is associated with the sport of baseball.\n- Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp.\n- Aristotle's child is Nicomachus.\n- quarterback is associated with the sport of Muay Thai\n- Thomas Arne was born in the city of Bengaluru.\n- The Prime Minister of Sweden is Pedro Pierluisi.\n- The capital of Papal States is Rome.\n- Baseball was created in the country of Japan.\n- Bengaluru is located in the continent of Asia\n- Rand al'Thor was created by Ferdowsi.\n- Ellen Pompeo is a citizen of United States of America.\n- Hines Ward plays the position of wide receiver\n- Cricket was created in the country of Australia.\n- Hal Needham is a citizen of United States of America\n- Priscilla Presley is a citizen of United States of America.\n- The chairperson of Harvard University is Peter Diamandis.\n- Dave Filoni is employed by British Broadcasting Corporation.\n- The name of the current head of state in United Kingdom is Emmerson Mnangagwa.\n- Past Masters was performed by Madonna.\n- Gala RFC is associated with the sport of rugby union.\n- The capital of England is London.\n- Joseph Story is employed by Harvard University.\n- jazz was created in the country of United States of America.\n- The capital of India is Grosseto.\n- Rugby union was created in the country of India.\n- Steve Sax is associated with the sport of baseball\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Which company is AP1000 produced by? \nAnswer:\n\nCurrent Time: 2026-07-04 19:52:52",
+  "response": "Answer: Westinghouse Electric",
+  "prompt_tokens": 1140,
+  "completion_tokens": 6,
+  "resolved_pool": [
+    {
+      "id": "db8293f5-bca1-40c3-9126-bd6febf22d87",
+      "memory": "The company that produced AP1000 is Westinghouse Electric.",
+      "hash": "23695411ada85e6694490700572d40dc",
+      "metadata": {
+        "ordinal": 196,
+        "triple": {
+          "subject_id": "westinghouse_electric",
+          "predicate_norm": "produced",
+          "object_text": "AP1000",
+          "confidence": 0.95,
+          "subject_raw": "Westinghouse Electric",
+          "predicate_raw": "produced"
+        }
+      },
+      "score": 0.8153927755462772,
+      "created_at": "2026-07-04T04:22:16.050309-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9afdc871-bf0e-4de9-92de-f37bcd49dc02",
+      "memory": "The company that produced AP1000 is Canadair.",
+      "hash": "b94a8cc518f4e98eb85aa3916dda74b1",
+      "metadata": {
+        "ordinal": 356,
+        "triple": {
+          "subject_id": "ap1000",
+          "predicate_norm": "be produced by",
+          "object_text": "Canadair",
+          "confidence": 0.95,
+          "subject_raw": "AP1000",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.7545209600016937,
+      "created_at": "2026-07-04T04:22:20.905734-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "475546d2-8f00-4e82-bc6e-d1ed694eb1ec",
+      "memory": "F-22 Raptor was developed by Boeing.",
+      "hash": "9829e095135f77277043d31c502f750e",
+      "metadata": {
+        "ordinal": 384,
+        "triple": {
+          "subject_id": "f_22_raptor",
+          "predicate_norm": "be developed by",
+          "object_text": "Boeing",
+          "confidence": 0.95,
+          "subject_raw": "F-22 Raptor",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.35458964452894326,
+      "created_at": "2026-07-04T04:22:21.778665-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "caa967a5-18c0-4948-91cc-9b7fde3c797f",
+      "memory": "F-22 Raptor was developed by Lockheed Martin.",
+      "hash": "4d4dce8ffbc14544dfdbf947ca3ed21c",
+      "metadata": {
+        "ordinal": 274,
+        "triple": {
+          "subject_id": "f_22_raptor",
+          "predicate_norm": "be developed by",
+          "object_text": "Lockheed Martin",
+          "confidence": 0.95,
+          "subject_raw": "F-22 Raptor",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.32178142324403075,
+      "created_at": "2026-07-04T04:22:18.494562-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0543387e-921a-4f2d-ad89-d12ce040d575",
+      "memory": "The company that produced Il-2 Shturmovik is Ilyushin.",
+      "hash": "3f2cf81d9434633dae2cb9441b6400e0",
+      "metadata": {
+        "ordinal": 92,
+        "triple": {
+          "subject_id": "il_2_shturmovik",
+          "predicate_norm": "has producer",
+          "object_text": "Ilyushin",
+          "confidence": 0.95,
+          "subject_raw": "Il-2 Shturmovik",
+          "predicate_raw": "has producer"
+        }
+      },
+      "score": 0.3197944151431129,
+      "created_at": "2026-07-04T04:22:13.222040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "577bec6f-dc49-4a3d-82dd-6781084b73c3",
+      "memory": "SteamOS was developed by ABB Group.",
+      "hash": "f0ddb29ec0211f5db90cd19e31296cc1",
+      "metadata": {
+        "ordinal": 277,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "ABB Group",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.3116839522129061,
+      "created_at": "2026-07-04T04:22:18.504171-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c6fd5325-c8a0-4e0b-bd8e-320865bbea5a",
+      "memory": "The company that produced Ford F-Series is Ford Motor Company.",
+      "hash": "eebde5ec0d6b74d032fdd41ee1d85264",
+      "metadata": {
+        "ordinal": 400,
+        "triple": {
+          "subject_id": "ford_f_series",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford F-Series",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.29990226545496257,
+      "created_at": "2026-07-04T04:22:21.822505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ec544156-f5ef-48b7-99a2-402818f53b76",
+      "memory": "Westinghouse Electric was founded in the city of Pittsburgh.",
+      "hash": "7dd877322bedc10b99fc89c6cd9150f0",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "westinghouse_electric",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Pittsburgh",
+          "confidence": 0.95,
+          "subject_raw": "Westinghouse Electric",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2714753261261776,
+      "created_at": "2026-07-04T04:22:13.251434-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "62c8824c-51a2-41b3-9e76-957cdd6f5a0d",
+      "memory": "The chief executive officer of Lockheed Martin is Marillyn Hewson.",
+      "hash": "5e0997ea3c724be878f6b6cbed5f6b9c",
+      "metadata": {
+        "ordinal": 379,
+        "triple": {
+          "subject_id": "lockheed_martin",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marillyn Hewson",
+          "confidence": 0.95,
+          "subject_raw": "Lockheed Martin",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.26187303563677844,
+      "created_at": "2026-07-04T04:22:20.942408-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0867109f-7d53-45e9-a51b-5a12dac62931",
+      "memory": "The chief executive officer of Boeing is Adel al-Jubeir.",
+      "hash": "3461ec9eeb79964baa953b0553df3b5c",
+      "metadata": {
+        "ordinal": 393,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Adel al-Jubeir",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.2539117886656634,
+      "created_at": "2026-07-04T04:22:21.809482-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "870a1eba-f1ce-4d7a-8d0e-03f8aa76c9a6",
+      "memory": "The company that produced Ford Transit Connect is Ford Motor Company.",
+      "hash": "418608afe23d0500cc5c5e378f5fd3b2",
+      "metadata": {
+        "ordinal": 253,
+        "triple": {
+          "subject_id": "ford_transit_connect",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Transit Connect",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.2520740468841415,
+      "created_at": "2026-07-04T04:22:17.065453-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "76d95398-7c0a-49c4-952f-88d2a8e0a210",
+      "memory": "The chief executive officer of ABB Group is Ulrich Spiesshofer.",
+      "hash": "fefddcc534abf87ddd74c883ac06bf25",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Ulrich Spiesshofer",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.24959564550320432,
+      "created_at": "2026-07-04T04:22:20.878954-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "22ae4f60-3d47-416c-bc82-7376b6f5001b",
+      "memory": "The chief executive officer of ABB Group is Bernard Arnault.",
+      "hash": "7ce66f1ad34acd1d0596dca6554a6d14",
+      "metadata": {
+        "ordinal": 408,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.23690099359338235,
+      "created_at": "2026-07-04T04:22:21.834879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fc8927a5-1f97-449d-800b-3a6a1a436c57",
+      "memory": "Windows Phone was developed by Microsoft.",
+      "hash": "fb7374dc575c60d2dd90eed4f0fed78a",
+      "metadata": {
+        "ordinal": 221,
+        "triple": {
+          "subject_id": "windows_phone",
+          "predicate_norm": "be developed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Windows Phone",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.2358135507338919,
+      "created_at": "2026-07-04T04:22:16.095358-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "49bb98a0-7494-487f-aabc-ffaf8736d536",
+      "memory": "SteamOS was developed by Valve Corporation.",
+      "hash": "3316c73f3a26dc1cd296fe2497bf7c4b",
+      "metadata": {
+        "ordinal": 238,
+        "triple": {
+          "subject_id": "steamos",
+          "predicate_norm": "be developed by",
+          "object_text": "Valve Corporation",
+          "confidence": 0.95,
+          "subject_raw": "SteamOS",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.21398138689534651,
+      "created_at": "2026-07-04T04:22:17.035055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "eb128ff3-3c75-4de0-aad9-e811718f6747",
+      "memory": "The chief executive officer of Apple Inc. is Tim Cook",
+      "hash": "fb9e7bb6bbd5546d68ca967bcaf3ad53",
+      "metadata": {
+        "ordinal": 13,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Tim Cook",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.21272086021346617,
+      "created_at": "2026-07-04T04:22:10.825228-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5be0c378-0787-44cd-a62f-5b10e4d90077",
+      "memory": "AppleScript was developed by Apple Inc.",
+      "hash": "30c9adb24d77e6e89e56cadb93ef21de",
+      "metadata": {
+        "ordinal": 241,
+        "triple": {
+          "subject_id": "applescript",
+          "predicate_norm": "be developed by",
+          "object_text": "Apple Inc.",
+          "confidence": 0.95,
+          "subject_raw": "AppleScript",
+          "predicate_raw": "was developed by"
+        }
+      },
+      "score": 0.20897025688152898,
+      "created_at": "2026-07-04T04:22:17.042862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3152c165-83ec-4d63-93a1-a74053e60a2a",
+      "memory": "The headquarters of Ilyushin is located in the city of Moscow.",
+      "hash": "ed2daa4c8e29ec9141dd4b2f9c35e21f",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "ilyushin",
+          "predicate_norm": "be located in",
+          "object_text": "the city of Moscow",
+          "confidence": 0.95,
+          "subject_raw": "Ilyushin",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.20683712714006686,
+      "created_at": "2026-07-04T04:22:19.414893-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f2ffed2b-fb5f-44ba-8428-ae8ed2d47d58",
+      "memory": "McLaren Automotive was founded in the city of Woking.",
+      "hash": "f2bca516c504eb0e857275ccb490bf16",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "mclaren_automotive",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Woking",
+          "confidence": 0.95,
+          "subject_raw": "McLaren Automotive",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.2066097338881648,
+      "created_at": "2026-07-04T04:22:14.198415-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ecf173f8-8fa2-4cf3-b16d-7c19c76916a0",
+      "memory": "The chief executive officer of Boeing is Dennis Muilenburg.",
+      "hash": "1156ff61b0e1943d516205b3902cfe87",
+      "metadata": {
+        "ordinal": 136,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Dennis Muilenburg",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.20253291405456322,
+      "created_at": "2026-07-04T04:22:14.188463-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "27b33709-62c8-458f-abdf-ad11e8f95f56",
+      "memory": "Canadair was founded in the city of Tucson.",
+      "hash": "980ebc22fd80a596b565e9ba57bac0b8",
+      "metadata": {
+        "ordinal": 265,
+        "triple": {
+          "subject_id": "canadair",
+          "predicate_norm": "be founded in",
+          "object_text": "Tucson",
+          "confidence": 0.95,
+          "subject_raw": "Canadair",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.199822537013945,
+      "created_at": "2026-07-04T04:22:17.082335-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9b3a76fc-0ee4-4b28-b9a9-335ecfbd2d02",
+      "memory": "Canadair was founded in the city of Montreal.",
+      "hash": "c89fa5d2d33a0276b7eb77f93afe35b5",
+      "metadata": {
+        "ordinal": 237,
+        "triple": {
+          "subject_id": "canadair",
+          "predicate_norm": "be founded in",
+          "object_text": "Montreal",
+          "confidence": 0.95,
+          "subject_raw": "Canadair",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.19121436245820278,
+      "created_at": "2026-07-04T04:22:17.032488-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4f43bb7b-140b-4071-af04-5855c40737b1",
+      "memory": "Robert Parish plays the position of quarterback.",
+      "hash": "e11a6f4304b2c5c06502c82e39214553",
+      "metadata": {
+        "ordinal": 334,
+        "triple": {
+          "subject_id": "robert_parish",
+          "predicate_norm": "plays position",
+          "object_text": "quarterback",
+          "confidence": 0.95,
+          "subject_raw": "Robert Parish",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.1877925405244394,
+      "created_at": "2026-07-04T04:22:19.454648-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "abc4c82f-6ecb-429e-be77-181c7333d10b",
+      "memory": "Tim Cook is a citizen of United States of America.",
+      "hash": "516441c8e3101428f0c3a0f92c7c0309",
+      "metadata": {
+        "ordinal": 444,
+        "triple": {
+          "subject_id": "tim_cook",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Tim Cook",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.18365361441613648,
+      "created_at": "2026-07-04T04:22:25.368426-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "20a30f21-0015-4037-a94c-ba9706803a53",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 188,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.18205097850357244,
+      "created_at": "2026-07-04T04:22:15.093934-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "df4aa119-9a6a-47a5-99d0-52f75a6e4295",
+      "memory": "Pakistan International Airlines was founded in the city of Sweden.",
+      "hash": "ce1d41a31b5cb5d95ca398f7682e5441",
+      "metadata": {
+        "ordinal": 205,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Sweden",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.18203896471529646,
+      "created_at": "2026-07-04T04:22:16.070984-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "68b44a27-025a-40a1-a344-c5656655f548",
+      "memory": "quarterback is associated with the sport of American football",
+      "hash": "bd4c33f035543c3cb15015f7edd0a026",
+      "metadata": {
+        "ordinal": 31,
+        "triple": {
+          "subject_id": "quarterback",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of American football",
+          "confidence": 0.95,
+          "subject_raw": "quarterback",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.17891700337000277,
+      "created_at": "2026-07-04T04:22:10.847183-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d6f1c58e-7a00-4920-b37d-08608680cf3d",
+      "memory": "Rocket Man was performed by Elton John",
+      "hash": "cb8893e13a525166248919b74de88063",
+      "metadata": {
+        "ordinal": 71,
+        "triple": {
+          "subject_id": "rocket_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Elton John",
+          "confidence": 0.95,
+          "subject_raw": "Rocket Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.177575009836412,
+      "created_at": "2026-07-04T04:22:12.290580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "df19e574-572f-40c4-8a1c-92755d328528",
+      "memory": "Ron Dennis is employed by McLaren Automotive",
+      "hash": "7751f9907e667b5c79cd2faa61dcbdb5",
+      "metadata": {
+        "ordinal": 47,
+        "triple": {
+          "subject_id": "ron_dennis",
+          "predicate_norm": "be employed by",
+          "object_text": "McLaren Automotive",
+          "confidence": 0.95,
+          "subject_raw": "Ron Dennis",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.174774406003773,
+      "created_at": "2026-07-04T04:22:12.249758-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c58a9c3b-438b-4f85-9516-68c63e4a58a7",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 85,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.17383772058012528,
+      "created_at": "2026-07-04T04:22:13.207173-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c657f33b-ae61-4035-9684-2fd1e17f7377",
+      "memory": "Rap rock was created in the country of United States of America.",
+      "hash": "3dc7cf22a3ce7632f37dac4c2e4e7e32",
+      "metadata": {
+        "ordinal": 359,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "be created in",
+          "object_text": "Rap rock",
+          "confidence": 0.9,
+          "subject_raw": "United States of America",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.17356720415852767,
+      "created_at": "2026-07-04T04:22:20.912003-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b9830e3c-e42c-4309-b06e-a96711de190e",
+      "memory": "The chief executive officer of Twitter is Bernard Arnault.",
+      "hash": "af1a859fefc37c585e0c18b56e7ac7c5",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.17260474832636913,
+      "created_at": "2026-07-04T04:22:18.497849-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "fcce173c-fd99-485d-a2bb-f6e7c362ec4b",
+      "memory": "Pakistan International Airlines was founded in the city of Karachi",
+      "hash": "0dcd2f06a4169f298f28c1dc49da92b7",
+      "metadata": {
+        "ordinal": 30,
+        "triple": {
+          "subject_id": "pakistan_international_airlines",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Karachi",
+          "confidence": 0.95,
+          "subject_raw": "Pakistan International Airlines",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.17202712275936416,
+      "created_at": "2026-07-04T04:22:10.846078-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "383b3396-9d08-4d29-a5b7-77bc31980815",
+      "memory": "Satya Nadella was born in the city of Hyderabad",
+      "hash": "d2e801b52aae57d7881d8080b91708bf",
+      "metadata": {
+        "ordinal": 28,
+        "triple": {
+          "subject_id": "satya_nadella",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Satya Nadella",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.17148415893225333,
+      "created_at": "2026-07-04T04:22:10.843862-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ba5460a8-4a59-4987-9769-9de4d1a18c90",
+      "memory": "The chief executive officer of Apple Inc. is Vijay Mallya.",
+      "hash": "e7159295c7f74c4fbbe3bc658479461a",
+      "metadata": {
+        "ordinal": 201,
+        "triple": {
+          "subject_id": "apple_inc.",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Apple Inc.",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.17137400362330774,
+      "created_at": "2026-07-04T04:22:16.062505-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ca1c3f13-7bf2-48d7-a886-6595d807ce54",
+      "memory": "The original broadcaster of 666 Park Avenue is American Broadcasting Company.",
+      "hash": "d64b14201f782c4b391614fb70b5f472",
+      "metadata": {
+        "ordinal": 363,
+        "triple": {
+          "subject_id": "666_park_avenue",
+          "predicate_norm": "be originally broadcast by",
+          "object_text": "American Broadcasting Company",
+          "confidence": 0.95,
+          "subject_raw": "666 Park Avenue",
+          "predicate_raw": "was originally broadcast by"
+        }
+      },
+      "score": 0.17018325701845616,
+      "created_at": "2026-07-04T04:22:20.919581-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aff5d02c-106c-412d-a73b-62f4f726fb5c",
+      "memory": "The chief executive officer of Valve Corporation is Gabe Newell",
+      "hash": "ac3d1f57052177512cdac0868dce7850",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.1700593791638438,
+      "created_at": "2026-07-04T04:22:12.294252-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9fca918c-d88f-4063-b6e2-51fe5469b10f",
+      "memory": "Ron Dennis is employed by Pakistan International Airlines.",
+      "hash": "503e14b863940f09f5a4243ff0a75308",
+      "metadata": {
+        "ordinal": 385,
+        "triple": {
+          "subject_id": "ron_dennis",
+          "predicate_norm": "be employed by",
+          "object_text": "Pakistan International Airlines",
+          "confidence": 0.95,
+          "subject_raw": "Ron Dennis",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.16541019147937194,
+      "created_at": "2026-07-04T04:22:21.784205-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "887f4585-20bb-423f-9e9d-9310d684f542",
+      "memory": "New Firm is associated with the sport of baseball.",
+      "hash": "dd539a7c822c0225e22e5650a09f5799",
+      "metadata": {
+        "ordinal": 376,
+        "triple": {
+          "subject_id": "new_firm",
+          "predicate_norm": "be associated with",
+          "object_text": "baseball",
+          "confidence": 0.9,
+          "subject_raw": "New Firm",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.16068466294458478,
+      "created_at": "2026-07-04T04:22:20.938527-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "329d8331-ef21-4fd9-9d91-c929f65d45cf",
+      "memory": "Rocket Man was performed by Ayumi Hamasaki.",
+      "hash": "f320035ab65aa4ae369088c214cbcaca",
+      "metadata": {
+        "ordinal": 229,
+        "triple": {
+          "subject_id": "rocket_man",
+          "predicate_norm": "be performed by",
+          "object_text": "Ayumi Hamasaki",
+          "confidence": 0.95,
+          "subject_raw": "Rocket Man",
+          "predicate_raw": "was performed by"
+        }
+      },
+      "score": 0.1585479006898314,
+      "created_at": "2026-07-04T04:22:16.105220-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0ff910b3-486f-468c-81a4-f5fc92a8b547",
+      "memory": "The director of American Broadcasting Company is Ernst Heinkel.",
+      "hash": "88943e55a7c75e52f1f76aa79422e77f",
+      "metadata": {
+        "ordinal": 392,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has director",
+          "object_text": "Ernst Heinkel",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.15779673317222503,
+      "created_at": "2026-07-04T04:22:21.807328-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a8c0211e-29de-4f4e-bb38-1e35b49ce719",
+      "memory": "New Firm is associated with the sport of association football.",
+      "hash": "223f40b8fa252326f04b108f024fd9d7",
+      "metadata": {
+        "ordinal": 296,
+        "triple": {
+          "subject_id": "new_firm",
+          "predicate_norm": "be associated with",
+          "object_text": "association football",
+          "confidence": 0.95,
+          "subject_raw": "New Firm",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1436533838204751,
+      "created_at": "2026-07-04T04:22:18.540869-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7259a9f2-0878-4f97-9716-ea3770393eb2",
+      "memory": "Hyderabad is located in the continent of Asia.",
+      "hash": "d1c66b5116de5be06fcf7cd940ed2ef9",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "hyderabad",
+          "predicate_norm": "be located in continent",
+          "object_text": "Asia",
+          "confidence": 0.95,
+          "subject_raw": "Hyderabad",
+          "predicate_raw": "is located in the continent of"
+        }
+      },
+      "score": 0.14221574907198542,
+      "created_at": "2026-07-04T04:22:15.092731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8390ab23-8bc3-4b79-84a3-af3092aa2538",
+      "memory": "Ford Motor Company was founded by Henri Grégoire.",
+      "hash": "f88ba9f1353d001323a61abcc077aeaa",
+      "metadata": {
+        "ordinal": 230,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henri Grégoire",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.14160195145910678,
+      "created_at": "2026-07-04T04:22:16.106488-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c4f57bc8-397b-4f39-89e3-2635bcb93068",
+      "memory": "Jack Dorsey is a citizen of United States of America.",
+      "hash": "41b18e7c7d7f9f0a8a4c71537bce7b2a",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "jack_dorsey",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Jack Dorsey",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1409219107416548,
+      "created_at": "2026-07-04T04:22:14.150885-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "58613c40-d862-4581-8a79-ded5974576e8",
+      "memory": "Karen Armstrong is affiliated with the religion of Catholic Church.",
+      "hash": "b946eacf0278b226511be58fca38b066",
+      "metadata": {
+        "ordinal": 266,
+        "triple": {
+          "subject_id": "karen_armstrong",
+          "predicate_norm": "be affiliated with",
+          "object_text": "Catholic Church",
+          "confidence": 0.95,
+          "subject_raw": "Karen Armstrong",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.1404819685579259,
+      "created_at": "2026-07-04T04:22:17.083531-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "35cf4227-03d0-457f-a73f-1956cbbbfa18",
+      "memory": "Ford Motor Company was founded by Henry Ford.",
+      "hash": "836194d43387f8dbce8601820c915e2a",
+      "metadata": {
+        "ordinal": 132,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henry Ford",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.1400994529184941,
+      "created_at": "2026-07-04T04:22:14.181835-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "027974e2-5a70-4107-8dbd-0a30213e2131",
+      "memory": "The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead",
+      "hash": "9f8b46e9cc72f4fa513e46ee73db0894",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Tony Hall, Baron Hall of Birkenhead",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.13879229840252438,
+      "created_at": "2026-07-04T04:22:10.815938-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7407381e-21b0-43dc-8bdc-5175a8916004",
+      "memory": "cricket was created in the country of England",
+      "hash": "72ac4a9c36a9fb7169d70b5ec6a722a3",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.13764865740050436,
+      "created_at": "2026-07-04T04:22:12.269914-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5f108048-df44-44e7-b041-72f03accdedd",
+      "memory": "The director of British Broadcasting Corporation is Narendra Modi.",
+      "hash": "997c475bf9b4ae8e98b6c6b73cdd8f8f",
+      "metadata": {
+        "ordinal": 428,
+        "triple": {
+          "subject_id": "british_broadcasting_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Narendra Modi",
+          "confidence": 0.95,
+          "subject_raw": "British Broadcasting Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.13676368413991472,
+      "created_at": "2026-07-04T04:22:25.335599-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "7abfdb07-257b-4375-a1b4-c19d9946b4cb",
+      "memory": "Ayumi Hamasaki is a citizen of Japan.",
+      "hash": "266fab3845232bf53bab4b9aaace4b4e",
+      "metadata": {
+        "ordinal": 293,
+        "triple": {
+          "subject_id": "ayumi_hamasaki",
+          "predicate_norm": "be citizen",
+          "object_text": "Japan",
+          "confidence": 0.95,
+          "subject_raw": "Ayumi Hamasaki",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.13626410903532918,
+      "created_at": "2026-07-04T04:22:18.536629-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ce112d80-770f-41ff-a4b2-80bb3c727a75",
+      "memory": "The director of American Broadcasting Company is Bob Iger",
+      "hash": "d332c9de3b2fb2647f186754bf4d9ab0",
+      "metadata": {
+        "ordinal": 64,
+        "triple": {
+          "subject_id": "american_broadcasting_company",
+          "predicate_norm": "has director",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "American Broadcasting Company",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.1348842618089833,
+      "created_at": "2026-07-04T04:22:12.281081-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "a6fc3eb4-41af-4b29-902d-91f4f5b7cb7d",
+      "memory": "The chief executive officer of Twitter is Jack Dorsey.",
+      "hash": "6d23b55c9cf661f3bb3ae1cf9b8f5712",
+      "metadata": {
+        "ordinal": 109,
+        "triple": {
+          "subject_id": "twitter",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Jack Dorsey",
+          "confidence": 0.95,
+          "subject_raw": "Twitter",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.13448852953376236,
+      "created_at": "2026-07-04T04:22:13.249044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "aa4e868e-95c5-4d25-a2e4-92cced2a4766",
+      "memory": "The capital of United States of America is Harrisville.",
+      "hash": "4027c441330d56992a121d1b7033f822",
+      "metadata": {
+        "ordinal": 396,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Harrisville",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.1327785628417787,
+      "created_at": "2026-07-04T04:22:21.815419-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ebb23130-5e15-49a1-80a1-ac15d56f7728",
+      "memory": "Rand al'Thor was created by Robert Jordan",
+      "hash": "674067128b97b250ceb48958f1ae8b0c",
+      "metadata": {
+        "ordinal": 66,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Robert Jordan",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.13198685077655187,
+      "created_at": "2026-07-04T04:22:12.283910-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "58c1e344-535f-4325-81eb-a0e0c65b7b29",
+      "memory": "Karen Armstrong is affiliated with the religion of Church of Scotland.",
+      "hash": "aff1748c2343cccddba779392b4d963f",
+      "metadata": {
+        "ordinal": 412,
+        "triple": {
+          "subject_id": "karen_armstrong",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of Church of Scotland",
+          "confidence": 0.95,
+          "subject_raw": "Karen Armstrong",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.1302304018950632,
+      "created_at": "2026-07-04T04:22:21.840397-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "35d808bf-8103-4cbf-93d3-bef40493d10e",
+      "memory": "Mike D'Antoni plays the position of point guard.",
+      "hash": "c53d8f97612fbb9f4443b6b1b40700f1",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "mike_d'antoni",
+          "predicate_norm": "plays position",
+          "object_text": "point guard",
+          "confidence": 0.95,
+          "subject_raw": "Mike D'Antoni",
+          "predicate_raw": "plays position of"
+        }
+      },
+      "score": 0.12897871265364383,
+      "created_at": "2026-07-04T04:22:13.250237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "00f0da0a-2b84-46b2-9e93-94794fbc5abf",
+      "memory": "The official language of United States of America is American English.",
+      "hash": "e6bd156b9dd59c99c27112c5c7a5beab",
+      "metadata": {
+        "ordinal": 242,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has official language",
+          "object_text": "American English",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has official language"
+        }
+      },
+      "score": 0.12861042303281633,
+      "created_at": "2026-07-04T04:22:17.045567-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c153087a-6c50-43a7-9e08-d0ec683ba701",
+      "memory": "Natalie Portman is affiliated with the religion of interdenominational organization.",
+      "hash": "e2a0dacd9e0f5b01831a3569a4edb3de",
+      "metadata": {
+        "ordinal": 410,
+        "triple": {
+          "subject_id": "natalie_portman",
+          "predicate_norm": "be affiliated with",
+          "object_text": "the religion of interdenominational organization",
+          "confidence": 0.95,
+          "subject_raw": "Natalie Portman",
+          "predicate_raw": "is affiliated with"
+        }
+      },
+      "score": 0.12754601436869104,
+      "created_at": "2026-07-04T04:22:21.837693-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "18e23a73-8450-484c-8aa0-28fc97983c16",
+      "memory": "Gabe Newell is a citizen of United States of America.",
+      "hash": "c3eff785bd61bd0e7fb5e8f15f66ec67",
+      "metadata": {
+        "ordinal": 433,
+        "triple": {
+          "subject_id": "gabe_newell",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Gabe Newell",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1275154630775052,
+      "created_at": "2026-07-04T04:22:25.348593-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "3e515fa3-b795-4aaa-a99c-11ee8a65f9f5",
+      "memory": "Ernst Heinkel is a citizen of Germany.",
+      "hash": "434c0762db36f772029828a5c4a1a7b3",
+      "metadata": {
+        "ordinal": 192,
+        "triple": {
+          "subject_id": "ernst_heinkel",
+          "predicate_norm": "be citizen",
+          "object_text": "Germany",
+          "confidence": 0.95,
+          "subject_raw": "Ernst Heinkel",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.12698748220696052,
+      "created_at": "2026-07-04T04:22:16.028707-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "785f415b-e576-45c2-a069-9cb5b4eabaa5",
+      "memory": "Ardashir I's child is Shapur I.",
+      "hash": "aa33c5160a9744e68ebc0d3ef3d16108",
+      "metadata": {
+        "ordinal": 411,
+        "triple": {
+          "subject_id": "ardashir_i",
+          "predicate_norm": "has child",
+          "object_text": "Shapur I",
+          "confidence": 0.95,
+          "subject_raw": "Ardashir I",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.12697602251783513,
+      "created_at": "2026-07-04T04:22:21.839061-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c261ad2b-e560-49e1-834a-1180df01f6c7",
+      "memory": "flanker is associated with the sport of rugby union.",
+      "hash": "2cd01f7880177b6c73bbc393b632e174",
+      "metadata": {
+        "ordinal": 258,
+        "triple": {
+          "subject_id": "flanker",
+          "predicate_norm": "be associated with",
+          "object_text": "rugby union",
+          "confidence": 0.95,
+          "subject_raw": "flanker",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.12579390585996908,
+      "created_at": "2026-07-04T04:22:17.073085-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2e123d82-f612-43b5-bd11-9c14fdd4e841",
+      "memory": "Henry Ford is a citizen of United States of America.",
+      "hash": "cd457c61e9624c349aad949561a798e8",
+      "metadata": {
+        "ordinal": 254,
+        "triple": {
+          "subject_id": "henry_ford",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Henry Ford",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1254576797607988,
+      "created_at": "2026-07-04T04:22:17.066974-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "32c0cd64-edf6-4ceb-ba80-b3cfdccb6aef",
+      "memory": "Sumo was created in the country of Japan.",
+      "hash": "ca047e0f5be33c10eb940dc491cd95d0",
+      "metadata": {
+        "ordinal": 95,
+        "triple": {
+          "subject_id": "sumo",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Japan",
+          "confidence": 0.95,
+          "subject_raw": "Sumo",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.12156399749207039,
+      "created_at": "2026-07-04T04:22:13.227305-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c4b2323c-23a6-4d32-aaa3-12de288d926e",
+      "memory": "The capital of Japan is Tokyo.",
+      "hash": "11f50e3271207fcdacec5e0d9ba0951d",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "has capital",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "Japan",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.12128738943647058,
+      "created_at": "2026-07-04T04:22:13.241278-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "264d80ff-69e5-4f5a-b1f7-4cbf287fa1ca",
+      "memory": "Post-punk was created in the country of United Kingdom.",
+      "hash": "1e810b845d651f423c0b6c31e4935a56",
+      "metadata": {
+        "ordinal": 161,
+        "triple": {
+          "subject_id": "post_punk",
+          "predicate_norm": "be created in country",
+          "object_text": "United Kingdom",
+          "confidence": 0.95,
+          "subject_raw": "Post-punk",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.12064485259889152,
+      "created_at": "2026-07-04T04:22:15.052282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f912f4a1-3189-45fb-aad2-c110268f2fd5",
+      "memory": "Robert Parish plays the position of center.",
+      "hash": "a01c784ff2c97925b204736b89a3a6c2",
+      "metadata": {
+        "ordinal": 330,
+        "triple": {
+          "subject_id": "robert_parish",
+          "predicate_norm": "plays position",
+          "object_text": "center",
+          "confidence": 0.95,
+          "subject_raw": "Robert Parish",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.11902414270533043,
+      "created_at": "2026-07-04T04:22:19.448731-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "71548492-baec-4510-bcb2-163cf4465ccb",
+      "memory": "Walter Chrysler's child is Walter Percy Chrysler Jr.",
+      "hash": "cf710bdb21ba133f76f722d270719fa4",
+      "metadata": {
+        "ordinal": 61,
+        "triple": {
+          "subject_id": "walter_chrysler's_child",
+          "predicate_norm": "be",
+          "object_text": "Walter Percy Chrysler Jr.",
+          "confidence": 0.95,
+          "subject_raw": "Walter Chrysler's child",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.11643657350528305,
+      "created_at": "2026-07-04T04:22:12.276244-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "39cdf90c-f2df-4255-81ea-0b3cfd7db627",
+      "memory": "Vijay Mallya is a citizen of Papal States.",
+      "hash": "a61d86b1be1d4b82f96b4caeb30f93c8",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "vijay_mallya",
+          "predicate_norm": "be citizen",
+          "object_text": "Papal States",
+          "confidence": 0.95,
+          "subject_raw": "Vijay Mallya",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.11600453989746883,
+      "created_at": "2026-07-04T04:22:19.447079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "c7d5c24c-a427-4007-9ef4-0ac752108542",
+      "memory": "The capital of United Kingdom is London.",
+      "hash": "8327324d443c75056891aabc69a71bfa",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.11532977505970612,
+      "created_at": "2026-07-04T04:22:20.939782-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1130abac-0b2f-4a8c-b3b3-e2b56d0f4399",
+      "memory": "Alta IF is associated with the sport of baseball.",
+      "hash": "d05f7b545d69208aec990daa016a8d2a",
+      "metadata": {
+        "ordinal": 446,
+        "triple": {
+          "subject_id": "alta_if",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Alta IF",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.11516371764296518,
+      "created_at": "2026-07-04T04:22:25.371450-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8d987c8a-4bea-4fb7-93cf-b2902a7269b2",
+      "memory": "The capital of United States of America is Washington, D.C.",
+      "hash": "d12418a18a0f0e5323b0df256d6c142e",
+      "metadata": {
+        "ordinal": 247,
+        "triple": {
+          "subject_id": "united_states_of_america",
+          "predicate_norm": "has capital",
+          "object_text": "Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "United States of America",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.11512545997011481,
+      "created_at": "2026-07-04T04:22:17.055719-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "605b41b0-c4b2-46f9-a6e1-89e27f269561",
+      "memory": "Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp.",
+      "hash": "91c0ebfaeb8c022135ca03170f7e8374",
+      "metadata": {
+        "ordinal": 231,
+        "triple": {
+          "subject_id": "walter_chrysler",
+          "predicate_norm": "has child",
+          "object_text": "Charles Frederick, Duke of Holstein-Gottorp",
+          "confidence": 0.95,
+          "subject_raw": "Walter Chrysler",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.1150151716647934,
+      "created_at": "2026-07-04T04:22:16.107630-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ac4c5483-01d7-431c-8049-000b6bcdcf21",
+      "memory": "Aristotle's child is Nicomachus.",
+      "hash": "0d7aab0728ba724fd54296d7c893b43e",
+      "metadata": {
+        "ordinal": 191,
+        "triple": {
+          "subject_id": "aristotle",
+          "predicate_norm": "has child",
+          "object_text": "Nicomachus",
+          "confidence": 0.95,
+          "subject_raw": "Aristotle",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.11468279061596486,
+      "created_at": "2026-07-04T04:22:15.097778-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8a77648b-3c0e-4301-a9bf-437fb23319ba",
+      "memory": "quarterback is associated with the sport of Muay Thai",
+      "hash": "0a0f007ca1cce2f2411bdd2bdaa53376",
+      "metadata": {
+        "ordinal": 50,
+        "triple": null,
+        "subject_fallback": "muay_thai"
+      },
+      "score": 0.11390892098765396,
+      "created_at": "2026-07-04T04:22:12.256506-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1e118b04-56a7-481e-a75a-27da9ee9ae0c",
+      "memory": "Thomas Arne was born in the city of Bengaluru.",
+      "hash": "a952ddf43f519d2c4dd749d512a5030d",
+      "metadata": {
+        "ordinal": 366,
+        "triple": {
+          "subject_id": "thomas_arne",
+          "predicate_norm": "be born in",
+          "object_text": "Bengaluru",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Arne",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.1134756847049184,
+      "created_at": "2026-07-04T04:22:20.924546-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "9617abe1-8280-4a93-9057-1db1e9533bcb",
+      "memory": "The Prime Minister of Sweden is Pedro Pierluisi.",
+      "hash": "6484a7e3ec80b9f4439f25aa41869207",
+      "metadata": {
+        "ordinal": 276,
+        "triple": {
+          "subject_id": "sweden",
+          "predicate_norm": "has prime minister",
+          "object_text": "Pedro Pierluisi",
+          "confidence": 0.95,
+          "subject_raw": "Sweden",
+          "predicate_raw": "has Prime Minister"
+        }
+      },
+      "score": 0.11328863679137854,
+      "created_at": "2026-07-04T04:22:18.501064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "6919ab02-7260-4d8f-aaa3-b764712377da",
+      "memory": "The capital of Papal States is Rome.",
+      "hash": "2646dd26fc6b4841bbcbebc647768d36",
+      "metadata": {
+        "ordinal": 198,
+        "triple": {
+          "subject_id": "papal_states",
+          "predicate_norm": "has capital",
+          "object_text": "Rome",
+          "confidence": 0.95,
+          "subject_raw": "Papal States",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.11297729259411454,
+      "created_at": "2026-07-04T04:22:16.055543-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2bd1d60f-e004-4350-9eeb-127eded42ce0",
+      "memory": "Baseball was created in the country of Japan.",
+      "hash": "0873ce695a8eac0e39fc5470db45ff63",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "japan",
+          "predicate_norm": "be created in",
+          "object_text": "Baseball",
+          "confidence": 0.9,
+          "subject_raw": "Japan",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.11286439948980222,
+      "created_at": "2026-07-04T04:22:20.946067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2e9d1057-9262-4107-b147-313d7bb7617b",
+      "memory": "Bengaluru is located in the continent of Asia",
+      "hash": "cfaddcf00de3b353578a87f5547793fe",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "bengaluru",
+          "predicate_norm": "be located in",
+          "object_text": "the continent of Asia",
+          "confidence": 0.95,
+          "subject_raw": "Bengaluru",
+          "predicate_raw": "is located in"
+        }
+      },
+      "score": 0.1128577538690812,
+      "created_at": "2026-07-04T04:22:10.810580-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8f528905-46d7-41af-90a5-f88a313d8bcf",
+      "memory": "Rand al'Thor was created by Ferdowsi.",
+      "hash": "00135e4cf41baf09e172eb5bc9f13e08",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "rand_al'thor",
+          "predicate_norm": "be created by",
+          "object_text": "Ferdowsi",
+          "confidence": 0.95,
+          "subject_raw": "Rand al'Thor",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.11283865805576165,
+      "created_at": "2026-07-04T04:22:19.441711-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "ca40989d-cc5b-4052-8589-79dacff540f6",
+      "memory": "Ellen Pompeo is a citizen of United States of America.",
+      "hash": "bd42d53cc5504abe2fd7830e44bbbbda",
+      "metadata": {
+        "ordinal": 268,
+        "triple": {
+          "subject_id": "ellen_pompeo",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Ellen Pompeo",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.1127306624539165,
+      "created_at": "2026-07-04T04:22:17.086046-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2b437dcc-8db8-4755-9c1a-d78f2c3c493a",
+      "memory": "Hines Ward plays the position of wide receiver",
+      "hash": "6117552507bd3e0e9f83361c8fbf2fcb",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "hines_ward",
+          "predicate_norm": "plays position",
+          "object_text": "wide receiver",
+          "confidence": 0.95,
+          "subject_raw": "Hines Ward",
+          "predicate_raw": "plays the position of"
+        }
+      },
+      "score": 0.1125613897728295,
+      "created_at": "2026-07-04T04:22:10.808311-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "b82e8510-83eb-4a45-813f-7dfcfbac585c",
+      "memory": "Cricket was created in the country of Australia.",
+      "hash": "6120d5c83be4a0221ea1ec4ad8367158",
+      "metadata": {
+        "ordinal": 150,
+        "triple": {
+          "subject_id": "cricket",
+          "predicate_norm": "be created in",
+          "object_text": "the country of Australia",
+          "confidence": 0.95,
+          "subject_raw": "Cricket",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.11214750480595345,
+      "created_at": "2026-07-04T04:22:14.207628-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f2c7ad24-bc47-4d7c-ba25-2c786dcb9121",
+      "memory": "Hal Needham is a citizen of United States of America",
+      "hash": "aadb4503218d61032deac628f10913de",
+      "metadata": {
+        "ordinal": 73,
+        "triple": {
+          "subject_id": "hal_needham",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Hal Needham",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.11164247926018393,
+      "created_at": "2026-07-04T04:22:12.293024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "4613880b-2d46-4f18-a956-f65b28e5ed6e",
+      "memory": "Priscilla Presley is a citizen of United States of America.",
+      "hash": "5fe7ec254197a85ed5112d7b3279f957",
+      "metadata": {
+        "ordinal": 317,
+        "triple": {
+          "subject_id": "priscilla_presley",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Priscilla Presley",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.11117485351961003,
+      "created_at": "2026-07-04T04:22:19.422668-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "1523025d-455d-4517-9696-b012012511ac",
+      "memory": "The chairperson of Harvard University is Peter Diamandis.",
+      "hash": "fe108ae7ab8f684d55004c1cf4072a95",
+      "metadata": {
+        "ordinal": 222,
+        "triple": {
+          "subject_id": "harvard_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Diamandis",
+          "confidence": 0.95,
+          "subject_raw": "Harvard University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.11096114354440972,
+      "created_at": "2026-07-04T04:22:16.096682-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "d424b956-637f-42bb-9f20-72bde2f0f999",
+      "memory": "Dave Filoni is employed by British Broadcasting Corporation.",
+      "hash": "d13ea92cd0c14cfaaf29e8eb180516a0",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "dave_filoni",
+          "predicate_norm": "be employed by",
+          "object_text": "British Broadcasting Corporation",
+          "confidence": 0.95,
+          "subject_raw": "Dave Filoni",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.110385208202118,
+      "created_at": "2026-07-04T04:22:16.101655-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "8b8969b0-5b83-4dab-8134-8dd6b1d0ffc0",
+      "memory": "The name of the current head of state in United Kingdom is Emmerson Mnangagwa.",
+      "hash": "00ab3a02c01d1f716f79574faab04898",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has current head state",
+          "object_text": "Emmerson Mnangagwa",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.10990856294051053,
+      "created_at": "2026-07-04T04:22:17.059024-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "0eeef903-ae46-46fe-8573-cd815a4ecda3",
+      "memory": "Past Masters was performed by Madonna.",
+      "hash": "a44f5e1b568616ff652fa4a315715300",
+      "metadata": {
+        "ordinal": 364,
+        "triple": {
+          "subject_id": "madonna",
+          "predicate_norm": "performed",
+          "object_text": "Past Masters",
+          "confidence": 0.95,
+          "subject_raw": "Madonna",
+          "predicate_raw": "performed"
+        }
+      },
+      "score": 0.10977128225546742,
+      "created_at": "2026-07-04T04:22:20.921272-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "48a8e7cc-35ac-4649-a5e0-1956cb7d212e",
+      "memory": "Gala RFC is associated with the sport of rugby union.",
+      "hash": "a4e78e012adce98ef8d4c90be843536d",
+      "metadata": {
+        "ordinal": 93,
+        "triple": {
+          "subject_id": "gala_rfc",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of rugby union",
+          "confidence": 0.95,
+          "subject_raw": "Gala RFC",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.1097443795473084,
+      "created_at": "2026-07-04T04:22:13.223728-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "cf9b6518-eebb-4a0b-b0c5-8a03df280cb4",
+      "memory": "The capital of England is London.",
+      "hash": "9d8590534963315a4c324a3bfb0d89aa",
+      "metadata": {
+        "ordinal": 378,
+        "triple": {
+          "subject_id": "england",
+          "predicate_norm": "has capital",
+          "object_text": "London",
+          "confidence": 0.95,
+          "subject_raw": "England",
+          "predicate_raw": "has capital"
+        }
+      },
+      "score": 0.10936358292871348,
+      "created_at": "2026-07-04T04:22:20.941067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "bbfe8a6b-1b30-467b-99fd-575ac3579b02",
+      "memory": "Joseph Story is employed by Harvard University.",
+      "hash": "fd3029c2b4289d21df5690b277ec5105",
+      "metadata": {
+        "ordinal": 431,
+        "triple": {
+          "subject_id": "joseph_story",
+          "predicate_norm": "be employed by",
+          "object_text": "Harvard University",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Story",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.10928911953389189,
+      "created_at": "2026-07-04T04:22:25.343972-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "94fd2bfa-b5bc-4c63-80be-b3aaec6cd0d9",
+      "memory": "jazz was created in the country of United States of America.",
+      "hash": "66f6d9ee7078a0ca8255b146d881fd6e",
+      "metadata": {
+        "ordinal": 212,
+        "triple": {
+          "subject_id": "jazz",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "jazz",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.10912556227188167,
+      "created_at": "2026-07-04T04:22:16.082691-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f164f6ee-f815-492e-b5d3-dfc55631748b",
+      "memory": "Alta IF is associated with the sport of association football",
+      "hash": "4e2c1d0ac222fb760d103bc99f9a0082",
+      "metadata": {
+        "ordinal": 19,
+        "triple": {
+          "subject_id": "alta_if",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of association football",
+          "confidence": 0.95,
+          "subject_raw": "Alta IF",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.10769079385943438,
+      "created_at": "2026-07-04T04:22:10.833099-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "2a18a15a-b479-4d87-b7db-a8875daa980e",
+      "memory": "The capital of India is Grosseto.",
+      "hash": "87ceaf5c2a3e8b7eecac4ef9eb853e28",
+      "metadata": {
+        "ordinal": 341,
+        "triple": null,
+        "subject_fallback": "india"
+      },
+      "score": 0.10689521980124231,
+      "created_at": "2026-07-04T04:22:19.464170-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "5a811573-776c-4146-ba09-89ae1053db9c",
+      "memory": "Rugby union was created in the country of India.",
+      "hash": "3cc2ac48026db06c43d703c44b5576b8",
+      "metadata": {
+        "ordinal": 186,
+        "triple": {
+          "subject_id": "rugby_union",
+          "predicate_norm": "be created in country",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "Rugby union",
+          "predicate_raw": "was created in the country of"
+        }
+      },
+      "score": 0.10653486941095336,
+      "created_at": "2026-07-04T04:22:15.091486-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "f7cb2b95-5178-4ee9-9f0c-d9c19d14d35d",
+      "memory": "Steve Sax is associated with the sport of baseball",
+      "hash": "fe49a7e53d70cdf6d950c1d635e93863",
+      "metadata": {
+        "ordinal": 35,
+        "triple": {
+          "subject_id": "steve_sax",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of baseball",
+          "confidence": 0.95,
+          "subject_raw": "Steve Sax",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.10606726493121778,
+      "created_at": "2026-07-04T04:22:10.851658-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    },
+    {
+      "id": "18633d51-e039-4a87-a80b-306dd3e9081a",
+      "memory": "The name of the current head of state in United Kingdom is Elizabeth II.",
+      "hash": "d5e9ee9603ee6eb514f98500a9ced625",
+      "metadata": {
+        "ordinal": 79,
+        "triple": {
+          "subject_id": "united_kingdom",
+          "predicate_norm": "has current head state",
+          "object_text": "Elizabeth II",
+          "confidence": 0.95,
+          "subject_raw": "United Kingdom",
+          "predicate_raw": "has current head of state"
+        }
+      },
+      "score": 0.10602353995284122,
+      "created_at": "2026-07-04T04:22:13.186895-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_6k"
+    }
+  ]
+}

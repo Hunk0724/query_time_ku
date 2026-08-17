@@ -1,0 +1,1314 @@
+{
+  "experiment": "ablation_sh_fact_gpt4o",
+  "model": "gpt-4o",
+  "task": "sh",
+  "chunk_strategy": "fact",
+  "source": "factconsolidation_sh_64k",
+  "context_length": "64k",
+  "n_questions": 100,
+  "correct": 95,
+  "accuracy": 0.95,
+  "elapsed_seconds": 166.15615153312683,
+  "results": [
+    {
+      "q_idx": 0,
+      "question": "Which language was The New York Times written in?",
+      "ground_truth": [
+        "Ancient Greek"
+      ],
+      "answer": "Ancient Greek",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4102,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 1,
+      "question": "Who is the author of Hard Times?",
+      "ground_truth": [
+        "Martin Luther King Jr."
+      ],
+      "answer": "Martin Luther King Jr",
+      "correct": false,
+      "n_candidates": 2,
+      "chosen_serial": 2335,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 2,
+      "question": "What is the country of citizenship of David Farragut?",
+      "ground_truth": [
+        "Denmark"
+      ],
+      "answer": "Denmark",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2211,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 3,
+      "question": "Who founded Death Eater?",
+      "ground_truth": [
+        "Lord Voldemort"
+      ],
+      "answer": "Lord Voldemort",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 192,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 4,
+      "question": "What is the country of citizenship of Joseph Mitchell?",
+      "ground_truth": [
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2969,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 5,
+      "question": "What type of music does Aki Takase play?",
+      "ground_truth": [
+        "Carnatic music"
+      ],
+      "answer": "Carnatic music",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2486,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 6,
+      "question": "Which country was Shaman King created in?",
+      "ground_truth": [
+        "Greece"
+      ],
+      "answer": "Greece",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3279,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 7,
+      "question": "Which religion is Henry of Blois affiliated with?",
+      "ground_truth": [
+        "Church of Scotland"
+      ],
+      "answer": "Church of Scotland",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2028,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 8,
+      "question": "What is the original language of The Sky at Night?",
+      "ground_truth": [
+        "Filipino"
+      ],
+      "answer": "Filipino",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4499,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 9,
+      "question": "Who was Kermit the Frog created by?",
+      "ground_truth": [
+        "Hiroshige"
+      ],
+      "answer": "Hiroshige",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2786,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 10,
+      "question": "Which city was Monty Norman born in?",
+      "ground_truth": [
+        "London"
+      ],
+      "answer": "London",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3322,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 11,
+      "question": "Who is Prince Andrew, Duke of York married to?",
+      "ground_truth": [
+        "Mahidol Adulyadej"
+      ],
+      "answer": "Mahidol Adulyadej",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3548,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 12,
+      "question": "Who performed Day Tripper?",
+      "ground_truth": [
+        "Madonna"
+      ],
+      "answer": "Madonna",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 463,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 13,
+      "question": "Which city did Pablo Picasso work in?",
+      "ground_truth": [
+        "Paris"
+      ],
+      "answer": "Paris",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 1647,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 14,
+      "question": "Who is the director of CERN?",
+      "ground_truth": [
+        "Giorgio Armani"
+      ],
+      "answer": "Giorgio Armani",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4511,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 15,
+      "question": "Who performed Jane Foster?",
+      "ground_truth": [
+        "Natalie Portman"
+      ],
+      "answer": "Natalie Portman",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 749,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 16,
+      "question": "Who is the head coach of Burnley F.C.?",
+      "ground_truth": [
+        "Jeff Hornacek"
+      ],
+      "answer": "Jeff Hornacek",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 1038,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 17,
+      "question": "Who is the original broadcaster of One Life to Live?",
+      "ground_truth": [
+        "American Broadcasting Company"
+      ],
+      "answer": "American Broadcasting Company",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 1332,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 18,
+      "question": "Who is the author of Red Storm Rising?",
+      "ground_truth": [
+        "Tom Clancy"
+      ],
+      "answer": "Torquato Tasso",
+      "correct": false,
+      "n_candidates": 2,
+      "chosen_serial": 1219,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 19,
+      "question": "What is the official language of Soviet Union?",
+      "ground_truth": [
+        "French"
+      ],
+      "answer": "French",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3797,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 20,
+      "question": "Which continent is Great Britain located in?",
+      "ground_truth": [
+        "Europe"
+      ],
+      "answer": "Asia",
+      "correct": false,
+      "n_candidates": 2,
+      "chosen_serial": 2468,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 21,
+      "question": "Who founded S\u014dt\u014d?",
+      "ground_truth": [
+        "D\u014dgen"
+      ],
+      "answer": "D\u014dgen",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 1590,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 22,
+      "question": "Which country was The Orange County Register created in?",
+      "ground_truth": [
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4267,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 23,
+      "question": "Which sport is racing video game associated with?",
+      "ground_truth": [
+        "Australian rules football"
+      ],
+      "answer": "Australian rules football",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 1639,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 24,
+      "question": "What is the country of citizenship of Philip II of Spain?",
+      "ground_truth": [
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2448,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 25,
+      "question": "What is Lu\u00eds de Cam\u00f5es famous for?",
+      "ground_truth": [
+        "Os Lus\u00edadas"
+      ],
+      "answer": "Os Lus\u00edadas",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 4308,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 26,
+      "question": "Who is Wilma Flintstone's child?",
+      "ground_truth": [
+        "Eric Garcetti"
+      ],
+      "answer": "Eric Garcetti",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3748,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 27,
+      "question": "Who is the original broadcaster of General Hospital?",
+      "ground_truth": [
+        "American Broadcasting Company"
+      ],
+      "answer": "American Broadcasting Company",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3360,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 28,
+      "question": "Which sport is Erik Spoelstra associated with?",
+      "ground_truth": [
+        "basketball"
+      ],
+      "answer": "basketball",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 4201,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 29,
+      "question": "Who is the developer of PowerBook G4?",
+      "ground_truth": [
+        "Microsoft"
+      ],
+      "answer": "Microsoft",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4470,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 30,
+      "question": "Which language was Os Lus\u00edadas written in?",
+      "ground_truth": [
+        "English"
+      ],
+      "answer": "English",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2829,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 31,
+      "question": "Which country was Die Gartenlaube created in?",
+      "ground_truth": [
+        "Austrian Empire"
+      ],
+      "answer": "Austrian Empire",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2278,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 32,
+      "question": "Which city did Martin Luther King Jr. die in?",
+      "ground_truth": [
+        "St Leonards-on-Sea"
+      ],
+      "answer": "St Leonards-on-Sea",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2234,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 33,
+      "question": "What is the country of citizenship of Sher Bahadur Deuba?",
+      "ground_truth": [
+        "Nepal"
+      ],
+      "answer": "Nepal",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 4103,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 34,
+      "question": "Who is the chief executive officer of Toshiba?",
+      "ground_truth": [
+        "Nobuaki Kurumatani"
+      ],
+      "answer": "Nobuaki Kurumatani",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3153,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 35,
+      "question": "Which university was Ilir Meta educated at?",
+      "ground_truth": [
+        "Montana State University - Bozeman"
+      ],
+      "answer": "Montana State University - Bozeman",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2063,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 36,
+      "question": "What is Richard Adams famous for?",
+      "ground_truth": [
+        "Watership Down"
+      ],
+      "answer": "Watership Down",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3024,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 37,
+      "question": "Who is the chairperson of General Motors?",
+      "ground_truth": [
+        "Yoweri Kaguta Museveni"
+      ],
+      "answer": "Yoweri Kaguta Museveni",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4167,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 38,
+      "question": "Which continent is Z\u00fcrich located in?",
+      "ground_truth": [
+        "Antarctica"
+      ],
+      "answer": "Antarctica",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2472,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 39,
+      "question": "What language does Daphne du Maurier speak?",
+      "ground_truth": [
+        "Arabic"
+      ],
+      "answer": "Arabic",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4396,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 40,
+      "question": "Who is the author of The Andromeda Strain?",
+      "ground_truth": [
+        "Multatuli"
+      ],
+      "answer": "Multatuli",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2911,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 41,
+      "question": "What is the name of the current head of the India government?",
+      "ground_truth": [
+        "Narendra Modi"
+      ],
+      "answer": "Narendra Modi",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3885,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 42,
+      "question": "What is the country of citizenship of Bibi Andersson?",
+      "ground_truth": [
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3048,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 43,
+      "question": "What is the country of citizenship of Felix Aylmer?",
+      "ground_truth": [
+        "Denmark"
+      ],
+      "answer": "Denmark",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 1960,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 44,
+      "question": "Where was Finnair founded?",
+      "ground_truth": [
+        "Helsinki"
+      ],
+      "answer": "Helsinki",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 886,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 45,
+      "question": "Who is the developer of Mortal Kombat X?",
+      "ground_truth": [
+        "Blizzard Entertainment"
+      ],
+      "answer": "Blizzard Entertainment",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3250,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 46,
+      "question": "What is the country of citizenship of Kim Tae-hee?",
+      "ground_truth": [
+        "United States of America"
+      ],
+      "answer": "United States of America",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3620,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 47,
+      "question": "Who is the developer of Windows Server 2008?",
+      "ground_truth": [
+        "BlackBerry"
+      ],
+      "answer": "BlackBerry",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3644,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 48,
+      "question": "What is the official language of Kingdom of the Netherlands?",
+      "ground_truth": [
+        "Old Turkic"
+      ],
+      "answer": "Old Turkic",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3145,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 49,
+      "question": "What is Colleen McCullough famous for?",
+      "ground_truth": [
+        "The Thorn Birds"
+      ],
+      "answer": "The Thorn Birds",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3815,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 50,
+      "question": "Which religion is John Paul I affiliated with?",
+      "ground_truth": [
+        "Church of Scotland"
+      ],
+      "answer": "Church of Scotland",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 916,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 51,
+      "question": "Who performed Taxman?",
+      "ground_truth": [
+        "Madonna"
+      ],
+      "answer": "Madonna",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3447,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 52,
+      "question": "Which city is the headquarter of University of Manchester located in?",
+      "ground_truth": [
+        "Manchester"
+      ],
+      "answer": "Manchester",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 2511,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 53,
+      "question": "Which sport is Texas Legends associated with?",
+      "ground_truth": [
+        "cricket"
+      ],
+      "answer": "cricket",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4065,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 54,
+      "question": "What is the country of citizenship of Jaime Alguersuari?",
+      "ground_truth": [
+        "Brazil"
+      ],
+      "answer": "Brazil",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4223,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 55,
+      "question": "Which religion is Alassane Dramane Ouattara affiliated with?",
+      "ground_truth": [
+        "Catholic Church"
+      ],
+      "answer": "Catholic Church",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4187,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 56,
+      "question": "What position does Andrea Pirlo play?",
+      "ground_truth": [
+        "midfielder"
+      ],
+      "answer": "midfielder",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 2433,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 57,
+      "question": "Which country was association football created in?",
+      "ground_truth": [
+        "Italy"
+      ],
+      "answer": "Italy",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3516,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 58,
+      "question": "What type of music does Big Sean play?",
+      "ground_truth": [
+        "country rock"
+      ],
+      "answer": "country rock",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4552,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 59,
+      "question": "Which country was bluegrass music created in?",
+      "ground_truth": [
+        "Indonesia"
+      ],
+      "answer": "Indonesia",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4115,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 60,
+      "question": "Which sport is North East Stars associated with?",
+      "ground_truth": [
+        "cricket"
+      ],
+      "answer": "cricket",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3740,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 61,
+      "question": "Who is the chief executive officer of Tesla?",
+      "ground_truth": [
+        "Adam Sandler"
+      ],
+      "answer": "Adam Sandler",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2749,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 62,
+      "question": "Who founded Omidyar Network?",
+      "ground_truth": [
+        "Pierre Omidyar"
+      ],
+      "answer": "Pierre Omidyar",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 2953,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 63,
+      "question": "Which city is the headquarter of Berklee College of Music located in?",
+      "ground_truth": [
+        "Boston"
+      ],
+      "answer": "Boston",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3511,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 64,
+      "question": "What is the capital of Czechoslovakia?",
+      "ground_truth": [
+        "Przeworsk"
+      ],
+      "answer": "Przeworsk",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2935,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 65,
+      "question": "What is the country of citizenship of Ellen Pompeo?",
+      "ground_truth": [
+        "United States of America"
+      ],
+      "answer": "United States of America",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 2654,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 66,
+      "question": "What is the country of citizenship of Alan Blyth?",
+      "ground_truth": [
+        "United Kingdom"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": 0,
+      "chosen_serial": null,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 67,
+      "question": "Who is the author of Satyricon?",
+      "ground_truth": [
+        "William Blake"
+      ],
+      "answer": "William Blake",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4337,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 68,
+      "question": "Who is the original broadcaster of Revenge?",
+      "ground_truth": [
+        "British Broadcasting Corporation"
+      ],
+      "answer": "(no answer)",
+      "correct": false,
+      "n_candidates": 0,
+      "chosen_serial": null,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 69,
+      "question": "Which university was Stewart Udall educated at?",
+      "ground_truth": [
+        "California State University, Long Beach"
+      ],
+      "answer": "California State University, Long Beach",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4505,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 70,
+      "question": "Who is the chairperson of Aam Aadmi Party?",
+      "ground_truth": [
+        "Lamar Alexander"
+      ],
+      "answer": "Lamar Alexander",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3471,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 71,
+      "question": "Who performed Beatles for Sale?",
+      "ground_truth": [
+        "Madonna"
+      ],
+      "answer": "Madonna",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3555,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 72,
+      "question": "Which sport is Philippine Basketball Association Draft associated with?",
+      "ground_truth": [
+        "basketball"
+      ],
+      "answer": "basketball",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 1567,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 73,
+      "question": "What type of music does Archie Shepp play?",
+      "ground_truth": [
+        "J-pop"
+      ],
+      "answer": "J-pop",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4098,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 74,
+      "question": "What is the capital of El Salvador?",
+      "ground_truth": [
+        "San Salvador"
+      ],
+      "answer": "San Salvador",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3274,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 75,
+      "question": "Who is the employer of Larry Page?",
+      "ground_truth": [
+        "University of Edinburgh"
+      ],
+      "answer": "University of Edinburgh",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3493,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 76,
+      "question": "Which university was James Dashner educated at?",
+      "ground_truth": [
+        "Brigham Young University"
+      ],
+      "answer": "Brigham Young University",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 4414,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 77,
+      "question": "Who is the author of Areopagitica?",
+      "ground_truth": [
+        "John Milton"
+      ],
+      "answer": "John Milton",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 2558,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 78,
+      "question": "Who performed Dear Prudence?",
+      "ground_truth": [
+        "Madonna"
+      ],
+      "answer": "Madonna",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3158,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 79,
+      "question": "What language does George Boole speak?",
+      "ground_truth": [
+        "Spanish"
+      ],
+      "answer": "Spanish",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4254,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 80,
+      "question": "Which language was Shahnameh written in?",
+      "ground_truth": [
+        "Persian"
+      ],
+      "answer": "Persian",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3594,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 81,
+      "question": "Which sport is Altrincham F.C. associated with?",
+      "ground_truth": [
+        "association football"
+      ],
+      "answer": "association football",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 3981,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 82,
+      "question": "Which continent is S\u00e3o Paulo located in?",
+      "ground_truth": [
+        "South America"
+      ],
+      "answer": "South America",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 4049,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 83,
+      "question": "Which sport is three-point field goal associated with?",
+      "ground_truth": [
+        "basketball"
+      ],
+      "answer": "basketball",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 962,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 84,
+      "question": "What is the country of citizenship of Paul Morley?",
+      "ground_truth": [
+        "Ireland"
+      ],
+      "answer": "Ireland",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2686,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 85,
+      "question": "Who is Reese Witherspoon's child?",
+      "ground_truth": [
+        "James Badge Dale"
+      ],
+      "answer": "James Badge Dale",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2358,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 86,
+      "question": "Which sport is Lisbon Lions associated with?",
+      "ground_truth": [
+        "baseball"
+      ],
+      "answer": "baseball",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 4536,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 87,
+      "question": "Who performed Born This Way Ball?",
+      "ground_truth": [
+        "Lady Gaga"
+      ],
+      "answer": "Lady Gaga",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 350,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 88,
+      "question": "Which religion is Denis Thatcher affiliated with?",
+      "ground_truth": [
+        "Lutheranism"
+      ],
+      "answer": "Lutheranism",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2496,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 89,
+      "question": "Who is the author of Rerum Novarum?",
+      "ground_truth": [
+        "Leo XIII"
+      ],
+      "answer": "Leo XIII",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 567,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 90,
+      "question": "What position does Manuel Neuer play?",
+      "ground_truth": [
+        "linebacker"
+      ],
+      "answer": "linebacker",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 1621,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 91,
+      "question": "Who is the author of Lonesome Dove?",
+      "ground_truth": [
+        "Robert A. Heinlein"
+      ],
+      "answer": "Robert A. Heinlein",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3678,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 92,
+      "question": "Which city did Allan Pinkerton die in?",
+      "ground_truth": [
+        "Pune"
+      ],
+      "answer": "Pune",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3833,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 93,
+      "question": "What is the official language of Helsinki?",
+      "ground_truth": [
+        "Esperanto"
+      ],
+      "answer": "Esperanto",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2026,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 94,
+      "question": "What is the country of citizenship of Mads Mikkelsen?",
+      "ground_truth": [
+        "Denmark"
+      ],
+      "answer": "Denmark",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 4455,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 95,
+      "question": "Who is the developer of iPad Pro?",
+      "ground_truth": [
+        "Google"
+      ],
+      "answer": "Google",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 870,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 96,
+      "question": "Who is the author of The Vagina Monologues?",
+      "ground_truth": [
+        "Eve Ensler"
+      ],
+      "answer": "Eve Ensler",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 853,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 97,
+      "question": "Which sport is Montreal Royals associated with?",
+      "ground_truth": [
+        "field hockey"
+      ],
+      "answer": "field hockey",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 3379,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 98,
+      "question": "Where was The Kinks founded?",
+      "ground_truth": [
+        "England"
+      ],
+      "answer": "England",
+      "correct": true,
+      "n_candidates": 2,
+      "chosen_serial": 2712,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    },
+    {
+      "q_idx": 99,
+      "question": "What is the country of citizenship of Estelle Getty?",
+      "ground_truth": [
+        "United States of America"
+      ],
+      "answer": "United States of America",
+      "correct": true,
+      "n_candidates": 1,
+      "chosen_serial": 4330,
+      "n_hops_planned": null,
+      "n_hops_executed": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+# Mem0 (vector-only) with Vertex Gemini.
+# Aligned with mem0 paper's spirit by replacing OpenAI (no quota) with mem0's
+# internal Gemini provider class defaults: text-embedding-004 + gemini-* LLM.
+# See docs/baseline_methods/baseline_methods_paper_vs_impl.md §6.3 for rationale.
+agent_name: Structure_rag_mem0_gemini-2.5-flash-lite_chunk512
+model: gemini-2.5-flash-lite           # answer-time LLM (final response generation)
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gemini-2.5-flash-lite-mem0-chunk512
+
+agent_chunk_size: 512                 # benchmark default (mem0 paper §2.1)
+retrieve_num: 100
+
+# mem0 internal config (injected into Memory(MemoryConfig(**mem0_config)))
+mem0_config:
+  llm:
+    provider: vertexai
+    config:
+      model: gemini-2.5-flash-lite     # mem0 internal LLM (fact extract + update decision)
+      temperature: 0.1   # Phase 0 deterministic
+      max_tokens: 16384   # bumped from 8192 for ctx sweep — Update Memory enumerates all prior memories
+  embedder:
+    provider: vertexai                 # → methods/mem0_vertex_adc_embedder.py (ADC)
+    config:
+      model: text-embedding-004        # mem0 internal Gemini class default
+      embedding_dims: 768
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_vertex_t4_768
+      embedding_model_dims: 768
+      path: /tmp/qdrant_mem0_vertex_t4
+  # Remove 2 rejection few-shots from mem0's FACT_RETRIEVAL_PROMPT that cause
+  # Gemini to drop FC inputs (Phase 0 validated; see methods/mem0_fc_prompt_fix.py)
+  use_l1_fc_prompt: true
+  # vector_store omitted → mem0 default Qdrant (local, ephemeral)

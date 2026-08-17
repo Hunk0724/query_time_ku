@@ -1,0 +1,3433 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "738641d7-68af-4e2e-befa-65ba1a0ab89d",
+      "memory": "The chairperson of General Motors is Mary Barra.",
+      "hash": "ef0449126de9867efaacc701b2e216bf",
+      "metadata": {
+        "ordinal": 1836,
+        "triple": {
+          "subject_id": "mary_barra",
+          "predicate_norm": "be chairperson",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Mary Barra",
+          "predicate_raw": "is the chairperson of"
+        }
+      },
+      "score": 0.8266764347843516,
+      "created_at": "2026-07-04T05:24:44.815851-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "65637cc6-fdc6-4387-8536-5b4a4321e5c4",
+      "memory": "The chief executive officer of General Motors is Mary Barra.",
+      "hash": "586369fe3ffca899b036ed948a77c175",
+      "metadata": {
+        "ordinal": 1051,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Mary Barra",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.7301658070181012,
+      "created_at": "2026-07-04T05:24:27.424472-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "792ab472-2fd8-40e5-b2d8-6364a472cf9e",
+      "memory": "The chief executive officer of General Motors is Marc Benioff.",
+      "hash": "9bb13dc38b7c3a7255d4e53251ff8ab5",
+      "metadata": {
+        "ordinal": 4506,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marc Benioff",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.6661865251624195,
+      "created_at": "2026-07-04T05:25:46.986075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "12ba3fa3-78d2-4da1-bb2c-3ab72d929b1b",
+      "memory": "The chairperson of General Motors is Yoweri Kaguta Museveni.",
+      "hash": "4d3663666340c1a1319103fe4265d54b",
+      "metadata": {
+        "ordinal": 4157,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chairperson",
+          "object_text": "Yoweri Kaguta Museveni",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.5930630289781685,
+      "created_at": "2026-07-04T05:25:39.064723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "22011db4-5cb9-458a-af81-f9ef4b84c133",
+      "memory": "General Motors was founded in the city of Detroit.",
+      "hash": "6d36fe554abc275c6bf424d2eb764d3f",
+      "metadata": {
+        "ordinal": 1526,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Detroit",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.5583447879365092,
+      "created_at": "2026-07-04T05:24:37.875831-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dbc92534-f57e-41a8-8c9b-d8b01e576600",
+      "memory": "The company that produced Buick Regal is General Motors.",
+      "hash": "38bcf838f4b0d0cbaef9f9bfc97f0df2",
+      "metadata": {
+        "ordinal": 1422,
+        "triple": {
+          "subject_id": "buick_regal",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Buick Regal",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5497024200485747,
+      "created_at": "2026-07-04T05:24:35.418641-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cd79da64-515c-4696-8439-882d13ee9235",
+      "memory": "The company that produced Chevrolet Malibu is General Motors.",
+      "hash": "65384f539a4a4340a2b075779409c2b1",
+      "metadata": {
+        "ordinal": 3781,
+        "triple": {
+          "subject_id": "chevrolet_malibu",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Malibu",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5447401533930768,
+      "created_at": "2026-07-04T05:25:30.607563-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1e6d6e96-0b5c-406b-b711-2c7098dd3e3a",
+      "memory": "The company that produced Chevrolet Cruze is General Motors.",
+      "hash": "86ffe12bb4dd2a85ab314e0b2c42adeb",
+      "metadata": {
+        "ordinal": 1159,
+        "triple": {
+          "subject_id": "chevrolet_cruze",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Cruze",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.5423756755952595,
+      "created_at": "2026-07-04T05:24:29.584478-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "89327616-ca30-447a-8e77-868da60e6241",
+      "memory": "The company that produced Chevrolet Volt is General Motors.",
+      "hash": "79ff3920e8146f7d9650903f9d5e84d5",
+      "metadata": {
+        "ordinal": 888,
+        "triple": {
+          "subject_id": "chevrolet_volt",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Volt",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5369542247385717,
+      "created_at": "2026-07-04T05:24:23.264026-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d2ed0984-041d-4965-a6d4-764d8d23460d",
+      "memory": "The company that produced Chevrolet Cobalt is General Motors.",
+      "hash": "edbd8c95634e822408f3cb21c387b9e4",
+      "metadata": {
+        "ordinal": 1419,
+        "triple": {
+          "subject_id": "chevrolet_cobalt",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Cobalt",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5329057264054736,
+      "created_at": "2026-07-04T05:24:35.414805-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "22d87626-5879-4070-b08c-a0ab6c5c3e6f",
+      "memory": "The company that produced Cadillac Escalade is General Motors.",
+      "hash": "f0b40c52ccf986320693774fd14611ca",
+      "metadata": {
+        "ordinal": 1571,
+        "triple": {
+          "subject_id": "cadillac_escalade",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Cadillac Escalade",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5269543961487158,
+      "created_at": "2026-07-04T05:24:39.437457-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1ceb3eb7-6222-4e3d-862e-bc1510ce68c5",
+      "memory": "General Motors was founded in the city of Los Angeles.",
+      "hash": "38e4de00337315b7bc1e714511d4be7f",
+      "metadata": {
+        "ordinal": 4048,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.524772847701444,
+      "created_at": "2026-07-04T05:25:36.822850-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e688df9a-ea03-4630-ac99-fb4ff1fdacd8",
+      "memory": "The company that produced Chevrolet Tahoe is General Motors.",
+      "hash": "a36305c76523f5478d15a7394d61d908",
+      "metadata": {
+        "ordinal": 754,
+        "triple": {
+          "subject_id": "chevrolet_tahoe",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Tahoe",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.519047262678889,
+      "created_at": "2026-07-04T05:24:20.835044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7fa163d7-e139-424a-aa7a-2b298a7bdb16",
+      "memory": "The company that produced Chevrolet Aveo is General Motors.",
+      "hash": "5345552d169c30810e1308a6d360dd43",
+      "metadata": {
+        "ordinal": 4236,
+        "triple": {
+          "subject_id": "chevrolet_aveo",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.9,
+          "subject_raw": "Chevrolet Aveo",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5012496675032732,
+      "created_at": "2026-07-04T05:25:40.728841-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7a4361e8-6366-4584-8afc-d34a6227b9a3",
+      "memory": "The company that produced Chevrolet S-10 Blazer is General Motors.",
+      "hash": "5bb64ae0a5c41e83490fcf45552139e4",
+      "metadata": {
+        "ordinal": 155,
+        "triple": {
+          "subject_id": "chevrolet_s_10_blazer",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet S-10 Blazer",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4949230495223038,
+      "created_at": "2026-07-04T05:24:06.845161-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "33352726-d02e-4fb4-b0bb-19fcfae397fe",
+      "memory": "The company that produced Chevrolet Vega is General Motors.",
+      "hash": "00680b65f179f0f8caff47c68ee028e8",
+      "metadata": {
+        "ordinal": 355,
+        "triple": {
+          "subject_id": "chevrolet_vega",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Vega",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.48709136912768314,
+      "created_at": "2026-07-04T05:24:10.972753-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "36e12975-40f3-4bc3-a594-8dc8dbbb4de8",
+      "memory": "The chairperson of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "6b3e394c987856f1649c25b815996c81",
+      "metadata": {
+        "ordinal": 1766,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.4722795771775007,
+      "created_at": "2026-07-04T05:24:43.262812-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d01365e8-8bc8-490d-aaef-e7fc94ce13e2",
+      "memory": "The company that produced GMC Envoy is General Motors.",
+      "hash": "e30d98e8500c9f131bbbb58e27f0b365",
+      "metadata": {
+        "ordinal": 3047,
+        "triple": {
+          "subject_id": "gmc_envoy",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "GMC Envoy",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4711302655941547,
+      "created_at": "2026-07-04T05:25:13.607141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a4b156e2-ca0a-4156-99ed-1e2711314b6a",
+      "memory": "The chief executive officer of Panasonic Corporation is Satya Nadella.",
+      "hash": "d01ef6d4828234fbf3bbd57af34c6ae2",
+      "metadata": {
+        "ordinal": 1875,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.439734899411493,
+      "created_at": "2026-07-04T05:24:45.599279-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2637a85f-4665-49d3-8d7f-923f7c952bcc",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 3735,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.43042120945997453,
+      "created_at": "2026-07-04T05:25:29.612804-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9d67a478-d911-4196-a550-2023caf7ccce",
+      "memory": "The name of the current head of the Detroit government is Mike Duggan.",
+      "hash": "b470b0b1edd2ae9410e66af92c9b65e8",
+      "metadata": {
+        "ordinal": 4210,
+        "triple": {
+          "subject_id": "detroit_government",
+          "predicate_norm": "has name",
+          "object_text": "Mike Duggan",
+          "confidence": 0.9,
+          "subject_raw": "Detroit government",
+          "predicate_raw": "has name"
+        }
+      },
+      "score": 0.4289764918152914,
+      "created_at": "2026-07-04T05:25:40.695458-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "894104b3-7180-41ee-9c43-022056e081b0",
+      "memory": "The chairperson of Hon Hai Precision Industry is Talia Sasson.",
+      "hash": "d61ee7c4f57979a51c5619de12412a57",
+      "metadata": {
+        "ordinal": 2096,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Talia Sasson",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.4280326206365834,
+      "created_at": "2026-07-04T05:24:50.516351-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e988b258-3113-415c-b269-dc3b1857582d",
+      "memory": "Dave Dombrowski is employed by Detroit Tigers.",
+      "hash": "ff2efe2c74442b1d25e4ad4a902b0f82",
+      "metadata": {
+        "ordinal": 2650,
+        "triple": {
+          "subject_id": "dave_dombrowski",
+          "predicate_norm": "be employed by",
+          "object_text": "Detroit Tigers",
+          "confidence": 0.95,
+          "subject_raw": "Dave Dombrowski",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.41747716345304053,
+      "created_at": "2026-07-04T05:25:04.788236-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cdb37fc6-a73a-4eab-b17c-2b91bde2aabe",
+      "memory": "The chief executive officer of Boeing is Dennis Muilenburg.",
+      "hash": "1156ff61b0e1943d516205b3902cfe87",
+      "metadata": {
+        "ordinal": 1305,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Dennis Muilenburg",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4152023743386697,
+      "created_at": "2026-07-04T05:24:32.743243-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "700e9120-2242-4493-845a-908e1d56add0",
+      "memory": "The chief executive officer of Tesla is Elon Musk.",
+      "hash": "c843b1312d0398a3b4d708168ebe2854",
+      "metadata": {
+        "ordinal": 1499,
+        "triple": {
+          "subject_id": "tesla",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Elon Musk",
+          "confidence": 0.9,
+          "subject_raw": "Tesla",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.41366255956656095,
+      "created_at": "2026-07-04T05:24:37.100274-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "77d4fc4b-8106-4fc4-ba0b-55cd68f27083",
+      "memory": "The chief executive officer of Electronic Arts is Elon Musk",
+      "hash": "0e2fde36e52c426a3899ea11c418693a",
+      "metadata": {
+        "ordinal": 2146,
+        "triple": {
+          "subject_id": "electronic_arts",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Elon Musk",
+          "confidence": 0.9,
+          "subject_raw": "Electronic Arts",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4132867440862509,
+      "created_at": "2026-07-04T05:24:51.999743-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c8df3559-9b1a-4067-b342-25af723bf512",
+      "memory": "The chief executive officer of Panasonic Corporation is Kazuhiro Tsuga.",
+      "hash": "309bf9e6aa0cc6efa8b333fbdb4ecd60",
+      "metadata": {
+        "ordinal": 580,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Kazuhiro Tsuga",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.41299485376904344,
+      "created_at": "2026-07-04T05:24:16.478628-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bf6d8d2f-66f1-4798-ac45-4c6ec8174474",
+      "memory": "The chairperson of Xiaomi is Lei Jun.",
+      "hash": "f3c5070182ea67b36a760b9f98072b49",
+      "metadata": {
+        "ordinal": 1383,
+        "triple": {
+          "subject_id": "xiaomi",
+          "predicate_norm": "has chairperson",
+          "object_text": "Lei Jun",
+          "confidence": 0.95,
+          "subject_raw": "Xiaomi",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.41195843217194256,
+      "created_at": "2026-07-04T05:24:34.642204-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aac3820f-8ba2-46b8-985c-6a89bd171c67",
+      "memory": "Ford Motor Company was founded by Henri Grégoire.",
+      "hash": "f88ba9f1353d001323a61abcc077aeaa",
+      "metadata": {
+        "ordinal": 2462,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henri Grégoire",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.4071832828472588,
+      "created_at": "2026-07-04T05:24:59.550064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "731eab2e-b729-44e6-8ca6-b19952faad3d",
+      "memory": "The chief executive officer of Microsoft is Satya Nadella.",
+      "hash": "7e27d25660b6390bea7155b590eaf2df",
+      "metadata": {
+        "ordinal": 3911,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4059064915052474,
+      "created_at": "2026-07-04T05:25:33.584421-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "03d6ee64-0295-49aa-8c22-076310ab0a99",
+      "memory": "The chairperson of MSNBC is Phil Griffin.",
+      "hash": "58416685a3b1eb548cc8aeb758a02391",
+      "metadata": {
+        "ordinal": 1608,
+        "triple": {
+          "subject_id": "msnbc",
+          "predicate_norm": "has chairperson",
+          "object_text": "Phil Griffin",
+          "confidence": 0.95,
+          "subject_raw": "MSNBC",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.3979885151554702,
+      "created_at": "2026-07-04T05:24:40.090880-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "44541f14-fc19-49a4-af05-a1537a206c29",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Andrew House",
+      "hash": "acc098f28c29beb6eb22c5f8df75a7b5",
+      "metadata": {
+        "ordinal": 540,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew House",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3975565745681852,
+      "created_at": "2026-07-04T05:24:14.991440-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "078a94a6-414e-4daa-b68e-1b63e8ae3c92",
+      "memory": "The chief executive officer of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "e1fb3bddd34bea609cd05ddb04da4725",
+      "metadata": {
+        "ordinal": 3603,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3954345475131459,
+      "created_at": "2026-07-04T05:25:26.071160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "16353487-e3fa-47ac-b570-3759192658c5",
+      "memory": "The chief executive officer of BlackBerry is John S. Chen.",
+      "hash": "7e83010be8cc6a982f35d69f1b34d475",
+      "metadata": {
+        "ordinal": 1380,
+        "triple": {
+          "subject_id": "blackberry",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "John S. Chen",
+          "confidence": 0.95,
+          "subject_raw": "BlackBerry",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3914397190347466,
+      "created_at": "2026-07-04T05:24:34.637158-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "459d5f1f-5667-4ac8-87ff-6b28c741c819",
+      "memory": "The company that produced B-17 Flying Fortress is General Motors.",
+      "hash": "7826a6efc9ba2567dca0f856cee71f3f",
+      "metadata": {
+        "ordinal": 3247,
+        "triple": {
+          "subject_id": "b_17_flying_fortress",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.9,
+          "subject_raw": "B-17 Flying Fortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38875779258882304,
+      "created_at": "2026-07-04T05:25:18.085588-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a491c987-5699-409c-a16f-28e9a12291a3",
+      "memory": "The chief executive officer of Dassault Aviation is Charles G. Koch.",
+      "hash": "78be7ed2e194e3f7de43b6c75af5731d",
+      "metadata": {
+        "ordinal": 1009,
+        "triple": {
+          "subject_id": "dassault_aviation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Charles G. Koch",
+          "confidence": 0.9,
+          "subject_raw": "Dassault Aviation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.38846276530058127,
+      "created_at": "2026-07-04T05:24:25.886383-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c6576f52-01ff-4f75-b03f-296601b52eb8",
+      "memory": "Ford Motor Company was founded by Henry Ford.",
+      "hash": "836194d43387f8dbce8601820c915e2a",
+      "metadata": {
+        "ordinal": 572,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henry Ford",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.3853592351541758,
+      "created_at": "2026-07-04T05:24:16.463301-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6fb1feab-18bf-4ed4-8322-896590ae35c7",
+      "memory": "The chief executive officer of Aston Martin Lagonda is Andy Palmer.",
+      "hash": "972c6ef6940332600e61a6c6590508c8",
+      "metadata": {
+        "ordinal": 1786,
+        "triple": {
+          "subject_id": "aston_martin_lagonda",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andy Palmer",
+          "confidence": 0.95,
+          "subject_raw": "Aston Martin Lagonda",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3847063784780623,
+      "created_at": "2026-07-04T05:24:43.961701-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cc17725d-4059-45fa-b381-5fcec8f1d659",
+      "memory": "The chief executive officer of Tesla is Adam Sandler.",
+      "hash": "5ff09e883386f2c2fd82782e8a1ab19f",
+      "metadata": {
+        "ordinal": 2744,
+        "triple": {
+          "subject_id": "tesla",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Adam Sandler",
+          "confidence": 0.95,
+          "subject_raw": "Tesla",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.383922753515014,
+      "created_at": "2026-07-04T05:25:06.403368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6b79a5d3-fc1e-4e4a-957c-62d7c376fb40",
+      "memory": "The chief executive officer of Google is Sundar Pichai.",
+      "hash": "49edfa1c8736be3ebc1223bf04d40cef",
+      "metadata": {
+        "ordinal": 1972,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3833151594108587,
+      "created_at": "2026-07-04T05:24:47.847975-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9c27b0d7-7cec-4737-8b0f-0adbb6c33532",
+      "memory": "The chief executive officer of ARM Holdings is Sundar Pichai.",
+      "hash": "3790b9b76e0fbc6ed120b4eaa2502d6c",
+      "metadata": {
+        "ordinal": 3734,
+        "triple": {
+          "subject_id": "arm_holdings",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "ARM Holdings",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3829699844678738,
+      "created_at": "2026-07-04T05:25:29.610784-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c64339d8-f0c8-4b42-b3b6-a1620077972d",
+      "memory": "Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp.",
+      "hash": "91c0ebfaeb8c022135ca03170f7e8374",
+      "metadata": {
+        "ordinal": 4368,
+        "triple": {
+          "subject_id": "walter_chrysler",
+          "predicate_norm": "has child",
+          "object_text": "Charles Frederick, Duke of Holstein-Gottorp",
+          "confidence": 0.95,
+          "subject_raw": "Walter Chrysler",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.3825760262280749,
+      "created_at": "2026-07-04T05:25:43.691533-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8f7f4757-b801-467e-9e18-ae14c11cd167",
+      "memory": "Henry Ford is a citizen of United States of America.",
+      "hash": "cd457c61e9624c349aad949561a798e8",
+      "metadata": {
+        "ordinal": 4256,
+        "triple": {
+          "subject_id": "henry_ford",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Henry Ford",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.382007356157649,
+      "created_at": "2026-07-04T05:25:41.409244-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1fb801c1-2c49-4afe-b5ce-3387172e19b8",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 2574,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer named",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer named"
+        }
+      },
+      "score": 0.38168163185089155,
+      "created_at": "2026-07-04T05:25:02.333222-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1359563e-d2a9-44bd-bc23-27fd984b0998",
+      "memory": "The chief executive officer of Lockheed Martin is Marillyn Hewson.",
+      "hash": "5e0997ea3c724be878f6b6cbed5f6b9c",
+      "metadata": {
+        "ordinal": 3275,
+        "triple": {
+          "subject_id": "lockheed_martin",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marillyn Hewson",
+          "confidence": 0.9,
+          "subject_raw": "Lockheed Martin",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.380720891096307,
+      "created_at": "2026-07-04T05:25:18.133134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7487625c-63ec-4c97-9b28-f9d54a608cb1",
+      "memory": "The chief executive officer of Electronic Arts is Andrew Wilson.",
+      "hash": "f3b002229ddb0b68bb8d8ca181c5e372",
+      "metadata": {
+        "ordinal": 1793,
+        "triple": {
+          "subject_id": "electronic_arts",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andrew Wilson",
+          "confidence": 0.95,
+          "subject_raw": "Electronic Arts",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3791587329832843,
+      "created_at": "2026-07-04T05:24:43.977550-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c32ab7e8-9813-47a5-84bc-2a3d77f25841",
+      "memory": "The chief executive officer of ABB Group is Bernard Arnault.",
+      "hash": "7ce66f1ad34acd1d0596dca6554a6d14",
+      "metadata": {
+        "ordinal": 1797,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.37562096999983974,
+      "created_at": "2026-07-04T05:24:44.010707-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d91145ff-a450-41d7-afbf-9f170cf2972f",
+      "memory": "The chairperson of University of Chicago is Robert Zimmer.",
+      "hash": "bed2e09820432aea58c71f95bfbc5047",
+      "metadata": {
+        "ordinal": 1864,
+        "triple": {
+          "subject_id": "university_of_chicago",
+          "predicate_norm": "has chairperson",
+          "object_text": "Robert Zimmer",
+          "confidence": 0.95,
+          "subject_raw": "University of Chicago",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.3746032403334023,
+      "created_at": "2026-07-04T05:24:45.567551-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e25ff789-351a-40f4-9fab-6b86a4365688",
+      "memory": "The chairperson of The Trump Organization is Donald Trump.",
+      "hash": "7c2830b05c35f975dc5426081117911a",
+      "metadata": {
+        "ordinal": 1083,
+        "triple": {
+          "subject_id": "the_trump_organization",
+          "predicate_norm": "has chairperson",
+          "object_text": "Donald Trump",
+          "confidence": 0.95,
+          "subject_raw": "The Trump Organization",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.3715775575510023,
+      "created_at": "2026-07-04T05:24:27.500240-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e14ab435-44fd-481b-a93c-550b8f1b7580",
+      "memory": "Toyota was founded by Kiichiro Toyoda.",
+      "hash": "94209b0054f1ac64b86255cd5e16d340",
+      "metadata": {
+        "ordinal": 1336,
+        "triple": {
+          "subject_id": "toyota",
+          "predicate_norm": "be founded by",
+          "object_text": "Kiichiro Toyoda",
+          "confidence": 0.95,
+          "subject_raw": "Toyota",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.36738762351291954,
+      "created_at": "2026-07-04T05:24:33.590443-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "13568013-07bb-486e-8e32-13341efb6894",
+      "memory": "The chief executive officer of SpaceX is Sundar Pichai.",
+      "hash": "545af4cd6072dd21f8f83520edbe697b",
+      "metadata": {
+        "ordinal": 2703,
+        "triple": {
+          "subject_id": "spacex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.9,
+          "subject_raw": "SpaceX",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.36646675460993394,
+      "created_at": "2026-07-04T05:25:05.566651-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c61e57e8-3200-42f6-9268-6f26f550c257",
+      "memory": "The chairperson of Harvard University is Peter Diamandis.",
+      "hash": "fe108ae7ab8f684d55004c1cf4072a95",
+      "metadata": {
+        "ordinal": 4357,
+        "triple": {
+          "subject_id": "harvard_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Diamandis",
+          "confidence": 0.95,
+          "subject_raw": "Harvard University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.36296528725670246,
+      "created_at": "2026-07-04T05:25:43.669071-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f2b42412-d9e6-422e-87f2-25b45d1c2680",
+      "memory": "The chairperson of World Wide Web Consortium is Gerhard Schröder.",
+      "hash": "24d54076583ac09e9221a6e7428e7a97",
+      "metadata": {
+        "ordinal": 2940,
+        "triple": {
+          "subject_id": "world_wide_web_consortium",
+          "predicate_norm": "has chairperson",
+          "object_text": "Gerhard Schröder",
+          "confidence": 0.95,
+          "subject_raw": "World Wide Web Consortium",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.36113184204112725,
+      "created_at": "2026-07-04T05:25:11.383296-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ca2da321-e1a5-40cd-a99c-e7fd6b273aea",
+      "memory": "The chief executive officer of Advanced Micro Devices is Lisa Su",
+      "hash": "46b67dacc3bb9c82e3e3958e1e3003d9",
+      "metadata": {
+        "ordinal": 2143,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lisa Su",
+          "confidence": 0.9,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.35961995940077407,
+      "created_at": "2026-07-04T05:24:51.994149-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f8253cb2-9f29-4d08-9907-5b2a970abdd1",
+      "memory": "The chairperson of University of Chicago is Zeki Öztürk.",
+      "hash": "c1b77c82ac7dd78da365d3ea97ca4999",
+      "metadata": {
+        "ordinal": 2175,
+        "triple": {
+          "subject_id": "university_of_chicago",
+          "predicate_norm": "has chairperson",
+          "object_text": "Zeki Öztürk",
+          "confidence": 0.9,
+          "subject_raw": "University of Chicago",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.35870398675215703,
+      "created_at": "2026-07-04T05:24:52.833187-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bf1c9040-6aff-4c32-bf73-bdd8c9c90503",
+      "memory": "Ron Dennis is employed by McLaren Automotive.",
+      "hash": "ca3f282295a5544404a6b164aa56c92e",
+      "metadata": {
+        "ordinal": 798,
+        "triple": {
+          "subject_id": "ron_dennis",
+          "predicate_norm": "be employed by",
+          "object_text": "McLaren Automotive",
+          "confidence": 0.95,
+          "subject_raw": "Ron Dennis",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3580492314594268,
+      "created_at": "2026-07-04T05:24:21.708570-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "73469368-a89b-4d10-9a6f-e3f53c2b06d4",
+      "memory": "The chief executive officer of Hewlett-Packard is Meg Whitman.",
+      "hash": "ffcca9a4652f475fc90fd3ad6c4891f3",
+      "metadata": {
+        "ordinal": 1576,
+        "triple": {
+          "subject_id": "hewlett_packard",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Meg Whitman",
+          "confidence": 0.95,
+          "subject_raw": "Hewlett-Packard",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.357518714996482,
+      "created_at": "2026-07-04T05:24:39.459223-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fda0070c-5241-4d72-9baa-7c972ceb48a7",
+      "memory": "The company that produced Chevrolet Cobalt is Hon Hai Precision Industry.",
+      "hash": "2bfb3c689e9fbc7686333dd77718556c",
+      "metadata": {
+        "ordinal": 4535,
+        "triple": {
+          "subject_id": "chevrolet_cobalt",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Cobalt",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.35706819845242255,
+      "created_at": "2026-07-04T05:25:47.702393-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e89bd9ec-e266-4925-86d8-a473ab2a24a0",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Helle Thorning-Schmidt.",
+      "hash": "1282ef64e8265aec884491b6c513af1f",
+      "metadata": {
+        "ordinal": 1803,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Helle Thorning-Schmidt",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3561014475840105,
+      "created_at": "2026-07-04T05:24:44.018065-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "129f4eee-370f-44f3-80ce-179f1b25f9b4",
+      "memory": "The company that produced Ford Country Squire is Glenn L. Martin Company.",
+      "hash": "6ea41f54736a8e2f142b70d95a0ff254",
+      "metadata": {
+        "ordinal": 4482,
+        "triple": {
+          "subject_id": "ford_country_squire",
+          "predicate_norm": "be produced by",
+          "object_text": "Glenn L. Martin Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Country Squire",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.35565896504095285,
+      "created_at": "2026-07-04T05:25:46.188662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "21aac5fb-5bc3-458c-8bc5-d269f01375bb",
+      "memory": "The chief executive officer of ABB Group is Ulrich Spiesshofer.",
+      "hash": "fefddcc534abf87ddd74c883ac06bf25",
+      "metadata": {
+        "ordinal": 30,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Ulrich Spiesshofer",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3546206571862696,
+      "created_at": "2026-07-04T05:24:03.856015-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d907f62c-cd2c-478a-b479-c4d9750b6a7a",
+      "memory": "The headquarters of Daimler-Benz is located in the city of Chicago.",
+      "hash": "dc7f31d8d7c5a4565706b31a8d4b6ae1",
+      "metadata": {
+        "ordinal": 2463,
+        "triple": {
+          "subject_id": "daimler_benz",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Chicago",
+          "confidence": 0.95,
+          "subject_raw": "Daimler-Benz",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.35422003192251317,
+      "created_at": "2026-07-04T05:24:59.551935-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8ef47b83-6f9c-4d8b-bd8e-1a4a99cd8c72",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 4296,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.35416782370156774,
+      "created_at": "2026-07-04T05:25:42.129660-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b130f5c9-4144-40ac-ba2e-79e1a52e3eed",
+      "memory": "Walter Chrysler's child is Walter Percy Chrysler Jr..",
+      "hash": "e218acf38e0823da477c9a91b9f80679",
+      "metadata": {
+        "ordinal": 3253,
+        "triple": {
+          "subject_id": "walter_chrysler",
+          "predicate_norm": "has child",
+          "object_text": "Walter Percy Chrysler Jr.",
+          "confidence": 0.9,
+          "subject_raw": "Walter Chrysler",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.3523964964067069,
+      "created_at": "2026-07-04T05:25:18.098687-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "13321f2a-462d-497d-a337-b6fb6c20c396",
+      "memory": "The chief executive officer of ARM Holdings is Simon Segars.",
+      "hash": "732aea82eb1b9dbe39fb40de67e6ec2d",
+      "metadata": {
+        "ordinal": 514,
+        "triple": {
+          "subject_id": "arm_holdings",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Simon Segars",
+          "confidence": 0.95,
+          "subject_raw": "ARM Holdings",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3506643745383491,
+      "created_at": "2026-07-04T05:24:14.168906-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e2b89472-aca5-47af-a4e1-b99620a2d3d0",
+      "memory": "The chief executive officer of The Walt Disney Company is Bob Iger.",
+      "hash": "e91a3be5ae7cdd75442eff6ece75eb77",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "the_walt_disney_company",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "The Walt Disney Company",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.34864454726297306,
+      "created_at": "2026-07-04T05:24:06.903771-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b4b07415-0066-4165-9305-9f777c007c05",
+      "memory": "The company that produced Buick Regal is Aston Martin Lagonda.",
+      "hash": "3d2bf63e712cdd8c12a58377aab6d25a",
+      "metadata": {
+        "ordinal": 1451,
+        "triple": {
+          "subject_id": "buick_regal",
+          "predicate_norm": "be produced by",
+          "object_text": "Aston Martin Lagonda",
+          "confidence": 0.95,
+          "subject_raw": "Buick Regal",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3468910291555568,
+      "created_at": "2026-07-04T05:24:36.222389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "57565b0b-132d-4c19-aeb7-552a942f0a07",
+      "memory": "The company that produced Chevrolet Vega is Toshiba.",
+      "hash": "1ce88057995db9f4c975fc2c938938e7",
+      "metadata": {
+        "ordinal": 3029,
+        "triple": {
+          "subject_id": "chevrolet_vega",
+          "predicate_norm": "be produced by",
+          "object_text": "Toshiba",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Vega",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.34611550533494684,
+      "created_at": "2026-07-04T05:25:12.852262-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f3554118-6568-4057-8978-1040413db81f",
+      "memory": "The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.",
+      "hash": "1bd0ce3387d35b86f8bf3f8f62b14cae",
+      "metadata": {
+        "ordinal": 649,
+        "triple": {
+          "subject_id": "chevrolet_s_10_blazer",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet S-10 Blazer",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3433445382179093,
+      "created_at": "2026-07-04T05:24:18.084206-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bc042e8e-74a8-4f40-a228-04c094baa31f",
+      "memory": "The chairperson of Ontario New Democratic Party is Andrea Horwath.",
+      "hash": "8d1f107f128ecec4297f7c00f0ec1618",
+      "metadata": {
+        "ordinal": 1732,
+        "triple": {
+          "subject_id": "ontario_new_democratic_party",
+          "predicate_norm": "has chairperson",
+          "object_text": "Andrea Horwath",
+          "confidence": 0.95,
+          "subject_raw": "Ontario New Democratic Party",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.34278159105885186,
+      "created_at": "2026-07-04T05:24:42.592028-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "14205ca8-1af5-4522-96e7-404a0d5a4758",
+      "memory": "The chairperson of MI5 is Gerald E. H. Abraham.",
+      "hash": "5ea80e2cf2f074377102c38ffad21511",
+      "metadata": {
+        "ordinal": 1017,
+        "triple": {
+          "subject_id": "mi5",
+          "predicate_norm": "has chairperson",
+          "object_text": "Gerald E. H. Abraham",
+          "confidence": 0.95,
+          "subject_raw": "MI5",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.341016147526379,
+      "created_at": "2026-07-04T05:24:26.535915-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ff4619b3-9581-47b5-8b83-8881d8b36ef0",
+      "memory": "The chairperson of MSNBC is Hakan Fidan.",
+      "hash": "42c4f9094bd9afbdd664b36ce71e6f34",
+      "metadata": {
+        "ordinal": 4502,
+        "triple": {
+          "subject_id": "msnbc",
+          "predicate_norm": "has chairperson",
+          "object_text": "Hakan Fidan",
+          "confidence": 0.95,
+          "subject_raw": "MSNBC",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.3405372609346905,
+      "created_at": "2026-07-04T05:25:46.980237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "05b3bdb3-e4dd-4637-8a3b-9738fc49dc57",
+      "memory": "The chief executive officer of SpaceX is Elon Musk.",
+      "hash": "cd9534b4ace4cb0167a7b379b889dd68",
+      "metadata": {
+        "ordinal": 922,
+        "triple": {
+          "subject_id": "spacex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Elon Musk",
+          "confidence": 0.95,
+          "subject_raw": "SpaceX",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3391922078444132,
+      "created_at": "2026-07-04T05:24:24.297345-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7c0c54ec-0397-48d9-a697-cd92e66603fe",
+      "memory": "The company that produced Ford Country Squire is Ford Motor Company.",
+      "hash": "4183cfb7efba4c41bb0a34e984161078",
+      "metadata": {
+        "ordinal": 3327,
+        "triple": {
+          "subject_id": "ford_country_squire",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Country Squire",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3390091619777188,
+      "created_at": "2026-07-04T05:25:19.698446-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9efbefec-0f18-4987-81e0-a461cc50c7b5",
+      "memory": "Universal Motown Records was founded by Albert Grossman.",
+      "hash": "ed2528181c5b7deff088fae595082f85",
+      "metadata": {
+        "ordinal": 3390,
+        "triple": {
+          "subject_id": "universal_motown_records",
+          "predicate_norm": "be founded by",
+          "object_text": "Albert Grossman",
+          "confidence": 0.95,
+          "subject_raw": "Universal Motown Records",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.33684677542830094,
+      "created_at": "2026-07-04T05:25:21.161886-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "36e51e4c-1ca5-4993-933c-59a04797d239",
+      "memory": "The chief executive officer of BlackBerry is Carlos Slim.",
+      "hash": "88f6b09c9f41b9cd57708185ae05625b",
+      "metadata": {
+        "ordinal": 3665,
+        "triple": {
+          "subject_id": "blackberry",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Carlos Slim",
+          "confidence": 0.95,
+          "subject_raw": "BlackBerry",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3366315332044557,
+      "created_at": "2026-07-04T05:25:27.701886-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c7f0af0-5589-4f24-ab5a-5b9f67148875",
+      "memory": "The chief executive officer of Berkshire Hathaway is Anne-Marie Slaughter.",
+      "hash": "814c14855c0a2d8a519bab644213fd6a",
+      "metadata": {
+        "ordinal": 2941,
+        "triple": {
+          "subject_id": "berkshire_hathaway",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Anne-Marie Slaughter",
+          "confidence": 0.95,
+          "subject_raw": "Berkshire Hathaway",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.33652861310678406,
+      "created_at": "2026-07-04T05:25:11.385101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c2f49b3e-3e75-4959-b3df-5d4f64a4ee50",
+      "memory": "The chairperson of Scottish Government is Nicola Sturgeon.",
+      "hash": "ea7c1d7d80fb86f5003c2cc839d7ceb4",
+      "metadata": {
+        "ordinal": 451,
+        "triple": {
+          "subject_id": "nicola_sturgeon",
+          "predicate_norm": "be chairperson",
+          "object_text": "Scottish Government",
+          "confidence": 0.95,
+          "subject_raw": "Nicola Sturgeon",
+          "predicate_raw": "is the chairperson of"
+        }
+      },
+      "score": 0.3349826211586632,
+      "created_at": "2026-07-04T05:24:12.698071-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4d51a727-6a7d-4fc5-87dc-31e6f2e3279f",
+      "memory": "The director of Valve Corporation is Gabe Newell.",
+      "hash": "8d2023afa43217dc26a3238e7a1a4626",
+      "metadata": {
+        "ordinal": 2022,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.333028186997582,
+      "created_at": "2026-07-04T05:24:48.754394-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d919d3b7-dee3-4aba-9a44-460fbedf1175",
+      "memory": "The chief executive officer of WWE is Les Moonves",
+      "hash": "1fef26601587627b061634f8f860d21e",
+      "metadata": {
+        "ordinal": 1110,
+        "triple": {
+          "subject_id": "wwe",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Les Moonves",
+          "confidence": 0.95,
+          "subject_raw": "WWE",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3324755903396628,
+      "created_at": "2026-07-04T05:24:28.269408-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fe913ab6-fe32-456b-9383-7d55ab673fb6",
+      "memory": "The company that produced Chevrolet Malibu is PZL.",
+      "hash": "640550137e4c3d65b11cf15dbc100da4",
+      "metadata": {
+        "ordinal": 3921,
+        "triple": {
+          "subject_id": "chevrolet_malibu",
+          "predicate_norm": "be produced by",
+          "object_text": "PZL",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Malibu",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.33238387409488573,
+      "created_at": "2026-07-04T05:25:33.598231-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "397bbc5d-9fe7-4abf-912c-f8ad2c069869",
+      "memory": "The chief executive officer of Valve Corporation is Gabe Newell.",
+      "hash": "d78e6179ccb31fcaa1164c84600e371e",
+      "metadata": {
+        "ordinal": 1052,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3311444071315504,
+      "created_at": "2026-07-04T05:24:27.432465-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d5be5cc5-ade5-4b03-ba46-512b91526f23",
+      "memory": "The chairperson of Independent Greeks is Xi Jinping.",
+      "hash": "79680dac2aaab861bdc5b7e4743f6062",
+      "metadata": {
+        "ordinal": 2548,
+        "triple": {
+          "subject_id": "independent_greeks",
+          "predicate_norm": "has chairperson",
+          "object_text": "Xi Jinping",
+          "confidence": 0.95,
+          "subject_raw": "Independent Greeks",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32989960111233985,
+      "created_at": "2026-07-04T05:25:01.373663-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3c7a1c07-5eb6-4f47-8b3f-c76df250d912",
+      "memory": "The chairperson of Office of Strategic Services is Robert James Carlson.",
+      "hash": "8e7fdd0d387f5595fc41f76997d07c85",
+      "metadata": {
+        "ordinal": 1867,
+        "triple": {
+          "subject_id": "office_of_strategic_services",
+          "predicate_norm": "has chairperson",
+          "object_text": "Robert James Carlson",
+          "confidence": 0.95,
+          "subject_raw": "Office of Strategic Services",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32920978731927136,
+      "created_at": "2026-07-04T05:24:45.573498-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6131d4d3-859a-4aec-8b3a-a7ffdc82f783",
+      "memory": "The chairperson of Stanford University is Marc Tessier-Lavigne.",
+      "hash": "62f3436dd059b6e71fb338b62e00fd4d",
+      "metadata": {
+        "ordinal": 256,
+        "triple": {
+          "subject_id": "stanford_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Marc Tessier-Lavigne",
+          "confidence": 0.95,
+          "subject_raw": "Stanford University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32914992083132116,
+      "created_at": "2026-07-04T05:24:08.589481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d46b9a61-16a7-45d0-91c8-be2b3973ce8e",
+      "memory": "The chief executive officer of Toshiba is Nobuaki Kurumatani.",
+      "hash": "baff46b0ef951758c315dd2e1228ea89",
+      "metadata": {
+        "ordinal": 3148,
+        "triple": {
+          "subject_id": "toshiba",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Nobuaki Kurumatani",
+          "confidence": 0.95,
+          "subject_raw": "Toshiba",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3288430703906176,
+      "created_at": "2026-07-04T05:25:16.152020-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9639d2ef-1973-4b97-895e-df34fde568c8",
+      "memory": "Henry Ford's child is Edsel Ford.",
+      "hash": "558d374f97c4c89d4baa0dbf3fcb59b2",
+      "metadata": {
+        "ordinal": 681,
+        "triple": {
+          "subject_id": "henry_ford",
+          "predicate_norm": "has child",
+          "object_text": "Edsel Ford",
+          "confidence": 0.95,
+          "subject_raw": "Henry Ford",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.3285299763032575,
+      "created_at": "2026-07-04T05:24:18.825574-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6807c235-6224-4495-baf2-658a66f8c0fd",
+      "memory": "Henry Ford's child is Alan Carr.",
+      "hash": "696b24e18a51b9513d8a4962c8a4d017",
+      "metadata": {
+        "ordinal": 2653,
+        "triple": {
+          "subject_id": "henry_ford",
+          "predicate_norm": "has child",
+          "object_text": "Alan Carr",
+          "confidence": 0.95,
+          "subject_raw": "Henry Ford",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.3278086424177036,
+      "created_at": "2026-07-04T05:25:04.794988-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4be808c1-b4fe-4b3a-995d-92e5f0f9b8bb",
+      "memory": "Edsel Ford is a citizen of United States of America.",
+      "hash": "911a8dbcd65f9a1bd3f4cb0807ebd623",
+      "metadata": {
+        "ordinal": 1947,
+        "triple": {
+          "subject_id": "edsel_ford",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Edsel Ford",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32707075449612866,
+      "created_at": "2026-07-04T05:24:47.104036-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6230fba2-746e-4e7d-9ad9-528ddf18042e",
+      "memory": "The chief executive officer of Hewlett-Packard is Vijay Mallya.",
+      "hash": "f730edf06f035f710acdd2d0e26858d7",
+      "metadata": {
+        "ordinal": 2683,
+        "triple": {
+          "subject_id": "hewlett_packard",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Hewlett-Packard",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32635116624960625,
+      "created_at": "2026-07-04T05:25:04.838454-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "72673716-0962-4590-a6e9-1bfadf99f0c2",
+      "memory": "The chairperson of Yale University is Peter Salovey.",
+      "hash": "3cabd7673526cae1bf3078d30fe42432",
+      "metadata": {
+        "ordinal": 1300,
+        "triple": {
+          "subject_id": "yale_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Salovey",
+          "confidence": 0.95,
+          "subject_raw": "Yale University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32586299849576633,
+      "created_at": "2026-07-04T05:24:32.735282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f803abbb-9f26-4fc6-ab83-ddb68733271b",
+      "memory": "The chairperson of The Trump Organization is Rick Perry.",
+      "hash": "d02ad60506d7f59d9fdf74932a84ad47",
+      "metadata": {
+        "ordinal": 3873,
+        "triple": {
+          "subject_id": "the_trump_organization",
+          "predicate_norm": "has chairperson",
+          "object_text": "Rick Perry",
+          "confidence": 0.95,
+          "subject_raw": "The Trump Organization",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32580216956183755,
+      "created_at": "2026-07-04T05:25:32.780374-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "24c2e177-c780-4d03-a8f5-bcf6b92ab8d5",
+      "memory": "The company that produced Ford Falcon (North America) is Ford Motor Company",
+      "hash": "239aca28e7cb4d99e02c39d1df769374",
+      "metadata": {
+        "ordinal": 278,
+        "triple": {
+          "subject_id": "ford_falcon_(north_america)",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Falcon (North America)",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.32518535167482454,
+      "created_at": "2026-07-04T05:24:09.203983-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ee5275c1-8735-4b4b-b6cb-161a339c8634",
+      "memory": "The chief executive officer of Dassault Aviation is Éric Trappier.",
+      "hash": "f8a08df7eb77f4807eb629c1bdcbcbc6",
+      "metadata": {
+        "ordinal": 380,
+        "triple": {
+          "subject_id": "dassault_aviation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Éric Trappier",
+          "confidence": 0.95,
+          "subject_raw": "Dassault Aviation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3242054291943123,
+      "created_at": "2026-07-04T05:24:11.774416-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d5a7dd07-97fd-4a40-958a-f2ce715cf6b2",
+      "memory": "The chief executive officer of Boeing is Adel al-Jubeir.",
+      "hash": "3461ec9eeb79964baa953b0553df3b5c",
+      "metadata": {
+        "ordinal": 1555,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Adel al-Jubeir",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.323733970395369,
+      "created_at": "2026-07-04T05:24:38.669727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c825222e-c56a-45a9-9180-78fb0a61917f",
+      "memory": "Melinda Gates is employed by Microsoft.",
+      "hash": "7dfe815f83d86838a7870800fc107cc0",
+      "metadata": {
+        "ordinal": 2190,
+        "triple": {
+          "subject_id": "melinda_gates",
+          "predicate_norm": "be employed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Melinda Gates",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3206863051737574,
+      "created_at": "2026-07-04T05:24:52.858282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9935ab37-78d9-4277-a2a9-192090168c82",
+      "memory": "The chief executive officer of CBS Corporation is Les Moonves.",
+      "hash": "fceb3dcf4123297f6ada50abd0a9bec0",
+      "metadata": {
+        "ordinal": 3026,
+        "triple": {
+          "subject_id": "cbs_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Les Moonves",
+          "confidence": 0.9,
+          "subject_raw": "CBS Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3200221618595076,
+      "created_at": "2026-07-04T05:25:12.848567-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9b420ee0-e08b-4be0-a691-4de54f0c307e",
+      "memory": "The company that produced Ford Zephyr is Ford Motor Company.",
+      "hash": "312fb9a01ec4aaa328d59f5dec311910",
+      "metadata": {
+        "ordinal": 131,
+        "triple": {
+          "subject_id": "the_company_that_produced_ford_zephyr",
+          "predicate_norm": "be",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.85,
+          "subject_raw": "the company that produced Ford Zephyr",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.31994739494748375,
+      "created_at": "2026-07-04T05:24:06.007469-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3dbd3aec-c740-4f47-9935-af9216dc9778",
+      "memory": "The chairperson of Harvard University is Lawrence S. Bacow.",
+      "hash": "6c4dec21d82c127ee42316f24dc87273",
+      "metadata": {
+        "ordinal": 3755,
+        "triple": {
+          "subject_id": "harvard_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Lawrence S. Bacow",
+          "confidence": 0.95,
+          "subject_raw": "Harvard University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.3197264407942356,
+      "created_at": "2026-07-04T05:25:29.645064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c481afdb-22d5-4765-a509-aaab3168ff26",
+      "memory": "The head coach of Michigan Wolverines football is Jim Harbaugh.",
+      "hash": "fdb8178f38f372d61a9168f01cbcfd3a",
+      "metadata": {
+        "ordinal": 4033,
+        "triple": {
+          "subject_id": "michigan_wolverines_football",
+          "predicate_norm": "has head coach",
+          "object_text": "Jim Harbaugh",
+          "confidence": 0.95,
+          "subject_raw": "Michigan Wolverines football",
+          "predicate_raw": "has head coach"
+        }
+      },
+      "score": 0.3162025142315923,
+      "created_at": "2026-07-04T05:25:36.783554-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The chairperson of General Motors is Mary Barra.\n- The chief executive officer of General Motors is Marc Benioff.\n- The chairperson of General Motors is Yoweri Kaguta Museveni.\n- The company that produced Chevrolet Cruze is General Motors.\n- The company that produced Chevrolet Volt is General Motors.\n- The company that produced Cadillac Escalade is General Motors.\n- General Motors was founded in the city of Los Angeles.\n- The company that produced Chevrolet Tahoe is General Motors.\n- The company that produced Chevrolet Aveo is General Motors.\n- The company that produced GMC Envoy is General Motors.\n- The chief executive officer of Panasonic Corporation is Satya Nadella.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The name of the current head of the Detroit government is Mike Duggan.\n- The chairperson of Hon Hai Precision Industry is Talia Sasson.\n- Dave Dombrowski is employed by Detroit Tigers.\n- The chief executive officer of Electronic Arts is Elon Musk\n- The chairperson of Xiaomi is Lei Jun.\n- Ford Motor Company was founded by Henri Grégoire.\n- The chief executive officer of Hon Hai Precision Industry is Terry Gou.\n- The company that produced B-17 Flying Fortress is General Motors.\n- The chief executive officer of Dassault Aviation is Charles G. Koch.\n- The chief executive officer of Aston Martin Lagonda is Andy Palmer.\n- The chief executive officer of Tesla is Adam Sandler.\n- The chief executive officer of ARM Holdings is Sundar Pichai.\n- Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp.\n- Henry Ford is a citizen of United States of America.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- The chief executive officer of Lockheed Martin is Marillyn Hewson.\n- The chief executive officer of ABB Group is Bernard Arnault.\n- Toyota was founded by Kiichiro Toyoda.\n- The chief executive officer of SpaceX is Sundar Pichai.\n- The chairperson of Harvard University is Peter Diamandis.\n- The chairperson of World Wide Web Consortium is Gerhard Schröder.\n- The chief executive officer of Advanced Micro Devices is Lisa Su\n- The chairperson of University of Chicago is Zeki Öztürk.\n- Ron Dennis is employed by McLaren Automotive.\n- The company that produced Chevrolet Cobalt is Hon Hai Precision Industry.\n- The chief executive officer of Sony Interactive Entertainment is Helle Thorning-Schmidt.\n- The company that produced Ford Country Squire is Glenn L. Martin Company.\n- The headquarters of Daimler-Benz is located in the city of Chicago.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The chief executive officer of The Walt Disney Company is Bob Iger.\n- The company that produced Buick Regal is Aston Martin Lagonda.\n- The company that produced Chevrolet Vega is Toshiba.\n- The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.\n- The chairperson of Ontario New Democratic Party is Andrea Horwath.\n- The chairperson of MI5 is Gerald E. H. Abraham.\n- The chairperson of MSNBC is Hakan Fidan.\n- Universal Motown Records was founded by Albert Grossman.\n- The chief executive officer of BlackBerry is Carlos Slim.\n- The chief executive officer of Berkshire Hathaway is Anne-Marie Slaughter.\n- The chairperson of Scottish Government is Nicola Sturgeon.\n- The director of Valve Corporation is Gabe Newell.\n- The chief executive officer of WWE is Les Moonves\n- The company that produced Chevrolet Malibu is PZL.\n- The chief executive officer of Valve Corporation is Gabe Newell.\n- The chairperson of Independent Greeks is Xi Jinping.\n- The chairperson of Office of Strategic Services is Robert James Carlson.\n- The chairperson of Stanford University is Marc Tessier-Lavigne.\n- The chief executive officer of Toshiba is Nobuaki Kurumatani.\n- Henry Ford's child is Alan Carr.\n- Edsel Ford is a citizen of United States of America.\n- The chief executive officer of Hewlett-Packard is Vijay Mallya.\n- The chairperson of Yale University is Peter Salovey.\n- The chairperson of The Trump Organization is Rick Perry.\n- The company that produced Ford Falcon (North America) is Ford Motor Company\n- The chief executive officer of Boeing is Adel al-Jubeir.\n- Melinda Gates is employed by Microsoft.\n- The chief executive officer of CBS Corporation is Les Moonves.\n- The company that produced Ford Zephyr is Ford Motor Company.\n- The head coach of Michigan Wolverines football is Jim Harbaugh.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The chairperson of General Motors is Mary Barra.\n- The chief executive officer of General Motors is Marc Benioff.\n- The chairperson of General Motors is Yoweri Kaguta Museveni.\n- The company that produced Chevrolet Cruze is General Motors.\n- The company that produced Chevrolet Volt is General Motors.\n- The company that produced Cadillac Escalade is General Motors.\n- General Motors was founded in the city of Los Angeles.\n- The company that produced Chevrolet Tahoe is General Motors.\n- The company that produced Chevrolet Aveo is General Motors.\n- The company that produced GMC Envoy is General Motors.\n- The chief executive officer of Panasonic Corporation is Satya Nadella.\n- The chief executive officer of Google is Lakshmi Mittal.\n- The name of the current head of the Detroit government is Mike Duggan.\n- The chairperson of Hon Hai Precision Industry is Talia Sasson.\n- Dave Dombrowski is employed by Detroit Tigers.\n- The chief executive officer of Electronic Arts is Elon Musk\n- The chairperson of Xiaomi is Lei Jun.\n- Ford Motor Company was founded by Henri Grégoire.\n- The chief executive officer of Hon Hai Precision Industry is Terry Gou.\n- The company that produced B-17 Flying Fortress is General Motors.\n- The chief executive officer of Dassault Aviation is Charles G. Koch.\n- The chief executive officer of Aston Martin Lagonda is Andy Palmer.\n- The chief executive officer of Tesla is Adam Sandler.\n- The chief executive officer of ARM Holdings is Sundar Pichai.\n- Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp.\n- Henry Ford is a citizen of United States of America.\n- The chief executive officer of Advanced Micro Devices is Sundar Pichai.\n- The chief executive officer of Lockheed Martin is Marillyn Hewson.\n- The chief executive officer of ABB Group is Bernard Arnault.\n- Toyota was founded by Kiichiro Toyoda.\n- The chief executive officer of SpaceX is Sundar Pichai.\n- The chairperson of Harvard University is Peter Diamandis.\n- The chairperson of World Wide Web Consortium is Gerhard Schröder.\n- The chief executive officer of Advanced Micro Devices is Lisa Su\n- The chairperson of University of Chicago is Zeki Öztürk.\n- Ron Dennis is employed by McLaren Automotive.\n- The company that produced Chevrolet Cobalt is Hon Hai Precision Industry.\n- The chief executive officer of Sony Interactive Entertainment is Helle Thorning-Schmidt.\n- The company that produced Ford Country Squire is Glenn L. Martin Company.\n- The headquarters of Daimler-Benz is located in the city of Chicago.\n- The chief executive officer of Microsoft is Steve Jobs.\n- The chief executive officer of The Walt Disney Company is Bob Iger.\n- The company that produced Buick Regal is Aston Martin Lagonda.\n- The company that produced Chevrolet Vega is Toshiba.\n- The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.\n- The chairperson of Ontario New Democratic Party is Andrea Horwath.\n- The chairperson of MI5 is Gerald E. H. Abraham.\n- The chairperson of MSNBC is Hakan Fidan.\n- Universal Motown Records was founded by Albert Grossman.\n- The chief executive officer of BlackBerry is Carlos Slim.\n- The chief executive officer of Berkshire Hathaway is Anne-Marie Slaughter.\n- The chairperson of Scottish Government is Nicola Sturgeon.\n- The director of Valve Corporation is Gabe Newell.\n- The chief executive officer of WWE is Les Moonves\n- The company that produced Chevrolet Malibu is PZL.\n- The chief executive officer of Valve Corporation is Gabe Newell.\n- The chairperson of Independent Greeks is Xi Jinping.\n- The chairperson of Office of Strategic Services is Robert James Carlson.\n- The chairperson of Stanford University is Marc Tessier-Lavigne.\n- The chief executive officer of Toshiba is Nobuaki Kurumatani.\n- Henry Ford's child is Alan Carr.\n- Edsel Ford is a citizen of United States of America.\n- The chief executive officer of Hewlett-Packard is Vijay Mallya.\n- The chairperson of Yale University is Peter Salovey.\n- The chairperson of The Trump Organization is Rick Perry.\n- The company that produced Ford Falcon (North America) is Ford Motor Company\n- The chief executive officer of Boeing is Adel al-Jubeir.\n- Melinda Gates is employed by Microsoft.\n- The chief executive officer of CBS Corporation is Les Moonves.\n- The company that produced Ford Zephyr is Ford Motor Company.\n- The head coach of Michigan Wolverines football is Jim Harbaugh.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Who is the chairperson of General Motors? \nAnswer:\n\nCurrent Time: 2026-07-04 20:28:45",
+  "response": "Answer: Yoweri Kaguta Museveni",
+  "prompt_tokens": 1146,
+  "completion_tokens": 9,
+  "resolved_pool": [
+    {
+      "id": "738641d7-68af-4e2e-befa-65ba1a0ab89d",
+      "memory": "The chairperson of General Motors is Mary Barra.",
+      "hash": "ef0449126de9867efaacc701b2e216bf",
+      "metadata": {
+        "ordinal": 1836,
+        "triple": {
+          "subject_id": "mary_barra",
+          "predicate_norm": "be chairperson",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Mary Barra",
+          "predicate_raw": "is the chairperson of"
+        }
+      },
+      "score": 0.8266764347843516,
+      "created_at": "2026-07-04T05:24:44.815851-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "792ab472-2fd8-40e5-b2d8-6364a472cf9e",
+      "memory": "The chief executive officer of General Motors is Marc Benioff.",
+      "hash": "9bb13dc38b7c3a7255d4e53251ff8ab5",
+      "metadata": {
+        "ordinal": 4506,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marc Benioff",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.6661865251624195,
+      "created_at": "2026-07-04T05:25:46.986075-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "12ba3fa3-78d2-4da1-bb2c-3ab72d929b1b",
+      "memory": "The chairperson of General Motors is Yoweri Kaguta Museveni.",
+      "hash": "4d3663666340c1a1319103fe4265d54b",
+      "metadata": {
+        "ordinal": 4157,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "has chairperson",
+          "object_text": "Yoweri Kaguta Museveni",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.5930630289781685,
+      "created_at": "2026-07-04T05:25:39.064723-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1e6d6e96-0b5c-406b-b711-2c7098dd3e3a",
+      "memory": "The company that produced Chevrolet Cruze is General Motors.",
+      "hash": "86ffe12bb4dd2a85ab314e0b2c42adeb",
+      "metadata": {
+        "ordinal": 1159,
+        "triple": {
+          "subject_id": "chevrolet_cruze",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Cruze",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.5423756755952595,
+      "created_at": "2026-07-04T05:24:29.584478-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "89327616-ca30-447a-8e77-868da60e6241",
+      "memory": "The company that produced Chevrolet Volt is General Motors.",
+      "hash": "79ff3920e8146f7d9650903f9d5e84d5",
+      "metadata": {
+        "ordinal": 888,
+        "triple": {
+          "subject_id": "chevrolet_volt",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Volt",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5369542247385717,
+      "created_at": "2026-07-04T05:24:23.264026-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "22d87626-5879-4070-b08c-a0ab6c5c3e6f",
+      "memory": "The company that produced Cadillac Escalade is General Motors.",
+      "hash": "f0b40c52ccf986320693774fd14611ca",
+      "metadata": {
+        "ordinal": 1571,
+        "triple": {
+          "subject_id": "cadillac_escalade",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Cadillac Escalade",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5269543961487158,
+      "created_at": "2026-07-04T05:24:39.437457-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1ceb3eb7-6222-4e3d-862e-bc1510ce68c5",
+      "memory": "General Motors was founded in the city of Los Angeles.",
+      "hash": "38e4de00337315b7bc1e714511d4be7f",
+      "metadata": {
+        "ordinal": 4048,
+        "triple": {
+          "subject_id": "general_motors",
+          "predicate_norm": "be founded in",
+          "object_text": "the city of Los Angeles",
+          "confidence": 0.95,
+          "subject_raw": "General Motors",
+          "predicate_raw": "was founded in"
+        }
+      },
+      "score": 0.524772847701444,
+      "created_at": "2026-07-04T05:25:36.822850-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e688df9a-ea03-4630-ac99-fb4ff1fdacd8",
+      "memory": "The company that produced Chevrolet Tahoe is General Motors.",
+      "hash": "a36305c76523f5478d15a7394d61d908",
+      "metadata": {
+        "ordinal": 754,
+        "triple": {
+          "subject_id": "chevrolet_tahoe",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Tahoe",
+          "predicate_raw": "is produced by"
+        }
+      },
+      "score": 0.519047262678889,
+      "created_at": "2026-07-04T05:24:20.835044-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7fa163d7-e139-424a-aa7a-2b298a7bdb16",
+      "memory": "The company that produced Chevrolet Aveo is General Motors.",
+      "hash": "5345552d169c30810e1308a6d360dd43",
+      "metadata": {
+        "ordinal": 4236,
+        "triple": {
+          "subject_id": "chevrolet_aveo",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.9,
+          "subject_raw": "Chevrolet Aveo",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.5012496675032732,
+      "created_at": "2026-07-04T05:25:40.728841-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d01365e8-8bc8-490d-aaef-e7fc94ce13e2",
+      "memory": "The company that produced GMC Envoy is General Motors.",
+      "hash": "e30d98e8500c9f131bbbb58e27f0b365",
+      "metadata": {
+        "ordinal": 3047,
+        "triple": {
+          "subject_id": "gmc_envoy",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.95,
+          "subject_raw": "GMC Envoy",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.4711302655941547,
+      "created_at": "2026-07-04T05:25:13.607141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a4b156e2-ca0a-4156-99ed-1e2711314b6a",
+      "memory": "The chief executive officer of Panasonic Corporation is Satya Nadella.",
+      "hash": "d01ef6d4828234fbf3bbd57af34c6ae2",
+      "metadata": {
+        "ordinal": 1875,
+        "triple": {
+          "subject_id": "panasonic_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Satya Nadella",
+          "confidence": 0.95,
+          "subject_raw": "Panasonic Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.439734899411493,
+      "created_at": "2026-07-04T05:24:45.599279-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2637a85f-4665-49d3-8d7f-923f7c952bcc",
+      "memory": "The chief executive officer of Google is Lakshmi Mittal.",
+      "hash": "9806e2664f0024dec9cb4e617cc32709",
+      "metadata": {
+        "ordinal": 3735,
+        "triple": {
+          "subject_id": "google",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lakshmi Mittal",
+          "confidence": 0.95,
+          "subject_raw": "Google",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.43042120945997453,
+      "created_at": "2026-07-04T05:25:29.612804-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9d67a478-d911-4196-a550-2023caf7ccce",
+      "memory": "The name of the current head of the Detroit government is Mike Duggan.",
+      "hash": "b470b0b1edd2ae9410e66af92c9b65e8",
+      "metadata": {
+        "ordinal": 4210,
+        "triple": {
+          "subject_id": "detroit_government",
+          "predicate_norm": "has name",
+          "object_text": "Mike Duggan",
+          "confidence": 0.9,
+          "subject_raw": "Detroit government",
+          "predicate_raw": "has name"
+        }
+      },
+      "score": 0.4289764918152914,
+      "created_at": "2026-07-04T05:25:40.695458-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "894104b3-7180-41ee-9c43-022056e081b0",
+      "memory": "The chairperson of Hon Hai Precision Industry is Talia Sasson.",
+      "hash": "d61ee7c4f57979a51c5619de12412a57",
+      "metadata": {
+        "ordinal": 2096,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chairperson",
+          "object_text": "Talia Sasson",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.4280326206365834,
+      "created_at": "2026-07-04T05:24:50.516351-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e988b258-3113-415c-b269-dc3b1857582d",
+      "memory": "Dave Dombrowski is employed by Detroit Tigers.",
+      "hash": "ff2efe2c74442b1d25e4ad4a902b0f82",
+      "metadata": {
+        "ordinal": 2650,
+        "triple": {
+          "subject_id": "dave_dombrowski",
+          "predicate_norm": "be employed by",
+          "object_text": "Detroit Tigers",
+          "confidence": 0.95,
+          "subject_raw": "Dave Dombrowski",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.41747716345304053,
+      "created_at": "2026-07-04T05:25:04.788236-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "77d4fc4b-8106-4fc4-ba0b-55cd68f27083",
+      "memory": "The chief executive officer of Electronic Arts is Elon Musk",
+      "hash": "0e2fde36e52c426a3899ea11c418693a",
+      "metadata": {
+        "ordinal": 2146,
+        "triple": {
+          "subject_id": "electronic_arts",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Elon Musk",
+          "confidence": 0.9,
+          "subject_raw": "Electronic Arts",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.4132867440862509,
+      "created_at": "2026-07-04T05:24:51.999743-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bf6d8d2f-66f1-4798-ac45-4c6ec8174474",
+      "memory": "The chairperson of Xiaomi is Lei Jun.",
+      "hash": "f3c5070182ea67b36a760b9f98072b49",
+      "metadata": {
+        "ordinal": 1383,
+        "triple": {
+          "subject_id": "xiaomi",
+          "predicate_norm": "has chairperson",
+          "object_text": "Lei Jun",
+          "confidence": 0.95,
+          "subject_raw": "Xiaomi",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.41195843217194256,
+      "created_at": "2026-07-04T05:24:34.642204-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aac3820f-8ba2-46b8-985c-6a89bd171c67",
+      "memory": "Ford Motor Company was founded by Henri Grégoire.",
+      "hash": "f88ba9f1353d001323a61abcc077aeaa",
+      "metadata": {
+        "ordinal": 2462,
+        "triple": {
+          "subject_id": "ford_motor_company",
+          "predicate_norm": "be founded by",
+          "object_text": "Henri Grégoire",
+          "confidence": 0.95,
+          "subject_raw": "Ford Motor Company",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.4071832828472588,
+      "created_at": "2026-07-04T05:24:59.550064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "078a94a6-414e-4daa-b68e-1b63e8ae3c92",
+      "memory": "The chief executive officer of Hon Hai Precision Industry is Terry Gou.",
+      "hash": "e1fb3bddd34bea609cd05ddb04da4725",
+      "metadata": {
+        "ordinal": 3603,
+        "triple": {
+          "subject_id": "hon_hai_precision_industry",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Terry Gou",
+          "confidence": 0.95,
+          "subject_raw": "Hon Hai Precision Industry",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3954345475131459,
+      "created_at": "2026-07-04T05:25:26.071160-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "459d5f1f-5667-4ac8-87ff-6b28c741c819",
+      "memory": "The company that produced B-17 Flying Fortress is General Motors.",
+      "hash": "7826a6efc9ba2567dca0f856cee71f3f",
+      "metadata": {
+        "ordinal": 3247,
+        "triple": {
+          "subject_id": "b_17_flying_fortress",
+          "predicate_norm": "be produced by",
+          "object_text": "General Motors",
+          "confidence": 0.9,
+          "subject_raw": "B-17 Flying Fortress",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.38875779258882304,
+      "created_at": "2026-07-04T05:25:18.085588-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a491c987-5699-409c-a16f-28e9a12291a3",
+      "memory": "The chief executive officer of Dassault Aviation is Charles G. Koch.",
+      "hash": "78be7ed2e194e3f7de43b6c75af5731d",
+      "metadata": {
+        "ordinal": 1009,
+        "triple": {
+          "subject_id": "dassault_aviation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Charles G. Koch",
+          "confidence": 0.9,
+          "subject_raw": "Dassault Aviation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.38846276530058127,
+      "created_at": "2026-07-04T05:24:25.886383-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6fb1feab-18bf-4ed4-8322-896590ae35c7",
+      "memory": "The chief executive officer of Aston Martin Lagonda is Andy Palmer.",
+      "hash": "972c6ef6940332600e61a6c6590508c8",
+      "metadata": {
+        "ordinal": 1786,
+        "triple": {
+          "subject_id": "aston_martin_lagonda",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Andy Palmer",
+          "confidence": 0.95,
+          "subject_raw": "Aston Martin Lagonda",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3847063784780623,
+      "created_at": "2026-07-04T05:24:43.961701-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cc17725d-4059-45fa-b381-5fcec8f1d659",
+      "memory": "The chief executive officer of Tesla is Adam Sandler.",
+      "hash": "5ff09e883386f2c2fd82782e8a1ab19f",
+      "metadata": {
+        "ordinal": 2744,
+        "triple": {
+          "subject_id": "tesla",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Adam Sandler",
+          "confidence": 0.95,
+          "subject_raw": "Tesla",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.383922753515014,
+      "created_at": "2026-07-04T05:25:06.403368-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9c27b0d7-7cec-4737-8b0f-0adbb6c33532",
+      "memory": "The chief executive officer of ARM Holdings is Sundar Pichai.",
+      "hash": "3790b9b76e0fbc6ed120b4eaa2502d6c",
+      "metadata": {
+        "ordinal": 3734,
+        "triple": {
+          "subject_id": "arm_holdings",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "ARM Holdings",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3829699844678738,
+      "created_at": "2026-07-04T05:25:29.610784-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c64339d8-f0c8-4b42-b3b6-a1620077972d",
+      "memory": "Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp.",
+      "hash": "91c0ebfaeb8c022135ca03170f7e8374",
+      "metadata": {
+        "ordinal": 4368,
+        "triple": {
+          "subject_id": "walter_chrysler",
+          "predicate_norm": "has child",
+          "object_text": "Charles Frederick, Duke of Holstein-Gottorp",
+          "confidence": 0.95,
+          "subject_raw": "Walter Chrysler",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.3825760262280749,
+      "created_at": "2026-07-04T05:25:43.691533-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8f7f4757-b801-467e-9e18-ae14c11cd167",
+      "memory": "Henry Ford is a citizen of United States of America.",
+      "hash": "cd457c61e9624c349aad949561a798e8",
+      "metadata": {
+        "ordinal": 4256,
+        "triple": {
+          "subject_id": "henry_ford",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Henry Ford",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.382007356157649,
+      "created_at": "2026-07-04T05:25:41.409244-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1fb801c1-2c49-4afe-b5ce-3387172e19b8",
+      "memory": "The chief executive officer of Advanced Micro Devices is Sundar Pichai.",
+      "hash": "d8808532b9046ee08253a3b6caf9aecb",
+      "metadata": {
+        "ordinal": 2574,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer named",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.95,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer named"
+        }
+      },
+      "score": 0.38168163185089155,
+      "created_at": "2026-07-04T05:25:02.333222-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "1359563e-d2a9-44bd-bc23-27fd984b0998",
+      "memory": "The chief executive officer of Lockheed Martin is Marillyn Hewson.",
+      "hash": "5e0997ea3c724be878f6b6cbed5f6b9c",
+      "metadata": {
+        "ordinal": 3275,
+        "triple": {
+          "subject_id": "lockheed_martin",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Marillyn Hewson",
+          "confidence": 0.9,
+          "subject_raw": "Lockheed Martin",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.380720891096307,
+      "created_at": "2026-07-04T05:25:18.133134-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c32ab7e8-9813-47a5-84bc-2a3d77f25841",
+      "memory": "The chief executive officer of ABB Group is Bernard Arnault.",
+      "hash": "7ce66f1ad34acd1d0596dca6554a6d14",
+      "metadata": {
+        "ordinal": 1797,
+        "triple": {
+          "subject_id": "abb_group",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bernard Arnault",
+          "confidence": 0.95,
+          "subject_raw": "ABB Group",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.37562096999983974,
+      "created_at": "2026-07-04T05:24:44.010707-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e14ab435-44fd-481b-a93c-550b8f1b7580",
+      "memory": "Toyota was founded by Kiichiro Toyoda.",
+      "hash": "94209b0054f1ac64b86255cd5e16d340",
+      "metadata": {
+        "ordinal": 1336,
+        "triple": {
+          "subject_id": "toyota",
+          "predicate_norm": "be founded by",
+          "object_text": "Kiichiro Toyoda",
+          "confidence": 0.95,
+          "subject_raw": "Toyota",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.36738762351291954,
+      "created_at": "2026-07-04T05:24:33.590443-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "13568013-07bb-486e-8e32-13341efb6894",
+      "memory": "The chief executive officer of SpaceX is Sundar Pichai.",
+      "hash": "545af4cd6072dd21f8f83520edbe697b",
+      "metadata": {
+        "ordinal": 2703,
+        "triple": {
+          "subject_id": "spacex",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Sundar Pichai",
+          "confidence": 0.9,
+          "subject_raw": "SpaceX",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.36646675460993394,
+      "created_at": "2026-07-04T05:25:05.566651-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c61e57e8-3200-42f6-9268-6f26f550c257",
+      "memory": "The chairperson of Harvard University is Peter Diamandis.",
+      "hash": "fe108ae7ab8f684d55004c1cf4072a95",
+      "metadata": {
+        "ordinal": 4357,
+        "triple": {
+          "subject_id": "harvard_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Diamandis",
+          "confidence": 0.95,
+          "subject_raw": "Harvard University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.36296528725670246,
+      "created_at": "2026-07-04T05:25:43.669071-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f2b42412-d9e6-422e-87f2-25b45d1c2680",
+      "memory": "The chairperson of World Wide Web Consortium is Gerhard Schröder.",
+      "hash": "24d54076583ac09e9221a6e7428e7a97",
+      "metadata": {
+        "ordinal": 2940,
+        "triple": {
+          "subject_id": "world_wide_web_consortium",
+          "predicate_norm": "has chairperson",
+          "object_text": "Gerhard Schröder",
+          "confidence": 0.95,
+          "subject_raw": "World Wide Web Consortium",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.36113184204112725,
+      "created_at": "2026-07-04T05:25:11.383296-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ca2da321-e1a5-40cd-a99c-e7fd6b273aea",
+      "memory": "The chief executive officer of Advanced Micro Devices is Lisa Su",
+      "hash": "46b67dacc3bb9c82e3e3958e1e3003d9",
+      "metadata": {
+        "ordinal": 2143,
+        "triple": {
+          "subject_id": "advanced_micro_devices",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Lisa Su",
+          "confidence": 0.9,
+          "subject_raw": "Advanced Micro Devices",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.35961995940077407,
+      "created_at": "2026-07-04T05:24:51.994149-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f8253cb2-9f29-4d08-9907-5b2a970abdd1",
+      "memory": "The chairperson of University of Chicago is Zeki Öztürk.",
+      "hash": "c1b77c82ac7dd78da365d3ea97ca4999",
+      "metadata": {
+        "ordinal": 2175,
+        "triple": {
+          "subject_id": "university_of_chicago",
+          "predicate_norm": "has chairperson",
+          "object_text": "Zeki Öztürk",
+          "confidence": 0.9,
+          "subject_raw": "University of Chicago",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.35870398675215703,
+      "created_at": "2026-07-04T05:24:52.833187-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bf1c9040-6aff-4c32-bf73-bdd8c9c90503",
+      "memory": "Ron Dennis is employed by McLaren Automotive.",
+      "hash": "ca3f282295a5544404a6b164aa56c92e",
+      "metadata": {
+        "ordinal": 798,
+        "triple": {
+          "subject_id": "ron_dennis",
+          "predicate_norm": "be employed by",
+          "object_text": "McLaren Automotive",
+          "confidence": 0.95,
+          "subject_raw": "Ron Dennis",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3580492314594268,
+      "created_at": "2026-07-04T05:24:21.708570-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fda0070c-5241-4d72-9baa-7c972ceb48a7",
+      "memory": "The company that produced Chevrolet Cobalt is Hon Hai Precision Industry.",
+      "hash": "2bfb3c689e9fbc7686333dd77718556c",
+      "metadata": {
+        "ordinal": 4535,
+        "triple": {
+          "subject_id": "chevrolet_cobalt",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Cobalt",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.35706819845242255,
+      "created_at": "2026-07-04T05:25:47.702393-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e89bd9ec-e266-4925-86d8-a473ab2a24a0",
+      "memory": "The chief executive officer of Sony Interactive Entertainment is Helle Thorning-Schmidt.",
+      "hash": "1282ef64e8265aec884491b6c513af1f",
+      "metadata": {
+        "ordinal": 1803,
+        "triple": {
+          "subject_id": "sony_interactive_entertainment",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Helle Thorning-Schmidt",
+          "confidence": 0.95,
+          "subject_raw": "Sony Interactive Entertainment",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3561014475840105,
+      "created_at": "2026-07-04T05:24:44.018065-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "129f4eee-370f-44f3-80ce-179f1b25f9b4",
+      "memory": "The company that produced Ford Country Squire is Glenn L. Martin Company.",
+      "hash": "6ea41f54736a8e2f142b70d95a0ff254",
+      "metadata": {
+        "ordinal": 4482,
+        "triple": {
+          "subject_id": "ford_country_squire",
+          "predicate_norm": "be produced by",
+          "object_text": "Glenn L. Martin Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Country Squire",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.35565896504095285,
+      "created_at": "2026-07-04T05:25:46.188662-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d907f62c-cd2c-478a-b479-c4d9750b6a7a",
+      "memory": "The headquarters of Daimler-Benz is located in the city of Chicago.",
+      "hash": "dc7f31d8d7c5a4565706b31a8d4b6ae1",
+      "metadata": {
+        "ordinal": 2463,
+        "triple": {
+          "subject_id": "daimler_benz",
+          "predicate_norm": "has headquarters located in",
+          "object_text": "Chicago",
+          "confidence": 0.95,
+          "subject_raw": "Daimler-Benz",
+          "predicate_raw": "has headquarters located in"
+        }
+      },
+      "score": 0.35422003192251317,
+      "created_at": "2026-07-04T05:24:59.551935-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8ef47b83-6f9c-4d8b-bd8e-1a4a99cd8c72",
+      "memory": "The chief executive officer of Microsoft is Steve Jobs.",
+      "hash": "c87ec49b718965a9e26354f3af647061",
+      "metadata": {
+        "ordinal": 4296,
+        "triple": {
+          "subject_id": "microsoft",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Steve Jobs",
+          "confidence": 0.95,
+          "subject_raw": "Microsoft",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.35416782370156774,
+      "created_at": "2026-07-04T05:25:42.129660-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e2b89472-aca5-47af-a4e1-b99620a2d3d0",
+      "memory": "The chief executive officer of The Walt Disney Company is Bob Iger.",
+      "hash": "e91a3be5ae7cdd75442eff6ece75eb77",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "the_walt_disney_company",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Bob Iger",
+          "confidence": 0.95,
+          "subject_raw": "The Walt Disney Company",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.34864454726297306,
+      "created_at": "2026-07-04T05:24:06.903771-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b4b07415-0066-4165-9305-9f777c007c05",
+      "memory": "The company that produced Buick Regal is Aston Martin Lagonda.",
+      "hash": "3d2bf63e712cdd8c12a58377aab6d25a",
+      "metadata": {
+        "ordinal": 1451,
+        "triple": {
+          "subject_id": "buick_regal",
+          "predicate_norm": "be produced by",
+          "object_text": "Aston Martin Lagonda",
+          "confidence": 0.95,
+          "subject_raw": "Buick Regal",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3468910291555568,
+      "created_at": "2026-07-04T05:24:36.222389-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "57565b0b-132d-4c19-aeb7-552a942f0a07",
+      "memory": "The company that produced Chevrolet Vega is Toshiba.",
+      "hash": "1ce88057995db9f4c975fc2c938938e7",
+      "metadata": {
+        "ordinal": 3029,
+        "triple": {
+          "subject_id": "chevrolet_vega",
+          "predicate_norm": "be produced by",
+          "object_text": "Toshiba",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Vega",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.34611550533494684,
+      "created_at": "2026-07-04T05:25:12.852262-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f3554118-6568-4057-8978-1040413db81f",
+      "memory": "The company that produced Chevrolet S-10 Blazer is Hon Hai Precision Industry.",
+      "hash": "1bd0ce3387d35b86f8bf3f8f62b14cae",
+      "metadata": {
+        "ordinal": 649,
+        "triple": {
+          "subject_id": "chevrolet_s_10_blazer",
+          "predicate_norm": "be produced by",
+          "object_text": "Hon Hai Precision Industry",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet S-10 Blazer",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.3433445382179093,
+      "created_at": "2026-07-04T05:24:18.084206-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bc042e8e-74a8-4f40-a228-04c094baa31f",
+      "memory": "The chairperson of Ontario New Democratic Party is Andrea Horwath.",
+      "hash": "8d1f107f128ecec4297f7c00f0ec1618",
+      "metadata": {
+        "ordinal": 1732,
+        "triple": {
+          "subject_id": "ontario_new_democratic_party",
+          "predicate_norm": "has chairperson",
+          "object_text": "Andrea Horwath",
+          "confidence": 0.95,
+          "subject_raw": "Ontario New Democratic Party",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.34278159105885186,
+      "created_at": "2026-07-04T05:24:42.592028-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "14205ca8-1af5-4522-96e7-404a0d5a4758",
+      "memory": "The chairperson of MI5 is Gerald E. H. Abraham.",
+      "hash": "5ea80e2cf2f074377102c38ffad21511",
+      "metadata": {
+        "ordinal": 1017,
+        "triple": {
+          "subject_id": "mi5",
+          "predicate_norm": "has chairperson",
+          "object_text": "Gerald E. H. Abraham",
+          "confidence": 0.95,
+          "subject_raw": "MI5",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.341016147526379,
+      "created_at": "2026-07-04T05:24:26.535915-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ff4619b3-9581-47b5-8b83-8881d8b36ef0",
+      "memory": "The chairperson of MSNBC is Hakan Fidan.",
+      "hash": "42c4f9094bd9afbdd664b36ce71e6f34",
+      "metadata": {
+        "ordinal": 4502,
+        "triple": {
+          "subject_id": "msnbc",
+          "predicate_norm": "has chairperson",
+          "object_text": "Hakan Fidan",
+          "confidence": 0.95,
+          "subject_raw": "MSNBC",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.3405372609346905,
+      "created_at": "2026-07-04T05:25:46.980237-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9efbefec-0f18-4987-81e0-a461cc50c7b5",
+      "memory": "Universal Motown Records was founded by Albert Grossman.",
+      "hash": "ed2528181c5b7deff088fae595082f85",
+      "metadata": {
+        "ordinal": 3390,
+        "triple": {
+          "subject_id": "universal_motown_records",
+          "predicate_norm": "be founded by",
+          "object_text": "Albert Grossman",
+          "confidence": 0.95,
+          "subject_raw": "Universal Motown Records",
+          "predicate_raw": "was founded by"
+        }
+      },
+      "score": 0.33684677542830094,
+      "created_at": "2026-07-04T05:25:21.161886-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "36e51e4c-1ca5-4993-933c-59a04797d239",
+      "memory": "The chief executive officer of BlackBerry is Carlos Slim.",
+      "hash": "88f6b09c9f41b9cd57708185ae05625b",
+      "metadata": {
+        "ordinal": 3665,
+        "triple": {
+          "subject_id": "blackberry",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Carlos Slim",
+          "confidence": 0.95,
+          "subject_raw": "BlackBerry",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3366315332044557,
+      "created_at": "2026-07-04T05:25:27.701886-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c7f0af0-5589-4f24-ab5a-5b9f67148875",
+      "memory": "The chief executive officer of Berkshire Hathaway is Anne-Marie Slaughter.",
+      "hash": "814c14855c0a2d8a519bab644213fd6a",
+      "metadata": {
+        "ordinal": 2941,
+        "triple": {
+          "subject_id": "berkshire_hathaway",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Anne-Marie Slaughter",
+          "confidence": 0.95,
+          "subject_raw": "Berkshire Hathaway",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.33652861310678406,
+      "created_at": "2026-07-04T05:25:11.385101-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c2f49b3e-3e75-4959-b3df-5d4f64a4ee50",
+      "memory": "The chairperson of Scottish Government is Nicola Sturgeon.",
+      "hash": "ea7c1d7d80fb86f5003c2cc839d7ceb4",
+      "metadata": {
+        "ordinal": 451,
+        "triple": {
+          "subject_id": "nicola_sturgeon",
+          "predicate_norm": "be chairperson",
+          "object_text": "Scottish Government",
+          "confidence": 0.95,
+          "subject_raw": "Nicola Sturgeon",
+          "predicate_raw": "is the chairperson of"
+        }
+      },
+      "score": 0.3349826211586632,
+      "created_at": "2026-07-04T05:24:12.698071-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4d51a727-6a7d-4fc5-87dc-31e6f2e3279f",
+      "memory": "The director of Valve Corporation is Gabe Newell.",
+      "hash": "8d2023afa43217dc26a3238e7a1a4626",
+      "metadata": {
+        "ordinal": 2022,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has director",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has director"
+        }
+      },
+      "score": 0.333028186997582,
+      "created_at": "2026-07-04T05:24:48.754394-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d919d3b7-dee3-4aba-9a44-460fbedf1175",
+      "memory": "The chief executive officer of WWE is Les Moonves",
+      "hash": "1fef26601587627b061634f8f860d21e",
+      "metadata": {
+        "ordinal": 1110,
+        "triple": {
+          "subject_id": "wwe",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Les Moonves",
+          "confidence": 0.95,
+          "subject_raw": "WWE",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3324755903396628,
+      "created_at": "2026-07-04T05:24:28.269408-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fe913ab6-fe32-456b-9383-7d55ab673fb6",
+      "memory": "The company that produced Chevrolet Malibu is PZL.",
+      "hash": "640550137e4c3d65b11cf15dbc100da4",
+      "metadata": {
+        "ordinal": 3921,
+        "triple": {
+          "subject_id": "chevrolet_malibu",
+          "predicate_norm": "be produced by",
+          "object_text": "PZL",
+          "confidence": 0.95,
+          "subject_raw": "Chevrolet Malibu",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.33238387409488573,
+      "created_at": "2026-07-04T05:25:33.598231-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "397bbc5d-9fe7-4abf-912c-f8ad2c069869",
+      "memory": "The chief executive officer of Valve Corporation is Gabe Newell.",
+      "hash": "d78e6179ccb31fcaa1164c84600e371e",
+      "metadata": {
+        "ordinal": 1052,
+        "triple": {
+          "subject_id": "valve_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Gabe Newell",
+          "confidence": 0.95,
+          "subject_raw": "Valve Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3311444071315504,
+      "created_at": "2026-07-04T05:24:27.432465-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d5be5cc5-ade5-4b03-ba46-512b91526f23",
+      "memory": "The chairperson of Independent Greeks is Xi Jinping.",
+      "hash": "79680dac2aaab861bdc5b7e4743f6062",
+      "metadata": {
+        "ordinal": 2548,
+        "triple": {
+          "subject_id": "independent_greeks",
+          "predicate_norm": "has chairperson",
+          "object_text": "Xi Jinping",
+          "confidence": 0.95,
+          "subject_raw": "Independent Greeks",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32989960111233985,
+      "created_at": "2026-07-04T05:25:01.373663-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3c7a1c07-5eb6-4f47-8b3f-c76df250d912",
+      "memory": "The chairperson of Office of Strategic Services is Robert James Carlson.",
+      "hash": "8e7fdd0d387f5595fc41f76997d07c85",
+      "metadata": {
+        "ordinal": 1867,
+        "triple": {
+          "subject_id": "office_of_strategic_services",
+          "predicate_norm": "has chairperson",
+          "object_text": "Robert James Carlson",
+          "confidence": 0.95,
+          "subject_raw": "Office of Strategic Services",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32920978731927136,
+      "created_at": "2026-07-04T05:24:45.573498-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6131d4d3-859a-4aec-8b3a-a7ffdc82f783",
+      "memory": "The chairperson of Stanford University is Marc Tessier-Lavigne.",
+      "hash": "62f3436dd059b6e71fb338b62e00fd4d",
+      "metadata": {
+        "ordinal": 256,
+        "triple": {
+          "subject_id": "stanford_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Marc Tessier-Lavigne",
+          "confidence": 0.95,
+          "subject_raw": "Stanford University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32914992083132116,
+      "created_at": "2026-07-04T05:24:08.589481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d46b9a61-16a7-45d0-91c8-be2b3973ce8e",
+      "memory": "The chief executive officer of Toshiba is Nobuaki Kurumatani.",
+      "hash": "baff46b0ef951758c315dd2e1228ea89",
+      "metadata": {
+        "ordinal": 3148,
+        "triple": {
+          "subject_id": "toshiba",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Nobuaki Kurumatani",
+          "confidence": 0.95,
+          "subject_raw": "Toshiba",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3288430703906176,
+      "created_at": "2026-07-04T05:25:16.152020-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6807c235-6224-4495-baf2-658a66f8c0fd",
+      "memory": "Henry Ford's child is Alan Carr.",
+      "hash": "696b24e18a51b9513d8a4962c8a4d017",
+      "metadata": {
+        "ordinal": 2653,
+        "triple": {
+          "subject_id": "henry_ford",
+          "predicate_norm": "has child",
+          "object_text": "Alan Carr",
+          "confidence": 0.95,
+          "subject_raw": "Henry Ford",
+          "predicate_raw": "has child"
+        }
+      },
+      "score": 0.3278086424177036,
+      "created_at": "2026-07-04T05:25:04.794988-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4be808c1-b4fe-4b3a-995d-92e5f0f9b8bb",
+      "memory": "Edsel Ford is a citizen of United States of America.",
+      "hash": "911a8dbcd65f9a1bd3f4cb0807ebd623",
+      "metadata": {
+        "ordinal": 1947,
+        "triple": {
+          "subject_id": "edsel_ford",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Edsel Ford",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.32707075449612866,
+      "created_at": "2026-07-04T05:24:47.104036-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6230fba2-746e-4e7d-9ad9-528ddf18042e",
+      "memory": "The chief executive officer of Hewlett-Packard is Vijay Mallya.",
+      "hash": "f730edf06f035f710acdd2d0e26858d7",
+      "metadata": {
+        "ordinal": 2683,
+        "triple": {
+          "subject_id": "hewlett_packard",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Vijay Mallya",
+          "confidence": 0.95,
+          "subject_raw": "Hewlett-Packard",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.32635116624960625,
+      "created_at": "2026-07-04T05:25:04.838454-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "72673716-0962-4590-a6e9-1bfadf99f0c2",
+      "memory": "The chairperson of Yale University is Peter Salovey.",
+      "hash": "3cabd7673526cae1bf3078d30fe42432",
+      "metadata": {
+        "ordinal": 1300,
+        "triple": {
+          "subject_id": "yale_university",
+          "predicate_norm": "has chairperson",
+          "object_text": "Peter Salovey",
+          "confidence": 0.95,
+          "subject_raw": "Yale University",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32586299849576633,
+      "created_at": "2026-07-04T05:24:32.735282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f803abbb-9f26-4fc6-ab83-ddb68733271b",
+      "memory": "The chairperson of The Trump Organization is Rick Perry.",
+      "hash": "d02ad60506d7f59d9fdf74932a84ad47",
+      "metadata": {
+        "ordinal": 3873,
+        "triple": {
+          "subject_id": "the_trump_organization",
+          "predicate_norm": "has chairperson",
+          "object_text": "Rick Perry",
+          "confidence": 0.95,
+          "subject_raw": "The Trump Organization",
+          "predicate_raw": "has chairperson"
+        }
+      },
+      "score": 0.32580216956183755,
+      "created_at": "2026-07-04T05:25:32.780374-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "24c2e177-c780-4d03-a8f5-bcf6b92ab8d5",
+      "memory": "The company that produced Ford Falcon (North America) is Ford Motor Company",
+      "hash": "239aca28e7cb4d99e02c39d1df769374",
+      "metadata": {
+        "ordinal": 278,
+        "triple": {
+          "subject_id": "ford_falcon_(north_america)",
+          "predicate_norm": "be produced by",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.95,
+          "subject_raw": "Ford Falcon (North America)",
+          "predicate_raw": "was produced by"
+        }
+      },
+      "score": 0.32518535167482454,
+      "created_at": "2026-07-04T05:24:09.203983-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d5a7dd07-97fd-4a40-958a-f2ce715cf6b2",
+      "memory": "The chief executive officer of Boeing is Adel al-Jubeir.",
+      "hash": "3461ec9eeb79964baa953b0553df3b5c",
+      "metadata": {
+        "ordinal": 1555,
+        "triple": {
+          "subject_id": "boeing",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Adel al-Jubeir",
+          "confidence": 0.95,
+          "subject_raw": "Boeing",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.323733970395369,
+      "created_at": "2026-07-04T05:24:38.669727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c825222e-c56a-45a9-9180-78fb0a61917f",
+      "memory": "Melinda Gates is employed by Microsoft.",
+      "hash": "7dfe815f83d86838a7870800fc107cc0",
+      "metadata": {
+        "ordinal": 2190,
+        "triple": {
+          "subject_id": "melinda_gates",
+          "predicate_norm": "be employed by",
+          "object_text": "Microsoft",
+          "confidence": 0.95,
+          "subject_raw": "Melinda Gates",
+          "predicate_raw": "is employed by"
+        }
+      },
+      "score": 0.3206863051737574,
+      "created_at": "2026-07-04T05:24:52.858282-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9935ab37-78d9-4277-a2a9-192090168c82",
+      "memory": "The chief executive officer of CBS Corporation is Les Moonves.",
+      "hash": "fceb3dcf4123297f6ada50abd0a9bec0",
+      "metadata": {
+        "ordinal": 3026,
+        "triple": {
+          "subject_id": "cbs_corporation",
+          "predicate_norm": "has chief executive officer",
+          "object_text": "Les Moonves",
+          "confidence": 0.9,
+          "subject_raw": "CBS Corporation",
+          "predicate_raw": "has chief executive officer"
+        }
+      },
+      "score": 0.3200221618595076,
+      "created_at": "2026-07-04T05:25:12.848567-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9b420ee0-e08b-4be0-a691-4de54f0c307e",
+      "memory": "The company that produced Ford Zephyr is Ford Motor Company.",
+      "hash": "312fb9a01ec4aaa328d59f5dec311910",
+      "metadata": {
+        "ordinal": 131,
+        "triple": {
+          "subject_id": "the_company_that_produced_ford_zephyr",
+          "predicate_norm": "be",
+          "object_text": "Ford Motor Company",
+          "confidence": 0.85,
+          "subject_raw": "the company that produced Ford Zephyr",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.31994739494748375,
+      "created_at": "2026-07-04T05:24:06.007469-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c481afdb-22d5-4765-a509-aaab3168ff26",
+      "memory": "The head coach of Michigan Wolverines football is Jim Harbaugh.",
+      "hash": "fdb8178f38f372d61a9168f01cbcfd3a",
+      "metadata": {
+        "ordinal": 4033,
+        "triple": {
+          "subject_id": "michigan_wolverines_football",
+          "predicate_norm": "has head coach",
+          "object_text": "Jim Harbaugh",
+          "confidence": 0.95,
+          "subject_raw": "Michigan Wolverines football",
+          "predicate_raw": "has head coach"
+        }
+      },
+      "score": 0.3162025142315923,
+      "created_at": "2026-07-04T05:25:36.783554-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ]
+}

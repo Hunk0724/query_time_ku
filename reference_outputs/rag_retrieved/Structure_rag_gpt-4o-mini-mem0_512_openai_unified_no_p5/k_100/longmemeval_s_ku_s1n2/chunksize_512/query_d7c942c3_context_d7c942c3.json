@@ -1,0 +1,3485 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "c4be00a7-c340-49d5-b321-ccdf0a1b45f5",
+      "memory": "User's mom is using the same grocery list app as them.",
+      "hash": "dd4f527fe892c67d6ce24adf313f99ff",
+      "metadata": {
+        "ordinal": 496,
+        "triple": {
+          "subject_id": "user's_mom",
+          "predicate_norm": "be using",
+          "object_text": "the same grocery list app as them",
+          "confidence": 0.9,
+          "subject_raw": "User's mom",
+          "predicate_raw": "is using"
+        }
+      },
+      "score": 0.5384249038660761,
+      "created_at": "2026-07-06T04:56:37.024125-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e7cec282-db23-49e6-b9ae-f0265674682c",
+      "memory": "User is trying to get their mom to use the new grocery list app.",
+      "hash": "60b4371aa76065a77dccded2cff8ed8a",
+      "metadata": {
+        "ordinal": 16,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be trying to get",
+          "object_text": "their mom to use the new grocery list app",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is trying to get"
+        }
+      },
+      "score": 0.4906396481987722,
+      "created_at": "2026-07-06T04:52:37.575614-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "05a22878-bb87-4696-bf83-651662cdaade",
+      "memory": "User is using a new grocery list app to keep track of all the ingredients they need.",
+      "hash": "25d79f232c4fcf9a5360e225e836bf1e",
+      "metadata": {
+        "ordinal": 15,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be using",
+          "object_text": "a new grocery list app",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is using"
+        }
+      },
+      "score": 0.3858477185664973,
+      "created_at": "2026-07-06T04:52:37.573231-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "dff4b4a3-a0b2-44a9-85fa-8806399f9ec2",
+      "memory": "User and their mom went shopping for new outfits for the whole family two weeks ago.",
+      "hash": "f1b6a5f710d7f2bea61d9201abd8ccf9",
+      "metadata": {
+        "ordinal": 663,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "went shopping for",
+          "object_text": "new outfits for the whole family",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "went shopping for"
+        }
+      },
+      "score": 0.32920898180131,
+      "created_at": "2026-07-06T04:57:16.385447-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "c968cbcd-1386-4dc3-a138-1948455464f8",
+      "memory": "User is thinking of getting a gift for their mom as a gesture of appreciation for her help in picking out the outfit.",
+      "hash": "74abb561637cd8893315e795bd00706a",
+      "metadata": {
+        "ordinal": 670,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking getting gift for",
+          "object_text": "their mom as a gesture of appreciation for her help in picking out the outfit",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of getting a gift for"
+        }
+      },
+      "score": 0.3286100165336857,
+      "created_at": "2026-07-06T04:57:16.408427-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "92da73f2-4aea-4832-8e90-4b63b2651677",
+      "memory": "User is trying to organize their grandmother's old sewing kit.",
+      "hash": "c5faf8152ec28e46e1e8091d0979b684",
+      "metadata": {
+        "ordinal": 230,
+        "triple": null,
+        "subject_fallback": "grandmother"
+      },
+      "score": 0.32350236011901873,
+      "created_at": "2026-07-06T04:54:29.431090-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "cec529f1-8cf4-4eb1-83f1-eb7860a086a1",
+      "memory": "User spent an hour reading articles about recent European political developments in The New York Times on May 12, 2023.",
+      "hash": "c5d465933a037b5f13859941ee45b412",
+      "metadata": {
+        "ordinal": 640,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "spent hour reading",
+          "object_text": "articles about recent European political developments in The New York Times on May 12, 2023",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "spent an hour reading"
+        }
+      },
+      "score": 0.3050227285350199,
+      "created_at": "2026-07-06T04:57:00.554733-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "5ff44710-a8b6-4d40-8f46-8d032597e42b",
+      "memory": "User was at the mall last weekend with their sister.",
+      "hash": "7d63f9bcaf5150e2ba61ba4b48a0ed33",
+      "metadata": {
+        "ordinal": 183,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be at",
+          "object_text": "the mall last weekend with their sister",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "was at"
+        }
+      },
+      "score": 0.304151111374917,
+      "created_at": "2026-07-06T04:54:08.212355-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "6659f99c-945e-4189-89b6-b78f0fab1bb9",
+      "memory": "User is curious to see how their nutrition affects their performance on Thursdays.",
+      "hash": "9eee4d7f93b450cf6bc85d3cf542e47c",
+      "metadata": {
+        "ordinal": 312,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be curious to see how",
+          "object_text": "their nutrition affects their performance on Thursdays",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is curious to see how"
+        }
+      },
+      "score": 0.30239667385947416,
+      "created_at": "2026-07-06T04:54:58.719183-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "5be51c73-5600-44bb-b1f5-2eeabcdd3f20",
+      "memory": "User will experiment with different meal ideas and portion sizes to find what works best for them.",
+      "hash": "e68ff7118e0bff5767d1a7db506c756f",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will experiment with",
+          "object_text": "different meal ideas and portion sizes to find what works best for them",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "will experiment with"
+        }
+      },
+      "score": 0.30170053743245817,
+      "created_at": "2026-07-06T04:54:58.726548-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "d3cd50c2-2508-4c51-8ad7-d9ddd2a1847c",
+      "memory": "User thinks a personalized gift would be especially meaningful for their mom.",
+      "hash": "1c8ba05c44c1df7d046f00561c1d089d",
+      "metadata": {
+        "ordinal": 671,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "thinks personalized gift would be",
+          "object_text": "especially meaningful for their mom",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "thinks a personalized gift would be"
+        }
+      },
+      "score": 0.3004540824857953,
+      "created_at": "2026-07-06T04:57:16.410644-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e89fde01-4f97-4ade-b4b3-55c2e19df4f8",
+      "memory": "User is adding onions and bell peppers to their grocery list.",
+      "hash": "94ebffa6db2c4bd410bd0bc1e9f152e1",
+      "metadata": {
+        "ordinal": 494,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be adding",
+          "object_text": "onions and bell peppers to their grocery list",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is adding"
+        }
+      },
+      "score": 0.2895108685278498,
+      "created_at": "2026-07-06T04:56:37.014259-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "59eb8943-f119-4a47-8995-4160a7a2c443",
+      "memory": "User is planning a picnic for the weekend.",
+      "hash": "84d94b27ac61c75a54fd3cd82c7c9ce5",
+      "metadata": {
+        "ordinal": 296,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning",
+          "object_text": "a picnic for the weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning"
+        }
+      },
+      "score": 0.28851510560273563,
+      "created_at": "2026-07-06T04:54:47.218377-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "f2430d3a-7565-4987-ac77-8ba9103dcf7f",
+      "memory": "User is planning a dinner party this weekend.",
+      "hash": "d175af7dcc5b83e05d9c99b1c09ec0ef",
+      "metadata": {
+        "ordinal": 12,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.2850275433185784,
+      "created_at": "2026-07-06T04:52:37.565111-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "96e01282-745a-4441-b267-3cab3e760d5c",
+      "memory": "User is trying to plan their workout routine for the next month.",
+      "hash": "7b15f4b07553850b884e13c8afbb4ad6",
+      "metadata": {
+        "ordinal": 304,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.27837869079336824,
+      "created_at": "2026-07-06T04:54:58.682378-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "84064b31-2078-484a-b922-0a70a8fffd41",
+      "memory": "User is thinking of bringing some sort of salad to the picnic.",
+      "hash": "1f2c4402baf7e17279a13e8225c1379d",
+      "metadata": {
+        "ordinal": 300,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking bringing",
+          "object_text": "some sort of salad to the picnic",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of bringing"
+        }
+      },
+      "score": 0.27746551022400157,
+      "created_at": "2026-07-06T04:54:47.242952-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "301d06ae-f3f6-4c4b-92a1-d1dca069b1dc",
+      "memory": "User wrote a journal entry reflecting on their childhood and the impact of their narcissistic mother on their self-worth.",
+      "hash": "09d23553de58a7cd8963e0526c8e443e",
+      "metadata": {
+        "ordinal": 148,
+        "triple": null,
+        "subject_fallback": "user's_mother"
+      },
+      "score": 0.2760802718286478,
+      "created_at": "2026-07-06T04:53:58.959964-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "92331383-7e8a-41bd-9b66-1727302307c0",
+      "memory": "User is hoping to recreate some of the magic from Emily's surprise baby shower at the upcoming shower.",
+      "hash": "2f86df409fbe25be2f927483b8198ad4",
+      "metadata": {
+        "ordinal": 435,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be hoping to recreate",
+          "object_text": "some of the magic from Emily's surprise baby shower at the upcoming shower",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is hoping to recreate"
+        }
+      },
+      "score": 0.27370161503989204,
+      "created_at": "2026-07-06T04:56:03.073896-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "277d4975-3c63-43ce-a147-779876f81a70",
+      "memory": "User will focus on protein, carbs, and healthy fats on Thursdays.",
+      "hash": "a7213299ae9c90069a9b32e458c4f956",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will focus on",
+          "object_text": "protein, carbs, and healthy fats on Thursdays",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "will focus on"
+        }
+      },
+      "score": 0.2633069449556706,
+      "created_at": "2026-07-06T04:54:58.721929-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "abcab69d-e99b-4132-a0d2-cba8d5487000",
+      "memory": "User is planning to start tracking their food intake more closely.",
+      "hash": "b1e7c2ac6d0516b9e135f125a939669a",
+      "metadata": {
+        "ordinal": 309,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning to start tracking",
+          "object_text": "their food intake more closely",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to start tracking"
+        }
+      },
+      "score": 0.26301418247415187,
+      "created_at": "2026-07-06T04:54:58.710093-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "954938ff-8353-4945-8bd4-48afca46e0bb",
+      "memory": "User summarized their beliefs and practices in a prayer format.",
+      "hash": "4659fda22e3b2c542c2db068adaae432",
+      "metadata": {
+        "ordinal": 154,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.2629508202259191,
+      "created_at": "2026-07-06T04:53:58.974159-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2692498e-b7b7-4460-b296-64539189dede",
+      "memory": "User is thinking of serving refreshing drinks at the baby shower.",
+      "hash": "63f9c13a6f9ce0ad64131a5f0e5a37ea",
+      "metadata": {
+        "ordinal": 437,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking serving",
+          "object_text": "refreshing drinks at the baby shower",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of serving"
+        }
+      },
+      "score": 0.26059400001659105,
+      "created_at": "2026-07-06T04:56:03.079816-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "5940aab8-d5d0-4e9c-9e39-65379dafadd3",
+      "memory": "User needs recipe ideas for the dinner party.",
+      "hash": "4c4875a17a08f3042c06d7abe963a181",
+      "metadata": {
+        "ordinal": 13,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.26018224323481387,
+      "created_at": "2026-07-06T04:52:37.568385-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3685e33d-fc12-42b6-9cbb-676b92fc6621",
+      "memory": "User is thinking about making a quilt using some of the fabrics from their grandmother's sewing kit.",
+      "hash": "8fb328d54b90b3fa967faef88cbf5863",
+      "metadata": {
+        "ordinal": 231,
+        "triple": null,
+        "subject_fallback": "grandmother"
+      },
+      "score": 0.25774177433275336,
+      "created_at": "2026-07-06T04:54:29.439581-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "dc252a16-f291-41cf-8805-c0d8763e9e5c",
+      "memory": "User will try to make crispy kale chips again",
+      "hash": "df842d90e1dd5a5e69bb72ab9502661c",
+      "metadata": {
+        "ordinal": 48,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.2545772795126848,
+      "created_at": "2026-07-06T04:52:43.072126-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "aa44f1c0-e654-4f48-92b5-eef62148076a",
+      "memory": "User is planning to host a summer BBQ next weekend.",
+      "hash": "b637ef1ae0919ab6bfa42f8b3bea40af",
+      "metadata": {
+        "ordinal": 182,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning to host",
+          "object_text": "a summer BBQ next weekend",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to host"
+        }
+      },
+      "score": 0.2535525941759719,
+      "created_at": "2026-07-06T04:54:08.205344-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "b40d4b82-ebcf-46e9-96b5-3599e2d4719f",
+      "memory": "User is planning a baby shower for a friend.",
+      "hash": "fd8caa3922deecbe93612c1f3ac48886",
+      "metadata": {
+        "ordinal": 430,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning",
+          "object_text": "a baby shower for a friend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning"
+        }
+      },
+      "score": 0.2486048603660851,
+      "created_at": "2026-07-06T04:56:03.047660-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "4c979563-5214-4641-b5ba-cf06e601743a",
+      "memory": "User is thinking of making some homemade lemonade for the BBQ.",
+      "hash": "3ac6be0ffcf7db409b9e30c182104b38",
+      "metadata": {
+        "ordinal": 188,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking making",
+          "object_text": "some homemade lemonade for the BBQ",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of making"
+        }
+      },
+      "score": 0.24319009969940053,
+      "created_at": "2026-07-06T04:54:08.233532-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "38b88a7f-d0ee-4326-8d31-f41e38189e49",
+      "memory": "User is using their grandmother's old sewing machine to make the quilt.",
+      "hash": "fd4a34ed0a53e75b4b7584253dc3a070",
+      "metadata": {
+        "ordinal": 232,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be using",
+          "object_text": "their grandmother's old sewing machine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is using"
+        }
+      },
+      "score": 0.2415850876296956,
+      "created_at": "2026-07-06T04:54:29.444630-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "a48eba01-ce9f-4df6-8b2c-cdacbc62c355",
+      "memory": "User is looking for fashion advice.",
+      "hash": "916c701ebef5e7084927434e1604d0a3",
+      "metadata": {
+        "ordinal": 661,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.24116837575617533,
+      "created_at": "2026-07-06T04:57:16.373899-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "670b74bc-8811-47a3-b51a-2bf8c820fa91",
+      "memory": "The user inquired if the certbot command runs once a day from the container's CRON.",
+      "hash": "ab39de6994253783f21b0749a7a555b3",
+      "metadata": {
+        "ordinal": 557,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "inquired if",
+          "object_text": "the certbot command runs once a day from the container's CRON",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "inquired if"
+        }
+      },
+      "score": 0.24073972470902893,
+      "created_at": "2026-07-06T04:56:47.864851-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e9d873c9-eda5-40fe-bcd8-41d2ffdadb80",
+      "memory": "User is thinking of making some watermelon agua fresca to complement the lemonade.",
+      "hash": "47c9c6f04a6152a6bf3b70c4dd1c4489",
+      "metadata": {
+        "ordinal": 189,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking making",
+          "object_text": "some watermelon agua fresca to complement the lemonade",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of making"
+        }
+      },
+      "score": 0.23948326601879513,
+      "created_at": "2026-07-06T04:54:08.236185-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "399a4bbb-98b0-4bec-ae37-51eca2c77db4",
+      "memory": "User is thinking of selling some of their gently used craft supplies to make room for new ones.",
+      "hash": "f4171f58a54ac6d1267a41fe369308ed",
+      "metadata": {
+        "ordinal": 235,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.23917083718048393,
+      "created_at": "2026-07-06T04:54:29.457777-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0afef99d-eb6a-45a0-8425-166fa4b00d33",
+      "memory": "User wants to see if they can make any correlations between what they eat and how they feel during their workouts.",
+      "hash": "b3694558de8b1deab3ee85e56cc734ed",
+      "metadata": {
+        "ordinal": 310,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "wants to see if they can make any correlations between",
+          "object_text": "what they eat and how they feel during their workouts",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to see if they can make any correlations between"
+        }
+      },
+      "score": 0.23900194759587334,
+      "created_at": "2026-07-06T04:54:58.713533-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "a1c0855e-8e62-4c57-a75a-12de6e7ed752",
+      "memory": "User provided journal prompts to evaluate the validity of the belief: 1. What evidence do I have that supports the belief that I am unlovable and unworthy of love? 2. How have my past experiences with my mother shaped my perception of my worthiness of love? 3. Are there other relationships or experiences that contradict this belief?",
+      "hash": "068541f18e561785a20a9717d1aa13d6",
+      "metadata": {
+        "ordinal": 147,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.23703587472455948,
+      "created_at": "2026-07-06T04:53:58.957027-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "48fa711a-7345-412e-8252-732cbe03394b",
+      "memory": "User is thinking about switching to a monthly train pass.",
+      "hash": "7de573052969bbd6fb6e21c8849d62e1",
+      "metadata": {
+        "ordinal": 193,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.23590634616067346,
+      "created_at": "2026-07-06T04:54:12.667494-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "b73f3956-e76d-4b8f-b8ab-37ea74373a4a",
+      "memory": "User thinks they'll go with the quinoa salad jars for the picnic.",
+      "hash": "408ec458932a0ea8b134f1a53b4de1d1",
+      "metadata": {
+        "ordinal": 301,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "thinks they'll go with",
+          "object_text": "the quinoa salad jars for the picnic",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they'll go with"
+        }
+      },
+      "score": 0.23541986840033852,
+      "created_at": "2026-07-06T04:54:47.247467-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e38a333d-807c-4b57-822c-9ee32ece2732",
+      "memory": "User recently restocked Luna's food.",
+      "hash": "99de8fc8f3564d1b3a72915a1d73a194",
+      "metadata": {
+        "ordinal": 658,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "recently restocked",
+          "object_text": "Luna's food",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "recently restocked"
+        }
+      },
+      "score": 0.2343538305311242,
+      "created_at": "2026-07-06T04:57:08.859977-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "fc6db342-1232-46bd-94f9-86407ac7e644",
+      "memory": "User thinks they will try incorporating foods and nutrients that help with muscle recovery into their post-workout routine on Thursdays.",
+      "hash": "7617e185c69a4ccca6ef71f33b90d05c",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "thinks they will try incorporating",
+          "object_text": "foods and nutrients that help with muscle recovery into their post-workout routine on Thursdays",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they will try incorporating"
+        }
+      },
+      "score": 0.2343358271764902,
+      "created_at": "2026-07-06T04:54:58.728937-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "fdb1f0bc-9d4e-4147-835c-9736d5a7045b",
+      "memory": "User will be visiting family in the Bay Area.",
+      "hash": "28ceb5607073377e66ce3e44f1401e44",
+      "metadata": {
+        "ordinal": 2,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will be visiting",
+          "object_text": "family in the Bay Area",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "will be visiting"
+        }
+      },
+      "score": 0.23423211391966256,
+      "created_at": "2026-07-06T04:52:31.138145-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "c9c79159-98ef-43f7-bb81-40f3a7823e2d",
+      "memory": "User is planning a trip to visit family for the holidays.",
+      "hash": "14b5c7d78cbcffeb8b3ebdb02e530964",
+      "metadata": {
+        "ordinal": 0,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.23112157779027231,
+      "created_at": "2026-07-06T04:52:31.126117-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "9ea21350-0c84-4476-869f-fd041c5473a3",
+      "memory": "User is planning to make chicken fajitas for dinner.",
+      "hash": "ea0770248ae0f79add4d44010b619593",
+      "metadata": {
+        "ordinal": 493,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.22706782259513755,
+      "created_at": "2026-07-06T04:56:37.003660-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "7264c88f-2b20-40c1-af05-3d2bf0e746fb",
+      "memory": "User has tried kale chips before",
+      "hash": "1777e3d22bd9b638dfe6775ef58c5d98",
+      "metadata": {
+        "ordinal": 46,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has tried",
+          "object_text": "kale chips",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has tried"
+        }
+      },
+      "score": 0.2269254435453359,
+      "created_at": "2026-07-06T04:52:43.061307-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "ef3b9952-4d8a-40bc-b70d-3fd2f6c04664",
+      "memory": "User is trying to plan a road trip to the Japanese Alps in November.",
+      "hash": "5d1dfe6b20cdebff5d8a4e40c6602a86",
+      "metadata": {
+        "ordinal": 413,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.22475728067495393,
+      "created_at": "2026-07-06T04:55:44.233489-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "4badd133-de4d-47d8-8966-db5005d2c4cc",
+      "memory": "User is running low on olive oil.",
+      "hash": "0ac43f4ad2b18f6b147ba2e3b8f5bef5",
+      "metadata": {
+        "ordinal": 495,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be running low on",
+          "object_text": "olive oil",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is running low on"
+        }
+      },
+      "score": 0.22413393227510178,
+      "created_at": "2026-07-06T04:56:37.019123-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "6ed81067-551f-481d-b099-cf8f4f09dc82",
+      "memory": "User is a therapist with many years of counselling survivors of childhood emotional trauma.",
+      "hash": "0c411d605293abeaf7640f7beff981a2",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be",
+          "object_text": "a therapist with many years of counselling survivors of childhood emotional trauma",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.22323120060519341,
+      "created_at": "2026-07-06T04:53:58.939443-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "4c838df3-b8e8-4921-873c-82a92661a5aa",
+      "memory": "User is trying to log in to their frequent flyer account to check if their miles have been credited.",
+      "hash": "47f6084c84d594edbaddccf7131249ee",
+      "metadata": {
+        "ordinal": 221,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.22185360763411788,
+      "created_at": "2026-07-06T04:54:23.034105-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "7345aab2-c274-42a4-abdf-7d30403d4180",
+      "memory": "User's declarative statement is 'I am deserving of love and capable of giving love, regardless of my past experiences with my narcissistic mother.'",
+      "hash": "01d41543a63e86ea02f964634c303312",
+      "metadata": {
+        "ordinal": 153,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "declarative statement be",
+          "object_text": "'I am deserving of love and capable of giving love, regardless of my past experiences with my narcissistic mother.'",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "declarative statement is"
+        }
+      },
+      "score": 0.22184870016409583,
+      "created_at": "2026-07-06T04:53:58.972039-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "33cb104d-0563-4836-89b4-b6a7cf732a12",
+      "memory": "User is currently reading 'The Three-Body Problem'.",
+      "hash": "f1245462a6c71dad17bdc0a404614132",
+      "metadata": {
+        "ordinal": 328,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be currently reading",
+          "object_text": "'The Three-Body Problem'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is currently reading"
+        }
+      },
+      "score": 0.22137701103828727,
+      "created_at": "2026-07-06T04:55:14.194048-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "7a288011-3699-4940-8096-468dc70df427",
+      "memory": "User is thinking of booking a new flight to Denver or Las Vegas using a $200 voucher they got as a birthday gift from their aunt.",
+      "hash": "8617d34982f31df2e99a3d88010953c1",
+      "metadata": {
+        "ordinal": 225,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking booking",
+          "object_text": "a new flight to Denver or Las Vegas",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of booking"
+        }
+      },
+      "score": 0.22079448391634532,
+      "created_at": "2026-07-06T04:54:23.053832-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "54f5f8bd-f9c7-41a2-ba80-8a37b30dcd9b",
+      "memory": "User is interested in whether the manufacturing delays are due to production capacity limitations or raw material shortages.",
+      "hash": "137069608fb5ed3faa37fb6dac989216",
+      "metadata": {
+        "ordinal": 644,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.22005455862771978,
+      "created_at": "2026-07-06T04:57:00.574199-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3a949382-a835-4b4c-8b16-82fbc16bcfd7",
+      "memory": "User plans to incorporate more kale into their diet",
+      "hash": "97248652605fff5788992e1f66d50edd",
+      "metadata": {
+        "ordinal": 49,
+        "triple": null,
+        "subject_fallback": "kale"
+      },
+      "score": 0.21892353386887423,
+      "created_at": "2026-07-06T04:52:43.076566-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "364f45db-7125-4e90-bb55-f405c0d6afe0",
+      "memory": "User provided an example of a 64-year-old male raised by a narcissistic mother who internalized the belief that he is unlovable and unworthy of love.",
+      "hash": "faa629a674407b8f822aa851df854f05",
+      "metadata": {
+        "ordinal": 146,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "provided example",
+          "object_text": "a 64-year-old male raised by a narcissistic mother who internalized the belief that he is unlovable and unworthy of love",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "provided an example of"
+        }
+      },
+      "score": 0.21839133867039792,
+      "created_at": "2026-07-06T04:53:58.952879-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "9c00ddb5-4b79-440d-999a-5f98b9914c62",
+      "memory": "User is feeling a bit down about their social life lately.",
+      "hash": "32e0dd92147b026cc2990611a569115a",
+      "metadata": {
+        "ordinal": 68,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.21711251027093662,
+      "created_at": "2026-07-06T04:53:08.529612-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "46cd452a-61b0-4fc6-b124-000df0c683b3",
+      "memory": "User is trying to reduce their daily commute expenses.",
+      "hash": "08eb469f0f99bb38a5f88b6922a214fb",
+      "metadata": {
+        "ordinal": 190,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.21701052417968525,
+      "created_at": "2026-07-06T04:54:12.651386-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "4d17b6a8-3aa2-422e-94f4-18a462da0021",
+      "memory": "User is going to make Lemon Garlic Chicken Breast with Roasted Vegetables.",
+      "hash": "0691bd8d61bfbcd3238ed835cd337ad5",
+      "metadata": {
+        "ordinal": 14,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be going to make",
+          "object_text": "Lemon Garlic Chicken Breast with Roasted Vegetables",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is going to make"
+        }
+      },
+      "score": 0.2161090532197551,
+      "created_at": "2026-07-06T04:52:37.570898-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2c8db3a7-0f9f-4140-8392-f6c9a3b6b54e",
+      "memory": "User has cauliflower gnocchi from Trader Joe's.",
+      "hash": "d5cf3f956589ed44bdcf665f8aa9efbf",
+      "metadata": {
+        "ordinal": 498,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has",
+          "object_text": "cauliflower gnocchi from Trader Joe's",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.21362055385675902,
+      "created_at": "2026-07-06T04:56:37.032986-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "366cd880-80a1-4d4b-b3c0-05c5a0e7e6e8",
+      "memory": "User is thinking of selling some of their yarn stash.",
+      "hash": "c5be591be0c6e797e9ad1d33b861f95f",
+      "metadata": {
+        "ordinal": 236,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.21266103584704152,
+      "created_at": "2026-07-06T04:54:29.461096-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0cc0534f-3ba6-4d66-baf3-c1ed458afd08",
+      "memory": "User is thinking of booking a flight from Chicago to Los Angeles.",
+      "hash": "f47ef8cf02e1aca02f13a2c4029f9797",
+      "metadata": {
+        "ordinal": 229,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking booking",
+          "object_text": "a flight from Chicago to Los Angeles",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of booking"
+        }
+      },
+      "score": 0.20893602178784415,
+      "created_at": "2026-07-06T04:54:23.065053-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "8bb6d0cc-7f01-455e-9f48-3ab6a33153c2",
+      "memory": "User plans to head to The Dipsea Cafe after their hike.",
+      "hash": "91aa4ad96435340873914c723895c970",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "plans to head to",
+          "object_text": "The Dipsea Cafe after their hike",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "plans to head to"
+        }
+      },
+      "score": 0.2085438474660441,
+      "created_at": "2026-07-06T04:52:31.156489-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "d5dfc104-ff8c-46e7-81e7-9bc46743250e",
+      "memory": "User helped plan a surprise baby shower for their best friend Emily on February 1st.",
+      "hash": "7abd58a0e8751420ece5718113bb99c4",
+      "metadata": {
+        "ordinal": 431,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "helped plan",
+          "object_text": "a surprise baby shower for their best friend Emily on February 1st",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "helped plan"
+        }
+      },
+      "score": 0.20775003847154921,
+      "created_at": "2026-07-06T04:56:03.056363-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0601d4bb-cade-436f-a829-7a1febe10570",
+      "memory": "User is thinking of making roasted sweet potatoes as well.",
+      "hash": "d7034b0724637286336b738c8086a77f",
+      "metadata": {
+        "ordinal": 17,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking making",
+          "object_text": "roasted sweet potatoes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of making"
+        }
+      },
+      "score": 0.20735065100999334,
+      "created_at": "2026-07-06T04:52:37.577652-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0033c88e-9ccd-4d9d-a648-3957dbdd5e13",
+      "memory": "User is planning a trip to Chicago soon.",
+      "hash": "9e650312a3012b84206d4b3a840ddd51",
+      "metadata": {
+        "ordinal": 50,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.20506306457422876,
+      "created_at": "2026-07-06T04:52:51.055197-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "81ccbf0b-3f6c-4ba8-bfdc-d99ce194b140",
+      "memory": "User is having issues with their internet connection, which has been slow and unreliable, especially in the evenings.",
+      "hash": "6947a881f0166ba4ef541341036c7fcf",
+      "metadata": {
+        "ordinal": 317,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.20467550023414763,
+      "created_at": "2026-07-06T04:55:07.096714-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "75f91d6b-952f-42f4-b563-9f2920d33ef9",
+      "memory": "User would like to know more about the vaccine supply chain issues.",
+      "hash": "bc4e6da1e371dada8603c07999d63016",
+      "metadata": {
+        "ordinal": 643,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.20440301342752337,
+      "created_at": "2026-07-06T04:57:00.570596-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "76eb3a7f-9a15-4fef-9b7c-c05cf50dd9cb",
+      "memory": "User wants to know how the EU and individual countries are addressing vaccine supply chain issues.",
+      "hash": "d2593b643e0a2e8f4696a2b9127f4bec",
+      "metadata": {
+        "ordinal": 645,
+        "triple": null,
+        "subject_fallback": "eu"
+      },
+      "score": 0.20408603958878446,
+      "created_at": "2026-07-06T04:57:00.577345-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "490ec408-3687-47f5-8a0e-9ad6ce5e4b81",
+      "memory": "User's best friend moved to a new city for a job opportunity about 6 weeks ago.",
+      "hash": "e40dbef3d2b79ad390698b0fb60cfef0",
+      "metadata": {
+        "ordinal": 69,
+        "triple": {
+          "subject_id": "user's_best_friend",
+          "predicate_norm": "moved to",
+          "object_text": "a new city for a job opportunity about 6 weeks ago",
+          "confidence": 0.85,
+          "subject_raw": "User's best friend",
+          "predicate_raw": "moved to"
+        }
+      },
+      "score": 0.20216157919734384,
+      "created_at": "2026-07-06T04:53:08.535276-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2aa361e8-dd19-4928-a9be-7d4d37bcc6c2",
+      "memory": "User's specialty is working with clients who grew up in families dominated by emotionally immature parents.",
+      "hash": "09b758cf12ce6255c9ea4cef16516341",
+      "metadata": {
+        "ordinal": 144,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "specializes in",
+          "object_text": "working with clients who grew up in families dominated by emotionally immature parents",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "specializes in"
+        }
+      },
+      "score": 0.20025865687506345,
+      "created_at": "2026-07-06T04:53:58.945296-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "a1d9fd31-fbdf-4ec0-9d9f-a420a245710e",
+      "memory": "User has been doing some practice with their portable hide at home.",
+      "hash": "56f7f720d57280e5e514f0fb19b26218",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "some practice with their portable hide at home",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.20002634653075546,
+      "created_at": "2026-07-06T04:53:00.424008-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "37f1fe6d-93d2-43a2-a10a-54f2cec6a294",
+      "memory": "User has been living in Tokyo for about 6 months.",
+      "hash": "3d2f786d546e2203024ce209cedbefc5",
+      "metadata": {
+        "ordinal": 416,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has be living in",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been living in"
+        }
+      },
+      "score": 0.19994647559639334,
+      "created_at": "2026-07-06T04:55:44.239925-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0769785f-022e-459d-a98e-96f360b4cc4b",
+      "memory": "User's kale chips always turn out soggy",
+      "hash": "55c47bb016376520e7ad8e4de1f6ec3e",
+      "metadata": {
+        "ordinal": 47,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "kale chips always turn out",
+          "object_text": "soggy",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "kale chips always turn out"
+        }
+      },
+      "score": 0.19746285609291359,
+      "created_at": "2026-07-06T04:52:43.068140-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "d412fda0-ae2b-4e61-8df9-8772cbbfbea5",
+      "memory": "User is worried that the Mid-Century Modern style might look outdated in a few years.",
+      "hash": "bdb9f1b7eaab7851543f37c0cb1a3e8c",
+      "metadata": {
+        "ordinal": 423,
+        "triple": null,
+        "subject_fallback": "mid_century_modern"
+      },
+      "score": 0.19601937888923981,
+      "created_at": "2026-07-06T04:55:53.777168-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e92d735f-cc28-435d-9927-4f2fd05d20a6",
+      "memory": "User and their siblings took a lot of photos in their matching outfits.",
+      "hash": "68521f55e8671480e77fea5fcf0bfb58",
+      "metadata": {
+        "ordinal": 668,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.19540774679554862,
+      "created_at": "2026-07-06T04:57:16.403218-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "eb4d13c3-983a-4e25-92f8-951ebd891646",
+      "memory": "User is particularly interested in the European Union's response to the COVID-19 pandemic, especially the vaccination rollout and travel restrictions.",
+      "hash": "59cafad3941e72d0bbdc69d9d1f82fcf",
+      "metadata": {
+        "ordinal": 641,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be particularly interested in",
+          "object_text": "the European Union's response to the COVID-19 pandemic, especially the vaccination rollout and travel restrictions",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is particularly interested in"
+        }
+      },
+      "score": 0.19537411098120938,
+      "created_at": "2026-07-06T04:57:00.561384-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "b9e6a120-006c-4922-ba5c-603b9961d688",
+      "memory": "User will probably stop by The Coffee Roastery in Mill Valley before heading to the Steep Ravine Trailhead.",
+      "hash": "0ed077f8f3cfc799441a77e9c72afc6b",
+      "metadata": {
+        "ordinal": 6,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will probably stop by",
+          "object_text": "The Coffee Roastery in Mill Valley",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "will probably stop by"
+        }
+      },
+      "score": 0.1951896274723746,
+      "created_at": "2026-07-06T04:52:31.153612-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "519387b1-01f9-4fb5-b320-1cac66ec22f0",
+      "memory": "User would love to learn more about the trails they will be hiking and the local flora and fauna.",
+      "hash": "01beda6ae423e17db409a8b3e1f718b0",
+      "metadata": {
+        "ordinal": 11,
+        "triple": null,
+        "subject_fallback": "trails"
+      },
+      "score": 0.19436868315028416,
+      "created_at": "2026-07-06T04:52:31.166201-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "747aaf0a-13ad-4a26-951d-99d6e6b074e2",
+      "memory": "User has been reading a lot on their daily commute, which is about 45 minutes each way.",
+      "hash": "47adddc0515495dae9918b93b98912e9",
+      "metadata": {
+        "ordinal": 332,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.19119469775745201,
+      "created_at": "2026-07-06T04:55:14.212302-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3115bb44-4c24-42a0-b05e-e94ac3863a8c",
+      "memory": "User is interested in how advance purchase agreements work and what kind of guarantees they provide to ensure a steady vaccine supply.",
+      "hash": "a654ebd1aa89c0d0640957fe79569626",
+      "metadata": {
+        "ordinal": 647,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.19066010563167005,
+      "created_at": "2026-07-06T04:57:00.582796-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "40240620-dcc3-454d-9503-3c9050368111",
+      "memory": "User would like to know more about the advance purchase agreements (APAs) related to vaccine supply.",
+      "hash": "fb8e2fbd00600f9d6bb6ec256d813b92",
+      "metadata": {
+        "ordinal": 646,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.18847611586640275,
+      "created_at": "2026-07-06T04:57:00.580202-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3a741f93-96ea-493a-8295-964409cf75c9",
+      "memory": "User needs to get fresh herbs like cilantro and parsley for their fajitas.",
+      "hash": "d92977f3f2990392cbfecb8cb617300a",
+      "metadata": {
+        "ordinal": 497,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "needs to get",
+          "object_text": "fresh herbs like cilantro and parsley for their fajitas",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "needs to get"
+        }
+      },
+      "score": 0.1883231200261241,
+      "created_at": "2026-07-06T04:56:37.028457-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0fbf1d85-d227-4219-aae3-f0067d401666",
+      "memory": "User thinks they will check out Book Passage in Mill Valley.",
+      "hash": "b215552ac1037699a123780f2be07180",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "thinks they will check out",
+          "object_text": "Book Passage in Mill Valley",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they will check out"
+        }
+      },
+      "score": 0.18805138642841107,
+      "created_at": "2026-07-06T04:52:31.161492-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e7e089e7-a648-44fc-820f-603f42ef4f73",
+      "memory": "User remembers reading in The New York Times that some countries are having issues with vaccine supply.",
+      "hash": "e93d410929bfcfe96174d435cbb1e479",
+      "metadata": {
+        "ordinal": 642,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "remembers reading in",
+          "object_text": "The New York Times that some countries are having issues with vaccine supply",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "remembers reading in"
+        }
+      },
+      "score": 0.1878486285350311,
+      "created_at": "2026-07-06T04:57:00.566053-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "708c9341-7022-4286-a618-f30c298133fe",
+      "memory": "User is glad they got matching outfits for the family.",
+      "hash": "e288af53d4d2ca1257a1ce4013bde532",
+      "metadata": {
+        "ordinal": 667,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.18704882293821093,
+      "created_at": "2026-07-06T04:57:16.400469-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e37fd9f9-bdec-4a9e-88f0-d545f9b5be5b",
+      "memory": "User is interested in areas like Harajuku or Shibuya.",
+      "hash": "c9a96900fa8e19488ef3ff2738f0e291",
+      "metadata": {
+        "ordinal": 419,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be interested in areas like",
+          "object_text": "Harajuku or Shibuya",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in areas like"
+        }
+      },
+      "score": 0.1858263669062057,
+      "created_at": "2026-07-06T04:55:44.245853-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2fefc75c-e095-4e5c-ac66-245b8dbf4d5b",
+      "memory": "User wants a daily 1 hour guitar practice routine to get good at soloing and shredding on guitar.",
+      "hash": "099e96676ae254f7d9cdd62029999530",
+      "metadata": {
+        "ordinal": 80,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "wants",
+          "object_text": "a daily 1 hour guitar practice routine to get good at soloing and shredding on guitar",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "wants"
+        }
+      },
+      "score": 0.18546133491497135,
+      "created_at": "2026-07-06T04:53:14.327180-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e6e0543d-cde9-469d-9db3-c8a613776c6b",
+      "memory": "The user requested to modify the docker-compose file to include the CRON and the jq and not use a Dockerfile.",
+      "hash": "f44465ef22777258af179fd266e94cf8",
+      "metadata": {
+        "ordinal": 558,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "requested to modify",
+          "object_text": "the docker-compose file to include the CRON and the jq and not use a Dockerfile",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "requested to modify"
+        }
+      },
+      "score": 0.18516732895632904,
+      "created_at": "2026-07-06T04:56:47.870553-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "c8efcc5a-0ddf-4f33-b9a9-d9cc8bfdda48",
+      "memory": "User identified adaptive behavior as actively seeking and cultivating deep, meaningful relationships while recognizing and asserting personal boundaries.",
+      "hash": "347d68e7e3dff8728a58e05a91023162",
+      "metadata": {
+        "ordinal": 152,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "identified adaptive behavior as",
+          "object_text": "actively seeking and cultivating deep, meaningful relationships while recognizing and asserting personal boundaries",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "identified adaptive behavior as"
+        }
+      },
+      "score": 0.18368641294734322,
+      "created_at": "2026-07-06T04:53:58.969542-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "798848a3-d541-450f-8d46-bd7180a85e4a",
+      "memory": "User is looking to redecorate their living room.",
+      "hash": "2ee2b7f4b28645ef3f02058f536105f1",
+      "metadata": {
+        "ordinal": 420,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.18313927043616002,
+      "created_at": "2026-07-06T04:55:53.761915-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "d4f314e2-c7e3-4037-a67d-37302b939ef5",
+      "memory": "User is planning a trip to Miami.",
+      "hash": "94495175b3e2d09ff571bb6d5990844c",
+      "metadata": {
+        "ordinal": 82,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning trip to",
+          "object_text": "Miami",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning a trip to"
+        }
+      },
+      "score": 0.18235280598304962,
+      "created_at": "2026-07-06T04:53:20.903672-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e9cb3c08-f14f-4ff3-8301-eaf5ed64a5a7",
+      "memory": "User is thinking of making cauliflower gnocchi as a side dish.",
+      "hash": "4e69699b9e5909d4e7bc6b67fb302fed",
+      "metadata": {
+        "ordinal": 18,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking making",
+          "object_text": "cauliflower gnocchi as a side dish",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of making"
+        }
+      },
+      "score": 0.18210387942256667,
+      "created_at": "2026-07-06T04:52:37.579596-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "7488f926-d464-4358-aa1b-ac5b5a7890f4",
+      "memory": "User is considering visiting the museum on a Thursday evening to take advantage of the free admission for Illinois residents.",
+      "hash": "18b12bcc85a037e9cb8cd0ac8e578fe6",
+      "metadata": {
+        "ordinal": 54,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be considering visiting",
+          "object_text": "the museum on a Thursday evening",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "is considering visiting"
+        }
+      },
+      "score": 0.18085626830685483,
+      "created_at": "2026-07-06T04:52:51.076863-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e4dd49f0-96d6-439d-bc8c-971a05a83f6b",
+      "memory": "User's alternative adaptive belief is 'I am deserving of love and capable of giving love, regardless of my mother's expectations.'",
+      "hash": "025ed1279c7ca1ee4eb2f69607f9af22",
+      "metadata": {
+        "ordinal": 149,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has alternative adaptive belief",
+          "object_text": "'I am deserving of love and capable of giving love, regardless of my mother's expectations.'",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has alternative adaptive belief"
+        }
+      },
+      "score": 0.17991398178924758,
+      "created_at": "2026-07-06T04:53:58.962517-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "abd99754-5760-4d4c-a5e0-a3f8b8b0dac9",
+      "memory": "User got to the store early on Saturday, right when it opened.",
+      "hash": "9f27e5f0fbfe801b48e86fece4c61796",
+      "metadata": {
+        "ordinal": 185,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "got to store early on",
+          "object_text": "Saturday, right when it opened",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "got to the store early on"
+        }
+      },
+      "score": 0.1775325478209244,
+      "created_at": "2026-07-06T04:54:08.222018-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2274dcbf-627d-4faf-9c49-594c275c0856",
+      "memory": "User has been using their new smart TV to stream shows on Amazon Prime.",
+      "hash": "dcfcb4aeba23028be5efa756a4acae50",
+      "metadata": {
+        "ordinal": 318,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has be using",
+          "object_text": "new smart TV to stream shows on Amazon Prime",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.17729463061203687,
+      "created_at": "2026-07-06T04:55:07.106483-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "41dc6d66-4519-46d8-b9c5-16d0c53a2e20",
+      "memory": "Sutton's Inc. visits with many types of customers, including traditional families, older retirees, and rural homeowners.",
+      "hash": "e5233829de4213341d44565afd754358",
+      "metadata": {
+        "ordinal": 470,
+        "triple": {
+          "subject_id": "sutton's_inc.",
+          "predicate_norm": "visits with",
+          "object_text": "many types of customers, including traditional families, older retirees, and rural homeowners",
+          "confidence": 0.9,
+          "subject_raw": "Sutton's Inc.",
+          "predicate_raw": "visits with"
+        }
+      },
+      "score": 0.17707425144118255,
+      "created_at": "2026-07-06T04:56:30.765792-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "94329664-d284-42cf-a1e4-2209484139eb",
+      "memory": "User is thinking of incorporating some plants into their living room design.",
+      "hash": "fddc49bca45b676909c3db924c7389b3",
+      "metadata": {
+        "ordinal": 424,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking incorporating",
+          "object_text": "some plants into their living room design",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of incorporating"
+        }
+      },
+      "score": 0.17533535228961258,
+      "created_at": "2026-07-06T04:55:53.780524-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "613a55a6-b668-4f38-a9a4-675e86ebd6e8",
+      "memory": "User usually takes the 7:15 am train from Oakdale station.",
+      "hash": "eb94d4ebd83d5169333b250996391873",
+      "metadata": {
+        "ordinal": 191,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "usually takes",
+          "object_text": "the 7:15 am train from Oakdale station",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "usually takes"
+        }
+      },
+      "score": 0.17533287546015708,
+      "created_at": "2026-07-06T04:54:12.657299-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2ed34b19-9cd5-48c6-bc8e-c8017f91b81e",
+      "memory": "User is thinking of taking a day trip to Matsumoto while in Hakuba Valley.",
+      "hash": "103fdd5d804639ce35b913285b0ab3a0",
+      "metadata": {
+        "ordinal": 415,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking taking day trip to",
+          "object_text": "Matsumoto",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of taking a day trip to"
+        }
+      },
+      "score": 0.17532809338524902,
+      "created_at": "2026-07-06T04:55:44.237998-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "fcefde8c-1268-46dc-817b-d83f52927190",
+      "memory": "User will pay attention to their hydration and electrolyte levels.",
+      "hash": "3c84142af82cfae181c341e87ca0b80e",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will pay attention to",
+          "object_text": "their hydration and electrolyte levels",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "will pay attention to"
+        }
+      },
+      "score": 0.17469328769169318,
+      "created_at": "2026-07-06T04:54:58.724227-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3759cc37-b8c6-4733-b56a-9338b43f95bf",
+      "memory": "User would like to know more about the risk-sharing provisions in the advance purchase agreements.",
+      "hash": "d257ef4fff7ec60e9fc927836888f40d",
+      "metadata": {
+        "ordinal": 648,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.17385380905148762,
+      "created_at": "2026-07-06T04:57:00.585259-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": [
+    {
+      "id": "c4be00a7-c340-49d5-b321-ccdf0a1b45f5",
+      "memory": "User's mom is using the same grocery list app as them.",
+      "hash": "dd4f527fe892c67d6ce24adf313f99ff",
+      "metadata": {
+        "ordinal": 496,
+        "triple": {
+          "subject_id": "user's_mom",
+          "predicate_norm": "be using",
+          "object_text": "the same grocery list app as them",
+          "confidence": 0.9,
+          "subject_raw": "User's mom",
+          "predicate_raw": "is using"
+        }
+      },
+      "score": 0.5384249038660761,
+      "created_at": "2026-07-06T04:56:37.024125-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e7cec282-db23-49e6-b9ae-f0265674682c",
+      "memory": "User is trying to get their mom to use the new grocery list app.",
+      "hash": "60b4371aa76065a77dccded2cff8ed8a",
+      "metadata": {
+        "ordinal": 16,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be trying to get",
+          "object_text": "their mom to use the new grocery list app",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is trying to get"
+        }
+      },
+      "score": 0.4906396481987722,
+      "created_at": "2026-07-06T04:52:37.575614-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "dff4b4a3-a0b2-44a9-85fa-8806399f9ec2",
+      "memory": "User and their mom went shopping for new outfits for the whole family two weeks ago.",
+      "hash": "f1b6a5f710d7f2bea61d9201abd8ccf9",
+      "metadata": {
+        "ordinal": 663,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "went shopping for",
+          "object_text": "new outfits for the whole family",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "went shopping for"
+        }
+      },
+      "score": 0.32920898180131,
+      "created_at": "2026-07-06T04:57:16.385447-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "c968cbcd-1386-4dc3-a138-1948455464f8",
+      "memory": "User is thinking of getting a gift for their mom as a gesture of appreciation for her help in picking out the outfit.",
+      "hash": "74abb561637cd8893315e795bd00706a",
+      "metadata": {
+        "ordinal": 670,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking getting gift for",
+          "object_text": "their mom as a gesture of appreciation for her help in picking out the outfit",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of getting a gift for"
+        }
+      },
+      "score": 0.3286100165336857,
+      "created_at": "2026-07-06T04:57:16.408427-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "92da73f2-4aea-4832-8e90-4b63b2651677",
+      "memory": "User is trying to organize their grandmother's old sewing kit.",
+      "hash": "c5faf8152ec28e46e1e8091d0979b684",
+      "metadata": {
+        "ordinal": 230,
+        "triple": null,
+        "subject_fallback": "grandmother"
+      },
+      "score": 0.32350236011901873,
+      "created_at": "2026-07-06T04:54:29.431090-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "cec529f1-8cf4-4eb1-83f1-eb7860a086a1",
+      "memory": "User spent an hour reading articles about recent European political developments in The New York Times on May 12, 2023.",
+      "hash": "c5d465933a037b5f13859941ee45b412",
+      "metadata": {
+        "ordinal": 640,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "spent hour reading",
+          "object_text": "articles about recent European political developments in The New York Times on May 12, 2023",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "spent an hour reading"
+        }
+      },
+      "score": 0.3050227285350199,
+      "created_at": "2026-07-06T04:57:00.554733-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "5ff44710-a8b6-4d40-8f46-8d032597e42b",
+      "memory": "User was at the mall last weekend with their sister.",
+      "hash": "7d63f9bcaf5150e2ba61ba4b48a0ed33",
+      "metadata": {
+        "ordinal": 183,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be at",
+          "object_text": "the mall last weekend with their sister",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "was at"
+        }
+      },
+      "score": 0.304151111374917,
+      "created_at": "2026-07-06T04:54:08.212355-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "6659f99c-945e-4189-89b6-b78f0fab1bb9",
+      "memory": "User is curious to see how their nutrition affects their performance on Thursdays.",
+      "hash": "9eee4d7f93b450cf6bc85d3cf542e47c",
+      "metadata": {
+        "ordinal": 312,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be curious to see how",
+          "object_text": "their nutrition affects their performance on Thursdays",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is curious to see how"
+        }
+      },
+      "score": 0.30239667385947416,
+      "created_at": "2026-07-06T04:54:58.719183-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "5be51c73-5600-44bb-b1f5-2eeabcdd3f20",
+      "memory": "User will experiment with different meal ideas and portion sizes to find what works best for them.",
+      "hash": "e68ff7118e0bff5767d1a7db506c756f",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will experiment with",
+          "object_text": "different meal ideas and portion sizes to find what works best for them",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "will experiment with"
+        }
+      },
+      "score": 0.30170053743245817,
+      "created_at": "2026-07-06T04:54:58.726548-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "d3cd50c2-2508-4c51-8ad7-d9ddd2a1847c",
+      "memory": "User thinks a personalized gift would be especially meaningful for their mom.",
+      "hash": "1c8ba05c44c1df7d046f00561c1d089d",
+      "metadata": {
+        "ordinal": 671,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "thinks personalized gift would be",
+          "object_text": "especially meaningful for their mom",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "thinks a personalized gift would be"
+        }
+      },
+      "score": 0.3004540824857953,
+      "created_at": "2026-07-06T04:57:16.410644-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e89fde01-4f97-4ade-b4b3-55c2e19df4f8",
+      "memory": "User is adding onions and bell peppers to their grocery list.",
+      "hash": "94ebffa6db2c4bd410bd0bc1e9f152e1",
+      "metadata": {
+        "ordinal": 494,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be adding",
+          "object_text": "onions and bell peppers to their grocery list",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is adding"
+        }
+      },
+      "score": 0.2895108685278498,
+      "created_at": "2026-07-06T04:56:37.014259-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "f2430d3a-7565-4987-ac77-8ba9103dcf7f",
+      "memory": "User is planning a dinner party this weekend.",
+      "hash": "d175af7dcc5b83e05d9c99b1c09ec0ef",
+      "metadata": {
+        "ordinal": 12,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.2850275433185784,
+      "created_at": "2026-07-06T04:52:37.565111-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "96e01282-745a-4441-b267-3cab3e760d5c",
+      "memory": "User is trying to plan their workout routine for the next month.",
+      "hash": "7b15f4b07553850b884e13c8afbb4ad6",
+      "metadata": {
+        "ordinal": 304,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.27837869079336824,
+      "created_at": "2026-07-06T04:54:58.682378-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "84064b31-2078-484a-b922-0a70a8fffd41",
+      "memory": "User is thinking of bringing some sort of salad to the picnic.",
+      "hash": "1f2c4402baf7e17279a13e8225c1379d",
+      "metadata": {
+        "ordinal": 300,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking bringing",
+          "object_text": "some sort of salad to the picnic",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of bringing"
+        }
+      },
+      "score": 0.27746551022400157,
+      "created_at": "2026-07-06T04:54:47.242952-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "301d06ae-f3f6-4c4b-92a1-d1dca069b1dc",
+      "memory": "User wrote a journal entry reflecting on their childhood and the impact of their narcissistic mother on their self-worth.",
+      "hash": "09d23553de58a7cd8963e0526c8e443e",
+      "metadata": {
+        "ordinal": 148,
+        "triple": null,
+        "subject_fallback": "user's_mother"
+      },
+      "score": 0.2760802718286478,
+      "created_at": "2026-07-06T04:53:58.959964-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "92331383-7e8a-41bd-9b66-1727302307c0",
+      "memory": "User is hoping to recreate some of the magic from Emily's surprise baby shower at the upcoming shower.",
+      "hash": "2f86df409fbe25be2f927483b8198ad4",
+      "metadata": {
+        "ordinal": 435,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be hoping to recreate",
+          "object_text": "some of the magic from Emily's surprise baby shower at the upcoming shower",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is hoping to recreate"
+        }
+      },
+      "score": 0.27370161503989204,
+      "created_at": "2026-07-06T04:56:03.073896-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "277d4975-3c63-43ce-a147-779876f81a70",
+      "memory": "User will focus on protein, carbs, and healthy fats on Thursdays.",
+      "hash": "a7213299ae9c90069a9b32e458c4f956",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will focus on",
+          "object_text": "protein, carbs, and healthy fats on Thursdays",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "will focus on"
+        }
+      },
+      "score": 0.2633069449556706,
+      "created_at": "2026-07-06T04:54:58.721929-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "abcab69d-e99b-4132-a0d2-cba8d5487000",
+      "memory": "User is planning to start tracking their food intake more closely.",
+      "hash": "b1e7c2ac6d0516b9e135f125a939669a",
+      "metadata": {
+        "ordinal": 309,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning to start tracking",
+          "object_text": "their food intake more closely",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to start tracking"
+        }
+      },
+      "score": 0.26301418247415187,
+      "created_at": "2026-07-06T04:54:58.710093-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "954938ff-8353-4945-8bd4-48afca46e0bb",
+      "memory": "User summarized their beliefs and practices in a prayer format.",
+      "hash": "4659fda22e3b2c542c2db068adaae432",
+      "metadata": {
+        "ordinal": 154,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.2629508202259191,
+      "created_at": "2026-07-06T04:53:58.974159-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2692498e-b7b7-4460-b296-64539189dede",
+      "memory": "User is thinking of serving refreshing drinks at the baby shower.",
+      "hash": "63f9c13a6f9ce0ad64131a5f0e5a37ea",
+      "metadata": {
+        "ordinal": 437,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking serving",
+          "object_text": "refreshing drinks at the baby shower",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of serving"
+        }
+      },
+      "score": 0.26059400001659105,
+      "created_at": "2026-07-06T04:56:03.079816-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "5940aab8-d5d0-4e9c-9e39-65379dafadd3",
+      "memory": "User needs recipe ideas for the dinner party.",
+      "hash": "4c4875a17a08f3042c06d7abe963a181",
+      "metadata": {
+        "ordinal": 13,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.26018224323481387,
+      "created_at": "2026-07-06T04:52:37.568385-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3685e33d-fc12-42b6-9cbb-676b92fc6621",
+      "memory": "User is thinking about making a quilt using some of the fabrics from their grandmother's sewing kit.",
+      "hash": "8fb328d54b90b3fa967faef88cbf5863",
+      "metadata": {
+        "ordinal": 231,
+        "triple": null,
+        "subject_fallback": "grandmother"
+      },
+      "score": 0.25774177433275336,
+      "created_at": "2026-07-06T04:54:29.439581-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "dc252a16-f291-41cf-8805-c0d8763e9e5c",
+      "memory": "User will try to make crispy kale chips again",
+      "hash": "df842d90e1dd5a5e69bb72ab9502661c",
+      "metadata": {
+        "ordinal": 48,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.2545772795126848,
+      "created_at": "2026-07-06T04:52:43.072126-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "aa44f1c0-e654-4f48-92b5-eef62148076a",
+      "memory": "User is planning to host a summer BBQ next weekend.",
+      "hash": "b637ef1ae0919ab6bfa42f8b3bea40af",
+      "metadata": {
+        "ordinal": 182,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning to host",
+          "object_text": "a summer BBQ next weekend",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to host"
+        }
+      },
+      "score": 0.2535525941759719,
+      "created_at": "2026-07-06T04:54:08.205344-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "b40d4b82-ebcf-46e9-96b5-3599e2d4719f",
+      "memory": "User is planning a baby shower for a friend.",
+      "hash": "fd8caa3922deecbe93612c1f3ac48886",
+      "metadata": {
+        "ordinal": 430,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning",
+          "object_text": "a baby shower for a friend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning"
+        }
+      },
+      "score": 0.2486048603660851,
+      "created_at": "2026-07-06T04:56:03.047660-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "38b88a7f-d0ee-4326-8d31-f41e38189e49",
+      "memory": "User is using their grandmother's old sewing machine to make the quilt.",
+      "hash": "fd4a34ed0a53e75b4b7584253dc3a070",
+      "metadata": {
+        "ordinal": 232,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be using",
+          "object_text": "their grandmother's old sewing machine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is using"
+        }
+      },
+      "score": 0.2415850876296956,
+      "created_at": "2026-07-06T04:54:29.444630-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "a48eba01-ce9f-4df6-8b2c-cdacbc62c355",
+      "memory": "User is looking for fashion advice.",
+      "hash": "916c701ebef5e7084927434e1604d0a3",
+      "metadata": {
+        "ordinal": 661,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.24116837575617533,
+      "created_at": "2026-07-06T04:57:16.373899-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "670b74bc-8811-47a3-b51a-2bf8c820fa91",
+      "memory": "The user inquired if the certbot command runs once a day from the container's CRON.",
+      "hash": "ab39de6994253783f21b0749a7a555b3",
+      "metadata": {
+        "ordinal": 557,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "inquired if",
+          "object_text": "the certbot command runs once a day from the container's CRON",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "inquired if"
+        }
+      },
+      "score": 0.24073972470902893,
+      "created_at": "2026-07-06T04:56:47.864851-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e9d873c9-eda5-40fe-bcd8-41d2ffdadb80",
+      "memory": "User is thinking of making some watermelon agua fresca to complement the lemonade.",
+      "hash": "47c9c6f04a6152a6bf3b70c4dd1c4489",
+      "metadata": {
+        "ordinal": 189,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking making",
+          "object_text": "some watermelon agua fresca to complement the lemonade",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of making"
+        }
+      },
+      "score": 0.23948326601879513,
+      "created_at": "2026-07-06T04:54:08.236185-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "399a4bbb-98b0-4bec-ae37-51eca2c77db4",
+      "memory": "User is thinking of selling some of their gently used craft supplies to make room for new ones.",
+      "hash": "f4171f58a54ac6d1267a41fe369308ed",
+      "metadata": {
+        "ordinal": 235,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.23917083718048393,
+      "created_at": "2026-07-06T04:54:29.457777-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0afef99d-eb6a-45a0-8425-166fa4b00d33",
+      "memory": "User wants to see if they can make any correlations between what they eat and how they feel during their workouts.",
+      "hash": "b3694558de8b1deab3ee85e56cc734ed",
+      "metadata": {
+        "ordinal": 310,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "wants to see if they can make any correlations between",
+          "object_text": "what they eat and how they feel during their workouts",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to see if they can make any correlations between"
+        }
+      },
+      "score": 0.23900194759587334,
+      "created_at": "2026-07-06T04:54:58.713533-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "a1c0855e-8e62-4c57-a75a-12de6e7ed752",
+      "memory": "User provided journal prompts to evaluate the validity of the belief: 1. What evidence do I have that supports the belief that I am unlovable and unworthy of love? 2. How have my past experiences with my mother shaped my perception of my worthiness of love? 3. Are there other relationships or experiences that contradict this belief?",
+      "hash": "068541f18e561785a20a9717d1aa13d6",
+      "metadata": {
+        "ordinal": 147,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.23703587472455948,
+      "created_at": "2026-07-06T04:53:58.957027-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "48fa711a-7345-412e-8252-732cbe03394b",
+      "memory": "User is thinking about switching to a monthly train pass.",
+      "hash": "7de573052969bbd6fb6e21c8849d62e1",
+      "metadata": {
+        "ordinal": 193,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.23590634616067346,
+      "created_at": "2026-07-06T04:54:12.667494-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "b73f3956-e76d-4b8f-b8ab-37ea74373a4a",
+      "memory": "User thinks they'll go with the quinoa salad jars for the picnic.",
+      "hash": "408ec458932a0ea8b134f1a53b4de1d1",
+      "metadata": {
+        "ordinal": 301,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "thinks they'll go with",
+          "object_text": "the quinoa salad jars for the picnic",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they'll go with"
+        }
+      },
+      "score": 0.23541986840033852,
+      "created_at": "2026-07-06T04:54:47.247467-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e38a333d-807c-4b57-822c-9ee32ece2732",
+      "memory": "User recently restocked Luna's food.",
+      "hash": "99de8fc8f3564d1b3a72915a1d73a194",
+      "metadata": {
+        "ordinal": 658,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "recently restocked",
+          "object_text": "Luna's food",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "recently restocked"
+        }
+      },
+      "score": 0.2343538305311242,
+      "created_at": "2026-07-06T04:57:08.859977-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "fc6db342-1232-46bd-94f9-86407ac7e644",
+      "memory": "User thinks they will try incorporating foods and nutrients that help with muscle recovery into their post-workout routine on Thursdays.",
+      "hash": "7617e185c69a4ccca6ef71f33b90d05c",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "thinks they will try incorporating",
+          "object_text": "foods and nutrients that help with muscle recovery into their post-workout routine on Thursdays",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they will try incorporating"
+        }
+      },
+      "score": 0.2343358271764902,
+      "created_at": "2026-07-06T04:54:58.728937-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "fdb1f0bc-9d4e-4147-835c-9736d5a7045b",
+      "memory": "User will be visiting family in the Bay Area.",
+      "hash": "28ceb5607073377e66ce3e44f1401e44",
+      "metadata": {
+        "ordinal": 2,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will be visiting",
+          "object_text": "family in the Bay Area",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "will be visiting"
+        }
+      },
+      "score": 0.23423211391966256,
+      "created_at": "2026-07-06T04:52:31.138145-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "c9c79159-98ef-43f7-bb81-40f3a7823e2d",
+      "memory": "User is planning a trip to visit family for the holidays.",
+      "hash": "14b5c7d78cbcffeb8b3ebdb02e530964",
+      "metadata": {
+        "ordinal": 0,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.23112157779027231,
+      "created_at": "2026-07-06T04:52:31.126117-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "9ea21350-0c84-4476-869f-fd041c5473a3",
+      "memory": "User is planning to make chicken fajitas for dinner.",
+      "hash": "ea0770248ae0f79add4d44010b619593",
+      "metadata": {
+        "ordinal": 493,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.22706782259513755,
+      "created_at": "2026-07-06T04:56:37.003660-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "7264c88f-2b20-40c1-af05-3d2bf0e746fb",
+      "memory": "User has tried kale chips before",
+      "hash": "1777e3d22bd9b638dfe6775ef58c5d98",
+      "metadata": {
+        "ordinal": 46,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has tried",
+          "object_text": "kale chips",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has tried"
+        }
+      },
+      "score": 0.2269254435453359,
+      "created_at": "2026-07-06T04:52:43.061307-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "ef3b9952-4d8a-40bc-b70d-3fd2f6c04664",
+      "memory": "User is trying to plan a road trip to the Japanese Alps in November.",
+      "hash": "5d1dfe6b20cdebff5d8a4e40c6602a86",
+      "metadata": {
+        "ordinal": 413,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.22475728067495393,
+      "created_at": "2026-07-06T04:55:44.233489-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "4badd133-de4d-47d8-8966-db5005d2c4cc",
+      "memory": "User is running low on olive oil.",
+      "hash": "0ac43f4ad2b18f6b147ba2e3b8f5bef5",
+      "metadata": {
+        "ordinal": 495,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be running low on",
+          "object_text": "olive oil",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is running low on"
+        }
+      },
+      "score": 0.22413393227510178,
+      "created_at": "2026-07-06T04:56:37.019123-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "6ed81067-551f-481d-b099-cf8f4f09dc82",
+      "memory": "User is a therapist with many years of counselling survivors of childhood emotional trauma.",
+      "hash": "0c411d605293abeaf7640f7beff981a2",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be",
+          "object_text": "a therapist with many years of counselling survivors of childhood emotional trauma",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.22323120060519341,
+      "created_at": "2026-07-06T04:53:58.939443-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "4c838df3-b8e8-4921-873c-82a92661a5aa",
+      "memory": "User is trying to log in to their frequent flyer account to check if their miles have been credited.",
+      "hash": "47f6084c84d594edbaddccf7131249ee",
+      "metadata": {
+        "ordinal": 221,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.22185360763411788,
+      "created_at": "2026-07-06T04:54:23.034105-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "7345aab2-c274-42a4-abdf-7d30403d4180",
+      "memory": "User's declarative statement is 'I am deserving of love and capable of giving love, regardless of my past experiences with my narcissistic mother.'",
+      "hash": "01d41543a63e86ea02f964634c303312",
+      "metadata": {
+        "ordinal": 153,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "declarative statement be",
+          "object_text": "'I am deserving of love and capable of giving love, regardless of my past experiences with my narcissistic mother.'",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "declarative statement is"
+        }
+      },
+      "score": 0.22184870016409583,
+      "created_at": "2026-07-06T04:53:58.972039-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "33cb104d-0563-4836-89b4-b6a7cf732a12",
+      "memory": "User is currently reading 'The Three-Body Problem'.",
+      "hash": "f1245462a6c71dad17bdc0a404614132",
+      "metadata": {
+        "ordinal": 328,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be currently reading",
+          "object_text": "'The Three-Body Problem'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is currently reading"
+        }
+      },
+      "score": 0.22137701103828727,
+      "created_at": "2026-07-06T04:55:14.194048-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "54f5f8bd-f9c7-41a2-ba80-8a37b30dcd9b",
+      "memory": "User is interested in whether the manufacturing delays are due to production capacity limitations or raw material shortages.",
+      "hash": "137069608fb5ed3faa37fb6dac989216",
+      "metadata": {
+        "ordinal": 644,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.22005455862771978,
+      "created_at": "2026-07-06T04:57:00.574199-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3a949382-a835-4b4c-8b16-82fbc16bcfd7",
+      "memory": "User plans to incorporate more kale into their diet",
+      "hash": "97248652605fff5788992e1f66d50edd",
+      "metadata": {
+        "ordinal": 49,
+        "triple": null,
+        "subject_fallback": "kale"
+      },
+      "score": 0.21892353386887423,
+      "created_at": "2026-07-06T04:52:43.076566-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "364f45db-7125-4e90-bb55-f405c0d6afe0",
+      "memory": "User provided an example of a 64-year-old male raised by a narcissistic mother who internalized the belief that he is unlovable and unworthy of love.",
+      "hash": "faa629a674407b8f822aa851df854f05",
+      "metadata": {
+        "ordinal": 146,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "provided example",
+          "object_text": "a 64-year-old male raised by a narcissistic mother who internalized the belief that he is unlovable and unworthy of love",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "provided an example of"
+        }
+      },
+      "score": 0.21839133867039792,
+      "created_at": "2026-07-06T04:53:58.952879-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "9c00ddb5-4b79-440d-999a-5f98b9914c62",
+      "memory": "User is feeling a bit down about their social life lately.",
+      "hash": "32e0dd92147b026cc2990611a569115a",
+      "metadata": {
+        "ordinal": 68,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.21711251027093662,
+      "created_at": "2026-07-06T04:53:08.529612-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "46cd452a-61b0-4fc6-b124-000df0c683b3",
+      "memory": "User is trying to reduce their daily commute expenses.",
+      "hash": "08eb469f0f99bb38a5f88b6922a214fb",
+      "metadata": {
+        "ordinal": 190,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.21701052417968525,
+      "created_at": "2026-07-06T04:54:12.651386-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "4d17b6a8-3aa2-422e-94f4-18a462da0021",
+      "memory": "User is going to make Lemon Garlic Chicken Breast with Roasted Vegetables.",
+      "hash": "0691bd8d61bfbcd3238ed835cd337ad5",
+      "metadata": {
+        "ordinal": 14,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be going to make",
+          "object_text": "Lemon Garlic Chicken Breast with Roasted Vegetables",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is going to make"
+        }
+      },
+      "score": 0.2161090532197551,
+      "created_at": "2026-07-06T04:52:37.570898-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2c8db3a7-0f9f-4140-8392-f6c9a3b6b54e",
+      "memory": "User has cauliflower gnocchi from Trader Joe's.",
+      "hash": "d5cf3f956589ed44bdcf665f8aa9efbf",
+      "metadata": {
+        "ordinal": 498,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has",
+          "object_text": "cauliflower gnocchi from Trader Joe's",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.21362055385675902,
+      "created_at": "2026-07-06T04:56:37.032986-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "366cd880-80a1-4d4b-b3c0-05c5a0e7e6e8",
+      "memory": "User is thinking of selling some of their yarn stash.",
+      "hash": "c5be591be0c6e797e9ad1d33b861f95f",
+      "metadata": {
+        "ordinal": 236,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.21266103584704152,
+      "created_at": "2026-07-06T04:54:29.461096-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0cc0534f-3ba6-4d66-baf3-c1ed458afd08",
+      "memory": "User is thinking of booking a flight from Chicago to Los Angeles.",
+      "hash": "f47ef8cf02e1aca02f13a2c4029f9797",
+      "metadata": {
+        "ordinal": 229,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking booking",
+          "object_text": "a flight from Chicago to Los Angeles",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of booking"
+        }
+      },
+      "score": 0.20893602178784415,
+      "created_at": "2026-07-06T04:54:23.065053-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "8bb6d0cc-7f01-455e-9f48-3ab6a33153c2",
+      "memory": "User plans to head to The Dipsea Cafe after their hike.",
+      "hash": "91aa4ad96435340873914c723895c970",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "plans to head to",
+          "object_text": "The Dipsea Cafe after their hike",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "plans to head to"
+        }
+      },
+      "score": 0.2085438474660441,
+      "created_at": "2026-07-06T04:52:31.156489-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "d5dfc104-ff8c-46e7-81e7-9bc46743250e",
+      "memory": "User helped plan a surprise baby shower for their best friend Emily on February 1st.",
+      "hash": "7abd58a0e8751420ece5718113bb99c4",
+      "metadata": {
+        "ordinal": 431,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "helped plan",
+          "object_text": "a surprise baby shower for their best friend Emily on February 1st",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "helped plan"
+        }
+      },
+      "score": 0.20775003847154921,
+      "created_at": "2026-07-06T04:56:03.056363-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0033c88e-9ccd-4d9d-a648-3957dbdd5e13",
+      "memory": "User is planning a trip to Chicago soon.",
+      "hash": "9e650312a3012b84206d4b3a840ddd51",
+      "metadata": {
+        "ordinal": 50,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.20506306457422876,
+      "created_at": "2026-07-06T04:52:51.055197-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "81ccbf0b-3f6c-4ba8-bfdc-d99ce194b140",
+      "memory": "User is having issues with their internet connection, which has been slow and unreliable, especially in the evenings.",
+      "hash": "6947a881f0166ba4ef541341036c7fcf",
+      "metadata": {
+        "ordinal": 317,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.20467550023414763,
+      "created_at": "2026-07-06T04:55:07.096714-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "75f91d6b-952f-42f4-b563-9f2920d33ef9",
+      "memory": "User would like to know more about the vaccine supply chain issues.",
+      "hash": "bc4e6da1e371dada8603c07999d63016",
+      "metadata": {
+        "ordinal": 643,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.20440301342752337,
+      "created_at": "2026-07-06T04:57:00.570596-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "76eb3a7f-9a15-4fef-9b7c-c05cf50dd9cb",
+      "memory": "User wants to know how the EU and individual countries are addressing vaccine supply chain issues.",
+      "hash": "d2593b643e0a2e8f4696a2b9127f4bec",
+      "metadata": {
+        "ordinal": 645,
+        "triple": null,
+        "subject_fallback": "eu"
+      },
+      "score": 0.20408603958878446,
+      "created_at": "2026-07-06T04:57:00.577345-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "490ec408-3687-47f5-8a0e-9ad6ce5e4b81",
+      "memory": "User's best friend moved to a new city for a job opportunity about 6 weeks ago.",
+      "hash": "e40dbef3d2b79ad390698b0fb60cfef0",
+      "metadata": {
+        "ordinal": 69,
+        "triple": {
+          "subject_id": "user's_best_friend",
+          "predicate_norm": "moved to",
+          "object_text": "a new city for a job opportunity about 6 weeks ago",
+          "confidence": 0.85,
+          "subject_raw": "User's best friend",
+          "predicate_raw": "moved to"
+        }
+      },
+      "score": 0.20216157919734384,
+      "created_at": "2026-07-06T04:53:08.535276-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2aa361e8-dd19-4928-a9be-7d4d37bcc6c2",
+      "memory": "User's specialty is working with clients who grew up in families dominated by emotionally immature parents.",
+      "hash": "09b758cf12ce6255c9ea4cef16516341",
+      "metadata": {
+        "ordinal": 144,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "specializes in",
+          "object_text": "working with clients who grew up in families dominated by emotionally immature parents",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "specializes in"
+        }
+      },
+      "score": 0.20025865687506345,
+      "created_at": "2026-07-06T04:53:58.945296-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "a1d9fd31-fbdf-4ec0-9d9f-a420a245710e",
+      "memory": "User has been doing some practice with their portable hide at home.",
+      "hash": "56f7f720d57280e5e514f0fb19b26218",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "some practice with their portable hide at home",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.20002634653075546,
+      "created_at": "2026-07-06T04:53:00.424008-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "37f1fe6d-93d2-43a2-a10a-54f2cec6a294",
+      "memory": "User has been living in Tokyo for about 6 months.",
+      "hash": "3d2f786d546e2203024ce209cedbefc5",
+      "metadata": {
+        "ordinal": 416,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has be living in",
+          "object_text": "Tokyo",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been living in"
+        }
+      },
+      "score": 0.19994647559639334,
+      "created_at": "2026-07-06T04:55:44.239925-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0769785f-022e-459d-a98e-96f360b4cc4b",
+      "memory": "User's kale chips always turn out soggy",
+      "hash": "55c47bb016376520e7ad8e4de1f6ec3e",
+      "metadata": {
+        "ordinal": 47,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "kale chips always turn out",
+          "object_text": "soggy",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "kale chips always turn out"
+        }
+      },
+      "score": 0.19746285609291359,
+      "created_at": "2026-07-06T04:52:43.068140-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "d412fda0-ae2b-4e61-8df9-8772cbbfbea5",
+      "memory": "User is worried that the Mid-Century Modern style might look outdated in a few years.",
+      "hash": "bdb9f1b7eaab7851543f37c0cb1a3e8c",
+      "metadata": {
+        "ordinal": 423,
+        "triple": null,
+        "subject_fallback": "mid_century_modern"
+      },
+      "score": 0.19601937888923981,
+      "created_at": "2026-07-06T04:55:53.777168-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e92d735f-cc28-435d-9927-4f2fd05d20a6",
+      "memory": "User and their siblings took a lot of photos in their matching outfits.",
+      "hash": "68521f55e8671480e77fea5fcf0bfb58",
+      "metadata": {
+        "ordinal": 668,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.19540774679554862,
+      "created_at": "2026-07-06T04:57:16.403218-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "eb4d13c3-983a-4e25-92f8-951ebd891646",
+      "memory": "User is particularly interested in the European Union's response to the COVID-19 pandemic, especially the vaccination rollout and travel restrictions.",
+      "hash": "59cafad3941e72d0bbdc69d9d1f82fcf",
+      "metadata": {
+        "ordinal": 641,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be particularly interested in",
+          "object_text": "the European Union's response to the COVID-19 pandemic, especially the vaccination rollout and travel restrictions",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is particularly interested in"
+        }
+      },
+      "score": 0.19537411098120938,
+      "created_at": "2026-07-06T04:57:00.561384-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "b9e6a120-006c-4922-ba5c-603b9961d688",
+      "memory": "User will probably stop by The Coffee Roastery in Mill Valley before heading to the Steep Ravine Trailhead.",
+      "hash": "0ed077f8f3cfc799441a77e9c72afc6b",
+      "metadata": {
+        "ordinal": 6,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will probably stop by",
+          "object_text": "The Coffee Roastery in Mill Valley",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "will probably stop by"
+        }
+      },
+      "score": 0.1951896274723746,
+      "created_at": "2026-07-06T04:52:31.153612-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "519387b1-01f9-4fb5-b320-1cac66ec22f0",
+      "memory": "User would love to learn more about the trails they will be hiking and the local flora and fauna.",
+      "hash": "01beda6ae423e17db409a8b3e1f718b0",
+      "metadata": {
+        "ordinal": 11,
+        "triple": null,
+        "subject_fallback": "trails"
+      },
+      "score": 0.19436868315028416,
+      "created_at": "2026-07-06T04:52:31.166201-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "747aaf0a-13ad-4a26-951d-99d6e6b074e2",
+      "memory": "User has been reading a lot on their daily commute, which is about 45 minutes each way.",
+      "hash": "47adddc0515495dae9918b93b98912e9",
+      "metadata": {
+        "ordinal": 332,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.19119469775745201,
+      "created_at": "2026-07-06T04:55:14.212302-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3115bb44-4c24-42a0-b05e-e94ac3863a8c",
+      "memory": "User is interested in how advance purchase agreements work and what kind of guarantees they provide to ensure a steady vaccine supply.",
+      "hash": "a654ebd1aa89c0d0640957fe79569626",
+      "metadata": {
+        "ordinal": 647,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.19066010563167005,
+      "created_at": "2026-07-06T04:57:00.582796-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "40240620-dcc3-454d-9503-3c9050368111",
+      "memory": "User would like to know more about the advance purchase agreements (APAs) related to vaccine supply.",
+      "hash": "fb8e2fbd00600f9d6bb6ec256d813b92",
+      "metadata": {
+        "ordinal": 646,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.18847611586640275,
+      "created_at": "2026-07-06T04:57:00.580202-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3a741f93-96ea-493a-8295-964409cf75c9",
+      "memory": "User needs to get fresh herbs like cilantro and parsley for their fajitas.",
+      "hash": "d92977f3f2990392cbfecb8cb617300a",
+      "metadata": {
+        "ordinal": 497,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "needs to get",
+          "object_text": "fresh herbs like cilantro and parsley for their fajitas",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "needs to get"
+        }
+      },
+      "score": 0.1883231200261241,
+      "created_at": "2026-07-06T04:56:37.028457-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "0fbf1d85-d227-4219-aae3-f0067d401666",
+      "memory": "User thinks they will check out Book Passage in Mill Valley.",
+      "hash": "b215552ac1037699a123780f2be07180",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "thinks they will check out",
+          "object_text": "Book Passage in Mill Valley",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they will check out"
+        }
+      },
+      "score": 0.18805138642841107,
+      "created_at": "2026-07-06T04:52:31.161492-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e7e089e7-a648-44fc-820f-603f42ef4f73",
+      "memory": "User remembers reading in The New York Times that some countries are having issues with vaccine supply.",
+      "hash": "e93d410929bfcfe96174d435cbb1e479",
+      "metadata": {
+        "ordinal": 642,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "remembers reading in",
+          "object_text": "The New York Times that some countries are having issues with vaccine supply",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "remembers reading in"
+        }
+      },
+      "score": 0.1878486285350311,
+      "created_at": "2026-07-06T04:57:00.566053-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "708c9341-7022-4286-a618-f30c298133fe",
+      "memory": "User is glad they got matching outfits for the family.",
+      "hash": "e288af53d4d2ca1257a1ce4013bde532",
+      "metadata": {
+        "ordinal": 667,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.18704882293821093,
+      "created_at": "2026-07-06T04:57:16.400469-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e37fd9f9-bdec-4a9e-88f0-d545f9b5be5b",
+      "memory": "User is interested in areas like Harajuku or Shibuya.",
+      "hash": "c9a96900fa8e19488ef3ff2738f0e291",
+      "metadata": {
+        "ordinal": 419,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be interested in areas like",
+          "object_text": "Harajuku or Shibuya",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in areas like"
+        }
+      },
+      "score": 0.1858263669062057,
+      "created_at": "2026-07-06T04:55:44.245853-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2fefc75c-e095-4e5c-ac66-245b8dbf4d5b",
+      "memory": "User wants a daily 1 hour guitar practice routine to get good at soloing and shredding on guitar.",
+      "hash": "099e96676ae254f7d9cdd62029999530",
+      "metadata": {
+        "ordinal": 80,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "wants",
+          "object_text": "a daily 1 hour guitar practice routine to get good at soloing and shredding on guitar",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "wants"
+        }
+      },
+      "score": 0.18546133491497135,
+      "created_at": "2026-07-06T04:53:14.327180-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e6e0543d-cde9-469d-9db3-c8a613776c6b",
+      "memory": "The user requested to modify the docker-compose file to include the CRON and the jq and not use a Dockerfile.",
+      "hash": "f44465ef22777258af179fd266e94cf8",
+      "metadata": {
+        "ordinal": 558,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "requested to modify",
+          "object_text": "the docker-compose file to include the CRON and the jq and not use a Dockerfile",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "requested to modify"
+        }
+      },
+      "score": 0.18516732895632904,
+      "created_at": "2026-07-06T04:56:47.870553-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "c8efcc5a-0ddf-4f33-b9a9-d9cc8bfdda48",
+      "memory": "User identified adaptive behavior as actively seeking and cultivating deep, meaningful relationships while recognizing and asserting personal boundaries.",
+      "hash": "347d68e7e3dff8728a58e05a91023162",
+      "metadata": {
+        "ordinal": 152,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "identified adaptive behavior as",
+          "object_text": "actively seeking and cultivating deep, meaningful relationships while recognizing and asserting personal boundaries",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "identified adaptive behavior as"
+        }
+      },
+      "score": 0.18368641294734322,
+      "created_at": "2026-07-06T04:53:58.969542-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "798848a3-d541-450f-8d46-bd7180a85e4a",
+      "memory": "User is looking to redecorate their living room.",
+      "hash": "2ee2b7f4b28645ef3f02058f536105f1",
+      "metadata": {
+        "ordinal": 420,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.18313927043616002,
+      "created_at": "2026-07-06T04:55:53.761915-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "d4f314e2-c7e3-4037-a67d-37302b939ef5",
+      "memory": "User is planning a trip to Miami.",
+      "hash": "94495175b3e2d09ff571bb6d5990844c",
+      "metadata": {
+        "ordinal": 82,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be planning trip to",
+          "object_text": "Miami",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning a trip to"
+        }
+      },
+      "score": 0.18235280598304962,
+      "created_at": "2026-07-06T04:53:20.903672-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "7488f926-d464-4358-aa1b-ac5b5a7890f4",
+      "memory": "User is considering visiting the museum on a Thursday evening to take advantage of the free admission for Illinois residents.",
+      "hash": "18b12bcc85a037e9cb8cd0ac8e578fe6",
+      "metadata": {
+        "ordinal": 54,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be considering visiting",
+          "object_text": "the museum on a Thursday evening",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "is considering visiting"
+        }
+      },
+      "score": 0.18085626830685483,
+      "created_at": "2026-07-06T04:52:51.076863-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "e4dd49f0-96d6-439d-bc8c-971a05a83f6b",
+      "memory": "User's alternative adaptive belief is 'I am deserving of love and capable of giving love, regardless of my mother's expectations.'",
+      "hash": "025ed1279c7ca1ee4eb2f69607f9af22",
+      "metadata": {
+        "ordinal": 149,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has alternative adaptive belief",
+          "object_text": "'I am deserving of love and capable of giving love, regardless of my mother's expectations.'",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has alternative adaptive belief"
+        }
+      },
+      "score": 0.17991398178924758,
+      "created_at": "2026-07-06T04:53:58.962517-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "abd99754-5760-4d4c-a5e0-a3f8b8b0dac9",
+      "memory": "User got to the store early on Saturday, right when it opened.",
+      "hash": "9f27e5f0fbfe801b48e86fece4c61796",
+      "metadata": {
+        "ordinal": 185,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "got to store early on",
+          "object_text": "Saturday, right when it opened",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "got to the store early on"
+        }
+      },
+      "score": 0.1775325478209244,
+      "created_at": "2026-07-06T04:54:08.222018-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2274dcbf-627d-4faf-9c49-594c275c0856",
+      "memory": "User has been using their new smart TV to stream shows on Amazon Prime.",
+      "hash": "dcfcb4aeba23028be5efa756a4acae50",
+      "metadata": {
+        "ordinal": 318,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "has be using",
+          "object_text": "new smart TV to stream shows on Amazon Prime",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.17729463061203687,
+      "created_at": "2026-07-06T04:55:07.106483-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "41dc6d66-4519-46d8-b9c5-16d0c53a2e20",
+      "memory": "Sutton's Inc. visits with many types of customers, including traditional families, older retirees, and rural homeowners.",
+      "hash": "e5233829de4213341d44565afd754358",
+      "metadata": {
+        "ordinal": 470,
+        "triple": {
+          "subject_id": "sutton's_inc.",
+          "predicate_norm": "visits with",
+          "object_text": "many types of customers, including traditional families, older retirees, and rural homeowners",
+          "confidence": 0.9,
+          "subject_raw": "Sutton's Inc.",
+          "predicate_raw": "visits with"
+        }
+      },
+      "score": 0.17707425144118255,
+      "created_at": "2026-07-06T04:56:30.765792-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "94329664-d284-42cf-a1e4-2209484139eb",
+      "memory": "User is thinking of incorporating some plants into their living room design.",
+      "hash": "fddc49bca45b676909c3db924c7389b3",
+      "metadata": {
+        "ordinal": 424,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking incorporating",
+          "object_text": "some plants into their living room design",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of incorporating"
+        }
+      },
+      "score": 0.17533535228961258,
+      "created_at": "2026-07-06T04:55:53.780524-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "613a55a6-b668-4f38-a9a4-675e86ebd6e8",
+      "memory": "User usually takes the 7:15 am train from Oakdale station.",
+      "hash": "eb94d4ebd83d5169333b250996391873",
+      "metadata": {
+        "ordinal": 191,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "usually takes",
+          "object_text": "the 7:15 am train from Oakdale station",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "usually takes"
+        }
+      },
+      "score": 0.17533287546015708,
+      "created_at": "2026-07-06T04:54:12.657299-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "2ed34b19-9cd5-48c6-bc8e-c8017f91b81e",
+      "memory": "User is thinking of taking a day trip to Matsumoto while in Hakuba Valley.",
+      "hash": "103fdd5d804639ce35b913285b0ab3a0",
+      "metadata": {
+        "ordinal": 415,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "be thinking taking day trip to",
+          "object_text": "Matsumoto",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of taking a day trip to"
+        }
+      },
+      "score": 0.17532809338524902,
+      "created_at": "2026-07-06T04:55:44.237998-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "fcefde8c-1268-46dc-817b-d83f52927190",
+      "memory": "User will pay attention to their hydration and electrolyte levels.",
+      "hash": "3c84142af82cfae181c341e87ca0b80e",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "user::context_d7c942c3_longmemeval_s_ku_s1n2",
+          "predicate_norm": "will pay attention to",
+          "object_text": "their hydration and electrolyte levels",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "will pay attention to"
+        }
+      },
+      "score": 0.17469328769169318,
+      "created_at": "2026-07-06T04:54:58.724227-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    },
+    {
+      "id": "3759cc37-b8c6-4733-b56a-9338b43f95bf",
+      "memory": "User would like to know more about the risk-sharing provisions in the advance purchase agreements.",
+      "hash": "d257ef4fff7ec60e9fc927836888f40d",
+      "metadata": {
+        "ordinal": 648,
+        "triple": null,
+        "subject_fallback": "user::context_d7c942c3_longmemeval_s_ku_s1n2"
+      },
+      "score": 0.17385380905148762,
+      "created_at": "2026-07-06T04:57:00.585259-07:00",
+      "updated_at": null,
+      "user_id": "context_d7c942c3_longmemeval_s_ku_s1n2"
+    }
+  ],
+  "memories_str": "- User's mom is using the same grocery list app as them.\n- User is trying to get their mom to use the new grocery list app.\n- User and their mom went shopping for new outfits for the whole family two weeks ago.\n- User is thinking of getting a gift for their mom as a gesture of appreciation for her help in picking out the outfit.\n- User is trying to organize their grandmother's old sewing kit.\n- User spent an hour reading articles about recent European political developments in The New York Times on May 12, 2023.\n- User was at the mall last weekend with their sister.\n- User is curious to see how their nutrition affects their performance on Thursdays.\n- User will experiment with different meal ideas and portion sizes to find what works best for them.\n- User thinks a personalized gift would be especially meaningful for their mom.\n- User is adding onions and bell peppers to their grocery list.\n- User is planning a dinner party this weekend.\n- User is trying to plan their workout routine for the next month.\n- User is thinking of bringing some sort of salad to the picnic.\n- User wrote a journal entry reflecting on their childhood and the impact of their narcissistic mother on their self-worth.\n- User is hoping to recreate some of the magic from Emily's surprise baby shower at the upcoming shower.\n- User will focus on protein, carbs, and healthy fats on Thursdays.\n- User is planning to start tracking their food intake more closely.\n- User summarized their beliefs and practices in a prayer format.\n- User is thinking of serving refreshing drinks at the baby shower.\n- User needs recipe ideas for the dinner party.\n- User is thinking about making a quilt using some of the fabrics from their grandmother's sewing kit.\n- User will try to make crispy kale chips again\n- User is planning to host a summer BBQ next weekend.\n- User is planning a baby shower for a friend.\n- User is using their grandmother's old sewing machine to make the quilt.\n- User is looking for fashion advice.\n- The user inquired if the certbot command runs once a day from the container's CRON.\n- User is thinking of making some watermelon agua fresca to complement the lemonade.\n- User is thinking of selling some of their gently used craft supplies to make room for new ones.\n- User wants to see if they can make any correlations between what they eat and how they feel during their workouts.\n- User provided journal prompts to evaluate the validity of the belief: 1. What evidence do I have that supports the belief that I am unlovable and unworthy of love? 2. How have my past experiences with my mother shaped my perception of my worthiness of love? 3. Are there other relationships or experiences that contradict this belief?\n- User is thinking about switching to a monthly train pass.\n- User thinks they'll go with the quinoa salad jars for the picnic.\n- User recently restocked Luna's food.\n- User thinks they will try incorporating foods and nutrients that help with muscle recovery into their post-workout routine on Thursdays.\n- User will be visiting family in the Bay Area.\n- User is planning a trip to visit family for the holidays.\n- User is planning to make chicken fajitas for dinner.\n- User has tried kale chips before\n- User is trying to plan a road trip to the Japanese Alps in November.\n- User is running low on olive oil.\n- User is a therapist with many years of counselling survivors of childhood emotional trauma.\n- User is trying to log in to their frequent flyer account to check if their miles have been credited.\n- User's declarative statement is 'I am deserving of love and capable of giving love, regardless of my past experiences with my narcissistic mother.'\n- User is currently reading 'The Three-Body Problem'.\n- User is interested in whether the manufacturing delays are due to production capacity limitations or raw material shortages.\n- User plans to incorporate more kale into their diet\n- User provided an example of a 64-year-old male raised by a narcissistic mother who internalized the belief that he is unlovable and unworthy of love.\n- User is feeling a bit down about their social life lately.\n- User is trying to reduce their daily commute expenses.\n- User is going to make Lemon Garlic Chicken Breast with Roasted Vegetables.\n- User has cauliflower gnocchi from Trader Joe's.\n- User is thinking of selling some of their yarn stash.\n- User is thinking of booking a flight from Chicago to Los Angeles.\n- User plans to head to The Dipsea Cafe after their hike.\n- User helped plan a surprise baby shower for their best friend Emily on February 1st.\n- User is planning a trip to Chicago soon.\n- User is having issues with their internet connection, which has been slow and unreliable, especially in the evenings.\n- User would like to know more about the vaccine supply chain issues.\n- User wants to know how the EU and individual countries are addressing vaccine supply chain issues.\n- User's best friend moved to a new city for a job opportunity about 6 weeks ago.\n- User's specialty is working with clients who grew up in families dominated by emotionally immature parents.\n- User has been doing some practice with their portable hide at home.\n- User has been living in Tokyo for about 6 months.\n- User's kale chips always turn out soggy\n- User is worried that the Mid-Century Modern style might look outdated in a few years.\n- User and their siblings took a lot of photos in their matching outfits.\n- User is particularly interested in the European Union's response to the COVID-19 pandemic, especially the vaccination rollout and travel restrictions.\n- User will probably stop by The Coffee Roastery in Mill Valley before heading to the Steep Ravine Trailhead.\n- User would love to learn more about the trails they will be hiking and the local flora and fauna.\n- User has been reading a lot on their daily commute, which is about 45 minutes each way.\n- User is interested in how advance purchase agreements work and what kind of guarantees they provide to ensure a steady vaccine supply.\n- User would like to know more about the advance purchase agreements (APAs) related to vaccine supply.\n- User needs to get fresh herbs like cilantro and parsley for their fajitas.\n- User thinks they will check out Book Passage in Mill Valley.\n- User remembers reading in The New York Times that some countries are having issues with vaccine supply.\n- User is glad they got matching outfits for the family.\n- User is interested in areas like Harajuku or Shibuya.\n- User wants a daily 1 hour guitar practice routine to get good at soloing and shredding on guitar.\n- The user requested to modify the docker-compose file to include the CRON and the jq and not use a Dockerfile.\n- User identified adaptive behavior as actively seeking and cultivating deep, meaningful relationships while recognizing and asserting personal boundaries.\n- User is looking to redecorate their living room.\n- User is planning a trip to Miami.\n- User is considering visiting the museum on a Thursday evening to take advantage of the free admission for Illinois residents.\n- User's alternative adaptive belief is 'I am deserving of love and capable of giving love, regardless of my mother's expectations.'\n- User got to the store early on Saturday, right when it opened.\n- User has been using their new smart TV to stream shows on Amazon Prime.\n- Sutton's Inc. visits with many types of customers, including traditional families, older retirees, and rural homeowners.\n- User is thinking of incorporating some plants into their living room design.\n- User usually takes the 7:15 am train from Oakdale station.\n- User is thinking of taking a day trip to Matsumoto while in Hakuba Valley.\n- User will pay attention to their hydration and electrolyte levels.\n- User would like to know more about the risk-sharing provisions in the advance purchase agreements.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- User's mom is using the same grocery list app as them.\n- User is trying to get their mom to use the new grocery list app.\n- User and their mom went shopping for new outfits for the whole family two weeks ago.\n- User is thinking of getting a gift for their mom as a gesture of appreciation for her help in picking out the outfit.\n- User is trying to organize their grandmother's old sewing kit.\n- User spent an hour reading articles about recent European political developments in The New York Times on May 12, 2023.\n- User was at the mall last weekend with their sister.\n- User is curious to see how their nutrition affects their performance on Thursdays.\n- User will experiment with different meal ideas and portion sizes to find what works best for them.\n- User thinks a personalized gift would be especially meaningful for their mom.\n- User is adding onions and bell peppers to their grocery list.\n- User is planning a dinner party this weekend.\n- User is trying to plan their workout routine for the next month.\n- User is thinking of bringing some sort of salad to the picnic.\n- User wrote a journal entry reflecting on their childhood and the impact of their narcissistic mother on their self-worth.\n- User is hoping to recreate some of the magic from Emily's surprise baby shower at the upcoming shower.\n- User will focus on protein, carbs, and healthy fats on Thursdays.\n- User is planning to start tracking their food intake more closely.\n- User summarized their beliefs and practices in a prayer format.\n- User is thinking of serving refreshing drinks at the baby shower.\n- User needs recipe ideas for the dinner party.\n- User is thinking about making a quilt using some of the fabrics from their grandmother's sewing kit.\n- User will try to make crispy kale chips again\n- User is planning to host a summer BBQ next weekend.\n- User is planning a baby shower for a friend.\n- User is using their grandmother's old sewing machine to make the quilt.\n- User is looking for fashion advice.\n- The user inquired if the certbot command runs once a day from the container's CRON.\n- User is thinking of making some watermelon agua fresca to complement the lemonade.\n- User is thinking of selling some of their gently used craft supplies to make room for new ones.\n- User wants to see if they can make any correlations between what they eat and how they feel during their workouts.\n- User provided journal prompts to evaluate the validity of the belief: 1. What evidence do I have that supports the belief that I am unlovable and unworthy of love? 2. How have my past experiences with my mother shaped my perception of my worthiness of love? 3. Are there other relationships or experiences that contradict this belief?\n- User is thinking about switching to a monthly train pass.\n- User thinks they'll go with the quinoa salad jars for the picnic.\n- User recently restocked Luna's food.\n- User thinks they will try incorporating foods and nutrients that help with muscle recovery into their post-workout routine on Thursdays.\n- User will be visiting family in the Bay Area.\n- User is planning a trip to visit family for the holidays.\n- User is planning to make chicken fajitas for dinner.\n- User has tried kale chips before\n- User is trying to plan a road trip to the Japanese Alps in November.\n- User is running low on olive oil.\n- User is a therapist with many years of counselling survivors of childhood emotional trauma.\n- User is trying to log in to their frequent flyer account to check if their miles have been credited.\n- User's declarative statement is 'I am deserving of love and capable of giving love, regardless of my past experiences with my narcissistic mother.'\n- User is currently reading 'The Three-Body Problem'.\n- User is interested in whether the manufacturing delays are due to production capacity limitations or raw material shortages.\n- User plans to incorporate more kale into their diet\n- User provided an example of a 64-year-old male raised by a narcissistic mother who internalized the belief that he is unlovable and unworthy of love.\n- User is feeling a bit down about their social life lately.\n- User is trying to reduce their daily commute expenses.\n- User is going to make Lemon Garlic Chicken Breast with Roasted Vegetables.\n- User has cauliflower gnocchi from Trader Joe's.\n- User is thinking of selling some of their yarn stash.\n- User is thinking of booking a flight from Chicago to Los Angeles.\n- User plans to head to The Dipsea Cafe after their hike.\n- User helped plan a surprise baby shower for their best friend Emily on February 1st.\n- User is planning a trip to Chicago soon.\n- User is having issues with their internet connection, which has been slow and unreliable, especially in the evenings.\n- User would like to know more about the vaccine supply chain issues.\n- User wants to know how the EU and individual countries are addressing vaccine supply chain issues.\n- User's best friend moved to a new city for a job opportunity about 6 weeks ago.\n- User's specialty is working with clients who grew up in families dominated by emotionally immature parents.\n- User has been doing some practice with their portable hide at home.\n- User has been living in Tokyo for about 6 months.\n- User's kale chips always turn out soggy\n- User is worried that the Mid-Century Modern style might look outdated in a few years.\n- User and their siblings took a lot of photos in their matching outfits.\n- User is particularly interested in the European Union's response to the COVID-19 pandemic, especially the vaccination rollout and travel restrictions.\n- User will probably stop by The Coffee Roastery in Mill Valley before heading to the Steep Ravine Trailhead.\n- User would love to learn more about the trails they will be hiking and the local flora and fauna.\n- User has been reading a lot on their daily commute, which is about 45 minutes each way.\n- User is interested in how advance purchase agreements work and what kind of guarantees they provide to ensure a steady vaccine supply.\n- User would like to know more about the advance purchase agreements (APAs) related to vaccine supply.\n- User needs to get fresh herbs like cilantro and parsley for their fajitas.\n- User thinks they will check out Book Passage in Mill Valley.\n- User remembers reading in The New York Times that some countries are having issues with vaccine supply.\n- User is glad they got matching outfits for the family.\n- User is interested in areas like Harajuku or Shibuya.\n- User wants a daily 1 hour guitar practice routine to get good at soloing and shredding on guitar.\n- The user requested to modify the docker-compose file to include the CRON and the jq and not use a Dockerfile.\n- User identified adaptive behavior as actively seeking and cultivating deep, meaningful relationships while recognizing and asserting personal boundaries.\n- User is looking to redecorate their living room.\n- User is planning a trip to Miami.\n- User is considering visiting the museum on a Thursday evening to take advantage of the free admission for Illinois residents.\n- User's alternative adaptive belief is 'I am deserving of love and capable of giving love, regardless of my mother's expectations.'\n- User got to the store early on Saturday, right when it opened.\n- User has been using their new smart TV to stream shows on Amazon Prime.\n- Sutton's Inc. visits with many types of customers, including traditional families, older retirees, and rural homeowners.\n- User is thinking of incorporating some plants into their living room design.\n- User usually takes the 7:15 am train from Oakdale station.\n- User is thinking of taking a day trip to Matsumoto while in Hakuba Valley.\n- User will pay attention to their hydration and electrolyte levels.\n- User would like to know more about the risk-sharing provisions in the advance purchase agreements.\n",
+  "user_message": "Today's date is 2023/05/14 (Sun) 09:58.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n Is my mom using the same grocery list method as me? \n\n Answer:\n\nCurrent Time: 2026-07-06 19:57:19",
+  "response": "Yes, your mom is using the same grocery list app as you.",
+  "prompt_tokens": 1710,
+  "completion_tokens": 14
+}

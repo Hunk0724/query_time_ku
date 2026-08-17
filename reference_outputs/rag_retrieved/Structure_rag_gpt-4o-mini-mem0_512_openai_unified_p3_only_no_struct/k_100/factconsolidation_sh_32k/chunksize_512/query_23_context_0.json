@@ -1,0 +1,4001 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "6dbbb9eb-0f43-4433-83d8-7a42ab6d13a9",
+      "memory": "The author of The Birth of Tragedy is Stephen Crane.",
+      "hash": "c6b98ee39ec9dab593966649731dd182",
+      "metadata": {
+        "ordinal": 2241,
+        "triple": {
+          "subject_id": "the_birth_of_tragedy",
+          "predicate_norm": "has author",
+          "object_text": "Stephen Crane",
+          "confidence": 0.95,
+          "subject_raw": "The Birth of Tragedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.6955099079105933,
+      "created_at": "2026-07-04T05:32:30.661546-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "121eed88-b638-4e6b-aca7-8bc85fb55f36",
+      "memory": "Stephen Crane is famous for The Red Badge of Courage.",
+      "hash": "8d2f4dfac159b596e3ac522b236ab12a",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "stephen_crane",
+          "predicate_norm": "be famous for",
+          "object_text": "The Red Badge of Courage",
+          "confidence": 0.95,
+          "subject_raw": "Stephen Crane",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.6494591032999097,
+      "created_at": "2026-07-04T05:31:31.832734-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "36c2b94a-f61b-4c8f-9d01-5a987e01bfd0",
+      "memory": "Stephen Crane is famous for Charlie Hebdo.",
+      "hash": "1e61400faca4da379997bcc08dc6a2b6",
+      "metadata": {
+        "ordinal": 1004,
+        "triple": null,
+        "subject_fallback": "stephen_crane"
+      },
+      "score": 0.6179474009061484,
+      "created_at": "2026-07-04T05:31:56.494542-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "21da25be-2c56-45a5-b462-4e0f0a841b9e",
+      "memory": "David Crane is a citizen of United States of America.",
+      "hash": "385a238025d70dfacd0e634e8393c9d8",
+      "metadata": {
+        "ordinal": 1515,
+        "triple": {
+          "subject_id": "david_crane",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "David Crane",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4208152518637028,
+      "created_at": "2026-07-04T05:32:12.484356-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ee8f0604-d574-4292-9acf-a66ba237ddd9",
+      "memory": "Herman Melville is famous for Lark Rise to Candleford.",
+      "hash": "435a7e2cc816884fc4180cc2987e0deb",
+      "metadata": {
+        "ordinal": 1993,
+        "triple": {
+          "subject_id": "herman_melville",
+          "predicate_norm": "be famous for",
+          "object_text": "Lark Rise to Candleford",
+          "confidence": 0.95,
+          "subject_raw": "Herman Melville",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.41307663159796026,
+      "created_at": "2026-07-04T05:32:24.258571-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a071ee2d-514d-45a4-af09-68f68609f101",
+      "memory": "Herman Melville is famous for Moby-Dick.",
+      "hash": "b246d901ce3a66e962130f2003ab3d43",
+      "metadata": {
+        "ordinal": 1250,
+        "triple": {
+          "subject_id": "herman_melville",
+          "predicate_norm": "be famous for",
+          "object_text": "Moby-Dick",
+          "confidence": 0.95,
+          "subject_raw": "Herman Melville",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.38435999461331644,
+      "created_at": "2026-07-04T05:32:05.192550-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6d57f068-376a-41f7-a186-4ef956d350db",
+      "memory": "David Crane is a citizen of ancient Rome.",
+      "hash": "b8bbc539b3eff90aaf4a027e48f93951",
+      "metadata": {
+        "ordinal": 2289,
+        "triple": {
+          "subject_id": "david_crane",
+          "predicate_norm": "be citizen",
+          "object_text": "ancient Rome",
+          "confidence": 0.95,
+          "subject_raw": "David Crane",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3608433875611958,
+      "created_at": "2026-07-04T05:32:32.432574-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5e068e45-45c4-4901-abd2-728b7bf3ed57",
+      "memory": "Geoffrey Chaucer is famous for The Canterbury Tales.",
+      "hash": "4d869092a871ff0d01dfcf37eac9ed1e",
+      "metadata": {
+        "ordinal": 1775,
+        "triple": {
+          "subject_id": "geoffrey_chaucer",
+          "predicate_norm": "be famous for",
+          "object_text": "The Canterbury Tales",
+          "confidence": 0.95,
+          "subject_raw": "Geoffrey Chaucer",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.3318994186541562,
+      "created_at": "2026-07-04T05:32:18.598852-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3e997dfd-2fc2-4585-a7f3-7637d67faa23",
+      "memory": "Allen Ginsberg is famous for Howl.",
+      "hash": "01e7f5aafd7fa30b572a3e963d5ae263",
+      "metadata": {
+        "ordinal": 1072,
+        "triple": {
+          "subject_id": "allen_ginsberg",
+          "predicate_norm": "be famous for",
+          "object_text": "Howl",
+          "confidence": 0.95,
+          "subject_raw": "Allen Ginsberg",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.3157632884795116,
+      "created_at": "2026-07-04T05:31:58.892409-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e0f71cb6-ed1e-45ea-b4d5-de24aa03a0db",
+      "memory": "James Agee died in the city of New York City.",
+      "hash": "7a3876496db56a1e362a652a3c738523",
+      "metadata": {
+        "ordinal": 384,
+        "triple": {
+          "subject_id": "james_agee",
+          "predicate_norm": "died in",
+          "object_text": "New York City",
+          "confidence": 0.95,
+          "subject_raw": "James Agee",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.3106404337837425,
+      "created_at": "2026-07-04T05:31:39.488425-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9696c9f8-f802-440f-a10e-1756c3ba78df",
+      "memory": "The author of Troilus and Criseyde is Geoffrey Chaucer.",
+      "hash": "b0b83c3376fe0326da8d5e537bec4e32",
+      "metadata": {
+        "ordinal": 1090,
+        "triple": {
+          "subject_id": "troilus_and_criseyde",
+          "predicate_norm": "has author",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "Troilus and Criseyde",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.305838524189815,
+      "created_at": "2026-07-04T05:31:58.920068-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fb797f1c-2630-4fba-86c3-22bd724e2689",
+      "memory": "The author of The Vicar of Wakefield is James Agee.",
+      "hash": "335f575f7ae2bdcda197a0172941720d",
+      "metadata": {
+        "ordinal": 989,
+        "triple": {
+          "subject_id": "the_vicar_of_wakefield",
+          "predicate_norm": "be authored by",
+          "object_text": "James Agee",
+          "confidence": 0.95,
+          "subject_raw": "The Vicar of Wakefield",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.30330247617527645,
+      "created_at": "2026-07-04T05:31:55.584726-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "111f463d-e364-4f8d-a91f-901e7510209b",
+      "memory": "Tony Soprano was created by David Crane.",
+      "hash": "68d4c4b2c8075340c87132ca70fa2755",
+      "metadata": {
+        "ordinal": 773,
+        "triple": {
+          "subject_id": "tony_soprano",
+          "predicate_norm": "be created by",
+          "object_text": "David Crane",
+          "confidence": 0.95,
+          "subject_raw": "Tony Soprano",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.30215980959129796,
+      "created_at": "2026-07-04T05:31:50.215330-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cdcb8a1f-b894-4411-ac51-55bc1530cf82",
+      "memory": "The author of Little Women is H. P. Lovecraft.",
+      "hash": "2cc5a3635ac2a151802dcbeaf14167bf",
+      "metadata": {
+        "ordinal": 1890,
+        "triple": {
+          "subject_id": "little_women",
+          "predicate_norm": "has author",
+          "object_text": "H. P. Lovecraft",
+          "confidence": 0.95,
+          "subject_raw": "Little Women",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30032311379983817,
+      "created_at": "2026-07-04T05:32:21.320167-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "404346fb-ee2c-40cf-a6bd-5f09f72ccc9b",
+      "memory": "The author of Mrs. Warren's Profession is Clamp.",
+      "hash": "c93a0658511bdb30945c22ed91a96977",
+      "metadata": {
+        "ordinal": 1071,
+        "triple": {
+          "subject_id": "mrs._warren's_profession",
+          "predicate_norm": "has author",
+          "object_text": "Clamp",
+          "confidence": 0.95,
+          "subject_raw": "Mrs. Warren's Profession",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3001003226185424,
+      "created_at": "2026-07-04T05:31:58.889940-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76b86c9d-02cf-49a4-b92c-cb281cbb15e2",
+      "memory": "The author of Typee is Herman Melville.",
+      "hash": "5bb6da77281906774540d2641d23f7d0",
+      "metadata": {
+        "ordinal": 833,
+        "triple": {
+          "subject_id": "typee",
+          "predicate_norm": "be authored by",
+          "object_text": "Herman Melville",
+          "confidence": 0.95,
+          "subject_raw": "Typee",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.2974475078462094,
+      "created_at": "2026-07-04T05:31:51.252607-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "07d4fe70-8b36-4c4c-9beb-1bb7554f3ec6",
+      "memory": "T. S. Eliot speaks the language of English.",
+      "hash": "60560e9f638a126fa7a2a3a44723c92d",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.2954937106758793,
+      "created_at": "2026-07-04T05:31:38.627253-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ac4c83d7-08b1-4189-be8d-e2c108dfdb9f",
+      "memory": "The author of Madame Bovary is Samuel Taylor Coleridge.",
+      "hash": "7ac9debcb2ad0818f3c0ab595d39b7a0",
+      "metadata": {
+        "ordinal": 2057,
+        "triple": {
+          "subject_id": "madame_bovary",
+          "predicate_norm": "be authored by",
+          "object_text": "Samuel Taylor Coleridge",
+          "confidence": 0.95,
+          "subject_raw": "Madame Bovary",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.29453518176307947,
+      "created_at": "2026-07-04T05:32:26.263015-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9815977b-b30b-428b-8468-e8db8603252b",
+      "memory": "William Waynflete speaks the language of English.",
+      "hash": "16f3d77c0d0e41b756feb7df5d2bbc5c",
+      "metadata": {
+        "ordinal": 1554,
+        "triple": {
+          "subject_id": "william_waynflete",
+          "predicate_norm": "speaks",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Waynflete",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.29416479557521646,
+      "created_at": "2026-07-04T05:32:13.191231-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d06727ee-3306-4104-b1ff-3bcc1752d01b",
+      "memory": "Michael Crichton is famous for Jurassic Park.",
+      "hash": "92dedcdc50b32227b56aff77a6db8668",
+      "metadata": {
+        "ordinal": 1083,
+        "triple": {
+          "subject_id": "michael_crichton",
+          "predicate_norm": "be famous for",
+          "object_text": "Jurassic Park",
+          "confidence": 0.95,
+          "subject_raw": "Michael Crichton",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.29331364424891543,
+      "created_at": "2026-07-04T05:31:58.910708-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "23ff1b59-78f6-4b4b-b764-5672a7896b85",
+      "memory": "T. E. Lawrence is famous for Seven Pillars of Wisdom.",
+      "hash": "ec510df47d69b08c687a2a1975e7b4c1",
+      "metadata": {
+        "ordinal": 180,
+        "triple": {
+          "subject_id": "t._e._lawrence",
+          "predicate_norm": "be famous for",
+          "object_text": "Seven Pillars of Wisdom",
+          "confidence": 0.95,
+          "subject_raw": "T. E. Lawrence",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2867798563308391,
+      "created_at": "2026-07-04T05:31:33.654523-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9337a6e8-d04c-4d14-b48c-9d4dc868f130",
+      "memory": "Colleen McCullough is famous for The Thorn Birds.",
+      "hash": "b6454c7312a92b1eb16924eeed4257f7",
+      "metadata": {
+        "ordinal": 797,
+        "triple": {
+          "subject_id": "colleen_mccullough",
+          "predicate_norm": "be famous for",
+          "object_text": "The Thorn Birds",
+          "confidence": 0.95,
+          "subject_raw": "Colleen McCullough",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.28233968549642235,
+      "created_at": "2026-07-04T05:31:50.252180-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "13daae74-174a-40f5-b8d5-a40d9a236a7c",
+      "memory": "The author of News from Nowhere is William Morris.",
+      "hash": "35c5ee488256176034739cbc5674d174",
+      "metadata": {
+        "ordinal": 515,
+        "triple": {
+          "subject_id": "news_from_nowhere",
+          "predicate_norm": "be authored by",
+          "object_text": "William Morris",
+          "confidence": 0.95,
+          "subject_raw": "News from Nowhere",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.28073224474890646,
+      "created_at": "2026-07-04T05:31:42.269167-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "65f108b9-bb6b-4dd2-b7b9-170dfcc784f0",
+      "memory": "Robert Jordan is famous for The Wheel of Time.",
+      "hash": "b7bea1fdaf113bb0f91580c450361186",
+      "metadata": {
+        "ordinal": 1079,
+        "triple": {
+          "subject_id": "robert_jordan",
+          "predicate_norm": "be famous for",
+          "object_text": "The Wheel of Time",
+          "confidence": 0.95,
+          "subject_raw": "Robert Jordan",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2774099078898943,
+      "created_at": "2026-07-04T05:31:58.904931-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d1a45fb8-5bef-456c-be0e-c081e2a592d8",
+      "memory": "The author of The Call of Cthulhu is H. P. Lovecraft.",
+      "hash": "c9a1b9afc922fe5dffd414e6857dad23",
+      "metadata": {
+        "ordinal": 583,
+        "triple": {
+          "subject_id": "the_call_of_cthulhu",
+          "predicate_norm": "has author",
+          "object_text": "H. P. Lovecraft",
+          "confidence": 0.95,
+          "subject_raw": "The Call of Cthulhu",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.27496933480870905,
+      "created_at": "2026-07-04T05:31:44.290763-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6bf12772-d5e9-40c9-af98-79d5e25de4fe",
+      "memory": "H. P. Lovecraft worked in the city of Providence.",
+      "hash": "87f6f19b6af9bd75e594cfeec84644d0",
+      "metadata": {
+        "ordinal": 1563,
+        "triple": {
+          "subject_id": "h._p._lovecraft",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Providence",
+          "confidence": 0.95,
+          "subject_raw": "H. P. Lovecraft",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.2719254774136021,
+      "created_at": "2026-07-04T05:32:13.209902-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec087898-67ce-4c69-9339-b2ba3e2ddae3",
+      "memory": "William Gibson is famous for Neuromancer.",
+      "hash": "30da7cc53794e4a44e2db9c43e32cbde",
+      "metadata": {
+        "ordinal": 286,
+        "triple": {
+          "subject_id": "william_gibson",
+          "predicate_norm": "be famous for",
+          "object_text": "Neuromancer",
+          "confidence": 0.95,
+          "subject_raw": "William Gibson",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.27092119724339647,
+      "created_at": "2026-07-04T05:31:36.703923-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cc2e8f2c-79f1-4c0f-94be-fe7bca77d705",
+      "memory": "Friedrich Nietzsche is famous for The Population Bomb.",
+      "hash": "29be8c2a1873079885c0f2bb45eca254",
+      "metadata": {
+        "ordinal": 1222,
+        "triple": {
+          "subject_id": "friedrich_nietzsche",
+          "predicate_norm": "be famous for",
+          "object_text": "The Population Bomb",
+          "confidence": 0.95,
+          "subject_raw": "Friedrich Nietzsche",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.26490601352576165,
+      "created_at": "2026-07-04T05:32:03.192347-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5cf70d62-bfef-4b70-8946-d0b56ebbd6c7",
+      "memory": "Multatuli is famous for Max Havelaar.",
+      "hash": "27a1679bf614cfaaa1ee4dee8c3a03f9",
+      "metadata": {
+        "ordinal": 1357,
+        "triple": {
+          "subject_id": "multatuli",
+          "predicate_norm": "be famous for",
+          "object_text": "Max Havelaar",
+          "confidence": 0.95,
+          "subject_raw": "Multatuli",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2645418237254975,
+      "created_at": "2026-07-04T05:32:07.935657-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "923412f6-085e-47c8-b0e1-49616b7ce323",
+      "memory": "H. P. Lovecraft was born in the city of Rising Sun.",
+      "hash": "bbe4fb0ecd007bbea6b4031f9f5c11fe",
+      "metadata": {
+        "ordinal": 606,
+        "triple": {
+          "subject_id": "h._p._lovecraft",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Rising Sun",
+          "confidence": 0.95,
+          "subject_raw": "H. P. Lovecraft",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2639461239246993,
+      "created_at": "2026-07-04T05:31:44.327129-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7ca03189-ede6-493e-9515-430a8c3948c3",
+      "memory": "H. P. Lovecraft was born in the city of Providence.",
+      "hash": "95eec113fbac4cb88f43b77a56e0fff3",
+      "metadata": {
+        "ordinal": 269,
+        "triple": {
+          "subject_id": "h._p._lovecraft",
+          "predicate_norm": "be born in",
+          "object_text": "Providence",
+          "confidence": 0.95,
+          "subject_raw": "H. P. Lovecraft",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2631571584604263,
+      "created_at": "2026-07-04T05:31:36.666100-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ddcd0fd4-d22e-4f19-8180-ab605d26a40f",
+      "memory": "The author of The Birth of Tragedy is Friedrich Nietzsche.",
+      "hash": "dbe393a598d8a1d460bd94401ada82a4",
+      "metadata": {
+        "ordinal": 738,
+        "triple": {
+          "subject_id": "the_birth_of_tragedy",
+          "predicate_norm": "has author",
+          "object_text": "Friedrich Nietzsche",
+          "confidence": 0.95,
+          "subject_raw": "The Birth of Tragedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2627421160366765,
+      "created_at": "2026-07-04T05:31:48.690145-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6739f40c-c9ec-44af-815a-2b17184fecfd",
+      "memory": "Edward Bellamy is famous for Looking Backward.",
+      "hash": "9c4e8211375e76778eb9911d4022d598",
+      "metadata": {
+        "ordinal": 267,
+        "triple": {
+          "subject_id": "edward_bellamy",
+          "predicate_norm": "be famous for",
+          "object_text": "Looking Backward",
+          "confidence": 0.95,
+          "subject_raw": "Edward Bellamy",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.26233336169433097,
+      "created_at": "2026-07-04T05:31:35.462316-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ca145634-fe14-4a99-bcb4-894041a1c658",
+      "memory": "Daphne du Maurier speaks the language of English.",
+      "hash": "a46059660a4d96cc1d8f9587cded6fe8",
+      "metadata": {
+        "ordinal": 1093,
+        "triple": {
+          "subject_id": "daphne_du_maurier",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Daphne du Maurier",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.2621782730727581,
+      "created_at": "2026-07-04T05:31:58.923766-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "aeca6870-802b-4603-9b1e-4c4e0a21c86f",
+      "memory": "Allen Ginsberg is famous for Natya Shastra.",
+      "hash": "dfc31f7b5e6ce1534dad1345bf629b32",
+      "metadata": {
+        "ordinal": 1559,
+        "triple": {
+          "subject_id": "allen_ginsberg",
+          "predicate_norm": "be famous for",
+          "object_text": "Natya Shastra",
+          "confidence": 0.95,
+          "subject_raw": "Allen Ginsberg",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.26176230214469826,
+      "created_at": "2026-07-04T05:32:13.202974-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6ea4efe9-34a9-4fb7-b935-8c2b113c0b8f",
+      "memory": "Thomas Paine is famous for Common Sense.",
+      "hash": "1e0390c7e87c0618b3fe3d1b91eb6abe",
+      "metadata": {
+        "ordinal": 478,
+        "triple": {
+          "subject_id": "thomas_paine",
+          "predicate_norm": "be famous for",
+          "object_text": "Common Sense",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Paine",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2616596476894712,
+      "created_at": "2026-07-04T05:31:41.503145-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4a0a4f89-f3d6-4549-be0f-30b8b4e12b14",
+      "memory": "Hugh Hefner is famous for The Vampyre.",
+      "hash": "a2e91e31e59e6bbaba94c4cdc2f63855",
+      "metadata": {
+        "ordinal": 2287,
+        "triple": {
+          "subject_id": "hugh_hefner",
+          "predicate_norm": "be famous for",
+          "object_text": "The Vampyre",
+          "confidence": 0.95,
+          "subject_raw": "Hugh Hefner",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.26081708495078226,
+      "created_at": "2026-07-04T05:32:32.428658-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97d945db-e1ff-485d-8877-f7610e4b74fc",
+      "memory": "H. P. Lovecraft worked in the city of Ottawa.",
+      "hash": "337672e8aea9114467bb238712a5a7b4",
+      "metadata": {
+        "ordinal": 2058,
+        "triple": {
+          "subject_id": "h._p._lovecraft",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Ottawa",
+          "confidence": 0.95,
+          "subject_raw": "H. P. Lovecraft",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.2605561268214879,
+      "created_at": "2026-07-04T05:32:26.264265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25f72220-895c-49ab-9559-bf415b4fb3dc",
+      "memory": "The author of The Normal Heart is Larry Kramer.",
+      "hash": "55a6449e2285d294f1543c5a189ccfc0",
+      "metadata": {
+        "ordinal": 792,
+        "triple": {
+          "subject_id": "the_normal_heart",
+          "predicate_norm": "be authored by",
+          "object_text": "Larry Kramer",
+          "confidence": 0.95,
+          "subject_raw": "The Normal Heart",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.25868027745278654,
+      "created_at": "2026-07-04T05:31:50.246067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c8cf8310-f09c-4200-8026-3d43c9ab3466",
+      "memory": "T. S. Eliot speaks the language of French.",
+      "hash": "91e59bbb7cfa13902a39dc06d0c03058",
+      "metadata": {
+        "ordinal": 936,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.25663462904408846,
+      "created_at": "2026-07-04T05:31:54.729833-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0458f8d0-8ba7-455f-999b-549c73e52de0",
+      "memory": "The author of News from Nowhere is Roger Williams.",
+      "hash": "c3dc22f674323079fabc9abc1336fcea",
+      "metadata": {
+        "ordinal": 1125,
+        "triple": {
+          "subject_id": "news_from_nowhere",
+          "predicate_norm": "has author",
+          "object_text": "Roger Williams",
+          "confidence": 0.95,
+          "subject_raw": "News from Nowhere",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2561864361831415,
+      "created_at": "2026-07-04T05:31:59.950485-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "39b2224c-1079-4f2a-97cc-7b2b2731c2e5",
+      "memory": "The author of The Witcher is T. S. Eliot.",
+      "hash": "7e425b62cf35dbde11622cf764d4c7d6",
+      "metadata": {
+        "ordinal": 1024,
+        "triple": {
+          "subject_id": "the_witcher",
+          "predicate_norm": "be authored by",
+          "object_text": "T. S. Eliot",
+          "confidence": 0.95,
+          "subject_raw": "The Witcher",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2561460535531519,
+      "created_at": "2026-07-04T05:31:56.525893-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d191b4b9-bff1-4e01-9310-17760f47667e",
+      "memory": "The author of Endgame is Samuel Beckett",
+      "hash": "0671948d25b53d36aa3404f4e94734d0",
+      "metadata": {
+        "ordinal": 1506,
+        "triple": {
+          "subject_id": "samuel_beckett",
+          "predicate_norm": "be author",
+          "object_text": "Endgame",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Beckett",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.25392944107485105,
+      "created_at": "2026-07-04T05:32:11.579903-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d7986c80-1703-4da2-bebc-b6fd5dbb6390",
+      "memory": "Nobuhiro Watsuki is famous for Rurouni Kenshin.",
+      "hash": "cf27703a06cae5a8617cfee2176143d9",
+      "metadata": {
+        "ordinal": 302,
+        "triple": {
+          "subject_id": "nobuhiro_watsuki",
+          "predicate_norm": "be famous for",
+          "object_text": "Rurouni Kenshin",
+          "confidence": 0.95,
+          "subject_raw": "Nobuhiro Watsuki",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.25390297779394055,
+      "created_at": "2026-07-04T05:31:36.726879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ce0fc37b-9959-43e2-b8f3-e76585b8d376",
+      "memory": "The author of Rebecca is Daphne du Maurier",
+      "hash": "0d16f7f34167b5fd5dff49c1d78832dc",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "daphne_du_maurier",
+          "predicate_norm": "be author",
+          "object_text": "Rebecca",
+          "confidence": 0.95,
+          "subject_raw": "Daphne du Maurier",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.2533381112925106,
+      "created_at": "2026-07-04T05:31:30.563826-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e991d56c-3b1e-497d-8581-85bd4d2ad23f",
+      "memory": "The author of Troilus and Criseyde is Masashi Kishimoto.",
+      "hash": "506f3f8e9da90b7d989b4878c9c566ef",
+      "metadata": {
+        "ordinal": 1606,
+        "triple": {
+          "subject_id": "masashi_kishimoto",
+          "predicate_norm": "be author",
+          "object_text": "Troilus and Criseyde",
+          "confidence": 0.95,
+          "subject_raw": "Masashi Kishimoto",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.25258276682237396,
+      "created_at": "2026-07-04T05:32:14.143373-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1c4c7d0b-d64e-422b-a0cf-4a41500c072f",
+      "memory": "E. M. Forster speaks the language of English.",
+      "hash": "fd3e994103bffdec8b57593ae7a06cd1",
+      "metadata": {
+        "ordinal": 751,
+        "triple": {
+          "subject_id": "e._m._forster",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "E. M. Forster",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.25217487657477383,
+      "created_at": "2026-07-04T05:31:48.709179-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b0aac70e-2e76-47f2-8a40-baecf5d20925",
+      "memory": "Friedrich Nietzsche is famous for Thus Spoke Zarathustra.",
+      "hash": "f013a209921f1f6a1ccf8d17f1dd8646",
+      "metadata": {
+        "ordinal": 812,
+        "triple": {
+          "subject_id": "friedrich_nietzsche",
+          "predicate_norm": "be famous for",
+          "object_text": "Thus Spoke Zarathustra",
+          "confidence": 0.95,
+          "subject_raw": "Friedrich Nietzsche",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.25180072111723073,
+      "created_at": "2026-07-04T05:31:51.219951-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c50874e7-54df-456e-9826-158b4b22f3e3",
+      "memory": "The author of Bleak House is Charles Dickens.",
+      "hash": "ed008b3fe4ed2d6a75b98fcbd2503405",
+      "metadata": {
+        "ordinal": 580,
+        "triple": {
+          "subject_id": "bleak_house",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Bleak House",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2504923960222716,
+      "created_at": "2026-07-04T05:31:44.284126-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64932367-a185-4033-8d23-d0cf4cbadccc",
+      "memory": "The author of Sketches by Boz is Charles Dickens",
+      "hash": "08b1828caf3e160e6a224da43acb0f4a",
+      "metadata": {
+        "ordinal": 559,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25035757710424483,
+      "created_at": "2026-07-04T05:31:43.316252-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c8180011-5a16-4aa5-bb12-2419586fb830",
+      "memory": "The author of She Stoops to Conquer is Oliver Goldsmith.",
+      "hash": "77ad30c9cd7a42f27f4b30a2fb712974",
+      "metadata": {
+        "ordinal": 1713,
+        "triple": {
+          "subject_id": "oliver_goldsmith",
+          "predicate_norm": "be author",
+          "object_text": "She Stoops to Conquer",
+          "confidence": 0.95,
+          "subject_raw": "Oliver Goldsmith",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.24943069000530316,
+      "created_at": "2026-07-04T05:32:16.655236-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3314fb7b-6dbd-45b5-b06a-0b84aa119aee",
+      "memory": "A Rake's Progress was created by William Holman Hunt.",
+      "hash": "947e57a1babd82f485f63b52be5db177",
+      "metadata": {
+        "ordinal": 1974,
+        "triple": {
+          "subject_id": "a_rake's_progress",
+          "predicate_norm": "be created by",
+          "object_text": "William Holman Hunt",
+          "confidence": 0.95,
+          "subject_raw": "A Rake's Progress",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.24685943756526055,
+      "created_at": "2026-07-04T05:32:24.224175-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "24a12388-b262-4ff4-8ddf-a330f4b5432f",
+      "memory": "The author of Endymion is John Keats.",
+      "hash": "f13ba8da2e590e9f282057b436f3b17e",
+      "metadata": {
+        "ordinal": 1054,
+        "triple": {
+          "subject_id": "endymion",
+          "predicate_norm": "be authored by",
+          "object_text": "John Keats",
+          "confidence": 0.95,
+          "subject_raw": "Endymion",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.24523871197971311,
+      "created_at": "2026-07-04T05:31:57.569448-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e34077e1-867a-4190-aeae-ce0a33f42f6e",
+      "memory": "Blandings Castle was created by P. G. Wodehouse.",
+      "hash": "0acf5225ea532da266a77ad87739e509",
+      "metadata": {
+        "ordinal": 1420,
+        "triple": {
+          "subject_id": "blandings_castle",
+          "predicate_norm": "be created by",
+          "object_text": "P. G. Wodehouse",
+          "confidence": 0.95,
+          "subject_raw": "Blandings Castle",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.24379945560784982,
+      "created_at": "2026-07-04T05:32:09.744057-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "141fc015-cc66-44c3-8968-a329a10de8b0",
+      "memory": "The author of The Scarlet Letter is Nathaniel Hawthorne.",
+      "hash": "d1fea598590d9036e4373c5fcd4b24ec",
+      "metadata": {
+        "ordinal": 997,
+        "triple": {
+          "subject_id": "the_scarlet_letter",
+          "predicate_norm": "be authored by",
+          "object_text": "Nathaniel Hawthorne",
+          "confidence": 0.95,
+          "subject_raw": "The Scarlet Letter",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.24373381011884532,
+      "created_at": "2026-07-04T05:31:56.479224-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25714fed-f920-4c76-9ce9-a2c2f89ce326",
+      "memory": "Mario Puzo is famous for The Godfather",
+      "hash": "61b537182f500ace22952a48740e4bff",
+      "metadata": {
+        "ordinal": 455,
+        "triple": {
+          "subject_id": "mario_puzo",
+          "predicate_norm": "be famous for",
+          "object_text": "The Godfather",
+          "confidence": 0.95,
+          "subject_raw": "Mario Puzo",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.243565528965169,
+      "created_at": "2026-07-04T05:31:40.442946-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e1cbaad9-32fd-4b09-a146-7a48b37229cc",
+      "memory": "The author of Coraline is John Stuart Mill.",
+      "hash": "e2b72b3004e8de19b94195d49889f566",
+      "metadata": {
+        "ordinal": 1726,
+        "triple": {
+          "subject_id": "coraline",
+          "predicate_norm": "be authored by",
+          "object_text": "John Stuart Mill",
+          "confidence": 0.95,
+          "subject_raw": "Coraline",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2405732948271398,
+      "created_at": "2026-07-04T05:32:17.585180-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0d9ec700-1ee7-4323-b3c8-07af9dae7929",
+      "memory": "The author of The Andromeda Strain is Multatuli.",
+      "hash": "a493bceb3f716ef42e99fbb492766662",
+      "metadata": {
+        "ordinal": 2213,
+        "triple": {
+          "subject_id": "the_andromeda_strain",
+          "predicate_norm": "has author",
+          "object_text": "Multatuli",
+          "confidence": 0.95,
+          "subject_raw": "The Andromeda Strain",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2393782137248536,
+      "created_at": "2026-07-04T05:32:30.613446-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8115f80b-283e-4121-b1bc-0fe868791212",
+      "memory": "Edward Bellamy is famous for Gesta Hunnorum et Hungarorum.",
+      "hash": "223e1fa415c6ba1851c7676eeb108759",
+      "metadata": {
+        "ordinal": 1640,
+        "triple": {
+          "subject_id": "edward_bellamy",
+          "predicate_norm": "be famous for",
+          "object_text": "Gesta Hunnorum et Hungarorum",
+          "confidence": 0.95,
+          "subject_raw": "Edward Bellamy",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.23763938706905177,
+      "created_at": "2026-07-04T05:32:14.983143-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "98a71f16-c176-4e90-8294-425261932cca",
+      "memory": "Alexander Stirling Calder works in the field of sculptor.",
+      "hash": "a90bce38a2353009283e228abb80ab99",
+      "metadata": {
+        "ordinal": 139,
+        "triple": {
+          "subject_id": "alexander_stirling_calder",
+          "predicate_norm": "works in field",
+          "object_text": "sculptor",
+          "confidence": 0.95,
+          "subject_raw": "Alexander Stirling Calder",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.23763357202531205,
+      "created_at": "2026-07-04T05:31:32.727040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "864115ee-f5d3-430c-b0b1-b6d0017674b5",
+      "memory": "The author of The Canterbury Tales is Geoffrey Chaucer.",
+      "hash": "2eee88d29f584ffdf2b9735ff04489c5",
+      "metadata": {
+        "ordinal": 1637,
+        "triple": {
+          "subject_id": "the_canterbury_tales",
+          "predicate_norm": "has author",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "The Canterbury Tales",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.23747105945706443,
+      "created_at": "2026-07-04T05:32:14.978750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "21863cee-515e-48af-9c3d-a31f2e9eb58a",
+      "memory": "Chris Carter is famous for The X-Files.",
+      "hash": "b41fa72f193f955d15e7a48217e2f05f",
+      "metadata": {
+        "ordinal": 1652,
+        "triple": {
+          "subject_id": "chris_carter",
+          "predicate_norm": "be famous for",
+          "object_text": "The X-Files",
+          "confidence": 0.95,
+          "subject_raw": "Chris Carter",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2373092436731681,
+      "created_at": "2026-07-04T05:32:15.734352-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c7d81ec3-5fbf-4756-b4a3-f0be2091372d",
+      "memory": "Multatuli is famous for Space Invaders.",
+      "hash": "466b4984e0e48842c2e651b61f1eea4d",
+      "metadata": {
+        "ordinal": 1571,
+        "triple": {
+          "subject_id": "multatuli",
+          "predicate_norm": "be famous for",
+          "object_text": "Space Invaders",
+          "confidence": 0.95,
+          "subject_raw": "Multatuli",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.23691802098329912,
+      "created_at": "2026-07-04T05:32:13.221429-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "384fa06c-68ac-4741-9c06-0d125dfb6f21",
+      "memory": "The author of Aubrey-Maturin series is Ray Bradbury.",
+      "hash": "510acdc5249556f0b9d981206886f698",
+      "metadata": {
+        "ordinal": 1091,
+        "triple": {
+          "subject_id": "aubrey_maturin_series",
+          "predicate_norm": "has author",
+          "object_text": "Ray Bradbury",
+          "confidence": 0.95,
+          "subject_raw": "Aubrey-Maturin series",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.23634318557532644,
+      "created_at": "2026-07-04T05:31:58.921281-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "362191f3-fdf2-498d-9bda-3cae713ba959",
+      "memory": "Ray Bradbury speaks the language of English.",
+      "hash": "6dd1be12643aaca49db12f3d6831c475",
+      "metadata": {
+        "ordinal": 323,
+        "triple": {
+          "subject_id": "ray_bradbury",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Ray Bradbury",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.23630282359605959,
+      "created_at": "2026-07-04T05:31:37.626347-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "47de2e88-e930-45a6-9bb9-f30649b6c64d",
+      "memory": "Moby-Dick was created in the country of United States of America.",
+      "hash": "e9ecfbff616b89f79462ed7f44410822",
+      "metadata": {
+        "ordinal": 2191,
+        "triple": {
+          "subject_id": "moby_dick",
+          "predicate_norm": "be created in",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Moby-Dick",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.23562302259066129,
+      "created_at": "2026-07-04T05:32:29.646017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bbfe9324-248a-4e16-9ea9-dac75129a3a4",
+      "memory": "George Bernard Shaw works in the field of playwright",
+      "hash": "eccae75245a20feb3479eb1509ae1d39",
+      "metadata": {
+        "ordinal": 65,
+        "triple": {
+          "subject_id": "george_bernard_shaw",
+          "predicate_norm": "works in field",
+          "object_text": "playwright",
+          "confidence": 0.95,
+          "subject_raw": "George Bernard Shaw",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.235545887096494,
+      "created_at": "2026-07-04T05:31:30.612396-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "93e8276e-ec9d-4433-812b-60764e0509a6",
+      "memory": "Terry Goodkind is famous for The Sword of Truth.",
+      "hash": "3fb9564bf5883815c37341f691710b63",
+      "metadata": {
+        "ordinal": 1428,
+        "triple": {
+          "subject_id": "terry_goodkind",
+          "predicate_norm": "be famous for",
+          "object_text": "The Sword of Truth",
+          "confidence": 0.95,
+          "subject_raw": "Terry Goodkind",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.23526496416528503,
+      "created_at": "2026-07-04T05:32:09.755380-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "66456f0f-7058-41f9-8447-1be52bb3a2c1",
+      "memory": "Clare Boothe Luce worked in the city of Washington, D.C.",
+      "hash": "59a13d7c3031af1fead8861d0811a8bc",
+      "metadata": {
+        "ordinal": 193,
+        "triple": {
+          "subject_id": "clare_boothe_luce",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "Clare Boothe Luce",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.23489272078003934,
+      "created_at": "2026-07-04T05:31:34.648055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "88a5a6d9-19b3-46d2-b88c-631e522f345e",
+      "memory": "David Graveney is associated with the sport of cricket",
+      "hash": "cce465aca89fb31d25baec75b2336555",
+      "metadata": {
+        "ordinal": 39,
+        "triple": {
+          "subject_id": "david_graveney",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "David Graveney",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.23390564389901652,
+      "created_at": "2026-07-04T05:31:30.559545-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cb5b2c98-c567-4178-81c2-c9e20e288a0f",
+      "memory": "Eugène Carrière worked in the city of Paris.",
+      "hash": "b4a60b8cecca202daf22ece423162582",
+      "metadata": {
+        "ordinal": 1622,
+        "triple": {
+          "subject_id": "eugène_carrière",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Eugène Carrière",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.233277336206145,
+      "created_at": "2026-07-04T05:32:14.949655-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "00c589a3-de34-4d9f-9186-e2fbd48a49da",
+      "memory": "The author of Antony and Cleopatra is Terrance Dicks",
+      "hash": "e960c9b19b40f4c0bff7304449738fca",
+      "metadata": {
+        "ordinal": 564,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.23314449871725923,
+      "created_at": "2026-07-04T05:31:43.322185-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "376edf8e-1e10-4f81-bb41-0226293ada1e",
+      "memory": "The author of Madame Bovary is Gustave Flaubert.",
+      "hash": "b2f38249fdd2549dfbca3a93b063d3f2",
+      "metadata": {
+        "ordinal": 1272,
+        "triple": {
+          "subject_id": "madame_bovary",
+          "predicate_norm": "be authored by",
+          "object_text": "Gustave Flaubert",
+          "confidence": 0.95,
+          "subject_raw": "Madame Bovary",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.23299533474911038,
+      "created_at": "2026-07-04T05:32:06.207726-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "79a3bac2-d658-4802-99d5-a20b8a1b0f33",
+      "memory": "Charles Dickens died in the city of Gads Hill Place.",
+      "hash": "444f2827d1f5e9f4995c727f8f3b1b48",
+      "metadata": {
+        "ordinal": 2291,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "died in",
+          "object_text": "the city of Gads Hill Place",
+          "confidence": 0.95,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.23288128026877386,
+      "created_at": "2026-07-04T05:32:32.436470-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a119d282-7487-4a04-9b70-a1b80e4f79da",
+      "memory": "William Shakespeare works in the field of playwright.",
+      "hash": "8c08ede284cfe16a2a61fe3d0856d963",
+      "metadata": {
+        "ordinal": 279,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in field",
+          "object_text": "playwright",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.23243679833056002,
+      "created_at": "2026-07-04T05:31:36.690840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cd242c14-41b1-481a-b1e3-8e3142216de2",
+      "memory": "Joseph Wright of Derby speaks the language of English.",
+      "hash": "e199fb2c7e339627b9e99597021a878a",
+      "metadata": {
+        "ordinal": 1557,
+        "triple": {
+          "subject_id": "joseph_wright_of_derby",
+          "predicate_norm": "speaks",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Wright of Derby",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.2321354067309888,
+      "created_at": "2026-07-04T05:32:13.198635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d25025d2-555f-4329-8e1d-4a78895ecd6a",
+      "memory": "Ferdowsi is famous for Shahnameh",
+      "hash": "5e540031c360851490a687dad527a855",
+      "metadata": {
+        "ordinal": 428,
+        "triple": {
+          "subject_id": "ferdowsi",
+          "predicate_norm": "be famous for",
+          "object_text": "Shahnameh",
+          "confidence": 0.95,
+          "subject_raw": "Ferdowsi",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2320140483903471,
+      "created_at": "2026-07-04T05:31:40.399316-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e219153b-904e-4941-9ffd-15bd8f77a198",
+      "memory": "Masashi Kishimoto is famous for Naruto.",
+      "hash": "b9f21ff7adf609b0c3e59b26d348fa0f",
+      "metadata": {
+        "ordinal": 1770,
+        "triple": {
+          "subject_id": "masashi_kishimoto",
+          "predicate_norm": "be famous for",
+          "object_text": "Naruto",
+          "confidence": 0.95,
+          "subject_raw": "Masashi Kishimoto",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2316644429193879,
+      "created_at": "2026-07-04T05:32:18.590179-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d323a991-418c-4231-b50c-62d46121ee07",
+      "memory": "Louisa May Alcott worked in the city of Boston.",
+      "hash": "9546e9b8fb007d26de96777785bb05f6",
+      "metadata": {
+        "ordinal": 743,
+        "triple": {
+          "subject_id": "louisa_may_alcott",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Boston",
+          "confidence": 0.95,
+          "subject_raw": "Louisa May Alcott",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.23101445114260946,
+      "created_at": "2026-07-04T05:31:48.698017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f2fc52ae-6b18-4e54-911b-40b36d792056",
+      "memory": "The author of The Age of Reason is Allen Ginsberg.",
+      "hash": "7c5d28460eb0c4b0f59c22972897c92c",
+      "metadata": {
+        "ordinal": 2196,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "has author",
+          "object_text": "Allen Ginsberg",
+          "confidence": 0.95,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22917905601046168,
+      "created_at": "2026-07-04T05:32:29.653252-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e5931b5d-27fd-4088-b0cb-b3c513ff4ea8",
+      "memory": "The author of Sidereus Nuncius is Samuel Beckett.",
+      "hash": "61806eec248a3400c26be97735c8bb12",
+      "metadata": {
+        "ordinal": 2143,
+        "triple": {
+          "subject_id": "sidereus_nuncius",
+          "predicate_norm": "be authored by",
+          "object_text": "Samuel Beckett",
+          "confidence": 0.95,
+          "subject_raw": "Sidereus Nuncius",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.22896805475252568,
+      "created_at": "2026-07-04T05:32:28.928491-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a5c304cd-40bb-4355-8511-455106cb58df",
+      "memory": "John Keats died in the city of Leipzig.",
+      "hash": "f12b23eb252739b17c467f3b49d7d824",
+      "metadata": {
+        "ordinal": 1254,
+        "triple": {
+          "subject_id": "john_keats",
+          "predicate_norm": "died in",
+          "object_text": "the city of Leipzig",
+          "confidence": 0.95,
+          "subject_raw": "John Keats",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.2287957290729531,
+      "created_at": "2026-07-04T05:32:05.198768-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "60941e0c-d337-4bd4-b558-6f5fa07a2e22",
+      "memory": "The author of The Andromeda Strain is Michael Crichton.",
+      "hash": "9b45943c2abf99cf375082ab89c068b9",
+      "metadata": {
+        "ordinal": 1592,
+        "triple": {
+          "subject_id": "michael_crichton",
+          "predicate_norm": "be author",
+          "object_text": "The Andromeda Strain",
+          "confidence": 0.95,
+          "subject_raw": "Michael Crichton",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.22606254631139314,
+      "created_at": "2026-07-04T05:32:14.120136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b70e5cc4-2ac9-43c9-9d58-f890189bbe36",
+      "memory": "The author of David Copperfield is Charles Dickens.",
+      "hash": "de485674b6a25a60cca08ff71af97d96",
+      "metadata": {
+        "ordinal": 752,
+        "triple": {
+          "subject_id": "david_copperfield",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "David Copperfield",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22586957160971785,
+      "created_at": "2026-07-04T05:31:48.710481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "38ce3eab-d692-4354-aa78-69973f111aae",
+      "memory": "The author of The Thin Man is Dashiell Hammett.",
+      "hash": "b2a3df5b3f1b0795dcf0577c098edda1",
+      "metadata": {
+        "ordinal": 2212,
+        "triple": {
+          "subject_id": "the_thin_man",
+          "predicate_norm": "has author",
+          "object_text": "Dashiell Hammett",
+          "confidence": 0.95,
+          "subject_raw": "The Thin Man",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22578720202066901,
+      "created_at": "2026-07-04T05:32:30.610910-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d65fbb75-b29e-4422-8f2d-99ef4ad6edd4",
+      "memory": "The author of American Pastoral is Philip Roth.",
+      "hash": "8bbe1ff809bf95fae77365e58611528d",
+      "metadata": {
+        "ordinal": 2234,
+        "triple": {
+          "subject_id": "american_pastoral",
+          "predicate_norm": "has author",
+          "object_text": "Philip Roth",
+          "confidence": 0.95,
+          "subject_raw": "American Pastoral",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22454403730534045,
+      "created_at": "2026-07-04T05:32:30.651637-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e6f5b99f-e429-4ff4-8e6b-382629f48213",
+      "memory": "Yancy Derringer was created in the country of United States of America.",
+      "hash": "55b0b2517343d665e4631aa9c80b6778",
+      "metadata": {
+        "ordinal": 705,
+        "triple": {
+          "subject_id": "yancy_derringer",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Yancy Derringer",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.224295978924579,
+      "created_at": "2026-07-04T05:31:47.329998-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4cd509f6-3f88-4855-9a12-80e594c56b35",
+      "memory": "The author of Gulliver's Travels is Jonathan Swift",
+      "hash": "ddee91801be3995071e7d96683460666",
+      "metadata": {
+        "ordinal": 72,
+        "triple": {
+          "subject_id": "jonathan_swift",
+          "predicate_norm": "be author",
+          "object_text": "Gulliver's Travels",
+          "confidence": 0.95,
+          "subject_raw": "Jonathan Swift",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.22382321029777813,
+      "created_at": "2026-07-04T05:31:30.621748-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3095933c-f0d3-40ef-a542-4cd9c44f63ae",
+      "memory": "The author of A Passage to India is E. M. Forster.",
+      "hash": "5bad221c1778f526496a220cb94942bc",
+      "metadata": {
+        "ordinal": 970,
+        "triple": {
+          "subject_id": "a_passage_to_india",
+          "predicate_norm": "be authored by",
+          "object_text": "E. M. Forster",
+          "confidence": 0.95,
+          "subject_raw": "A Passage to India",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.223055944679109,
+      "created_at": "2026-07-04T05:31:55.556080-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5c43753a-8d18-4ae1-8381-518927303d03",
+      "memory": "Wizard of Oz was created by Ambrose Bierce.",
+      "hash": "6be9a27ea8171ce24945bc9c6a48dcaf",
+      "metadata": {
+        "ordinal": 882,
+        "triple": {
+          "subject_id": "ambrose_bierce",
+          "predicate_norm": "created",
+          "object_text": "Wizard of Oz",
+          "confidence": 0.95,
+          "subject_raw": "Ambrose Bierce",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.22248792320586497,
+      "created_at": "2026-07-04T05:31:53.807687-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0b39b26a-6542-4fde-94fc-31f1fc7f93d0",
+      "memory": "The author of Starship Troopers is Daphne du Maurier.",
+      "hash": "2e0883bb26d00ae62e5303b537291799",
+      "metadata": {
+        "ordinal": 2223,
+        "triple": {
+          "subject_id": "starship_troopers",
+          "predicate_norm": "has author",
+          "object_text": "Daphne du Maurier",
+          "confidence": 0.95,
+          "subject_raw": "Starship Troopers",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22240947175565512,
+      "created_at": "2026-07-04T05:32:30.634990-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "77aa941c-5b59-4eee-a54f-6f42c7ba71de",
+      "memory": "The author of A Christmas Carol is Winston Churchill.",
+      "hash": "0b9fd8f8da9a0ec4c4450752cceddb26",
+      "metadata": {
+        "ordinal": 895,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "has author",
+          "object_text": "Winston Churchill",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22168951497022593,
+      "created_at": "2026-07-04T05:31:53.830373-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a7486cdc-45a5-44f0-9d5b-4309151855ca",
+      "memory": "Eugène Carrière worked in the city of Hyderabad.",
+      "hash": "43ef1d2fef82740d354352d89e2fb50d",
+      "metadata": {
+        "ordinal": 2055,
+        "triple": {
+          "subject_id": "eugène_carrière",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Eugène Carrière",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.22163722148608736,
+      "created_at": "2026-07-04T05:32:26.260201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6e43f3e9-d1bf-4c66-93ab-470d2e201db7",
+      "memory": "David Stirling speaks the language of English",
+      "hash": "4d73a43c519bbc4f21f08cc0e608c29b",
+      "metadata": {
+        "ordinal": 60,
+        "triple": {
+          "subject_id": "david_stirling",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "David Stirling",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.22016075674242203,
+      "created_at": "2026-07-04T05:31:30.604846-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "89c67761-2b13-466a-bc20-a2bbcd1d4d8c",
+      "memory": "The university where Nathaniel Hawthorne was educated is Bowdoin College.",
+      "hash": "986df152a251298a24a34ea7b185051d",
+      "metadata": {
+        "ordinal": 1876,
+        "triple": {
+          "subject_id": "nathaniel_hawthorne",
+          "predicate_norm": "be educated at",
+          "object_text": "Bowdoin College",
+          "confidence": 0.95,
+          "subject_raw": "Nathaniel Hawthorne",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.2198624445336808,
+      "created_at": "2026-07-04T05:32:21.299678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "83a2e65d-0857-4217-963f-9a6a7fd13103",
+      "memory": "1949 World Series is associated with the sport of cricket.",
+      "hash": "3770a99fdb15dbc3dff048895989ccbd",
+      "metadata": {
+        "ordinal": 1940,
+        "triple": {
+          "subject_id": "1949_world_series",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "1949 World Series",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.21881128805490663,
+      "created_at": "2026-07-04T05:32:23.345779-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "277a7245-addd-4baf-b267-5c67c92b8c9c",
+      "memory": "William Holman Hunt died in the city of London.",
+      "hash": "538d13254859daebc0d718e203fcae1f",
+      "metadata": {
+        "ordinal": 925,
+        "triple": {
+          "subject_id": "william_holman_hunt",
+          "predicate_norm": "died in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "William Holman Hunt",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.21870864195523151,
+      "created_at": "2026-07-04T05:31:54.714650-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a49f8437-643e-4756-aa25-3035611a03bf",
+      "memory": "The author of Coraline is Neil Gaiman.",
+      "hash": "2ec0cd8c3473a880396177bfde2b49cf",
+      "metadata": {
+        "ordinal": 1656,
+        "triple": {
+          "subject_id": "coraline",
+          "predicate_norm": "has author",
+          "object_text": "Neil Gaiman",
+          "confidence": 0.95,
+          "subject_raw": "Coraline",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2182599605002825,
+      "created_at": "2026-07-04T05:32:15.750251-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "91abae66-0123-4fb6-b6e8-175597959b80",
+      "memory": "The author of A Christmas Carol is Charles Dickens.",
+      "hash": "e8704c32c6d3b345fdf2456bafef6ce0",
+      "metadata": {
+        "ordinal": 81,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.21708072137717066,
+      "created_at": "2026-07-04T05:31:31.775831-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cee9ebd6-718d-4ece-8cc7-ca369c16f8fe",
+      "memory": "William Shakespeare works in the field of businessperson.",
+      "hash": "f457a8bd1f1c4d282f62c6f7c3f981ad",
+      "metadata": {
+        "ordinal": 1919,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in field",
+          "object_text": "businessperson",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.21603117017236412,
+      "created_at": "2026-07-04T05:32:22.324992-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The author of The Birth of Tragedy is Stephen Crane.\n- Stephen Crane is famous for Charlie Hebdo.\n- David Crane is a citizen of United States of America.\n- Herman Melville is famous for Lark Rise to Candleford.\n- Herman Melville is famous for Moby-Dick.\n- David Crane is a citizen of ancient Rome.\n- Geoffrey Chaucer is famous for The Canterbury Tales.\n- Allen Ginsberg is famous for Howl.\n- James Agee died in the city of New York City.\n- The author of Troilus and Criseyde is Geoffrey Chaucer.\n- The author of The Vicar of Wakefield is James Agee.\n- Tony Soprano was created by David Crane.\n- The author of Little Women is H. P. Lovecraft.\n- The author of Mrs. Warren's Profession is Clamp.\n- The author of Typee is Herman Melville.\n- T. S. Eliot speaks the language of English.\n- The author of Madame Bovary is Samuel Taylor Coleridge.\n- William Waynflete speaks the language of English.\n- Michael Crichton is famous for Jurassic Park.\n- T. E. Lawrence is famous for Seven Pillars of Wisdom.\n- Colleen McCullough is famous for The Thorn Birds.\n- The author of News from Nowhere is William Morris.\n- Robert Jordan is famous for The Wheel of Time.\n- The author of The Call of Cthulhu is H. P. Lovecraft.\n- H. P. Lovecraft worked in the city of Providence.\n- William Gibson is famous for Neuromancer.\n- Friedrich Nietzsche is famous for The Population Bomb.\n- Multatuli is famous for Max Havelaar.\n- H. P. Lovecraft was born in the city of Rising Sun.\n- H. P. Lovecraft was born in the city of Providence.\n- The author of The Birth of Tragedy is Friedrich Nietzsche.\n- Edward Bellamy is famous for Looking Backward.\n- Daphne du Maurier speaks the language of English.\n- Allen Ginsberg is famous for Natya Shastra.\n- Thomas Paine is famous for Common Sense.\n- Hugh Hefner is famous for The Vampyre.\n- H. P. Lovecraft worked in the city of Ottawa.\n- The author of The Normal Heart is Larry Kramer.\n- T. S. Eliot speaks the language of French.\n- The author of News from Nowhere is Roger Williams.\n- The author of The Witcher is T. S. Eliot.\n- The author of Endgame is Samuel Beckett\n- Nobuhiro Watsuki is famous for Rurouni Kenshin.\n- The author of Rebecca is Daphne du Maurier\n- The author of Troilus and Criseyde is Masashi Kishimoto.\n- E. M. Forster speaks the language of English.\n- Friedrich Nietzsche is famous for Thus Spoke Zarathustra.\n- The author of Bleak House is Charles Dickens.\n- The author of Sketches by Boz is Charles Dickens\n- The author of She Stoops to Conquer is Oliver Goldsmith.\n- A Rake's Progress was created by William Holman Hunt.\n- The author of Endymion is John Keats.\n- Blandings Castle was created by P. G. Wodehouse.\n- The author of The Scarlet Letter is Nathaniel Hawthorne.\n- Mario Puzo is famous for The Godfather\n- The author of Coraline is John Stuart Mill.\n- The author of The Andromeda Strain is Multatuli.\n- Edward Bellamy is famous for Gesta Hunnorum et Hungarorum.\n- Alexander Stirling Calder works in the field of sculptor.\n- The author of The Canterbury Tales is Geoffrey Chaucer.\n- Chris Carter is famous for The X-Files.\n- Multatuli is famous for Space Invaders.\n- The author of Aubrey-Maturin series is Ray Bradbury.\n- Ray Bradbury speaks the language of English.\n- Moby-Dick was created in the country of United States of America.\n- George Bernard Shaw works in the field of playwright\n- Terry Goodkind is famous for The Sword of Truth.\n- Clare Boothe Luce worked in the city of Washington, D.C.\n- David Graveney is associated with the sport of cricket\n- Eugène Carrière worked in the city of Paris.\n- The author of Antony and Cleopatra is Terrance Dicks\n- The author of Madame Bovary is Gustave Flaubert.\n- Charles Dickens died in the city of Gads Hill Place.\n- William Shakespeare works in the field of playwright.\n- Joseph Wright of Derby speaks the language of English.\n- Ferdowsi is famous for Shahnameh\n- Masashi Kishimoto is famous for Naruto.\n- Louisa May Alcott worked in the city of Boston.\n- The author of The Age of Reason is Allen Ginsberg.\n- The author of Sidereus Nuncius is Samuel Beckett.\n- John Keats died in the city of Leipzig.\n- The author of The Andromeda Strain is Michael Crichton.\n- The author of David Copperfield is Charles Dickens.\n- The author of The Thin Man is Dashiell Hammett.\n- The author of American Pastoral is Philip Roth.\n- Yancy Derringer was created in the country of United States of America.\n- The author of Gulliver's Travels is Jonathan Swift\n- The author of A Passage to India is E. M. Forster.\n- Wizard of Oz was created by Ambrose Bierce.\n- The author of Starship Troopers is Daphne du Maurier.\n- The author of A Christmas Carol is Winston Churchill.\n- Eugène Carrière worked in the city of Hyderabad.\n- David Stirling speaks the language of English\n- The university where Nathaniel Hawthorne was educated is Bowdoin College.\n- 1949 World Series is associated with the sport of cricket.\n- William Holman Hunt died in the city of London.\n- The author of Coraline is Neil Gaiman.\n- The author of A Christmas Carol is Charles Dickens.\n- William Shakespeare works in the field of businessperson.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The author of The Birth of Tragedy is Stephen Crane.\n- Stephen Crane is famous for Charlie Hebdo.\n- David Crane is a citizen of United States of America.\n- Herman Melville is famous for Lark Rise to Candleford.\n- Herman Melville is famous for Moby-Dick.\n- David Crane is a citizen of ancient Rome.\n- Geoffrey Chaucer is famous for The Canterbury Tales.\n- Allen Ginsberg is famous for Howl.\n- James Agee died in the city of New York City.\n- The author of Troilus and Criseyde is Geoffrey Chaucer.\n- The author of The Vicar of Wakefield is James Agee.\n- Tony Soprano was created by David Crane.\n- The author of Little Women is H. P. Lovecraft.\n- The author of Mrs. Warren's Profession is Clamp.\n- The author of Typee is Herman Melville.\n- T. S. Eliot speaks the language of English.\n- The author of Madame Bovary is Samuel Taylor Coleridge.\n- William Waynflete speaks the language of English.\n- Michael Crichton is famous for Jurassic Park.\n- T. E. Lawrence is famous for Seven Pillars of Wisdom.\n- Colleen McCullough is famous for The Thorn Birds.\n- The author of News from Nowhere is William Morris.\n- Robert Jordan is famous for The Wheel of Time.\n- The author of The Call of Cthulhu is H. P. Lovecraft.\n- H. P. Lovecraft worked in the city of Providence.\n- William Gibson is famous for Neuromancer.\n- Friedrich Nietzsche is famous for The Population Bomb.\n- Multatuli is famous for Max Havelaar.\n- H. P. Lovecraft was born in the city of Rising Sun.\n- H. P. Lovecraft was born in the city of Providence.\n- The author of The Birth of Tragedy is Friedrich Nietzsche.\n- Edward Bellamy is famous for Looking Backward.\n- Daphne du Maurier speaks the language of English.\n- Allen Ginsberg is famous for Natya Shastra.\n- Thomas Paine is famous for Common Sense.\n- Hugh Hefner is famous for The Vampyre.\n- H. P. Lovecraft worked in the city of Ottawa.\n- The author of The Normal Heart is Larry Kramer.\n- T. S. Eliot speaks the language of French.\n- The author of News from Nowhere is Roger Williams.\n- The author of The Witcher is T. S. Eliot.\n- The author of Endgame is Samuel Beckett\n- Nobuhiro Watsuki is famous for Rurouni Kenshin.\n- The author of Rebecca is Daphne du Maurier\n- The author of Troilus and Criseyde is Masashi Kishimoto.\n- E. M. Forster speaks the language of English.\n- Friedrich Nietzsche is famous for Thus Spoke Zarathustra.\n- The author of Bleak House is Charles Dickens.\n- The author of Sketches by Boz is Charles Dickens\n- The author of She Stoops to Conquer is Oliver Goldsmith.\n- A Rake's Progress was created by William Holman Hunt.\n- The author of Endymion is John Keats.\n- Blandings Castle was created by P. G. Wodehouse.\n- The author of The Scarlet Letter is Nathaniel Hawthorne.\n- Mario Puzo is famous for The Godfather\n- The author of Coraline is John Stuart Mill.\n- The author of The Andromeda Strain is Multatuli.\n- Edward Bellamy is famous for Gesta Hunnorum et Hungarorum.\n- Alexander Stirling Calder works in the field of sculptor.\n- The author of The Canterbury Tales is Geoffrey Chaucer.\n- Chris Carter is famous for The X-Files.\n- Multatuli is famous for Space Invaders.\n- The author of Aubrey-Maturin series is Ray Bradbury.\n- Ray Bradbury speaks the language of English.\n- Moby-Dick was created in the country of United States of America.\n- George Bernard Shaw works in the field of playwright\n- Terry Goodkind is famous for The Sword of Truth.\n- Clare Boothe Luce worked in the city of Washington, D.C.\n- David Graveney is associated with the sport of cricket\n- Eugène Carrière worked in the city of Paris.\n- The author of Antony and Cleopatra is Terrance Dicks\n- The author of Madame Bovary is Gustave Flaubert.\n- Charles Dickens died in the city of Gads Hill Place.\n- William Shakespeare works in the field of playwright.\n- Joseph Wright of Derby speaks the language of English.\n- Ferdowsi is famous for Shahnameh\n- Masashi Kishimoto is famous for Naruto.\n- Louisa May Alcott worked in the city of Boston.\n- The author of The Age of Reason is Allen Ginsberg.\n- The author of Sidereus Nuncius is Samuel Beckett.\n- John Keats died in the city of Leipzig.\n- The author of The Andromeda Strain is Michael Crichton.\n- The author of David Copperfield is Charles Dickens.\n- The author of The Thin Man is Dashiell Hammett.\n- The author of American Pastoral is Philip Roth.\n- Yancy Derringer was created in the country of United States of America.\n- The author of Gulliver's Travels is Jonathan Swift\n- The author of A Passage to India is E. M. Forster.\n- Wizard of Oz was created by Ambrose Bierce.\n- The author of Starship Troopers is Daphne du Maurier.\n- The author of A Christmas Carol is Winston Churchill.\n- Eugène Carrière worked in the city of Hyderabad.\n- David Stirling speaks the language of English\n- The university where Nathaniel Hawthorne was educated is Bowdoin College.\n- 1949 World Series is associated with the sport of cricket.\n- William Holman Hunt died in the city of London.\n- The author of Coraline is Neil Gaiman.\n- The author of A Christmas Carol is Charles Dickens.\n- William Shakespeare works in the field of businessperson.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, What is Stephen Crane famous for? \nAnswer:\n\nCurrent Time: 2026-07-04 20:34:37",
+  "response": "Answer: Charlie Hebdo",
+  "prompt_tokens": 1465,
+  "completion_tokens": 5,
+  "resolved_pool": [
+    {
+      "id": "6dbbb9eb-0f43-4433-83d8-7a42ab6d13a9",
+      "memory": "The author of The Birth of Tragedy is Stephen Crane.",
+      "hash": "c6b98ee39ec9dab593966649731dd182",
+      "metadata": {
+        "ordinal": 2241,
+        "triple": {
+          "subject_id": "the_birth_of_tragedy",
+          "predicate_norm": "has author",
+          "object_text": "Stephen Crane",
+          "confidence": 0.95,
+          "subject_raw": "The Birth of Tragedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.6955099079105933,
+      "created_at": "2026-07-04T05:32:30.661546-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "121eed88-b638-4e6b-aca7-8bc85fb55f36",
+      "memory": "Stephen Crane is famous for The Red Badge of Courage.",
+      "hash": "8d2f4dfac159b596e3ac522b236ab12a",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "stephen_crane",
+          "predicate_norm": "be famous for",
+          "object_text": "The Red Badge of Courage",
+          "confidence": 0.95,
+          "subject_raw": "Stephen Crane",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.6494591032999097,
+      "created_at": "2026-07-04T05:31:31.832734-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "36c2b94a-f61b-4c8f-9d01-5a987e01bfd0",
+      "memory": "Stephen Crane is famous for Charlie Hebdo.",
+      "hash": "1e61400faca4da379997bcc08dc6a2b6",
+      "metadata": {
+        "ordinal": 1004,
+        "triple": null,
+        "subject_fallback": "stephen_crane"
+      },
+      "score": 0.6179474009061484,
+      "created_at": "2026-07-04T05:31:56.494542-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "21da25be-2c56-45a5-b462-4e0f0a841b9e",
+      "memory": "David Crane is a citizen of United States of America.",
+      "hash": "385a238025d70dfacd0e634e8393c9d8",
+      "metadata": {
+        "ordinal": 1515,
+        "triple": {
+          "subject_id": "david_crane",
+          "predicate_norm": "be citizen",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "David Crane",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.4208152518637028,
+      "created_at": "2026-07-04T05:32:12.484356-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ee8f0604-d574-4292-9acf-a66ba237ddd9",
+      "memory": "Herman Melville is famous for Lark Rise to Candleford.",
+      "hash": "435a7e2cc816884fc4180cc2987e0deb",
+      "metadata": {
+        "ordinal": 1993,
+        "triple": {
+          "subject_id": "herman_melville",
+          "predicate_norm": "be famous for",
+          "object_text": "Lark Rise to Candleford",
+          "confidence": 0.95,
+          "subject_raw": "Herman Melville",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.41307663159796026,
+      "created_at": "2026-07-04T05:32:24.258571-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a071ee2d-514d-45a4-af09-68f68609f101",
+      "memory": "Herman Melville is famous for Moby-Dick.",
+      "hash": "b246d901ce3a66e962130f2003ab3d43",
+      "metadata": {
+        "ordinal": 1250,
+        "triple": {
+          "subject_id": "herman_melville",
+          "predicate_norm": "be famous for",
+          "object_text": "Moby-Dick",
+          "confidence": 0.95,
+          "subject_raw": "Herman Melville",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.38435999461331644,
+      "created_at": "2026-07-04T05:32:05.192550-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6d57f068-376a-41f7-a186-4ef956d350db",
+      "memory": "David Crane is a citizen of ancient Rome.",
+      "hash": "b8bbc539b3eff90aaf4a027e48f93951",
+      "metadata": {
+        "ordinal": 2289,
+        "triple": {
+          "subject_id": "david_crane",
+          "predicate_norm": "be citizen",
+          "object_text": "ancient Rome",
+          "confidence": 0.95,
+          "subject_raw": "David Crane",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.3608433875611958,
+      "created_at": "2026-07-04T05:32:32.432574-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5e068e45-45c4-4901-abd2-728b7bf3ed57",
+      "memory": "Geoffrey Chaucer is famous for The Canterbury Tales.",
+      "hash": "4d869092a871ff0d01dfcf37eac9ed1e",
+      "metadata": {
+        "ordinal": 1775,
+        "triple": {
+          "subject_id": "geoffrey_chaucer",
+          "predicate_norm": "be famous for",
+          "object_text": "The Canterbury Tales",
+          "confidence": 0.95,
+          "subject_raw": "Geoffrey Chaucer",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.3318994186541562,
+      "created_at": "2026-07-04T05:32:18.598852-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3e997dfd-2fc2-4585-a7f3-7637d67faa23",
+      "memory": "Allen Ginsberg is famous for Howl.",
+      "hash": "01e7f5aafd7fa30b572a3e963d5ae263",
+      "metadata": {
+        "ordinal": 1072,
+        "triple": {
+          "subject_id": "allen_ginsberg",
+          "predicate_norm": "be famous for",
+          "object_text": "Howl",
+          "confidence": 0.95,
+          "subject_raw": "Allen Ginsberg",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.3157632884795116,
+      "created_at": "2026-07-04T05:31:58.892409-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e0f71cb6-ed1e-45ea-b4d5-de24aa03a0db",
+      "memory": "James Agee died in the city of New York City.",
+      "hash": "7a3876496db56a1e362a652a3c738523",
+      "metadata": {
+        "ordinal": 384,
+        "triple": {
+          "subject_id": "james_agee",
+          "predicate_norm": "died in",
+          "object_text": "New York City",
+          "confidence": 0.95,
+          "subject_raw": "James Agee",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.3106404337837425,
+      "created_at": "2026-07-04T05:31:39.488425-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9696c9f8-f802-440f-a10e-1756c3ba78df",
+      "memory": "The author of Troilus and Criseyde is Geoffrey Chaucer.",
+      "hash": "b0b83c3376fe0326da8d5e537bec4e32",
+      "metadata": {
+        "ordinal": 1090,
+        "triple": {
+          "subject_id": "troilus_and_criseyde",
+          "predicate_norm": "has author",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "Troilus and Criseyde",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.305838524189815,
+      "created_at": "2026-07-04T05:31:58.920068-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "fb797f1c-2630-4fba-86c3-22bd724e2689",
+      "memory": "The author of The Vicar of Wakefield is James Agee.",
+      "hash": "335f575f7ae2bdcda197a0172941720d",
+      "metadata": {
+        "ordinal": 989,
+        "triple": {
+          "subject_id": "the_vicar_of_wakefield",
+          "predicate_norm": "be authored by",
+          "object_text": "James Agee",
+          "confidence": 0.95,
+          "subject_raw": "The Vicar of Wakefield",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.30330247617527645,
+      "created_at": "2026-07-04T05:31:55.584726-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "111f463d-e364-4f8d-a91f-901e7510209b",
+      "memory": "Tony Soprano was created by David Crane.",
+      "hash": "68d4c4b2c8075340c87132ca70fa2755",
+      "metadata": {
+        "ordinal": 773,
+        "triple": {
+          "subject_id": "tony_soprano",
+          "predicate_norm": "be created by",
+          "object_text": "David Crane",
+          "confidence": 0.95,
+          "subject_raw": "Tony Soprano",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.30215980959129796,
+      "created_at": "2026-07-04T05:31:50.215330-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cdcb8a1f-b894-4411-ac51-55bc1530cf82",
+      "memory": "The author of Little Women is H. P. Lovecraft.",
+      "hash": "2cc5a3635ac2a151802dcbeaf14167bf",
+      "metadata": {
+        "ordinal": 1890,
+        "triple": {
+          "subject_id": "little_women",
+          "predicate_norm": "has author",
+          "object_text": "H. P. Lovecraft",
+          "confidence": 0.95,
+          "subject_raw": "Little Women",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30032311379983817,
+      "created_at": "2026-07-04T05:32:21.320167-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "404346fb-ee2c-40cf-a6bd-5f09f72ccc9b",
+      "memory": "The author of Mrs. Warren's Profession is Clamp.",
+      "hash": "c93a0658511bdb30945c22ed91a96977",
+      "metadata": {
+        "ordinal": 1071,
+        "triple": {
+          "subject_id": "mrs._warren's_profession",
+          "predicate_norm": "has author",
+          "object_text": "Clamp",
+          "confidence": 0.95,
+          "subject_raw": "Mrs. Warren's Profession",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3001003226185424,
+      "created_at": "2026-07-04T05:31:58.889940-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "76b86c9d-02cf-49a4-b92c-cb281cbb15e2",
+      "memory": "The author of Typee is Herman Melville.",
+      "hash": "5bb6da77281906774540d2641d23f7d0",
+      "metadata": {
+        "ordinal": 833,
+        "triple": {
+          "subject_id": "typee",
+          "predicate_norm": "be authored by",
+          "object_text": "Herman Melville",
+          "confidence": 0.95,
+          "subject_raw": "Typee",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.2974475078462094,
+      "created_at": "2026-07-04T05:31:51.252607-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "07d4fe70-8b36-4c4c-9beb-1bb7554f3ec6",
+      "memory": "T. S. Eliot speaks the language of English.",
+      "hash": "60560e9f638a126fa7a2a3a44723c92d",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.2954937106758793,
+      "created_at": "2026-07-04T05:31:38.627253-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ac4c83d7-08b1-4189-be8d-e2c108dfdb9f",
+      "memory": "The author of Madame Bovary is Samuel Taylor Coleridge.",
+      "hash": "7ac9debcb2ad0818f3c0ab595d39b7a0",
+      "metadata": {
+        "ordinal": 2057,
+        "triple": {
+          "subject_id": "madame_bovary",
+          "predicate_norm": "be authored by",
+          "object_text": "Samuel Taylor Coleridge",
+          "confidence": 0.95,
+          "subject_raw": "Madame Bovary",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.29453518176307947,
+      "created_at": "2026-07-04T05:32:26.263015-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9815977b-b30b-428b-8468-e8db8603252b",
+      "memory": "William Waynflete speaks the language of English.",
+      "hash": "16f3d77c0d0e41b756feb7df5d2bbc5c",
+      "metadata": {
+        "ordinal": 1554,
+        "triple": {
+          "subject_id": "william_waynflete",
+          "predicate_norm": "speaks",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Waynflete",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.29416479557521646,
+      "created_at": "2026-07-04T05:32:13.191231-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d06727ee-3306-4104-b1ff-3bcc1752d01b",
+      "memory": "Michael Crichton is famous for Jurassic Park.",
+      "hash": "92dedcdc50b32227b56aff77a6db8668",
+      "metadata": {
+        "ordinal": 1083,
+        "triple": {
+          "subject_id": "michael_crichton",
+          "predicate_norm": "be famous for",
+          "object_text": "Jurassic Park",
+          "confidence": 0.95,
+          "subject_raw": "Michael Crichton",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.29331364424891543,
+      "created_at": "2026-07-04T05:31:58.910708-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "23ff1b59-78f6-4b4b-b764-5672a7896b85",
+      "memory": "T. E. Lawrence is famous for Seven Pillars of Wisdom.",
+      "hash": "ec510df47d69b08c687a2a1975e7b4c1",
+      "metadata": {
+        "ordinal": 180,
+        "triple": {
+          "subject_id": "t._e._lawrence",
+          "predicate_norm": "be famous for",
+          "object_text": "Seven Pillars of Wisdom",
+          "confidence": 0.95,
+          "subject_raw": "T. E. Lawrence",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2867798563308391,
+      "created_at": "2026-07-04T05:31:33.654523-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "9337a6e8-d04c-4d14-b48c-9d4dc868f130",
+      "memory": "Colleen McCullough is famous for The Thorn Birds.",
+      "hash": "b6454c7312a92b1eb16924eeed4257f7",
+      "metadata": {
+        "ordinal": 797,
+        "triple": {
+          "subject_id": "colleen_mccullough",
+          "predicate_norm": "be famous for",
+          "object_text": "The Thorn Birds",
+          "confidence": 0.95,
+          "subject_raw": "Colleen McCullough",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.28233968549642235,
+      "created_at": "2026-07-04T05:31:50.252180-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "13daae74-174a-40f5-b8d5-a40d9a236a7c",
+      "memory": "The author of News from Nowhere is William Morris.",
+      "hash": "35c5ee488256176034739cbc5674d174",
+      "metadata": {
+        "ordinal": 515,
+        "triple": {
+          "subject_id": "news_from_nowhere",
+          "predicate_norm": "be authored by",
+          "object_text": "William Morris",
+          "confidence": 0.95,
+          "subject_raw": "News from Nowhere",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.28073224474890646,
+      "created_at": "2026-07-04T05:31:42.269167-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "65f108b9-bb6b-4dd2-b7b9-170dfcc784f0",
+      "memory": "Robert Jordan is famous for The Wheel of Time.",
+      "hash": "b7bea1fdaf113bb0f91580c450361186",
+      "metadata": {
+        "ordinal": 1079,
+        "triple": {
+          "subject_id": "robert_jordan",
+          "predicate_norm": "be famous for",
+          "object_text": "The Wheel of Time",
+          "confidence": 0.95,
+          "subject_raw": "Robert Jordan",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2774099078898943,
+      "created_at": "2026-07-04T05:31:58.904931-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d1a45fb8-5bef-456c-be0e-c081e2a592d8",
+      "memory": "The author of The Call of Cthulhu is H. P. Lovecraft.",
+      "hash": "c9a1b9afc922fe5dffd414e6857dad23",
+      "metadata": {
+        "ordinal": 583,
+        "triple": {
+          "subject_id": "the_call_of_cthulhu",
+          "predicate_norm": "has author",
+          "object_text": "H. P. Lovecraft",
+          "confidence": 0.95,
+          "subject_raw": "The Call of Cthulhu",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.27496933480870905,
+      "created_at": "2026-07-04T05:31:44.290763-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6bf12772-d5e9-40c9-af98-79d5e25de4fe",
+      "memory": "H. P. Lovecraft worked in the city of Providence.",
+      "hash": "87f6f19b6af9bd75e594cfeec84644d0",
+      "metadata": {
+        "ordinal": 1563,
+        "triple": {
+          "subject_id": "h._p._lovecraft",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Providence",
+          "confidence": 0.95,
+          "subject_raw": "H. P. Lovecraft",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.2719254774136021,
+      "created_at": "2026-07-04T05:32:13.209902-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ec087898-67ce-4c69-9339-b2ba3e2ddae3",
+      "memory": "William Gibson is famous for Neuromancer.",
+      "hash": "30da7cc53794e4a44e2db9c43e32cbde",
+      "metadata": {
+        "ordinal": 286,
+        "triple": {
+          "subject_id": "william_gibson",
+          "predicate_norm": "be famous for",
+          "object_text": "Neuromancer",
+          "confidence": 0.95,
+          "subject_raw": "William Gibson",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.27092119724339647,
+      "created_at": "2026-07-04T05:31:36.703923-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cc2e8f2c-79f1-4c0f-94be-fe7bca77d705",
+      "memory": "Friedrich Nietzsche is famous for The Population Bomb.",
+      "hash": "29be8c2a1873079885c0f2bb45eca254",
+      "metadata": {
+        "ordinal": 1222,
+        "triple": {
+          "subject_id": "friedrich_nietzsche",
+          "predicate_norm": "be famous for",
+          "object_text": "The Population Bomb",
+          "confidence": 0.95,
+          "subject_raw": "Friedrich Nietzsche",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.26490601352576165,
+      "created_at": "2026-07-04T05:32:03.192347-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5cf70d62-bfef-4b70-8946-d0b56ebbd6c7",
+      "memory": "Multatuli is famous for Max Havelaar.",
+      "hash": "27a1679bf614cfaaa1ee4dee8c3a03f9",
+      "metadata": {
+        "ordinal": 1357,
+        "triple": {
+          "subject_id": "multatuli",
+          "predicate_norm": "be famous for",
+          "object_text": "Max Havelaar",
+          "confidence": 0.95,
+          "subject_raw": "Multatuli",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2645418237254975,
+      "created_at": "2026-07-04T05:32:07.935657-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "923412f6-085e-47c8-b0e1-49616b7ce323",
+      "memory": "H. P. Lovecraft was born in the city of Rising Sun.",
+      "hash": "bbe4fb0ecd007bbea6b4031f9f5c11fe",
+      "metadata": {
+        "ordinal": 606,
+        "triple": {
+          "subject_id": "h._p._lovecraft",
+          "predicate_norm": "be born in",
+          "object_text": "the city of Rising Sun",
+          "confidence": 0.95,
+          "subject_raw": "H. P. Lovecraft",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2639461239246993,
+      "created_at": "2026-07-04T05:31:44.327129-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "7ca03189-ede6-493e-9515-430a8c3948c3",
+      "memory": "H. P. Lovecraft was born in the city of Providence.",
+      "hash": "95eec113fbac4cb88f43b77a56e0fff3",
+      "metadata": {
+        "ordinal": 269,
+        "triple": {
+          "subject_id": "h._p._lovecraft",
+          "predicate_norm": "be born in",
+          "object_text": "Providence",
+          "confidence": 0.95,
+          "subject_raw": "H. P. Lovecraft",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.2631571584604263,
+      "created_at": "2026-07-04T05:31:36.666100-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ddcd0fd4-d22e-4f19-8180-ab605d26a40f",
+      "memory": "The author of The Birth of Tragedy is Friedrich Nietzsche.",
+      "hash": "dbe393a598d8a1d460bd94401ada82a4",
+      "metadata": {
+        "ordinal": 738,
+        "triple": {
+          "subject_id": "the_birth_of_tragedy",
+          "predicate_norm": "has author",
+          "object_text": "Friedrich Nietzsche",
+          "confidence": 0.95,
+          "subject_raw": "The Birth of Tragedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2627421160366765,
+      "created_at": "2026-07-04T05:31:48.690145-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6739f40c-c9ec-44af-815a-2b17184fecfd",
+      "memory": "Edward Bellamy is famous for Looking Backward.",
+      "hash": "9c4e8211375e76778eb9911d4022d598",
+      "metadata": {
+        "ordinal": 267,
+        "triple": {
+          "subject_id": "edward_bellamy",
+          "predicate_norm": "be famous for",
+          "object_text": "Looking Backward",
+          "confidence": 0.95,
+          "subject_raw": "Edward Bellamy",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.26233336169433097,
+      "created_at": "2026-07-04T05:31:35.462316-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ca145634-fe14-4a99-bcb4-894041a1c658",
+      "memory": "Daphne du Maurier speaks the language of English.",
+      "hash": "a46059660a4d96cc1d8f9587cded6fe8",
+      "metadata": {
+        "ordinal": 1093,
+        "triple": {
+          "subject_id": "daphne_du_maurier",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Daphne du Maurier",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.2621782730727581,
+      "created_at": "2026-07-04T05:31:58.923766-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "aeca6870-802b-4603-9b1e-4c4e0a21c86f",
+      "memory": "Allen Ginsberg is famous for Natya Shastra.",
+      "hash": "dfc31f7b5e6ce1534dad1345bf629b32",
+      "metadata": {
+        "ordinal": 1559,
+        "triple": {
+          "subject_id": "allen_ginsberg",
+          "predicate_norm": "be famous for",
+          "object_text": "Natya Shastra",
+          "confidence": 0.95,
+          "subject_raw": "Allen Ginsberg",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.26176230214469826,
+      "created_at": "2026-07-04T05:32:13.202974-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6ea4efe9-34a9-4fb7-b935-8c2b113c0b8f",
+      "memory": "Thomas Paine is famous for Common Sense.",
+      "hash": "1e0390c7e87c0618b3fe3d1b91eb6abe",
+      "metadata": {
+        "ordinal": 478,
+        "triple": {
+          "subject_id": "thomas_paine",
+          "predicate_norm": "be famous for",
+          "object_text": "Common Sense",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Paine",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2616596476894712,
+      "created_at": "2026-07-04T05:31:41.503145-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4a0a4f89-f3d6-4549-be0f-30b8b4e12b14",
+      "memory": "Hugh Hefner is famous for The Vampyre.",
+      "hash": "a2e91e31e59e6bbaba94c4cdc2f63855",
+      "metadata": {
+        "ordinal": 2287,
+        "triple": {
+          "subject_id": "hugh_hefner",
+          "predicate_norm": "be famous for",
+          "object_text": "The Vampyre",
+          "confidence": 0.95,
+          "subject_raw": "Hugh Hefner",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.26081708495078226,
+      "created_at": "2026-07-04T05:32:32.428658-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "97d945db-e1ff-485d-8877-f7610e4b74fc",
+      "memory": "H. P. Lovecraft worked in the city of Ottawa.",
+      "hash": "337672e8aea9114467bb238712a5a7b4",
+      "metadata": {
+        "ordinal": 2058,
+        "triple": {
+          "subject_id": "h._p._lovecraft",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Ottawa",
+          "confidence": 0.95,
+          "subject_raw": "H. P. Lovecraft",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.2605561268214879,
+      "created_at": "2026-07-04T05:32:26.264265-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25f72220-895c-49ab-9559-bf415b4fb3dc",
+      "memory": "The author of The Normal Heart is Larry Kramer.",
+      "hash": "55a6449e2285d294f1543c5a189ccfc0",
+      "metadata": {
+        "ordinal": 792,
+        "triple": {
+          "subject_id": "the_normal_heart",
+          "predicate_norm": "be authored by",
+          "object_text": "Larry Kramer",
+          "confidence": 0.95,
+          "subject_raw": "The Normal Heart",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.25868027745278654,
+      "created_at": "2026-07-04T05:31:50.246067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c8cf8310-f09c-4200-8026-3d43c9ab3466",
+      "memory": "T. S. Eliot speaks the language of French.",
+      "hash": "91e59bbb7cfa13902a39dc06d0c03058",
+      "metadata": {
+        "ordinal": 936,
+        "triple": {
+          "subject_id": "t._s._eliot",
+          "predicate_norm": "speaks language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "T. S. Eliot",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.25663462904408846,
+      "created_at": "2026-07-04T05:31:54.729833-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0458f8d0-8ba7-455f-999b-549c73e52de0",
+      "memory": "The author of News from Nowhere is Roger Williams.",
+      "hash": "c3dc22f674323079fabc9abc1336fcea",
+      "metadata": {
+        "ordinal": 1125,
+        "triple": {
+          "subject_id": "news_from_nowhere",
+          "predicate_norm": "has author",
+          "object_text": "Roger Williams",
+          "confidence": 0.95,
+          "subject_raw": "News from Nowhere",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2561864361831415,
+      "created_at": "2026-07-04T05:31:59.950485-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "39b2224c-1079-4f2a-97cc-7b2b2731c2e5",
+      "memory": "The author of The Witcher is T. S. Eliot.",
+      "hash": "7e425b62cf35dbde11622cf764d4c7d6",
+      "metadata": {
+        "ordinal": 1024,
+        "triple": {
+          "subject_id": "the_witcher",
+          "predicate_norm": "be authored by",
+          "object_text": "T. S. Eliot",
+          "confidence": 0.95,
+          "subject_raw": "The Witcher",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2561460535531519,
+      "created_at": "2026-07-04T05:31:56.525893-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d191b4b9-bff1-4e01-9310-17760f47667e",
+      "memory": "The author of Endgame is Samuel Beckett",
+      "hash": "0671948d25b53d36aa3404f4e94734d0",
+      "metadata": {
+        "ordinal": 1506,
+        "triple": {
+          "subject_id": "samuel_beckett",
+          "predicate_norm": "be author",
+          "object_text": "Endgame",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Beckett",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.25392944107485105,
+      "created_at": "2026-07-04T05:32:11.579903-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d7986c80-1703-4da2-bebc-b6fd5dbb6390",
+      "memory": "Nobuhiro Watsuki is famous for Rurouni Kenshin.",
+      "hash": "cf27703a06cae5a8617cfee2176143d9",
+      "metadata": {
+        "ordinal": 302,
+        "triple": {
+          "subject_id": "nobuhiro_watsuki",
+          "predicate_norm": "be famous for",
+          "object_text": "Rurouni Kenshin",
+          "confidence": 0.95,
+          "subject_raw": "Nobuhiro Watsuki",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.25390297779394055,
+      "created_at": "2026-07-04T05:31:36.726879-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "ce0fc37b-9959-43e2-b8f3-e76585b8d376",
+      "memory": "The author of Rebecca is Daphne du Maurier",
+      "hash": "0d16f7f34167b5fd5dff49c1d78832dc",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "daphne_du_maurier",
+          "predicate_norm": "be author",
+          "object_text": "Rebecca",
+          "confidence": 0.95,
+          "subject_raw": "Daphne du Maurier",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.2533381112925106,
+      "created_at": "2026-07-04T05:31:30.563826-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e991d56c-3b1e-497d-8581-85bd4d2ad23f",
+      "memory": "The author of Troilus and Criseyde is Masashi Kishimoto.",
+      "hash": "506f3f8e9da90b7d989b4878c9c566ef",
+      "metadata": {
+        "ordinal": 1606,
+        "triple": {
+          "subject_id": "masashi_kishimoto",
+          "predicate_norm": "be author",
+          "object_text": "Troilus and Criseyde",
+          "confidence": 0.95,
+          "subject_raw": "Masashi Kishimoto",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.25258276682237396,
+      "created_at": "2026-07-04T05:32:14.143373-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "1c4c7d0b-d64e-422b-a0cf-4a41500c072f",
+      "memory": "E. M. Forster speaks the language of English.",
+      "hash": "fd3e994103bffdec8b57593ae7a06cd1",
+      "metadata": {
+        "ordinal": 751,
+        "triple": {
+          "subject_id": "e._m._forster",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "E. M. Forster",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.25217487657477383,
+      "created_at": "2026-07-04T05:31:48.709179-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b0aac70e-2e76-47f2-8a40-baecf5d20925",
+      "memory": "Friedrich Nietzsche is famous for Thus Spoke Zarathustra.",
+      "hash": "f013a209921f1f6a1ccf8d17f1dd8646",
+      "metadata": {
+        "ordinal": 812,
+        "triple": {
+          "subject_id": "friedrich_nietzsche",
+          "predicate_norm": "be famous for",
+          "object_text": "Thus Spoke Zarathustra",
+          "confidence": 0.95,
+          "subject_raw": "Friedrich Nietzsche",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.25180072111723073,
+      "created_at": "2026-07-04T05:31:51.219951-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c50874e7-54df-456e-9826-158b4b22f3e3",
+      "memory": "The author of Bleak House is Charles Dickens.",
+      "hash": "ed008b3fe4ed2d6a75b98fcbd2503405",
+      "metadata": {
+        "ordinal": 580,
+        "triple": {
+          "subject_id": "bleak_house",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Bleak House",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2504923960222716,
+      "created_at": "2026-07-04T05:31:44.284126-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "64932367-a185-4033-8d23-d0cf4cbadccc",
+      "memory": "The author of Sketches by Boz is Charles Dickens",
+      "hash": "08b1828caf3e160e6a224da43acb0f4a",
+      "metadata": {
+        "ordinal": 559,
+        "triple": {
+          "subject_id": "sketches_by_boz",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Sketches by Boz",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.25035757710424483,
+      "created_at": "2026-07-04T05:31:43.316252-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c8180011-5a16-4aa5-bb12-2419586fb830",
+      "memory": "The author of She Stoops to Conquer is Oliver Goldsmith.",
+      "hash": "77ad30c9cd7a42f27f4b30a2fb712974",
+      "metadata": {
+        "ordinal": 1713,
+        "triple": {
+          "subject_id": "oliver_goldsmith",
+          "predicate_norm": "be author",
+          "object_text": "She Stoops to Conquer",
+          "confidence": 0.95,
+          "subject_raw": "Oliver Goldsmith",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.24943069000530316,
+      "created_at": "2026-07-04T05:32:16.655236-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3314fb7b-6dbd-45b5-b06a-0b84aa119aee",
+      "memory": "A Rake's Progress was created by William Holman Hunt.",
+      "hash": "947e57a1babd82f485f63b52be5db177",
+      "metadata": {
+        "ordinal": 1974,
+        "triple": {
+          "subject_id": "a_rake's_progress",
+          "predicate_norm": "be created by",
+          "object_text": "William Holman Hunt",
+          "confidence": 0.95,
+          "subject_raw": "A Rake's Progress",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.24685943756526055,
+      "created_at": "2026-07-04T05:32:24.224175-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "24a12388-b262-4ff4-8ddf-a330f4b5432f",
+      "memory": "The author of Endymion is John Keats.",
+      "hash": "f13ba8da2e590e9f282057b436f3b17e",
+      "metadata": {
+        "ordinal": 1054,
+        "triple": {
+          "subject_id": "endymion",
+          "predicate_norm": "be authored by",
+          "object_text": "John Keats",
+          "confidence": 0.95,
+          "subject_raw": "Endymion",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.24523871197971311,
+      "created_at": "2026-07-04T05:31:57.569448-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e34077e1-867a-4190-aeae-ce0a33f42f6e",
+      "memory": "Blandings Castle was created by P. G. Wodehouse.",
+      "hash": "0acf5225ea532da266a77ad87739e509",
+      "metadata": {
+        "ordinal": 1420,
+        "triple": {
+          "subject_id": "blandings_castle",
+          "predicate_norm": "be created by",
+          "object_text": "P. G. Wodehouse",
+          "confidence": 0.95,
+          "subject_raw": "Blandings Castle",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.24379945560784982,
+      "created_at": "2026-07-04T05:32:09.744057-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "141fc015-cc66-44c3-8968-a329a10de8b0",
+      "memory": "The author of The Scarlet Letter is Nathaniel Hawthorne.",
+      "hash": "d1fea598590d9036e4373c5fcd4b24ec",
+      "metadata": {
+        "ordinal": 997,
+        "triple": {
+          "subject_id": "the_scarlet_letter",
+          "predicate_norm": "be authored by",
+          "object_text": "Nathaniel Hawthorne",
+          "confidence": 0.95,
+          "subject_raw": "The Scarlet Letter",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.24373381011884532,
+      "created_at": "2026-07-04T05:31:56.479224-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "25714fed-f920-4c76-9ce9-a2c2f89ce326",
+      "memory": "Mario Puzo is famous for The Godfather",
+      "hash": "61b537182f500ace22952a48740e4bff",
+      "metadata": {
+        "ordinal": 455,
+        "triple": {
+          "subject_id": "mario_puzo",
+          "predicate_norm": "be famous for",
+          "object_text": "The Godfather",
+          "confidence": 0.95,
+          "subject_raw": "Mario Puzo",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.243565528965169,
+      "created_at": "2026-07-04T05:31:40.442946-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e1cbaad9-32fd-4b09-a146-7a48b37229cc",
+      "memory": "The author of Coraline is John Stuart Mill.",
+      "hash": "e2b72b3004e8de19b94195d49889f566",
+      "metadata": {
+        "ordinal": 1726,
+        "triple": {
+          "subject_id": "coraline",
+          "predicate_norm": "be authored by",
+          "object_text": "John Stuart Mill",
+          "confidence": 0.95,
+          "subject_raw": "Coraline",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.2405732948271398,
+      "created_at": "2026-07-04T05:32:17.585180-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0d9ec700-1ee7-4323-b3c8-07af9dae7929",
+      "memory": "The author of The Andromeda Strain is Multatuli.",
+      "hash": "a493bceb3f716ef42e99fbb492766662",
+      "metadata": {
+        "ordinal": 2213,
+        "triple": {
+          "subject_id": "the_andromeda_strain",
+          "predicate_norm": "has author",
+          "object_text": "Multatuli",
+          "confidence": 0.95,
+          "subject_raw": "The Andromeda Strain",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2393782137248536,
+      "created_at": "2026-07-04T05:32:30.613446-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "8115f80b-283e-4121-b1bc-0fe868791212",
+      "memory": "Edward Bellamy is famous for Gesta Hunnorum et Hungarorum.",
+      "hash": "223e1fa415c6ba1851c7676eeb108759",
+      "metadata": {
+        "ordinal": 1640,
+        "triple": {
+          "subject_id": "edward_bellamy",
+          "predicate_norm": "be famous for",
+          "object_text": "Gesta Hunnorum et Hungarorum",
+          "confidence": 0.95,
+          "subject_raw": "Edward Bellamy",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.23763938706905177,
+      "created_at": "2026-07-04T05:32:14.983143-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "98a71f16-c176-4e90-8294-425261932cca",
+      "memory": "Alexander Stirling Calder works in the field of sculptor.",
+      "hash": "a90bce38a2353009283e228abb80ab99",
+      "metadata": {
+        "ordinal": 139,
+        "triple": {
+          "subject_id": "alexander_stirling_calder",
+          "predicate_norm": "works in field",
+          "object_text": "sculptor",
+          "confidence": 0.95,
+          "subject_raw": "Alexander Stirling Calder",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.23763357202531205,
+      "created_at": "2026-07-04T05:31:32.727040-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "864115ee-f5d3-430c-b0b1-b6d0017674b5",
+      "memory": "The author of The Canterbury Tales is Geoffrey Chaucer.",
+      "hash": "2eee88d29f584ffdf2b9735ff04489c5",
+      "metadata": {
+        "ordinal": 1637,
+        "triple": {
+          "subject_id": "the_canterbury_tales",
+          "predicate_norm": "has author",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "The Canterbury Tales",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.23747105945706443,
+      "created_at": "2026-07-04T05:32:14.978750-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "21863cee-515e-48af-9c3d-a31f2e9eb58a",
+      "memory": "Chris Carter is famous for The X-Files.",
+      "hash": "b41fa72f193f955d15e7a48217e2f05f",
+      "metadata": {
+        "ordinal": 1652,
+        "triple": {
+          "subject_id": "chris_carter",
+          "predicate_norm": "be famous for",
+          "object_text": "The X-Files",
+          "confidence": 0.95,
+          "subject_raw": "Chris Carter",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2373092436731681,
+      "created_at": "2026-07-04T05:32:15.734352-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "c7d81ec3-5fbf-4756-b4a3-f0be2091372d",
+      "memory": "Multatuli is famous for Space Invaders.",
+      "hash": "466b4984e0e48842c2e651b61f1eea4d",
+      "metadata": {
+        "ordinal": 1571,
+        "triple": {
+          "subject_id": "multatuli",
+          "predicate_norm": "be famous for",
+          "object_text": "Space Invaders",
+          "confidence": 0.95,
+          "subject_raw": "Multatuli",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.23691802098329912,
+      "created_at": "2026-07-04T05:32:13.221429-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "384fa06c-68ac-4741-9c06-0d125dfb6f21",
+      "memory": "The author of Aubrey-Maturin series is Ray Bradbury.",
+      "hash": "510acdc5249556f0b9d981206886f698",
+      "metadata": {
+        "ordinal": 1091,
+        "triple": {
+          "subject_id": "aubrey_maturin_series",
+          "predicate_norm": "has author",
+          "object_text": "Ray Bradbury",
+          "confidence": 0.95,
+          "subject_raw": "Aubrey-Maturin series",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.23634318557532644,
+      "created_at": "2026-07-04T05:31:58.921281-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "362191f3-fdf2-498d-9bda-3cae713ba959",
+      "memory": "Ray Bradbury speaks the language of English.",
+      "hash": "6dd1be12643aaca49db12f3d6831c475",
+      "metadata": {
+        "ordinal": 323,
+        "triple": {
+          "subject_id": "ray_bradbury",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Ray Bradbury",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.23630282359605959,
+      "created_at": "2026-07-04T05:31:37.626347-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "47de2e88-e930-45a6-9bb9-f30649b6c64d",
+      "memory": "Moby-Dick was created in the country of United States of America.",
+      "hash": "e9ecfbff616b89f79462ed7f44410822",
+      "metadata": {
+        "ordinal": 2191,
+        "triple": {
+          "subject_id": "moby_dick",
+          "predicate_norm": "be created in",
+          "object_text": "United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Moby-Dick",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.23562302259066129,
+      "created_at": "2026-07-04T05:32:29.646017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "bbfe9324-248a-4e16-9ea9-dac75129a3a4",
+      "memory": "George Bernard Shaw works in the field of playwright",
+      "hash": "eccae75245a20feb3479eb1509ae1d39",
+      "metadata": {
+        "ordinal": 65,
+        "triple": {
+          "subject_id": "george_bernard_shaw",
+          "predicate_norm": "works in field",
+          "object_text": "playwright",
+          "confidence": 0.95,
+          "subject_raw": "George Bernard Shaw",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.235545887096494,
+      "created_at": "2026-07-04T05:31:30.612396-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "93e8276e-ec9d-4433-812b-60764e0509a6",
+      "memory": "Terry Goodkind is famous for The Sword of Truth.",
+      "hash": "3fb9564bf5883815c37341f691710b63",
+      "metadata": {
+        "ordinal": 1428,
+        "triple": {
+          "subject_id": "terry_goodkind",
+          "predicate_norm": "be famous for",
+          "object_text": "The Sword of Truth",
+          "confidence": 0.95,
+          "subject_raw": "Terry Goodkind",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.23526496416528503,
+      "created_at": "2026-07-04T05:32:09.755380-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "66456f0f-7058-41f9-8447-1be52bb3a2c1",
+      "memory": "Clare Boothe Luce worked in the city of Washington, D.C.",
+      "hash": "59a13d7c3031af1fead8861d0811a8bc",
+      "metadata": {
+        "ordinal": 193,
+        "triple": {
+          "subject_id": "clare_boothe_luce",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Washington, D.C.",
+          "confidence": 0.95,
+          "subject_raw": "Clare Boothe Luce",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.23489272078003934,
+      "created_at": "2026-07-04T05:31:34.648055-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "88a5a6d9-19b3-46d2-b88c-631e522f345e",
+      "memory": "David Graveney is associated with the sport of cricket",
+      "hash": "cce465aca89fb31d25baec75b2336555",
+      "metadata": {
+        "ordinal": 39,
+        "triple": {
+          "subject_id": "david_graveney",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "David Graveney",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.23390564389901652,
+      "created_at": "2026-07-04T05:31:30.559545-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cb5b2c98-c567-4178-81c2-c9e20e288a0f",
+      "memory": "Eugène Carrière worked in the city of Paris.",
+      "hash": "b4a60b8cecca202daf22ece423162582",
+      "metadata": {
+        "ordinal": 1622,
+        "triple": {
+          "subject_id": "eugène_carrière",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Paris",
+          "confidence": 0.95,
+          "subject_raw": "Eugène Carrière",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.233277336206145,
+      "created_at": "2026-07-04T05:32:14.949655-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "00c589a3-de34-4d9f-9186-e2fbd48a49da",
+      "memory": "The author of Antony and Cleopatra is Terrance Dicks",
+      "hash": "e960c9b19b40f4c0bff7304449738fca",
+      "metadata": {
+        "ordinal": 564,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.23314449871725923,
+      "created_at": "2026-07-04T05:31:43.322185-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "376edf8e-1e10-4f81-bb41-0226293ada1e",
+      "memory": "The author of Madame Bovary is Gustave Flaubert.",
+      "hash": "b2f38249fdd2549dfbca3a93b063d3f2",
+      "metadata": {
+        "ordinal": 1272,
+        "triple": {
+          "subject_id": "madame_bovary",
+          "predicate_norm": "be authored by",
+          "object_text": "Gustave Flaubert",
+          "confidence": 0.95,
+          "subject_raw": "Madame Bovary",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.23299533474911038,
+      "created_at": "2026-07-04T05:32:06.207726-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "79a3bac2-d658-4802-99d5-a20b8a1b0f33",
+      "memory": "Charles Dickens died in the city of Gads Hill Place.",
+      "hash": "444f2827d1f5e9f4995c727f8f3b1b48",
+      "metadata": {
+        "ordinal": 2291,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "died in",
+          "object_text": "the city of Gads Hill Place",
+          "confidence": 0.95,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.23288128026877386,
+      "created_at": "2026-07-04T05:32:32.436470-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a119d282-7487-4a04-9b70-a1b80e4f79da",
+      "memory": "William Shakespeare works in the field of playwright.",
+      "hash": "8c08ede284cfe16a2a61fe3d0856d963",
+      "metadata": {
+        "ordinal": 279,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in field",
+          "object_text": "playwright",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.23243679833056002,
+      "created_at": "2026-07-04T05:31:36.690840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cd242c14-41b1-481a-b1e3-8e3142216de2",
+      "memory": "Joseph Wright of Derby speaks the language of English.",
+      "hash": "e199fb2c7e339627b9e99597021a878a",
+      "metadata": {
+        "ordinal": 1557,
+        "triple": {
+          "subject_id": "joseph_wright_of_derby",
+          "predicate_norm": "speaks",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Wright of Derby",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.2321354067309888,
+      "created_at": "2026-07-04T05:32:13.198635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d25025d2-555f-4329-8e1d-4a78895ecd6a",
+      "memory": "Ferdowsi is famous for Shahnameh",
+      "hash": "5e540031c360851490a687dad527a855",
+      "metadata": {
+        "ordinal": 428,
+        "triple": {
+          "subject_id": "ferdowsi",
+          "predicate_norm": "be famous for",
+          "object_text": "Shahnameh",
+          "confidence": 0.95,
+          "subject_raw": "Ferdowsi",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2320140483903471,
+      "created_at": "2026-07-04T05:31:40.399316-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e219153b-904e-4941-9ffd-15bd8f77a198",
+      "memory": "Masashi Kishimoto is famous for Naruto.",
+      "hash": "b9f21ff7adf609b0c3e59b26d348fa0f",
+      "metadata": {
+        "ordinal": 1770,
+        "triple": {
+          "subject_id": "masashi_kishimoto",
+          "predicate_norm": "be famous for",
+          "object_text": "Naruto",
+          "confidence": 0.95,
+          "subject_raw": "Masashi Kishimoto",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.2316644429193879,
+      "created_at": "2026-07-04T05:32:18.590179-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d323a991-418c-4231-b50c-62d46121ee07",
+      "memory": "Louisa May Alcott worked in the city of Boston.",
+      "hash": "9546e9b8fb007d26de96777785bb05f6",
+      "metadata": {
+        "ordinal": 743,
+        "triple": {
+          "subject_id": "louisa_may_alcott",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Boston",
+          "confidence": 0.95,
+          "subject_raw": "Louisa May Alcott",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.23101445114260946,
+      "created_at": "2026-07-04T05:31:48.698017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "f2fc52ae-6b18-4e54-911b-40b36d792056",
+      "memory": "The author of The Age of Reason is Allen Ginsberg.",
+      "hash": "7c5d28460eb0c4b0f59c22972897c92c",
+      "metadata": {
+        "ordinal": 2196,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "has author",
+          "object_text": "Allen Ginsberg",
+          "confidence": 0.95,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22917905601046168,
+      "created_at": "2026-07-04T05:32:29.653252-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e5931b5d-27fd-4088-b0cb-b3c513ff4ea8",
+      "memory": "The author of Sidereus Nuncius is Samuel Beckett.",
+      "hash": "61806eec248a3400c26be97735c8bb12",
+      "metadata": {
+        "ordinal": 2143,
+        "triple": {
+          "subject_id": "sidereus_nuncius",
+          "predicate_norm": "be authored by",
+          "object_text": "Samuel Beckett",
+          "confidence": 0.95,
+          "subject_raw": "Sidereus Nuncius",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.22896805475252568,
+      "created_at": "2026-07-04T05:32:28.928491-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a5c304cd-40bb-4355-8511-455106cb58df",
+      "memory": "John Keats died in the city of Leipzig.",
+      "hash": "f12b23eb252739b17c467f3b49d7d824",
+      "metadata": {
+        "ordinal": 1254,
+        "triple": {
+          "subject_id": "john_keats",
+          "predicate_norm": "died in",
+          "object_text": "the city of Leipzig",
+          "confidence": 0.95,
+          "subject_raw": "John Keats",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.2287957290729531,
+      "created_at": "2026-07-04T05:32:05.198768-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "60941e0c-d337-4bd4-b558-6f5fa07a2e22",
+      "memory": "The author of The Andromeda Strain is Michael Crichton.",
+      "hash": "9b45943c2abf99cf375082ab89c068b9",
+      "metadata": {
+        "ordinal": 1592,
+        "triple": {
+          "subject_id": "michael_crichton",
+          "predicate_norm": "be author",
+          "object_text": "The Andromeda Strain",
+          "confidence": 0.95,
+          "subject_raw": "Michael Crichton",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.22606254631139314,
+      "created_at": "2026-07-04T05:32:14.120136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "b70e5cc4-2ac9-43c9-9d58-f890189bbe36",
+      "memory": "The author of David Copperfield is Charles Dickens.",
+      "hash": "de485674b6a25a60cca08ff71af97d96",
+      "metadata": {
+        "ordinal": 752,
+        "triple": {
+          "subject_id": "david_copperfield",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "David Copperfield",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22586957160971785,
+      "created_at": "2026-07-04T05:31:48.710481-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "38ce3eab-d692-4354-aa78-69973f111aae",
+      "memory": "The author of The Thin Man is Dashiell Hammett.",
+      "hash": "b2a3df5b3f1b0795dcf0577c098edda1",
+      "metadata": {
+        "ordinal": 2212,
+        "triple": {
+          "subject_id": "the_thin_man",
+          "predicate_norm": "has author",
+          "object_text": "Dashiell Hammett",
+          "confidence": 0.95,
+          "subject_raw": "The Thin Man",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22578720202066901,
+      "created_at": "2026-07-04T05:32:30.610910-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "d65fbb75-b29e-4422-8f2d-99ef4ad6edd4",
+      "memory": "The author of American Pastoral is Philip Roth.",
+      "hash": "8bbe1ff809bf95fae77365e58611528d",
+      "metadata": {
+        "ordinal": 2234,
+        "triple": {
+          "subject_id": "american_pastoral",
+          "predicate_norm": "has author",
+          "object_text": "Philip Roth",
+          "confidence": 0.95,
+          "subject_raw": "American Pastoral",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22454403730534045,
+      "created_at": "2026-07-04T05:32:30.651637-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "e6f5b99f-e429-4ff4-8e6b-382629f48213",
+      "memory": "Yancy Derringer was created in the country of United States of America.",
+      "hash": "55b0b2517343d665e4631aa9c80b6778",
+      "metadata": {
+        "ordinal": 705,
+        "triple": {
+          "subject_id": "yancy_derringer",
+          "predicate_norm": "be created in",
+          "object_text": "the country of United States of America",
+          "confidence": 0.95,
+          "subject_raw": "Yancy Derringer",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.224295978924579,
+      "created_at": "2026-07-04T05:31:47.329998-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "4cd509f6-3f88-4855-9a12-80e594c56b35",
+      "memory": "The author of Gulliver's Travels is Jonathan Swift",
+      "hash": "ddee91801be3995071e7d96683460666",
+      "metadata": {
+        "ordinal": 72,
+        "triple": {
+          "subject_id": "jonathan_swift",
+          "predicate_norm": "be author",
+          "object_text": "Gulliver's Travels",
+          "confidence": 0.95,
+          "subject_raw": "Jonathan Swift",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.22382321029777813,
+      "created_at": "2026-07-04T05:31:30.621748-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "3095933c-f0d3-40ef-a542-4cd9c44f63ae",
+      "memory": "The author of A Passage to India is E. M. Forster.",
+      "hash": "5bad221c1778f526496a220cb94942bc",
+      "metadata": {
+        "ordinal": 970,
+        "triple": {
+          "subject_id": "a_passage_to_india",
+          "predicate_norm": "be authored by",
+          "object_text": "E. M. Forster",
+          "confidence": 0.95,
+          "subject_raw": "A Passage to India",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.223055944679109,
+      "created_at": "2026-07-04T05:31:55.556080-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "5c43753a-8d18-4ae1-8381-518927303d03",
+      "memory": "Wizard of Oz was created by Ambrose Bierce.",
+      "hash": "6be9a27ea8171ce24945bc9c6a48dcaf",
+      "metadata": {
+        "ordinal": 882,
+        "triple": {
+          "subject_id": "ambrose_bierce",
+          "predicate_norm": "created",
+          "object_text": "Wizard of Oz",
+          "confidence": 0.95,
+          "subject_raw": "Ambrose Bierce",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.22248792320586497,
+      "created_at": "2026-07-04T05:31:53.807687-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "0b39b26a-6542-4fde-94fc-31f1fc7f93d0",
+      "memory": "The author of Starship Troopers is Daphne du Maurier.",
+      "hash": "2e0883bb26d00ae62e5303b537291799",
+      "metadata": {
+        "ordinal": 2223,
+        "triple": {
+          "subject_id": "starship_troopers",
+          "predicate_norm": "has author",
+          "object_text": "Daphne du Maurier",
+          "confidence": 0.95,
+          "subject_raw": "Starship Troopers",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22240947175565512,
+      "created_at": "2026-07-04T05:32:30.634990-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "77aa941c-5b59-4eee-a54f-6f42c7ba71de",
+      "memory": "The author of A Christmas Carol is Winston Churchill.",
+      "hash": "0b9fd8f8da9a0ec4c4450752cceddb26",
+      "metadata": {
+        "ordinal": 895,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "has author",
+          "object_text": "Winston Churchill",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.22168951497022593,
+      "created_at": "2026-07-04T05:31:53.830373-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a7486cdc-45a5-44f0-9d5b-4309151855ca",
+      "memory": "Eugène Carrière worked in the city of Hyderabad.",
+      "hash": "43ef1d2fef82740d354352d89e2fb50d",
+      "metadata": {
+        "ordinal": 2055,
+        "triple": {
+          "subject_id": "eugène_carrière",
+          "predicate_norm": "worked in",
+          "object_text": "the city of Hyderabad",
+          "confidence": 0.95,
+          "subject_raw": "Eugène Carrière",
+          "predicate_raw": "worked in"
+        }
+      },
+      "score": 0.22163722148608736,
+      "created_at": "2026-07-04T05:32:26.260201-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "6e43f3e9-d1bf-4c66-93ab-470d2e201db7",
+      "memory": "David Stirling speaks the language of English",
+      "hash": "4d73a43c519bbc4f21f08cc0e608c29b",
+      "metadata": {
+        "ordinal": 60,
+        "triple": {
+          "subject_id": "david_stirling",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "David Stirling",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.22016075674242203,
+      "created_at": "2026-07-04T05:31:30.604846-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "89c67761-2b13-466a-bc20-a2bbcd1d4d8c",
+      "memory": "The university where Nathaniel Hawthorne was educated is Bowdoin College.",
+      "hash": "986df152a251298a24a34ea7b185051d",
+      "metadata": {
+        "ordinal": 1876,
+        "triple": {
+          "subject_id": "nathaniel_hawthorne",
+          "predicate_norm": "be educated at",
+          "object_text": "Bowdoin College",
+          "confidence": 0.95,
+          "subject_raw": "Nathaniel Hawthorne",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.2198624445336808,
+      "created_at": "2026-07-04T05:32:21.299678-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "83a2e65d-0857-4217-963f-9a6a7fd13103",
+      "memory": "1949 World Series is associated with the sport of cricket.",
+      "hash": "3770a99fdb15dbc3dff048895989ccbd",
+      "metadata": {
+        "ordinal": 1940,
+        "triple": {
+          "subject_id": "1949_world_series",
+          "predicate_norm": "be associated with",
+          "object_text": "the sport of cricket",
+          "confidence": 0.95,
+          "subject_raw": "1949 World Series",
+          "predicate_raw": "is associated with"
+        }
+      },
+      "score": 0.21881128805490663,
+      "created_at": "2026-07-04T05:32:23.345779-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "277a7245-addd-4baf-b267-5c67c92b8c9c",
+      "memory": "William Holman Hunt died in the city of London.",
+      "hash": "538d13254859daebc0d718e203fcae1f",
+      "metadata": {
+        "ordinal": 925,
+        "triple": {
+          "subject_id": "william_holman_hunt",
+          "predicate_norm": "died in",
+          "object_text": "the city of London",
+          "confidence": 0.95,
+          "subject_raw": "William Holman Hunt",
+          "predicate_raw": "died in"
+        }
+      },
+      "score": 0.21870864195523151,
+      "created_at": "2026-07-04T05:31:54.714650-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "a49f8437-643e-4756-aa25-3035611a03bf",
+      "memory": "The author of Coraline is Neil Gaiman.",
+      "hash": "2ec0cd8c3473a880396177bfde2b49cf",
+      "metadata": {
+        "ordinal": 1656,
+        "triple": {
+          "subject_id": "coraline",
+          "predicate_norm": "has author",
+          "object_text": "Neil Gaiman",
+          "confidence": 0.95,
+          "subject_raw": "Coraline",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.2182599605002825,
+      "created_at": "2026-07-04T05:32:15.750251-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "91abae66-0123-4fb6-b6e8-175597959b80",
+      "memory": "The author of A Christmas Carol is Charles Dickens.",
+      "hash": "e8704c32c6d3b345fdf2456bafef6ce0",
+      "metadata": {
+        "ordinal": 81,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "has author",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.21708072137717066,
+      "created_at": "2026-07-04T05:31:31.775831-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    },
+    {
+      "id": "cee9ebd6-718d-4ece-8cc7-ca369c16f8fe",
+      "memory": "William Shakespeare works in the field of businessperson.",
+      "hash": "f457a8bd1f1c4d282f62c6f7c3f981ad",
+      "metadata": {
+        "ordinal": 1919,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in field",
+          "object_text": "businessperson",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.21603117017236412,
+      "created_at": "2026-07-04T05:32:22.324992-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_32k"
+    }
+  ]
+}

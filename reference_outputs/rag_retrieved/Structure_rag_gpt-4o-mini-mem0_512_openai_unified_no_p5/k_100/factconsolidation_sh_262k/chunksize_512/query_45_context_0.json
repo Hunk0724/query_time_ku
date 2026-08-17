@@ -1,0 +1,3761 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "8d1ab7d2-0460-48f3-902e-323ad8c2ef56",
+      "memory": "William Shakespeare speaks the language of English.",
+      "hash": "f88dafc1ded9ee37b5d5b23f24ea1c15",
+      "metadata": {
+        "ordinal": 7980,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.7575798003342658,
+      "created_at": "2026-07-12T06:23:21.652825-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "73f86928-3f24-458e-ae99-5ee136b271f8",
+      "memory": "William Shakespeare speaks the language of French.",
+      "hash": "e22ff7b310760a84cced6f52202da449",
+      "metadata": {
+        "ordinal": 17944,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "speaks language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.7154105409586288,
+      "created_at": "2026-07-12T08:49:09.622239-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3f89dedf-88d7-4190-9b7a-f0c519968201",
+      "memory": "The type of music that William Shakespeare plays is English Renaissance theatre.",
+      "hash": "19a38dfcb2ef4e7d743456c40aff4a2f",
+      "metadata": {
+        "ordinal": 7059,
+        "triple": null,
+        "subject_fallback": "william_shakespeare"
+      },
+      "score": 0.6165282982280835,
+      "created_at": "2026-07-12T06:11:41.692304-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cfb9d0c4-337e-4a90-b730-108309a5c12b",
+      "memory": "William Shakespeare is a citizen of Kingdom of England.",
+      "hash": "0ecd3f6f2e6b9c040a38f514deb7d06c",
+      "metadata": {
+        "ordinal": 6119,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be citizen",
+          "object_text": "Kingdom of England",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.5823324292511622,
+      "created_at": "2026-07-12T05:57:43.803839-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b7d77028-cddc-415f-970f-ac1873158269",
+      "memory": "The author of Shakespeare's sonnets is William Shakespeare.",
+      "hash": "c2b39418ba9a769b4258d1c770dd41cb",
+      "metadata": {
+        "ordinal": 3042,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Shakespeare's sonnets",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.5729138203515857,
+      "created_at": "2026-07-12T05:14:24.110151-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cb67c293-5176-4716-9c81-80d656a5b090",
+      "memory": "William Shakespeare works in the field of businessperson.",
+      "hash": "f457a8bd1f1c4d282f62c6f7c3f981ad",
+      "metadata": {
+        "ordinal": 10838,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in field",
+          "object_text": "businessperson",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.5622021604228388,
+      "created_at": "2026-07-12T06:58:30.004409-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "98bc70bf-8dce-4061-b0fb-0d76654ed216",
+      "memory": "The author of Love's Labour's Lost is William Shakespeare.",
+      "hash": "9d528294ed7b03ff184a218d082d94da",
+      "metadata": {
+        "ordinal": 12506,
+        "triple": {
+          "subject_id": "love's_labour's_lost",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Love's Labour's Lost",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5593743494577244,
+      "created_at": "2026-07-12T07:23:44.226732-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c51c9c1d-78d3-4d79-94d8-0986f53f60f1",
+      "memory": "William Shakespeare works in the field of playwright.",
+      "hash": "8c08ede284cfe16a2a61fe3d0856d963",
+      "metadata": {
+        "ordinal": 5243,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in",
+          "object_text": "the field of playwright",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in"
+        }
+      },
+      "score": 0.5582930823555579,
+      "created_at": "2026-07-12T05:45:13.687653-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ece88a5b-700b-4c1e-8855-702068e934a4",
+      "memory": "William Shakespeare is a citizen of India.",
+      "hash": "a57fdc70f04b67c6a8bf6cee9d17b6db",
+      "metadata": {
+        "ordinal": 16741,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.5565710087849047,
+      "created_at": "2026-07-12T08:31:01.489375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0f28ab13-bfbd-40a6-9570-ce4c62d33c3c",
+      "memory": "Laurence Olivier speaks the language of English.",
+      "hash": "da3f29c5184b9f8ba69249f6dbfff255",
+      "metadata": {
+        "ordinal": 9283,
+        "triple": {
+          "subject_id": "laurence_olivier",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Laurence Olivier",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.5494021829048711,
+      "created_at": "2026-07-12T06:39:43.869381-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1c6960a1-1c93-4316-afee-558f5d98a7aa",
+      "memory": "Aphra Behn speaks the language of English.",
+      "hash": "2f2de9173c373dba2d35c3b4dbb2e926",
+      "metadata": {
+        "ordinal": 10699,
+        "triple": {
+          "subject_id": "aphra_behn",
+          "predicate_norm": "speaks",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Aphra Behn",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.5378516690234665,
+      "created_at": "2026-07-12T06:56:48.581635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c52615ed-b889-4be6-8d4a-43b824f442ff",
+      "memory": "The author of Measure for Measure is William Shakespeare.",
+      "hash": "02fa006ef62e54c84042b6b52e5f05b0",
+      "metadata": {
+        "ordinal": 13939,
+        "triple": {
+          "subject_id": "measure_for_measure",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Measure for Measure",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5377197520955451,
+      "created_at": "2026-07-12T07:45:28.243127-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7e25ee4e-a293-49c7-b29b-e98a2c36f50a",
+      "memory": "The author of Hamlet is William Shakespeare.",
+      "hash": "7d817b68bbb79bff842375ce0a01f5c3",
+      "metadata": {
+        "ordinal": 3234,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Hamlet",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.5322190273188798,
+      "created_at": "2026-07-12T05:17:15.758838-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "170610ac-b1c5-4aa8-9686-efbb9958ae16",
+      "memory": "The author of The Merchant of Venice is William Shakespeare.",
+      "hash": "1468d6a4bf4261552039aa7ba214c105",
+      "metadata": {
+        "ordinal": 3989,
+        "triple": {
+          "subject_id": "the_merchant_of_venice",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Merchant of Venice",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5280835465848777,
+      "created_at": "2026-07-12T05:26:56.352790-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "36fa9818-e083-45ae-b659-e913a49ced02",
+      "memory": "The university where William Shakespeare was educated is University of Oxford.",
+      "hash": "45d8ead63650d93057aaaa7e058c6f9e",
+      "metadata": {
+        "ordinal": 14236,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be educated at",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.525310641510772,
+      "created_at": "2026-07-12T07:49:35.540519-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "91061677-17df-41b1-ac4c-9aa17f7e5fa9",
+      "memory": "The author of Romeo and Juliet is William Shakespeare.",
+      "hash": "71b050e284f5682bb4d7f6e3f67a2136",
+      "metadata": {
+        "ordinal": 8939,
+        "triple": {
+          "subject_id": "romeo_and_juliet",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Romeo and Juliet",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5227283471395835,
+      "created_at": "2026-07-12T06:35:26.893667-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4b3ff4ec-df0f-488f-83a1-52538c9703fc",
+      "memory": "The author of Othello is William Shakespeare.",
+      "hash": "fdafecb0c30e76122c54682a47093d64",
+      "metadata": {
+        "ordinal": 10919,
+        "triple": {
+          "subject_id": "othello",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Othello",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5215404528153035,
+      "created_at": "2026-07-12T06:59:44.289195-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b1e4b889-9cf2-4a5d-bb5c-fc5dd416bd46",
+      "memory": "The author of King Lear is William Shakespeare.",
+      "hash": "eb12586030766ddec0806587562db66b",
+      "metadata": {
+        "ordinal": 8522,
+        "triple": {
+          "subject_id": "king_lear",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "King Lear",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5195253584135409,
+      "created_at": "2026-07-12T06:29:49.934753-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e9c5f0c5-b4f9-4041-bf34-4908e4209b3d",
+      "memory": "Richard Brinsley Sheridan speaks the language of English.",
+      "hash": "1491161f18c7cc6b7373b1bceded7a34",
+      "metadata": {
+        "ordinal": 7118,
+        "triple": {
+          "subject_id": "richard_brinsley_sheridan",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Richard Brinsley Sheridan",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.5192990162174851,
+      "created_at": "2026-07-12T06:12:07.289355-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "aa98e404-f5a0-42d7-90a7-5ce946e61fb1",
+      "memory": "The author of As You Like It is William Shakespeare.",
+      "hash": "263ee28f70fa1ffbe60e142140fa539f",
+      "metadata": {
+        "ordinal": 13234,
+        "triple": {
+          "subject_id": "as_you_like_it",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "As You Like It",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5178195625120248,
+      "created_at": "2026-07-12T07:34:34.949351-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "776fe90d-af1a-4acb-8ec5-b6b6f8b08a26",
+      "memory": "Polonius was created by William Shakespeare.",
+      "hash": "63244ffef55c5085024edb41077d2199",
+      "metadata": {
+        "ordinal": 16418,
+        "triple": {
+          "subject_id": "polonius",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Polonius",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.5163059832390108,
+      "created_at": "2026-07-12T08:26:38.290229-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b654cce4-8cbe-40b7-a316-d703d8a0d8ed",
+      "memory": "The author of Cymbeline is William Shakespeare.",
+      "hash": "46828f53b4e7f9c16178ebe42e46d9fe",
+      "metadata": {
+        "ordinal": 6615,
+        "triple": {
+          "subject_id": "cymbeline",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Cymbeline",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5144560206608042,
+      "created_at": "2026-07-12T06:05:29.926624-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1c77ca80-0069-4acb-ae3a-316b80dc8747",
+      "memory": "The author of Bartholomew Fayre: A Comedy is William Shakespeare.",
+      "hash": "bc9e685c7e0ec97994c1897d8b1ff1da",
+      "metadata": {
+        "ordinal": 16556,
+        "triple": {
+          "subject_id": "bartholomew_fayre:_a_comedy",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Bartholomew Fayre: A Comedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5138187723900048,
+      "created_at": "2026-07-12T08:28:46.721541-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "20d5d799-9896-4080-b597-3e315db05093",
+      "memory": "William Shakespeare is married to Philip IV of France.",
+      "hash": "c8f07c8390f07903114bb5802699ba58",
+      "metadata": {
+        "ordinal": 15388,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be married to",
+          "object_text": "Philip IV of France",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.508460786716964,
+      "created_at": "2026-07-12T08:09:52.181430-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e32207df-d360-4550-8ce1-6a61219e43e0",
+      "memory": "The author of The Comedy of Errors is William Shakespeare.",
+      "hash": "201c5cf434fb54b49242c8c64a794828",
+      "metadata": {
+        "ordinal": 5643,
+        "triple": {
+          "subject_id": "the_comedy_of_errors",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Comedy of Errors",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5074481601633551,
+      "created_at": "2026-07-12T05:50:41.858030-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "83df3fb9-8cda-42b1-9c62-f31f777f4f7d",
+      "memory": "The author of Much Ado About Nothing is William Shakespeare.",
+      "hash": "49a39a05c30961b482d4e87dde1e79c4",
+      "metadata": {
+        "ordinal": 1230,
+        "triple": {
+          "subject_id": "much_ado_about_nothing",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Much Ado About Nothing",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5072596550810675,
+      "created_at": "2026-07-12T04:47:05.112052-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "8a35e82e-e712-43b4-8aa0-2b01bfcc30fa",
+      "memory": "The author of Coriolanus is William Shakespeare.",
+      "hash": "e22149a8b921a86407ecaae6d5a48255",
+      "metadata": {
+        "ordinal": 7761,
+        "triple": {
+          "subject_id": "the_author_of_coriolanus",
+          "predicate_norm": "be",
+          "object_text": "William Shakespeare",
+          "confidence": 0.9,
+          "subject_raw": "the author of Coriolanus",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.5067347644552916,
+      "created_at": "2026-07-12T06:20:37.441914-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "13f1dc82-9ac8-499b-a6b0-82c099bb8fa3",
+      "memory": "The author of Eclogues is William Shakespeare.",
+      "hash": "b9323f29a7423110c3805ac519a8a375",
+      "metadata": {
+        "ordinal": 10317,
+        "triple": {
+          "subject_id": "eclogues",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Eclogues",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5053677275390132,
+      "created_at": "2026-07-12T06:52:12.982241-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "34738c19-28ef-4192-9fff-d31a0f902cc5",
+      "memory": "The author of A Midsummer Night's Dream is William Shakespeare.",
+      "hash": "d1d17619fb6af6d982e02540553e78fb",
+      "metadata": {
+        "ordinal": 1485,
+        "triple": {
+          "subject_id": "a_midsummer_night's_dream",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "A Midsummer Night's Dream",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5048482677457631,
+      "created_at": "2026-07-12T04:51:25.950104-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cf94a29c-08ac-4b9a-8054-f671fc7d857e",
+      "memory": "Laurence Olivier speaks the language of Italian.",
+      "hash": "81ba231c5119dac4891513c8c3f68e3c",
+      "metadata": {
+        "ordinal": 9993,
+        "triple": {
+          "subject_id": "laurence_olivier",
+          "predicate_norm": "speaks language",
+          "object_text": "Italian",
+          "confidence": 0.95,
+          "subject_raw": "Laurence Olivier",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.5017541762372366,
+      "created_at": "2026-07-12T06:48:33.142586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "925a5148-9354-4b9a-8c93-75274e464801",
+      "memory": "Aphra Behn speaks the language of Hebrew.",
+      "hash": "98b16e1c715f5442bf28d84d9884fc1c",
+      "metadata": {
+        "ordinal": 12793,
+        "triple": {
+          "subject_id": "aphra_behn",
+          "predicate_norm": "speaks language",
+          "object_text": "Hebrew",
+          "confidence": 0.95,
+          "subject_raw": "Aphra Behn",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.5013178133038605,
+      "created_at": "2026-07-12T07:27:46.407898-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0414b572-e887-46f4-9317-aa0173f2443f",
+      "memory": "Caliban was created by William Shakespeare.",
+      "hash": "cc05d2c2aa84ff2ec4f0a8b9206884f9",
+      "metadata": {
+        "ordinal": 2594,
+        "triple": {
+          "subject_id": "caliban",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Caliban",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.49986263770828826,
+      "created_at": "2026-07-12T05:07:41.815666-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3f0cd5b8-72bf-4b2d-ace6-81a9337b3150",
+      "memory": "The author of Richard II is William Shakespeare.",
+      "hash": "b21e0291494b63ee8163325e804f9cc2",
+      "metadata": {
+        "ordinal": 6237,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Richard II",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4998415296643655,
+      "created_at": "2026-07-12T05:59:42.316596-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6e2cc9f8-3be6-4e19-a768-416ba3fc5b00",
+      "memory": "Malvolio was created by William Shakespeare.",
+      "hash": "9c8365fc24fe8a38ee6faf4453eb491c",
+      "metadata": {
+        "ordinal": 16041,
+        "triple": {
+          "subject_id": "malvolio",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Malvolio",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4998063618433523,
+      "created_at": "2026-07-12T08:20:40.442672-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "5a250abd-c1ca-42e2-a597-b88fc996c9b9",
+      "memory": "Nathaniel Hawthorne speaks the language of English.",
+      "hash": "abc03446b4e10f3617b059d74cb3fd60",
+      "metadata": {
+        "ordinal": 13039,
+        "triple": {
+          "subject_id": "nathaniel_hawthorne",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Nathaniel Hawthorne",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49870215336861784,
+      "created_at": "2026-07-12T07:32:02.316838-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d403aa09-d64a-47c6-9ddf-fcfc80252123",
+      "memory": "Aaron Burr speaks the language of English.",
+      "hash": "27b9be0930b90e6c6517ca43b05b7acf",
+      "metadata": {
+        "ordinal": 5678,
+        "triple": {
+          "subject_id": "aaron_burr",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Aaron Burr",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49854465336543563,
+      "created_at": "2026-07-12T05:51:13.380222-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bd437f53-4de0-4a66-86e7-aaa8fbc2e810",
+      "memory": "Patrick Stewart speaks the language of English",
+      "hash": "d257bc216fed1f77cc0d6e859f9ca298",
+      "metadata": {
+        "ordinal": 2303,
+        "triple": {
+          "subject_id": "patrick_stewart",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Patrick Stewart",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4983718736314043,
+      "created_at": "2026-07-12T05:03:36.153602-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d3310934-e358-4753-a065-7e3610ff7c74",
+      "memory": "Long John Silver was created by William Shakespeare.",
+      "hash": "d813ae2dadd2595cf2fb62da5d8cffca",
+      "metadata": {
+        "ordinal": 11543,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "created",
+          "object_text": "Long John Silver",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.4970019826225973,
+      "created_at": "2026-07-12T07:08:50.698115-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "85d63e20-a111-47bf-8781-c0da730eba5c",
+      "memory": "John Keats speaks the language of English.",
+      "hash": "f6fd4ca59b091b4e0558690489de823e",
+      "metadata": {
+        "ordinal": 5868,
+        "triple": {
+          "subject_id": "john_keats",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "John Keats",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49682041678013167,
+      "created_at": "2026-07-12T05:54:05.863469-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b5fae732-8858-4fbd-9dc1-953f357aacfe",
+      "memory": "Thomas Harris speaks the language of English.",
+      "hash": "07436608f949fc455a58b1132be95119",
+      "metadata": {
+        "ordinal": 10441,
+        "triple": {
+          "subject_id": "thomas_harris",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Harris",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4961427910200104,
+      "created_at": "2026-07-12T06:53:51.894525-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d7bc8ec4-c67c-413f-9d5c-a69e62efc557",
+      "memory": "The university where William Shakespeare was educated is King Edward VI School, Stratford-upon-Avon.",
+      "hash": "635876f507a74cb196d41e7efd8cbbe9",
+      "metadata": {
+        "ordinal": 9611,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be educated at",
+          "object_text": "King Edward VI School, Stratford-upon-Avon",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.4955693590734851,
+      "created_at": "2026-07-12T06:43:57.627172-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "29d13c91-f618-4839-83d0-b544869aff09",
+      "memory": "The author of Billy Liar is William Shakespeare.",
+      "hash": "b81e0e3989ec0a7a5ccfe6a50037c7be",
+      "metadata": {
+        "ordinal": 13932,
+        "triple": {
+          "subject_id": "billy_liar",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Billy Liar",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4943582931487409,
+      "created_at": "2026-07-12T07:44:56.152665-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3e23fd00-92d5-42bd-bf05-a50b0e962343",
+      "memory": "Queen Mab was created by William Shakespeare.",
+      "hash": "08e17b26fd73bafbf4a8d5c91998e58e",
+      "metadata": {
+        "ordinal": 8537,
+        "triple": {
+          "subject_id": "queen_mab",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Queen Mab",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4940271822081801,
+      "created_at": "2026-07-12T06:30:18.747342-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "8a3c90dc-f63d-4549-9376-bf62d1c7f9e1",
+      "memory": "Daniel Defoe speaks the language of English.",
+      "hash": "5f5abc3befa08029abf84d69da8a67ec",
+      "metadata": {
+        "ordinal": 11135,
+        "triple": {
+          "subject_id": "daniel_defoe",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Daniel Defoe",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4936311837681058,
+      "created_at": "2026-07-12T07:02:33.476288-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "610a203e-f8d2-4af8-b875-a056bb01772d",
+      "memory": "Simon Gray speaks the language of English.",
+      "hash": "239a762cf68ee6566825e3d76993e106",
+      "metadata": {
+        "ordinal": 10486,
+        "triple": {
+          "subject_id": "simon_gray",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Simon Gray",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49323270056283036,
+      "created_at": "2026-07-12T06:54:16.019579-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2d8463ae-c636-48fc-92ea-52f2abfa6223",
+      "memory": "The author of Titus Andronicus is William Shakespeare.",
+      "hash": "33344053a48cb0a835764f1cb15fca6b",
+      "metadata": {
+        "ordinal": 3777,
+        "triple": {
+          "subject_id": "titus_andronicus",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Titus Andronicus",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.4926035652943224,
+      "created_at": "2026-07-12T05:24:15.314733-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0d4f1f2a-ddd4-4f9c-87e6-a4aa7e26582c",
+      "memory": "Johnny Depp speaks the language of English.",
+      "hash": "df6d7b7659cfb5a50dccff2bc702126a",
+      "metadata": {
+        "ordinal": 7598,
+        "triple": {
+          "subject_id": "johnny_depp",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Johnny Depp",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49155498650053325,
+      "created_at": "2026-07-12T06:18:26.053147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c4e47252-e4a2-4647-9c18-d525d8bffb6b",
+      "memory": "The author of First Folio is William Shakespeare.",
+      "hash": "d413604a486cf9ad11da5b7dc3388c00",
+      "metadata": {
+        "ordinal": 12880,
+        "triple": {
+          "subject_id": "first_folio",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "First Folio",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.49125839047395004,
+      "created_at": "2026-07-12T07:29:19.455396-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bd29e95f-1fe8-4305-8da2-f542ca37d769",
+      "memory": "Prince Hamlet was created by William Shakespeare.",
+      "hash": "ed980436886997c49d509b956df021db",
+      "metadata": {
+        "ordinal": 5042,
+        "triple": {
+          "subject_id": "prince_hamlet",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Prince Hamlet",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.49050646914887136,
+      "created_at": "2026-07-12T05:42:08.756523-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c4a8c3e8-909a-4db8-bee9-b64722c6b95c",
+      "memory": "Bram Stoker speaks the language of English.",
+      "hash": "308537d48604ab3d33622a4ad4bc6515",
+      "metadata": {
+        "ordinal": 7539,
+        "triple": {
+          "subject_id": "bram_stoker",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Bram Stoker",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4896283311418481,
+      "created_at": "2026-07-12T06:17:57.655544-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "23a0eee6-ff50-46a1-94ea-e713e0495cdd",
+      "memory": "Ian Fleming speaks the language of English.",
+      "hash": "450fc0f56ef519e975e90bdcf60e756d",
+      "metadata": {
+        "ordinal": 8123,
+        "triple": {
+          "subject_id": "ian_fleming",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Ian Fleming",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4869662507539709,
+      "created_at": "2026-07-12T06:25:19.460991-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1bc3e8ba-62db-459c-b888-b9152d30a1e0",
+      "memory": "Wicked was written in the language of English.",
+      "hash": "24b2423aa1541a3a1d3d7212badf8e22",
+      "metadata": {
+        "ordinal": 8703,
+        "triple": {
+          "subject_id": "wicked",
+          "predicate_norm": "be written in language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Wicked",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.48576807411415857,
+      "created_at": "2026-07-12T06:32:11.528373-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1fe9e639-3009-40da-8aba-16a2c01835a4",
+      "memory": "The author of The Martian Chronicles is William Shakespeare.",
+      "hash": "3a602a6b4aefbab08090927bfb68f975",
+      "metadata": {
+        "ordinal": 17124,
+        "triple": {
+          "subject_id": "the_martian_chronicles",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.9,
+          "subject_raw": "The Martian Chronicles",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.48568780821892676,
+      "created_at": "2026-07-12T08:37:13.586064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "64dce0b9-096d-4d6b-8f98-435aca29925f",
+      "memory": "The author of Julius Caesar is William Shakespeare.",
+      "hash": "756be1e4e93a2b790795bacb7898dbdf",
+      "metadata": {
+        "ordinal": 5988,
+        "triple": {
+          "subject_id": "julius_caesar",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Julius Caesar",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.48473882010701247,
+      "created_at": "2026-07-12T05:56:05.171898-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b1a6bc8b-7a9a-41d0-b0c6-6e19bf95c707",
+      "memory": "The author of Antony and Cleopatra is William Shakespeare.",
+      "hash": "888414fbdedd9595068bb68e282f5664",
+      "metadata": {
+        "ordinal": 2065,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.48465713056392756,
+      "created_at": "2026-07-12T04:59:42.049067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "66b7da9a-c80c-4199-bdfb-d9efc3b00ec6",
+      "memory": "William Shakespeare was born in the city of Stratford-upon-Avon.",
+      "hash": "96502a78f712891ce163230b8244934c",
+      "metadata": {
+        "ordinal": 3569,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be born in city",
+          "object_text": "Stratford-upon-Avon",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "was born in the city of"
+        }
+      },
+      "score": 0.4842328395534612,
+      "created_at": "2026-07-12T05:21:36.312836-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "dcaeed2d-0c65-4215-b74d-b68e4d471e19",
+      "memory": "William Shakespeare was born in the city of Massillon.",
+      "hash": "48f75d37703a77b1a5f5b16e408a5e16",
+      "metadata": {
+        "ordinal": 14801,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be born in",
+          "object_text": "Massillon",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.48280130708887153,
+      "created_at": "2026-07-12T07:58:57.611613-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "071082ca-885d-4dc6-9b94-2fee7e88ddd6",
+      "memory": "Maisie Williams speaks the language of English.",
+      "hash": "cf0bd364dcc8addb3648e564dcfc8879",
+      "metadata": {
+        "ordinal": 658,
+        "triple": {
+          "subject_id": "maisie_williams",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Maisie Williams",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4816561447241158,
+      "created_at": "2026-07-12T04:39:55.385532-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "42fe3bd2-77a9-4d23-8528-175d880bc8d6",
+      "memory": "Neil Simon speaks the language of English.",
+      "hash": "131f265c8caf419d20a7fa03796dd444",
+      "metadata": {
+        "ordinal": 8754,
+        "triple": {
+          "subject_id": "neil_simon",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Neil Simon",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4815494851908329,
+      "created_at": "2026-07-12T06:33:04.171586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7b4fd69e-a122-45bb-9fe3-17a586a86864",
+      "memory": "Emma Watson speaks the language of English.",
+      "hash": "0028a83e5f62d1c0620e348f30b9e283",
+      "metadata": {
+        "ordinal": 11217,
+        "triple": {
+          "subject_id": "emma_watson",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Emma Watson",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4804162603866457,
+      "created_at": "2026-07-12T07:03:34.986466-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6d3f3801-3d84-441e-a8a8-e26c949e5a27",
+      "memory": "Michelangelo speaks the language of English.",
+      "hash": "ac2b883f5c883025c7315c2a7a34bdf5",
+      "metadata": {
+        "ordinal": 15255,
+        "triple": {
+          "subject_id": "michelangelo",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Michelangelo",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.48025719162140323,
+      "created_at": "2026-07-12T08:07:46.381905-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c822904b-e10e-478a-b6b2-9d759e89f654",
+      "memory": "The author of The Winter's Tale is William Shakespeare.",
+      "hash": "982e1c8e0188a5c87687f8497f561d1f",
+      "metadata": {
+        "ordinal": 10006,
+        "triple": {
+          "subject_id": "the_winter's_tale",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Winter's Tale",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.4799328865771147,
+      "created_at": "2026-07-12T06:48:33.168043-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "457cceac-697a-41f2-bbdd-3638c55ae298",
+      "memory": "William Waynflete speaks the language of English.",
+      "hash": "16f3d77c0d0e41b756feb7df5d2bbc5c",
+      "metadata": {
+        "ordinal": 3958,
+        "triple": {
+          "subject_id": "william_waynflete",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Waynflete",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.47976368319056834,
+      "created_at": "2026-07-12T05:26:31.833250-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1d9f1462-d5df-419a-85b5-4ad70f73f382",
+      "memory": "Hermia was created by William Shakespeare.",
+      "hash": "9ef96bbfe5db7974e1ab8302606809f7",
+      "metadata": {
+        "ordinal": 17043,
+        "triple": {
+          "subject_id": "hermia",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Hermia",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4797572610181745,
+      "created_at": "2026-07-12T08:35:44.439499-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cc0a674f-1862-4d0d-81bb-2f1351fc8623",
+      "memory": "Thomas Day speaks the language of English.",
+      "hash": "d82cf188e691bdf7556a55324171eaec",
+      "metadata": {
+        "ordinal": 3416,
+        "triple": {
+          "subject_id": "thomas_day",
+          "predicate_norm": "speaks",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Day",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.47943817843577363,
+      "created_at": "2026-07-12T05:19:31.040834-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cb23e88a-8ce6-4747-bbef-23316314b5c4",
+      "memory": "Blandings Castle was created by William Shakespeare.",
+      "hash": "d3b3389663357c29d0359aeb276b7942",
+      "metadata": {
+        "ordinal": 10668,
+        "triple": {
+          "subject_id": "blandings_castle",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Blandings Castle",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4789942520751783,
+      "created_at": "2026-07-12T06:56:24.438133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "127cc57c-8053-4819-885f-a5a0ce4e0478",
+      "memory": "Jane Austen speaks the language of English.",
+      "hash": "0bbcef8e63d833d646313577f14bfb7f",
+      "metadata": {
+        "ordinal": 13353,
+        "triple": {
+          "subject_id": "jane_austen",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Jane Austen",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.47879574172834743,
+      "created_at": "2026-07-12T07:36:33.669378-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "38cc4f4c-b775-4258-9bb4-803d2ea2f613",
+      "memory": "Harold Pinter speaks the language of English.",
+      "hash": "831f178a7705531613f3c68aa4e395d3",
+      "metadata": {
+        "ordinal": 3633,
+        "triple": {
+          "subject_id": "harold_pinter",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Harold Pinter",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4779651166076412,
+      "created_at": "2026-07-12T05:22:31.017341-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cb9a081f-5613-4c90-965b-3e10f0535018",
+      "memory": "The author of Georgics is William Shakespeare.",
+      "hash": "e03903b0cf36c856ab66a56d496f4e3f",
+      "metadata": {
+        "ordinal": 13812,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Georgics",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4769446621567087,
+      "created_at": "2026-07-12T07:43:26.026863-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fb5a3bad-12ff-4877-a9e3-09efeb955475",
+      "memory": "William Shakespeare is married to Anne Hathaway.",
+      "hash": "0fd41bd7796aa3cc10f89cde725c16ee",
+      "metadata": {
+        "ordinal": 10423,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be married to",
+          "object_text": "Anne Hathaway",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.47587265544657215,
+      "created_at": "2026-07-12T06:53:24.518812-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ff0e6568-327d-42ec-9f4d-addf2eae42a8",
+      "memory": "Edgar Allan Poe speaks the language of English.",
+      "hash": "162fcc892ee45c3b23989e873622acad",
+      "metadata": {
+        "ordinal": 2841,
+        "triple": {
+          "subject_id": "edgar_allan_poe",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Edgar Allan Poe",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4752172502139633,
+      "created_at": "2026-07-12T05:11:06.744120-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "29f23e57-239e-4251-bd5c-0984d8267883",
+      "memory": "Ophelia was created by William Shakespeare.",
+      "hash": "9c1f6051bc177c0321f300311c04fc00",
+      "metadata": {
+        "ordinal": 6280,
+        "triple": {
+          "subject_id": "ophelia",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Ophelia",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4747171790900887,
+      "created_at": "2026-07-12T06:00:06.030841-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "eaf2ff28-6622-4d18-af61-f723e0dd78bf",
+      "memory": "Matthew Broderick speaks the language of English.",
+      "hash": "cb83c28990fc0963dab9b8ee15e66fdd",
+      "metadata": {
+        "ordinal": 14793,
+        "triple": {
+          "subject_id": "matthew_broderick",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Matthew Broderick",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.47418646624596017,
+      "created_at": "2026-07-12T07:58:24.776472-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2a072b9f-43d5-4559-b18d-79e48380ef2e",
+      "memory": "The author of Dom Juan is William Shakespeare.",
+      "hash": "874b3cf79a047888387c0137eb7e9b53",
+      "metadata": {
+        "ordinal": 8573,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Dom Juan",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4738343399149221,
+      "created_at": "2026-07-12T06:30:44.219882-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "055dcd91-9448-44e8-a64a-41bdeeda63cb",
+      "memory": "The author of Dune is William Shakespeare.",
+      "hash": "dd193a8a5f22ae444b217b48dfd40f12",
+      "metadata": {
+        "ordinal": 8555,
+        "triple": {
+          "subject_id": "dune",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Dune",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.47183602719987566,
+      "created_at": "2026-07-12T06:30:18.790182-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fbdeb8f4-5115-4823-bb6b-1afa3c7a898e",
+      "memory": "The author of Lorentz ether theory is William Shakespeare.",
+      "hash": "69662a3f7793748e9adbc2e04b49c66d",
+      "metadata": {
+        "ordinal": 13842,
+        "triple": {
+          "subject_id": "lorentz_ether_theory",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Lorentz ether theory",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4701119720737123,
+      "created_at": "2026-07-12T07:43:53.822410-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6dee2475-16f0-413b-9988-e24e1f0e3771",
+      "memory": "Othello was created by William Shakespeare.",
+      "hash": "d21b1bb43207a61fa5635635fb8e855e",
+      "metadata": {
+        "ordinal": 4480,
+        "triple": {
+          "subject_id": "othello",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Othello",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.46965097629264124,
+      "created_at": "2026-07-12T05:34:27.502592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2a5a9ff2-5dc2-4a6d-bd76-d6f8454f0595",
+      "memory": "The author of The History of Sexuality is William Shakespeare.",
+      "hash": "42c48bf70075d0c21e2654b74e8a2af8",
+      "metadata": {
+        "ordinal": 12627,
+        "triple": {
+          "subject_id": "the_history_of_sexuality",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The History of Sexuality",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4686772059515751,
+      "created_at": "2026-07-12T07:25:43.065462-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "07de582e-a546-4b6a-9847-15a4db36d201",
+      "memory": "Nero Wolfe was created by William Shakespeare.",
+      "hash": "5ade793c70a2bbbb217b666383fb2e58",
+      "metadata": {
+        "ordinal": 12990,
+        "triple": {
+          "subject_id": "nero_wolfe",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Nero Wolfe",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4682356898726471,
+      "created_at": "2026-07-12T07:30:57.588278-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a338fe1c-12b6-46f8-93e9-b158442b8bbd",
+      "memory": "The author of The Tempest is William Shakespeare.",
+      "hash": "6451e99b27e50dee8b49d25918fb7334",
+      "metadata": {
+        "ordinal": 4213,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "The Tempest",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4680874723580119,
+      "created_at": "2026-07-12T05:30:15.031150-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a7e8961e-1b54-49bb-ace9-f4fc06831584",
+      "memory": "Hornblower was created by William Shakespeare.",
+      "hash": "c9aa9a47cb5d425d4c21ae68aecdc580",
+      "metadata": {
+        "ordinal": 14981,
+        "triple": {
+          "subject_id": "hornblower",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Hornblower",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4675740416089129,
+      "created_at": "2026-07-12T08:02:38.221840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2b6381e7-2813-4cc1-bc90-d7cacd9b895c",
+      "memory": "The author of Venus and Adonis is William Shakespeare.",
+      "hash": "2db2cf3e4c126a5e3fa1959048b78571",
+      "metadata": {
+        "ordinal": 9314,
+        "triple": {
+          "subject_id": "venus_and_adonis",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Venus and Adonis",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4673687106453489,
+      "created_at": "2026-07-12T06:40:07.513929-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2e64ed65-9747-4ea0-8be4-155e4d6222b6",
+      "memory": "The author of The Rape of Lucrece is William Shakespeare.",
+      "hash": "23b7366f643d67f39a11b928883183d9",
+      "metadata": {
+        "ordinal": 1484,
+        "triple": {
+          "subject_id": "the_rape_of_lucrece",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Rape of Lucrece",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.4672250337800022,
+      "created_at": "2026-07-12T04:51:25.947768-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7282aaf2-f522-485f-9e5b-754dd7636d28",
+      "memory": "Joseph Wright of Derby speaks the language of English.",
+      "hash": "e199fb2c7e339627b9e99597021a878a",
+      "metadata": {
+        "ordinal": 10914,
+        "triple": {
+          "subject_id": "joseph_wright_of_derby",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Wright of Derby",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4666467004733459,
+      "created_at": "2026-07-12T06:59:44.278854-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ad787485-ed74-499c-8174-c230d4cb2f12",
+      "memory": "William Butler Yeats speaks the language of English.",
+      "hash": "7821667f39e42ec643ae65815a774420",
+      "metadata": {
+        "ordinal": 11108,
+        "triple": {
+          "subject_id": "william_butler_yeats",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Butler Yeats",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4656258736669001,
+      "created_at": "2026-07-12T07:02:02.381031-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ec4c12d6-5157-41bc-9196-57f1a89f22b6",
+      "memory": "The author of The Two Noble Kinsmen is William Shakespeare.",
+      "hash": "471a853083c3841aa38980f6edd876cc",
+      "metadata": {
+        "ordinal": 12060,
+        "triple": {
+          "subject_id": "the_two_noble_kinsmen",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Two Noble Kinsmen",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.4649786969747165,
+      "created_at": "2026-07-12T07:16:39.449011-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fd81ff0b-d1e4-4e62-8f7b-3cb8f22b8411",
+      "memory": "Stephen King speaks the language of English.",
+      "hash": "ff1d94fe3e20424c9c6df770794a7250",
+      "metadata": {
+        "ordinal": 15815,
+        "triple": {
+          "subject_id": "stephen_king",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Stephen King",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4639203054764146,
+      "created_at": "2026-07-12T08:16:40.434182-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a154aca2-df9d-4e66-abe2-195eb651b555",
+      "memory": "The author of On the Road is William Shakespeare.",
+      "hash": "04d7221efafe03ae4c275a62b376a962",
+      "metadata": {
+        "ordinal": 3577,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "On the Road",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4636915850255387,
+      "created_at": "2026-07-12T05:21:36.324254-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fe93ef9d-6382-4eb7-a75d-a2d27e33d7c7",
+      "memory": "Robert Louis Stevenson speaks the language of English.",
+      "hash": "c07e2965e6e8005fd8547f2f1c845d6c",
+      "metadata": {
+        "ordinal": 987,
+        "triple": {
+          "subject_id": "robert_louis_stevenson",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Robert Louis Stevenson",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4635949558135767,
+      "created_at": "2026-07-12T04:43:49.644219-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0bdbdf52-7e1b-4470-8992-18cd72ce2082",
+      "memory": "The Beggar's Opera was written in the language of English.",
+      "hash": "51e9add4994d84b1cc4203626f5d3d26",
+      "metadata": {
+        "ordinal": 2501,
+        "triple": {
+          "subject_id": "the_beggar's_opera",
+          "predicate_norm": "be written in language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "The Beggar's Opera",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.46248615666361026,
+      "created_at": "2026-07-12T05:06:07.124953-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "dc0da50b-59bd-4848-889d-5cc24425090f",
+      "memory": "Bertie Wooster was created by William Shakespeare.",
+      "hash": "793dde144b7a713f255bcdf4a470dc44",
+      "metadata": {
+        "ordinal": 14240,
+        "triple": {
+          "subject_id": "bertie_wooster",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Bertie Wooster",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.46220740756609124,
+      "created_at": "2026-07-12T07:49:35.546079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4cd52b39-fe76-409c-b24b-d95be83c09c2",
+      "memory": "The author of Ulysses is William Shakespeare.",
+      "hash": "1474a3a4e8a7bf80052c881be6344c5c",
+      "metadata": {
+        "ordinal": 7034,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Ulysses",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.46123860016837936,
+      "created_at": "2026-07-12T06:11:15.203315-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "da63b919-7db0-44c0-bb2f-8798da0a2485",
+      "memory": "Matthew Gregory Lewis speaks the language of English.",
+      "hash": "fd9ed3d434c603a7dda3d22eb20e2816",
+      "metadata": {
+        "ordinal": 14663,
+        "triple": {
+          "subject_id": "matthew_gregory_lewis",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Matthew Gregory Lewis",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.460801471113775,
+      "created_at": "2026-07-12T07:56:46.505270-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c8422497-2ceb-4a80-9ffe-c8cfe7ff547e",
+      "memory": "Howl was written in the language of English.",
+      "hash": "14e21d818bff8f5d33f5e0c3a5603d89",
+      "metadata": {
+        "ordinal": 11981,
+        "triple": {
+          "subject_id": "howl",
+          "predicate_norm": "be written in",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Howl",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.4607994760565549,
+      "created_at": "2026-07-12T07:15:32.340751-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "90bf6f61-bfbb-4f01-8adc-87dd358c1889",
+      "memory": "David Mamet speaks the language of English.",
+      "hash": "c6ea7e0a0f9d8c0e55c67afed2f2d6c9",
+      "metadata": {
+        "ordinal": 2716,
+        "triple": {
+          "subject_id": "david_mamet",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "David Mamet",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.45850862927652414,
+      "created_at": "2026-07-12T05:09:33.613899-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "31dc8b96-ef47-467e-8fa2-85b2fdbb187c",
+      "memory": "Wilkie Collins speaks the language of English.",
+      "hash": "6a35d258ce6d6b8c7c89c275a1db4fa6",
+      "metadata": {
+        "ordinal": 6560,
+        "triple": {
+          "subject_id": "wilkie_collins",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Wilkie Collins",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4581831215053648,
+      "created_at": "2026-07-12T06:04:29.660271-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "43219fc2-1594-4438-9a7b-f0145e62e486",
+      "memory": "Benjamin Franklin speaks the language of English.",
+      "hash": "9aef08e055d2ebaa598f1b1984a8a0f1",
+      "metadata": {
+        "ordinal": 14633,
+        "triple": {
+          "subject_id": "benjamin_franklin",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Benjamin Franklin",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4568236647861406,
+      "created_at": "2026-07-12T07:56:18.752538-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3b85325c-451f-4d66-9a9a-237d18434b7c",
+      "memory": "The author of The Emperor's New Clothes is William Shakespeare.",
+      "hash": "fe40f7d4973fb3a021120a69b3e59cc9",
+      "metadata": {
+        "ordinal": 15109,
+        "triple": {
+          "subject_id": "the_emperor's_new_clothes",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Emperor's New Clothes",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4564478019104161,
+      "created_at": "2026-07-12T08:05:19.884043-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "5c843f89-0da3-4bb6-af9f-6e83f8b03d90",
+      "memory": "Charles Dickens speaks the language of English.",
+      "hash": "d6ceaf355cfde5cb0a1085c08a943902",
+      "metadata": {
+        "ordinal": 15522,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.45638628549500465,
+      "created_at": "2026-07-12T08:12:05.128634-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f86fba8b-1545-4ea8-8328-a528b9184209",
+      "memory": "Dr. Seuss speaks the language of English.",
+      "hash": "73294dd66973e9f8c727f3611653f452",
+      "metadata": {
+        "ordinal": 2662,
+        "triple": {
+          "subject_id": "dr._seuss",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Dr. Seuss",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.45566257591270415,
+      "created_at": "2026-07-12T05:08:40.605844-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": [
+    {
+      "id": "73f86928-3f24-458e-ae99-5ee136b271f8",
+      "memory": "William Shakespeare speaks the language of French.",
+      "hash": "e22ff7b310760a84cced6f52202da449",
+      "metadata": {
+        "ordinal": 17944,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "speaks language",
+          "object_text": "French",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.7154105409586288,
+      "created_at": "2026-07-12T08:49:09.622239-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3f89dedf-88d7-4190-9b7a-f0c519968201",
+      "memory": "The type of music that William Shakespeare plays is English Renaissance theatre.",
+      "hash": "19a38dfcb2ef4e7d743456c40aff4a2f",
+      "metadata": {
+        "ordinal": 7059,
+        "triple": null,
+        "subject_fallback": "william_shakespeare"
+      },
+      "score": 0.6165282982280835,
+      "created_at": "2026-07-12T06:11:41.692304-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cb67c293-5176-4716-9c81-80d656a5b090",
+      "memory": "William Shakespeare works in the field of businessperson.",
+      "hash": "f457a8bd1f1c4d282f62c6f7c3f981ad",
+      "metadata": {
+        "ordinal": 10838,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in field",
+          "object_text": "businessperson",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.5622021604228388,
+      "created_at": "2026-07-12T06:58:30.004409-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "98bc70bf-8dce-4061-b0fb-0d76654ed216",
+      "memory": "The author of Love's Labour's Lost is William Shakespeare.",
+      "hash": "9d528294ed7b03ff184a218d082d94da",
+      "metadata": {
+        "ordinal": 12506,
+        "triple": {
+          "subject_id": "love's_labour's_lost",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Love's Labour's Lost",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5593743494577244,
+      "created_at": "2026-07-12T07:23:44.226732-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c51c9c1d-78d3-4d79-94d8-0986f53f60f1",
+      "memory": "William Shakespeare works in the field of playwright.",
+      "hash": "8c08ede284cfe16a2a61fe3d0856d963",
+      "metadata": {
+        "ordinal": 5243,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in",
+          "object_text": "the field of playwright",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in"
+        }
+      },
+      "score": 0.5582930823555579,
+      "created_at": "2026-07-12T05:45:13.687653-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ece88a5b-700b-4c1e-8855-702068e934a4",
+      "memory": "William Shakespeare is a citizen of India.",
+      "hash": "a57fdc70f04b67c6a8bf6cee9d17b6db",
+      "metadata": {
+        "ordinal": 16741,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be citizen",
+          "object_text": "India",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is a citizen of"
+        }
+      },
+      "score": 0.5565710087849047,
+      "created_at": "2026-07-12T08:31:01.489375-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1c6960a1-1c93-4316-afee-558f5d98a7aa",
+      "memory": "Aphra Behn speaks the language of English.",
+      "hash": "2f2de9173c373dba2d35c3b4dbb2e926",
+      "metadata": {
+        "ordinal": 10699,
+        "triple": {
+          "subject_id": "aphra_behn",
+          "predicate_norm": "speaks",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Aphra Behn",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.5378516690234665,
+      "created_at": "2026-07-12T06:56:48.581635-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c52615ed-b889-4be6-8d4a-43b824f442ff",
+      "memory": "The author of Measure for Measure is William Shakespeare.",
+      "hash": "02fa006ef62e54c84042b6b52e5f05b0",
+      "metadata": {
+        "ordinal": 13939,
+        "triple": {
+          "subject_id": "measure_for_measure",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Measure for Measure",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5377197520955451,
+      "created_at": "2026-07-12T07:45:28.243127-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "170610ac-b1c5-4aa8-9686-efbb9958ae16",
+      "memory": "The author of The Merchant of Venice is William Shakespeare.",
+      "hash": "1468d6a4bf4261552039aa7ba214c105",
+      "metadata": {
+        "ordinal": 3989,
+        "triple": {
+          "subject_id": "the_merchant_of_venice",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Merchant of Venice",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5280835465848777,
+      "created_at": "2026-07-12T05:26:56.352790-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "36fa9818-e083-45ae-b659-e913a49ced02",
+      "memory": "The university where William Shakespeare was educated is University of Oxford.",
+      "hash": "45d8ead63650d93057aaaa7e058c6f9e",
+      "metadata": {
+        "ordinal": 14236,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be educated at",
+          "object_text": "University of Oxford",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "was educated at"
+        }
+      },
+      "score": 0.525310641510772,
+      "created_at": "2026-07-12T07:49:35.540519-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "91061677-17df-41b1-ac4c-9aa17f7e5fa9",
+      "memory": "The author of Romeo and Juliet is William Shakespeare.",
+      "hash": "71b050e284f5682bb4d7f6e3f67a2136",
+      "metadata": {
+        "ordinal": 8939,
+        "triple": {
+          "subject_id": "romeo_and_juliet",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Romeo and Juliet",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5227283471395835,
+      "created_at": "2026-07-12T06:35:26.893667-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "4b3ff4ec-df0f-488f-83a1-52538c9703fc",
+      "memory": "The author of Othello is William Shakespeare.",
+      "hash": "fdafecb0c30e76122c54682a47093d64",
+      "metadata": {
+        "ordinal": 10919,
+        "triple": {
+          "subject_id": "othello",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Othello",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5215404528153035,
+      "created_at": "2026-07-12T06:59:44.289195-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b1e4b889-9cf2-4a5d-bb5c-fc5dd416bd46",
+      "memory": "The author of King Lear is William Shakespeare.",
+      "hash": "eb12586030766ddec0806587562db66b",
+      "metadata": {
+        "ordinal": 8522,
+        "triple": {
+          "subject_id": "king_lear",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "King Lear",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5195253584135409,
+      "created_at": "2026-07-12T06:29:49.934753-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e9c5f0c5-b4f9-4041-bf34-4908e4209b3d",
+      "memory": "Richard Brinsley Sheridan speaks the language of English.",
+      "hash": "1491161f18c7cc6b7373b1bceded7a34",
+      "metadata": {
+        "ordinal": 7118,
+        "triple": {
+          "subject_id": "richard_brinsley_sheridan",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Richard Brinsley Sheridan",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.5192990162174851,
+      "created_at": "2026-07-12T06:12:07.289355-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "aa98e404-f5a0-42d7-90a7-5ce946e61fb1",
+      "memory": "The author of As You Like It is William Shakespeare.",
+      "hash": "263ee28f70fa1ffbe60e142140fa539f",
+      "metadata": {
+        "ordinal": 13234,
+        "triple": {
+          "subject_id": "as_you_like_it",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "As You Like It",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5178195625120248,
+      "created_at": "2026-07-12T07:34:34.949351-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "776fe90d-af1a-4acb-8ec5-b6b6f8b08a26",
+      "memory": "Polonius was created by William Shakespeare.",
+      "hash": "63244ffef55c5085024edb41077d2199",
+      "metadata": {
+        "ordinal": 16418,
+        "triple": {
+          "subject_id": "polonius",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Polonius",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.5163059832390108,
+      "created_at": "2026-07-12T08:26:38.290229-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b654cce4-8cbe-40b7-a316-d703d8a0d8ed",
+      "memory": "The author of Cymbeline is William Shakespeare.",
+      "hash": "46828f53b4e7f9c16178ebe42e46d9fe",
+      "metadata": {
+        "ordinal": 6615,
+        "triple": {
+          "subject_id": "cymbeline",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Cymbeline",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5144560206608042,
+      "created_at": "2026-07-12T06:05:29.926624-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1c77ca80-0069-4acb-ae3a-316b80dc8747",
+      "memory": "The author of Bartholomew Fayre: A Comedy is William Shakespeare.",
+      "hash": "bc9e685c7e0ec97994c1897d8b1ff1da",
+      "metadata": {
+        "ordinal": 16556,
+        "triple": {
+          "subject_id": "bartholomew_fayre:_a_comedy",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Bartholomew Fayre: A Comedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5138187723900048,
+      "created_at": "2026-07-12T08:28:46.721541-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "20d5d799-9896-4080-b597-3e315db05093",
+      "memory": "William Shakespeare is married to Philip IV of France.",
+      "hash": "c8f07c8390f07903114bb5802699ba58",
+      "metadata": {
+        "ordinal": 15388,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be married to",
+          "object_text": "Philip IV of France",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is married to"
+        }
+      },
+      "score": 0.508460786716964,
+      "created_at": "2026-07-12T08:09:52.181430-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "e32207df-d360-4550-8ce1-6a61219e43e0",
+      "memory": "The author of The Comedy of Errors is William Shakespeare.",
+      "hash": "201c5cf434fb54b49242c8c64a794828",
+      "metadata": {
+        "ordinal": 5643,
+        "triple": {
+          "subject_id": "the_comedy_of_errors",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Comedy of Errors",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5074481601633551,
+      "created_at": "2026-07-12T05:50:41.858030-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "83df3fb9-8cda-42b1-9c62-f31f777f4f7d",
+      "memory": "The author of Much Ado About Nothing is William Shakespeare.",
+      "hash": "49a39a05c30961b482d4e87dde1e79c4",
+      "metadata": {
+        "ordinal": 1230,
+        "triple": {
+          "subject_id": "much_ado_about_nothing",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Much Ado About Nothing",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5072596550810675,
+      "created_at": "2026-07-12T04:47:05.112052-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "8a35e82e-e712-43b4-8aa0-2b01bfcc30fa",
+      "memory": "The author of Coriolanus is William Shakespeare.",
+      "hash": "e22149a8b921a86407ecaae6d5a48255",
+      "metadata": {
+        "ordinal": 7761,
+        "triple": {
+          "subject_id": "the_author_of_coriolanus",
+          "predicate_norm": "be",
+          "object_text": "William Shakespeare",
+          "confidence": 0.9,
+          "subject_raw": "the author of Coriolanus",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.5067347644552916,
+      "created_at": "2026-07-12T06:20:37.441914-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "13f1dc82-9ac8-499b-a6b0-82c099bb8fa3",
+      "memory": "The author of Eclogues is William Shakespeare.",
+      "hash": "b9323f29a7423110c3805ac519a8a375",
+      "metadata": {
+        "ordinal": 10317,
+        "triple": {
+          "subject_id": "eclogues",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Eclogues",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.5053677275390132,
+      "created_at": "2026-07-12T06:52:12.982241-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "34738c19-28ef-4192-9fff-d31a0f902cc5",
+      "memory": "The author of A Midsummer Night's Dream is William Shakespeare.",
+      "hash": "d1d17619fb6af6d982e02540553e78fb",
+      "metadata": {
+        "ordinal": 1485,
+        "triple": {
+          "subject_id": "a_midsummer_night's_dream",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "A Midsummer Night's Dream",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.5048482677457631,
+      "created_at": "2026-07-12T04:51:25.950104-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cf94a29c-08ac-4b9a-8054-f671fc7d857e",
+      "memory": "Laurence Olivier speaks the language of Italian.",
+      "hash": "81ba231c5119dac4891513c8c3f68e3c",
+      "metadata": {
+        "ordinal": 9993,
+        "triple": {
+          "subject_id": "laurence_olivier",
+          "predicate_norm": "speaks language",
+          "object_text": "Italian",
+          "confidence": 0.95,
+          "subject_raw": "Laurence Olivier",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.5017541762372366,
+      "created_at": "2026-07-12T06:48:33.142586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "925a5148-9354-4b9a-8c93-75274e464801",
+      "memory": "Aphra Behn speaks the language of Hebrew.",
+      "hash": "98b16e1c715f5442bf28d84d9884fc1c",
+      "metadata": {
+        "ordinal": 12793,
+        "triple": {
+          "subject_id": "aphra_behn",
+          "predicate_norm": "speaks language",
+          "object_text": "Hebrew",
+          "confidence": 0.95,
+          "subject_raw": "Aphra Behn",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.5013178133038605,
+      "created_at": "2026-07-12T07:27:46.407898-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0414b572-e887-46f4-9317-aa0173f2443f",
+      "memory": "Caliban was created by William Shakespeare.",
+      "hash": "cc05d2c2aa84ff2ec4f0a8b9206884f9",
+      "metadata": {
+        "ordinal": 2594,
+        "triple": {
+          "subject_id": "caliban",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Caliban",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.49986263770828826,
+      "created_at": "2026-07-12T05:07:41.815666-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6e2cc9f8-3be6-4e19-a768-416ba3fc5b00",
+      "memory": "Malvolio was created by William Shakespeare.",
+      "hash": "9c8365fc24fe8a38ee6faf4453eb491c",
+      "metadata": {
+        "ordinal": 16041,
+        "triple": {
+          "subject_id": "malvolio",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Malvolio",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4998063618433523,
+      "created_at": "2026-07-12T08:20:40.442672-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "5a250abd-c1ca-42e2-a597-b88fc996c9b9",
+      "memory": "Nathaniel Hawthorne speaks the language of English.",
+      "hash": "abc03446b4e10f3617b059d74cb3fd60",
+      "metadata": {
+        "ordinal": 13039,
+        "triple": {
+          "subject_id": "nathaniel_hawthorne",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Nathaniel Hawthorne",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49870215336861784,
+      "created_at": "2026-07-12T07:32:02.316838-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d403aa09-d64a-47c6-9ddf-fcfc80252123",
+      "memory": "Aaron Burr speaks the language of English.",
+      "hash": "27b9be0930b90e6c6517ca43b05b7acf",
+      "metadata": {
+        "ordinal": 5678,
+        "triple": {
+          "subject_id": "aaron_burr",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Aaron Burr",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49854465336543563,
+      "created_at": "2026-07-12T05:51:13.380222-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bd437f53-4de0-4a66-86e7-aaa8fbc2e810",
+      "memory": "Patrick Stewart speaks the language of English",
+      "hash": "d257bc216fed1f77cc0d6e859f9ca298",
+      "metadata": {
+        "ordinal": 2303,
+        "triple": {
+          "subject_id": "patrick_stewart",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Patrick Stewart",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4983718736314043,
+      "created_at": "2026-07-12T05:03:36.153602-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "d3310934-e358-4753-a065-7e3610ff7c74",
+      "memory": "Long John Silver was created by William Shakespeare.",
+      "hash": "d813ae2dadd2595cf2fb62da5d8cffca",
+      "metadata": {
+        "ordinal": 11543,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "created",
+          "object_text": "Long John Silver",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "created"
+        }
+      },
+      "score": 0.4970019826225973,
+      "created_at": "2026-07-12T07:08:50.698115-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "85d63e20-a111-47bf-8781-c0da730eba5c",
+      "memory": "John Keats speaks the language of English.",
+      "hash": "f6fd4ca59b091b4e0558690489de823e",
+      "metadata": {
+        "ordinal": 5868,
+        "triple": {
+          "subject_id": "john_keats",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "John Keats",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49682041678013167,
+      "created_at": "2026-07-12T05:54:05.863469-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b5fae732-8858-4fbd-9dc1-953f357aacfe",
+      "memory": "Thomas Harris speaks the language of English.",
+      "hash": "07436608f949fc455a58b1132be95119",
+      "metadata": {
+        "ordinal": 10441,
+        "triple": {
+          "subject_id": "thomas_harris",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Harris",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4961427910200104,
+      "created_at": "2026-07-12T06:53:51.894525-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "29d13c91-f618-4839-83d0-b544869aff09",
+      "memory": "The author of Billy Liar is William Shakespeare.",
+      "hash": "b81e0e3989ec0a7a5ccfe6a50037c7be",
+      "metadata": {
+        "ordinal": 13932,
+        "triple": {
+          "subject_id": "billy_liar",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Billy Liar",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4943582931487409,
+      "created_at": "2026-07-12T07:44:56.152665-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3e23fd00-92d5-42bd-bf05-a50b0e962343",
+      "memory": "Queen Mab was created by William Shakespeare.",
+      "hash": "08e17b26fd73bafbf4a8d5c91998e58e",
+      "metadata": {
+        "ordinal": 8537,
+        "triple": {
+          "subject_id": "queen_mab",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Queen Mab",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4940271822081801,
+      "created_at": "2026-07-12T06:30:18.747342-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "8a3c90dc-f63d-4549-9376-bf62d1c7f9e1",
+      "memory": "Daniel Defoe speaks the language of English.",
+      "hash": "5f5abc3befa08029abf84d69da8a67ec",
+      "metadata": {
+        "ordinal": 11135,
+        "triple": {
+          "subject_id": "daniel_defoe",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Daniel Defoe",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4936311837681058,
+      "created_at": "2026-07-12T07:02:33.476288-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "610a203e-f8d2-4af8-b875-a056bb01772d",
+      "memory": "Simon Gray speaks the language of English.",
+      "hash": "239a762cf68ee6566825e3d76993e106",
+      "metadata": {
+        "ordinal": 10486,
+        "triple": {
+          "subject_id": "simon_gray",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Simon Gray",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49323270056283036,
+      "created_at": "2026-07-12T06:54:16.019579-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2d8463ae-c636-48fc-92ea-52f2abfa6223",
+      "memory": "The author of Titus Andronicus is William Shakespeare.",
+      "hash": "33344053a48cb0a835764f1cb15fca6b",
+      "metadata": {
+        "ordinal": 3777,
+        "triple": {
+          "subject_id": "titus_andronicus",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Titus Andronicus",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.4926035652943224,
+      "created_at": "2026-07-12T05:24:15.314733-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0d4f1f2a-ddd4-4f9c-87e6-a4aa7e26582c",
+      "memory": "Johnny Depp speaks the language of English.",
+      "hash": "df6d7b7659cfb5a50dccff2bc702126a",
+      "metadata": {
+        "ordinal": 7598,
+        "triple": {
+          "subject_id": "johnny_depp",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Johnny Depp",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.49155498650053325,
+      "created_at": "2026-07-12T06:18:26.053147-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c4e47252-e4a2-4647-9c18-d525d8bffb6b",
+      "memory": "The author of First Folio is William Shakespeare.",
+      "hash": "d413604a486cf9ad11da5b7dc3388c00",
+      "metadata": {
+        "ordinal": 12880,
+        "triple": {
+          "subject_id": "first_folio",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "First Folio",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.49125839047395004,
+      "created_at": "2026-07-12T07:29:19.455396-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "bd29e95f-1fe8-4305-8da2-f542ca37d769",
+      "memory": "Prince Hamlet was created by William Shakespeare.",
+      "hash": "ed980436886997c49d509b956df021db",
+      "metadata": {
+        "ordinal": 5042,
+        "triple": {
+          "subject_id": "prince_hamlet",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Prince Hamlet",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.49050646914887136,
+      "created_at": "2026-07-12T05:42:08.756523-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c4a8c3e8-909a-4db8-bee9-b64722c6b95c",
+      "memory": "Bram Stoker speaks the language of English.",
+      "hash": "308537d48604ab3d33622a4ad4bc6515",
+      "metadata": {
+        "ordinal": 7539,
+        "triple": {
+          "subject_id": "bram_stoker",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Bram Stoker",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4896283311418481,
+      "created_at": "2026-07-12T06:17:57.655544-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "23a0eee6-ff50-46a1-94ea-e713e0495cdd",
+      "memory": "Ian Fleming speaks the language of English.",
+      "hash": "450fc0f56ef519e975e90bdcf60e756d",
+      "metadata": {
+        "ordinal": 8123,
+        "triple": {
+          "subject_id": "ian_fleming",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Ian Fleming",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4869662507539709,
+      "created_at": "2026-07-12T06:25:19.460991-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1bc3e8ba-62db-459c-b888-b9152d30a1e0",
+      "memory": "Wicked was written in the language of English.",
+      "hash": "24b2423aa1541a3a1d3d7212badf8e22",
+      "metadata": {
+        "ordinal": 8703,
+        "triple": {
+          "subject_id": "wicked",
+          "predicate_norm": "be written in language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Wicked",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.48576807411415857,
+      "created_at": "2026-07-12T06:32:11.528373-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1fe9e639-3009-40da-8aba-16a2c01835a4",
+      "memory": "The author of The Martian Chronicles is William Shakespeare.",
+      "hash": "3a602a6b4aefbab08090927bfb68f975",
+      "metadata": {
+        "ordinal": 17124,
+        "triple": {
+          "subject_id": "the_martian_chronicles",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.9,
+          "subject_raw": "The Martian Chronicles",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.48568780821892676,
+      "created_at": "2026-07-12T08:37:13.586064-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "64dce0b9-096d-4d6b-8f98-435aca29925f",
+      "memory": "The author of Julius Caesar is William Shakespeare.",
+      "hash": "756be1e4e93a2b790795bacb7898dbdf",
+      "metadata": {
+        "ordinal": 5988,
+        "triple": {
+          "subject_id": "julius_caesar",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Julius Caesar",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.48473882010701247,
+      "created_at": "2026-07-12T05:56:05.171898-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "b1a6bc8b-7a9a-41d0-b0c6-6e19bf95c707",
+      "memory": "The author of Antony and Cleopatra is William Shakespeare.",
+      "hash": "888414fbdedd9595068bb68e282f5664",
+      "metadata": {
+        "ordinal": 2065,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.48465713056392756,
+      "created_at": "2026-07-12T04:59:42.049067-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "66b7da9a-c80c-4199-bdfb-d9efc3b00ec6",
+      "memory": "William Shakespeare was born in the city of Stratford-upon-Avon.",
+      "hash": "96502a78f712891ce163230b8244934c",
+      "metadata": {
+        "ordinal": 3569,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be born in city",
+          "object_text": "Stratford-upon-Avon",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "was born in the city of"
+        }
+      },
+      "score": 0.4842328395534612,
+      "created_at": "2026-07-12T05:21:36.312836-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "dcaeed2d-0c65-4215-b74d-b68e4d471e19",
+      "memory": "William Shakespeare was born in the city of Massillon.",
+      "hash": "48f75d37703a77b1a5f5b16e408a5e16",
+      "metadata": {
+        "ordinal": 14801,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be born in",
+          "object_text": "Massillon",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "was born in"
+        }
+      },
+      "score": 0.48280130708887153,
+      "created_at": "2026-07-12T07:58:57.611613-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "071082ca-885d-4dc6-9b94-2fee7e88ddd6",
+      "memory": "Maisie Williams speaks the language of English.",
+      "hash": "cf0bd364dcc8addb3648e564dcfc8879",
+      "metadata": {
+        "ordinal": 658,
+        "triple": {
+          "subject_id": "maisie_williams",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Maisie Williams",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4816561447241158,
+      "created_at": "2026-07-12T04:39:55.385532-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "42fe3bd2-77a9-4d23-8528-175d880bc8d6",
+      "memory": "Neil Simon speaks the language of English.",
+      "hash": "131f265c8caf419d20a7fa03796dd444",
+      "metadata": {
+        "ordinal": 8754,
+        "triple": {
+          "subject_id": "neil_simon",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Neil Simon",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4815494851908329,
+      "created_at": "2026-07-12T06:33:04.171586-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7b4fd69e-a122-45bb-9fe3-17a586a86864",
+      "memory": "Emma Watson speaks the language of English.",
+      "hash": "0028a83e5f62d1c0620e348f30b9e283",
+      "metadata": {
+        "ordinal": 11217,
+        "triple": {
+          "subject_id": "emma_watson",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Emma Watson",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4804162603866457,
+      "created_at": "2026-07-12T07:03:34.986466-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6d3f3801-3d84-441e-a8a8-e26c949e5a27",
+      "memory": "Michelangelo speaks the language of English.",
+      "hash": "ac2b883f5c883025c7315c2a7a34bdf5",
+      "metadata": {
+        "ordinal": 15255,
+        "triple": {
+          "subject_id": "michelangelo",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Michelangelo",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.48025719162140323,
+      "created_at": "2026-07-12T08:07:46.381905-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c822904b-e10e-478a-b6b2-9d759e89f654",
+      "memory": "The author of The Winter's Tale is William Shakespeare.",
+      "hash": "982e1c8e0188a5c87687f8497f561d1f",
+      "metadata": {
+        "ordinal": 10006,
+        "triple": {
+          "subject_id": "the_winter's_tale",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Winter's Tale",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.4799328865771147,
+      "created_at": "2026-07-12T06:48:33.168043-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "457cceac-697a-41f2-bbdd-3638c55ae298",
+      "memory": "William Waynflete speaks the language of English.",
+      "hash": "16f3d77c0d0e41b756feb7df5d2bbc5c",
+      "metadata": {
+        "ordinal": 3958,
+        "triple": {
+          "subject_id": "william_waynflete",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Waynflete",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.47976368319056834,
+      "created_at": "2026-07-12T05:26:31.833250-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "1d9f1462-d5df-419a-85b5-4ad70f73f382",
+      "memory": "Hermia was created by William Shakespeare.",
+      "hash": "9ef96bbfe5db7974e1ab8302606809f7",
+      "metadata": {
+        "ordinal": 17043,
+        "triple": {
+          "subject_id": "hermia",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Hermia",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4797572610181745,
+      "created_at": "2026-07-12T08:35:44.439499-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cc0a674f-1862-4d0d-81bb-2f1351fc8623",
+      "memory": "Thomas Day speaks the language of English.",
+      "hash": "d82cf188e691bdf7556a55324171eaec",
+      "metadata": {
+        "ordinal": 3416,
+        "triple": {
+          "subject_id": "thomas_day",
+          "predicate_norm": "speaks",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Day",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.47943817843577363,
+      "created_at": "2026-07-12T05:19:31.040834-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cb23e88a-8ce6-4747-bbef-23316314b5c4",
+      "memory": "Blandings Castle was created by William Shakespeare.",
+      "hash": "d3b3389663357c29d0359aeb276b7942",
+      "metadata": {
+        "ordinal": 10668,
+        "triple": {
+          "subject_id": "blandings_castle",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Blandings Castle",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4789942520751783,
+      "created_at": "2026-07-12T06:56:24.438133-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "127cc57c-8053-4819-885f-a5a0ce4e0478",
+      "memory": "Jane Austen speaks the language of English.",
+      "hash": "0bbcef8e63d833d646313577f14bfb7f",
+      "metadata": {
+        "ordinal": 13353,
+        "triple": {
+          "subject_id": "jane_austen",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Jane Austen",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.47879574172834743,
+      "created_at": "2026-07-12T07:36:33.669378-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "38cc4f4c-b775-4258-9bb4-803d2ea2f613",
+      "memory": "Harold Pinter speaks the language of English.",
+      "hash": "831f178a7705531613f3c68aa4e395d3",
+      "metadata": {
+        "ordinal": 3633,
+        "triple": {
+          "subject_id": "harold_pinter",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Harold Pinter",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4779651166076412,
+      "created_at": "2026-07-12T05:22:31.017341-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "cb9a081f-5613-4c90-965b-3e10f0535018",
+      "memory": "The author of Georgics is William Shakespeare.",
+      "hash": "e03903b0cf36c856ab66a56d496f4e3f",
+      "metadata": {
+        "ordinal": 13812,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "Georgics",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4769446621567087,
+      "created_at": "2026-07-12T07:43:26.026863-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ff0e6568-327d-42ec-9f4d-addf2eae42a8",
+      "memory": "Edgar Allan Poe speaks the language of English.",
+      "hash": "162fcc892ee45c3b23989e873622acad",
+      "metadata": {
+        "ordinal": 2841,
+        "triple": {
+          "subject_id": "edgar_allan_poe",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Edgar Allan Poe",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4752172502139633,
+      "created_at": "2026-07-12T05:11:06.744120-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "29f23e57-239e-4251-bd5c-0984d8267883",
+      "memory": "Ophelia was created by William Shakespeare.",
+      "hash": "9c1f6051bc177c0321f300311c04fc00",
+      "metadata": {
+        "ordinal": 6280,
+        "triple": {
+          "subject_id": "ophelia",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Ophelia",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4747171790900887,
+      "created_at": "2026-07-12T06:00:06.030841-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "eaf2ff28-6622-4d18-af61-f723e0dd78bf",
+      "memory": "Matthew Broderick speaks the language of English.",
+      "hash": "cb83c28990fc0963dab9b8ee15e66fdd",
+      "metadata": {
+        "ordinal": 14793,
+        "triple": {
+          "subject_id": "matthew_broderick",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Matthew Broderick",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.47418646624596017,
+      "created_at": "2026-07-12T07:58:24.776472-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "055dcd91-9448-44e8-a64a-41bdeeda63cb",
+      "memory": "The author of Dune is William Shakespeare.",
+      "hash": "dd193a8a5f22ae444b217b48dfd40f12",
+      "metadata": {
+        "ordinal": 8555,
+        "triple": {
+          "subject_id": "dune",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Dune",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.47183602719987566,
+      "created_at": "2026-07-12T06:30:18.790182-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fbdeb8f4-5115-4823-bb6b-1afa3c7a898e",
+      "memory": "The author of Lorentz ether theory is William Shakespeare.",
+      "hash": "69662a3f7793748e9adbc2e04b49c66d",
+      "metadata": {
+        "ordinal": 13842,
+        "triple": {
+          "subject_id": "lorentz_ether_theory",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Lorentz ether theory",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4701119720737123,
+      "created_at": "2026-07-12T07:43:53.822410-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "6dee2475-16f0-413b-9988-e24e1f0e3771",
+      "memory": "Othello was created by William Shakespeare.",
+      "hash": "d21b1bb43207a61fa5635635fb8e855e",
+      "metadata": {
+        "ordinal": 4480,
+        "triple": {
+          "subject_id": "othello",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Othello",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.46965097629264124,
+      "created_at": "2026-07-12T05:34:27.502592-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2a5a9ff2-5dc2-4a6d-bd76-d6f8454f0595",
+      "memory": "The author of The History of Sexuality is William Shakespeare.",
+      "hash": "42c48bf70075d0c21e2654b74e8a2af8",
+      "metadata": {
+        "ordinal": 12627,
+        "triple": {
+          "subject_id": "the_history_of_sexuality",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The History of Sexuality",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4686772059515751,
+      "created_at": "2026-07-12T07:25:43.065462-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "07de582e-a546-4b6a-9847-15a4db36d201",
+      "memory": "Nero Wolfe was created by William Shakespeare.",
+      "hash": "5ade793c70a2bbbb217b666383fb2e58",
+      "metadata": {
+        "ordinal": 12990,
+        "triple": {
+          "subject_id": "nero_wolfe",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Nero Wolfe",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4682356898726471,
+      "created_at": "2026-07-12T07:30:57.588278-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "a7e8961e-1b54-49bb-ace9-f4fc06831584",
+      "memory": "Hornblower was created by William Shakespeare.",
+      "hash": "c9aa9a47cb5d425d4c21ae68aecdc580",
+      "metadata": {
+        "ordinal": 14981,
+        "triple": {
+          "subject_id": "hornblower",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Hornblower",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.4675740416089129,
+      "created_at": "2026-07-12T08:02:38.221840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2b6381e7-2813-4cc1-bc90-d7cacd9b895c",
+      "memory": "The author of Venus and Adonis is William Shakespeare.",
+      "hash": "2db2cf3e4c126a5e3fa1959048b78571",
+      "metadata": {
+        "ordinal": 9314,
+        "triple": {
+          "subject_id": "venus_and_adonis",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Venus and Adonis",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4673687106453489,
+      "created_at": "2026-07-12T06:40:07.513929-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "2e64ed65-9747-4ea0-8be4-155e4d6222b6",
+      "memory": "The author of The Rape of Lucrece is William Shakespeare.",
+      "hash": "23b7366f643d67f39a11b928883183d9",
+      "metadata": {
+        "ordinal": 1484,
+        "triple": {
+          "subject_id": "the_rape_of_lucrece",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Rape of Lucrece",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.4672250337800022,
+      "created_at": "2026-07-12T04:51:25.947768-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "7282aaf2-f522-485f-9e5b-754dd7636d28",
+      "memory": "Joseph Wright of Derby speaks the language of English.",
+      "hash": "e199fb2c7e339627b9e99597021a878a",
+      "metadata": {
+        "ordinal": 10914,
+        "triple": {
+          "subject_id": "joseph_wright_of_derby",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Joseph Wright of Derby",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4666467004733459,
+      "created_at": "2026-07-12T06:59:44.278854-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ad787485-ed74-499c-8174-c230d4cb2f12",
+      "memory": "William Butler Yeats speaks the language of English.",
+      "hash": "7821667f39e42ec643ae65815a774420",
+      "metadata": {
+        "ordinal": 11108,
+        "triple": {
+          "subject_id": "william_butler_yeats",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Butler Yeats",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4656258736669001,
+      "created_at": "2026-07-12T07:02:02.381031-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "ec4c12d6-5157-41bc-9196-57f1a89f22b6",
+      "memory": "The author of The Two Noble Kinsmen is William Shakespeare.",
+      "hash": "471a853083c3841aa38980f6edd876cc",
+      "metadata": {
+        "ordinal": 12060,
+        "triple": {
+          "subject_id": "the_two_noble_kinsmen",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Two Noble Kinsmen",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.4649786969747165,
+      "created_at": "2026-07-12T07:16:39.449011-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fd81ff0b-d1e4-4e62-8f7b-3cb8f22b8411",
+      "memory": "Stephen King speaks the language of English.",
+      "hash": "ff1d94fe3e20424c9c6df770794a7250",
+      "metadata": {
+        "ordinal": 15815,
+        "triple": {
+          "subject_id": "stephen_king",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Stephen King",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4639203054764146,
+      "created_at": "2026-07-12T08:16:40.434182-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "fe93ef9d-6382-4eb7-a75d-a2d27e33d7c7",
+      "memory": "Robert Louis Stevenson speaks the language of English.",
+      "hash": "c07e2965e6e8005fd8547f2f1c845d6c",
+      "metadata": {
+        "ordinal": 987,
+        "triple": {
+          "subject_id": "robert_louis_stevenson",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Robert Louis Stevenson",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4635949558135767,
+      "created_at": "2026-07-12T04:43:49.644219-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "0bdbdf52-7e1b-4470-8992-18cd72ce2082",
+      "memory": "The Beggar's Opera was written in the language of English.",
+      "hash": "51e9add4994d84b1cc4203626f5d3d26",
+      "metadata": {
+        "ordinal": 2501,
+        "triple": {
+          "subject_id": "the_beggar's_opera",
+          "predicate_norm": "be written in language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "The Beggar's Opera",
+          "predicate_raw": "was written in the language of"
+        }
+      },
+      "score": 0.46248615666361026,
+      "created_at": "2026-07-12T05:06:07.124953-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "dc0da50b-59bd-4848-889d-5cc24425090f",
+      "memory": "Bertie Wooster was created by William Shakespeare.",
+      "hash": "793dde144b7a713f255bcdf4a470dc44",
+      "metadata": {
+        "ordinal": 14240,
+        "triple": {
+          "subject_id": "bertie_wooster",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Bertie Wooster",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.46220740756609124,
+      "created_at": "2026-07-12T07:49:35.546079-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "da63b919-7db0-44c0-bb2f-8798da0a2485",
+      "memory": "Matthew Gregory Lewis speaks the language of English.",
+      "hash": "fd9ed3d434c603a7dda3d22eb20e2816",
+      "metadata": {
+        "ordinal": 14663,
+        "triple": {
+          "subject_id": "matthew_gregory_lewis",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Matthew Gregory Lewis",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.460801471113775,
+      "created_at": "2026-07-12T07:56:46.505270-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "c8422497-2ceb-4a80-9ffe-c8cfe7ff547e",
+      "memory": "Howl was written in the language of English.",
+      "hash": "14e21d818bff8f5d33f5e0c3a5603d89",
+      "metadata": {
+        "ordinal": 11981,
+        "triple": {
+          "subject_id": "howl",
+          "predicate_norm": "be written in",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Howl",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.4607994760565549,
+      "created_at": "2026-07-12T07:15:32.340751-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "90bf6f61-bfbb-4f01-8adc-87dd358c1889",
+      "memory": "David Mamet speaks the language of English.",
+      "hash": "c6ea7e0a0f9d8c0e55c67afed2f2d6c9",
+      "metadata": {
+        "ordinal": 2716,
+        "triple": {
+          "subject_id": "david_mamet",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "David Mamet",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.45850862927652414,
+      "created_at": "2026-07-12T05:09:33.613899-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "31dc8b96-ef47-467e-8fa2-85b2fdbb187c",
+      "memory": "Wilkie Collins speaks the language of English.",
+      "hash": "6a35d258ce6d6b8c7c89c275a1db4fa6",
+      "metadata": {
+        "ordinal": 6560,
+        "triple": {
+          "subject_id": "wilkie_collins",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Wilkie Collins",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4581831215053648,
+      "created_at": "2026-07-12T06:04:29.660271-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "43219fc2-1594-4438-9a7b-f0145e62e486",
+      "memory": "Benjamin Franklin speaks the language of English.",
+      "hash": "9aef08e055d2ebaa598f1b1984a8a0f1",
+      "metadata": {
+        "ordinal": 14633,
+        "triple": {
+          "subject_id": "benjamin_franklin",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Benjamin Franklin",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.4568236647861406,
+      "created_at": "2026-07-12T07:56:18.752538-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "3b85325c-451f-4d66-9a9a-237d18434b7c",
+      "memory": "The author of The Emperor's New Clothes is William Shakespeare.",
+      "hash": "fe40f7d4973fb3a021120a69b3e59cc9",
+      "metadata": {
+        "ordinal": 15109,
+        "triple": {
+          "subject_id": "the_emperor's_new_clothes",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Emperor's New Clothes",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4564478019104161,
+      "created_at": "2026-07-12T08:05:19.884043-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "5c843f89-0da3-4bb6-af9f-6e83f8b03d90",
+      "memory": "Charles Dickens speaks the language of English.",
+      "hash": "d6ceaf355cfde5cb0a1085c08a943902",
+      "metadata": {
+        "ordinal": 15522,
+        "triple": {
+          "subject_id": "charles_dickens",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Charles Dickens",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.45638628549500465,
+      "created_at": "2026-07-12T08:12:05.128634-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    },
+    {
+      "id": "f86fba8b-1545-4ea8-8328-a528b9184209",
+      "memory": "Dr. Seuss speaks the language of English.",
+      "hash": "73294dd66973e9f8c727f3611653f452",
+      "metadata": {
+        "ordinal": 2662,
+        "triple": {
+          "subject_id": "dr._seuss",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Dr. Seuss",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.45566257591270415,
+      "created_at": "2026-07-12T05:08:40.605844-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_262k"
+    }
+  ],
+  "memories_str": "- William Shakespeare speaks the language of French.\n- The type of music that William Shakespeare plays is English Renaissance theatre.\n- William Shakespeare works in the field of businessperson.\n- The author of Love's Labour's Lost is William Shakespeare.\n- William Shakespeare works in the field of playwright.\n- William Shakespeare is a citizen of India.\n- Aphra Behn speaks the language of English.\n- The author of Measure for Measure is William Shakespeare.\n- The author of The Merchant of Venice is William Shakespeare.\n- The university where William Shakespeare was educated is University of Oxford.\n- The author of Romeo and Juliet is William Shakespeare.\n- The author of Othello is William Shakespeare.\n- The author of King Lear is William Shakespeare.\n- Richard Brinsley Sheridan speaks the language of English.\n- The author of As You Like It is William Shakespeare.\n- Polonius was created by William Shakespeare.\n- The author of Cymbeline is William Shakespeare.\n- The author of Bartholomew Fayre: A Comedy is William Shakespeare.\n- William Shakespeare is married to Philip IV of France.\n- The author of The Comedy of Errors is William Shakespeare.\n- The author of Much Ado About Nothing is William Shakespeare.\n- The author of Coriolanus is William Shakespeare.\n- The author of Eclogues is William Shakespeare.\n- The author of A Midsummer Night's Dream is William Shakespeare.\n- Laurence Olivier speaks the language of Italian.\n- Aphra Behn speaks the language of Hebrew.\n- Caliban was created by William Shakespeare.\n- Malvolio was created by William Shakespeare.\n- Nathaniel Hawthorne speaks the language of English.\n- Aaron Burr speaks the language of English.\n- Patrick Stewart speaks the language of English\n- Long John Silver was created by William Shakespeare.\n- John Keats speaks the language of English.\n- Thomas Harris speaks the language of English.\n- The author of Billy Liar is William Shakespeare.\n- Queen Mab was created by William Shakespeare.\n- Daniel Defoe speaks the language of English.\n- Simon Gray speaks the language of English.\n- The author of Titus Andronicus is William Shakespeare.\n- Johnny Depp speaks the language of English.\n- The author of First Folio is William Shakespeare.\n- Prince Hamlet was created by William Shakespeare.\n- Bram Stoker speaks the language of English.\n- Ian Fleming speaks the language of English.\n- Wicked was written in the language of English.\n- The author of The Martian Chronicles is William Shakespeare.\n- The author of Julius Caesar is William Shakespeare.\n- The author of Antony and Cleopatra is William Shakespeare.\n- William Shakespeare was born in the city of Stratford-upon-Avon.\n- William Shakespeare was born in the city of Massillon.\n- Maisie Williams speaks the language of English.\n- Neil Simon speaks the language of English.\n- Emma Watson speaks the language of English.\n- Michelangelo speaks the language of English.\n- The author of The Winter's Tale is William Shakespeare.\n- William Waynflete speaks the language of English.\n- Hermia was created by William Shakespeare.\n- Thomas Day speaks the language of English.\n- Blandings Castle was created by William Shakespeare.\n- Jane Austen speaks the language of English.\n- Harold Pinter speaks the language of English.\n- The author of Georgics is William Shakespeare.\n- Edgar Allan Poe speaks the language of English.\n- Ophelia was created by William Shakespeare.\n- Matthew Broderick speaks the language of English.\n- The author of Dune is William Shakespeare.\n- The author of Lorentz ether theory is William Shakespeare.\n- Othello was created by William Shakespeare.\n- The author of The History of Sexuality is William Shakespeare.\n- Nero Wolfe was created by William Shakespeare.\n- Hornblower was created by William Shakespeare.\n- The author of Venus and Adonis is William Shakespeare.\n- The author of The Rape of Lucrece is William Shakespeare.\n- Joseph Wright of Derby speaks the language of English.\n- William Butler Yeats speaks the language of English.\n- The author of The Two Noble Kinsmen is William Shakespeare.\n- Stephen King speaks the language of English.\n- Robert Louis Stevenson speaks the language of English.\n- The Beggar's Opera was written in the language of English.\n- Bertie Wooster was created by William Shakespeare.\n- Matthew Gregory Lewis speaks the language of English.\n- Howl was written in the language of English.\n- David Mamet speaks the language of English.\n- Wilkie Collins speaks the language of English.\n- Benjamin Franklin speaks the language of English.\n- The author of The Emperor's New Clothes is William Shakespeare.\n- Charles Dickens speaks the language of English.\n- Dr. Seuss speaks the language of English.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- William Shakespeare speaks the language of French.\n- The type of music that William Shakespeare plays is English Renaissance theatre.\n- William Shakespeare works in the field of businessperson.\n- The author of Love's Labour's Lost is William Shakespeare.\n- William Shakespeare works in the field of playwright.\n- William Shakespeare is a citizen of India.\n- Aphra Behn speaks the language of English.\n- The author of Measure for Measure is William Shakespeare.\n- The author of The Merchant of Venice is William Shakespeare.\n- The university where William Shakespeare was educated is University of Oxford.\n- The author of Romeo and Juliet is William Shakespeare.\n- The author of Othello is William Shakespeare.\n- The author of King Lear is William Shakespeare.\n- Richard Brinsley Sheridan speaks the language of English.\n- The author of As You Like It is William Shakespeare.\n- Polonius was created by William Shakespeare.\n- The author of Cymbeline is William Shakespeare.\n- The author of Bartholomew Fayre: A Comedy is William Shakespeare.\n- William Shakespeare is married to Philip IV of France.\n- The author of The Comedy of Errors is William Shakespeare.\n- The author of Much Ado About Nothing is William Shakespeare.\n- The author of Coriolanus is William Shakespeare.\n- The author of Eclogues is William Shakespeare.\n- The author of A Midsummer Night's Dream is William Shakespeare.\n- Laurence Olivier speaks the language of Italian.\n- Aphra Behn speaks the language of Hebrew.\n- Caliban was created by William Shakespeare.\n- Malvolio was created by William Shakespeare.\n- Nathaniel Hawthorne speaks the language of English.\n- Aaron Burr speaks the language of English.\n- Patrick Stewart speaks the language of English\n- Long John Silver was created by William Shakespeare.\n- John Keats speaks the language of English.\n- Thomas Harris speaks the language of English.\n- The author of Billy Liar is William Shakespeare.\n- Queen Mab was created by William Shakespeare.\n- Daniel Defoe speaks the language of English.\n- Simon Gray speaks the language of English.\n- The author of Titus Andronicus is William Shakespeare.\n- Johnny Depp speaks the language of English.\n- The author of First Folio is William Shakespeare.\n- Prince Hamlet was created by William Shakespeare.\n- Bram Stoker speaks the language of English.\n- Ian Fleming speaks the language of English.\n- Wicked was written in the language of English.\n- The author of The Martian Chronicles is William Shakespeare.\n- The author of Julius Caesar is William Shakespeare.\n- The author of Antony and Cleopatra is William Shakespeare.\n- William Shakespeare was born in the city of Stratford-upon-Avon.\n- William Shakespeare was born in the city of Massillon.\n- Maisie Williams speaks the language of English.\n- Neil Simon speaks the language of English.\n- Emma Watson speaks the language of English.\n- Michelangelo speaks the language of English.\n- The author of The Winter's Tale is William Shakespeare.\n- William Waynflete speaks the language of English.\n- Hermia was created by William Shakespeare.\n- Thomas Day speaks the language of English.\n- Blandings Castle was created by William Shakespeare.\n- Jane Austen speaks the language of English.\n- Harold Pinter speaks the language of English.\n- The author of Georgics is William Shakespeare.\n- Edgar Allan Poe speaks the language of English.\n- Ophelia was created by William Shakespeare.\n- Matthew Broderick speaks the language of English.\n- The author of Dune is William Shakespeare.\n- The author of Lorentz ether theory is William Shakespeare.\n- Othello was created by William Shakespeare.\n- The author of The History of Sexuality is William Shakespeare.\n- Nero Wolfe was created by William Shakespeare.\n- Hornblower was created by William Shakespeare.\n- The author of Venus and Adonis is William Shakespeare.\n- The author of The Rape of Lucrece is William Shakespeare.\n- Joseph Wright of Derby speaks the language of English.\n- William Butler Yeats speaks the language of English.\n- The author of The Two Noble Kinsmen is William Shakespeare.\n- Stephen King speaks the language of English.\n- Robert Louis Stevenson speaks the language of English.\n- The Beggar's Opera was written in the language of English.\n- Bertie Wooster was created by William Shakespeare.\n- Matthew Gregory Lewis speaks the language of English.\n- Howl was written in the language of English.\n- David Mamet speaks the language of English.\n- Wilkie Collins speaks the language of English.\n- Benjamin Franklin speaks the language of English.\n- The author of The Emperor's New Clothes is William Shakespeare.\n- Charles Dickens speaks the language of English.\n- Dr. Seuss speaks the language of English.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, What language does William Shakespeare speak? \nAnswer:\n\nCurrent Time: 2026-07-12 23:58:48",
+  "response": "Answer: French",
+  "prompt_tokens": 1152,
+  "completion_tokens": 3
+}

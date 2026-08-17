@@ -1,0 +1,3599 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "4412a913-9fe6-40c6-82b0-c94859c4c2d4",
+      "memory": "User has just finished their 5th project since starting painting classes.",
+      "hash": "a62ef0880aa8e51b6c9c595d94d82968",
+      "metadata": {
+        "ordinal": 432,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has finished",
+          "object_text": "5th project since starting painting classes",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has finished"
+        }
+      },
+      "score": 0.5240200572657857,
+      "created_at": "2026-07-06T10:13:21.889087-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "83da86ad-9385-4c43-ba8d-bea06995fdfc",
+      "memory": "User is looking for inspiration for their next painting project.",
+      "hash": "d9041dd2066b6e8097d8bfd0986515bf",
+      "metadata": {
+        "ordinal": 431,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.3625277780378379,
+      "created_at": "2026-07-06T10:13:21.882796-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1aa5e889-21f7-41b2-9f23-403b209c6e59",
+      "memory": "User has been taking English classes at the LINC program since November 2020.",
+      "hash": "c81e9379b9eab1646dd96e6a8b08ab81",
+      "metadata": {
+        "ordinal": 628,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be taking",
+          "object_text": "English classes at the LINC program since November 2020",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been taking"
+        }
+      },
+      "score": 0.3268327128662981,
+      "created_at": "2026-07-06T10:15:13.542911-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a591b390-033c-479d-ab5f-74d5b63ecd9c",
+      "memory": "The user asked for answers to the questions one by one.",
+      "hash": "22081723488128d5122787ae6c6017bc",
+      "metadata": {
+        "ordinal": 478,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "asked for",
+          "object_text": "answers to the questions one by one",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked for"
+        }
+      },
+      "score": 0.28716303797718323,
+      "created_at": "2026-07-06T10:13:37.371286-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e7852042-77d3-489b-88e9-a33a110b8ef4",
+      "memory": "User is thinking of taking an online course to upgrade their skills and stay competitive in the job market.",
+      "hash": "bf16f0147c40ea629dd233a30b59dfc0",
+      "metadata": {
+        "ordinal": 52,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.25687686234636875,
+      "created_at": "2026-07-06T10:09:50.342292-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "aafd7718-7995-4b8a-87a7-467c89cf02e6",
+      "memory": "The user requested 100 questions related to Microsoft Power Automate interviews, categorized by difficulty level.",
+      "hash": "81dd3043284015a4f2adbdf6d6c21f73",
+      "metadata": {
+        "ordinal": 477,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "requested",
+          "object_text": "100 questions related to Microsoft Power Automate interviews, categorized by difficulty level",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "requested"
+        }
+      },
+      "score": 0.24939103413658364,
+      "created_at": "2026-07-06T10:13:37.367837-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2eb8f98d-0b5c-42ef-976c-694cd6100a94",
+      "memory": "User has been in Tokyo for 9 months.",
+      "hash": "a78efb70840e4ad8be643aba0f896937",
+      "metadata": {
+        "ordinal": 396,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be in",
+          "object_text": "Tokyo for 9 months",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been in"
+        }
+      },
+      "score": 0.24503851273599556,
+      "created_at": "2026-07-06T10:13:07.048457-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8874c2c2-c37b-4371-a4c5-402b79e02496",
+      "memory": "User has been trying to stay engaged with current events through various media channels, including podcasts, online articles, and magazines.",
+      "hash": "eac60b7d982a90734fea18df845cd0f4",
+      "metadata": {
+        "ordinal": 5,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.24101935834377125,
+      "created_at": "2026-07-06T10:09:09.901488-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "57582bc5-4c7f-45b9-b87b-65daabe74ab3",
+      "memory": "User is currently at level 5 in the LINC program.",
+      "hash": "ec18b2fff7230fb800c4b76bc7b9408a",
+      "metadata": {
+        "ordinal": 629,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be currently at",
+          "object_text": "level 5 in the LINC program",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is currently at"
+        }
+      },
+      "score": 0.24047137014134817,
+      "created_at": "2026-07-06T10:15:13.545081-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "427dbca7-6eaa-4f5c-9466-f16a39c6feee",
+      "memory": "User is thinking of enrolling in a language course to improve their English skills.",
+      "hash": "204091975dbea66b626ef2b5febcfc7b",
+      "metadata": {
+        "ordinal": 626,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking enrolling in",
+          "object_text": "a language course to improve their English skills",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of enrolling in"
+        }
+      },
+      "score": 0.23991064649521956,
+      "created_at": "2026-07-06T10:15:13.538161-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "eddf79bd-6312-4377-ac89-3db694c20d99",
+      "memory": "User likes the idea of using a limited palette.",
+      "hash": "1cc4ed21d8353dd0caf52734f85c8127",
+      "metadata": {
+        "ordinal": 435,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23792801708086872,
+      "created_at": "2026-07-06T10:13:21.902048-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "41a3fc45-0bea-4101-8c7b-579858ef94ad",
+      "memory": "The user requested more answers without repetition.",
+      "hash": "cca76d8fc9cba6899f5f165afe4098c4",
+      "metadata": {
+        "ordinal": 479,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "requested",
+          "object_text": "more answers without repetition",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "requested"
+        }
+      },
+      "score": 0.23697061491319854,
+      "created_at": "2026-07-06T10:13:37.374270-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "05356c61-b7a1-4bbc-ae28-026f103753f1",
+      "memory": "User is looking to learn more about music production and recording.",
+      "hash": "ec98ac7a341759dfbf2f9178fdfae77e",
+      "metadata": {
+        "ordinal": 105,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23680745267007378,
+      "created_at": "2026-07-06T10:10:56.028117-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "638f6859-652f-4d95-bdf9-7551dd549fd8",
+      "memory": "User is interested in the Data Visualization course on Coursera.",
+      "hash": "d4bd3159956a0b6f666e626b81b6800e",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "the Data Visualization course on Coursera",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.23497808041848028,
+      "created_at": "2026-07-06T10:09:50.369298-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7706fa1d-da31-4584-86c9-b1fcd4a6e902",
+      "memory": "User is planning to run a half-marathon in three months.",
+      "hash": "25728b0db7d3ede040c772aba10c1167",
+      "metadata": {
+        "ordinal": 497,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to run",
+          "object_text": "a half-marathon in three months",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to run"
+        }
+      },
+      "score": 0.23469025235800733,
+      "created_at": "2026-07-06T10:14:12.584521-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7d3a905c-8035-433f-91da-b312da1200f0",
+      "memory": "User just started their 10-day vacation to Hawaii on August 18, 2023.",
+      "hash": "1d2689770a89ca494cc594b00a53b53f",
+      "metadata": {
+        "ordinal": 42,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "started",
+          "object_text": "10-day vacation to Hawaii on August 18, 2023",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "started"
+        }
+      },
+      "score": 0.23135212014029152,
+      "created_at": "2026-07-06T10:09:38.807901-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5038b091-a965-47d4-a1d1-ab1a88845595",
+      "memory": "User would like to enroll in a college or university program eventually.",
+      "hash": "1f3c0ddadc9d7c2133eff6eb21d99df9",
+      "metadata": {
+        "ordinal": 633,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "would like to enroll in",
+          "object_text": "a college or university program eventually",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "would like to enroll in"
+        }
+      },
+      "score": 0.2302162112262958,
+      "created_at": "2026-07-06T10:15:13.553343-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "003b1622-1f80-493b-9448-086ed6da3f7c",
+      "memory": "User thinks they will start with some online courses and YouTube tutorials to get a solid foundation in music production.",
+      "hash": "a9ce935eebe55c4e14b09550e8577200",
+      "metadata": {
+        "ordinal": 108,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.22888284112973567,
+      "created_at": "2026-07-06T10:10:56.045225-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4c1b718c-f125-4609-a41a-ff877474828c",
+      "memory": "The user is preparing for a Microsoft Power Automate interview.",
+      "hash": "2e2d39e7b35be965f74ab407627eb0ec",
+      "metadata": {
+        "ordinal": 476,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be preparing for",
+          "object_text": "a Microsoft Power Automate interview",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is preparing for"
+        }
+      },
+      "score": 0.2274842060125965,
+      "created_at": "2026-07-06T10:13:37.364023-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a81c8bfa-ba09-444a-b175-86c0316beb13",
+      "memory": "User thinks a bold and bright palette could create a dynamic piece.",
+      "hash": "f0c4b2077ebd61625c65ecb26266bb4a",
+      "metadata": {
+        "ordinal": 437,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.22485158149644946,
+      "created_at": "2026-07-06T10:13:21.907668-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "50ca7196-915a-49bb-b3c1-76c30b2a99d8",
+      "memory": "User is feeling accomplished.",
+      "hash": "98bffc01ef13648bd571d284f4f13ce3",
+      "metadata": {
+        "ordinal": 433,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.22466209205064278,
+      "created_at": "2026-07-06T10:13:21.893139-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4137d2d8-733c-4568-ae00-5156c52bda5b",
+      "memory": "User is thinking of setting up a small studio in their spare bedroom.",
+      "hash": "8612004a366c91845bcbfbdbd25d4268",
+      "metadata": {
+        "ordinal": 438,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking setting up",
+          "object_text": "a small studio in their spare bedroom",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of setting up"
+        }
+      },
+      "score": 0.22075359827917465,
+      "created_at": "2026-07-06T10:13:21.910314-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9a022b9f-fc41-4fb9-81e2-cab65a17d9a8",
+      "memory": "User believes their age could be an advantage in their learning journey, bringing more maturity and focus.",
+      "hash": "8370a13dffb00ace1f9f9eb0450d85d6",
+      "metadata": {
+        "ordinal": 59,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2200128313745755,
+      "created_at": "2026-07-06T10:09:50.375044-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8f1e1b3d-59ed-4d4c-9662-44b157b98146",
+      "memory": "User likes the idea of exploring abstract expressions.",
+      "hash": "bee5c9d0a7048d71f8b6a1cd9863c973",
+      "metadata": {
+        "ordinal": 434,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.215677298813866,
+      "created_at": "2026-07-06T10:13:21.898536-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "95f39cd6-b081-4896-a38d-5830f08284b8",
+      "memory": "User is curious about energy work and chakras.",
+      "hash": "13718ac70df428f1ab24aac195de5444",
+      "metadata": {
+        "ordinal": 386,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be curious about",
+          "object_text": "energy work and chakras",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is curious about"
+        }
+      },
+      "score": 0.2151228592281016,
+      "created_at": "2026-07-06T10:12:44.418513-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2b16ead9-b178-481b-bdb9-15fff4a9da7f",
+      "memory": "User is excited to start learning ggplot2 and creating their own visualizations.",
+      "hash": "b0fed08b4b688eefc99bfdb05331ed88",
+      "metadata": {
+        "ordinal": 60,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited to start learning",
+          "object_text": "ggplot2 and creating their own visualizations",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is excited to start learning"
+        }
+      },
+      "score": 0.21203663984220658,
+      "created_at": "2026-07-06T10:09:50.377647-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8f9d2176-3574-4ab6-bb02-44fc3c654d8e",
+      "memory": "User has been doing yoga at home three times a week.",
+      "hash": "2373372d50a70d3b7a35f42159f71bd0",
+      "metadata": {
+        "ordinal": 500,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "yoga at home three times a week",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.21179226498117254,
+      "created_at": "2026-07-06T10:14:12.601276-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4f866387-e060-4384-9590-9e34d1e1768a",
+      "memory": "User is interested in learning more about social media campaigns.",
+      "hash": "b52f50ae40a95197286a1a5cdd3c03f6",
+      "metadata": {
+        "ordinal": 87,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in learning more about",
+          "object_text": "social media campaigns",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in learning more about"
+        }
+      },
+      "score": 0.21154591585350987,
+      "created_at": "2026-07-06T10:10:29.611168-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e5f3dd23-ef25-427d-bf26-2b8265e4aa0c",
+      "memory": "User's teacher is Mrs. Patel.",
+      "hash": "6bf2eea1e7fd68b51b2c8cd768a1787d",
+      "metadata": {
+        "ordinal": 630,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "Mrs. Patel as their teacher",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.21035248131255202,
+      "created_at": "2026-07-06T10:15:13.547146-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c724a677-c815-4382-99ef-71f9b98048e3",
+      "memory": "User has made some friends in the LINC class, including a guy from Syria who is going through a similar experience.",
+      "hash": "943de295e05913d1aa3eba46b1d02f6b",
+      "metadata": {
+        "ordinal": 631,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has made",
+          "object_text": "some friends in the LINC class, including a guy from Syria who is going through a similar experience",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has made"
+        }
+      },
+      "score": 0.2083642639323736,
+      "created_at": "2026-07-06T10:15:13.549407-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "213806c1-21c7-4b58-be99-ec669516ee51",
+      "memory": "User is not sure if the Data Visualization course is suitable for someone with no prior experience in data visualization.",
+      "hash": "e8686903d7b95a639f7f1bfe4daa0bff",
+      "metadata": {
+        "ordinal": 58,
+        "triple": null,
+        "subject_fallback": "data_visualization_course"
+      },
+      "score": 0.20836354802364254,
+      "created_at": "2026-07-06T10:09:50.372257-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "40caada8-2d33-4dc5-a65c-25583f971e3a",
+      "memory": "User recently turned 32 years old on July 15th.",
+      "hash": "6073ea0f666537bc3d46412d70a92a3b",
+      "metadata": {
+        "ordinal": 53,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "turned",
+          "object_text": "32 years old on July 15th",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "turned"
+        }
+      },
+      "score": 0.20680803474840478,
+      "created_at": "2026-07-06T10:09:50.348902-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ee91a926-edd8-4d16-b0a9-f1c9f69610af",
+      "memory": "User has been doing some yoga and meditation.",
+      "hash": "a25be2c1bde97b1d4a150992c2edc65d",
+      "metadata": {
+        "ordinal": 381,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20645091861183845,
+      "created_at": "2026-07-06T10:12:44.411485-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3af4601a-e43f-44e6-9586-049e31b4b2b2",
+      "memory": "User is planning to clean their bathroom on Sunday.",
+      "hash": "58803ff7265a315e5a0cefca28ff6681",
+      "metadata": {
+        "ordinal": 671,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to clean",
+          "object_text": "their bathroom on Sunday",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to clean"
+        }
+      },
+      "score": 0.20395836710234708,
+      "created_at": "2026-07-06T10:15:36.361570-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6211c69c-86ba-4567-9bcb-75718fef0229",
+      "memory": "User is thinking of organizing their bathroom cabinets this weekend.",
+      "hash": "3c9d130669764536c16140c090e4ddf5",
+      "metadata": {
+        "ordinal": 674,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking organizing",
+          "object_text": "their bathroom cabinets this weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of organizing"
+        }
+      },
+      "score": 0.20252819482393852,
+      "created_at": "2026-07-06T10:15:36.376695-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0ab9e60c-0527-4e6b-9451-03fba903ef5c",
+      "memory": "User recently took a 10-day social media break.",
+      "hash": "3b5f0fa47fb086e871965282ee5e0ac5",
+      "metadata": {
+        "ordinal": 307,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "recently took",
+          "object_text": "a 10-day social media break",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "recently took"
+        }
+      },
+      "score": 0.2021087255517553,
+      "created_at": "2026-07-06T10:12:18.440716-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "87d55dbf-c488-4ad4-8eb7-15faf6496c7b",
+      "memory": "User is curious about how often to water Lily, which is on a tray with pebbles and water.",
+      "hash": "31bd37b31c1ec46b718a66650bf77911",
+      "metadata": {
+        "ordinal": 82,
+        "triple": null,
+        "subject_fallback": "lily"
+      },
+      "score": 0.20204113028500645,
+      "created_at": "2026-07-06T10:10:15.172989-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ed6274bc-bb0a-4263-9356-18c3b29a5051",
+      "memory": "User plans to start by reflecting on their core values and intentions.",
+      "hash": "851a9935c141fe41e9a3cb625033fe22",
+      "metadata": {
+        "ordinal": 387,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to start by reflecting on",
+          "object_text": "their core values and intentions",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "plans to start by reflecting on"
+        }
+      },
+      "score": 0.20191023811117959,
+      "created_at": "2026-07-06T10:12:44.419805-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7ac74256-9e39-4026-a885-e007e68516bf",
+      "memory": "User has been playing guitar for a while.",
+      "hash": "582e02e3a3fae4947b74459ed215d77c",
+      "metadata": {
+        "ordinal": 106,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be playing",
+          "object_text": "guitar for a while",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been playing"
+        }
+      },
+      "score": 0.20187440694587327,
+      "created_at": "2026-07-06T10:10:56.035280-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9cba2c44-6702-4246-bc52-b336e57393ab",
+      "memory": "User finished reading 'The Nightingale' in three weeks.",
+      "hash": "5e9c74dfb1fb6d44e3cd22f7148e37a2",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "finished reading",
+          "object_text": "'The Nightingale' in three weeks",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "finished reading"
+        }
+      },
+      "score": 0.20067816862824772,
+      "created_at": "2026-07-06T10:11:07.948159-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0f4809b1-d91a-4e70-8f44-a97ac83c2a58",
+      "memory": "User is thinking of setting a daily time limit for social media usage.",
+      "hash": "604d5d94204c842ffc7e1086780a47d4",
+      "metadata": {
+        "ordinal": 311,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking setting",
+          "object_text": "a daily time limit for social media usage",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of setting"
+        }
+      },
+      "score": 0.1982497957992438,
+      "created_at": "2026-07-06T10:12:18.456124-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "79712b14-c74a-406f-a34c-04ac6f3f3100",
+      "memory": "User is excited to learn more about Plotly and how it can enhance their data visualization skills.",
+      "hash": "50c1faf2e07552c5baa0fe2ac8e93c23",
+      "metadata": {
+        "ordinal": 62,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited to learn more about",
+          "object_text": "Plotly and how it can enhance their data visualization skills",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is excited to learn more about"
+        }
+      },
+      "score": 0.1979876391392557,
+      "created_at": "2026-07-06T10:09:50.382232-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "92fe5297-83ca-4419-8314-6eeb37b5fe19",
+      "memory": "User's orchid is doing great so far.",
+      "hash": "ad76aa08d269d540884c1ed92a7d3eec",
+      "metadata": {
+        "ordinal": 583,
+        "triple": {
+          "subject_id": "user's_orchid",
+          "predicate_norm": "be doing",
+          "object_text": "great so far",
+          "confidence": 0.85,
+          "subject_raw": "user's orchid",
+          "predicate_raw": "is doing"
+        }
+      },
+      "score": 0.19094170627759915,
+      "created_at": "2026-07-06T10:14:53.730364-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3d77314a-76ce-4f5a-a305-a209f556ae11",
+      "memory": "User was spending at least an hour a day on social media before their 10-day break.",
+      "hash": "992d45cfe5f34e97ffc9b07fa948dec1",
+      "metadata": {
+        "ordinal": 312,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be spending",
+          "object_text": "at least an hour a day on social media before their 10-day break",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "was spending"
+        }
+      },
+      "score": 0.19060191863326986,
+      "created_at": "2026-07-06T10:12:18.458783-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "94a2ead1-cc79-4ca9-9ec0-b6f4df6e51e0",
+      "memory": "User is interested in learning more about how to track conversions on Instagram and Facebook.",
+      "hash": "d44f97c46386c5fc6b09eb70526e40e1",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in learning more about",
+          "object_text": "how to track conversions on Instagram and Facebook",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in learning more about"
+        }
+      },
+      "score": 0.1905905792063416,
+      "created_at": "2026-07-06T10:10:29.633851-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0ae0553c-e30f-4842-bb31-648c86a55f20",
+      "memory": "User is planning to repot their spider plant named Charlotte.",
+      "hash": "c2efcd606f4251a28730f0ccb6cd9ad8",
+      "metadata": {
+        "ordinal": 84,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to repot",
+          "object_text": "their spider plant named Charlotte",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to repot"
+        }
+      },
+      "score": 0.19058900036893178,
+      "created_at": "2026-07-06T10:10:15.176394-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ab104aeb-ba40-4e33-a04e-ddcbf0a399f9",
+      "memory": "User will use the built-in features of social media apps to track their usage and set reminders.",
+      "hash": "424b80aad9a5730e2a211a3a03d0cff2",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will use",
+          "object_text": "the built-in features of social media apps to track their usage and set reminders",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "will use"
+        }
+      },
+      "score": 0.1886064229459783,
+      "created_at": "2026-07-06T10:12:18.465885-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "70e70a62-0a2f-4482-a917-6b64c0696547",
+      "memory": "User is ready to start recording a simple guitar part that captures the mood and atmosphere they are aiming for.",
+      "hash": "0fa1ad5ef8665141bf8c3c13a3787bdb",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be ready to start recording",
+          "object_text": "a simple guitar part that captures the mood and atmosphere they are aiming for",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is ready to start recording"
+        }
+      },
+      "score": 0.1850398466780438,
+      "created_at": "2026-07-06T10:10:56.066608-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6816cae8-d967-45fa-bd67-2bd0fae40abc",
+      "memory": "User thinks creating a soundscape or atmospheric track would be a perfect way to start experimenting with blending acoustic and electronic elements.",
+      "hash": "5eda7ca1103e2a180ec3ef434bdfaea1",
+      "metadata": {
+        "ordinal": 113,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18392631818878474,
+      "created_at": "2026-07-06T10:10:56.061322-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d2a6807f-7ea5-4cb5-9b6f-7989cfaa873a",
+      "memory": "User has been loving the cherry blossom season in Tokyo.",
+      "hash": "bef2d99a4f0faac7f2d39b1d735da7eb",
+      "metadata": {
+        "ordinal": 395,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be loving",
+          "object_text": "the cherry blossom season in Tokyo",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been loving"
+        }
+      },
+      "score": 0.18304390465441384,
+      "created_at": "2026-07-06T10:13:07.043991-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3c1024f0-6a43-4746-8cbd-bef38180da1a",
+      "memory": "User just mastered the chord progression for 'Wonderwall' by Oasis.",
+      "hash": "f882cf458277804c84953fe91da836f4",
+      "metadata": {
+        "ordinal": 107,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "just mastered",
+          "object_text": "the chord progression for 'Wonderwall' by Oasis",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "just mastered"
+        }
+      },
+      "score": 0.18290803472495476,
+      "created_at": "2026-07-06T10:10:56.039779-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "885ef2e9-4956-4ece-81a1-9ab4fc05ae6f",
+      "memory": "User has been reading a lot lately.",
+      "hash": "97d76ff0ff2dd0902838971b5b67e104",
+      "metadata": {
+        "ordinal": 47,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18278030554492575,
+      "created_at": "2026-07-06T10:09:38.825759-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "54649373-c5ad-4865-b537-c31bca822788",
+      "memory": "User has been reflecting on their beliefs a lot lately.",
+      "hash": "61982bc9f3c27639dee2edb982fdd454",
+      "metadata": {
+        "ordinal": 380,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18191268217783105,
+      "created_at": "2026-07-06T10:12:44.409660-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9ecf54e3-e797-414d-86bf-9a49d26e6583",
+      "memory": "User fertilized Freddy once a month ago.",
+      "hash": "36d294f04876d7141a92e12dbdcd6d25",
+      "metadata": {
+        "ordinal": 78,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "fertilized",
+          "object_text": "Freddy once a month ago",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "fertilized"
+        }
+      },
+      "score": 0.1818833433309095,
+      "created_at": "2026-07-06T10:10:15.165167-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "af580b96-48e8-43a4-a447-cdf3483fb6a2",
+      "memory": "User plans to set reminders on their phone to alert them when they've reached their daily limit of 20 minutes.",
+      "hash": "238d169ba3b171c29e9d6afbe16e2d5d",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to set",
+          "object_text": "reminders on their phone to alert them when they've reached their daily limit of 20 minutes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "plans to set"
+        }
+      },
+      "score": 0.18053050951992444,
+      "created_at": "2026-07-06T10:12:18.463499-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cb2008ae-4c36-4552-b524-35562a3f6bfb",
+      "memory": "User likes doing their weekly ritual on Sundays to unwind and recharge for the week ahead.",
+      "hash": "903fed7116c84178c7b8e41d5a0088aa",
+      "metadata": {
+        "ordinal": 676,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17973400343323176,
+      "created_at": "2026-07-06T10:15:36.382474-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a8f4361d-3566-4b31-b8be-ec9f563164bc",
+      "memory": "User has been doing a lot of hiking and camping lately.",
+      "hash": "6a8d96bfba792340eb5e688c4bace936",
+      "metadata": {
+        "ordinal": 103,
+        "triple": null
+      },
+      "score": 0.17892424146402824,
+      "created_at": "2026-07-06T10:10:40.989283-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "51901dd6-02d8-49a6-9527-fb5eb0797954",
+      "memory": "User is interested in the Data Science course on Coursera.",
+      "hash": "4b6cfdcf9b3ea036e61a589578395544",
+      "metadata": {
+        "ordinal": 55,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "the Data Science course on Coursera",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.17880037994215497,
+      "created_at": "2026-07-06T10:09:50.360334-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "36630f65-fe7a-4dc2-8364-81ce007b67ea",
+      "memory": "User is thinking of attending a book club meeting during their 10-day vacation to Hawaii.",
+      "hash": "db09cb2869e539981a69a3ca164b64f2",
+      "metadata": {
+        "ordinal": 50,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking attending",
+          "object_text": "a book club meeting during their 10-day vacation to Hawaii",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of attending"
+        }
+      },
+      "score": 0.1780634661021092,
+      "created_at": "2026-07-06T10:09:38.833450-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8342fd39-b094-4f4e-bdda-290a2f0500b3",
+      "memory": "User plans to start by purging and decluttering the space.",
+      "hash": "53f5cbeaf5ea0363db532371a2ce37e3",
+      "metadata": {
+        "ordinal": 439,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to start by purging and decluttering",
+          "object_text": "the space",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "plans to start by purging and decluttering"
+        }
+      },
+      "score": 0.17697964912402708,
+      "created_at": "2026-07-06T10:13:21.912568-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d495b56a-cada-4084-9892-386f74822944",
+      "memory": "Before the break, user was spending at least an hour a day scrolling through their feeds on Facebook and Instagram.",
+      "hash": "2ca89cfd5efc028c2b39c7399e42a126",
+      "metadata": {
+        "ordinal": 309,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be spending",
+          "object_text": "at least an hour a day scrolling through their feeds on Facebook and Instagram",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "was spending"
+        }
+      },
+      "score": 0.17663986476127422,
+      "created_at": "2026-07-06T10:12:18.449070-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "50cea376-ad60-4bc3-9e8c-20dff94de80c",
+      "memory": "User is still discovering new things about Tokyo.",
+      "hash": "7ab4f7ce0227b0efcb66f0050270420f",
+      "metadata": {
+        "ordinal": 397,
+        "triple": null,
+        "subject_fallback": "tokyo"
+      },
+      "score": 0.17615558081283242,
+      "created_at": "2026-07-06T10:13:07.053708-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8efffe2c-382b-4fc2-b3d4-2cde0a722e2e",
+      "memory": "User received their asylum approval letter on February 20th, 2023.",
+      "hash": "886a5728626be01a008de41cba3f46be",
+      "metadata": {
+        "ordinal": 623,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "received",
+          "object_text": "their asylum approval letter on February 20th, 2023",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "received"
+        }
+      },
+      "score": 0.1760372994395796,
+      "created_at": "2026-07-06T10:15:13.529690-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5737bfbe-3334-477b-8b6c-81531d91c86f",
+      "memory": "User is interested in learning more about how to create effective ad creative for dynamic ads.",
+      "hash": "f5ce29e9e1930f45cea2dc50fc970049",
+      "metadata": {
+        "ordinal": 93,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in learning more about",
+          "object_text": "how to create effective ad creative for dynamic ads",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in learning more about"
+        }
+      },
+      "score": 0.17536758707884337,
+      "created_at": "2026-07-06T10:10:29.640476-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8aab810a-fa9d-4e8a-b91e-c932b3c80ea2",
+      "memory": "User is thinking about getting a few air-purifying plants for their bedroom.",
+      "hash": "6cb7f321d314fe0541fec6e16e9856ee",
+      "metadata": {
+        "ordinal": 589,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking about getting",
+          "object_text": "a few air-purifying plants for their bedroom",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking about getting"
+        }
+      },
+      "score": 0.17484487858184555,
+      "created_at": "2026-07-06T10:14:53.738175-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fa0ae587-0a5e-4528-a391-6154072bcd6e",
+      "memory": "User has a snake plant and a basil plant in the living room.",
+      "hash": "8aeb84c3204e62be2716164d39e43d0c",
+      "metadata": {
+        "ordinal": 587,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "a snake plant and a basil plant in the living room",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.1747737167002589,
+      "created_at": "2026-07-06T10:14:53.735658-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "19265266-3470-4c4a-90aa-775effa3f43f",
+      "memory": "User has been using new accessories since January 20th, including a wireless mouse and a portable charger.",
+      "hash": "ef953728aeb5d64140b3e378bb026f7d",
+      "metadata": {
+        "ordinal": 217,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be using",
+          "object_text": "new accessories since January 20th, including a wireless mouse and a portable charger",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.17226607221277468,
+      "created_at": "2026-07-06T10:11:35.107834-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8f53ac55-1377-421b-acaf-28ad62057f17",
+      "memory": "User just got back from the 'Beach Cleanup' event organized by the 'Environmental Conservation Society' at their local beach today.",
+      "hash": "37a78229b29fb54fc0a1ccb6b6958f2b",
+      "metadata": {
+        "ordinal": 565,
+        "triple": null,
+        "subject_fallback": "environmental_conservation_society"
+      },
+      "score": 0.17217540687876604,
+      "created_at": "2026-07-06T10:14:30.183168-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "512f723d-d3a2-4b7e-9490-7bb85c8756ce",
+      "memory": "User is looking at reviews for a new yoga mat and thinks they might order one this week.",
+      "hash": "dc5e38e9c4a9565c6561467c88e6cb86",
+      "metadata": {
+        "ordinal": 502,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking at reviews for",
+          "object_text": "a new yoga mat",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is looking at reviews for"
+        }
+      },
+      "score": 0.17091423650971457,
+      "created_at": "2026-07-06T10:14:12.608525-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b0d35df2-f92f-4c59-ac33-9b4451a9b3b4",
+      "memory": "User is trying to organize their documents.",
+      "hash": "e2d721fc6f63061bd4985bb579e5b517",
+      "metadata": {
+        "ordinal": 618,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.16994541002287705,
+      "created_at": "2026-07-06T10:15:13.503454-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f0502f83-9867-4afe-aa39-c5f4a68182f3",
+      "memory": "User is thinking of getting new pots for their plants, especially for their basil plant named Basilica.",
+      "hash": "ed69f43e7ffb94af70c2d72ffcc7c68c",
+      "metadata": {
+        "ordinal": 83,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking getting",
+          "object_text": "new pots for their plants, especially for their basil plant named Basilica",
+          "confidence": 0.8,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of getting"
+        }
+      },
+      "score": 0.16964487134705253,
+      "created_at": "2026-07-06T10:10:15.174679-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "401b3cee-6177-4bd1-9380-b922cb52dd97",
+      "memory": "User has been snorkeling a lot in the past year.",
+      "hash": "d775594fb8e59e83e59f21bd5c7d6d66",
+      "metadata": {
+        "ordinal": 506,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be snorkeling",
+          "object_text": "a lot in the past year",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been snorkeling"
+        }
+      },
+      "score": 0.16941886495939296,
+      "created_at": "2026-07-06T10:14:12.619101-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3e757bd2-5522-46c5-bbcc-9ccddeac9730",
+      "memory": "User has been trying to stay informed about current events and politics through their daily commute by reading The Economist magazine.",
+      "hash": "97afc67d5c92d65b0856f22951f4c76b",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be trying to stay informed about",
+          "object_text": "current events and politics through their daily commute by reading The Economist magazine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been trying to stay informed about"
+        }
+      },
+      "score": 0.16716218677414035,
+      "created_at": "2026-07-06T10:09:09.899045-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "299c9766-66e7-46aa-a465-f92d15f88c08",
+      "memory": "User is curious to know if there are any book clubs or reading groups on Oahu that they could join during their trip.",
+      "hash": "b94e9c7f0aabb7abfa6abdc76874bbf4",
+      "metadata": {
+        "ordinal": 49,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be curious to know if there be",
+          "object_text": "any book clubs or reading groups on Oahu that they could join during their trip",
+          "confidence": 0.8,
+          "subject_raw": "User",
+          "predicate_raw": "is curious to know if there are"
+        }
+      },
+      "score": 0.16588545724973633,
+      "created_at": "2026-07-06T10:09:38.831154-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2cb61191-805c-4df9-9f74-c8dc77a13293",
+      "memory": "User is thinking of reorganizing their linen closet this weekend.",
+      "hash": "37497382aaafeccee20b99c1eeda0c3f",
+      "metadata": {
+        "ordinal": 677,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking reorganizing",
+          "object_text": "their linen closet this weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of reorganizing"
+        }
+      },
+      "score": 0.16577925734914786,
+      "created_at": "2026-07-06T10:15:36.385453-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4f642bc2-25c6-4b23-8ac3-8865e4150385",
+      "memory": "User is interested in checking out festivals or events happening in Nikko from May 15th to May 28th.",
+      "hash": "5d1df75873586936cfc09bb9c9534085",
+      "metadata": {
+        "ordinal": 399,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in checking out",
+          "object_text": "festivals or events happening in Nikko from May 15th to May 28th",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in checking out"
+        }
+      },
+      "score": 0.1646943632624926,
+      "created_at": "2026-07-06T10:13:07.061866-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a0535a21-52f5-4812-aecb-d8e3ee50b64a",
+      "memory": "User has been keeping their orchid on the east-facing windowsill in the living room.",
+      "hash": "469d059f5ebc6c92cfe1ff57bf2b1243",
+      "metadata": {
+        "ordinal": 584,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be keeping",
+          "object_text": "their orchid on the east-facing windowsill in the living room",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has been keeping"
+        }
+      },
+      "score": 0.16439048843487591,
+      "created_at": "2026-07-06T10:14:53.731689-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7f07e4a5-1f5b-41be-aa00-e175ac426831",
+      "memory": "User believes their age could be an advantage in staying competitive in the job market.",
+      "hash": "df33d2d398ca3415581663e40ff36631",
+      "metadata": {
+        "ordinal": 54,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.16378154651246457,
+      "created_at": "2026-07-06T10:09:50.355148-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6db564f1-c338-4339-bcdc-7ef61b27e38f",
+      "memory": "User is drawn to vibrant colors.",
+      "hash": "7b9ea91cb3e0af819410362d1aa1676c",
+      "metadata": {
+        "ordinal": 436,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.16327905184364733,
+      "created_at": "2026-07-06T10:13:21.904870-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9e4a26a6-f8b7-4f44-a539-7ffdaa7e8148",
+      "memory": "User just got a new orchid last Saturday from the gardening store.",
+      "hash": "0a7e19af9d6567553f31b81fd2a445ef",
+      "metadata": {
+        "ordinal": 582,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "got",
+          "object_text": "a new orchid last Saturday from the gardening store",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "got"
+        }
+      },
+      "score": 0.16315122218802294,
+      "created_at": "2026-07-06T10:14:53.728575-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "451c446e-2a60-46ab-a919-09c1aaba18dd",
+      "memory": "User is interested in learning more about e-waste recycling.",
+      "hash": "a9f3a986b885943d50889f3ef39754d6",
+      "metadata": {
+        "ordinal": 569,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in learning more about",
+          "object_text": "e-waste recycling",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is interested in learning more about"
+        }
+      },
+      "score": 0.16303969627532372,
+      "created_at": "2026-07-06T10:14:30.203094-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "75269a4c-e5ce-480d-8799-f822edf66f25",
+      "memory": "User helped their friend create content for her Instagram and Facebook pages to promote the brand.",
+      "hash": "72ead67042ae6271bd2fbb66eb4c0dd9",
+      "metadata": {
+        "ordinal": 89,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "helped",
+          "object_text": "their friend create content for her Instagram and Facebook pages to promote the brand",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "helped"
+        }
+      },
+      "score": 0.16303414747059203,
+      "created_at": "2026-07-06T10:10:29.624022-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9bfc9b0a-8975-444c-aac2-9fe60ceaa7d8",
+      "memory": "User will invest in some multi-functional furniture.",
+      "hash": "90834ccb471bb5bdb542d7cababa9261",
+      "metadata": {
+        "ordinal": 441,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will invest in",
+          "object_text": "some multi-functional furniture",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "will invest in"
+        }
+      },
+      "score": 0.16232832297265926,
+      "created_at": "2026-07-06T10:13:21.917424-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4c09b024-a79d-4770-a9e8-ca0e1b2a8e37",
+      "memory": "User likes to make the most of their Sunday by cleaning.",
+      "hash": "89f8457d01a4cec8c3b49337f0ba737c",
+      "metadata": {
+        "ordinal": 673,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "likes to make most",
+          "object_text": "their Sunday by cleaning",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "likes to make the most of"
+        }
+      },
+      "score": 0.16194233012709297,
+      "created_at": "2026-07-06T10:15:36.372886-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a527d850-591f-40fe-929d-75f55fe524ee",
+      "memory": "User has been watering Freddy every other day.",
+      "hash": "66596bed6e4af672a603bb91d74876fb",
+      "metadata": {
+        "ordinal": 71,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be watering",
+          "object_text": "Freddy every other day",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been watering"
+        }
+      },
+      "score": 0.16118278570168673,
+      "created_at": "2026-07-06T10:10:15.147822-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "10ef9824-be77-4664-89cf-829e5cad8dc9",
+      "memory": "User thinks they will start with a daily limit of 20 minutes for social media usage.",
+      "hash": "ff9bc515f4fa3b0e12cee593dedf7eb0",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will start with",
+          "object_text": "a daily limit of 20 minutes for social media usage",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they will start with"
+        }
+      },
+      "score": 0.1607717520564162,
+      "created_at": "2026-07-06T10:12:18.461300-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "392b3929-fa9b-4bb4-8202-5f09fbef6cd0",
+      "memory": "User will place a sticky note on their computer to serve as a physical reminder to take breaks from social media throughout the day.",
+      "hash": "27db98cd7a37ceb58ff943af6c8b6559",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will place",
+          "object_text": "a sticky note on their computer to serve as a physical reminder to take breaks from social media throughout the day",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "will place"
+        }
+      },
+      "score": 0.16017839964086555,
+      "created_at": "2026-07-06T10:12:18.468334-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "165ac037-1c3c-474c-bb72-a51d5df24605",
+      "memory": "User finds the tips provided by the assistant helpful.",
+      "hash": "48433cecd0e22813df8fabe93813638c",
+      "metadata": {
+        "ordinal": 65,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "finds tips provided by",
+          "object_text": "the assistant helpful",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "finds the tips provided by"
+        }
+      },
+      "score": 0.15964574059832537,
+      "created_at": "2026-07-06T10:09:55.181760-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a3347d0f-9a0b-4c53-98d1-4dc3df27509a",
+      "memory": "User has been listening to The Daily from The New York Times during their workout sessions.",
+      "hash": "f67186db911c60c4bc4f079fff5e2c31",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "The Daily from The New York Times during their workout sessions",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.15841647061051772,
+      "created_at": "2026-07-06T10:09:09.900309-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2797a82a-e42a-4351-820f-e780db7b4f0b",
+      "memory": "User has been listening to a lot of indie folk and singer-songwriter music lately.",
+      "hash": "4e408d8423f5caa7077715e86c8f3bdc",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "a lot of indie folk and singer-songwriter music lately",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.15376296645979418,
+      "created_at": "2026-07-06T10:10:56.053023-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d65a97ee-34ac-486b-bed6-b1d3b6240668",
+      "memory": "User needs to return their mom's pearl earrings soon.",
+      "hash": "d274ac4303e506984f9a50da52a0a3b5",
+      "metadata": {
+        "ordinal": 325,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "needs to return",
+          "object_text": "their mom's pearl earrings soon",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "needs to return"
+        }
+      },
+      "score": 0.15316442471158548,
+      "created_at": "2026-07-06T10:12:29.760911-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ffecc69a-d995-49bd-a0ca-df1fbe480cd5",
+      "memory": "User is looking to manage their screen time better.",
+      "hash": "18bf81cf59bf21f42ba23ebf47679b64",
+      "metadata": {
+        "ordinal": 306,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.15299903836779183,
+      "created_at": "2026-07-06T10:12:18.433156-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1751e152-1973-456a-af86-692127549097",
+      "memory": "User has a snake plant named Samantha.",
+      "hash": "700e0815159b10e2997c1d53db467050",
+      "metadata": {
+        "ordinal": 69,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "a snake plant named Samantha",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.15223242871388376,
+      "created_at": "2026-07-06T10:10:15.140775-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c5076275-0ba8-4c2c-b344-65e4a537a5cd",
+      "memory": "User loves the idea of taking breaks and making it a self-care day.",
+      "hash": "383b828826ea0ecc48dfbc80e472cfc8",
+      "metadata": {
+        "ordinal": 675,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.15223013997562465,
+      "created_at": "2026-07-06T10:15:36.379863-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "65e7990e-bd7d-43c7-b3c6-0190a92f7efd",
+      "memory": "User thinks they will prioritize other activities during their trip.",
+      "hash": "808b471b479d6cee3da5fc1cd5fa9430",
+      "metadata": {
+        "ordinal": 51,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will prioritize",
+          "object_text": "other activities during their trip",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they will prioritize"
+        }
+      },
+      "score": 0.1519089471594021,
+      "created_at": "2026-07-06T10:09:38.835869-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b757c18e-ef70-4e62-b163-3623e93d3cb6",
+      "memory": "User realized they were wasting a lot of time on social media.",
+      "hash": "17690e83bc05fd121cc1324bef815b0c",
+      "metadata": {
+        "ordinal": 308,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "realized",
+          "object_text": "they were wasting a lot of time on social media",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "realized"
+        }
+      },
+      "score": 0.15102484279515715,
+      "created_at": "2026-07-06T10:12:18.444633-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "34fbd18c-2da1-403e-b27b-561406fe1079",
+      "memory": "User will try to keep it simple and not overthink it too much.",
+      "hash": "06ba82fe46c4aa09cb852d96fca77c07",
+      "metadata": {
+        "ordinal": 117,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will try to keep",
+          "object_text": "it simple and not overthink it too much",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "will try to keep"
+        }
+      },
+      "score": 0.1494174761244679,
+      "created_at": "2026-07-06T10:10:56.071449-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "04ec2794-7893-4939-9b51-4a777f41c399",
+      "memory": "User has been experimenting with audiobooks lately, especially for their daily commute.",
+      "hash": "8b44fc7c20938f67feb8f25285a4cc89",
+      "metadata": {
+        "ordinal": 124,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be experimenting with",
+          "object_text": "audiobooks lately, especially for their daily commute",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been experimenting with"
+        }
+      },
+      "score": 0.14876482376316383,
+      "created_at": "2026-07-06T10:11:07.971126-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "973958a6-b604-4373-8290-0d07f4f51236",
+      "memory": "User's goal is to reach fluency in English.",
+      "hash": "233baa4d8de1562890ce0979eab90caa",
+      "metadata": {
+        "ordinal": 632,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "goal be to reach",
+          "object_text": "fluency in English",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "goal is to reach"
+        }
+      },
+      "score": 0.14844445100483245,
+      "created_at": "2026-07-06T10:15:13.551376-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "51d2f1ef-716e-4866-80cb-962e9e6c78b6",
+      "memory": "User is not sure if the Data Science course is suitable for someone with no prior experience in the field.",
+      "hash": "49f62f7b20d76018528a0d073432281e",
+      "metadata": {
+        "ordinal": 56,
+        "triple": null,
+        "subject_fallback": "data_science_course"
+      },
+      "score": 0.14839828976784453,
+      "created_at": "2026-07-06T10:09:50.365513-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": [
+    {
+      "id": "4412a913-9fe6-40c6-82b0-c94859c4c2d4",
+      "memory": "User has just finished their 5th project since starting painting classes.",
+      "hash": "a62ef0880aa8e51b6c9c595d94d82968",
+      "metadata": {
+        "ordinal": 432,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has finished",
+          "object_text": "5th project since starting painting classes",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has finished"
+        }
+      },
+      "score": 0.5240200572657857,
+      "created_at": "2026-07-06T10:13:21.889087-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "83da86ad-9385-4c43-ba8d-bea06995fdfc",
+      "memory": "User is looking for inspiration for their next painting project.",
+      "hash": "d9041dd2066b6e8097d8bfd0986515bf",
+      "metadata": {
+        "ordinal": 431,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.3625277780378379,
+      "created_at": "2026-07-06T10:13:21.882796-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1aa5e889-21f7-41b2-9f23-403b209c6e59",
+      "memory": "User has been taking English classes at the LINC program since November 2020.",
+      "hash": "c81e9379b9eab1646dd96e6a8b08ab81",
+      "metadata": {
+        "ordinal": 628,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be taking",
+          "object_text": "English classes at the LINC program since November 2020",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been taking"
+        }
+      },
+      "score": 0.3268327128662981,
+      "created_at": "2026-07-06T10:15:13.542911-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a591b390-033c-479d-ab5f-74d5b63ecd9c",
+      "memory": "The user asked for answers to the questions one by one.",
+      "hash": "22081723488128d5122787ae6c6017bc",
+      "metadata": {
+        "ordinal": 478,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "asked for",
+          "object_text": "answers to the questions one by one",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked for"
+        }
+      },
+      "score": 0.28716303797718323,
+      "created_at": "2026-07-06T10:13:37.371286-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e7852042-77d3-489b-88e9-a33a110b8ef4",
+      "memory": "User is thinking of taking an online course to upgrade their skills and stay competitive in the job market.",
+      "hash": "bf16f0147c40ea629dd233a30b59dfc0",
+      "metadata": {
+        "ordinal": 52,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.25687686234636875,
+      "created_at": "2026-07-06T10:09:50.342292-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2eb8f98d-0b5c-42ef-976c-694cd6100a94",
+      "memory": "User has been in Tokyo for 9 months.",
+      "hash": "a78efb70840e4ad8be643aba0f896937",
+      "metadata": {
+        "ordinal": 396,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be in",
+          "object_text": "Tokyo for 9 months",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been in"
+        }
+      },
+      "score": 0.24503851273599556,
+      "created_at": "2026-07-06T10:13:07.048457-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8874c2c2-c37b-4371-a4c5-402b79e02496",
+      "memory": "User has been trying to stay engaged with current events through various media channels, including podcasts, online articles, and magazines.",
+      "hash": "eac60b7d982a90734fea18df845cd0f4",
+      "metadata": {
+        "ordinal": 5,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.24101935834377125,
+      "created_at": "2026-07-06T10:09:09.901488-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "57582bc5-4c7f-45b9-b87b-65daabe74ab3",
+      "memory": "User is currently at level 5 in the LINC program.",
+      "hash": "ec18b2fff7230fb800c4b76bc7b9408a",
+      "metadata": {
+        "ordinal": 629,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be currently at",
+          "object_text": "level 5 in the LINC program",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is currently at"
+        }
+      },
+      "score": 0.24047137014134817,
+      "created_at": "2026-07-06T10:15:13.545081-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "427dbca7-6eaa-4f5c-9466-f16a39c6feee",
+      "memory": "User is thinking of enrolling in a language course to improve their English skills.",
+      "hash": "204091975dbea66b626ef2b5febcfc7b",
+      "metadata": {
+        "ordinal": 626,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking enrolling in",
+          "object_text": "a language course to improve their English skills",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of enrolling in"
+        }
+      },
+      "score": 0.23991064649521956,
+      "created_at": "2026-07-06T10:15:13.538161-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "eddf79bd-6312-4377-ac89-3db694c20d99",
+      "memory": "User likes the idea of using a limited palette.",
+      "hash": "1cc4ed21d8353dd0caf52734f85c8127",
+      "metadata": {
+        "ordinal": 435,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23792801708086872,
+      "created_at": "2026-07-06T10:13:21.902048-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "41a3fc45-0bea-4101-8c7b-579858ef94ad",
+      "memory": "The user requested more answers without repetition.",
+      "hash": "cca76d8fc9cba6899f5f165afe4098c4",
+      "metadata": {
+        "ordinal": 479,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "requested",
+          "object_text": "more answers without repetition",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "requested"
+        }
+      },
+      "score": 0.23697061491319854,
+      "created_at": "2026-07-06T10:13:37.374270-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "05356c61-b7a1-4bbc-ae28-026f103753f1",
+      "memory": "User is looking to learn more about music production and recording.",
+      "hash": "ec98ac7a341759dfbf2f9178fdfae77e",
+      "metadata": {
+        "ordinal": 105,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23680745267007378,
+      "created_at": "2026-07-06T10:10:56.028117-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "638f6859-652f-4d95-bdf9-7551dd549fd8",
+      "memory": "User is interested in the Data Visualization course on Coursera.",
+      "hash": "d4bd3159956a0b6f666e626b81b6800e",
+      "metadata": {
+        "ordinal": 57,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "the Data Visualization course on Coursera",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.23497808041848028,
+      "created_at": "2026-07-06T10:09:50.369298-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7706fa1d-da31-4584-86c9-b1fcd4a6e902",
+      "memory": "User is planning to run a half-marathon in three months.",
+      "hash": "25728b0db7d3ede040c772aba10c1167",
+      "metadata": {
+        "ordinal": 497,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to run",
+          "object_text": "a half-marathon in three months",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to run"
+        }
+      },
+      "score": 0.23469025235800733,
+      "created_at": "2026-07-06T10:14:12.584521-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7d3a905c-8035-433f-91da-b312da1200f0",
+      "memory": "User just started their 10-day vacation to Hawaii on August 18, 2023.",
+      "hash": "1d2689770a89ca494cc594b00a53b53f",
+      "metadata": {
+        "ordinal": 42,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "started",
+          "object_text": "10-day vacation to Hawaii on August 18, 2023",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "started"
+        }
+      },
+      "score": 0.23135212014029152,
+      "created_at": "2026-07-06T10:09:38.807901-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5038b091-a965-47d4-a1d1-ab1a88845595",
+      "memory": "User would like to enroll in a college or university program eventually.",
+      "hash": "1f3c0ddadc9d7c2133eff6eb21d99df9",
+      "metadata": {
+        "ordinal": 633,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "would like to enroll in",
+          "object_text": "a college or university program eventually",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "would like to enroll in"
+        }
+      },
+      "score": 0.2302162112262958,
+      "created_at": "2026-07-06T10:15:13.553343-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "003b1622-1f80-493b-9448-086ed6da3f7c",
+      "memory": "User thinks they will start with some online courses and YouTube tutorials to get a solid foundation in music production.",
+      "hash": "a9ce935eebe55c4e14b09550e8577200",
+      "metadata": {
+        "ordinal": 108,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.22888284112973567,
+      "created_at": "2026-07-06T10:10:56.045225-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4c1b718c-f125-4609-a41a-ff877474828c",
+      "memory": "The user is preparing for a Microsoft Power Automate interview.",
+      "hash": "2e2d39e7b35be965f74ab407627eb0ec",
+      "metadata": {
+        "ordinal": 476,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be preparing for",
+          "object_text": "a Microsoft Power Automate interview",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is preparing for"
+        }
+      },
+      "score": 0.2274842060125965,
+      "created_at": "2026-07-06T10:13:37.364023-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a81c8bfa-ba09-444a-b175-86c0316beb13",
+      "memory": "User thinks a bold and bright palette could create a dynamic piece.",
+      "hash": "f0c4b2077ebd61625c65ecb26266bb4a",
+      "metadata": {
+        "ordinal": 437,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.22485158149644946,
+      "created_at": "2026-07-06T10:13:21.907668-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "50ca7196-915a-49bb-b3c1-76c30b2a99d8",
+      "memory": "User is feeling accomplished.",
+      "hash": "98bffc01ef13648bd571d284f4f13ce3",
+      "metadata": {
+        "ordinal": 433,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.22466209205064278,
+      "created_at": "2026-07-06T10:13:21.893139-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4137d2d8-733c-4568-ae00-5156c52bda5b",
+      "memory": "User is thinking of setting up a small studio in their spare bedroom.",
+      "hash": "8612004a366c91845bcbfbdbd25d4268",
+      "metadata": {
+        "ordinal": 438,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking setting up",
+          "object_text": "a small studio in their spare bedroom",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of setting up"
+        }
+      },
+      "score": 0.22075359827917465,
+      "created_at": "2026-07-06T10:13:21.910314-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9a022b9f-fc41-4fb9-81e2-cab65a17d9a8",
+      "memory": "User believes their age could be an advantage in their learning journey, bringing more maturity and focus.",
+      "hash": "8370a13dffb00ace1f9f9eb0450d85d6",
+      "metadata": {
+        "ordinal": 59,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2200128313745755,
+      "created_at": "2026-07-06T10:09:50.375044-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8f1e1b3d-59ed-4d4c-9662-44b157b98146",
+      "memory": "User likes the idea of exploring abstract expressions.",
+      "hash": "bee5c9d0a7048d71f8b6a1cd9863c973",
+      "metadata": {
+        "ordinal": 434,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.215677298813866,
+      "created_at": "2026-07-06T10:13:21.898536-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "95f39cd6-b081-4896-a38d-5830f08284b8",
+      "memory": "User is curious about energy work and chakras.",
+      "hash": "13718ac70df428f1ab24aac195de5444",
+      "metadata": {
+        "ordinal": 386,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be curious about",
+          "object_text": "energy work and chakras",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is curious about"
+        }
+      },
+      "score": 0.2151228592281016,
+      "created_at": "2026-07-06T10:12:44.418513-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2b16ead9-b178-481b-bdb9-15fff4a9da7f",
+      "memory": "User is excited to start learning ggplot2 and creating their own visualizations.",
+      "hash": "b0fed08b4b688eefc99bfdb05331ed88",
+      "metadata": {
+        "ordinal": 60,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited to start learning",
+          "object_text": "ggplot2 and creating their own visualizations",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is excited to start learning"
+        }
+      },
+      "score": 0.21203663984220658,
+      "created_at": "2026-07-06T10:09:50.377647-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8f9d2176-3574-4ab6-bb02-44fc3c654d8e",
+      "memory": "User has been doing yoga at home three times a week.",
+      "hash": "2373372d50a70d3b7a35f42159f71bd0",
+      "metadata": {
+        "ordinal": 500,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "yoga at home three times a week",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.21179226498117254,
+      "created_at": "2026-07-06T10:14:12.601276-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e5f3dd23-ef25-427d-bf26-2b8265e4aa0c",
+      "memory": "User's teacher is Mrs. Patel.",
+      "hash": "6bf2eea1e7fd68b51b2c8cd768a1787d",
+      "metadata": {
+        "ordinal": 630,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "Mrs. Patel as their teacher",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.21035248131255202,
+      "created_at": "2026-07-06T10:15:13.547146-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c724a677-c815-4382-99ef-71f9b98048e3",
+      "memory": "User has made some friends in the LINC class, including a guy from Syria who is going through a similar experience.",
+      "hash": "943de295e05913d1aa3eba46b1d02f6b",
+      "metadata": {
+        "ordinal": 631,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has made",
+          "object_text": "some friends in the LINC class, including a guy from Syria who is going through a similar experience",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has made"
+        }
+      },
+      "score": 0.2083642639323736,
+      "created_at": "2026-07-06T10:15:13.549407-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "213806c1-21c7-4b58-be99-ec669516ee51",
+      "memory": "User is not sure if the Data Visualization course is suitable for someone with no prior experience in data visualization.",
+      "hash": "e8686903d7b95a639f7f1bfe4daa0bff",
+      "metadata": {
+        "ordinal": 58,
+        "triple": null,
+        "subject_fallback": "data_visualization_course"
+      },
+      "score": 0.20836354802364254,
+      "created_at": "2026-07-06T10:09:50.372257-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "40caada8-2d33-4dc5-a65c-25583f971e3a",
+      "memory": "User recently turned 32 years old on July 15th.",
+      "hash": "6073ea0f666537bc3d46412d70a92a3b",
+      "metadata": {
+        "ordinal": 53,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "turned",
+          "object_text": "32 years old on July 15th",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "turned"
+        }
+      },
+      "score": 0.20680803474840478,
+      "created_at": "2026-07-06T10:09:50.348902-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ee91a926-edd8-4d16-b0a9-f1c9f69610af",
+      "memory": "User has been doing some yoga and meditation.",
+      "hash": "a25be2c1bde97b1d4a150992c2edc65d",
+      "metadata": {
+        "ordinal": 381,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20645091861183845,
+      "created_at": "2026-07-06T10:12:44.411485-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3af4601a-e43f-44e6-9586-049e31b4b2b2",
+      "memory": "User is planning to clean their bathroom on Sunday.",
+      "hash": "58803ff7265a315e5a0cefca28ff6681",
+      "metadata": {
+        "ordinal": 671,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to clean",
+          "object_text": "their bathroom on Sunday",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to clean"
+        }
+      },
+      "score": 0.20395836710234708,
+      "created_at": "2026-07-06T10:15:36.361570-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6211c69c-86ba-4567-9bcb-75718fef0229",
+      "memory": "User is thinking of organizing their bathroom cabinets this weekend.",
+      "hash": "3c9d130669764536c16140c090e4ddf5",
+      "metadata": {
+        "ordinal": 674,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking organizing",
+          "object_text": "their bathroom cabinets this weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of organizing"
+        }
+      },
+      "score": 0.20252819482393852,
+      "created_at": "2026-07-06T10:15:36.376695-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0ab9e60c-0527-4e6b-9451-03fba903ef5c",
+      "memory": "User recently took a 10-day social media break.",
+      "hash": "3b5f0fa47fb086e871965282ee5e0ac5",
+      "metadata": {
+        "ordinal": 307,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "recently took",
+          "object_text": "a 10-day social media break",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "recently took"
+        }
+      },
+      "score": 0.2021087255517553,
+      "created_at": "2026-07-06T10:12:18.440716-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "87d55dbf-c488-4ad4-8eb7-15faf6496c7b",
+      "memory": "User is curious about how often to water Lily, which is on a tray with pebbles and water.",
+      "hash": "31bd37b31c1ec46b718a66650bf77911",
+      "metadata": {
+        "ordinal": 82,
+        "triple": null,
+        "subject_fallback": "lily"
+      },
+      "score": 0.20204113028500645,
+      "created_at": "2026-07-06T10:10:15.172989-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ed6274bc-bb0a-4263-9356-18c3b29a5051",
+      "memory": "User plans to start by reflecting on their core values and intentions.",
+      "hash": "851a9935c141fe41e9a3cb625033fe22",
+      "metadata": {
+        "ordinal": 387,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to start by reflecting on",
+          "object_text": "their core values and intentions",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "plans to start by reflecting on"
+        }
+      },
+      "score": 0.20191023811117959,
+      "created_at": "2026-07-06T10:12:44.419805-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7ac74256-9e39-4026-a885-e007e68516bf",
+      "memory": "User has been playing guitar for a while.",
+      "hash": "582e02e3a3fae4947b74459ed215d77c",
+      "metadata": {
+        "ordinal": 106,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be playing",
+          "object_text": "guitar for a while",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been playing"
+        }
+      },
+      "score": 0.20187440694587327,
+      "created_at": "2026-07-06T10:10:56.035280-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9cba2c44-6702-4246-bc52-b336e57393ab",
+      "memory": "User finished reading 'The Nightingale' in three weeks.",
+      "hash": "5e9c74dfb1fb6d44e3cd22f7148e37a2",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "finished reading",
+          "object_text": "'The Nightingale' in three weeks",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "finished reading"
+        }
+      },
+      "score": 0.20067816862824772,
+      "created_at": "2026-07-06T10:11:07.948159-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0f4809b1-d91a-4e70-8f44-a97ac83c2a58",
+      "memory": "User is thinking of setting a daily time limit for social media usage.",
+      "hash": "604d5d94204c842ffc7e1086780a47d4",
+      "metadata": {
+        "ordinal": 311,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking setting",
+          "object_text": "a daily time limit for social media usage",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of setting"
+        }
+      },
+      "score": 0.1982497957992438,
+      "created_at": "2026-07-06T10:12:18.456124-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "79712b14-c74a-406f-a34c-04ac6f3f3100",
+      "memory": "User is excited to learn more about Plotly and how it can enhance their data visualization skills.",
+      "hash": "50c1faf2e07552c5baa0fe2ac8e93c23",
+      "metadata": {
+        "ordinal": 62,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited to learn more about",
+          "object_text": "Plotly and how it can enhance their data visualization skills",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is excited to learn more about"
+        }
+      },
+      "score": 0.1979876391392557,
+      "created_at": "2026-07-06T10:09:50.382232-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "92fe5297-83ca-4419-8314-6eeb37b5fe19",
+      "memory": "User's orchid is doing great so far.",
+      "hash": "ad76aa08d269d540884c1ed92a7d3eec",
+      "metadata": {
+        "ordinal": 583,
+        "triple": {
+          "subject_id": "user's_orchid",
+          "predicate_norm": "be doing",
+          "object_text": "great so far",
+          "confidence": 0.85,
+          "subject_raw": "user's orchid",
+          "predicate_raw": "is doing"
+        }
+      },
+      "score": 0.19094170627759915,
+      "created_at": "2026-07-06T10:14:53.730364-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3d77314a-76ce-4f5a-a305-a209f556ae11",
+      "memory": "User was spending at least an hour a day on social media before their 10-day break.",
+      "hash": "992d45cfe5f34e97ffc9b07fa948dec1",
+      "metadata": {
+        "ordinal": 312,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be spending",
+          "object_text": "at least an hour a day on social media before their 10-day break",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "was spending"
+        }
+      },
+      "score": 0.19060191863326986,
+      "created_at": "2026-07-06T10:12:18.458783-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0ae0553c-e30f-4842-bb31-648c86a55f20",
+      "memory": "User is planning to repot their spider plant named Charlotte.",
+      "hash": "c2efcd606f4251a28730f0ccb6cd9ad8",
+      "metadata": {
+        "ordinal": 84,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to repot",
+          "object_text": "their spider plant named Charlotte",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to repot"
+        }
+      },
+      "score": 0.19058900036893178,
+      "created_at": "2026-07-06T10:10:15.176394-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ab104aeb-ba40-4e33-a04e-ddcbf0a399f9",
+      "memory": "User will use the built-in features of social media apps to track their usage and set reminders.",
+      "hash": "424b80aad9a5730e2a211a3a03d0cff2",
+      "metadata": {
+        "ordinal": 315,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will use",
+          "object_text": "the built-in features of social media apps to track their usage and set reminders",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "will use"
+        }
+      },
+      "score": 0.1886064229459783,
+      "created_at": "2026-07-06T10:12:18.465885-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "70e70a62-0a2f-4482-a917-6b64c0696547",
+      "memory": "User is ready to start recording a simple guitar part that captures the mood and atmosphere they are aiming for.",
+      "hash": "0fa1ad5ef8665141bf8c3c13a3787bdb",
+      "metadata": {
+        "ordinal": 115,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be ready to start recording",
+          "object_text": "a simple guitar part that captures the mood and atmosphere they are aiming for",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is ready to start recording"
+        }
+      },
+      "score": 0.1850398466780438,
+      "created_at": "2026-07-06T10:10:56.066608-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6816cae8-d967-45fa-bd67-2bd0fae40abc",
+      "memory": "User thinks creating a soundscape or atmospheric track would be a perfect way to start experimenting with blending acoustic and electronic elements.",
+      "hash": "5eda7ca1103e2a180ec3ef434bdfaea1",
+      "metadata": {
+        "ordinal": 113,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18392631818878474,
+      "created_at": "2026-07-06T10:10:56.061322-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d2a6807f-7ea5-4cb5-9b6f-7989cfaa873a",
+      "memory": "User has been loving the cherry blossom season in Tokyo.",
+      "hash": "bef2d99a4f0faac7f2d39b1d735da7eb",
+      "metadata": {
+        "ordinal": 395,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be loving",
+          "object_text": "the cherry blossom season in Tokyo",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been loving"
+        }
+      },
+      "score": 0.18304390465441384,
+      "created_at": "2026-07-06T10:13:07.043991-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3c1024f0-6a43-4746-8cbd-bef38180da1a",
+      "memory": "User just mastered the chord progression for 'Wonderwall' by Oasis.",
+      "hash": "f882cf458277804c84953fe91da836f4",
+      "metadata": {
+        "ordinal": 107,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "just mastered",
+          "object_text": "the chord progression for 'Wonderwall' by Oasis",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "just mastered"
+        }
+      },
+      "score": 0.18290803472495476,
+      "created_at": "2026-07-06T10:10:56.039779-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "885ef2e9-4956-4ece-81a1-9ab4fc05ae6f",
+      "memory": "User has been reading a lot lately.",
+      "hash": "97d76ff0ff2dd0902838971b5b67e104",
+      "metadata": {
+        "ordinal": 47,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18278030554492575,
+      "created_at": "2026-07-06T10:09:38.825759-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "54649373-c5ad-4865-b537-c31bca822788",
+      "memory": "User has been reflecting on their beliefs a lot lately.",
+      "hash": "61982bc9f3c27639dee2edb982fdd454",
+      "metadata": {
+        "ordinal": 380,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18191268217783105,
+      "created_at": "2026-07-06T10:12:44.409660-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9ecf54e3-e797-414d-86bf-9a49d26e6583",
+      "memory": "User fertilized Freddy once a month ago.",
+      "hash": "36d294f04876d7141a92e12dbdcd6d25",
+      "metadata": {
+        "ordinal": 78,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "fertilized",
+          "object_text": "Freddy once a month ago",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "fertilized"
+        }
+      },
+      "score": 0.1818833433309095,
+      "created_at": "2026-07-06T10:10:15.165167-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "af580b96-48e8-43a4-a447-cdf3483fb6a2",
+      "memory": "User plans to set reminders on their phone to alert them when they've reached their daily limit of 20 minutes.",
+      "hash": "238d169ba3b171c29e9d6afbe16e2d5d",
+      "metadata": {
+        "ordinal": 314,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to set",
+          "object_text": "reminders on their phone to alert them when they've reached their daily limit of 20 minutes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "plans to set"
+        }
+      },
+      "score": 0.18053050951992444,
+      "created_at": "2026-07-06T10:12:18.463499-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cb2008ae-4c36-4552-b524-35562a3f6bfb",
+      "memory": "User likes doing their weekly ritual on Sundays to unwind and recharge for the week ahead.",
+      "hash": "903fed7116c84178c7b8e41d5a0088aa",
+      "metadata": {
+        "ordinal": 676,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17973400343323176,
+      "created_at": "2026-07-06T10:15:36.382474-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a8f4361d-3566-4b31-b8be-ec9f563164bc",
+      "memory": "User has been doing a lot of hiking and camping lately.",
+      "hash": "6a8d96bfba792340eb5e688c4bace936",
+      "metadata": {
+        "ordinal": 103,
+        "triple": null
+      },
+      "score": 0.17892424146402824,
+      "created_at": "2026-07-06T10:10:40.989283-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "36630f65-fe7a-4dc2-8364-81ce007b67ea",
+      "memory": "User is thinking of attending a book club meeting during their 10-day vacation to Hawaii.",
+      "hash": "db09cb2869e539981a69a3ca164b64f2",
+      "metadata": {
+        "ordinal": 50,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking attending",
+          "object_text": "a book club meeting during their 10-day vacation to Hawaii",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of attending"
+        }
+      },
+      "score": 0.1780634661021092,
+      "created_at": "2026-07-06T10:09:38.833450-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8342fd39-b094-4f4e-bdda-290a2f0500b3",
+      "memory": "User plans to start by purging and decluttering the space.",
+      "hash": "53f5cbeaf5ea0363db532371a2ce37e3",
+      "metadata": {
+        "ordinal": 439,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to start by purging and decluttering",
+          "object_text": "the space",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "plans to start by purging and decluttering"
+        }
+      },
+      "score": 0.17697964912402708,
+      "created_at": "2026-07-06T10:13:21.912568-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d495b56a-cada-4084-9892-386f74822944",
+      "memory": "Before the break, user was spending at least an hour a day scrolling through their feeds on Facebook and Instagram.",
+      "hash": "2ca89cfd5efc028c2b39c7399e42a126",
+      "metadata": {
+        "ordinal": 309,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be spending",
+          "object_text": "at least an hour a day scrolling through their feeds on Facebook and Instagram",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "was spending"
+        }
+      },
+      "score": 0.17663986476127422,
+      "created_at": "2026-07-06T10:12:18.449070-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "50cea376-ad60-4bc3-9e8c-20dff94de80c",
+      "memory": "User is still discovering new things about Tokyo.",
+      "hash": "7ab4f7ce0227b0efcb66f0050270420f",
+      "metadata": {
+        "ordinal": 397,
+        "triple": null,
+        "subject_fallback": "tokyo"
+      },
+      "score": 0.17615558081283242,
+      "created_at": "2026-07-06T10:13:07.053708-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8efffe2c-382b-4fc2-b3d4-2cde0a722e2e",
+      "memory": "User received their asylum approval letter on February 20th, 2023.",
+      "hash": "886a5728626be01a008de41cba3f46be",
+      "metadata": {
+        "ordinal": 623,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "received",
+          "object_text": "their asylum approval letter on February 20th, 2023",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "received"
+        }
+      },
+      "score": 0.1760372994395796,
+      "created_at": "2026-07-06T10:15:13.529690-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8aab810a-fa9d-4e8a-b91e-c932b3c80ea2",
+      "memory": "User is thinking about getting a few air-purifying plants for their bedroom.",
+      "hash": "6cb7f321d314fe0541fec6e16e9856ee",
+      "metadata": {
+        "ordinal": 589,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking about getting",
+          "object_text": "a few air-purifying plants for their bedroom",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking about getting"
+        }
+      },
+      "score": 0.17484487858184555,
+      "created_at": "2026-07-06T10:14:53.738175-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fa0ae587-0a5e-4528-a391-6154072bcd6e",
+      "memory": "User has a snake plant and a basil plant in the living room.",
+      "hash": "8aeb84c3204e62be2716164d39e43d0c",
+      "metadata": {
+        "ordinal": 587,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "a snake plant and a basil plant in the living room",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.1747737167002589,
+      "created_at": "2026-07-06T10:14:53.735658-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "19265266-3470-4c4a-90aa-775effa3f43f",
+      "memory": "User has been using new accessories since January 20th, including a wireless mouse and a portable charger.",
+      "hash": "ef953728aeb5d64140b3e378bb026f7d",
+      "metadata": {
+        "ordinal": 217,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be using",
+          "object_text": "new accessories since January 20th, including a wireless mouse and a portable charger",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.17226607221277468,
+      "created_at": "2026-07-06T10:11:35.107834-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8f53ac55-1377-421b-acaf-28ad62057f17",
+      "memory": "User just got back from the 'Beach Cleanup' event organized by the 'Environmental Conservation Society' at their local beach today.",
+      "hash": "37a78229b29fb54fc0a1ccb6b6958f2b",
+      "metadata": {
+        "ordinal": 565,
+        "triple": null,
+        "subject_fallback": "environmental_conservation_society"
+      },
+      "score": 0.17217540687876604,
+      "created_at": "2026-07-06T10:14:30.183168-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "512f723d-d3a2-4b7e-9490-7bb85c8756ce",
+      "memory": "User is looking at reviews for a new yoga mat and thinks they might order one this week.",
+      "hash": "dc5e38e9c4a9565c6561467c88e6cb86",
+      "metadata": {
+        "ordinal": 502,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking at reviews for",
+          "object_text": "a new yoga mat",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is looking at reviews for"
+        }
+      },
+      "score": 0.17091423650971457,
+      "created_at": "2026-07-06T10:14:12.608525-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b0d35df2-f92f-4c59-ac33-9b4451a9b3b4",
+      "memory": "User is trying to organize their documents.",
+      "hash": "e2d721fc6f63061bd4985bb579e5b517",
+      "metadata": {
+        "ordinal": 618,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.16994541002287705,
+      "created_at": "2026-07-06T10:15:13.503454-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f0502f83-9867-4afe-aa39-c5f4a68182f3",
+      "memory": "User is thinking of getting new pots for their plants, especially for their basil plant named Basilica.",
+      "hash": "ed69f43e7ffb94af70c2d72ffcc7c68c",
+      "metadata": {
+        "ordinal": 83,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking getting",
+          "object_text": "new pots for their plants, especially for their basil plant named Basilica",
+          "confidence": 0.8,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of getting"
+        }
+      },
+      "score": 0.16964487134705253,
+      "created_at": "2026-07-06T10:10:15.174679-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "401b3cee-6177-4bd1-9380-b922cb52dd97",
+      "memory": "User has been snorkeling a lot in the past year.",
+      "hash": "d775594fb8e59e83e59f21bd5c7d6d66",
+      "metadata": {
+        "ordinal": 506,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be snorkeling",
+          "object_text": "a lot in the past year",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been snorkeling"
+        }
+      },
+      "score": 0.16941886495939296,
+      "created_at": "2026-07-06T10:14:12.619101-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3e757bd2-5522-46c5-bbcc-9ccddeac9730",
+      "memory": "User has been trying to stay informed about current events and politics through their daily commute by reading The Economist magazine.",
+      "hash": "97afc67d5c92d65b0856f22951f4c76b",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be trying to stay informed about",
+          "object_text": "current events and politics through their daily commute by reading The Economist magazine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been trying to stay informed about"
+        }
+      },
+      "score": 0.16716218677414035,
+      "created_at": "2026-07-06T10:09:09.899045-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "299c9766-66e7-46aa-a465-f92d15f88c08",
+      "memory": "User is curious to know if there are any book clubs or reading groups on Oahu that they could join during their trip.",
+      "hash": "b94e9c7f0aabb7abfa6abdc76874bbf4",
+      "metadata": {
+        "ordinal": 49,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be curious to know if there be",
+          "object_text": "any book clubs or reading groups on Oahu that they could join during their trip",
+          "confidence": 0.8,
+          "subject_raw": "User",
+          "predicate_raw": "is curious to know if there are"
+        }
+      },
+      "score": 0.16588545724973633,
+      "created_at": "2026-07-06T10:09:38.831154-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2cb61191-805c-4df9-9f74-c8dc77a13293",
+      "memory": "User is thinking of reorganizing their linen closet this weekend.",
+      "hash": "37497382aaafeccee20b99c1eeda0c3f",
+      "metadata": {
+        "ordinal": 677,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking reorganizing",
+          "object_text": "their linen closet this weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of reorganizing"
+        }
+      },
+      "score": 0.16577925734914786,
+      "created_at": "2026-07-06T10:15:36.385453-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4f642bc2-25c6-4b23-8ac3-8865e4150385",
+      "memory": "User is interested in checking out festivals or events happening in Nikko from May 15th to May 28th.",
+      "hash": "5d1df75873586936cfc09bb9c9534085",
+      "metadata": {
+        "ordinal": 399,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in checking out",
+          "object_text": "festivals or events happening in Nikko from May 15th to May 28th",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in checking out"
+        }
+      },
+      "score": 0.1646943632624926,
+      "created_at": "2026-07-06T10:13:07.061866-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a0535a21-52f5-4812-aecb-d8e3ee50b64a",
+      "memory": "User has been keeping their orchid on the east-facing windowsill in the living room.",
+      "hash": "469d059f5ebc6c92cfe1ff57bf2b1243",
+      "metadata": {
+        "ordinal": 584,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be keeping",
+          "object_text": "their orchid on the east-facing windowsill in the living room",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has been keeping"
+        }
+      },
+      "score": 0.16439048843487591,
+      "created_at": "2026-07-06T10:14:53.731689-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7f07e4a5-1f5b-41be-aa00-e175ac426831",
+      "memory": "User believes their age could be an advantage in staying competitive in the job market.",
+      "hash": "df33d2d398ca3415581663e40ff36631",
+      "metadata": {
+        "ordinal": 54,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.16378154651246457,
+      "created_at": "2026-07-06T10:09:50.355148-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6db564f1-c338-4339-bcdc-7ef61b27e38f",
+      "memory": "User is drawn to vibrant colors.",
+      "hash": "7b9ea91cb3e0af819410362d1aa1676c",
+      "metadata": {
+        "ordinal": 436,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.16327905184364733,
+      "created_at": "2026-07-06T10:13:21.904870-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9e4a26a6-f8b7-4f44-a539-7ffdaa7e8148",
+      "memory": "User just got a new orchid last Saturday from the gardening store.",
+      "hash": "0a7e19af9d6567553f31b81fd2a445ef",
+      "metadata": {
+        "ordinal": 582,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "got",
+          "object_text": "a new orchid last Saturday from the gardening store",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "got"
+        }
+      },
+      "score": 0.16315122218802294,
+      "created_at": "2026-07-06T10:14:53.728575-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "451c446e-2a60-46ab-a919-09c1aaba18dd",
+      "memory": "User is interested in learning more about e-waste recycling.",
+      "hash": "a9f3a986b885943d50889f3ef39754d6",
+      "metadata": {
+        "ordinal": 569,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in learning more about",
+          "object_text": "e-waste recycling",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is interested in learning more about"
+        }
+      },
+      "score": 0.16303969627532372,
+      "created_at": "2026-07-06T10:14:30.203094-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "75269a4c-e5ce-480d-8799-f822edf66f25",
+      "memory": "User helped their friend create content for her Instagram and Facebook pages to promote the brand.",
+      "hash": "72ead67042ae6271bd2fbb66eb4c0dd9",
+      "metadata": {
+        "ordinal": 89,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "helped",
+          "object_text": "their friend create content for her Instagram and Facebook pages to promote the brand",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "helped"
+        }
+      },
+      "score": 0.16303414747059203,
+      "created_at": "2026-07-06T10:10:29.624022-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9bfc9b0a-8975-444c-aac2-9fe60ceaa7d8",
+      "memory": "User will invest in some multi-functional furniture.",
+      "hash": "90834ccb471bb5bdb542d7cababa9261",
+      "metadata": {
+        "ordinal": 441,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will invest in",
+          "object_text": "some multi-functional furniture",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "will invest in"
+        }
+      },
+      "score": 0.16232832297265926,
+      "created_at": "2026-07-06T10:13:21.917424-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4c09b024-a79d-4770-a9e8-ca0e1b2a8e37",
+      "memory": "User likes to make the most of their Sunday by cleaning.",
+      "hash": "89f8457d01a4cec8c3b49337f0ba737c",
+      "metadata": {
+        "ordinal": 673,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "likes to make most",
+          "object_text": "their Sunday by cleaning",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "likes to make the most of"
+        }
+      },
+      "score": 0.16194233012709297,
+      "created_at": "2026-07-06T10:15:36.372886-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a527d850-591f-40fe-929d-75f55fe524ee",
+      "memory": "User has been watering Freddy every other day.",
+      "hash": "66596bed6e4af672a603bb91d74876fb",
+      "metadata": {
+        "ordinal": 71,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be watering",
+          "object_text": "Freddy every other day",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been watering"
+        }
+      },
+      "score": 0.16118278570168673,
+      "created_at": "2026-07-06T10:10:15.147822-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "10ef9824-be77-4664-89cf-829e5cad8dc9",
+      "memory": "User thinks they will start with a daily limit of 20 minutes for social media usage.",
+      "hash": "ff9bc515f4fa3b0e12cee593dedf7eb0",
+      "metadata": {
+        "ordinal": 313,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will start with",
+          "object_text": "a daily limit of 20 minutes for social media usage",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they will start with"
+        }
+      },
+      "score": 0.1607717520564162,
+      "created_at": "2026-07-06T10:12:18.461300-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "392b3929-fa9b-4bb4-8202-5f09fbef6cd0",
+      "memory": "User will place a sticky note on their computer to serve as a physical reminder to take breaks from social media throughout the day.",
+      "hash": "27db98cd7a37ceb58ff943af6c8b6559",
+      "metadata": {
+        "ordinal": 316,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will place",
+          "object_text": "a sticky note on their computer to serve as a physical reminder to take breaks from social media throughout the day",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "will place"
+        }
+      },
+      "score": 0.16017839964086555,
+      "created_at": "2026-07-06T10:12:18.468334-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "165ac037-1c3c-474c-bb72-a51d5df24605",
+      "memory": "User finds the tips provided by the assistant helpful.",
+      "hash": "48433cecd0e22813df8fabe93813638c",
+      "metadata": {
+        "ordinal": 65,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "finds tips provided by",
+          "object_text": "the assistant helpful",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "finds the tips provided by"
+        }
+      },
+      "score": 0.15964574059832537,
+      "created_at": "2026-07-06T10:09:55.181760-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a3347d0f-9a0b-4c53-98d1-4dc3df27509a",
+      "memory": "User has been listening to The Daily from The New York Times during their workout sessions.",
+      "hash": "f67186db911c60c4bc4f079fff5e2c31",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "The Daily from The New York Times during their workout sessions",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.15841647061051772,
+      "created_at": "2026-07-06T10:09:09.900309-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2797a82a-e42a-4351-820f-e780db7b4f0b",
+      "memory": "User has been listening to a lot of indie folk and singer-songwriter music lately.",
+      "hash": "4e408d8423f5caa7077715e86c8f3bdc",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "a lot of indie folk and singer-songwriter music lately",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.15376296645979418,
+      "created_at": "2026-07-06T10:10:56.053023-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d65a97ee-34ac-486b-bed6-b1d3b6240668",
+      "memory": "User needs to return their mom's pearl earrings soon.",
+      "hash": "d274ac4303e506984f9a50da52a0a3b5",
+      "metadata": {
+        "ordinal": 325,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "needs to return",
+          "object_text": "their mom's pearl earrings soon",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "needs to return"
+        }
+      },
+      "score": 0.15316442471158548,
+      "created_at": "2026-07-06T10:12:29.760911-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ffecc69a-d995-49bd-a0ca-df1fbe480cd5",
+      "memory": "User is looking to manage their screen time better.",
+      "hash": "18bf81cf59bf21f42ba23ebf47679b64",
+      "metadata": {
+        "ordinal": 306,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.15299903836779183,
+      "created_at": "2026-07-06T10:12:18.433156-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1751e152-1973-456a-af86-692127549097",
+      "memory": "User has a snake plant named Samantha.",
+      "hash": "700e0815159b10e2997c1d53db467050",
+      "metadata": {
+        "ordinal": 69,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "a snake plant named Samantha",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.15223242871388376,
+      "created_at": "2026-07-06T10:10:15.140775-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c5076275-0ba8-4c2c-b344-65e4a537a5cd",
+      "memory": "User loves the idea of taking breaks and making it a self-care day.",
+      "hash": "383b828826ea0ecc48dfbc80e472cfc8",
+      "metadata": {
+        "ordinal": 675,
+        "triple": null,
+        "subject_fallback": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.15223013997562465,
+      "created_at": "2026-07-06T10:15:36.379863-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "65e7990e-bd7d-43c7-b3c6-0190a92f7efd",
+      "memory": "User thinks they will prioritize other activities during their trip.",
+      "hash": "808b471b479d6cee3da5fc1cd5fa9430",
+      "metadata": {
+        "ordinal": 51,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will prioritize",
+          "object_text": "other activities during their trip",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they will prioritize"
+        }
+      },
+      "score": 0.1519089471594021,
+      "created_at": "2026-07-06T10:09:38.835869-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b757c18e-ef70-4e62-b163-3623e93d3cb6",
+      "memory": "User realized they were wasting a lot of time on social media.",
+      "hash": "17690e83bc05fd121cc1324bef815b0c",
+      "metadata": {
+        "ordinal": 308,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "realized",
+          "object_text": "they were wasting a lot of time on social media",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "realized"
+        }
+      },
+      "score": 0.15102484279515715,
+      "created_at": "2026-07-06T10:12:18.444633-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "34fbd18c-2da1-403e-b27b-561406fe1079",
+      "memory": "User will try to keep it simple and not overthink it too much.",
+      "hash": "06ba82fe46c4aa09cb852d96fca77c07",
+      "metadata": {
+        "ordinal": 117,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will try to keep",
+          "object_text": "it simple and not overthink it too much",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "will try to keep"
+        }
+      },
+      "score": 0.1494174761244679,
+      "created_at": "2026-07-06T10:10:56.071449-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "04ec2794-7893-4939-9b51-4a777f41c399",
+      "memory": "User has been experimenting with audiobooks lately, especially for their daily commute.",
+      "hash": "8b44fc7c20938f67feb8f25285a4cc89",
+      "metadata": {
+        "ordinal": 124,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be experimenting with",
+          "object_text": "audiobooks lately, especially for their daily commute",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been experimenting with"
+        }
+      },
+      "score": 0.14876482376316383,
+      "created_at": "2026-07-06T10:11:07.971126-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "973958a6-b604-4373-8290-0d07f4f51236",
+      "memory": "User's goal is to reach fluency in English.",
+      "hash": "233baa4d8de1562890ce0979eab90caa",
+      "metadata": {
+        "ordinal": 632,
+        "triple": {
+          "subject_id": "user::context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "goal be to reach",
+          "object_text": "fluency in English",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "goal is to reach"
+        }
+      },
+      "score": 0.14844445100483245,
+      "created_at": "2026-07-06T10:15:13.551376-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "51d2f1ef-716e-4866-80cb-962e9e6c78b6",
+      "memory": "User is not sure if the Data Science course is suitable for someone with no prior experience in the field.",
+      "hash": "49f62f7b20d76018528a0d073432281e",
+      "metadata": {
+        "ordinal": 56,
+        "triple": null,
+        "subject_fallback": "data_science_course"
+      },
+      "score": 0.14839828976784453,
+      "created_at": "2026-07-06T10:09:50.365513-07:00",
+      "updated_at": null,
+      "user_id": "context_06db6396_longmemeval_s_ku_ours_no_p5_s1n2"
+    }
+  ],
+  "memories_str": "- User has just finished their 5th project since starting painting classes.\n- User is looking for inspiration for their next painting project.\n- User has been taking English classes at the LINC program since November 2020.\n- The user asked for answers to the questions one by one.\n- User is thinking of taking an online course to upgrade their skills and stay competitive in the job market.\n- User has been in Tokyo for 9 months.\n- User has been trying to stay engaged with current events through various media channels, including podcasts, online articles, and magazines.\n- User is currently at level 5 in the LINC program.\n- User is thinking of enrolling in a language course to improve their English skills.\n- User likes the idea of using a limited palette.\n- The user requested more answers without repetition.\n- User is looking to learn more about music production and recording.\n- User is interested in the Data Visualization course on Coursera.\n- User is planning to run a half-marathon in three months.\n- User just started their 10-day vacation to Hawaii on August 18, 2023.\n- User would like to enroll in a college or university program eventually.\n- User thinks they will start with some online courses and YouTube tutorials to get a solid foundation in music production.\n- The user is preparing for a Microsoft Power Automate interview.\n- User thinks a bold and bright palette could create a dynamic piece.\n- User is feeling accomplished.\n- User is thinking of setting up a small studio in their spare bedroom.\n- User believes their age could be an advantage in their learning journey, bringing more maturity and focus.\n- User likes the idea of exploring abstract expressions.\n- User is curious about energy work and chakras.\n- User is excited to start learning ggplot2 and creating their own visualizations.\n- User has been doing yoga at home three times a week.\n- User's teacher is Mrs. Patel.\n- User has made some friends in the LINC class, including a guy from Syria who is going through a similar experience.\n- User is not sure if the Data Visualization course is suitable for someone with no prior experience in data visualization.\n- User recently turned 32 years old on July 15th.\n- User has been doing some yoga and meditation.\n- User is planning to clean their bathroom on Sunday.\n- User is thinking of organizing their bathroom cabinets this weekend.\n- User recently took a 10-day social media break.\n- User is curious about how often to water Lily, which is on a tray with pebbles and water.\n- User plans to start by reflecting on their core values and intentions.\n- User has been playing guitar for a while.\n- User finished reading 'The Nightingale' in three weeks.\n- User is thinking of setting a daily time limit for social media usage.\n- User is excited to learn more about Plotly and how it can enhance their data visualization skills.\n- User's orchid is doing great so far.\n- User was spending at least an hour a day on social media before their 10-day break.\n- User is planning to repot their spider plant named Charlotte.\n- User will use the built-in features of social media apps to track their usage and set reminders.\n- User is ready to start recording a simple guitar part that captures the mood and atmosphere they are aiming for.\n- User thinks creating a soundscape or atmospheric track would be a perfect way to start experimenting with blending acoustic and electronic elements.\n- User has been loving the cherry blossom season in Tokyo.\n- User just mastered the chord progression for 'Wonderwall' by Oasis.\n- User has been reading a lot lately.\n- User has been reflecting on their beliefs a lot lately.\n- User fertilized Freddy once a month ago.\n- User plans to set reminders on their phone to alert them when they've reached their daily limit of 20 minutes.\n- User likes doing their weekly ritual on Sundays to unwind and recharge for the week ahead.\n- User has been doing a lot of hiking and camping lately.\n- User is thinking of attending a book club meeting during their 10-day vacation to Hawaii.\n- User plans to start by purging and decluttering the space.\n- Before the break, user was spending at least an hour a day scrolling through their feeds on Facebook and Instagram.\n- User is still discovering new things about Tokyo.\n- User received their asylum approval letter on February 20th, 2023.\n- User is thinking about getting a few air-purifying plants for their bedroom.\n- User has a snake plant and a basil plant in the living room.\n- User has been using new accessories since January 20th, including a wireless mouse and a portable charger.\n- User just got back from the 'Beach Cleanup' event organized by the 'Environmental Conservation Society' at their local beach today.\n- User is looking at reviews for a new yoga mat and thinks they might order one this week.\n- User is trying to organize their documents.\n- User is thinking of getting new pots for their plants, especially for their basil plant named Basilica.\n- User has been snorkeling a lot in the past year.\n- User has been trying to stay informed about current events and politics through their daily commute by reading The Economist magazine.\n- User is curious to know if there are any book clubs or reading groups on Oahu that they could join during their trip.\n- User is thinking of reorganizing their linen closet this weekend.\n- User is interested in checking out festivals or events happening in Nikko from May 15th to May 28th.\n- User has been keeping their orchid on the east-facing windowsill in the living room.\n- User believes their age could be an advantage in staying competitive in the job market.\n- User is drawn to vibrant colors.\n- User just got a new orchid last Saturday from the gardening store.\n- User is interested in learning more about e-waste recycling.\n- User helped their friend create content for her Instagram and Facebook pages to promote the brand.\n- User will invest in some multi-functional furniture.\n- User likes to make the most of their Sunday by cleaning.\n- User has been watering Freddy every other day.\n- User thinks they will start with a daily limit of 20 minutes for social media usage.\n- User will place a sticky note on their computer to serve as a physical reminder to take breaks from social media throughout the day.\n- User finds the tips provided by the assistant helpful.\n- User has been listening to The Daily from The New York Times during their workout sessions.\n- User has been listening to a lot of indie folk and singer-songwriter music lately.\n- User needs to return their mom's pearl earrings soon.\n- User is looking to manage their screen time better.\n- User has a snake plant named Samantha.\n- User loves the idea of taking breaks and making it a self-care day.\n- User thinks they will prioritize other activities during their trip.\n- User realized they were wasting a lot of time on social media.\n- User will try to keep it simple and not overthink it too much.\n- User has been experimenting with audiobooks lately, especially for their daily commute.\n- User's goal is to reach fluency in English.\n- User is not sure if the Data Science course is suitable for someone with no prior experience in the field.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- User has just finished their 5th project since starting painting classes.\n- User is looking for inspiration for their next painting project.\n- User has been taking English classes at the LINC program since November 2020.\n- The user asked for answers to the questions one by one.\n- User is thinking of taking an online course to upgrade their skills and stay competitive in the job market.\n- User has been in Tokyo for 9 months.\n- User has been trying to stay engaged with current events through various media channels, including podcasts, online articles, and magazines.\n- User is currently at level 5 in the LINC program.\n- User is thinking of enrolling in a language course to improve their English skills.\n- User likes the idea of using a limited palette.\n- The user requested more answers without repetition.\n- User is looking to learn more about music production and recording.\n- User is interested in the Data Visualization course on Coursera.\n- User is planning to run a half-marathon in three months.\n- User just started their 10-day vacation to Hawaii on August 18, 2023.\n- User would like to enroll in a college or university program eventually.\n- User thinks they will start with some online courses and YouTube tutorials to get a solid foundation in music production.\n- The user is preparing for a Microsoft Power Automate interview.\n- User thinks a bold and bright palette could create a dynamic piece.\n- User is feeling accomplished.\n- User is thinking of setting up a small studio in their spare bedroom.\n- User believes their age could be an advantage in their learning journey, bringing more maturity and focus.\n- User likes the idea of exploring abstract expressions.\n- User is curious about energy work and chakras.\n- User is excited to start learning ggplot2 and creating their own visualizations.\n- User has been doing yoga at home three times a week.\n- User's teacher is Mrs. Patel.\n- User has made some friends in the LINC class, including a guy from Syria who is going through a similar experience.\n- User is not sure if the Data Visualization course is suitable for someone with no prior experience in data visualization.\n- User recently turned 32 years old on July 15th.\n- User has been doing some yoga and meditation.\n- User is planning to clean their bathroom on Sunday.\n- User is thinking of organizing their bathroom cabinets this weekend.\n- User recently took a 10-day social media break.\n- User is curious about how often to water Lily, which is on a tray with pebbles and water.\n- User plans to start by reflecting on their core values and intentions.\n- User has been playing guitar for a while.\n- User finished reading 'The Nightingale' in three weeks.\n- User is thinking of setting a daily time limit for social media usage.\n- User is excited to learn more about Plotly and how it can enhance their data visualization skills.\n- User's orchid is doing great so far.\n- User was spending at least an hour a day on social media before their 10-day break.\n- User is planning to repot their spider plant named Charlotte.\n- User will use the built-in features of social media apps to track their usage and set reminders.\n- User is ready to start recording a simple guitar part that captures the mood and atmosphere they are aiming for.\n- User thinks creating a soundscape or atmospheric track would be a perfect way to start experimenting with blending acoustic and electronic elements.\n- User has been loving the cherry blossom season in Tokyo.\n- User just mastered the chord progression for 'Wonderwall' by Oasis.\n- User has been reading a lot lately.\n- User has been reflecting on their beliefs a lot lately.\n- User fertilized Freddy once a month ago.\n- User plans to set reminders on their phone to alert them when they've reached their daily limit of 20 minutes.\n- User likes doing their weekly ritual on Sundays to unwind and recharge for the week ahead.\n- User has been doing a lot of hiking and camping lately.\n- User is thinking of attending a book club meeting during their 10-day vacation to Hawaii.\n- User plans to start by purging and decluttering the space.\n- Before the break, user was spending at least an hour a day scrolling through their feeds on Facebook and Instagram.\n- User is still discovering new things about Tokyo.\n- User received their asylum approval letter on February 20th, 2023.\n- User is thinking about getting a few air-purifying plants for their bedroom.\n- User has a snake plant and a basil plant in the living room.\n- User has been using new accessories since January 20th, including a wireless mouse and a portable charger.\n- User just got back from the 'Beach Cleanup' event organized by the 'Environmental Conservation Society' at their local beach today.\n- User is looking at reviews for a new yoga mat and thinks they might order one this week.\n- User is trying to organize their documents.\n- User is thinking of getting new pots for their plants, especially for their basil plant named Basilica.\n- User has been snorkeling a lot in the past year.\n- User has been trying to stay informed about current events and politics through their daily commute by reading The Economist magazine.\n- User is curious to know if there are any book clubs or reading groups on Oahu that they could join during their trip.\n- User is thinking of reorganizing their linen closet this weekend.\n- User is interested in checking out festivals or events happening in Nikko from May 15th to May 28th.\n- User has been keeping their orchid on the east-facing windowsill in the living room.\n- User believes their age could be an advantage in staying competitive in the job market.\n- User is drawn to vibrant colors.\n- User just got a new orchid last Saturday from the gardening store.\n- User is interested in learning more about e-waste recycling.\n- User helped their friend create content for her Instagram and Facebook pages to promote the brand.\n- User will invest in some multi-functional furniture.\n- User likes to make the most of their Sunday by cleaning.\n- User has been watering Freddy every other day.\n- User thinks they will start with a daily limit of 20 minutes for social media usage.\n- User will place a sticky note on their computer to serve as a physical reminder to take breaks from social media throughout the day.\n- User finds the tips provided by the assistant helpful.\n- User has been listening to The Daily from The New York Times during their workout sessions.\n- User has been listening to a lot of indie folk and singer-songwriter music lately.\n- User needs to return their mom's pearl earrings soon.\n- User is looking to manage their screen time better.\n- User has a snake plant named Samantha.\n- User loves the idea of taking breaks and making it a self-care day.\n- User thinks they will prioritize other activities during their trip.\n- User realized they were wasting a lot of time on social media.\n- User will try to keep it simple and not overthink it too much.\n- User has been experimenting with audiobooks lately, especially for their daily commute.\n- User's goal is to reach fluency in English.\n- User is not sure if the Data Science course is suitable for someone with no prior experience in the field.\n",
+  "user_message": "Today's date is 2023/11/08 (Wed) 09:08.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n How many projects have I completed since starting painting classes? \n\n Answer:\n\nCurrent Time: 2026-07-07 05:52:10",
+  "response": "Five projects.",
+  "prompt_tokens": 1585,
+  "completion_tokens": 3
+}

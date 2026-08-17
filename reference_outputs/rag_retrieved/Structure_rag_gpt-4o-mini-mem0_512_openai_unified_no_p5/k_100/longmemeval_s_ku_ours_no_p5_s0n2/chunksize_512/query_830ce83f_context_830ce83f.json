@@ -1,0 +1,3493 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "10a93c22-b4be-44e5-adf5-2c75b6d3a431",
+      "memory": "User is thinking about visiting their friend Rachel who recently moved to a new apartment in Chicago.",
+      "hash": "f974c2b4ae0a6f2a1d9de661918ebfeb",
+      "metadata": {
+        "ordinal": 284,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking about visiting",
+          "object_text": "Rachel",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking about visiting"
+        }
+      },
+      "score": 0.5505088405242228,
+      "created_at": "2026-07-06T07:51:11.582174-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9e0f085d-845c-40b3-96df-7630ad0931a3",
+      "memory": "User's friend Rachel just moved back to the suburbs.",
+      "hash": "1755c4d5226709503714e4babf36e81d",
+      "metadata": {
+        "ordinal": 375,
+        "triple": {
+          "subject_id": "user's_friend_rachel",
+          "predicate_norm": "just moved back to",
+          "object_text": "the suburbs",
+          "confidence": 0.95,
+          "subject_raw": "User's friend Rachel",
+          "predicate_raw": "just moved back to"
+        }
+      },
+      "score": 0.5245329145945785,
+      "created_at": "2026-07-06T07:52:12.415194-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ca35c483-0147-4eac-96a7-907c9eff451c",
+      "memory": "User got to ask the author Rachel Smith a question during the Q&A session at the January 10th event.",
+      "hash": "46b895a13278de6e22ac37e72799da54",
+      "metadata": {
+        "ordinal": 21,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "got to ask",
+          "object_text": "the author Rachel Smith a question during the Q&A session at the January 10th event",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "got to ask"
+        }
+      },
+      "score": 0.45370762002405957,
+      "created_at": "2026-07-06T07:47:56.213798-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6fe1f451-d64f-40bf-9cbb-34c59668ce83",
+      "memory": "Rachel lives in Chicago.",
+      "hash": "871b8e75592cebb92eeb249636353405",
+      "metadata": {
+        "ordinal": 285,
+        "triple": {
+          "subject_id": "rachel",
+          "predicate_norm": "lives in",
+          "object_text": "Chicago",
+          "confidence": 0.95,
+          "subject_raw": "Rachel",
+          "predicate_raw": "lives in"
+        }
+      },
+      "score": 0.45199522200020104,
+      "created_at": "2026-07-06T07:51:11.586603-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "10b8b879-3c5c-45c5-a3c4-bf6a4a834f80",
+      "memory": "User found it interesting to hear about Rachel Smith's writing process.",
+      "hash": "e447e4a566611bb8d8b690daa10f9819",
+      "metadata": {
+        "ordinal": 18,
+        "triple": null,
+        "subject_fallback": "rachel_smith"
+      },
+      "score": 0.3430800183838383,
+      "created_at": "2026-07-06T07:47:56.202537-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "806d9032-3cee-4fa6-809a-08246c4dead3",
+      "memory": "User rearranged their living room last weekend.",
+      "hash": "ec93668f912788fa4e07ef19d1ae2afa",
+      "metadata": {
+        "ordinal": 166,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "rearranged",
+          "object_text": "their living room last weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "rearranged"
+        }
+      },
+      "score": 0.3165146318215054,
+      "created_at": "2026-07-06T07:49:29.802981-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8d40f10d-db78-4870-bb56-0ea94f0ef966",
+      "memory": "User attended a book reading event at the local library a month ago.",
+      "hash": "bbe93e8aa86a79e9b3cff7060b3344c4",
+      "metadata": {
+        "ordinal": 16,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "attended",
+          "object_text": "a book reading event at the local library a month ago",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.2873238517951707,
+      "created_at": "2026-07-06T07:47:56.192426-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d093f20e-d565-411d-a152-e8b6bb784afc",
+      "memory": "User is interested in finding out about new restaurants or cafes in the city.",
+      "hash": "edb08a095752ccb72622d9ab0f0e5547",
+      "metadata": {
+        "ordinal": 343,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.27737275233886727,
+      "created_at": "2026-07-06T07:51:42.313467-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "658079ba-bfcd-4aa9-acba-096f5a23bed9",
+      "memory": "User is going to try to find out more about the history of the armchair.",
+      "hash": "aae7b942d89a2ec8e798871df377e303",
+      "metadata": {
+        "ordinal": 163,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be going to try to find out more about",
+          "object_text": "the history of the armchair",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is going to try to find out more about"
+        }
+      },
+      "score": 0.257505049705485,
+      "created_at": "2026-07-06T07:49:21.411873-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "27977d5c-76f2-4b0b-be46-67faee707ec3",
+      "memory": "User likes the idea of a conversational circle and a floating furniture arrangement.",
+      "hash": "e60a1cfeb17c9cad53f44879852dc7e6",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "likes",
+          "object_text": "the idea of a conversational circle and a floating furniture arrangement",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "likes"
+        }
+      },
+      "score": 0.25424940475418034,
+      "created_at": "2026-07-06T07:48:35.019810-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "314f884d-78e8-4789-b128-aa0c04738983",
+      "memory": "User is planning on visiting San Francisco.",
+      "hash": "bac470d894b4156d6b6f7fdcc333ef4b",
+      "metadata": {
+        "ordinal": 221,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning on visiting",
+          "object_text": "San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning on visiting"
+        }
+      },
+      "score": 0.2529434838418358,
+      "created_at": "2026-07-06T07:50:18.418864-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ebc04c52-7481-43a7-ae3f-36a3b31e5cc9",
+      "memory": "User is from the same area where their maternal grandparents live.",
+      "hash": "93ad69a0005f1146e647dfa281958dc7",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be from",
+          "object_text": "the same area where their maternal grandparents live",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is from"
+        }
+      },
+      "score": 0.25244925489870423,
+      "created_at": "2026-07-06T07:51:37.192023-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c4cb57d9-756e-4d90-b902-aab5e1a9d857",
+      "memory": "User is thinking of planning a trip with some friends.",
+      "hash": "742be6c24dae52cecc0135af1674a8f1",
+      "metadata": {
+        "ordinal": 371,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2520336860222848,
+      "created_at": "2026-07-06T07:52:12.398494-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "fbae0f6f-ff90-423f-b58c-d82327f5d302",
+      "memory": "User is interested in learning more about others' experiences related to gender identity, race, and sexual orientation.",
+      "hash": "a0fb5fdc299c4d0ab01e04e17ef530eb",
+      "metadata": {
+        "ordinal": 123,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.24869128462109508,
+      "created_at": "2026-07-06T07:48:50.784758-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9e90c174-9914-4e39-b0b8-f53218bfe458",
+      "memory": "User is interested in a mix of relaxation and cultural activities.",
+      "hash": "ada7dc460784f2e9cd7275493baaf45f",
+      "metadata": {
+        "ordinal": 325,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in",
+          "object_text": "a mix of relaxation and cultural activities",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.2468106400331249,
+      "created_at": "2026-07-06T07:51:37.179619-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "89e1a6f6-7e75-4546-a87c-7557e7878ede",
+      "memory": "User recently started a book club with friends from work.",
+      "hash": "1a6cfb05a3207515e16fe18ea1e356d8",
+      "metadata": {
+        "ordinal": 141,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "started book club with",
+          "object_text": "friends from work",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "started a book club with"
+        }
+      },
+      "score": 0.2443353916377278,
+      "created_at": "2026-07-06T07:49:06.811802-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ddfb89e6-d04f-48a6-bb9d-abd3a3427790",
+      "memory": "User attended a book reading event at the local library on January 10th.",
+      "hash": "c22f0b29fdca77aeb9731e9a07fb2b20",
+      "metadata": {
+        "ordinal": 20,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "attended",
+          "object_text": "a book reading event at the local library on January 10th",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.24402417509348936,
+      "created_at": "2026-07-06T07:47:56.210614-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b9668c4d-3e32-4e89-bb10-93df1bd73877",
+      "memory": "User is planning a trip to visit their paternal grandparents in August.",
+      "hash": "ecfbe616463c93591e4ea32cde43d20a",
+      "metadata": {
+        "ordinal": 321,
+        "triple": null,
+        "subject_fallback": "user's_paternal_grandparents"
+      },
+      "score": 0.24401295864108208,
+      "created_at": "2026-07-06T07:51:37.155117-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0276470d-f0e9-48ea-a08e-4134ed7f79dd",
+      "memory": "User has been approached by a recruiter from a rival company, offering them a position as a technical lead.",
+      "hash": "bac3a7ac8e979729c3c32837fa5d6930",
+      "metadata": {
+        "ordinal": 79,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be approached by",
+          "object_text": "a recruiter from a rival company, offering them a position as a technical lead",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "has been approached by"
+        }
+      },
+      "score": 0.24371193337041827,
+      "created_at": "2026-07-06T07:48:22.496603-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "289a351c-d72b-4b5c-818b-1d9329859e72",
+      "memory": "User lives in Springfield, Illinois.",
+      "hash": "0cc2d7757cdfc82d79378968f94acb32",
+      "metadata": {
+        "ordinal": 199,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "lives in",
+          "object_text": "Springfield, Illinois",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "lives in"
+        }
+      },
+      "score": 0.23924412881532542,
+      "created_at": "2026-07-06T07:49:55.937061-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "caed2e65-cbe7-4279-98fc-72b6fcab3116",
+      "memory": "Rachel Smith talked about her new novel 'The Lost City' at the book reading event.",
+      "hash": "d334587418cc3fc97044e2af6c256464",
+      "metadata": {
+        "ordinal": 17,
+        "triple": {
+          "subject_id": "rachel_smith",
+          "predicate_norm": "talked about",
+          "object_text": "her new novel 'The Lost City' at the book reading event",
+          "confidence": 0.9,
+          "subject_raw": "Rachel Smith",
+          "predicate_raw": "talked about"
+        }
+      },
+      "score": 0.23689512917238964,
+      "created_at": "2026-07-06T07:47:56.197667-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1627a9f9-15a8-4f9b-9dd8-00d6fb65b568",
+      "memory": "User recently bought a new sectional sofa at a local furniture store on October 30th.",
+      "hash": "34601c8a2597a028bfe51955c7de962d",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "bought",
+          "object_text": "a new sectional sofa at a local furniture store on October 30th",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "bought"
+        }
+      },
+      "score": 0.2323902455315607,
+      "created_at": "2026-07-06T07:48:34.984804-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "3950061e-02ec-478b-ac29-b31f35d90fdc",
+      "memory": "User is 20 years old.",
+      "hash": "e00dc2b1db1aea5be26c1731f5fb5228",
+      "metadata": {
+        "ordinal": 324,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be",
+          "object_text": "20 years old",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.23222344981111548,
+      "created_at": "2026-07-06T07:51:37.175600-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "24c18982-c472-4569-aab0-073f331e52db",
+      "memory": "User's living room is around 15 by 20 feet.",
+      "hash": "7e75d2a39715e77bb4f6212a9f0584e7",
+      "metadata": {
+        "ordinal": 93,
+        "triple": {
+          "subject_id": "user's_living_room",
+          "predicate_norm": "be around",
+          "object_text": "15 by 20 feet",
+          "confidence": 0.95,
+          "subject_raw": "user's living room",
+          "predicate_raw": "is around"
+        }
+      },
+      "score": 0.22969101188043278,
+      "created_at": "2026-07-06T07:48:34.997360-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5762a53f-cf2d-4112-92bd-e24084b532eb",
+      "memory": "User had chili con carne for lunch and dinner for a few days.",
+      "hash": "dfe69669ede92ae6e8652bf2bfe8d3c2",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "had",
+          "object_text": "chili con carne for lunch and dinner for a few days",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "had"
+        }
+      },
+      "score": 0.22894855860891283,
+      "created_at": "2026-07-06T07:48:45.995306-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d06e8f65-a697-444f-a38f-11eee00b7454",
+      "memory": "User recently went through some old family photos.",
+      "hash": "3c5578fc3fe2be79aa45bebe690c18b6",
+      "metadata": {
+        "ordinal": 327,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22892438110255564,
+      "created_at": "2026-07-06T07:51:37.186362-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5b46fe60-d9e0-4f6b-baa4-d4fac37852c4",
+      "memory": "User is hesitant to leave their current company, where they have built a strong network and have a sense of belonging.",
+      "hash": "be99310c9f767defad49dee7b9bdbd4b",
+      "metadata": {
+        "ordinal": 80,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22863990271040738,
+      "created_at": "2026-07-06T07:48:22.500325-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cafe1f83-8a76-4e62-95cd-71064ec3abb9",
+      "memory": "User got their new Netflix subscription around the 15th of March.",
+      "hash": "4712459a7e56b26544b1d3c0e39cb37f",
+      "metadata": {
+        "ordinal": 246,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "got their new netflix subscription around",
+          "object_text": "the 15th of March",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "got their new Netflix subscription around"
+        }
+      },
+      "score": 0.22721737127360128,
+      "created_at": "2026-07-06T07:50:42.280847-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1e60adeb-7b68-4e76-9810-6f051aa8254f",
+      "memory": "User has been thinking about how their gender identity intersects with their other demographic information, like their race and sexual orientation.",
+      "hash": "508a0ae54d4b70b3e3673b31ecbdfd8d",
+      "metadata": {
+        "ordinal": 122,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22143903200884302,
+      "created_at": "2026-07-06T07:48:50.782844-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "213b9a35-57d8-44a3-ac17-629bc51e8e3e",
+      "memory": "User's living room is a rectangle shape.",
+      "hash": "1fd8c7e644380421dac1a109f3967632",
+      "metadata": {
+        "ordinal": 94,
+        "triple": {
+          "subject_id": "user's_living_room",
+          "predicate_norm": "be",
+          "object_text": "a rectangle shape",
+          "confidence": 0.95,
+          "subject_raw": "user's living room",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.21851986682678903,
+      "created_at": "2026-07-06T07:48:35.001807-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "68899610-b13a-43d9-8bb2-2661ccddc4c8",
+      "memory": "User is planning to spend a week with their grandparents.",
+      "hash": "adb3ae0dcb3812456ea9756c47c6ba5f",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning to spend",
+          "object_text": "a week with their grandparents",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to spend"
+        }
+      },
+      "score": 0.21667182175135621,
+      "created_at": "2026-07-06T07:51:37.183456-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a1127c67-a62a-45d6-8637-30d5f67e47e7",
+      "memory": "User is planning a trip with friends and they are deciding between a beach town in Florida and a hiking trip in Colorado.",
+      "hash": "be034fe35c4aac647d6a2b77fbb3ccc5",
+      "metadata": {
+        "ordinal": 283,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.21564060762397363,
+      "created_at": "2026-07-06T07:51:11.576479-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "633a83af-97b3-410f-afaf-c95ed0ea7a5f",
+      "memory": "User is thinking of a modern style for their living room.",
+      "hash": "7af704e52a0d73270907074212c3970d",
+      "metadata": {
+        "ordinal": 96,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking",
+          "object_text": "a modern style for their living room",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of"
+        }
+      },
+      "score": 0.21322313552990688,
+      "created_at": "2026-07-06T07:48:35.009297-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "704063a1-9d5c-44ee-818d-1a0a4f4a18d1",
+      "memory": "User is unsure how to navigate their partner's conservative culture.",
+      "hash": "4fb92b9d703b8433698dc8f066e7a57e",
+      "metadata": {
+        "ordinal": 385,
+        "triple": null,
+        "subject_fallback": "user's_partner"
+      },
+      "score": 0.21256659041332834,
+      "created_at": "2026-07-06T07:52:17.136122-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "65a7720b-eacf-496d-b39d-a1f1567f0cb4",
+      "memory": "User is looking for interior design inspiration for their living room.",
+      "hash": "dc8833c3d44e8288cdf2e696f1364507",
+      "metadata": {
+        "ordinal": 90,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.21248994892253548,
+      "created_at": "2026-07-06T07:48:34.974858-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9c4f2565-0821-4650-8501-e7f5397a64b1",
+      "memory": "User has been cooking at home more frequently for about 3 months.",
+      "hash": "65ac7b65896d69c6a073f3876ef851c1",
+      "metadata": {
+        "ordinal": 34,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be cooking at home more frequently for",
+          "object_text": "about 3 months",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been cooking at home more frequently for"
+        }
+      },
+      "score": 0.20972850878974564,
+      "created_at": "2026-07-06T07:48:03.896339-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ad72170b-3ff0-4378-bc84-835b474de131",
+      "memory": "User is interested in learning more about the history of the pieces they have and potentially finding more to add to their collection.",
+      "hash": "9f964da2d54b3b003ddd6e86dd9812ee",
+      "metadata": {
+        "ordinal": 162,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in learning more about",
+          "object_text": "the history of the pieces they have and potentially finding more to add to their collection",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in learning more about"
+        }
+      },
+      "score": 0.20960245924356508,
+      "created_at": "2026-07-06T07:49:21.409051-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ab034613-662b-4ae7-b05f-affdb4c26195",
+      "memory": "User is worried about meeting their partner's family.",
+      "hash": "791b6a41f99f4ab94e6dba88261ce267",
+      "metadata": {
+        "ordinal": 382,
+        "triple": null,
+        "subject_fallback": "user's_partner"
+      },
+      "score": 0.20837668343968252,
+      "created_at": "2026-07-06T07:52:17.125038-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8de4d078-b669-483c-85b6-d5620109ac04",
+      "memory": "User's grandparents live in Orlando, Florida.",
+      "hash": "32a14325ec83905bff6108b3919242a6",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "user's_grandparents",
+          "predicate_norm": "live in",
+          "object_text": "Orlando, Florida",
+          "confidence": 0.95,
+          "subject_raw": "User's grandparents",
+          "predicate_raw": "live in"
+        }
+      },
+      "score": 0.2082732436754478,
+      "created_at": "2026-07-06T07:51:37.164457-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1a03821b-aaf6-4850-bfef-2a1d418844ba",
+      "memory": "User is thinking of reaching out to some local antique dealers to get their opinion on their antique vase and potentially sell some of their antique cameras.",
+      "hash": "87ccdde62ebeb4f2e62946d649874a02",
+      "metadata": {
+        "ordinal": 237,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20813829124180383,
+      "created_at": "2026-07-06T07:50:29.756419-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "499104f3-05a5-43f7-abca-7ce13212578d",
+      "memory": "User is a senior software engineer.",
+      "hash": "2efe5f320f34d73afa08b1644d7f7a12",
+      "metadata": {
+        "ordinal": 78,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be",
+          "object_text": "a senior software engineer",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.2077042742831165,
+      "created_at": "2026-07-06T07:48:22.491332-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c32f0c08-1d61-444f-959c-6e227bbb6781",
+      "memory": "User is looking for new TV shows to watch.",
+      "hash": "28432deb22e02bf2c07235254a368d72",
+      "metadata": {
+        "ordinal": 238,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20763518245424806,
+      "created_at": "2026-07-06T07:50:42.244664-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cd8f4423-bfa7-4179-855f-3e54d183e32e",
+      "memory": "The user is interested in the topic of aging in photography.",
+      "hash": "6245bed9276bdcb47ac0dea2335f7f8a",
+      "metadata": {
+        "ordinal": 348,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in",
+          "object_text": "the topic of aging in photography",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.2074321002338702,
+      "created_at": "2026-07-06T07:51:49.005205-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6a8dc80b-d404-41b8-a458-3f6075ac8998",
+      "memory": "User is thinking of restoring an antique armchair that they recently acquired from their friend Emma, which had belonged to her great aunt.",
+      "hash": "5fa924bfb886027aefdae5593e38bf49",
+      "metadata": {
+        "ordinal": 236,
+        "triple": null,
+        "subject_fallback": "emma"
+      },
+      "score": 0.2061142609972698,
+      "created_at": "2026-07-06T07:50:29.753443-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ab37a316-9368-469f-a38e-4664f7eb09c4",
+      "memory": "User's book club is considering 'The Seven Husbands of Evelyn Hugo' by Taylor Jenkins Reid as their next read.",
+      "hash": "3eee7e6e64af3c1ead1464c989ecdd5b",
+      "metadata": {
+        "ordinal": 146,
+        "triple": {
+          "subject_id": "user's_book_club",
+          "predicate_norm": "be considering",
+          "object_text": "'The Seven Husbands of Evelyn Hugo' by Taylor Jenkins Reid as their next read",
+          "confidence": 0.9,
+          "subject_raw": "User's book club",
+          "predicate_raw": "is considering"
+        }
+      },
+      "score": 0.20538799973340968,
+      "created_at": "2026-07-06T07:49:06.817989-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2ef55ab8-61b6-43f4-8370-a9bacc6cac82",
+      "memory": "User would like to know more about how the author's experiences with gender dysphoria influenced their understanding of their gender identity.",
+      "hash": "a4bd22dbb3c97a545eead5f79102d823",
+      "metadata": {
+        "ordinal": 125,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like to know more about",
+          "object_text": "how the author's experiences with gender dysphoria influenced their understanding of their gender identity",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "would like to know more about"
+        }
+      },
+      "score": 0.20473277348466154,
+      "created_at": "2026-07-06T07:48:50.788700-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5e540290-0838-46a4-ade4-207782c76c12",
+      "memory": "User is thinking about displaying their antique camera collection in their newly renovated basement.",
+      "hash": "56df50fff86f5b0973fd52c588cd859d",
+      "metadata": {
+        "ordinal": 234,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20445830547721286,
+      "created_at": "2026-07-06T07:50:29.746000-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5cc25c43-864e-47ae-9b8b-9e7ca7d5f22e",
+      "memory": "Badgers will move to new areas temporarily in response to changes in their environment or availability of resources.",
+      "hash": "d56f1dc2fdc9456b8d339cbc0715afdd",
+      "metadata": {
+        "ordinal": 69,
+        "triple": {
+          "subject_id": "badgers",
+          "predicate_norm": "will move to new areas temporarily in response to",
+          "object_text": "changes in their environment or availability of resources",
+          "confidence": 0.85,
+          "subject_raw": "Badgers",
+          "predicate_raw": "will move to new areas temporarily in response to"
+        }
+      },
+      "score": 0.20391544046269083,
+      "created_at": "2026-07-06T07:48:16.874612-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2b493276-f6c3-40dc-ad6d-5a87e0c090c1",
+      "memory": "User has been meaning to check out 'The Haunting of Hill House' since finishing 'Stranger Things'.",
+      "hash": "9b8445e331a52938e8e124ec2dee421f",
+      "metadata": {
+        "ordinal": 240,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be meaning to check out",
+          "object_text": "'The Haunting of Hill House'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been meaning to check out"
+        }
+      },
+      "score": 0.2037511746906156,
+      "created_at": "2026-07-06T07:50:42.259426-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "62179c4c-1778-493c-8b40-9ed954e9c515",
+      "memory": "User is looking for a more relaxed beach town.",
+      "hash": "c0ed31962b3723c535218496c9bd7370",
+      "metadata": {
+        "ordinal": 374,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be looking for",
+          "object_text": "a more relaxed beach town",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is looking for"
+        }
+      },
+      "score": 0.20340593464638854,
+      "created_at": "2026-07-06T07:52:12.412188-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1de0389b-ed1b-488c-a3c9-fab206950cef",
+      "memory": "User is hopeful for the future of workplace equality.",
+      "hash": "271ca42f9bcdc2baf2da9cbd99c6444c",
+      "metadata": {
+        "ordinal": 228,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20188826813288105,
+      "created_at": "2026-07-06T07:50:23.549827-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1d4c0ab6-d5c7-4739-81e4-4a0cfdb32036",
+      "memory": "User would like to know more about how the author's experiences with gender dysphoria influenced their understanding of their gender identity, particularly in relation to their race and sexual orientation.",
+      "hash": "6a339e35d4da5e6cc516ddc0e9406c63",
+      "metadata": {
+        "ordinal": 126,
+        "triple": null,
+        "subject_fallback": "author"
+      },
+      "score": 0.2007596637273161,
+      "created_at": "2026-07-06T07:48:50.790356-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9fd4ab6e-3742-4b8e-b29b-4530e99b1520",
+      "memory": "User watered their snake plant thoroughly on May 24, 2023.",
+      "hash": "414b9a05cde38c88521d21fc2852f5a4",
+      "metadata": {
+        "ordinal": 292,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "watered",
+          "object_text": "their snake plant thoroughly on May 24, 2023",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "watered"
+        }
+      },
+      "score": 0.19994384150618982,
+      "created_at": "2026-07-06T07:51:21.786507-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "de34d2b1-a3fe-4edc-bdeb-3edd89c1a3eb",
+      "memory": "User recently made a pasta salad with cherry tomatoes, mozzarella, and basil.",
+      "hash": "b68f5d75392de677a72d05423d793d8c",
+      "metadata": {
+        "ordinal": 108,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "made",
+          "object_text": "a pasta salad with cherry tomatoes, mozzarella, and basil",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "made"
+        }
+      },
+      "score": 0.19915633220866447,
+      "created_at": "2026-07-06T07:48:45.974569-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4e5eb7d7-5d1d-4303-af1e-ca576da23487",
+      "memory": "User enjoys listening to true crime stories during their daily commute.",
+      "hash": "e89fcfa8e2da7d5ae4ac9d6de8b6a33a",
+      "metadata": {
+        "ordinal": 241,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "enjoys listening to",
+          "object_text": "true crime stories",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "enjoys listening to"
+        }
+      },
+      "score": 0.19862107099152776,
+      "created_at": "2026-07-06T07:50:42.264685-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b21e9b33-bf61-4683-ac94-9c560acd2dd5",
+      "memory": "User is planning to attend a book launch event for a local author's debut novel, 'The Art of Falling', on March 1st.",
+      "hash": "9092164f32afaea1f58fbf52d338cd7b",
+      "metadata": {
+        "ordinal": 19,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning to attend",
+          "object_text": "a book launch event for a local author's debut novel, 'The Art of Falling', on March 1st",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to attend"
+        }
+      },
+      "score": 0.19858071797978533,
+      "created_at": "2026-07-06T07:47:56.206151-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4516e9f2-644d-4943-8ca8-99297e94e05c",
+      "memory": "User liked the atmosphere of the cafe, it was cozy and modern.",
+      "hash": "56fa2bea500ec5a5ead95d3e18ebd034",
+      "metadata": {
+        "ordinal": 340,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19787229648964688,
+      "created_at": "2026-07-06T07:51:42.300840-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "74750d92-0677-4975-ad88-b4712f024b7a",
+      "memory": "User tried out a new cafe downtown and thought it was really good.",
+      "hash": "31e83d1d396368c9e09770f964b10111",
+      "metadata": {
+        "ordinal": 339,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19742870986494465,
+      "created_at": "2026-07-06T07:51:42.293381-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bf6129b3-e5ee-4710-bf78-19a9d0e099aa",
+      "memory": "The user thinks about how technology can affect character development.",
+      "hash": "4eea0ee5afd25392372fec547c6e7529",
+      "metadata": {
+        "ordinal": 288,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19590986521275733,
+      "created_at": "2026-07-06T07:51:15.683726-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e26ba1ff-7c13-4713-bb44-8e918f83dedc",
+      "memory": "User reflected on their own biases and privileges during the discussion of 'The Hate U Give'.",
+      "hash": "951aa4cb5237f7d47c97bd533e30607a",
+      "metadata": {
+        "ordinal": 145,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "reflected on",
+          "object_text": "their own biases and privileges during the discussion of 'The Hate U Give'",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "reflected on"
+        }
+      },
+      "score": 0.19588820007033725,
+      "created_at": "2026-07-06T07:49:06.816796-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "609456ca-6bfb-4566-8067-5a2904f5c566",
+      "memory": "The user finds it interesting how technology can have a significant impact on character development.",
+      "hash": "bb49f7dd5a4c4eea667ee3be22af3f2e",
+      "metadata": {
+        "ordinal": 286,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19579756031959553,
+      "created_at": "2026-07-06T07:51:15.670134-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "095719e8-0eff-4cfb-9dbb-ed0d79a5e87a",
+      "memory": "User has been to Miami Beach before.",
+      "hash": "aea5125927b24ea262cf8bc0c9445616",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be to",
+          "object_text": "Miami Beach",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been to"
+        }
+      },
+      "score": 0.194747020202999,
+      "created_at": "2026-07-06T07:52:12.408547-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "05087147-5fae-4612-9e20-c287278a8ab5",
+      "memory": "The user is exploring how to estimate a good photographic topic.",
+      "hash": "111759ad69e17c638ea667115c34ea42",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be exploring",
+          "object_text": "how to estimate a good photographic topic",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is exploring"
+        }
+      },
+      "score": 0.19350686724598315,
+      "created_at": "2026-07-06T07:51:48.997683-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "49d02aad-57c1-4791-b852-1d73187321a9",
+      "memory": "User found cool photos from their maternal grandparents' 50th wedding anniversary celebration, which was on June 17th.",
+      "hash": "956e1f1f41ccdb4c133fc815ccf19173",
+      "metadata": {
+        "ordinal": 328,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "found",
+          "object_text": "cool photos from their maternal grandparents' 50th wedding anniversary celebration, which was on June 17th",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "found"
+        }
+      },
+      "score": 0.1919922623710423,
+      "created_at": "2026-07-06T07:51:37.189151-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e9ec472d-7697-4484-bb16-081ddcb68b49",
+      "memory": "User is hoping to have a similar experience at the book launch event.",
+      "hash": "7eaacd9149df37df0d28e73398eba894",
+      "metadata": {
+        "ordinal": 22,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19063688633632114,
+      "created_at": "2026-07-06T07:47:56.216635-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8f8caab7-e37d-4d08-bea1-f9dfeb478ca4",
+      "memory": "User is thinking of propagating some of their African Violet cuttings to share with friends who love houseplants.",
+      "hash": "056097e889b609e03911679ec3fc8cdb",
+      "metadata": {
+        "ordinal": 298,
+        "triple": null,
+        "subject_fallback": "user's_african_violet_cuttings"
+      },
+      "score": 0.19056707850708673,
+      "created_at": "2026-07-06T07:51:21.810756-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "93a1df89-20a2-44e4-a72b-2bfdcbe878d5",
+      "memory": "User is thinking of creating a succulent arrangement on their dining table.",
+      "hash": "ab46813b2d05ae5c57f33ba75afcdc86",
+      "metadata": {
+        "ordinal": 291,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1895977989206616,
+      "created_at": "2026-07-06T07:51:21.777748-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e6354bf8-3071-42c7-98a6-30ab116f6e62",
+      "memory": "User has been binge-watching a lot of TV shows lately.",
+      "hash": "840c86f069629f1d62a6911569cfb3f1",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be binge watching",
+          "object_text": "a lot of TV shows",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been binge-watching"
+        }
+      },
+      "score": 0.18930938163089378,
+      "created_at": "2026-07-06T07:50:42.287926-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2b880f72-bd5b-48da-84d2-7bb7a1d149fb",
+      "memory": "User recently got a beautiful armchair from an estate sale at a huge old mansion on the outskirts of town.",
+      "hash": "3580bd231fc8af9ce08e704d4528e5ed",
+      "metadata": {
+        "ordinal": 158,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently got",
+          "object_text": "a beautiful armchair from an estate sale at a huge old mansion on the outskirts of town",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "recently got"
+        }
+      },
+      "score": 0.18878328445309758,
+      "created_at": "2026-07-06T07:49:21.389971-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0b05cb42-6f00-4944-a907-b13e823ef439",
+      "memory": "User plans to check out the Mission District for some Mexican food in San Francisco.",
+      "hash": "5a8045bcb17c5e88a6201d483d20fa57",
+      "metadata": {
+        "ordinal": 223,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "plans to check out",
+          "object_text": "the Mission District for some Mexican food in San Francisco",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "plans to check out"
+        }
+      },
+      "score": 0.1878204915868209,
+      "created_at": "2026-07-06T07:50:18.422932-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "86e2cb34-4d3d-4a14-a1c3-92f7351e8657",
+      "memory": "User's book club discussed 'The Hate U Give' by Angie Thomas.",
+      "hash": "e0350e3ffd81bbe9bf00010169769446",
+      "metadata": {
+        "ordinal": 142,
+        "triple": {
+          "subject_id": "user's_book_club",
+          "predicate_norm": "discussed",
+          "object_text": "'The Hate U Give' by Angie Thomas",
+          "confidence": 0.95,
+          "subject_raw": "User's book club",
+          "predicate_raw": "discussed"
+        }
+      },
+      "score": 0.1864072443052999,
+      "created_at": "2026-07-06T07:49:06.813085-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0acd2256-ecc4-4e95-ad36-31d4b65a16f5",
+      "memory": "User has been cooking a lot at home lately.",
+      "hash": "939d2d6e9bcd86f0b7d45b185e66f55b",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be cooking",
+          "object_text": "a lot at home lately",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been cooking"
+        }
+      },
+      "score": 0.18583089964393812,
+      "created_at": "2026-07-06T07:48:45.988809-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8da30861-672a-4d50-b648-8cfe76815a3f",
+      "memory": "User is interested in trying Spaghetti Carbonara and Fettuccine Alfredo.",
+      "hash": "10867680a9ed74709d29bcd97569141a",
+      "metadata": {
+        "ordinal": 36,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in trying",
+          "object_text": "Spaghetti Carbonara and Fettuccine Alfredo",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in trying"
+        }
+      },
+      "score": 0.1832161313870629,
+      "created_at": "2026-07-06T07:48:03.904553-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "34d51110-9fca-4ad7-b129-ab6201d82293",
+      "memory": "User is looking for new book recommendations.",
+      "hash": "cb6655ee51ab00a78866003522707295",
+      "metadata": {
+        "ordinal": 136,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.18235968504146335,
+      "created_at": "2026-07-06T07:49:06.804318-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4f6533e5-ece8-4d50-84bb-c5ebd94659e5",
+      "memory": "User's book club had a lively discussion about the themes of systemic racism and police brutality.",
+      "hash": "3c9740b0cc2b13abbc808e5428dcb58e",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "user's_book_club",
+          "predicate_norm": "had lively discussion about",
+          "object_text": "the themes of systemic racism and police brutality",
+          "confidence": 0.9,
+          "subject_raw": "User's book club",
+          "predicate_raw": "had a lively discussion about"
+        }
+      },
+      "score": 0.1805993316956805,
+      "created_at": "2026-07-06T07:49:06.814354-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6fcb412d-1708-4270-bc87-51afb3edb415",
+      "memory": "User has been listening to 'My Favorite Murder' for over a year.",
+      "hash": "75250ede2717be0b4a3411a20774f23a",
+      "metadata": {
+        "ordinal": 242,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "'My Favorite Murder'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.1801961489510865,
+      "created_at": "2026-07-06T07:50:42.268698-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "015c75f3-84ee-4452-9054-5f6f020dad6d",
+      "memory": "User usually has some free time on Sundays.",
+      "hash": "ca8faeebe904bb4e2b052b217171207d",
+      "metadata": {
+        "ordinal": 149,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "usually has",
+          "object_text": "some free time on Sundays",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "usually has"
+        }
+      },
+      "score": 0.17898970493206523,
+      "created_at": "2026-07-06T07:49:14.897397-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "7f6c3b11-b15d-4423-ba43-f0d42442662a",
+      "memory": "The user is interested in combining different elements to create a very interesting photographic topic.",
+      "hash": "746dfc4e9af537035ff20416020cf103",
+      "metadata": {
+        "ordinal": 346,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in",
+          "object_text": "combining different elements to create a very interesting photographic topic",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.1783369961147612,
+      "created_at": "2026-07-06T07:51:49.000473-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "37583456-47a5-4ce4-b658-bb3003808c4c",
+      "memory": "User is really interested in 'Sissy: A Coming-of-Gender Story' by Jacob Tobia.",
+      "hash": "9b670da44108b662977ef06c6976c16e",
+      "metadata": {
+        "ordinal": 124,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be really interested in",
+          "object_text": "'Sissy: A Coming-of-Gender Story' by Jacob Tobia",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is really interested in"
+        }
+      },
+      "score": 0.17814361636392498,
+      "created_at": "2026-07-06T07:48:50.786802-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4b8c128d-3768-4d24-b244-b1e0fef7ab02",
+      "memory": "User is thinking of propagating some of their spider plant cuttings to share with friends and family.",
+      "hash": "2eb35a7e2ad6448884a83dca69e947fa",
+      "metadata": {
+        "ordinal": 296,
+        "triple": null,
+        "subject_fallback": "user's_spider_plant"
+      },
+      "score": 0.1776548275047932,
+      "created_at": "2026-07-06T07:51:21.804784-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5ad500a2-ea43-400b-a9a4-d9cc2fd1c14e",
+      "memory": "User's book club talked about the importance of activism and using one's voice to create change.",
+      "hash": "48e6c57cf1c4dedcd03ca76e4817a4db",
+      "metadata": {
+        "ordinal": 144,
+        "triple": {
+          "subject_id": "user's_book_club",
+          "predicate_norm": "talked about",
+          "object_text": "the importance of activism and using one's voice to create change",
+          "confidence": 0.9,
+          "subject_raw": "User's book club",
+          "predicate_raw": "talked about"
+        }
+      },
+      "score": 0.17667429139228427,
+      "created_at": "2026-07-06T07:49:06.815580-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "760d8f64-9966-4adc-9a55-9099b7a9d296",
+      "memory": "User would like to try the Lake Springfield Trail for their next run.",
+      "hash": "3a0f526c791c0d328d78d366ab696b31",
+      "metadata": {
+        "ordinal": 203,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like to try",
+          "object_text": "the Lake Springfield Trail for their next run",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "would like to try"
+        }
+      },
+      "score": 0.1765260748572311,
+      "created_at": "2026-07-06T07:49:55.951608-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "80929a63-a093-4736-901e-7252cc20991f",
+      "memory": "User is interested in trying out some new pasta dishes.",
+      "hash": "80c94cc962095be182c5d786ca35661a",
+      "metadata": {
+        "ordinal": 38,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in trying out",
+          "object_text": "some new pasta dishes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in trying out"
+        }
+      },
+      "score": 0.17589659159942178,
+      "created_at": "2026-07-06T07:48:03.910378-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bf17d9b8-2c48-4fbb-9277-683265734617",
+      "memory": "User has placed the antique vase on their living room mantle.",
+      "hash": "b724f51aed250ffcbfe3cd6641e04e14",
+      "metadata": {
+        "ordinal": 233,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has placed",
+          "object_text": "the antique vase on their living room mantle",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has placed"
+        }
+      },
+      "score": 0.17527115481880134,
+      "created_at": "2026-07-06T07:50:29.741865-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4a821c7e-7340-4a78-a26c-51874817dc67",
+      "memory": "User is intrigued by the story of a reclusive Hollywood star and her seven marriages.",
+      "hash": "e7a40980cfedb23953e6c315bfebf90d",
+      "metadata": {
+        "ordinal": 147,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be intrigued by",
+          "object_text": "the story of a reclusive Hollywood star and her seven marriages",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is intrigued by"
+        }
+      },
+      "score": 0.1749772861518024,
+      "created_at": "2026-07-06T07:49:06.819395-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "48877409-c960-4ff7-914d-f808866e1534",
+      "memory": "The user wonders if there are any ways that technology could be designed to specifically promote positive character traits in users.",
+      "hash": "970a0fa5b671668116eb39883813779b",
+      "metadata": {
+        "ordinal": 289,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17430952410005837,
+      "created_at": "2026-07-06T07:51:15.688017-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "69e854fe-7dcd-40a0-a8cf-cecf52417c45",
+      "memory": "User has been on a roll with reading lately.",
+      "hash": "7addb748fa78e48f77f546423026f504",
+      "metadata": {
+        "ordinal": 137,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17290114388944067,
+      "created_at": "2026-07-06T07:49:06.806271-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "83f1eabe-4934-4589-8cb0-6b30d50f8620",
+      "memory": "User was thinking of getting new throw blankets to match the colors of their new rug.",
+      "hash": "4f3df06c5db4067fc66d531a319904b5",
+      "metadata": {
+        "ordinal": 175,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking getting",
+          "object_text": "new throw blankets to match the colors of their new rug",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "was thinking of getting"
+        }
+      },
+      "score": 0.17188087835656696,
+      "created_at": "2026-07-06T07:49:29.830623-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bb509b4a-0ba0-4026-bc74-4396e2285647",
+      "memory": "User is looking to explore online courses to improve their project management skills.",
+      "hash": "64e9000df12efc7074ff2feb5ab38815",
+      "metadata": {
+        "ordinal": 74,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17171899263784612,
+      "created_at": "2026-07-06T07:48:22.468565-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "887a2f59-afe5-4bae-a20d-a4278a8d16b8",
+      "memory": "User is looking for recommendations for a good breakfast spot in the city.",
+      "hash": "734f0f2ff37586ed5685dd1410eac895",
+      "metadata": {
+        "ordinal": 342,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.171336468128651,
+      "created_at": "2026-07-06T07:51:42.309748-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "f7bc6d8f-a8f0-4167-a250-0a6bb309f4e0",
+      "memory": "The user wonders if there are any specific types of technology that have a stronger impact on character development than others.",
+      "hash": "2fa1f60fbd8a3528a9e647c72256bc33",
+      "metadata": {
+        "ordinal": 287,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17071747186439448,
+      "created_at": "2026-07-06T07:51:15.678707-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "91ca73f5-5e27-47ce-9a94-e7a36b18e369",
+      "memory": "User has been experimenting with Italian dishes quite a bit lately.",
+      "hash": "e445a15da6f5e3fd6b495417443247ba",
+      "metadata": {
+        "ordinal": 33,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.16932846405756247,
+      "created_at": "2026-07-06T07:48:03.891069-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "16454e6b-fd3c-426a-8b37-8e50b1306658",
+      "memory": "The user hopes that technology can actually make a positive impact on society because it feels like there are so many negative effects that come along with it.",
+      "hash": "7110de009a4aed4d776501ca2242af41",
+      "metadata": {
+        "ordinal": 290,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1691931456155587,
+      "created_at": "2026-07-06T07:51:15.691688-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "aad39dfa-1057-484c-a7d5-885d416758c6",
+      "memory": "User has been watching a lot of Netflix originals lately.",
+      "hash": "4cb884d38cfc3cd9b84640b037c69c8c",
+      "metadata": {
+        "ordinal": 245,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be watching",
+          "object_text": "a lot of Netflix originals",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been watching"
+        }
+      },
+      "score": 0.16793485655605972,
+      "created_at": "2026-07-06T07:50:42.278018-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d3d080d7-a550-4478-8b1f-d8d8504250db",
+      "memory": "The user is looking for ways to integrate humor into photography.",
+      "hash": "858522293bdecffc20dec5f4969e0c8b",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be looking for",
+          "object_text": "ways to integrate humor into photography",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is looking for"
+        }
+      },
+      "score": 0.16569302706980593,
+      "created_at": "2026-07-06T07:51:49.002983-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a85bb466-c5f7-4a11-a365-e6ea3f84b7f4",
+      "memory": "User is thinking of starting their own collection of vintage jewelry.",
+      "hash": "e56f81699aaf2a3e9557baec22b8cd92",
+      "metadata": {
+        "ordinal": 231,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.16547887960160332,
+      "created_at": "2026-07-06T07:50:29.730524-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "39ac56bd-607a-4fb9-80c6-53ab436dd748",
+      "memory": "User wants to stay in Fort Myers Beach itself.",
+      "hash": "7d072bd9c604ee82e08c087f2133eaa3",
+      "metadata": {
+        "ordinal": 379,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "wants to stay in",
+          "object_text": "Fort Myers Beach itself",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to stay in"
+        }
+      },
+      "score": 0.16536353276326954,
+      "created_at": "2026-07-06T07:52:12.425484-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "dab81c0d-ac89-4354-9444-97a130ad99d5",
+      "memory": "User is always looking for new true crime podcasts to listen to.",
+      "hash": "fc9a37e4e339286a6d5de0ac39f5b26d",
+      "metadata": {
+        "ordinal": 243,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be always looking for",
+          "object_text": "new true crime podcasts",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is always looking for"
+        }
+      },
+      "score": 0.16517058496174858,
+      "created_at": "2026-07-06T07:50:42.272165-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1933e9fb-a725-4a73-ac8b-4618e801e59f",
+      "memory": "User is getting a new phone mount for their car.",
+      "hash": "e083942395b857d4c0500c8680737315",
+      "metadata": {
+        "ordinal": 211,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be getting",
+          "object_text": "a new phone mount for their car",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is getting"
+        }
+      },
+      "score": 0.1649447950983976,
+      "created_at": "2026-07-06T07:50:03.850287-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "18f9fe31-d221-4adb-a96a-fe7038654048",
+      "memory": "User is interested in vegan or vegetarian-friendly restaurants in San Francisco.",
+      "hash": "edeec08e85cfdf52a1fd41bb302aaa5f",
+      "metadata": {
+        "ordinal": 224,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in",
+          "object_text": "vegan or vegetarian-friendly restaurants in San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.1629570145269583,
+      "created_at": "2026-07-06T07:50:18.424822-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": [
+    {
+      "id": "10a93c22-b4be-44e5-adf5-2c75b6d3a431",
+      "memory": "User is thinking about visiting their friend Rachel who recently moved to a new apartment in Chicago.",
+      "hash": "f974c2b4ae0a6f2a1d9de661918ebfeb",
+      "metadata": {
+        "ordinal": 284,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking about visiting",
+          "object_text": "Rachel",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking about visiting"
+        }
+      },
+      "score": 0.5505088405242228,
+      "created_at": "2026-07-06T07:51:11.582174-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9e0f085d-845c-40b3-96df-7630ad0931a3",
+      "memory": "User's friend Rachel just moved back to the suburbs.",
+      "hash": "1755c4d5226709503714e4babf36e81d",
+      "metadata": {
+        "ordinal": 375,
+        "triple": {
+          "subject_id": "user's_friend_rachel",
+          "predicate_norm": "just moved back to",
+          "object_text": "the suburbs",
+          "confidence": 0.95,
+          "subject_raw": "User's friend Rachel",
+          "predicate_raw": "just moved back to"
+        }
+      },
+      "score": 0.5245329145945785,
+      "created_at": "2026-07-06T07:52:12.415194-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ca35c483-0147-4eac-96a7-907c9eff451c",
+      "memory": "User got to ask the author Rachel Smith a question during the Q&A session at the January 10th event.",
+      "hash": "46b895a13278de6e22ac37e72799da54",
+      "metadata": {
+        "ordinal": 21,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "got to ask",
+          "object_text": "the author Rachel Smith a question during the Q&A session at the January 10th event",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "got to ask"
+        }
+      },
+      "score": 0.45370762002405957,
+      "created_at": "2026-07-06T07:47:56.213798-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6fe1f451-d64f-40bf-9cbb-34c59668ce83",
+      "memory": "Rachel lives in Chicago.",
+      "hash": "871b8e75592cebb92eeb249636353405",
+      "metadata": {
+        "ordinal": 285,
+        "triple": {
+          "subject_id": "rachel",
+          "predicate_norm": "lives in",
+          "object_text": "Chicago",
+          "confidence": 0.95,
+          "subject_raw": "Rachel",
+          "predicate_raw": "lives in"
+        }
+      },
+      "score": 0.45199522200020104,
+      "created_at": "2026-07-06T07:51:11.586603-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "10b8b879-3c5c-45c5-a3c4-bf6a4a834f80",
+      "memory": "User found it interesting to hear about Rachel Smith's writing process.",
+      "hash": "e447e4a566611bb8d8b690daa10f9819",
+      "metadata": {
+        "ordinal": 18,
+        "triple": null,
+        "subject_fallback": "rachel_smith"
+      },
+      "score": 0.3430800183838383,
+      "created_at": "2026-07-06T07:47:56.202537-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "806d9032-3cee-4fa6-809a-08246c4dead3",
+      "memory": "User rearranged their living room last weekend.",
+      "hash": "ec93668f912788fa4e07ef19d1ae2afa",
+      "metadata": {
+        "ordinal": 166,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "rearranged",
+          "object_text": "their living room last weekend",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "rearranged"
+        }
+      },
+      "score": 0.3165146318215054,
+      "created_at": "2026-07-06T07:49:29.802981-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8d40f10d-db78-4870-bb56-0ea94f0ef966",
+      "memory": "User attended a book reading event at the local library a month ago.",
+      "hash": "bbe93e8aa86a79e9b3cff7060b3344c4",
+      "metadata": {
+        "ordinal": 16,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "attended",
+          "object_text": "a book reading event at the local library a month ago",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.2873238517951707,
+      "created_at": "2026-07-06T07:47:56.192426-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d093f20e-d565-411d-a152-e8b6bb784afc",
+      "memory": "User is interested in finding out about new restaurants or cafes in the city.",
+      "hash": "edb08a095752ccb72622d9ab0f0e5547",
+      "metadata": {
+        "ordinal": 343,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.27737275233886727,
+      "created_at": "2026-07-06T07:51:42.313467-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "658079ba-bfcd-4aa9-acba-096f5a23bed9",
+      "memory": "User is going to try to find out more about the history of the armchair.",
+      "hash": "aae7b942d89a2ec8e798871df377e303",
+      "metadata": {
+        "ordinal": 163,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be going to try to find out more about",
+          "object_text": "the history of the armchair",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is going to try to find out more about"
+        }
+      },
+      "score": 0.257505049705485,
+      "created_at": "2026-07-06T07:49:21.411873-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "27977d5c-76f2-4b0b-be46-67faee707ec3",
+      "memory": "User likes the idea of a conversational circle and a floating furniture arrangement.",
+      "hash": "e60a1cfeb17c9cad53f44879852dc7e6",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "likes",
+          "object_text": "the idea of a conversational circle and a floating furniture arrangement",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "likes"
+        }
+      },
+      "score": 0.25424940475418034,
+      "created_at": "2026-07-06T07:48:35.019810-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "314f884d-78e8-4789-b128-aa0c04738983",
+      "memory": "User is planning on visiting San Francisco.",
+      "hash": "bac470d894b4156d6b6f7fdcc333ef4b",
+      "metadata": {
+        "ordinal": 221,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning on visiting",
+          "object_text": "San Francisco",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning on visiting"
+        }
+      },
+      "score": 0.2529434838418358,
+      "created_at": "2026-07-06T07:50:18.418864-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ebc04c52-7481-43a7-ae3f-36a3b31e5cc9",
+      "memory": "User is from the same area where their maternal grandparents live.",
+      "hash": "93ad69a0005f1146e647dfa281958dc7",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be from",
+          "object_text": "the same area where their maternal grandparents live",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is from"
+        }
+      },
+      "score": 0.25244925489870423,
+      "created_at": "2026-07-06T07:51:37.192023-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c4cb57d9-756e-4d90-b902-aab5e1a9d857",
+      "memory": "User is thinking of planning a trip with some friends.",
+      "hash": "742be6c24dae52cecc0135af1674a8f1",
+      "metadata": {
+        "ordinal": 371,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2520336860222848,
+      "created_at": "2026-07-06T07:52:12.398494-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "fbae0f6f-ff90-423f-b58c-d82327f5d302",
+      "memory": "User is interested in learning more about others' experiences related to gender identity, race, and sexual orientation.",
+      "hash": "a0fb5fdc299c4d0ab01e04e17ef530eb",
+      "metadata": {
+        "ordinal": 123,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.24869128462109508,
+      "created_at": "2026-07-06T07:48:50.784758-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "89e1a6f6-7e75-4546-a87c-7557e7878ede",
+      "memory": "User recently started a book club with friends from work.",
+      "hash": "1a6cfb05a3207515e16fe18ea1e356d8",
+      "metadata": {
+        "ordinal": 141,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "started book club with",
+          "object_text": "friends from work",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "started a book club with"
+        }
+      },
+      "score": 0.2443353916377278,
+      "created_at": "2026-07-06T07:49:06.811802-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ddfb89e6-d04f-48a6-bb9d-abd3a3427790",
+      "memory": "User attended a book reading event at the local library on January 10th.",
+      "hash": "c22f0b29fdca77aeb9731e9a07fb2b20",
+      "metadata": {
+        "ordinal": 20,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "attended",
+          "object_text": "a book reading event at the local library on January 10th",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.24402417509348936,
+      "created_at": "2026-07-06T07:47:56.210614-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b9668c4d-3e32-4e89-bb10-93df1bd73877",
+      "memory": "User is planning a trip to visit their paternal grandparents in August.",
+      "hash": "ecfbe616463c93591e4ea32cde43d20a",
+      "metadata": {
+        "ordinal": 321,
+        "triple": null,
+        "subject_fallback": "user's_paternal_grandparents"
+      },
+      "score": 0.24401295864108208,
+      "created_at": "2026-07-06T07:51:37.155117-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0276470d-f0e9-48ea-a08e-4134ed7f79dd",
+      "memory": "User has been approached by a recruiter from a rival company, offering them a position as a technical lead.",
+      "hash": "bac3a7ac8e979729c3c32837fa5d6930",
+      "metadata": {
+        "ordinal": 79,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be approached by",
+          "object_text": "a recruiter from a rival company, offering them a position as a technical lead",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "has been approached by"
+        }
+      },
+      "score": 0.24371193337041827,
+      "created_at": "2026-07-06T07:48:22.496603-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "289a351c-d72b-4b5c-818b-1d9329859e72",
+      "memory": "User lives in Springfield, Illinois.",
+      "hash": "0cc2d7757cdfc82d79378968f94acb32",
+      "metadata": {
+        "ordinal": 199,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "lives in",
+          "object_text": "Springfield, Illinois",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "lives in"
+        }
+      },
+      "score": 0.23924412881532542,
+      "created_at": "2026-07-06T07:49:55.937061-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "caed2e65-cbe7-4279-98fc-72b6fcab3116",
+      "memory": "Rachel Smith talked about her new novel 'The Lost City' at the book reading event.",
+      "hash": "d334587418cc3fc97044e2af6c256464",
+      "metadata": {
+        "ordinal": 17,
+        "triple": {
+          "subject_id": "rachel_smith",
+          "predicate_norm": "talked about",
+          "object_text": "her new novel 'The Lost City' at the book reading event",
+          "confidence": 0.9,
+          "subject_raw": "Rachel Smith",
+          "predicate_raw": "talked about"
+        }
+      },
+      "score": 0.23689512917238964,
+      "created_at": "2026-07-06T07:47:56.197667-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1627a9f9-15a8-4f9b-9dd8-00d6fb65b568",
+      "memory": "User recently bought a new sectional sofa at a local furniture store on October 30th.",
+      "hash": "34601c8a2597a028bfe51955c7de962d",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "bought",
+          "object_text": "a new sectional sofa at a local furniture store on October 30th",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "bought"
+        }
+      },
+      "score": 0.2323902455315607,
+      "created_at": "2026-07-06T07:48:34.984804-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "3950061e-02ec-478b-ac29-b31f35d90fdc",
+      "memory": "User is 20 years old.",
+      "hash": "e00dc2b1db1aea5be26c1731f5fb5228",
+      "metadata": {
+        "ordinal": 324,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be",
+          "object_text": "20 years old",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.23222344981111548,
+      "created_at": "2026-07-06T07:51:37.175600-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "24c18982-c472-4569-aab0-073f331e52db",
+      "memory": "User's living room is around 15 by 20 feet.",
+      "hash": "7e75d2a39715e77bb4f6212a9f0584e7",
+      "metadata": {
+        "ordinal": 93,
+        "triple": {
+          "subject_id": "user's_living_room",
+          "predicate_norm": "be around",
+          "object_text": "15 by 20 feet",
+          "confidence": 0.95,
+          "subject_raw": "user's living room",
+          "predicate_raw": "is around"
+        }
+      },
+      "score": 0.22969101188043278,
+      "created_at": "2026-07-06T07:48:34.997360-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5762a53f-cf2d-4112-92bd-e24084b532eb",
+      "memory": "User had chili con carne for lunch and dinner for a few days.",
+      "hash": "dfe69669ede92ae6e8652bf2bfe8d3c2",
+      "metadata": {
+        "ordinal": 113,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "had",
+          "object_text": "chili con carne for lunch and dinner for a few days",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "had"
+        }
+      },
+      "score": 0.22894855860891283,
+      "created_at": "2026-07-06T07:48:45.995306-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d06e8f65-a697-444f-a38f-11eee00b7454",
+      "memory": "User recently went through some old family photos.",
+      "hash": "3c5578fc3fe2be79aa45bebe690c18b6",
+      "metadata": {
+        "ordinal": 327,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22892438110255564,
+      "created_at": "2026-07-06T07:51:37.186362-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5b46fe60-d9e0-4f6b-baa4-d4fac37852c4",
+      "memory": "User is hesitant to leave their current company, where they have built a strong network and have a sense of belonging.",
+      "hash": "be99310c9f767defad49dee7b9bdbd4b",
+      "metadata": {
+        "ordinal": 80,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22863990271040738,
+      "created_at": "2026-07-06T07:48:22.500325-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cafe1f83-8a76-4e62-95cd-71064ec3abb9",
+      "memory": "User got their new Netflix subscription around the 15th of March.",
+      "hash": "4712459a7e56b26544b1d3c0e39cb37f",
+      "metadata": {
+        "ordinal": 246,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "got their new netflix subscription around",
+          "object_text": "the 15th of March",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "got their new Netflix subscription around"
+        }
+      },
+      "score": 0.22721737127360128,
+      "created_at": "2026-07-06T07:50:42.280847-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1e60adeb-7b68-4e76-9810-6f051aa8254f",
+      "memory": "User has been thinking about how their gender identity intersects with their other demographic information, like their race and sexual orientation.",
+      "hash": "508a0ae54d4b70b3e3673b31ecbdfd8d",
+      "metadata": {
+        "ordinal": 122,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22143903200884302,
+      "created_at": "2026-07-06T07:48:50.782844-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "213b9a35-57d8-44a3-ac17-629bc51e8e3e",
+      "memory": "User's living room is a rectangle shape.",
+      "hash": "1fd8c7e644380421dac1a109f3967632",
+      "metadata": {
+        "ordinal": 94,
+        "triple": {
+          "subject_id": "user's_living_room",
+          "predicate_norm": "be",
+          "object_text": "a rectangle shape",
+          "confidence": 0.95,
+          "subject_raw": "user's living room",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.21851986682678903,
+      "created_at": "2026-07-06T07:48:35.001807-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "68899610-b13a-43d9-8bb2-2661ccddc4c8",
+      "memory": "User is planning to spend a week with their grandparents.",
+      "hash": "adb3ae0dcb3812456ea9756c47c6ba5f",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning to spend",
+          "object_text": "a week with their grandparents",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to spend"
+        }
+      },
+      "score": 0.21667182175135621,
+      "created_at": "2026-07-06T07:51:37.183456-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a1127c67-a62a-45d6-8637-30d5f67e47e7",
+      "memory": "User is planning a trip with friends and they are deciding between a beach town in Florida and a hiking trip in Colorado.",
+      "hash": "be034fe35c4aac647d6a2b77fbb3ccc5",
+      "metadata": {
+        "ordinal": 283,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.21564060762397363,
+      "created_at": "2026-07-06T07:51:11.576479-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "633a83af-97b3-410f-afaf-c95ed0ea7a5f",
+      "memory": "User is thinking of a modern style for their living room.",
+      "hash": "7af704e52a0d73270907074212c3970d",
+      "metadata": {
+        "ordinal": 96,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking",
+          "object_text": "a modern style for their living room",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of"
+        }
+      },
+      "score": 0.21322313552990688,
+      "created_at": "2026-07-06T07:48:35.009297-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "704063a1-9d5c-44ee-818d-1a0a4f4a18d1",
+      "memory": "User is unsure how to navigate their partner's conservative culture.",
+      "hash": "4fb92b9d703b8433698dc8f066e7a57e",
+      "metadata": {
+        "ordinal": 385,
+        "triple": null,
+        "subject_fallback": "user's_partner"
+      },
+      "score": 0.21256659041332834,
+      "created_at": "2026-07-06T07:52:17.136122-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "65a7720b-eacf-496d-b39d-a1f1567f0cb4",
+      "memory": "User is looking for interior design inspiration for their living room.",
+      "hash": "dc8833c3d44e8288cdf2e696f1364507",
+      "metadata": {
+        "ordinal": 90,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.21248994892253548,
+      "created_at": "2026-07-06T07:48:34.974858-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9c4f2565-0821-4650-8501-e7f5397a64b1",
+      "memory": "User has been cooking at home more frequently for about 3 months.",
+      "hash": "65ac7b65896d69c6a073f3876ef851c1",
+      "metadata": {
+        "ordinal": 34,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be cooking at home more frequently for",
+          "object_text": "about 3 months",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been cooking at home more frequently for"
+        }
+      },
+      "score": 0.20972850878974564,
+      "created_at": "2026-07-06T07:48:03.896339-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ad72170b-3ff0-4378-bc84-835b474de131",
+      "memory": "User is interested in learning more about the history of the pieces they have and potentially finding more to add to their collection.",
+      "hash": "9f964da2d54b3b003ddd6e86dd9812ee",
+      "metadata": {
+        "ordinal": 162,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in learning more about",
+          "object_text": "the history of the pieces they have and potentially finding more to add to their collection",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in learning more about"
+        }
+      },
+      "score": 0.20960245924356508,
+      "created_at": "2026-07-06T07:49:21.409051-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ab034613-662b-4ae7-b05f-affdb4c26195",
+      "memory": "User is worried about meeting their partner's family.",
+      "hash": "791b6a41f99f4ab94e6dba88261ce267",
+      "metadata": {
+        "ordinal": 382,
+        "triple": null,
+        "subject_fallback": "user's_partner"
+      },
+      "score": 0.20837668343968252,
+      "created_at": "2026-07-06T07:52:17.125038-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8de4d078-b669-483c-85b6-d5620109ac04",
+      "memory": "User's grandparents live in Orlando, Florida.",
+      "hash": "32a14325ec83905bff6108b3919242a6",
+      "metadata": {
+        "ordinal": 322,
+        "triple": {
+          "subject_id": "user's_grandparents",
+          "predicate_norm": "live in",
+          "object_text": "Orlando, Florida",
+          "confidence": 0.95,
+          "subject_raw": "User's grandparents",
+          "predicate_raw": "live in"
+        }
+      },
+      "score": 0.2082732436754478,
+      "created_at": "2026-07-06T07:51:37.164457-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1a03821b-aaf6-4850-bfef-2a1d418844ba",
+      "memory": "User is thinking of reaching out to some local antique dealers to get their opinion on their antique vase and potentially sell some of their antique cameras.",
+      "hash": "87ccdde62ebeb4f2e62946d649874a02",
+      "metadata": {
+        "ordinal": 237,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20813829124180383,
+      "created_at": "2026-07-06T07:50:29.756419-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c32f0c08-1d61-444f-959c-6e227bbb6781",
+      "memory": "User is looking for new TV shows to watch.",
+      "hash": "28432deb22e02bf2c07235254a368d72",
+      "metadata": {
+        "ordinal": 238,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20763518245424806,
+      "created_at": "2026-07-06T07:50:42.244664-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cd8f4423-bfa7-4179-855f-3e54d183e32e",
+      "memory": "The user is interested in the topic of aging in photography.",
+      "hash": "6245bed9276bdcb47ac0dea2335f7f8a",
+      "metadata": {
+        "ordinal": 348,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in",
+          "object_text": "the topic of aging in photography",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.2074321002338702,
+      "created_at": "2026-07-06T07:51:49.005205-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6a8dc80b-d404-41b8-a458-3f6075ac8998",
+      "memory": "User is thinking of restoring an antique armchair that they recently acquired from their friend Emma, which had belonged to her great aunt.",
+      "hash": "5fa924bfb886027aefdae5593e38bf49",
+      "metadata": {
+        "ordinal": 236,
+        "triple": null,
+        "subject_fallback": "emma"
+      },
+      "score": 0.2061142609972698,
+      "created_at": "2026-07-06T07:50:29.753443-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ab37a316-9368-469f-a38e-4664f7eb09c4",
+      "memory": "User's book club is considering 'The Seven Husbands of Evelyn Hugo' by Taylor Jenkins Reid as their next read.",
+      "hash": "3eee7e6e64af3c1ead1464c989ecdd5b",
+      "metadata": {
+        "ordinal": 146,
+        "triple": {
+          "subject_id": "user's_book_club",
+          "predicate_norm": "be considering",
+          "object_text": "'The Seven Husbands of Evelyn Hugo' by Taylor Jenkins Reid as their next read",
+          "confidence": 0.9,
+          "subject_raw": "User's book club",
+          "predicate_raw": "is considering"
+        }
+      },
+      "score": 0.20538799973340968,
+      "created_at": "2026-07-06T07:49:06.817989-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2ef55ab8-61b6-43f4-8370-a9bacc6cac82",
+      "memory": "User would like to know more about how the author's experiences with gender dysphoria influenced their understanding of their gender identity.",
+      "hash": "a4bd22dbb3c97a545eead5f79102d823",
+      "metadata": {
+        "ordinal": 125,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like to know more about",
+          "object_text": "how the author's experiences with gender dysphoria influenced their understanding of their gender identity",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "would like to know more about"
+        }
+      },
+      "score": 0.20473277348466154,
+      "created_at": "2026-07-06T07:48:50.788700-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5e540290-0838-46a4-ade4-207782c76c12",
+      "memory": "User is thinking about displaying their antique camera collection in their newly renovated basement.",
+      "hash": "56df50fff86f5b0973fd52c588cd859d",
+      "metadata": {
+        "ordinal": 234,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20445830547721286,
+      "created_at": "2026-07-06T07:50:29.746000-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5cc25c43-864e-47ae-9b8b-9e7ca7d5f22e",
+      "memory": "Badgers will move to new areas temporarily in response to changes in their environment or availability of resources.",
+      "hash": "d56f1dc2fdc9456b8d339cbc0715afdd",
+      "metadata": {
+        "ordinal": 69,
+        "triple": {
+          "subject_id": "badgers",
+          "predicate_norm": "will move to new areas temporarily in response to",
+          "object_text": "changes in their environment or availability of resources",
+          "confidence": 0.85,
+          "subject_raw": "Badgers",
+          "predicate_raw": "will move to new areas temporarily in response to"
+        }
+      },
+      "score": 0.20391544046269083,
+      "created_at": "2026-07-06T07:48:16.874612-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2b493276-f6c3-40dc-ad6d-5a87e0c090c1",
+      "memory": "User has been meaning to check out 'The Haunting of Hill House' since finishing 'Stranger Things'.",
+      "hash": "9b8445e331a52938e8e124ec2dee421f",
+      "metadata": {
+        "ordinal": 240,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be meaning to check out",
+          "object_text": "'The Haunting of Hill House'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been meaning to check out"
+        }
+      },
+      "score": 0.2037511746906156,
+      "created_at": "2026-07-06T07:50:42.259426-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "62179c4c-1778-493c-8b40-9ed954e9c515",
+      "memory": "User is looking for a more relaxed beach town.",
+      "hash": "c0ed31962b3723c535218496c9bd7370",
+      "metadata": {
+        "ordinal": 374,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be looking for",
+          "object_text": "a more relaxed beach town",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is looking for"
+        }
+      },
+      "score": 0.20340593464638854,
+      "created_at": "2026-07-06T07:52:12.412188-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1de0389b-ed1b-488c-a3c9-fab206950cef",
+      "memory": "User is hopeful for the future of workplace equality.",
+      "hash": "271ca42f9bcdc2baf2da9cbd99c6444c",
+      "metadata": {
+        "ordinal": 228,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20188826813288105,
+      "created_at": "2026-07-06T07:50:23.549827-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1d4c0ab6-d5c7-4739-81e4-4a0cfdb32036",
+      "memory": "User would like to know more about how the author's experiences with gender dysphoria influenced their understanding of their gender identity, particularly in relation to their race and sexual orientation.",
+      "hash": "6a339e35d4da5e6cc516ddc0e9406c63",
+      "metadata": {
+        "ordinal": 126,
+        "triple": null,
+        "subject_fallback": "author"
+      },
+      "score": 0.2007596637273161,
+      "created_at": "2026-07-06T07:48:50.790356-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9fd4ab6e-3742-4b8e-b29b-4530e99b1520",
+      "memory": "User watered their snake plant thoroughly on May 24, 2023.",
+      "hash": "414b9a05cde38c88521d21fc2852f5a4",
+      "metadata": {
+        "ordinal": 292,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "watered",
+          "object_text": "their snake plant thoroughly on May 24, 2023",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "watered"
+        }
+      },
+      "score": 0.19994384150618982,
+      "created_at": "2026-07-06T07:51:21.786507-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "de34d2b1-a3fe-4edc-bdeb-3edd89c1a3eb",
+      "memory": "User recently made a pasta salad with cherry tomatoes, mozzarella, and basil.",
+      "hash": "b68f5d75392de677a72d05423d793d8c",
+      "metadata": {
+        "ordinal": 108,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "made",
+          "object_text": "a pasta salad with cherry tomatoes, mozzarella, and basil",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "made"
+        }
+      },
+      "score": 0.19915633220866447,
+      "created_at": "2026-07-06T07:48:45.974569-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4e5eb7d7-5d1d-4303-af1e-ca576da23487",
+      "memory": "User enjoys listening to true crime stories during their daily commute.",
+      "hash": "e89fcfa8e2da7d5ae4ac9d6de8b6a33a",
+      "metadata": {
+        "ordinal": 241,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "enjoys listening to",
+          "object_text": "true crime stories",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "enjoys listening to"
+        }
+      },
+      "score": 0.19862107099152776,
+      "created_at": "2026-07-06T07:50:42.264685-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b21e9b33-bf61-4683-ac94-9c560acd2dd5",
+      "memory": "User is planning to attend a book launch event for a local author's debut novel, 'The Art of Falling', on March 1st.",
+      "hash": "9092164f32afaea1f58fbf52d338cd7b",
+      "metadata": {
+        "ordinal": 19,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning to attend",
+          "object_text": "a book launch event for a local author's debut novel, 'The Art of Falling', on March 1st",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to attend"
+        }
+      },
+      "score": 0.19858071797978533,
+      "created_at": "2026-07-06T07:47:56.206151-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4516e9f2-644d-4943-8ca8-99297e94e05c",
+      "memory": "User liked the atmosphere of the cafe, it was cozy and modern.",
+      "hash": "56fa2bea500ec5a5ead95d3e18ebd034",
+      "metadata": {
+        "ordinal": 340,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19787229648964688,
+      "created_at": "2026-07-06T07:51:42.300840-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "74750d92-0677-4975-ad88-b4712f024b7a",
+      "memory": "User tried out a new cafe downtown and thought it was really good.",
+      "hash": "31e83d1d396368c9e09770f964b10111",
+      "metadata": {
+        "ordinal": 339,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19742870986494465,
+      "created_at": "2026-07-06T07:51:42.293381-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bf6129b3-e5ee-4710-bf78-19a9d0e099aa",
+      "memory": "The user thinks about how technology can affect character development.",
+      "hash": "4eea0ee5afd25392372fec547c6e7529",
+      "metadata": {
+        "ordinal": 288,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19590986521275733,
+      "created_at": "2026-07-06T07:51:15.683726-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e26ba1ff-7c13-4713-bb44-8e918f83dedc",
+      "memory": "User reflected on their own biases and privileges during the discussion of 'The Hate U Give'.",
+      "hash": "951aa4cb5237f7d47c97bd533e30607a",
+      "metadata": {
+        "ordinal": 145,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "reflected on",
+          "object_text": "their own biases and privileges during the discussion of 'The Hate U Give'",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "reflected on"
+        }
+      },
+      "score": 0.19588820007033725,
+      "created_at": "2026-07-06T07:49:06.816796-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "609456ca-6bfb-4566-8067-5a2904f5c566",
+      "memory": "The user finds it interesting how technology can have a significant impact on character development.",
+      "hash": "bb49f7dd5a4c4eea667ee3be22af3f2e",
+      "metadata": {
+        "ordinal": 286,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19579756031959553,
+      "created_at": "2026-07-06T07:51:15.670134-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "095719e8-0eff-4cfb-9dbb-ed0d79a5e87a",
+      "memory": "User has been to Miami Beach before.",
+      "hash": "aea5125927b24ea262cf8bc0c9445616",
+      "metadata": {
+        "ordinal": 373,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be to",
+          "object_text": "Miami Beach",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been to"
+        }
+      },
+      "score": 0.194747020202999,
+      "created_at": "2026-07-06T07:52:12.408547-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "05087147-5fae-4612-9e20-c287278a8ab5",
+      "memory": "The user is exploring how to estimate a good photographic topic.",
+      "hash": "111759ad69e17c638ea667115c34ea42",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be exploring",
+          "object_text": "how to estimate a good photographic topic",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is exploring"
+        }
+      },
+      "score": 0.19350686724598315,
+      "created_at": "2026-07-06T07:51:48.997683-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "49d02aad-57c1-4791-b852-1d73187321a9",
+      "memory": "User found cool photos from their maternal grandparents' 50th wedding anniversary celebration, which was on June 17th.",
+      "hash": "956e1f1f41ccdb4c133fc815ccf19173",
+      "metadata": {
+        "ordinal": 328,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "found",
+          "object_text": "cool photos from their maternal grandparents' 50th wedding anniversary celebration, which was on June 17th",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "found"
+        }
+      },
+      "score": 0.1919922623710423,
+      "created_at": "2026-07-06T07:51:37.189151-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e9ec472d-7697-4484-bb16-081ddcb68b49",
+      "memory": "User is hoping to have a similar experience at the book launch event.",
+      "hash": "7eaacd9149df37df0d28e73398eba894",
+      "metadata": {
+        "ordinal": 22,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19063688633632114,
+      "created_at": "2026-07-06T07:47:56.216635-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8f8caab7-e37d-4d08-bea1-f9dfeb478ca4",
+      "memory": "User is thinking of propagating some of their African Violet cuttings to share with friends who love houseplants.",
+      "hash": "056097e889b609e03911679ec3fc8cdb",
+      "metadata": {
+        "ordinal": 298,
+        "triple": null,
+        "subject_fallback": "user's_african_violet_cuttings"
+      },
+      "score": 0.19056707850708673,
+      "created_at": "2026-07-06T07:51:21.810756-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "93a1df89-20a2-44e4-a72b-2bfdcbe878d5",
+      "memory": "User is thinking of creating a succulent arrangement on their dining table.",
+      "hash": "ab46813b2d05ae5c57f33ba75afcdc86",
+      "metadata": {
+        "ordinal": 291,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1895977989206616,
+      "created_at": "2026-07-06T07:51:21.777748-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e6354bf8-3071-42c7-98a6-30ab116f6e62",
+      "memory": "User has been binge-watching a lot of TV shows lately.",
+      "hash": "840c86f069629f1d62a6911569cfb3f1",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be binge watching",
+          "object_text": "a lot of TV shows",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been binge-watching"
+        }
+      },
+      "score": 0.18930938163089378,
+      "created_at": "2026-07-06T07:50:42.287926-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2b880f72-bd5b-48da-84d2-7bb7a1d149fb",
+      "memory": "User recently got a beautiful armchair from an estate sale at a huge old mansion on the outskirts of town.",
+      "hash": "3580bd231fc8af9ce08e704d4528e5ed",
+      "metadata": {
+        "ordinal": 158,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently got",
+          "object_text": "a beautiful armchair from an estate sale at a huge old mansion on the outskirts of town",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "recently got"
+        }
+      },
+      "score": 0.18878328445309758,
+      "created_at": "2026-07-06T07:49:21.389971-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0b05cb42-6f00-4944-a907-b13e823ef439",
+      "memory": "User plans to check out the Mission District for some Mexican food in San Francisco.",
+      "hash": "5a8045bcb17c5e88a6201d483d20fa57",
+      "metadata": {
+        "ordinal": 223,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "plans to check out",
+          "object_text": "the Mission District for some Mexican food in San Francisco",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "plans to check out"
+        }
+      },
+      "score": 0.1878204915868209,
+      "created_at": "2026-07-06T07:50:18.422932-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "86e2cb34-4d3d-4a14-a1c3-92f7351e8657",
+      "memory": "User's book club discussed 'The Hate U Give' by Angie Thomas.",
+      "hash": "e0350e3ffd81bbe9bf00010169769446",
+      "metadata": {
+        "ordinal": 142,
+        "triple": {
+          "subject_id": "user's_book_club",
+          "predicate_norm": "discussed",
+          "object_text": "'The Hate U Give' by Angie Thomas",
+          "confidence": 0.95,
+          "subject_raw": "User's book club",
+          "predicate_raw": "discussed"
+        }
+      },
+      "score": 0.1864072443052999,
+      "created_at": "2026-07-06T07:49:06.813085-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0acd2256-ecc4-4e95-ad36-31d4b65a16f5",
+      "memory": "User has been cooking a lot at home lately.",
+      "hash": "939d2d6e9bcd86f0b7d45b185e66f55b",
+      "metadata": {
+        "ordinal": 111,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be cooking",
+          "object_text": "a lot at home lately",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been cooking"
+        }
+      },
+      "score": 0.18583089964393812,
+      "created_at": "2026-07-06T07:48:45.988809-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8da30861-672a-4d50-b648-8cfe76815a3f",
+      "memory": "User is interested in trying Spaghetti Carbonara and Fettuccine Alfredo.",
+      "hash": "10867680a9ed74709d29bcd97569141a",
+      "metadata": {
+        "ordinal": 36,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in trying",
+          "object_text": "Spaghetti Carbonara and Fettuccine Alfredo",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in trying"
+        }
+      },
+      "score": 0.1832161313870629,
+      "created_at": "2026-07-06T07:48:03.904553-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "34d51110-9fca-4ad7-b129-ab6201d82293",
+      "memory": "User is looking for new book recommendations.",
+      "hash": "cb6655ee51ab00a78866003522707295",
+      "metadata": {
+        "ordinal": 136,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.18235968504146335,
+      "created_at": "2026-07-06T07:49:06.804318-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4f6533e5-ece8-4d50-84bb-c5ebd94659e5",
+      "memory": "User's book club had a lively discussion about the themes of systemic racism and police brutality.",
+      "hash": "3c9740b0cc2b13abbc808e5428dcb58e",
+      "metadata": {
+        "ordinal": 143,
+        "triple": {
+          "subject_id": "user's_book_club",
+          "predicate_norm": "had lively discussion about",
+          "object_text": "the themes of systemic racism and police brutality",
+          "confidence": 0.9,
+          "subject_raw": "User's book club",
+          "predicate_raw": "had a lively discussion about"
+        }
+      },
+      "score": 0.1805993316956805,
+      "created_at": "2026-07-06T07:49:06.814354-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6fcb412d-1708-4270-bc87-51afb3edb415",
+      "memory": "User has been listening to 'My Favorite Murder' for over a year.",
+      "hash": "75250ede2717be0b4a3411a20774f23a",
+      "metadata": {
+        "ordinal": 242,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be listening to",
+          "object_text": "'My Favorite Murder'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been listening to"
+        }
+      },
+      "score": 0.1801961489510865,
+      "created_at": "2026-07-06T07:50:42.268698-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "015c75f3-84ee-4452-9054-5f6f020dad6d",
+      "memory": "User usually has some free time on Sundays.",
+      "hash": "ca8faeebe904bb4e2b052b217171207d",
+      "metadata": {
+        "ordinal": 149,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "usually has",
+          "object_text": "some free time on Sundays",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "usually has"
+        }
+      },
+      "score": 0.17898970493206523,
+      "created_at": "2026-07-06T07:49:14.897397-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "37583456-47a5-4ce4-b658-bb3003808c4c",
+      "memory": "User is really interested in 'Sissy: A Coming-of-Gender Story' by Jacob Tobia.",
+      "hash": "9b670da44108b662977ef06c6976c16e",
+      "metadata": {
+        "ordinal": 124,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be really interested in",
+          "object_text": "'Sissy: A Coming-of-Gender Story' by Jacob Tobia",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is really interested in"
+        }
+      },
+      "score": 0.17814361636392498,
+      "created_at": "2026-07-06T07:48:50.786802-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4b8c128d-3768-4d24-b244-b1e0fef7ab02",
+      "memory": "User is thinking of propagating some of their spider plant cuttings to share with friends and family.",
+      "hash": "2eb35a7e2ad6448884a83dca69e947fa",
+      "metadata": {
+        "ordinal": 296,
+        "triple": null,
+        "subject_fallback": "user's_spider_plant"
+      },
+      "score": 0.1776548275047932,
+      "created_at": "2026-07-06T07:51:21.804784-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5ad500a2-ea43-400b-a9a4-d9cc2fd1c14e",
+      "memory": "User's book club talked about the importance of activism and using one's voice to create change.",
+      "hash": "48e6c57cf1c4dedcd03ca76e4817a4db",
+      "metadata": {
+        "ordinal": 144,
+        "triple": {
+          "subject_id": "user's_book_club",
+          "predicate_norm": "talked about",
+          "object_text": "the importance of activism and using one's voice to create change",
+          "confidence": 0.9,
+          "subject_raw": "User's book club",
+          "predicate_raw": "talked about"
+        }
+      },
+      "score": 0.17667429139228427,
+      "created_at": "2026-07-06T07:49:06.815580-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "760d8f64-9966-4adc-9a55-9099b7a9d296",
+      "memory": "User would like to try the Lake Springfield Trail for their next run.",
+      "hash": "3a0f526c791c0d328d78d366ab696b31",
+      "metadata": {
+        "ordinal": 203,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like to try",
+          "object_text": "the Lake Springfield Trail for their next run",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "would like to try"
+        }
+      },
+      "score": 0.1765260748572311,
+      "created_at": "2026-07-06T07:49:55.951608-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "80929a63-a093-4736-901e-7252cc20991f",
+      "memory": "User is interested in trying out some new pasta dishes.",
+      "hash": "80c94cc962095be182c5d786ca35661a",
+      "metadata": {
+        "ordinal": 38,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in trying out",
+          "object_text": "some new pasta dishes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in trying out"
+        }
+      },
+      "score": 0.17589659159942178,
+      "created_at": "2026-07-06T07:48:03.910378-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bf17d9b8-2c48-4fbb-9277-683265734617",
+      "memory": "User has placed the antique vase on their living room mantle.",
+      "hash": "b724f51aed250ffcbfe3cd6641e04e14",
+      "metadata": {
+        "ordinal": 233,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has placed",
+          "object_text": "the antique vase on their living room mantle",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has placed"
+        }
+      },
+      "score": 0.17527115481880134,
+      "created_at": "2026-07-06T07:50:29.741865-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4a821c7e-7340-4a78-a26c-51874817dc67",
+      "memory": "User is intrigued by the story of a reclusive Hollywood star and her seven marriages.",
+      "hash": "e7a40980cfedb23953e6c315bfebf90d",
+      "metadata": {
+        "ordinal": 147,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be intrigued by",
+          "object_text": "the story of a reclusive Hollywood star and her seven marriages",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is intrigued by"
+        }
+      },
+      "score": 0.1749772861518024,
+      "created_at": "2026-07-06T07:49:06.819395-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "48877409-c960-4ff7-914d-f808866e1534",
+      "memory": "The user wonders if there are any ways that technology could be designed to specifically promote positive character traits in users.",
+      "hash": "970a0fa5b671668116eb39883813779b",
+      "metadata": {
+        "ordinal": 289,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17430952410005837,
+      "created_at": "2026-07-06T07:51:15.688017-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "69e854fe-7dcd-40a0-a8cf-cecf52417c45",
+      "memory": "User has been on a roll with reading lately.",
+      "hash": "7addb748fa78e48f77f546423026f504",
+      "metadata": {
+        "ordinal": 137,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17290114388944067,
+      "created_at": "2026-07-06T07:49:06.806271-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "83f1eabe-4934-4589-8cb0-6b30d50f8620",
+      "memory": "User was thinking of getting new throw blankets to match the colors of their new rug.",
+      "hash": "4f3df06c5db4067fc66d531a319904b5",
+      "metadata": {
+        "ordinal": 175,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking getting",
+          "object_text": "new throw blankets to match the colors of their new rug",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "was thinking of getting"
+        }
+      },
+      "score": 0.17188087835656696,
+      "created_at": "2026-07-06T07:49:29.830623-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bb509b4a-0ba0-4026-bc74-4396e2285647",
+      "memory": "User is looking to explore online courses to improve their project management skills.",
+      "hash": "64e9000df12efc7074ff2feb5ab38815",
+      "metadata": {
+        "ordinal": 74,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17171899263784612,
+      "created_at": "2026-07-06T07:48:22.468565-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "887a2f59-afe5-4bae-a20d-a4278a8d16b8",
+      "memory": "User is looking for recommendations for a good breakfast spot in the city.",
+      "hash": "734f0f2ff37586ed5685dd1410eac895",
+      "metadata": {
+        "ordinal": 342,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.171336468128651,
+      "created_at": "2026-07-06T07:51:42.309748-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "f7bc6d8f-a8f0-4167-a250-0a6bb309f4e0",
+      "memory": "The user wonders if there are any specific types of technology that have a stronger impact on character development than others.",
+      "hash": "2fa1f60fbd8a3528a9e647c72256bc33",
+      "metadata": {
+        "ordinal": 287,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17071747186439448,
+      "created_at": "2026-07-06T07:51:15.678707-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "91ca73f5-5e27-47ce-9a94-e7a36b18e369",
+      "memory": "User has been experimenting with Italian dishes quite a bit lately.",
+      "hash": "e445a15da6f5e3fd6b495417443247ba",
+      "metadata": {
+        "ordinal": 33,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.16932846405756247,
+      "created_at": "2026-07-06T07:48:03.891069-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "16454e6b-fd3c-426a-8b37-8e50b1306658",
+      "memory": "The user hopes that technology can actually make a positive impact on society because it feels like there are so many negative effects that come along with it.",
+      "hash": "7110de009a4aed4d776501ca2242af41",
+      "metadata": {
+        "ordinal": 290,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1691931456155587,
+      "created_at": "2026-07-06T07:51:15.691688-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "aad39dfa-1057-484c-a7d5-885d416758c6",
+      "memory": "User has been watching a lot of Netflix originals lately.",
+      "hash": "4cb884d38cfc3cd9b84640b037c69c8c",
+      "metadata": {
+        "ordinal": 245,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be watching",
+          "object_text": "a lot of Netflix originals",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been watching"
+        }
+      },
+      "score": 0.16793485655605972,
+      "created_at": "2026-07-06T07:50:42.278018-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a85bb466-c5f7-4a11-a365-e6ea3f84b7f4",
+      "memory": "User is thinking of starting their own collection of vintage jewelry.",
+      "hash": "e56f81699aaf2a3e9557baec22b8cd92",
+      "metadata": {
+        "ordinal": 231,
+        "triple": null,
+        "subject_fallback": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.16547887960160332,
+      "created_at": "2026-07-06T07:50:29.730524-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "39ac56bd-607a-4fb9-80c6-53ab436dd748",
+      "memory": "User wants to stay in Fort Myers Beach itself.",
+      "hash": "7d072bd9c604ee82e08c087f2133eaa3",
+      "metadata": {
+        "ordinal": 379,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "wants to stay in",
+          "object_text": "Fort Myers Beach itself",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to stay in"
+        }
+      },
+      "score": 0.16536353276326954,
+      "created_at": "2026-07-06T07:52:12.425484-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "dab81c0d-ac89-4354-9444-97a130ad99d5",
+      "memory": "User is always looking for new true crime podcasts to listen to.",
+      "hash": "fc9a37e4e339286a6d5de0ac39f5b26d",
+      "metadata": {
+        "ordinal": 243,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be always looking for",
+          "object_text": "new true crime podcasts",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is always looking for"
+        }
+      },
+      "score": 0.16517058496174858,
+      "created_at": "2026-07-06T07:50:42.272165-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1933e9fb-a725-4a73-ac8b-4618e801e59f",
+      "memory": "User is getting a new phone mount for their car.",
+      "hash": "e083942395b857d4c0500c8680737315",
+      "metadata": {
+        "ordinal": 211,
+        "triple": {
+          "subject_id": "user::context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be getting",
+          "object_text": "a new phone mount for their car",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is getting"
+        }
+      },
+      "score": 0.1649447950983976,
+      "created_at": "2026-07-06T07:50:03.850287-07:00",
+      "updated_at": null,
+      "user_id": "context_830ce83f_longmemeval_s_ku_ours_no_p5_s0n2"
+    }
+  ],
+  "memories_str": "- User is thinking about visiting their friend Rachel who recently moved to a new apartment in Chicago.\n- User's friend Rachel just moved back to the suburbs.\n- User got to ask the author Rachel Smith a question during the Q&A session at the January 10th event.\n- Rachel lives in Chicago.\n- User found it interesting to hear about Rachel Smith's writing process.\n- User rearranged their living room last weekend.\n- User attended a book reading event at the local library a month ago.\n- User is interested in finding out about new restaurants or cafes in the city.\n- User is going to try to find out more about the history of the armchair.\n- User likes the idea of a conversational circle and a floating furniture arrangement.\n- User is planning on visiting San Francisco.\n- User is from the same area where their maternal grandparents live.\n- User is thinking of planning a trip with some friends.\n- User is interested in learning more about others' experiences related to gender identity, race, and sexual orientation.\n- User recently started a book club with friends from work.\n- User attended a book reading event at the local library on January 10th.\n- User is planning a trip to visit their paternal grandparents in August.\n- User has been approached by a recruiter from a rival company, offering them a position as a technical lead.\n- User lives in Springfield, Illinois.\n- Rachel Smith talked about her new novel 'The Lost City' at the book reading event.\n- User recently bought a new sectional sofa at a local furniture store on October 30th.\n- User is 20 years old.\n- User's living room is around 15 by 20 feet.\n- User had chili con carne for lunch and dinner for a few days.\n- User recently went through some old family photos.\n- User is hesitant to leave their current company, where they have built a strong network and have a sense of belonging.\n- User got their new Netflix subscription around the 15th of March.\n- User has been thinking about how their gender identity intersects with their other demographic information, like their race and sexual orientation.\n- User's living room is a rectangle shape.\n- User is planning to spend a week with their grandparents.\n- User is planning a trip with friends and they are deciding between a beach town in Florida and a hiking trip in Colorado.\n- User is thinking of a modern style for their living room.\n- User is unsure how to navigate their partner's conservative culture.\n- User is looking for interior design inspiration for their living room.\n- User has been cooking at home more frequently for about 3 months.\n- User is interested in learning more about the history of the pieces they have and potentially finding more to add to their collection.\n- User is worried about meeting their partner's family.\n- User's grandparents live in Orlando, Florida.\n- User is thinking of reaching out to some local antique dealers to get their opinion on their antique vase and potentially sell some of their antique cameras.\n- User is looking for new TV shows to watch.\n- The user is interested in the topic of aging in photography.\n- User is thinking of restoring an antique armchair that they recently acquired from their friend Emma, which had belonged to her great aunt.\n- User's book club is considering 'The Seven Husbands of Evelyn Hugo' by Taylor Jenkins Reid as their next read.\n- User would like to know more about how the author's experiences with gender dysphoria influenced their understanding of their gender identity.\n- User is thinking about displaying their antique camera collection in their newly renovated basement.\n- Badgers will move to new areas temporarily in response to changes in their environment or availability of resources.\n- User has been meaning to check out 'The Haunting of Hill House' since finishing 'Stranger Things'.\n- User is looking for a more relaxed beach town.\n- User is hopeful for the future of workplace equality.\n- User would like to know more about how the author's experiences with gender dysphoria influenced their understanding of their gender identity, particularly in relation to their race and sexual orientation.\n- User watered their snake plant thoroughly on May 24, 2023.\n- User recently made a pasta salad with cherry tomatoes, mozzarella, and basil.\n- User enjoys listening to true crime stories during their daily commute.\n- User is planning to attend a book launch event for a local author's debut novel, 'The Art of Falling', on March 1st.\n- User liked the atmosphere of the cafe, it was cozy and modern.\n- User tried out a new cafe downtown and thought it was really good.\n- The user thinks about how technology can affect character development.\n- User reflected on their own biases and privileges during the discussion of 'The Hate U Give'.\n- The user finds it interesting how technology can have a significant impact on character development.\n- User has been to Miami Beach before.\n- The user is exploring how to estimate a good photographic topic.\n- User found cool photos from their maternal grandparents' 50th wedding anniversary celebration, which was on June 17th.\n- User is hoping to have a similar experience at the book launch event.\n- User is thinking of propagating some of their African Violet cuttings to share with friends who love houseplants.\n- User is thinking of creating a succulent arrangement on their dining table.\n- User has been binge-watching a lot of TV shows lately.\n- User recently got a beautiful armchair from an estate sale at a huge old mansion on the outskirts of town.\n- User plans to check out the Mission District for some Mexican food in San Francisco.\n- User's book club discussed 'The Hate U Give' by Angie Thomas.\n- User has been cooking a lot at home lately.\n- User is interested in trying Spaghetti Carbonara and Fettuccine Alfredo.\n- User is looking for new book recommendations.\n- User's book club had a lively discussion about the themes of systemic racism and police brutality.\n- User has been listening to 'My Favorite Murder' for over a year.\n- User usually has some free time on Sundays.\n- User is really interested in 'Sissy: A Coming-of-Gender Story' by Jacob Tobia.\n- User is thinking of propagating some of their spider plant cuttings to share with friends and family.\n- User's book club talked about the importance of activism and using one's voice to create change.\n- User would like to try the Lake Springfield Trail for their next run.\n- User is interested in trying out some new pasta dishes.\n- User has placed the antique vase on their living room mantle.\n- User is intrigued by the story of a reclusive Hollywood star and her seven marriages.\n- The user wonders if there are any ways that technology could be designed to specifically promote positive character traits in users.\n- User has been on a roll with reading lately.\n- User was thinking of getting new throw blankets to match the colors of their new rug.\n- User is looking to explore online courses to improve their project management skills.\n- User is looking for recommendations for a good breakfast spot in the city.\n- The user wonders if there are any specific types of technology that have a stronger impact on character development than others.\n- User has been experimenting with Italian dishes quite a bit lately.\n- The user hopes that technology can actually make a positive impact on society because it feels like there are so many negative effects that come along with it.\n- User has been watching a lot of Netflix originals lately.\n- User is thinking of starting their own collection of vintage jewelry.\n- User wants to stay in Fort Myers Beach itself.\n- User is always looking for new true crime podcasts to listen to.\n- User is getting a new phone mount for their car.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- User is thinking about visiting their friend Rachel who recently moved to a new apartment in Chicago.\n- User's friend Rachel just moved back to the suburbs.\n- User got to ask the author Rachel Smith a question during the Q&A session at the January 10th event.\n- Rachel lives in Chicago.\n- User found it interesting to hear about Rachel Smith's writing process.\n- User rearranged their living room last weekend.\n- User attended a book reading event at the local library a month ago.\n- User is interested in finding out about new restaurants or cafes in the city.\n- User is going to try to find out more about the history of the armchair.\n- User likes the idea of a conversational circle and a floating furniture arrangement.\n- User is planning on visiting San Francisco.\n- User is from the same area where their maternal grandparents live.\n- User is thinking of planning a trip with some friends.\n- User is interested in learning more about others' experiences related to gender identity, race, and sexual orientation.\n- User recently started a book club with friends from work.\n- User attended a book reading event at the local library on January 10th.\n- User is planning a trip to visit their paternal grandparents in August.\n- User has been approached by a recruiter from a rival company, offering them a position as a technical lead.\n- User lives in Springfield, Illinois.\n- Rachel Smith talked about her new novel 'The Lost City' at the book reading event.\n- User recently bought a new sectional sofa at a local furniture store on October 30th.\n- User is 20 years old.\n- User's living room is around 15 by 20 feet.\n- User had chili con carne for lunch and dinner for a few days.\n- User recently went through some old family photos.\n- User is hesitant to leave their current company, where they have built a strong network and have a sense of belonging.\n- User got their new Netflix subscription around the 15th of March.\n- User has been thinking about how their gender identity intersects with their other demographic information, like their race and sexual orientation.\n- User's living room is a rectangle shape.\n- User is planning to spend a week with their grandparents.\n- User is planning a trip with friends and they are deciding between a beach town in Florida and a hiking trip in Colorado.\n- User is thinking of a modern style for their living room.\n- User is unsure how to navigate their partner's conservative culture.\n- User is looking for interior design inspiration for their living room.\n- User has been cooking at home more frequently for about 3 months.\n- User is interested in learning more about the history of the pieces they have and potentially finding more to add to their collection.\n- User is worried about meeting their partner's family.\n- User's grandparents live in Orlando, Florida.\n- User is thinking of reaching out to some local antique dealers to get their opinion on their antique vase and potentially sell some of their antique cameras.\n- User is looking for new TV shows to watch.\n- The user is interested in the topic of aging in photography.\n- User is thinking of restoring an antique armchair that they recently acquired from their friend Emma, which had belonged to her great aunt.\n- User's book club is considering 'The Seven Husbands of Evelyn Hugo' by Taylor Jenkins Reid as their next read.\n- User would like to know more about how the author's experiences with gender dysphoria influenced their understanding of their gender identity.\n- User is thinking about displaying their antique camera collection in their newly renovated basement.\n- Badgers will move to new areas temporarily in response to changes in their environment or availability of resources.\n- User has been meaning to check out 'The Haunting of Hill House' since finishing 'Stranger Things'.\n- User is looking for a more relaxed beach town.\n- User is hopeful for the future of workplace equality.\n- User would like to know more about how the author's experiences with gender dysphoria influenced their understanding of their gender identity, particularly in relation to their race and sexual orientation.\n- User watered their snake plant thoroughly on May 24, 2023.\n- User recently made a pasta salad with cherry tomatoes, mozzarella, and basil.\n- User enjoys listening to true crime stories during their daily commute.\n- User is planning to attend a book launch event for a local author's debut novel, 'The Art of Falling', on March 1st.\n- User liked the atmosphere of the cafe, it was cozy and modern.\n- User tried out a new cafe downtown and thought it was really good.\n- The user thinks about how technology can affect character development.\n- User reflected on their own biases and privileges during the discussion of 'The Hate U Give'.\n- The user finds it interesting how technology can have a significant impact on character development.\n- User has been to Miami Beach before.\n- The user is exploring how to estimate a good photographic topic.\n- User found cool photos from their maternal grandparents' 50th wedding anniversary celebration, which was on June 17th.\n- User is hoping to have a similar experience at the book launch event.\n- User is thinking of propagating some of their African Violet cuttings to share with friends who love houseplants.\n- User is thinking of creating a succulent arrangement on their dining table.\n- User has been binge-watching a lot of TV shows lately.\n- User recently got a beautiful armchair from an estate sale at a huge old mansion on the outskirts of town.\n- User plans to check out the Mission District for some Mexican food in San Francisco.\n- User's book club discussed 'The Hate U Give' by Angie Thomas.\n- User has been cooking a lot at home lately.\n- User is interested in trying Spaghetti Carbonara and Fettuccine Alfredo.\n- User is looking for new book recommendations.\n- User's book club had a lively discussion about the themes of systemic racism and police brutality.\n- User has been listening to 'My Favorite Murder' for over a year.\n- User usually has some free time on Sundays.\n- User is really interested in 'Sissy: A Coming-of-Gender Story' by Jacob Tobia.\n- User is thinking of propagating some of their spider plant cuttings to share with friends and family.\n- User's book club talked about the importance of activism and using one's voice to create change.\n- User would like to try the Lake Springfield Trail for their next run.\n- User is interested in trying out some new pasta dishes.\n- User has placed the antique vase on their living room mantle.\n- User is intrigued by the story of a reclusive Hollywood star and her seven marriages.\n- The user wonders if there are any ways that technology could be designed to specifically promote positive character traits in users.\n- User has been on a roll with reading lately.\n- User was thinking of getting new throw blankets to match the colors of their new rug.\n- User is looking to explore online courses to improve their project management skills.\n- User is looking for recommendations for a good breakfast spot in the city.\n- The user wonders if there are any specific types of technology that have a stronger impact on character development than others.\n- User has been experimenting with Italian dishes quite a bit lately.\n- The user hopes that technology can actually make a positive impact on society because it feels like there are so many negative effects that come along with it.\n- User has been watching a lot of Netflix originals lately.\n- User is thinking of starting their own collection of vintage jewelry.\n- User wants to stay in Fort Myers Beach itself.\n- User is always looking for new true crime podcasts to listen to.\n- User is getting a new phone mount for their car.\n",
+  "user_message": "Today's date is 2023/06/13 (Tue) 15:15.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n Where did Rachel move to after her recent relocation? \n\n Answer:\n\nCurrent Time: 2026-07-07 05:47:14",
+  "response": "Rachel moved back to the suburbs.",
+  "prompt_tokens": 1661,
+  "completion_tokens": 7
+}

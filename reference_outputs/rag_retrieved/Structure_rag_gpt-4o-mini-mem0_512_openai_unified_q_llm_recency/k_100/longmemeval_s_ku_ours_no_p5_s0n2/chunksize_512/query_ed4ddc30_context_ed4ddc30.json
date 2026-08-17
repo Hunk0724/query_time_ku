@@ -1,0 +1,1821 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "c5554ddb-8679-41e3-985e-4f44f6c3648b",
+      "memory": "User has 30 dozen eggs stocked up in the fridge.",
+      "hash": "5e2d6d79f6bb7e158e0da21385e3e8d4",
+      "metadata": {
+        "ordinal": 1,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has",
+          "object_text": "30 dozen eggs",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.5435141158431241,
+      "created_at": "2026-07-06T09:07:18.459693-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a94cbdb5-e5b3-40ce-8a95-82374aa4a668",
+      "memory": "User has 20 dozen fresh eggs stocked up in the fridge from their coop.",
+      "hash": "55bdc2d9320c64d40e9c52f4aeb233bd",
+      "metadata": {
+        "ordinal": 266,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has",
+          "object_text": "20 dozen fresh eggs stocked up in the fridge from their coop",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.49924285757533804,
+      "created_at": "2026-07-06T09:10:39.463432-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4980ea6d-b9f2-4783-b478-cda285bf6a6a",
+      "memory": "User is thinking of making some quiche for dinner.",
+      "hash": "091994a205d1c0235e4726c9f26042bd",
+      "metadata": {
+        "ordinal": 265,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.32333333213334464,
+      "created_at": "2026-07-06T09:10:39.460581-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "64d9bb82-c1ef-457b-b28c-ff7a2975c6aa",
+      "memory": "User is thinking of trying out some new recipes with fresh eggs and goat milk.",
+      "hash": "f974ab70d1a39d8795382c8d751a9186",
+      "metadata": {
+        "ordinal": 0,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.3207978003283557,
+      "created_at": "2026-07-06T09:07:18.452071-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "db5922fa-a505-4286-b18f-d3c4ecaf4570",
+      "memory": "User has been thinking about creating a schedule for cleaning out the fridge and oven.",
+      "hash": "da222e837ba3f059d26d2514cb0145bf",
+      "metadata": {
+        "ordinal": 116,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2974925774131538,
+      "created_at": "2026-07-06T09:08:46.963198-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "795b6763-a00a-4033-8822-c78c6de07bda",
+      "memory": "User needs help with calculating their inventory for the Harvest Market.",
+      "hash": "e623ab38bb0a5fb208476b735eee2d87",
+      "metadata": {
+        "ordinal": 27,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "needs help with",
+          "object_text": "calculating their inventory for the Harvest Market",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "needs help with"
+        }
+      },
+      "score": 0.28629672277807516,
+      "created_at": "2026-07-06T09:07:40.653052-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c79054cc-37a2-4770-a22c-e87b81da0f4c",
+      "memory": "User wants to ensure they have enough candles and soaps in stock for the Harvest Market.",
+      "hash": "c61cb0a90dc5131a3d940e5c4d51a3c5",
+      "metadata": {
+        "ordinal": 28,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "wants to ensure they have",
+          "object_text": "enough candles and soaps in stock for the Harvest Market",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "wants to ensure they have"
+        }
+      },
+      "score": 0.26167916354409315,
+      "created_at": "2026-07-06T09:07:40.658546-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4dcedd51-3597-4490-bc58-89d543547a1a",
+      "memory": "User attended a cooking class a few weeks ago where they learned to make a delicious pasta dish with a creamy sauce on a Saturday morning.",
+      "hash": "c2b82bb17a598eba9741b004b82abb1f",
+      "metadata": {
+        "ordinal": 8,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.25786645634402566,
+      "created_at": "2026-07-06T09:07:26.396028-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a08d7286-b97a-4780-96d6-0e1da45d0831",
+      "memory": "User has been making a lot of shrimp dishes lately.",
+      "hash": "762dd133d59c00909debe68b7ab70653",
+      "metadata": {
+        "ordinal": 45,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be making",
+          "object_text": "a lot of shrimp dishes lately",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been making"
+        }
+      },
+      "score": 0.25564692841204806,
+      "created_at": "2026-07-06T09:07:49.504283-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "7ac99bc5-94d6-4421-8ca1-630c87f34701",
+      "memory": "User has made Garlic Butter Shrimp at least four times in the past month.",
+      "hash": "832910a100f0ffb293dec109adef1a74",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has made",
+          "object_text": "Garlic Butter Shrimp at least four times in the past month",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has made"
+        }
+      },
+      "score": 0.2524773096753497,
+      "created_at": "2026-07-06T09:07:49.489274-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0dcdd612-7f36-43b0-9828-29eb7fdcd4e1",
+      "memory": "User will ask the museum about their outreach efforts and how they plan to promote these programs to the target audience.",
+      "hash": "4f4cebb78438387f91c6de75df810498",
+      "metadata": {
+        "ordinal": 195,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will ask",
+          "object_text": "the museum about their outreach efforts and how they plan to promote these programs to the target audience",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will ask"
+        }
+      },
+      "score": 0.25127606799548924,
+      "created_at": "2026-07-06T09:09:41.278999-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bcfb0987-20b2-4659-bbd6-5c880523f2d5",
+      "memory": "User is looking for new recipe ideas for a dinner party they are hosting soon.",
+      "hash": "7f7517de9375b36f54ffafc24526c717",
+      "metadata": {
+        "ordinal": 6,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2508100682945519,
+      "created_at": "2026-07-06T09:07:26.383639-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "32e3e9d4-742a-4f5f-a7f0-b5bb53cb532b",
+      "memory": "User thinks they will start with the fresh chevre recipe.",
+      "hash": "d235d1d0820cde228cee7d5f991e3600",
+      "metadata": {
+        "ordinal": 4,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2491013516519798,
+      "created_at": "2026-07-06T09:07:18.473687-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1b8b922b-1850-4ea4-9076-7abf4980d0f8",
+      "memory": "User is preparing for the upcoming Harvest Market on September 18th.",
+      "hash": "8d6272b6f872de2d9fc3511e7c94c2d7",
+      "metadata": {
+        "ordinal": 26,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be preparing for",
+          "object_text": "the upcoming Harvest Market on September 18th",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is preparing for"
+        }
+      },
+      "score": 0.24593240093448238,
+      "created_at": "2026-07-06T09:07:40.644633-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "02146d8a-2eca-47fd-8120-1c6ef0a15f61",
+      "memory": "User is thinking of making some cheese using the milk from their goats, Billy and Nibbles.",
+      "hash": "64ed04dc44376436481602f35f4d8038",
+      "metadata": {
+        "ordinal": 267,
+        "triple": null,
+        "subject_fallback": "billy"
+      },
+      "score": 0.24353536143199858,
+      "created_at": "2026-07-06T09:10:39.465668-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c95b6c3a-1554-4e40-b9d4-a6a45f5c1fd3",
+      "memory": "User wants to have some time to grab coffee and get ready for the day before their meetings start.",
+      "hash": "09bed56df61110ddad87a26c5b7724d4",
+      "metadata": {
+        "ordinal": 217,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "wants to have",
+          "object_text": "some time to grab coffee and get ready for the day before their meetings start",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "wants to have"
+        }
+      },
+      "score": 0.23916353348081312,
+      "created_at": "2026-07-06T09:09:59.264586-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "44485082-5056-4a3f-bcbc-f5849e88ee7e",
+      "memory": "User has been watching a lot of cooking shows lately.",
+      "hash": "ee15b3cc0b27a49e7e735489c13e86e1",
+      "metadata": {
+        "ordinal": 10,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be watching",
+          "object_text": "a lot of cooking shows",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been watching"
+        }
+      },
+      "score": 0.23705829693275235,
+      "created_at": "2026-07-06T09:07:26.405057-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "641aee83-9f4d-4b65-a1e8-882f6333316c",
+      "memory": "User thinks the 30-day waiting period and asking themselves questions before making a purchase will be especially useful.",
+      "hash": "d7be66c511342f1af6f0a9e08bdad854",
+      "metadata": {
+        "ordinal": 175,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "thinks 30 day waiting period and asking themselves questions before making purchase will be",
+          "object_text": "especially useful",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "thinks the 30-day waiting period and asking themselves questions before making a purchase will be"
+        }
+      },
+      "score": 0.23518248712800266,
+      "created_at": "2026-07-06T09:09:26.003752-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6ec28cac-d508-44a3-936f-fe74878fa304",
+      "memory": "User is currently using a planner.",
+      "hash": "23da15c54de8413838c65523852267a8",
+      "metadata": {
+        "ordinal": 251,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be currently using",
+          "object_text": "a planner",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is currently using"
+        }
+      },
+      "score": 0.233165726656122,
+      "created_at": "2026-07-06T09:10:28.414858-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b28e17ee-2df1-4696-8a8e-e6423944e1b2",
+      "memory": "User is thinking of making some cheese with goat milk.",
+      "hash": "de15a2c598009254a4f36afc6df6a710",
+      "metadata": {
+        "ordinal": 2,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.23115016117667486,
+      "created_at": "2026-07-06T09:07:18.465351-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1673a12a-5c23-4b45-8bdf-d94cc7aca0c2",
+      "memory": "User is thinking of offering a discount for bulk purchases, like 10% off for 3 or more items.",
+      "hash": "a3281e9d708491f755e8bbc47b05e83b",
+      "metadata": {
+        "ordinal": 35,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking offering",
+          "object_text": "a discount for bulk purchases, like 10% off for 3 or more items",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of offering"
+        }
+      },
+      "score": 0.23108490782332158,
+      "created_at": "2026-07-06T09:07:40.682463-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "42eca7ed-ae6d-4f6f-9dfe-8f1495195512",
+      "memory": "User is planning to serve crab cakes with a side of Garlic Butter Shrimp.",
+      "hash": "e9414982a2c4e854c80ba68c9e4df1c4",
+      "metadata": {
+        "ordinal": 44,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be planning to serve",
+          "object_text": "crab cakes with a side of Garlic Butter Shrimp",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is planning to serve"
+        }
+      },
+      "score": 0.2303958714668375,
+      "created_at": "2026-07-06T09:07:49.501996-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "dd3cb493-0eda-4f00-981e-2ac200d80c66",
+      "memory": "User will ask the museum about their plans to evaluate the effectiveness of their outreach efforts and programs.",
+      "hash": "adecdca6a936d07ebac05d6bb2f78b00",
+      "metadata": {
+        "ordinal": 196,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will ask",
+          "object_text": "the museum about their plans to evaluate the effectiveness of their outreach efforts and programs",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will ask"
+        }
+      },
+      "score": 0.22994627615629126,
+      "created_at": "2026-07-06T09:09:41.281452-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "55c26141-c61e-4950-8ac3-9ad119fca60e",
+      "memory": "User's old water bottle was around 27 oz.",
+      "hash": "67f068146f852d91c317232de8665d45",
+      "metadata": {
+        "ordinal": 149,
+        "triple": {
+          "subject_id": "user's_old_water_bottle",
+          "predicate_norm": "be around",
+          "object_text": "27 oz",
+          "confidence": 0.95,
+          "subject_raw": "user's old water bottle",
+          "predicate_raw": "was around"
+        }
+      },
+      "score": 0.2276748207864342,
+      "created_at": "2026-07-06T09:09:08.356417-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "150fcf08-9a0d-485a-a0dd-07e550d460e0",
+      "memory": "User is considering the group size and dynamics for the game night.",
+      "hash": "65b2085ffc0ba5575d6e8ee63baa88d5",
+      "metadata": {
+        "ordinal": 260,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.22616742542298585,
+      "created_at": "2026-07-06T09:10:35.831927-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9732c2dc-3f6c-4bca-b973-226afabd2e2c",
+      "memory": "User moved to a new apartment on January 15th.",
+      "hash": "7fb99a4f263ca295fa43f964dda4ee9d",
+      "metadata": {
+        "ordinal": 158,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "moved to",
+          "object_text": "a new apartment on January 15th",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "moved to"
+        }
+      },
+      "score": 0.22158939065169905,
+      "created_at": "2026-07-06T09:09:08.387289-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ede4ab6e-d389-4b8f-82ef-81acd7c3ea71",
+      "memory": "User will contact the museum directly to ask about their class offerings and schedules.",
+      "hash": "4e6dcdc440179076add6d4afa35360c3",
+      "metadata": {
+        "ordinal": 192,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will contact",
+          "object_text": "the museum directly to ask about their class offerings and schedules",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will contact"
+        }
+      },
+      "score": 0.22154628116247602,
+      "created_at": "2026-07-06T09:09:41.269342-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d4fb9bd4-8734-4c16-b356-0a6c20e598b5",
+      "memory": "User is intrigued by the Creamy Mushroom Fettuccine recipe.",
+      "hash": "bf7e358512fd1a33836bfc2d44c0c682",
+      "metadata": {
+        "ordinal": 15,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be intrigued by",
+          "object_text": "the Creamy Mushroom Fettuccine recipe",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is intrigued by"
+        }
+      },
+      "score": 0.21796014388141127,
+      "created_at": "2026-07-06T09:07:26.420758-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "988c4489-29ff-4447-b2d1-4e6d14a2cefe",
+      "memory": "User has a daily market stall in the city center, usually on Tuesdays and Thursdays.",
+      "hash": "3183b73238d56bf433111aa612a08d26",
+      "metadata": {
+        "ordinal": 32,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has daily market stall in",
+          "object_text": "the city center, usually on Tuesdays and Thursdays",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has a daily market stall in"
+        }
+      },
+      "score": 0.21703698125157744,
+      "created_at": "2026-07-06T09:07:40.674190-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ef58352e-480e-439a-9e12-3a735f20afe9",
+      "memory": "User has had their tank set up for a month.",
+      "hash": "369db87091a9e3ff9829f20d474fd11d",
+      "metadata": {
+        "ordinal": 86,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has had",
+          "object_text": "their tank set up for a month",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has had"
+        }
+      },
+      "score": 0.21262199211846497,
+      "created_at": "2026-07-06T09:08:27.494025-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "f7d9ada1-7319-458e-af78-3297d0e736ce",
+      "memory": "User plans to set reminders on their phone to wait 30 days before making a non-essential purchase.",
+      "hash": "d2c9b7cd825a32407a27080311674fab",
+      "metadata": {
+        "ordinal": 177,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "plans to set reminders on their phone to wait",
+          "object_text": "30 days before making a non-essential purchase",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "plans to set reminders on their phone to wait"
+        }
+      },
+      "score": 0.20954550485259504,
+      "created_at": "2026-07-06T09:09:26.008389-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "12450489-b1c6-46e6-9428-d1dfe492a79d",
+      "memory": "User is excited to start making some cheese with goat milk.",
+      "hash": "0471f61d39e753063d4e9d8d1548d0f2",
+      "metadata": {
+        "ordinal": 3,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20930120039396682,
+      "created_at": "2026-07-06T09:07:18.469722-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "853df5f7-07ba-49f2-bff1-42d829ca83e4",
+      "memory": "User is intrigued by the Crab Cakes with Remoulade Sauce idea.",
+      "hash": "411954a1d790a4a9004d4c6efb2995fe",
+      "metadata": {
+        "ordinal": 42,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be intrigued by",
+          "object_text": "the Crab Cakes with Remoulade Sauce idea",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "is intrigued by"
+        }
+      },
+      "score": 0.20911453714351735,
+      "created_at": "2026-07-06T09:07:49.496312-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "871131c0-53f8-4b85-9dc6-b5c5238b27b6",
+      "memory": "User will create a note on their phone with questions to ask themselves before buying something.",
+      "hash": "71fac7ef70392b69c0c7140562194168",
+      "metadata": {
+        "ordinal": 178,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will create note on their phone with questions to ask themselves before",
+          "object_text": "buying something",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "will create a note on their phone with questions to ask themselves before"
+        }
+      },
+      "score": 0.20557842554716926,
+      "created_at": "2026-07-06T09:09:26.010664-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "050f36ee-da43-4cfa-aaea-f6a9315244e7",
+      "memory": "User has already set up a separate breeding tank.",
+      "hash": "355d9378a9d36f6d81faa2a7741c5b61",
+      "metadata": {
+        "ordinal": 92,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has already set up",
+          "object_text": "a separate breeding tank",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has already set up"
+        }
+      },
+      "score": 0.20521954507678886,
+      "created_at": "2026-07-06T09:08:27.519263-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "731fd3f9-0636-4948-9b41-d4dea303fe90",
+      "memory": "User has been averaging around $100 in sales per day at their daily market stall.",
+      "hash": "3f922046432253410d0e69830f68ced7",
+      "metadata": {
+        "ordinal": 33,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be averaging",
+          "object_text": "around $100 in sales per day at their daily market stall",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been averaging"
+        }
+      },
+      "score": 0.20378715151836274,
+      "created_at": "2026-07-06T09:07:40.676999-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a62399dd-189b-49c2-b1b6-4caf7da52e75",
+      "memory": "User is looking for inspiration for a new seafood dish.",
+      "hash": "5d10ed5e69ba8c64a466c6f41b39b3f6",
+      "metadata": {
+        "ordinal": 41,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20372496642617938,
+      "created_at": "2026-07-06T09:07:49.493258-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "495638dd-9d0d-4fdf-bf11-fecbe6b7d7a7",
+      "memory": "User has been trying to stick to a daily cleaning routine for the past three weeks.",
+      "hash": "2e3dfc4722d80105df10b6a5c474385a",
+      "metadata": {
+        "ordinal": 115,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.2035668941221656,
+      "created_at": "2026-07-06T09:08:46.961144-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cd384d59-c6f9-4292-bae1-3edc338cd649",
+      "memory": "User thinks they will start with the ricotta recipe.",
+      "hash": "25bd02721e7bee32dd228f76a080259b",
+      "metadata": {
+        "ordinal": 5,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.20177405815435223,
+      "created_at": "2026-07-06T09:07:18.477013-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "068ef58f-2482-4a15-afb5-a8e490a472c4",
+      "memory": "User is considering offering a special promotion at the Harvest Market to attract more customers.",
+      "hash": "0204534f9478024948d647fb4fd68df1",
+      "metadata": {
+        "ordinal": 34,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be considering offering",
+          "object_text": "a special promotion at the Harvest Market to attract more customers",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is considering offering"
+        }
+      },
+      "score": 0.20079815359929248,
+      "created_at": "2026-07-06T09:07:40.679915-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "1bd32971-918b-4f6c-939b-ed35d16750b8",
+      "memory": "User usually does a mix of lights and darks, with some delicates and bulky items every now and then.",
+      "hash": "6c8993d92c2daba26678e31d0f6ebdf7",
+      "metadata": {
+        "ordinal": 113,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19579121934610888,
+      "created_at": "2026-07-06T09:08:46.956345-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c3e170c1-0b9e-4715-9c2e-5ee420823a5f",
+      "memory": "User would like to free up some time on the weekends.",
+      "hash": "391a1a1470b5d34cb659148b9aa6b62b",
+      "metadata": {
+        "ordinal": 114,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1957419129328123,
+      "created_at": "2026-07-06T09:08:46.958741-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "002a8ad7-15c4-4889-84e8-114df88d026c",
+      "memory": "User is thinking of hosting a game night with a mix of friends and coworkers.",
+      "hash": "88e5f739f72aecc9fbcdc23e2531fe9b",
+      "metadata": {
+        "ordinal": 259,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19385181568482618,
+      "created_at": "2026-07-06T09:10:35.828656-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bcab2ea8-e1ef-48a4-81c4-b224b86b015d",
+      "memory": "User has been waking up earlier than usual lately.",
+      "hash": "2b1f7b41e8432a7a9f476ceee0bc1bb4",
+      "metadata": {
+        "ordinal": 224,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be waking up",
+          "object_text": "earlier than usual lately",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has been waking up"
+        }
+      },
+      "score": 0.19342344198287653,
+      "created_at": "2026-07-06T09:09:59.283957-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "59a4b672-e2ab-443d-9699-5a1aa0e4df8c",
+      "memory": "User is interested in exploring smart home skills, especially thermostat control.",
+      "hash": "a17047a207630300f3de0bbdbbc73c11",
+      "metadata": {
+        "ordinal": 231,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in exploring",
+          "object_text": "smart home skills, especially thermostat control",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in exploring"
+        }
+      },
+      "score": 0.19218621227095167,
+      "created_at": "2026-07-06T09:10:11.956875-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c751f4ec-28aa-4a44-82dd-abcde98f2037",
+      "memory": "User has a standard washer and dryer that can handle one load at a time.",
+      "hash": "f03926e7a2b0d58b6e3fc1a67c69843a",
+      "metadata": {
+        "ordinal": 112,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.19189108459869803,
+      "created_at": "2026-07-06T09:08:46.953737-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "7504ad86-15c6-42d6-ba37-2d2db40d7f43",
+      "memory": "User has been using Google Calendar for a while.",
+      "hash": "82e4095629dcd17d155b3f1376d13d23",
+      "metadata": {
+        "ordinal": 255,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be using",
+          "object_text": "Google Calendar",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.1915331996043549,
+      "created_at": "2026-07-06T09:10:28.427710-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "cdd493ca-d1e2-4f46-bde4-37e9e6126238",
+      "memory": "User is thinking about setting up a separate breeding tank for their platies.",
+      "hash": "351faf4763d760bb8e9aec29e3d2f4c0",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be thinking about setting up",
+          "object_text": "a separate breeding tank for their platies",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking about setting up"
+        }
+      },
+      "score": 0.19001409324658292,
+      "created_at": "2026-07-06T09:08:27.516213-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bdd46805-ef2b-4202-9754-594ce1f6e53c",
+      "memory": "User has been really into Italian food lately.",
+      "hash": "d0a00d45eda24f8012074aa9d8ef4afb",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be really into",
+          "object_text": "Italian food",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been really into"
+        }
+      },
+      "score": 0.1890166783618082,
+      "created_at": "2026-07-06T09:07:26.391122-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "af1617ff-8221-47a3-8142-dac63fe05158",
+      "memory": "User is considering getting some bees to help with pollination on their farm.",
+      "hash": "0e3357e9c90a04b422619c586aa1f4d8",
+      "metadata": {
+        "ordinal": 269,
+        "triple": null,
+        "subject_fallback": "bees"
+      },
+      "score": 0.18899093663921687,
+      "created_at": "2026-07-06T09:10:39.469155-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "812c64b2-6dca-4c4b-9f66-a736400e2948",
+      "memory": "User learned to make a delicious Italian pasta dish with a creamy sauce in a cooking class on a Saturday morning.",
+      "hash": "def7dc9b0d48d22581cb53605a3d7dff",
+      "metadata": {
+        "ordinal": 13,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.18824945669552245,
+      "created_at": "2026-07-06T09:07:26.415081-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "976441bb-16be-49f7-b192-114c5545a9f3",
+      "memory": "Freezing bread is a great way to make it last longer while maintaining its quality.",
+      "hash": "2289f3fa494b4b8150f991fa7db0d7b0",
+      "metadata": {
+        "ordinal": 38,
+        "triple": null,
+        "subject_fallback": "bread"
+      },
+      "score": 0.18821585616861014,
+      "created_at": "2026-07-06T09:07:44.132786-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "258f3dcf-fcdf-43af-a043-f1182c74017e",
+      "memory": "User thinks they will start with the Kochere coffee bean.",
+      "hash": "2371f46d2d1f8ac59a2a16968745b8b7",
+      "metadata": {
+        "ordinal": 106,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "thinks they will start with",
+          "object_text": "the Kochere coffee bean",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they will start with"
+        }
+      },
+      "score": 0.1877654527346485,
+      "created_at": "2026-07-06T09:08:39.582494-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b986421c-af6d-445a-a35c-31cdd34c7a8f",
+      "memory": "User recently discovered a new show called 'The Best Thing I Ever Ate' where chefs and food experts share their favorite dishes from around the world.",
+      "hash": "1ccb5e4af3a10cfc0f8260172c3740d0",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently discovered",
+          "object_text": "a new show called 'The Best Thing I Ever Ate'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "recently discovered"
+        }
+      },
+      "score": 0.18762931649215084,
+      "created_at": "2026-07-06T09:07:26.409026-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "755a671d-37a6-4132-b67e-ff3d4dc80f59",
+      "memory": "User recently sent out 50 survey requests to medical professionals to gather their opinions on the current state of AI in healthcare.",
+      "hash": "7fb73bf4297b525430194647c9cf9b4d",
+      "metadata": {
+        "ordinal": 240,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "recently sent out",
+          "object_text": "50 survey requests to medical professionals to gather their opinions on the current state of AI in healthcare",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "recently sent out"
+        }
+      },
+      "score": 0.1871198923617058,
+      "created_at": "2026-07-06T09:10:20.571582-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a0b582fe-c0c8-4183-a4ea-6add45a0813d",
+      "memory": "User has had tech struggles lately.",
+      "hash": "ccdf411e8a566ddd479155bffd0703d6",
+      "metadata": {
+        "ordinal": 228,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.18701148521512756,
+      "created_at": "2026-07-06T09:10:11.943860-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "62eb31de-2b91-4ec1-9dbc-b37f3f91796b",
+      "memory": "User has been using their Amazon Echo Dot to set reminders and alarms.",
+      "hash": "8f9fa8aa13df21f76dd726e0894a2187",
+      "metadata": {
+        "ordinal": 230,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be using",
+          "object_text": "their Amazon Echo Dot to set reminders and alarms",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been using"
+        }
+      },
+      "score": 0.18560564817445294,
+      "created_at": "2026-07-06T09:10:11.953512-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6aba777e-0f3c-4794-9021-554dca55c1f6",
+      "memory": "User has been experiencing some stress and anxiety lately.",
+      "hash": "9ba251355673a5b1a2b336e7a66b1a61",
+      "metadata": {
+        "ordinal": 223,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.18467692140759118,
+      "created_at": "2026-07-06T09:09:59.281739-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "bb977067-2372-44c0-971f-d7bd875a35d6",
+      "memory": "User has been experimenting with different pasta dishes.",
+      "hash": "461a592961afcb06adb1e93678884a1d",
+      "metadata": {
+        "ordinal": 12,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be experimenting with",
+          "object_text": "different pasta dishes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been experimenting with"
+        }
+      },
+      "score": 0.18318964462931278,
+      "created_at": "2026-07-06T09:07:26.412145-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5abe80f4-6a7f-4bb7-94fc-93a07fe9b3d0",
+      "memory": "User will try using specific phrases when dealing with power imbalances in the future.",
+      "hash": "4c27874636b97a0726d74e1e31732a18",
+      "metadata": {
+        "ordinal": 187,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will try using",
+          "object_text": "specific phrases when dealing with power imbalances in the future",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "will try using"
+        }
+      },
+      "score": 0.18308587223650147,
+      "created_at": "2026-07-06T09:09:33.725087-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8e9c6ce1-6731-4694-b928-9bb02086710c",
+      "memory": "User has been noticing that they tend to leave their dirty coffee mug on the counter for a while before washing it.",
+      "hash": "23d5c60ff4b6f7dfef17ba09ffc94ec2",
+      "metadata": {
+        "ordinal": 117,
+        "triple": null
+      },
+      "score": 0.1827754843595126,
+      "created_at": "2026-07-06T09:08:46.965076-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8c431393-610a-4438-ad03-e004eca149fa",
+      "memory": "User sold around 30 candles and 15 soaps at the last big market.",
+      "hash": "e40c36dc5a251919bade2c66d251f289",
+      "metadata": {
+        "ordinal": 30,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "sold",
+          "object_text": "around 30 candles and 15 soaps at the last big market",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "sold"
+        }
+      },
+      "score": 0.1826213217423237,
+      "created_at": "2026-07-06T09:07:40.667781-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8674f006-2f68-4f1a-957a-ba31e3ef3513",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 70,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18244173085987928,
+      "created_at": "2026-07-06T09:08:12.867573-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "612ea38a-81d3-4083-9a3d-f8bfee8418a1",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 121,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18244173085987928,
+      "created_at": "2026-07-06T09:08:47.457726-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "341e7e05-59e5-4e68-9983-750bf18a3b10",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 136,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18244173085987928,
+      "created_at": "2026-07-06T09:08:52.556123-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9897f5f4-10f8-43ae-bb91-0e7da9d53b50",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 201,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18244173085987928,
+      "created_at": "2026-07-06T09:09:41.871971-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "8f753530-d08a-44a3-a71d-a576ecd5cace",
+      "memory": "The total number of persons is 200.",
+      "hash": "3f6dab6df4fc75d7e796bf49eb89c20c",
+      "metadata": {
+        "ordinal": 300,
+        "triple": {
+          "subject_id": "total_number_of_persons",
+          "predicate_norm": "be",
+          "object_text": "200",
+          "confidence": 0.95,
+          "subject_raw": "total number of persons",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18244173085987928,
+      "created_at": "2026-07-06T09:11:03.193249-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d997821b-75bd-44d5-9607-f16f05b1809e",
+      "memory": "The median is 136.25.",
+      "hash": "7b3529da9686231d44de8c085dd8c687",
+      "metadata": {
+        "ordinal": 301,
+        "triple": {
+          "subject_id": "median",
+          "predicate_norm": "be",
+          "object_text": "136.25",
+          "confidence": 0.95,
+          "subject_raw": "median",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18097000469074367,
+      "created_at": "2026-07-06T09:11:03.196984-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "232c72df-0535-4fe4-9054-47d673d5a96b",
+      "memory": "The median is 136.25.",
+      "hash": "7b3529da9686231d44de8c085dd8c687",
+      "metadata": {
+        "ordinal": 202,
+        "triple": {
+          "subject_id": "median",
+          "predicate_norm": "be",
+          "object_text": "136.25",
+          "confidence": 0.95,
+          "subject_raw": "median",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18097000469074367,
+      "created_at": "2026-07-06T09:09:41.876650-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "aa00bcd5-4777-4e19-984f-e021904ac1a0",
+      "memory": "The median is 136.25.",
+      "hash": "7b3529da9686231d44de8c085dd8c687",
+      "metadata": {
+        "ordinal": 71,
+        "triple": {
+          "subject_id": "median",
+          "predicate_norm": "be",
+          "object_text": "136.25",
+          "confidence": 0.95,
+          "subject_raw": "median",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18097000469074367,
+      "created_at": "2026-07-06T09:08:12.872005-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e7a3e2c1-40a4-42ff-8377-4d02bd12b11a",
+      "memory": "The median is 136.25.",
+      "hash": "7b3529da9686231d44de8c085dd8c687",
+      "metadata": {
+        "ordinal": 137,
+        "triple": {
+          "subject_id": "median",
+          "predicate_norm": "be",
+          "object_text": "136.25",
+          "confidence": 0.95,
+          "subject_raw": "median",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18097000469074367,
+      "created_at": "2026-07-06T09:08:52.559719-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "a358319e-794c-4701-85ca-5c495ac53aa7",
+      "memory": "The median is 136.25.",
+      "hash": "7b3529da9686231d44de8c085dd8c687",
+      "metadata": {
+        "ordinal": 122,
+        "triple": {
+          "subject_id": "median",
+          "predicate_norm": "be",
+          "object_text": "136.25",
+          "confidence": 0.95,
+          "subject_raw": "median",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18097000469074367,
+      "created_at": "2026-07-06T09:08:47.460763-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "405190ba-42e7-4446-9411-16d2edf8ac7e",
+      "memory": "User is considering offering a tiered discount structure of 5% off for 3-4 items and 15% off for 5 or more items.",
+      "hash": "7caedcb34c9eaa060defdcac479b7242",
+      "metadata": {
+        "ordinal": 36,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be considering offering",
+          "object_text": "a tiered discount structure of 5% off for 3-4 items and 15% off for 5 or more items",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is considering offering"
+        }
+      },
+      "score": 0.17891185726916625,
+      "created_at": "2026-07-06T09:07:40.684702-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "9066ac08-294f-4eb1-acf7-27b9f34f07e3",
+      "memory": "User has been looking for a rich and comforting pasta dish to make for their family.",
+      "hash": "f30734381db6822d91a7813d02791742",
+      "metadata": {
+        "ordinal": 16,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be looking for",
+          "object_text": "a rich and comforting pasta dish to make for their family",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been looking for"
+        }
+      },
+      "score": 0.17850321403032052,
+      "created_at": "2026-07-06T09:07:26.423161-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "5b3db528-25d8-4922-81f3-fdf8aee4d124",
+      "memory": "User would like to add a habit of reviewing their budget and expenses regularly, maybe weekly or bi-weekly.",
+      "hash": "75b90e83cc78ebca8bdce7701281dd67",
+      "metadata": {
+        "ordinal": 181,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "would like to add habit reviewing",
+          "object_text": "their budget and expenses regularly, maybe weekly or bi-weekly",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "would like to add a habit of reviewing"
+        }
+      },
+      "score": 0.17699227735231432,
+      "created_at": "2026-07-06T09:09:26.016571-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0f2b5170-f9b7-40a4-acf6-f7c787bd48e2",
+      "memory": "User is interested in a medium roast of Kochere.",
+      "hash": "9680135af459e36b07b12924d707eb59",
+      "metadata": {
+        "ordinal": 107,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be interested in",
+          "object_text": "a medium roast of Kochere",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.17674175221822733,
+      "created_at": "2026-07-06T09:08:39.586980-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2249fdd6-ce12-4d46-9a6a-10de5fe428b3",
+      "memory": "User likes the idea of Creamy Pesto Chicken Lasagna.",
+      "hash": "d360ca2d52ab61866571a79e60fb50f1",
+      "metadata": {
+        "ordinal": 9,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "likes idea",
+          "object_text": "Creamy Pesto Chicken Lasagna",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "likes the idea of"
+        }
+      },
+      "score": 0.17654025931426667,
+      "created_at": "2026-07-06T09:07:26.401246-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "06dc1d33-f866-4d9a-b688-6a9aba4e2d1e",
+      "memory": "User will ask the museum if they have any programs or classes designed for kids from low-income backgrounds.",
+      "hash": "375dc668254b30e0c0dae52b210c66f5",
+      "metadata": {
+        "ordinal": 193,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will ask",
+          "object_text": "the museum if they have any programs or classes designed for kids from low-income backgrounds",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will ask"
+        }
+      },
+      "score": 0.1760589334304886,
+      "created_at": "2026-07-06T09:09:41.273019-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "b7aaef20-a50f-40c9-8776-1b24b1a8691d",
+      "memory": "User is going to reach out to some local hospitals and non-profits to see if they have any events planned.",
+      "hash": "de4e1b0939cfd957f8c58f7dc27f6d3f",
+      "metadata": {
+        "ordinal": 292,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "be going to reach out to",
+          "object_text": "some local hospitals and non-profits to see if they have any events planned",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is going to reach out to"
+        }
+      },
+      "score": 0.17578883440302814,
+      "created_at": "2026-07-06T09:11:02.411034-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2fc574db-83f0-4a78-9d77-00fe90eb3291",
+      "memory": "User is thinking of trying a new coffee-to-water ratio for their pour-over.",
+      "hash": "c12829d81dad6e5f7f5c634e41c0882c",
+      "metadata": {
+        "ordinal": 108,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.17506279651679985,
+      "created_at": "2026-07-06T09:08:39.590262-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "4a6af873-208a-47d0-aae7-1f2bf2d60a8b",
+      "memory": "User is thinking of setting up a little photo studio in their living room to take more pictures of Luna.",
+      "hash": "fabf7cef4f91b4e2906f7df28139eaa6",
+      "metadata": {
+        "ordinal": 22,
+        "triple": null,
+        "subject_fallback": "luna"
+      },
+      "score": 0.17465250498289095,
+      "created_at": "2026-07-06T09:07:31.821264-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "026cf5d6-44e7-4428-9fe6-74b8290468fa",
+      "memory": "User has been doing bi-weekly water changes and monitoring water parameters closely.",
+      "hash": "a3ae425755112b39e0327299d1b453ee",
+      "metadata": {
+        "ordinal": 89,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be doing",
+          "object_text": "bi-weekly water changes and monitoring water parameters closely",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.1741364641000829,
+      "created_at": "2026-07-06T09:08:27.509690-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "0dbc9fb0-9382-4c0e-bfd3-790453d5309f",
+      "memory": "User has been researching the best breeding techniques and tank conditions for platies.",
+      "hash": "2c87b7840b5becb9575ac770cd8f059e",
+      "metadata": {
+        "ordinal": 93,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has be researching",
+          "object_text": "the best breeding techniques and tank conditions for platies",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been researching"
+        }
+      },
+      "score": 0.17283755089295097,
+      "created_at": "2026-07-06T09:08:27.522214-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "efd033ee-729d-43d3-af5c-4ef7610e6d7c",
+      "memory": "The lower quartile is 127.67.",
+      "hash": "4fb337d318b7e3c93b9b9735e0517a56",
+      "metadata": {
+        "ordinal": 302,
+        "triple": {
+          "subject_id": "lower_quartile",
+          "predicate_norm": "be",
+          "object_text": "127.67",
+          "confidence": 0.95,
+          "subject_raw": "lower quartile",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.1714806259457492,
+      "created_at": "2026-07-06T09:11:03.201378-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "dd3147a5-3f58-4a21-93ce-c27399a70148",
+      "memory": "The lower quartile is 127.67.",
+      "hash": "4fb337d318b7e3c93b9b9735e0517a56",
+      "metadata": {
+        "ordinal": 203,
+        "triple": {
+          "subject_id": "lower_quartile",
+          "predicate_norm": "be",
+          "object_text": "127.67",
+          "confidence": 0.95,
+          "subject_raw": "lower quartile",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.1714806259457492,
+      "created_at": "2026-07-06T09:09:41.880313-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "785f9283-a4a4-4bed-a591-b396fafe8b45",
+      "memory": "The lower quartile is 127.67.",
+      "hash": "4fb337d318b7e3c93b9b9735e0517a56",
+      "metadata": {
+        "ordinal": 138,
+        "triple": {
+          "subject_id": "lower_quartile",
+          "predicate_norm": "be",
+          "object_text": "127.67",
+          "confidence": 0.95,
+          "subject_raw": "lower quartile",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.1714806259457492,
+      "created_at": "2026-07-06T09:08:52.563720-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "e6fb3f6c-867c-4ab5-b2c9-320fdd540602",
+      "memory": "The lower quartile is 127.67.",
+      "hash": "4fb337d318b7e3c93b9b9735e0517a56",
+      "metadata": {
+        "ordinal": 72,
+        "triple": {
+          "subject_id": "lower_quartile",
+          "predicate_norm": "be",
+          "object_text": "127.67",
+          "confidence": 0.95,
+          "subject_raw": "lower quartile",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.1714806259457492,
+      "created_at": "2026-07-06T09:08:12.875174-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "634ef764-282d-4382-9a61-7575718e045b",
+      "memory": "The lower quartile is 127.67.",
+      "hash": "4fb337d318b7e3c93b9b9735e0517a56",
+      "metadata": {
+        "ordinal": 123,
+        "triple": {
+          "subject_id": "lower_quartile",
+          "predicate_norm": "be",
+          "object_text": "127.67",
+          "confidence": 0.95,
+          "subject_raw": "lower quartile",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.1714806259457492,
+      "created_at": "2026-07-06T09:08:47.463458-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "94ce1721-f68f-4618-8f45-5d453b399193",
+      "memory": "User will ask how the museum will use the funds raised from the charity auction to support and expand these initiatives.",
+      "hash": "e636ad8ffac355cb19a81259aeb11758",
+      "metadata": {
+        "ordinal": 197,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "will ask",
+          "object_text": "how the museum will use the funds raised from the charity auction to support and expand these initiatives",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will ask"
+        }
+      },
+      "score": 0.16993378217118416,
+      "created_at": "2026-07-06T09:09:41.284048-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "6496fc49-ab01-4547-94e8-f1d28af732d3",
+      "memory": "User's old water bottle was dishwasher safe.",
+      "hash": "26e7b05e3cb346ccab392e01f2fea69a",
+      "metadata": {
+        "ordinal": 153,
+        "triple": {
+          "subject_id": "user's_old_water_bottle",
+          "predicate_norm": "be",
+          "object_text": "dishwasher safe",
+          "confidence": 0.95,
+          "subject_raw": "user's old water bottle",
+          "predicate_raw": "was"
+        }
+      },
+      "score": 0.16967605896584054,
+      "created_at": "2026-07-06T09:09:08.374190-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "103cfbd7-d363-4649-bac9-4a1dc3903417",
+      "memory": "User realized they didn't have enough money left for other essentials a week later after making a big purchase last month.",
+      "hash": "8c487ee7666a797992f619e762e849c0",
+      "metadata": {
+        "ordinal": 171,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "realized they didn't have enough money left for",
+          "object_text": "other essentials a week later after making a big purchase last month",
+          "confidence": 0.8,
+          "subject_raw": "user",
+          "predicate_raw": "realized they didn't have enough money left for"
+        }
+      },
+      "score": 0.16953906390668524,
+      "created_at": "2026-07-06T09:09:25.992803-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "24ed6002-bbba-49d7-9472-a23939a17cc7",
+      "memory": "Freezing bread slows down the rate at which it goes stale by reducing the moisture migration that causes staleness.",
+      "hash": "253d60115d0173841ccdc53fe2eaf4e1",
+      "metadata": {
+        "ordinal": 39,
+        "triple": {
+          "subject_id": "freezing_bread",
+          "predicate_norm": "slows down rate at which it goes stale by reducing",
+          "object_text": "the moisture migration that causes staleness",
+          "confidence": 0.85,
+          "subject_raw": "Freezing bread",
+          "predicate_raw": "slows down the rate at which it goes stale by reducing"
+        }
+      },
+      "score": 0.16799692315280312,
+      "created_at": "2026-07-06T09:07:44.137557-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "fc57c099-5d88-44e5-8601-d9299cdcd8a7",
+      "memory": "User has had issues with crab cakes breaking apart in the past.",
+      "hash": "8f984bf90395ef274ea11917cd781645",
+      "metadata": {
+        "ordinal": 43,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "has had issues with",
+          "object_text": "crab cakes breaking apart in the past",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has had issues with"
+        }
+      },
+      "score": 0.16741322625766072,
+      "created_at": "2026-07-06T09:07:49.498992-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c1fdee41-6e17-4c14-99b1-8198e544a335",
+      "memory": "User is trying to get more organized.",
+      "hash": "36528294c7f95c7ab6aee9aabf443c17",
+      "metadata": {
+        "ordinal": 250,
+        "triple": null,
+        "subject_fallback": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+      },
+      "score": 0.1669934252666408,
+      "created_at": "2026-07-06T09:10:28.408799-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "78807608-fd48-4865-bfdc-21bb518406d7",
+      "memory": "User is thinking of building a fence around the chicken coop to protect them from predators like raccoons and foxes.",
+      "hash": "0744da0214dd47fc4e423295d00344ac",
+      "metadata": {
+        "ordinal": 268,
+        "triple": null,
+        "subject_fallback": "chicken_coop"
+      },
+      "score": 0.1665582492335272,
+      "created_at": "2026-07-06T09:10:39.467402-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d4adf9d7-7adf-4738-9a36-e22064c37b3f",
+      "memory": "User thinks they paid around $20 for their old water bottle.",
+      "hash": "349e350a9e0a4707f83ffd61e24096a4",
+      "metadata": {
+        "ordinal": 154,
+        "triple": {
+          "subject_id": "user::context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2",
+          "predicate_norm": "thinks they paid around",
+          "object_text": "$20 for their old water bottle",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "thinks they paid around"
+        }
+      },
+      "score": 0.16448269231219192,
+      "created_at": "2026-07-06T09:09:08.377275-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "c8614139-3940-48f5-9b1e-db5e07a8a9a3",
+      "memory": "The substitution used is U = (X - 130) / 20.",
+      "hash": "770a96b6b6b6c488dd85e84861cc08d0",
+      "metadata": {
+        "ordinal": 134,
+        "triple": null
+      },
+      "score": 0.1644244004943207,
+      "created_at": "2026-07-06T09:08:52.546932-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "2c08c45f-a67d-4fdb-9195-b46b7456c555",
+      "memory": "The substitution used is U = (X - 130) / 20.",
+      "hash": "770a96b6b6b6c488dd85e84861cc08d0",
+      "metadata": {
+        "ordinal": 119,
+        "triple": null
+      },
+      "score": 0.1644244004943207,
+      "created_at": "2026-07-06T09:08:47.451433-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "d8358c8b-3b55-443d-930a-0838ce3f4ab9",
+      "memory": "The substitution used is U = (X - 130) / 20.",
+      "hash": "770a96b6b6b6c488dd85e84861cc08d0",
+      "metadata": {
+        "ordinal": 298,
+        "triple": null
+      },
+      "score": 0.1644244004943207,
+      "created_at": "2026-07-06T09:11:03.183395-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    },
+    {
+      "id": "ab632cf8-84c9-4afe-a090-e1bc08969a4c",
+      "memory": "The substitution used is U = (X - 130) / 20.",
+      "hash": "770a96b6b6b6c488dd85e84861cc08d0",
+      "metadata": {
+        "ordinal": 68,
+        "triple": null
+      },
+      "score": 0.1644244004943207,
+      "created_at": "2026-07-06T09:08:12.859872-07:00",
+      "updated_at": null,
+      "user_id": "context_ed4ddc30_longmemeval_s_ku_ours_no_p5_s0n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": null,
+  "memories_str": "1. User has 30 dozen eggs stocked up in the fridge.\n266. User has 20 dozen fresh eggs stocked up in the fridge from their coop.\n265. User is thinking of making some quiche for dinner.\n0. User is thinking of trying out some new recipes with fresh eggs and goat milk.\n116. User has been thinking about creating a schedule for cleaning out the fridge and oven.\n27. User needs help with calculating their inventory for the Harvest Market.\n28. User wants to ensure they have enough candles and soaps in stock for the Harvest Market.\n8. User attended a cooking class a few weeks ago where they learned to make a delicious pasta dish with a creamy sauce on a Saturday morning.\n45. User has been making a lot of shrimp dishes lately.\n40. User has made Garlic Butter Shrimp at least four times in the past month.\n195. User will ask the museum about their outreach efforts and how they plan to promote these programs to the target audience.\n6. User is looking for new recipe ideas for a dinner party they are hosting soon.\n4. User thinks they will start with the fresh chevre recipe.\n26. User is preparing for the upcoming Harvest Market on September 18th.\n267. User is thinking of making some cheese using the milk from their goats, Billy and Nibbles.\n217. User wants to have some time to grab coffee and get ready for the day before their meetings start.\n10. User has been watching a lot of cooking shows lately.\n175. User thinks the 30-day waiting period and asking themselves questions before making a purchase will be especially useful.\n251. User is currently using a planner.\n2. User is thinking of making some cheese with goat milk.\n35. User is thinking of offering a discount for bulk purchases, like 10% off for 3 or more items.\n44. User is planning to serve crab cakes with a side of Garlic Butter Shrimp.\n196. User will ask the museum about their plans to evaluate the effectiveness of their outreach efforts and programs.\n149. User's old water bottle was around 27 oz.\n260. User is considering the group size and dynamics for the game night.\n158. User moved to a new apartment on January 15th.\n192. User will contact the museum directly to ask about their class offerings and schedules.\n15. User is intrigued by the Creamy Mushroom Fettuccine recipe.\n32. User has a daily market stall in the city center, usually on Tuesdays and Thursdays.\n86. User has had their tank set up for a month.\n177. User plans to set reminders on their phone to wait 30 days before making a non-essential purchase.\n3. User is excited to start making some cheese with goat milk.\n42. User is intrigued by the Crab Cakes with Remoulade Sauce idea.\n178. User will create a note on their phone with questions to ask themselves before buying something.\n92. User has already set up a separate breeding tank.\n33. User has been averaging around $100 in sales per day at their daily market stall.\n41. User is looking for inspiration for a new seafood dish.\n115. User has been trying to stick to a daily cleaning routine for the past three weeks.\n5. User thinks they will start with the ricotta recipe.\n34. User is considering offering a special promotion at the Harvest Market to attract more customers.\n113. User usually does a mix of lights and darks, with some delicates and bulky items every now and then.\n114. User would like to free up some time on the weekends.\n259. User is thinking of hosting a game night with a mix of friends and coworkers.\n224. User has been waking up earlier than usual lately.\n231. User is interested in exploring smart home skills, especially thermostat control.\n112. User has a standard washer and dryer that can handle one load at a time.\n255. User has been using Google Calendar for a while.\n91. User is thinking about setting up a separate breeding tank for their platies.\n7. User has been really into Italian food lately.\n269. User is considering getting some bees to help with pollination on their farm.\n13. User learned to make a delicious Italian pasta dish with a creamy sauce in a cooking class on a Saturday morning.\n38. Freezing bread is a great way to make it last longer while maintaining its quality.\n106. User thinks they will start with the Kochere coffee bean.\n11. User recently discovered a new show called 'The Best Thing I Ever Ate' where chefs and food experts share their favorite dishes from around the world.\n240. User recently sent out 50 survey requests to medical professionals to gather their opinions on the current state of AI in healthcare.\n228. User has had tech struggles lately.\n230. User has been using their Amazon Echo Dot to set reminders and alarms.\n223. User has been experiencing some stress and anxiety lately.\n12. User has been experimenting with different pasta dishes.\n187. User will try using specific phrases when dealing with power imbalances in the future.\n117. User has been noticing that they tend to leave their dirty coffee mug on the counter for a while before washing it.\n30. User sold around 30 candles and 15 soaps at the last big market.\n70. The total number of persons is 200.\n121. The total number of persons is 200.\n136. The total number of persons is 200.\n201. The total number of persons is 200.\n300. The total number of persons is 200.\n301. The median is 136.25.\n202. The median is 136.25.\n71. The median is 136.25.\n137. The median is 136.25.\n122. The median is 136.25.\n36. User is considering offering a tiered discount structure of 5% off for 3-4 items and 15% off for 5 or more items.\n16. User has been looking for a rich and comforting pasta dish to make for their family.\n181. User would like to add a habit of reviewing their budget and expenses regularly, maybe weekly or bi-weekly.\n107. User is interested in a medium roast of Kochere.\n9. User likes the idea of Creamy Pesto Chicken Lasagna.\n193. User will ask the museum if they have any programs or classes designed for kids from low-income backgrounds.\n292. User is going to reach out to some local hospitals and non-profits to see if they have any events planned.\n108. User is thinking of trying a new coffee-to-water ratio for their pour-over.\n22. User is thinking of setting up a little photo studio in their living room to take more pictures of Luna.\n89. User has been doing bi-weekly water changes and monitoring water parameters closely.\n93. User has been researching the best breeding techniques and tank conditions for platies.\n302. The lower quartile is 127.67.\n203. The lower quartile is 127.67.\n138. The lower quartile is 127.67.\n72. The lower quartile is 127.67.\n123. The lower quartile is 127.67.\n197. User will ask how the museum will use the funds raised from the charity auction to support and expand these initiatives.\n153. User's old water bottle was dishwasher safe.\n171. User realized they didn't have enough money left for other essentials a week later after making a big purchase last month.\n39. Freezing bread slows down the rate at which it goes stale by reducing the moisture migration that causes staleness.\n43. User has had issues with crab cakes breaking apart in the past.\n250. User is trying to get more organized.\n268. User is thinking of building a fence around the chicken coop to protect them from predators like raccoons and foxes.\n154. User thinks they paid around $20 for their old water bottle.\n134. The substitution used is U = (X - 130) / 20.\n119. The substitution used is U = (X - 130) / 20.\n298. The substitution used is U = (X - 130) / 20.\n68. The substitution used is U = (X - 130) / 20.",
+  "system_prompt": "You are a careful information-extraction system that outputs only JSON.",
+  "user_message": "You are given retrieved items from a user's personal memory. Each item has a FRESHNESS marker (the prefix integer) — a higher marker means the item was recorded more recently.\n\nYour job: identify EVERY item that DIRECTLY answers the question, and extract the answer from each such item.\n\nDo NOT compare freshness markers. Do NOT pick a \"best\" one. Include ALL items that answer the question.\n\nRules:\n1. An item answers the question only if it states the specific piece of information the question asks about (e.g. the user's current city, job, or preference). A related-but-different topic does NOT count.\n2. Most items describe the user (\"User ...\"); treat the user as the subject unless the question names someone else.\n3. If the user has multiple conflicting values recorded at different freshness markers, INCLUDE BOTH as separate candidates. Do not pick.\n4. If no item answers the question, return an empty list.\n5. Copy the item's text verbatim into `fact_text`, and put the concise answer to the question into `answer_entity`.\n\nQuestion: Today's date is 2023/03/16 (Thu) 14:24.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n How many dozen eggs do we currently have stocked up in our refrigerator?\n\nItems:\n1. User has 30 dozen eggs stocked up in the fridge.\n266. User has 20 dozen fresh eggs stocked up in the fridge from their coop.\n265. User is thinking of making some quiche for dinner.\n0. User is thinking of trying out some new recipes with fresh eggs and goat milk.\n116. User has been thinking about creating a schedule for cleaning out the fridge and oven.\n27. User needs help with calculating their inventory for the Harvest Market.\n28. User wants to ensure they have enough candles and soaps in stock for the Harvest Market.\n8. User attended a cooking class a few weeks ago where they learned to make a delicious pasta dish with a creamy sauce on a Saturday morning.\n45. User has been making a lot of shrimp dishes lately.\n40. User has made Garlic Butter Shrimp at least four times in the past month.\n195. User will ask the museum about their outreach efforts and how they plan to promote these programs to the target audience.\n6. User is looking for new recipe ideas for a dinner party they are hosting soon.\n4. User thinks they will start with the fresh chevre recipe.\n26. User is preparing for the upcoming Harvest Market on September 18th.\n267. User is thinking of making some cheese using the milk from their goats, Billy and Nibbles.\n217. User wants to have some time to grab coffee and get ready for the day before their meetings start.\n10. User has been watching a lot of cooking shows lately.\n175. User thinks the 30-day waiting period and asking themselves questions before making a purchase will be especially useful.\n251. User is currently using a planner.\n2. User is thinking of making some cheese with goat milk.\n35. User is thinking of offering a discount for bulk purchases, like 10% off for 3 or more items.\n44. User is planning to serve crab cakes with a side of Garlic Butter Shrimp.\n196. User will ask the museum about their plans to evaluate the effectiveness of their outreach efforts and programs.\n149. User's old water bottle was around 27 oz.\n260. User is considering the group size and dynamics for the game night.\n158. User moved to a new apartment on January 15th.\n192. User will contact the museum directly to ask about their class offerings and schedules.\n15. User is intrigued by the Creamy Mushroom Fettuccine recipe.\n32. User has a daily market stall in the city center, usually on Tuesdays and Thursdays.\n86. User has had their tank set up for a month.\n177. User plans to set reminders on their phone to wait 30 days before making a non-essential purchase.\n3. User is excited to start making some cheese with goat milk.\n42. User is intrigued by the Crab Cakes with Remoulade Sauce idea.\n178. User will create a note on their phone with questions to ask themselves before buying something.\n92. User has already set up a separate breeding tank.\n33. User has been averaging around $100 in sales per day at their daily market stall.\n41. User is looking for inspiration for a new seafood dish.\n115. User has been trying to stick to a daily cleaning routine for the past three weeks.\n5. User thinks they will start with the ricotta recipe.\n34. User is considering offering a special promotion at the Harvest Market to attract more customers.\n113. User usually does a mix of lights and darks, with some delicates and bulky items every now and then.\n114. User would like to free up some time on the weekends.\n259. User is thinking of hosting a game night with a mix of friends and coworkers.\n224. User has been waking up earlier than usual lately.\n231. User is interested in exploring smart home skills, especially thermostat control.\n112. User has a standard washer and dryer that can handle one load at a time.\n255. User has been using Google Calendar for a while.\n91. User is thinking about setting up a separate breeding tank for their platies.\n7. User has been really into Italian food lately.\n269. User is considering getting some bees to help with pollination on their farm.\n13. User learned to make a delicious Italian pasta dish with a creamy sauce in a cooking class on a Saturday morning.\n38. Freezing bread is a great way to make it last longer while maintaining its quality.\n106. User thinks they will start with the Kochere coffee bean.\n11. User recently discovered a new show called 'The Best Thing I Ever Ate' where chefs and food experts share their favorite dishes from around the world.\n240. User recently sent out 50 survey requests to medical professionals to gather their opinions on the current state of AI in healthcare.\n228. User has had tech struggles lately.\n230. User has been using their Amazon Echo Dot to set reminders and alarms.\n223. User has been experiencing some stress and anxiety lately.\n12. User has been experimenting with different pasta dishes.\n187. User will try using specific phrases when dealing with power imbalances in the future.\n117. User has been noticing that they tend to leave their dirty coffee mug on the counter for a while before washing it.\n30. User sold around 30 candles and 15 soaps at the last big market.\n70. The total number of persons is 200.\n121. The total number of persons is 200.\n136. The total number of persons is 200.\n201. The total number of persons is 200.\n300. The total number of persons is 200.\n301. The median is 136.25.\n202. The median is 136.25.\n71. The median is 136.25.\n137. The median is 136.25.\n122. The median is 136.25.\n36. User is considering offering a tiered discount structure of 5% off for 3-4 items and 15% off for 5 or more items.\n16. User has been looking for a rich and comforting pasta dish to make for their family.\n181. User would like to add a habit of reviewing their budget and expenses regularly, maybe weekly or bi-weekly.\n107. User is interested in a medium roast of Kochere.\n9. User likes the idea of Creamy Pesto Chicken Lasagna.\n193. User will ask the museum if they have any programs or classes designed for kids from low-income backgrounds.\n292. User is going to reach out to some local hospitals and non-profits to see if they have any events planned.\n108. User is thinking of trying a new coffee-to-water ratio for their pour-over.\n22. User is thinking of setting up a little photo studio in their living room to take more pictures of Luna.\n89. User has been doing bi-weekly water changes and monitoring water parameters closely.\n93. User has been researching the best breeding techniques and tank conditions for platies.\n302. The lower quartile is 127.67.\n203. The lower quartile is 127.67.\n138. The lower quartile is 127.67.\n72. The lower quartile is 127.67.\n123. The lower quartile is 127.67.\n197. User will ask how the museum will use the funds raised from the charity auction to support and expand these initiatives.\n153. User's old water bottle was dishwasher safe.\n171. User realized they didn't have enough money left for other essentials a week later after making a big purchase last month.\n39. Freezing bread slows down the rate at which it goes stale by reducing the moisture migration that causes staleness.\n43. User has had issues with crab cakes breaking apart in the past.\n250. User is trying to get more organized.\n268. User is thinking of building a fence around the chicken coop to protect them from predators like raccoons and foxes.\n154. User thinks they paid around $20 for their old water bottle.\n134. The substitution used is U = (X - 130) / 20.\n119. The substitution used is U = (X - 130) / 20.\n298. The substitution used is U = (X - 130) / 20.\n68. The substitution used is U = (X - 130) / 20.\n\nReturn ONLY valid JSON: {\"candidates\": [{\"serial\": <int>, \"fact_text\": \"<verbatim>\", \"answer_entity\": \"<answer>\"}, ...]}",
+  "response": "20 dozen",
+  "prompt_tokens": 2024,
+  "completion_tokens": 60
+}

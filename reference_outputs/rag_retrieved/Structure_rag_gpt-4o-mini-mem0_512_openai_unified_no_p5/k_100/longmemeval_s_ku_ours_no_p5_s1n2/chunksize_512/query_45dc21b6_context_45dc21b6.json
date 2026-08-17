@@ -1,0 +1,3649 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "7f887763-367c-47a6-b272-67089c00db86",
+      "memory": "User has already tried out two of Emma's recipes.",
+      "hash": "6fae9d91c4a3799f4cfd89e05911b660",
+      "metadata": {
+        "ordinal": 246,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has already tried out",
+          "object_text": "two of Emma's recipes",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has already tried out"
+        }
+      },
+      "score": 0.5089026163932026,
+      "created_at": "2026-07-06T08:34:56.441936-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ca74d1c7-6132-40b3-bd20-15450bb01041",
+      "memory": "User has tried out 3 of Emma's recipes so far, and they're all amazing.",
+      "hash": "d6e9e55f679a87d1f1733a4534ae4299",
+      "metadata": {
+        "ordinal": 556,
+        "triple": null,
+        "subject_fallback": "emma"
+      },
+      "score": 0.4888097877121357,
+      "created_at": "2026-07-06T08:37:27.481981-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a3ed6787-056f-4d9f-9e17-d688ea0e051c",
+      "memory": "User has been loving Emma's recipes on her channel.",
+      "hash": "0e4d9f06ea4e0a704804a816c66c7f9a",
+      "metadata": {
+        "ordinal": 245,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be loving",
+          "object_text": "Emma's recipes on her channel",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been loving"
+        }
+      },
+      "score": 0.46305263864506113,
+      "created_at": "2026-07-06T08:34:56.440353-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "172096bb-d52b-4640-b99c-4ff91c3068ee",
+      "memory": "User is thinking of trying out some new recipes this weekend.",
+      "hash": "ad2848a029655838a4131193dbbf2db7",
+      "metadata": {
+        "ordinal": 244,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.3933777872850453,
+      "created_at": "2026-07-06T08:34:56.438258-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c5e37c10-0b9c-4404-b321-ed84614e7b63",
+      "memory": "User has been grilling a lot lately.",
+      "hash": "ea6fdb0ad6175d28b4b3c8f71dd5ccd9",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be grilling",
+          "object_text": "a lot lately",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been grilling"
+        }
+      },
+      "score": 0.3347275528877893,
+      "created_at": "2026-07-06T08:35:44.905874-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "95b2209b-7033-4d4c-816a-b40fb4829cfe",
+      "memory": "User thinks they will give the Chocolate Chia Pudding a shot.",
+      "hash": "69de02aa601bffbacaf69d75e1a906a0",
+      "metadata": {
+        "ordinal": 248,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will give",
+          "object_text": "the Chocolate Chia Pudding a shot",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they will give"
+        }
+      },
+      "score": 0.30244367331293315,
+      "created_at": "2026-07-06T08:34:56.445197-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "45512528-8257-4fa8-9317-9f17a48340a4",
+      "memory": "User plans to make the veggie-packed minestrone soup and serve it with crusty bread and a side of fresh fruit.",
+      "hash": "b458a093dc1f608c59b43c374dc09d3f",
+      "metadata": {
+        "ordinal": 561,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to make",
+          "object_text": "the veggie-packed minestrone soup and serve it with crusty bread and a side of fresh fruit",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "plans to make"
+        }
+      },
+      "score": 0.3002943354347427,
+      "created_at": "2026-07-06T08:37:33.583809-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "66b92d8a-ad34-402c-b379-4c8deec360c1",
+      "memory": "User is excited to host their first dinner party soon.",
+      "hash": "d20bc48689439d2c5e33043751f1b588",
+      "metadata": {
+        "ordinal": 426,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited to host",
+          "object_text": "their first dinner party soon",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is excited to host"
+        }
+      },
+      "score": 0.2992220009634783,
+      "created_at": "2026-07-06T08:36:21.837106-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "79b29b5c-c394-45c9-9ed6-1584d2141e76",
+      "memory": "User is thinking of hosting a traditional Irish dinner party soon.",
+      "hash": "0b947636d1c501f2b07919156847c1e0",
+      "metadata": {
+        "ordinal": 263,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking hosting",
+          "object_text": "a traditional Irish dinner party soon",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of hosting"
+        }
+      },
+      "score": 0.29536785065041576,
+      "created_at": "2026-07-06T08:35:02.189139-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ad157ffb-2ea7-4b42-aa80-c7b57a11d01b",
+      "memory": "User is thinking of trying out some brisket recipes.",
+      "hash": "1d2ebad68ca270ea27255514c61fde7f",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "some brisket recipes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.28712633007118116,
+      "created_at": "2026-07-06T08:35:44.916879-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a78ab42c-a25e-44d9-8959-3414278decbc",
+      "memory": "User is particularly interested in the veggie-packed minestrone soup.",
+      "hash": "4515220efcd4a348582caf49ab7627ee",
+      "metadata": {
+        "ordinal": 560,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be particularly interested in",
+          "object_text": "the veggie-packed minestrone soup",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is particularly interested in"
+        }
+      },
+      "score": 0.2856963737265683,
+      "created_at": "2026-07-06T08:37:33.582428-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "befa03cc-8ba1-4c59-9ea7-b1d27d82df08",
+      "memory": "The user asked to use all of the words given.",
+      "hash": "a85e53fe42d64830820bdc83bff2e218",
+      "metadata": {
+        "ordinal": 131,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "asked to use",
+          "object_text": "all of the words given",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked to use"
+        }
+      },
+      "score": 0.27681026153924404,
+      "created_at": "2026-07-06T08:34:37.395010-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f76ebada-9d3a-4587-86e4-10d4037a7e11",
+      "memory": "User writes short poems in response to daily prompts.",
+      "hash": "a3089e57d263ed3989cea202b62d8d5a",
+      "metadata": {
+        "ordinal": 24,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "writes",
+          "object_text": "short poems in response to daily prompts",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "writes"
+        }
+      },
+      "score": 0.273500883450971,
+      "created_at": "2026-07-06T08:33:51.947288-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "29c30617-4c13-4f3b-bdaa-c0c2d6615e7b",
+      "memory": "User is looking for BBQ recipe ideas.",
+      "hash": "618128de7441101abb5eacce6846d9ee",
+      "metadata": {
+        "ordinal": 325,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking for",
+          "object_text": "BBQ recipe ideas",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is looking for"
+        }
+      },
+      "score": 0.264013525603803,
+      "created_at": "2026-07-06T08:35:44.900482-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a9275845-13a4-429a-adca-b9f2cf9c5eaf",
+      "memory": "User is looking for healthy lunch ideas.",
+      "hash": "083b9e41c3181c8649c464f2530d9d66",
+      "metadata": {
+        "ordinal": 558,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.26133748144196156,
+      "created_at": "2026-07-06T08:37:33.579013-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "53e6977c-7b60-4a53-bc6d-5118257f84d5",
+      "memory": "User is thinking of trying out some new BBQ sauces.",
+      "hash": "51c63b0ca549e6db681878146aacbeae",
+      "metadata": {
+        "ordinal": 333,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "some new BBQ sauces",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.25731213710583356,
+      "created_at": "2026-07-06T08:35:44.926927-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6c1eeeef-9e6e-4559-af31-b92ad08c2425",
+      "memory": "The user is setting program start and end dates.",
+      "hash": "ca3df0c0bfad714aa2155b0ca57902ff",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be setting",
+          "object_text": "program start and end dates",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is setting"
+        }
+      },
+      "score": 0.256120172228074,
+      "created_at": "2026-07-06T08:33:37.944317-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "38f09ef9-0199-40a0-ae07-510b0f79e6b7",
+      "memory": "User is planning to make a side dish similar to the baked bean and coleslaw mix they had at Smokey's BBQ joint.",
+      "hash": "57bcebf28b0be19c7bb9bb6bf7d709f9",
+      "metadata": {
+        "ordinal": 64,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to make",
+          "object_text": "a side dish similar to the baked bean and coleslaw mix they had at Smokey's BBQ joint",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to make"
+        }
+      },
+      "score": 0.25510807124569285,
+      "created_at": "2026-07-06T08:34:04.450024-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "55d70823-7ff3-485d-9610-b501e43567cb",
+      "memory": "It's been about 5 weeks since the user last ordered cat food.",
+      "hash": "c1b37fd038abe5e836e5f1ac5df304cf",
+      "metadata": {
+        "ordinal": 346,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "last ordered",
+          "object_text": "cat food about 5 weeks ago",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "last ordered"
+        }
+      },
+      "score": 0.2520256808001618,
+      "created_at": "2026-07-06T08:35:56.392958-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "167af88a-7143-4003-b752-7f058a9a0b7c",
+      "memory": "User will make a Summer Mix fruit combination with sliced peaches, nectarines, plums, and fresh berries.",
+      "hash": "dd046b17df01743ed98ddc5a34ca7ed9",
+      "metadata": {
+        "ordinal": 562,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will make",
+          "object_text": "a Summer Mix fruit combination with sliced peaches, nectarines, plums, and fresh berries",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will make"
+        }
+      },
+      "score": 0.2482060989688421,
+      "created_at": "2026-07-06T08:37:33.585264-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "44f9e3e0-9aae-48dc-9e25-b23808b9d374",
+      "memory": "User already has a group chat on WhatsApp for their friends.",
+      "hash": "99e201451e2f176044f65d2647d8d827",
+      "metadata": {
+        "ordinal": 56,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "a group chat on WhatsApp for their friends",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.24584271131682117,
+      "created_at": "2026-07-06T08:33:59.024554-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7cd42209-6252-473f-800a-be497f716b01",
+      "memory": "User has been posting content on their social media channels, mainly Instagram and Facebook.",
+      "hash": "bcfb6ceb57288bd08c83bc86945366bc",
+      "metadata": {
+        "ordinal": 484,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be posting",
+          "object_text": "content on their social media channels, mainly Instagram and Facebook",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been posting"
+        }
+      },
+      "score": 0.24395459826777216,
+      "created_at": "2026-07-06T08:36:50.789125-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "280bcfb6-6f68-449b-9d40-05b8b00838c7",
+      "memory": "The user is creating a program timeline and schedule.",
+      "hash": "22256a4367aa57ca3d891c2bae462098",
+      "metadata": {
+        "ordinal": 2,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be creating",
+          "object_text": "a program timeline and schedule",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is creating"
+        }
+      },
+      "score": 0.24327766898897935,
+      "created_at": "2026-07-06T08:33:37.940221-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "147f806c-d733-4c20-9922-b08735208129",
+      "memory": "User has had some experience with grilling burgers and hot dogs.",
+      "hash": "e1c1e1b2bfd8d1f623f8f732b9254a22",
+      "metadata": {
+        "ordinal": 331,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has had",
+          "object_text": "some experience with grilling burgers and hot dogs",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has had"
+        }
+      },
+      "score": 0.2425648469804183,
+      "created_at": "2026-07-06T08:35:44.922321-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c8e16d5f-ddbf-4791-b775-7f1ef526c43e",
+      "memory": "The user is developing a detailed schedule of events and activities.",
+      "hash": "62f5b7882b8a31e35e4d04b5cc160df6",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be developing",
+          "object_text": "a detailed schedule of events and activities",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is developing"
+        }
+      },
+      "score": 0.24120738768932043,
+      "created_at": "2026-07-06T08:33:37.947857-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f350fd84-3577-4278-ae5b-dd51e208bc10",
+      "memory": "User has been pretty active on Instagram lately.",
+      "hash": "3a1c1655c99e07929f905782f33566b1",
+      "metadata": {
+        "ordinal": 54,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23862443616528964,
+      "created_at": "2026-07-06T08:33:59.021568-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "174b17df-0b5b-4354-895f-3bf38e8333ff",
+      "memory": "User finds the vegan cheesecake interesting but has already tried it.",
+      "hash": "24e58a28f73648c763e7d74ff7ae7028",
+      "metadata": {
+        "ordinal": 247,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "finds",
+          "object_text": "the vegan cheesecake interesting",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "finds"
+        }
+      },
+      "score": 0.2381847447707956,
+      "created_at": "2026-07-06T08:34:56.443534-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d67e6909-9ff9-4cc4-898b-6877b48dc080",
+      "memory": "The user is contacting and securing commitments from chosen facilitators.",
+      "hash": "598bbbf0d9a7a853266b358f35c65111",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be contacting and securing",
+          "object_text": "commitments from chosen facilitators",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is contacting and securing"
+        }
+      },
+      "score": 0.23802213960162302,
+      "created_at": "2026-07-06T08:33:37.965684-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4929e137-2544-4ba7-9503-cd27713b1512",
+      "memory": "User has recently discovered some great channels on history, travel, and ASMR that they have been enjoying in their free time.",
+      "hash": "b58df80efd24d216c21db72474932a4d",
+      "metadata": {
+        "ordinal": 257,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23741259136280918,
+      "created_at": "2026-07-06T08:34:56.456921-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0f2fd86e-d78d-4591-bfa0-de98e95616f3",
+      "memory": "The user is sending a case in multiple messages.",
+      "hash": "12f439e7607964a0a367fc631a9f89d8",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be sending",
+          "object_text": "a case in multiple messages",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is sending"
+        }
+      },
+      "score": 0.23690671003124125,
+      "created_at": "2026-07-06T08:34:33.133525-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cc09ef76-2283-4476-bbbb-bf96602e8437",
+      "memory": "User received 23 comments on their Instagram posts, which they consider nice engagement.",
+      "hash": "51740422aec0b67ffe6b0d22ebac0983",
+      "metadata": {
+        "ordinal": 55,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "received",
+          "object_text": "23 comments",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "received"
+        }
+      },
+      "score": 0.2368463606730089,
+      "created_at": "2026-07-06T08:33:59.023116-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "dd57257b-1a44-439d-b913-899cb6b9f23d",
+      "memory": "User had an amazing burger recently with caramelized onions and cheddar cheese.",
+      "hash": "c99e5832666af67108c6c57f1b0f5414",
+      "metadata": {
+        "ordinal": 327,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "had",
+          "object_text": "an amazing burger recently with caramelized onions and cheddar cheese",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "had"
+        }
+      },
+      "score": 0.2350497738951643,
+      "created_at": "2026-07-06T08:35:44.910012-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0fcfc2b3-bb93-411c-9e22-15fc73f94ee6",
+      "memory": "User is trying to get more organized with their online activities.",
+      "hash": "904628ae9019e47e08b582a0760dc48a",
+      "metadata": {
+        "ordinal": 20,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23400364505597715,
+      "created_at": "2026-07-06T08:33:51.941087-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "26af4420-8bfb-4422-812d-5b15c00058a3",
+      "memory": "User will arrange the fruit in a pattern on a large platter and add a few sprigs of fresh mint for garnish.",
+      "hash": "5630014f4395fee73da8680403b4f0c9",
+      "metadata": {
+        "ordinal": 563,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will arrange",
+          "object_text": "the fruit in a pattern on a large platter and add a few sprigs of fresh mint for garnish",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "will arrange"
+        }
+      },
+      "score": 0.22610374006791506,
+      "created_at": "2026-07-06T08:37:33.586575-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d0640359-31db-47e1-bc5c-5e93aba4e5b9",
+      "memory": "User will ask their friends to share their reasons for choosing a particular city in the comments section.",
+      "hash": "d464f6e912d079f79101e247b0f5ceb6",
+      "metadata": {
+        "ordinal": 58,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.22019178393057548,
+      "created_at": "2026-07-06T08:33:59.027120-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fdfbac94-b228-4f12-9f4f-cc4c6250672e",
+      "memory": "User had an amazing brisket at a BBQ festival a few weeks ago.",
+      "hash": "3ed3a017d2093c00fd1270c80e97ebd1",
+      "metadata": {
+        "ordinal": 330,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "had",
+          "object_text": "an amazing brisket at a BBQ festival a few weeks ago",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "had"
+        }
+      },
+      "score": 0.21972410363548797,
+      "created_at": "2026-07-06T08:35:44.919548-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "88e3f299-c67b-4399-bd77-948287f2548b",
+      "memory": "User started giving Luna the joint supplements as directed by the vet on Feb 1st.",
+      "hash": "38d5a6c45e96d2796ffd63791a813d94",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "started giving",
+          "object_text": "Luna the joint supplements as directed by the vet on Feb 1st",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "started giving"
+        }
+      },
+      "score": 0.21856551983735403,
+      "created_at": "2026-07-06T08:35:56.399628-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "250f5486-7f19-4d4c-a996-b6a11c9b25a2",
+      "memory": "User is planning to start working on their thesis soon.",
+      "hash": "8cacaab628006ee5f6dbee9d977f99d5",
+      "metadata": {
+        "ordinal": 564,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.21733444393477103,
+      "created_at": "2026-07-06T08:37:37.320962-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fdd1dc87-680f-499a-8af6-8311b2814bdb",
+      "memory": "The burger with caramelized onions and cheddar cheese was definitely User's favorite out of the three burgers and two hot dogs they had that day.",
+      "hash": "20bf3ef209387e57d58b013664cab5a8",
+      "metadata": {
+        "ordinal": 328,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.21539996325770114,
+      "created_at": "2026-07-06T08:35:44.914076-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2e14b0c3-7cbf-45dc-bef2-d2df3a234379",
+      "memory": "User is considering joining a writing group.",
+      "hash": "a44df07d534d35b91b48dd320b251bb7",
+      "metadata": {
+        "ordinal": 410,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be considering joining",
+          "object_text": "a writing group",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is considering joining"
+        }
+      },
+      "score": 0.21408281438404075,
+      "created_at": "2026-07-06T08:36:10.661144-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4d7d8660-cfd7-42c9-b30d-cb49f96c1724",
+      "memory": "User learned that 3/4 of their ancestry is Irish.",
+      "hash": "ebb7fe7a3030ac4e6cba46e5dfb7ccfc",
+      "metadata": {
+        "ordinal": 259,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has ancestry",
+          "object_text": "3/4 is Irish",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has ancestry"
+        }
+      },
+      "score": 0.2117014028022497,
+      "created_at": "2026-07-06T08:35:02.169791-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "784a1d1e-0e7b-42d8-b884-3805dcaef702",
+      "memory": "User starts helping out at a weekly soup kitchen, serving lunch to the homeless.",
+      "hash": "7a4dbe47d7edb51a6aee9601a2ef8c5f",
+      "metadata": {
+        "ordinal": 559,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "starts helping out at",
+          "object_text": "a weekly soup kitchen",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "starts helping out at"
+        }
+      },
+      "score": 0.2111354519477712,
+      "created_at": "2026-07-06T08:37:33.580870-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "601490a0-ff7a-439a-b430-76227325d395",
+      "memory": "User is still thinking about making their own cleaning products.",
+      "hash": "727f3ba6e730a0c4ded28a0a28e968b2",
+      "metadata": {
+        "ordinal": 582,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be still thinking about making",
+          "object_text": "their own cleaning products",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is still thinking about making"
+        }
+      },
+      "score": 0.2099666365222183,
+      "created_at": "2026-07-06T08:37:50.642430-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a91b5f13-f920-4901-ac11-3e9b20159bfa",
+      "memory": "User has been reading a book about the experiences of Irish immigrants during the potato famine.",
+      "hash": "dba85ba8148470774779761f63ee237d",
+      "metadata": {
+        "ordinal": 260,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be reading",
+          "object_text": "a book about the experiences of Irish immigrants during the potato famine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been reading"
+        }
+      },
+      "score": 0.2091914808113432,
+      "created_at": "2026-07-06T08:35:02.176427-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b4f298d2-9c3a-46ce-b75b-0afa01121496",
+      "memory": "User is interested in creating tutorials and product showcases.",
+      "hash": "d9b893bc7d967f98f77723f054714e07",
+      "metadata": {
+        "ordinal": 486,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in creating",
+          "object_text": "tutorials and product showcases",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is interested in creating"
+        }
+      },
+      "score": 0.20840388087945746,
+      "created_at": "2026-07-06T08:36:50.792086-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "01a0aa90-e768-42c0-801d-7ea9dba17fb3",
+      "memory": "User thinks they will try out Hootsuite Insights.",
+      "hash": "b53a41e0ae9726bde6045bb443068cd1",
+      "metadata": {
+        "ordinal": 21,
+        "triple": null,
+        "subject_fallback": "hootsuite_insights"
+      },
+      "score": 0.20740751206018873,
+      "created_at": "2026-07-06T08:33:51.943038-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "66f8b493-274f-4e31-b522-364b5ad53f34",
+      "memory": "User's current projects include wrapping up the Johnson account, onboarding their new team, and mentoring Alex.",
+      "hash": "fe2419313a3ce12776ffa8be81dc3353",
+      "metadata": {
+        "ordinal": 277,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "current projects include",
+          "object_text": "wrapping up the Johnson account, onboarding their new team, and mentoring Alex",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "current projects include"
+        }
+      },
+      "score": 0.2069993621758739,
+      "created_at": "2026-07-06T08:35:21.682069-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b122ff1e-7b96-4601-971c-03ed2fbe5359",
+      "memory": "User is thinking of trying out a BBQ sauce with a honey-brown sugar flavor profile.",
+      "hash": "8af2405e56a981b9ca78f9cf14113ac0",
+      "metadata": {
+        "ordinal": 334,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "a BBQ sauce with a honey-brown sugar flavor profile",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.20660822981346696,
+      "created_at": "2026-07-06T08:35:44.929352-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "546f1d66-8066-4bf4-b7fb-c23cd5534aae",
+      "memory": "User is trying to organize their tasks and prioritize their projects.",
+      "hash": "2a9645a01a6df47134f44ce423e251a2",
+      "metadata": {
+        "ordinal": 274,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20609497380077768,
+      "created_at": "2026-07-06T08:35:21.676449-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "caf8d56b-eaf9-4306-bede-026aafd7d866",
+      "memory": "User is thinking of sending a poll to finalize the destination for their weekend getaway.",
+      "hash": "7af7ae3159d7c0d594f0730345fe8c49",
+      "metadata": {
+        "ordinal": 57,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2054993930081774,
+      "created_at": "2026-07-06T08:33:59.025873-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f7ba70b6-50b8-43ad-827e-5d9b581231db",
+      "memory": "User loads the dishwasher immediately after dinner.",
+      "hash": "1d2e522763ff60f826009262b758fc38",
+      "metadata": {
+        "ordinal": 580,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "loads",
+          "object_text": "the dishwasher immediately after dinner",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "loads"
+        }
+      },
+      "score": 0.20538345974850783,
+      "created_at": "2026-07-06T08:37:50.637663-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8787f382-71c5-4c3f-b6c6-0e50be56442c",
+      "memory": "User is trying to learn more about the different species of birds that visit their backyard.",
+      "hash": "7773f3a5e78b12b81ab97c1d0df320cd",
+      "metadata": {
+        "ordinal": 474,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20496024419540948,
+      "created_at": "2026-07-06T08:36:45.300214-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5324cb0f-a763-4415-97ce-70132fb197a3",
+      "memory": "The user is organizing a project called 'Team Workshop'.",
+      "hash": "56471486d837d8d9f554453f1f95bdaf",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be organizing",
+          "object_text": "a project called 'Team Workshop'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is organizing"
+        }
+      },
+      "score": 0.203791846030847,
+      "created_at": "2026-07-06T08:33:37.927171-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e20b7d09-039a-429a-af31-4141d569976e",
+      "memory": "User is interested in exploring more skincare options.",
+      "hash": "4a7537c3371090f0beecd6c7b1051b9b",
+      "metadata": {
+        "ordinal": 266,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20320038092576811,
+      "created_at": "2026-07-06T08:35:09.265523-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "09293eb1-8c26-4d4a-8d70-251afe1948c9",
+      "memory": "User is trying to plan a trip to Ireland.",
+      "hash": "ac851227a375f8501ff9abb234ad5b49",
+      "metadata": {
+        "ordinal": 258,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2030703060045307,
+      "created_at": "2026-07-06T08:35:02.160782-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "dbe13930-45e0-4550-a1dc-e4ba47b833b1",
+      "memory": "User is planning a trip abroad soon.",
+      "hash": "143ab1d58658928f4013fe6d79fb963f",
+      "metadata": {
+        "ordinal": 554,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2020726495442401,
+      "created_at": "2026-07-06T08:37:27.467673-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4d4bfed8-cc54-48da-bfbb-aae1d6b9a679",
+      "memory": "User launched their website, VerdeThreads, last weekend.",
+      "hash": "3f6d3d48891b55156bfac50f1e31e303",
+      "metadata": {
+        "ordinal": 481,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "launched",
+          "object_text": "their website, VerdeThreads",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "launched"
+        }
+      },
+      "score": 0.20172177406832803,
+      "created_at": "2026-07-06T08:36:50.783331-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "258fa28f-5b49-4fb9-bfe1-8b844b800ac6",
+      "memory": "The user is researching and identifying potential facilitators.",
+      "hash": "8f5375e6fd9b7db6e43705e197a0ac05",
+      "metadata": {
+        "ordinal": 10,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be researching and identifying",
+          "object_text": "potential facilitators",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is researching and identifying"
+        }
+      },
+      "score": 0.201090313716179,
+      "created_at": "2026-07-06T08:33:37.963395-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9545f65c-98b5-41f4-98c5-5fcdbe30a5ee",
+      "memory": "User has been meaning to explore the Content Library feature in Hootsuite.",
+      "hash": "ae03e5e69a84fec0e1936b95c966af41",
+      "metadata": {
+        "ordinal": 23,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be meaning to explore",
+          "object_text": "the Content Library feature in Hootsuite",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been meaning to explore"
+        }
+      },
+      "score": 0.20007134434967927,
+      "created_at": "2026-07-06T08:33:51.945984-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "49c90600-dfdd-42eb-bac2-890255e86731",
+      "memory": "User dusted the living room furniture today.",
+      "hash": "28a3145f109d8267e2bc85a8f830d4e6",
+      "metadata": {
+        "ordinal": 575,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "dusted",
+          "object_text": "the living room furniture today",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "dusted"
+        }
+      },
+      "score": 0.19994564043036536,
+      "created_at": "2026-07-06T08:37:50.622537-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "571eda0a-e274-4a80-81a7-23463597da17",
+      "memory": "User introduced new fish to the tank on February 26th after a quarantine period.",
+      "hash": "6c1a8e2010604033b23e1fc7c7c3cc7f",
+      "metadata": {
+        "ordinal": 337,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "introduced",
+          "object_text": "new fish to the tank on February 26th after a quarantine period",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "introduced"
+        }
+      },
+      "score": 0.19981947246301782,
+      "created_at": "2026-07-06T08:35:51.340750-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "910b0bf1-937f-4021-91b6-5be4969040e7",
+      "memory": "User has been doing well with their daily cleaning routine.",
+      "hash": "496226c6001cc974acaff39b6534ffa5",
+      "metadata": {
+        "ordinal": 578,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing well with",
+          "object_text": "their daily cleaning routine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing well with"
+        }
+      },
+      "score": 0.1980008007479209,
+      "created_at": "2026-07-06T08:37:50.632661-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "82c44c4a-dd29-431e-813b-208511f3703e",
+      "memory": "User usually orders a 20-pound bag of cat food that lasts around 4-6 weeks.",
+      "hash": "93857cf56c56355891cfab7665ee7b8b",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "orders",
+          "object_text": "a 20-pound bag of cat food that lasts around 4-6 weeks",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "orders"
+        }
+      },
+      "score": 0.19773855712750282,
+      "created_at": "2026-07-06T08:35:56.383884-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "219a2c4a-fdd2-4819-88ad-139810b097db",
+      "memory": "The user is developing materials such as presentations, handouts, and exercises.",
+      "hash": "7d9520189b10401e0825169169151ea9",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be developing",
+          "object_text": "materials such as presentations, handouts, and exercises",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is developing"
+        }
+      },
+      "score": 0.19671003487193303,
+      "created_at": "2026-07-06T08:33:37.956262-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cd39a3f4-cebe-4c3b-86e3-fd8734f4946c",
+      "memory": "User has been taking painting classes at the local art studio for three months.",
+      "hash": "f228eb5cd83908267b9067fb93c0e3b7",
+      "metadata": {
+        "ordinal": 13,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be taking",
+          "object_text": "painting classes at the local art studio for three months",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been taking"
+        }
+      },
+      "score": 0.19570386311926044,
+      "created_at": "2026-07-06T08:33:46.234613-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bee5b485-0273-438f-8636-94e751cd4012",
+      "memory": "The user is developing program curriculum and materials.",
+      "hash": "a77c66d8ff2b264be42ac594729e64a2",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be developing",
+          "object_text": "program curriculum and materials",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is developing"
+        }
+      },
+      "score": 0.19486114245990707,
+      "created_at": "2026-07-06T08:33:37.950994-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3b5d3c36-aa37-462a-aeae-70eea8f2b8ba",
+      "memory": "User is looking for a BBQ sauce recipe similar to the one they had at Smokey's BBQ joint.",
+      "hash": "b52d53f54a9320c53c0b5dcac530ad74",
+      "metadata": {
+        "ordinal": 60,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking for",
+          "object_text": "a BBQ sauce recipe similar to the one they had at Smokey's BBQ joint",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is looking for"
+        }
+      },
+      "score": 0.1946431408649509,
+      "created_at": "2026-07-06T08:34:04.423989-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d1bcf228-7330-48c9-bcec-3531c55e1979",
+      "memory": "User has been following Emily Lyons' work and loves her use of bold colors and textures.",
+      "hash": "81767646d5c85b0d7a8b1bc72122524f",
+      "metadata": {
+        "ordinal": 19,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be following",
+          "object_text": "Emily Lyons' work",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been following"
+        }
+      },
+      "score": 0.19436892475536965,
+      "created_at": "2026-07-06T08:33:46.257458-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "781eb30d-4e26-4cc2-a552-54251fdf12f1",
+      "memory": "User is considering creating a Facebook event for their weekend getaway.",
+      "hash": "c5b7759ea906060b7fa71ec49f2eb203",
+      "metadata": {
+        "ordinal": 59,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.19428100399173825,
+      "created_at": "2026-07-06T08:33:59.028332-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7d7128c1-9adb-4b19-afba-7125db3f0954",
+      "memory": "User is planning a trip to Chicago next month.",
+      "hash": "c2b6ed0a5844016f89340d5ca6bc860e",
+      "metadata": {
+        "ordinal": 537,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning trip to",
+          "object_text": "Chicago next month",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning a trip to"
+        }
+      },
+      "score": 0.19290154526245393,
+      "created_at": "2026-07-06T08:37:23.109940-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3ba440da-af80-4b4e-964a-109ecc0dd492",
+      "memory": "The user has a MySQL user named 'user'.",
+      "hash": "4c986eeb2a232a90b5253b04642ec847",
+      "metadata": {
+        "ordinal": 506,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has mysql user named",
+          "object_text": "'user'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has MySQL user named"
+        }
+      },
+      "score": 0.19194757620424882,
+      "created_at": "2026-07-06T08:37:09.437563-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6e7c42e0-1860-4187-bbdf-902dbed5d114",
+      "memory": "User has found that caramelized onions really make a big difference in terms of flavor.",
+      "hash": "eb62a3c3842dbf43fe06ec18f209f7c5",
+      "metadata": {
+        "ordinal": 332,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has found that",
+          "object_text": "caramelized onions really make a big difference in terms of flavor",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has found that"
+        }
+      },
+      "score": 0.19176926644285047,
+      "created_at": "2026-07-06T08:35:44.924582-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "31ca8787-1155-4fd5-b9bb-f4f6f3be7966",
+      "memory": "User has been watching a lot of tech review videos lately.",
+      "hash": "76a38b20f29ea2c076843bd184785854",
+      "metadata": {
+        "ordinal": 251,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be watching",
+          "object_text": "a lot of tech review videos lately",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been watching"
+        }
+      },
+      "score": 0.19176723906561652,
+      "created_at": "2026-07-06T08:34:56.449344-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "44c5a065-b4e1-4325-9d5e-d91823bd00bd",
+      "memory": "User has completed five pieces of artwork so far.",
+      "hash": "93672171ed8be4d8730e6d1ff1e21208",
+      "metadata": {
+        "ordinal": 16,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has completed",
+          "object_text": "five pieces of artwork so far",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has completed"
+        }
+      },
+      "score": 0.1916923612067877,
+      "created_at": "2026-07-06T08:33:46.248200-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a7cd8830-4700-4b13-87be-302c37e732f2",
+      "memory": "User is thinking of planning a family trip to the beach house this summer.",
+      "hash": "d51ba1ba86f488349855121b2063b4c5",
+      "metadata": {
+        "ordinal": 310,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.19142759283200567,
+      "created_at": "2026-07-06T08:35:32.858694-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8b4ffbb5-fbc6-4145-80c4-ec45b3497801",
+      "memory": "User has been meaning to ask for suggestions for a good camera for vlogging.",
+      "hash": "ce50603e293ed3d5a5bdc301d894934f",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be meaning to ask for",
+          "object_text": "suggestions for a good camera for vlogging",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been meaning to ask for"
+        }
+      },
+      "score": 0.19038237707522523,
+      "created_at": "2026-07-06T08:34:56.446568-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "303c52e4-ce0e-4399-8912-8d8546e8b2a2",
+      "memory": "User is interested in reading about WWII and the French Resistance.",
+      "hash": "6cb3155d2115e000155f8c493978eedd",
+      "metadata": {
+        "ordinal": 407,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in reading about",
+          "object_text": "WWII and the French Resistance",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in reading about"
+        }
+      },
+      "score": 0.188795089625893,
+      "created_at": "2026-07-06T08:36:06.076201-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "207680b2-8b2f-4d9a-aa5f-51292be19711",
+      "memory": "User recently stocked up on skincare essentials during the Sephora VIB Sale on September 17th, which was 20% off all products.",
+      "hash": "1332cfbb085e149707e7dbfa90829d1b",
+      "metadata": {
+        "ordinal": 265,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "stocked up on",
+          "object_text": "skincare essentials during the Sephora VIB Sale on September 17th, which was 20% off all products",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "stocked up on"
+        }
+      },
+      "score": 0.1886020607575066,
+      "created_at": "2026-07-06T08:35:09.259763-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2128fd33-f5b6-4567-97c4-9d454042a1ef",
+      "memory": "User's supervisor's name is Rachel.",
+      "hash": "daad60aa48e68144cbfd9459fc470313",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "user's_supervisor",
+          "predicate_norm": "be named",
+          "object_text": "Rachel",
+          "confidence": 0.95,
+          "subject_raw": "User's supervisor",
+          "predicate_raw": "is named"
+        }
+      },
+      "score": 0.18852956766833961,
+      "created_at": "2026-07-06T08:35:21.678873-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bc797e0b-721b-41af-bb8d-c6b8602fdd77",
+      "memory": "User has been experimenting with different lighting schedules to promote algae growth and create a more natural environment for their fish.",
+      "hash": "cde857f37481938818e6cfd59419047d",
+      "metadata": {
+        "ordinal": 342,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1883146855145161,
+      "created_at": "2026-07-06T08:35:51.351626-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4d567942-119c-4236-b4c9-a36516c8a717",
+      "memory": "User wants to create a tutorial video on how to style their eco-friendly dresses for different occasions.",
+      "hash": "d896c5cfb1a53ee56455c147d68c5308",
+      "metadata": {
+        "ordinal": 487,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "wants to create",
+          "object_text": "a tutorial video on how to style their eco-friendly dresses for different occasions",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to create"
+        }
+      },
+      "score": 0.1873436514616524,
+      "created_at": "2026-07-06T08:36:50.793508-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9e2c9fcb-64cd-4284-bfb3-1cce6be42b88",
+      "memory": "User has been monitoring the water parameters closely.",
+      "hash": "0c5958e34531e572920e3652b1fa904b",
+      "metadata": {
+        "ordinal": 339,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be monitoring",
+          "object_text": "the water parameters closely",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been monitoring"
+        }
+      },
+      "score": 0.18586987847452835,
+      "created_at": "2026-07-06T08:35:51.345618-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "beeab127-3297-4c4a-aeac-ee9eb916f21e",
+      "memory": "User had the BBQ sauce at Smokey's the week before their cousin's housewarming party.",
+      "hash": "30095cccaa09db409dbc45755dc8abb4",
+      "metadata": {
+        "ordinal": 61,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "had bbq sauce at",
+          "object_text": "Smokey's the week before their cousin's housewarming party",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "had the BBQ sauce at"
+        }
+      },
+      "score": 0.18564279571945325,
+      "created_at": "2026-07-06T08:34:04.433303-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9a9831f8-99c3-4c98-8771-3a4c9b644908",
+      "memory": "The user is creating program outline and session objectives.",
+      "hash": "7fbbb56025201090cd0c2c0a8d93e1d3",
+      "metadata": {
+        "ordinal": 6,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be creating",
+          "object_text": "program outline and session objectives",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is creating"
+        }
+      },
+      "score": 0.18423319579327388,
+      "created_at": "2026-07-06T08:33:37.953597-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "536b714f-2cd1-47fe-9aa7-3b6d124cf75b",
+      "memory": "User has been doing 25% water changes every 2 weeks.",
+      "hash": "ff89b11f1c5ef2beea1e768f10596834",
+      "metadata": {
+        "ordinal": 338,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "25% water changes every 2 weeks",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.18385387164541925,
+      "created_at": "2026-07-06T08:35:51.343239-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c59dc84a-8914-46e3-9176-55f52eba2e90",
+      "memory": "User is trying to switch to more natural products.",
+      "hash": "40a06b74b0ad9d34452bac116df9d909",
+      "metadata": {
+        "ordinal": 573,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be trying to switch to",
+          "object_text": "more natural products",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is trying to switch to"
+        }
+      },
+      "score": 0.18216181977268736,
+      "created_at": "2026-07-06T08:37:50.613017-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6646461c-adfa-4682-a0b2-a805077ebc34",
+      "memory": "User commented on a friend's post about their new puppy on Instagram last Wednesday morning.",
+      "hash": "8e8236deaf8ebf0f93033d57ef624289",
+      "metadata": {
+        "ordinal": 22,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "commented on",
+          "object_text": "a friend's post about their new puppy on Instagram last Wednesday morning",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "commented on"
+        }
+      },
+      "score": 0.18161386980376548,
+      "created_at": "2026-07-06T08:33:51.944546-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bd48db95-f3f9-493b-992e-8785c0ed7c62",
+      "memory": "User is hoping the Sunday Riley C.E.O. 15% Vitamin C Brightening Serum will help brighten their skin tone and reduce the appearance of fine lines.",
+      "hash": "fed1817f271dfc64ecf82ca6fdd376e1",
+      "metadata": {
+        "ordinal": 269,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "hopes sunday riley c.e.o. 15% vitamin c brightening serum will help",
+          "object_text": "brighten their skin tone and reduce the appearance of fine lines",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "hopes the Sunday Riley C.E.O. 15% Vitamin C Brightening Serum will help"
+        }
+      },
+      "score": 0.18117747401621723,
+      "created_at": "2026-07-06T08:35:09.278198-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "68588ffb-22fe-4ef7-86a6-dc08c54cc5cc",
+      "memory": "On 20 April 2022, the Builder served a Second Further Amended Technology and Construction List Statement and a Third Further Amended Technology and Construction Cross-Claim List Response.",
+      "hash": "15f53ca6b4a0b757222b8872a42a9ef9",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "the_builder",
+          "predicate_norm": "served",
+          "object_text": "a Second Further Amended Technology and Construction List Statement and a Third Further Amended Technology and Construction Cross-Claim List Response on 20 April 2022",
+          "confidence": 0.9,
+          "subject_raw": "the Builder",
+          "predicate_raw": "served"
+        }
+      },
+      "score": 0.18088384877443342,
+      "created_at": "2026-07-06T08:34:33.191218-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "56d599fb-f590-4838-b360-f0b15106549d",
+      "memory": "The user is setting up a Docker Compose server with Nginx, Letsencrypt certbot, vhost, PHP 8.1, and MariaDB.",
+      "hash": "2d74814be31de322f32577086a482393",
+      "metadata": {
+        "ordinal": 498,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1804395892427409,
+      "created_at": "2026-07-06T08:37:09.405966-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e4c89f7d-0080-41fb-81bd-4760b00822b3",
+      "memory": "User is interested in trying out different types of wood chips to get a smokier flavor for their BBQ ribs.",
+      "hash": "a62c33e44d87a2a1ac79e39a0c86bcc3",
+      "metadata": {
+        "ordinal": 62,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in trying out",
+          "object_text": "different types of wood chips to get a smokier flavor for their BBQ ribs",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in trying out"
+        }
+      },
+      "score": 0.17896270940325026,
+      "created_at": "2026-07-06T08:34:04.440939-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c9a08202-129f-4a00-96af-eb1c93839fa0",
+      "memory": "User submitted their thesis proposal on April 10th.",
+      "hash": "003c2a0d27c96c5936ed614d47eea7ac",
+      "metadata": {
+        "ordinal": 565,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "submitted",
+          "object_text": "their thesis proposal on April 10th",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "submitted"
+        }
+      },
+      "score": 0.17742654470562266,
+      "created_at": "2026-07-06T08:37:37.323469-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f77d836e-3d3b-4203-b8ad-db2d5b24610e",
+      "memory": "The date of orders in the case is 12 October 2022.",
+      "hash": "3a44f2a2d7b8dcbe5307d5334e812073",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "the_case",
+          "predicate_norm": "has date orders",
+          "object_text": "12 October 2022",
+          "confidence": 0.95,
+          "subject_raw": "the case",
+          "predicate_raw": "has date of orders"
+        }
+      },
+      "score": 0.17693362987543737,
+      "created_at": "2026-07-06T08:34:33.154037-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "526ed2d8-f871-40d4-9928-79e1e113135c",
+      "memory": "User registered the domain name on the same day they came up with their business name, VerdeThreads.",
+      "hash": "6f1ba3e3b8169e55a7fbd6b7eb57dca7",
+      "metadata": {
+        "ordinal": 483,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "registered",
+          "object_text": "the domain name on the same day they came up with their business name, VerdeThreads",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "registered"
+        }
+      },
+      "score": 0.1759007548863017,
+      "created_at": "2026-07-06T08:36:50.787513-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0d467b5b-315c-4748-b663-4c4c4af94497",
+      "memory": "The Builder commenced the proceedings on 6 November 2018.",
+      "hash": "058291660461c2623a2843d70bce88a9",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "the_builder",
+          "predicate_norm": "commenced proceedings on",
+          "object_text": "6 November 2018",
+          "confidence": 0.95,
+          "subject_raw": "the Builder",
+          "predicate_raw": "commenced the proceedings on"
+        }
+      },
+      "score": 0.17579774333567594,
+      "created_at": "2026-07-06T08:34:33.176208-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bd3ed5eb-a4c1-45f6-bcef-9fb988a9aadb",
+      "memory": "User loves the idea of writing in a cozy coffee shop or cafe.",
+      "hash": "1ed4163e21533daa77c1fd94b4cd69ae",
+      "metadata": {
+        "ordinal": 412,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "loves idea writing in",
+          "object_text": "a cozy coffee shop or cafe",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "loves the idea of writing in"
+        }
+      },
+      "score": 0.17576530352042935,
+      "created_at": "2026-07-06T08:36:10.674517-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "92f1de0f-c7df-4ec1-9087-c3ddd6c7783b",
+      "memory": "User has been taking guitar lessons with their friend Rachel.",
+      "hash": "ffb22590e3bdd7ed4eec86b37e2efa38",
+      "metadata": {
+        "ordinal": 464,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be taking guitar lessons with",
+          "object_text": "their friend Rachel",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been taking guitar lessons with"
+        }
+      },
+      "score": 0.17541771289265756,
+      "created_at": "2026-07-06T08:36:38.325808-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "63f016ab-ebb8-494c-9265-d81f68330afb",
+      "memory": "User is excited to start exploring different writing spaces and trying out new techniques to overcome writer's block.",
+      "hash": "7c6c9bbdb8cc50484be4f012b74e20c6",
+      "metadata": {
+        "ordinal": 413,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17527408994195248,
+      "created_at": "2026-07-06T08:36:10.680083-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ee3aa45b-6096-41a2-ad61-f6400c9baf7a",
+      "memory": "User is excited about the advancements in artificial intelligence and machine learning.",
+      "hash": "7aab5133d3237cf093da1f445599b4bc",
+      "metadata": {
+        "ordinal": 253,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited about",
+          "object_text": "the advancements in artificial intelligence and machine learning",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is excited about"
+        }
+      },
+      "score": 0.1752303071298224,
+      "created_at": "2026-07-06T08:34:56.451946-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7cae191d-e510-483b-8ae0-d375e1697125",
+      "memory": "User is thinking of visiting Europe, maybe Spain or Italy.",
+      "hash": "d936fb3ffed6a8c89f10bdc8f85fdad2",
+      "metadata": {
+        "ordinal": 555,
+        "triple": null,
+        "subject_fallback": "europe"
+      },
+      "score": 0.1745551718049025,
+      "created_at": "2026-07-06T08:37:27.475739-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": [
+    {
+      "id": "7f887763-367c-47a6-b272-67089c00db86",
+      "memory": "User has already tried out two of Emma's recipes.",
+      "hash": "6fae9d91c4a3799f4cfd89e05911b660",
+      "metadata": {
+        "ordinal": 246,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has already tried out",
+          "object_text": "two of Emma's recipes",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has already tried out"
+        }
+      },
+      "score": 0.5089026163932026,
+      "created_at": "2026-07-06T08:34:56.441936-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ca74d1c7-6132-40b3-bd20-15450bb01041",
+      "memory": "User has tried out 3 of Emma's recipes so far, and they're all amazing.",
+      "hash": "d6e9e55f679a87d1f1733a4534ae4299",
+      "metadata": {
+        "ordinal": 556,
+        "triple": null,
+        "subject_fallback": "emma"
+      },
+      "score": 0.4888097877121357,
+      "created_at": "2026-07-06T08:37:27.481981-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a3ed6787-056f-4d9f-9e17-d688ea0e051c",
+      "memory": "User has been loving Emma's recipes on her channel.",
+      "hash": "0e4d9f06ea4e0a704804a816c66c7f9a",
+      "metadata": {
+        "ordinal": 245,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be loving",
+          "object_text": "Emma's recipes on her channel",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been loving"
+        }
+      },
+      "score": 0.46305263864506113,
+      "created_at": "2026-07-06T08:34:56.440353-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "172096bb-d52b-4640-b99c-4ff91c3068ee",
+      "memory": "User is thinking of trying out some new recipes this weekend.",
+      "hash": "ad2848a029655838a4131193dbbf2db7",
+      "metadata": {
+        "ordinal": 244,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.3933777872850453,
+      "created_at": "2026-07-06T08:34:56.438258-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c5e37c10-0b9c-4404-b321-ed84614e7b63",
+      "memory": "User has been grilling a lot lately.",
+      "hash": "ea6fdb0ad6175d28b4b3c8f71dd5ccd9",
+      "metadata": {
+        "ordinal": 326,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be grilling",
+          "object_text": "a lot lately",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been grilling"
+        }
+      },
+      "score": 0.3347275528877893,
+      "created_at": "2026-07-06T08:35:44.905874-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "95b2209b-7033-4d4c-816a-b40fb4829cfe",
+      "memory": "User thinks they will give the Chocolate Chia Pudding a shot.",
+      "hash": "69de02aa601bffbacaf69d75e1a906a0",
+      "metadata": {
+        "ordinal": 248,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "thinks they will give",
+          "object_text": "the Chocolate Chia Pudding a shot",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "thinks they will give"
+        }
+      },
+      "score": 0.30244367331293315,
+      "created_at": "2026-07-06T08:34:56.445197-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "45512528-8257-4fa8-9317-9f17a48340a4",
+      "memory": "User plans to make the veggie-packed minestrone soup and serve it with crusty bread and a side of fresh fruit.",
+      "hash": "b458a093dc1f608c59b43c374dc09d3f",
+      "metadata": {
+        "ordinal": 561,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to make",
+          "object_text": "the veggie-packed minestrone soup and serve it with crusty bread and a side of fresh fruit",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "plans to make"
+        }
+      },
+      "score": 0.3002943354347427,
+      "created_at": "2026-07-06T08:37:33.583809-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "66b92d8a-ad34-402c-b379-4c8deec360c1",
+      "memory": "User is excited to host their first dinner party soon.",
+      "hash": "d20bc48689439d2c5e33043751f1b588",
+      "metadata": {
+        "ordinal": 426,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited to host",
+          "object_text": "their first dinner party soon",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is excited to host"
+        }
+      },
+      "score": 0.2992220009634783,
+      "created_at": "2026-07-06T08:36:21.837106-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "79b29b5c-c394-45c9-9ed6-1584d2141e76",
+      "memory": "User is thinking of hosting a traditional Irish dinner party soon.",
+      "hash": "0b947636d1c501f2b07919156847c1e0",
+      "metadata": {
+        "ordinal": 263,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking hosting",
+          "object_text": "a traditional Irish dinner party soon",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of hosting"
+        }
+      },
+      "score": 0.29536785065041576,
+      "created_at": "2026-07-06T08:35:02.189139-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ad157ffb-2ea7-4b42-aa80-c7b57a11d01b",
+      "memory": "User is thinking of trying out some brisket recipes.",
+      "hash": "1d2ebad68ca270ea27255514c61fde7f",
+      "metadata": {
+        "ordinal": 329,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "some brisket recipes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.28712633007118116,
+      "created_at": "2026-07-06T08:35:44.916879-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a78ab42c-a25e-44d9-8959-3414278decbc",
+      "memory": "User is particularly interested in the veggie-packed minestrone soup.",
+      "hash": "4515220efcd4a348582caf49ab7627ee",
+      "metadata": {
+        "ordinal": 560,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be particularly interested in",
+          "object_text": "the veggie-packed minestrone soup",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is particularly interested in"
+        }
+      },
+      "score": 0.2856963737265683,
+      "created_at": "2026-07-06T08:37:33.582428-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "befa03cc-8ba1-4c59-9ea7-b1d27d82df08",
+      "memory": "The user asked to use all of the words given.",
+      "hash": "a85e53fe42d64830820bdc83bff2e218",
+      "metadata": {
+        "ordinal": 131,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "asked to use",
+          "object_text": "all of the words given",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked to use"
+        }
+      },
+      "score": 0.27681026153924404,
+      "created_at": "2026-07-06T08:34:37.395010-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f76ebada-9d3a-4587-86e4-10d4037a7e11",
+      "memory": "User writes short poems in response to daily prompts.",
+      "hash": "a3089e57d263ed3989cea202b62d8d5a",
+      "metadata": {
+        "ordinal": 24,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "writes",
+          "object_text": "short poems in response to daily prompts",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "writes"
+        }
+      },
+      "score": 0.273500883450971,
+      "created_at": "2026-07-06T08:33:51.947288-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "29c30617-4c13-4f3b-bdaa-c0c2d6615e7b",
+      "memory": "User is looking for BBQ recipe ideas.",
+      "hash": "618128de7441101abb5eacce6846d9ee",
+      "metadata": {
+        "ordinal": 325,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking for",
+          "object_text": "BBQ recipe ideas",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is looking for"
+        }
+      },
+      "score": 0.264013525603803,
+      "created_at": "2026-07-06T08:35:44.900482-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a9275845-13a4-429a-adca-b9f2cf9c5eaf",
+      "memory": "User is looking for healthy lunch ideas.",
+      "hash": "083b9e41c3181c8649c464f2530d9d66",
+      "metadata": {
+        "ordinal": 558,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.26133748144196156,
+      "created_at": "2026-07-06T08:37:33.579013-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "53e6977c-7b60-4a53-bc6d-5118257f84d5",
+      "memory": "User is thinking of trying out some new BBQ sauces.",
+      "hash": "51c63b0ca549e6db681878146aacbeae",
+      "metadata": {
+        "ordinal": 333,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "some new BBQ sauces",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.25731213710583356,
+      "created_at": "2026-07-06T08:35:44.926927-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6c1eeeef-9e6e-4559-af31-b92ad08c2425",
+      "memory": "The user is setting program start and end dates.",
+      "hash": "ca3df0c0bfad714aa2155b0ca57902ff",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be setting",
+          "object_text": "program start and end dates",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is setting"
+        }
+      },
+      "score": 0.256120172228074,
+      "created_at": "2026-07-06T08:33:37.944317-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "38f09ef9-0199-40a0-ae07-510b0f79e6b7",
+      "memory": "User is planning to make a side dish similar to the baked bean and coleslaw mix they had at Smokey's BBQ joint.",
+      "hash": "57bcebf28b0be19c7bb9bb6bf7d709f9",
+      "metadata": {
+        "ordinal": 64,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to make",
+          "object_text": "a side dish similar to the baked bean and coleslaw mix they had at Smokey's BBQ joint",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to make"
+        }
+      },
+      "score": 0.25510807124569285,
+      "created_at": "2026-07-06T08:34:04.450024-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "55d70823-7ff3-485d-9610-b501e43567cb",
+      "memory": "It's been about 5 weeks since the user last ordered cat food.",
+      "hash": "c1b37fd038abe5e836e5f1ac5df304cf",
+      "metadata": {
+        "ordinal": 346,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "last ordered",
+          "object_text": "cat food about 5 weeks ago",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "last ordered"
+        }
+      },
+      "score": 0.2520256808001618,
+      "created_at": "2026-07-06T08:35:56.392958-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "167af88a-7143-4003-b752-7f058a9a0b7c",
+      "memory": "User will make a Summer Mix fruit combination with sliced peaches, nectarines, plums, and fresh berries.",
+      "hash": "dd046b17df01743ed98ddc5a34ca7ed9",
+      "metadata": {
+        "ordinal": 562,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will make",
+          "object_text": "a Summer Mix fruit combination with sliced peaches, nectarines, plums, and fresh berries",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "will make"
+        }
+      },
+      "score": 0.2482060989688421,
+      "created_at": "2026-07-06T08:37:33.585264-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "44f9e3e0-9aae-48dc-9e25-b23808b9d374",
+      "memory": "User already has a group chat on WhatsApp for their friends.",
+      "hash": "99e201451e2f176044f65d2647d8d827",
+      "metadata": {
+        "ordinal": 56,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has",
+          "object_text": "a group chat on WhatsApp for their friends",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has"
+        }
+      },
+      "score": 0.24584271131682117,
+      "created_at": "2026-07-06T08:33:59.024554-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7cd42209-6252-473f-800a-be497f716b01",
+      "memory": "User has been posting content on their social media channels, mainly Instagram and Facebook.",
+      "hash": "bcfb6ceb57288bd08c83bc86945366bc",
+      "metadata": {
+        "ordinal": 484,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be posting",
+          "object_text": "content on their social media channels, mainly Instagram and Facebook",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been posting"
+        }
+      },
+      "score": 0.24395459826777216,
+      "created_at": "2026-07-06T08:36:50.789125-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "147f806c-d733-4c20-9922-b08735208129",
+      "memory": "User has had some experience with grilling burgers and hot dogs.",
+      "hash": "e1c1e1b2bfd8d1f623f8f732b9254a22",
+      "metadata": {
+        "ordinal": 331,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has had",
+          "object_text": "some experience with grilling burgers and hot dogs",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has had"
+        }
+      },
+      "score": 0.2425648469804183,
+      "created_at": "2026-07-06T08:35:44.922321-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f350fd84-3577-4278-ae5b-dd51e208bc10",
+      "memory": "User has been pretty active on Instagram lately.",
+      "hash": "3a1c1655c99e07929f905782f33566b1",
+      "metadata": {
+        "ordinal": 54,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23862443616528964,
+      "created_at": "2026-07-06T08:33:59.021568-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "174b17df-0b5b-4354-895f-3bf38e8333ff",
+      "memory": "User finds the vegan cheesecake interesting but has already tried it.",
+      "hash": "24e58a28f73648c763e7d74ff7ae7028",
+      "metadata": {
+        "ordinal": 247,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "finds",
+          "object_text": "the vegan cheesecake interesting",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "finds"
+        }
+      },
+      "score": 0.2381847447707956,
+      "created_at": "2026-07-06T08:34:56.443534-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d67e6909-9ff9-4cc4-898b-6877b48dc080",
+      "memory": "The user is contacting and securing commitments from chosen facilitators.",
+      "hash": "598bbbf0d9a7a853266b358f35c65111",
+      "metadata": {
+        "ordinal": 11,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be contacting and securing",
+          "object_text": "commitments from chosen facilitators",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is contacting and securing"
+        }
+      },
+      "score": 0.23802213960162302,
+      "created_at": "2026-07-06T08:33:37.965684-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4929e137-2544-4ba7-9503-cd27713b1512",
+      "memory": "User has recently discovered some great channels on history, travel, and ASMR that they have been enjoying in their free time.",
+      "hash": "b58df80efd24d216c21db72474932a4d",
+      "metadata": {
+        "ordinal": 257,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23741259136280918,
+      "created_at": "2026-07-06T08:34:56.456921-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0f2fd86e-d78d-4591-bfa0-de98e95616f3",
+      "memory": "The user is sending a case in multiple messages.",
+      "hash": "12f439e7607964a0a367fc631a9f89d8",
+      "metadata": {
+        "ordinal": 100,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be sending",
+          "object_text": "a case in multiple messages",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is sending"
+        }
+      },
+      "score": 0.23690671003124125,
+      "created_at": "2026-07-06T08:34:33.133525-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cc09ef76-2283-4476-bbbb-bf96602e8437",
+      "memory": "User received 23 comments on their Instagram posts, which they consider nice engagement.",
+      "hash": "51740422aec0b67ffe6b0d22ebac0983",
+      "metadata": {
+        "ordinal": 55,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "received",
+          "object_text": "23 comments",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "received"
+        }
+      },
+      "score": 0.2368463606730089,
+      "created_at": "2026-07-06T08:33:59.023116-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0fcfc2b3-bb93-411c-9e22-15fc73f94ee6",
+      "memory": "User is trying to get more organized with their online activities.",
+      "hash": "904628ae9019e47e08b582a0760dc48a",
+      "metadata": {
+        "ordinal": 20,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.23400364505597715,
+      "created_at": "2026-07-06T08:33:51.941087-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "26af4420-8bfb-4422-812d-5b15c00058a3",
+      "memory": "User will arrange the fruit in a pattern on a large platter and add a few sprigs of fresh mint for garnish.",
+      "hash": "5630014f4395fee73da8680403b4f0c9",
+      "metadata": {
+        "ordinal": 563,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will arrange",
+          "object_text": "the fruit in a pattern on a large platter and add a few sprigs of fresh mint for garnish",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "will arrange"
+        }
+      },
+      "score": 0.22610374006791506,
+      "created_at": "2026-07-06T08:37:33.586575-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d0640359-31db-47e1-bc5c-5e93aba4e5b9",
+      "memory": "User will ask their friends to share their reasons for choosing a particular city in the comments section.",
+      "hash": "d464f6e912d079f79101e247b0f5ceb6",
+      "metadata": {
+        "ordinal": 58,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.22019178393057548,
+      "created_at": "2026-07-06T08:33:59.027120-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fdfbac94-b228-4f12-9f4f-cc4c6250672e",
+      "memory": "User had an amazing brisket at a BBQ festival a few weeks ago.",
+      "hash": "3ed3a017d2093c00fd1270c80e97ebd1",
+      "metadata": {
+        "ordinal": 330,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "had",
+          "object_text": "an amazing brisket at a BBQ festival a few weeks ago",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "had"
+        }
+      },
+      "score": 0.21972410363548797,
+      "created_at": "2026-07-06T08:35:44.919548-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "88e3f299-c67b-4399-bd77-948287f2548b",
+      "memory": "User started giving Luna the joint supplements as directed by the vet on Feb 1st.",
+      "hash": "38d5a6c45e96d2796ffd63791a813d94",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "started giving",
+          "object_text": "Luna the joint supplements as directed by the vet on Feb 1st",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "started giving"
+        }
+      },
+      "score": 0.21856551983735403,
+      "created_at": "2026-07-06T08:35:56.399628-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "250f5486-7f19-4d4c-a996-b6a11c9b25a2",
+      "memory": "User is planning to start working on their thesis soon.",
+      "hash": "8cacaab628006ee5f6dbee9d977f99d5",
+      "metadata": {
+        "ordinal": 564,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.21733444393477103,
+      "created_at": "2026-07-06T08:37:37.320962-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fdd1dc87-680f-499a-8af6-8311b2814bdb",
+      "memory": "The burger with caramelized onions and cheddar cheese was definitely User's favorite out of the three burgers and two hot dogs they had that day.",
+      "hash": "20bf3ef209387e57d58b013664cab5a8",
+      "metadata": {
+        "ordinal": 328,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.21539996325770114,
+      "created_at": "2026-07-06T08:35:44.914076-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2e14b0c3-7cbf-45dc-bef2-d2df3a234379",
+      "memory": "User is considering joining a writing group.",
+      "hash": "a44df07d534d35b91b48dd320b251bb7",
+      "metadata": {
+        "ordinal": 410,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be considering joining",
+          "object_text": "a writing group",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is considering joining"
+        }
+      },
+      "score": 0.21408281438404075,
+      "created_at": "2026-07-06T08:36:10.661144-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4d7d8660-cfd7-42c9-b30d-cb49f96c1724",
+      "memory": "User learned that 3/4 of their ancestry is Irish.",
+      "hash": "ebb7fe7a3030ac4e6cba46e5dfb7ccfc",
+      "metadata": {
+        "ordinal": 259,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has ancestry",
+          "object_text": "3/4 is Irish",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has ancestry"
+        }
+      },
+      "score": 0.2117014028022497,
+      "created_at": "2026-07-06T08:35:02.169791-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "784a1d1e-0e7b-42d8-b884-3805dcaef702",
+      "memory": "User starts helping out at a weekly soup kitchen, serving lunch to the homeless.",
+      "hash": "7a4dbe47d7edb51a6aee9601a2ef8c5f",
+      "metadata": {
+        "ordinal": 559,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "starts helping out at",
+          "object_text": "a weekly soup kitchen",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "starts helping out at"
+        }
+      },
+      "score": 0.2111354519477712,
+      "created_at": "2026-07-06T08:37:33.580870-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "601490a0-ff7a-439a-b430-76227325d395",
+      "memory": "User is still thinking about making their own cleaning products.",
+      "hash": "727f3ba6e730a0c4ded28a0a28e968b2",
+      "metadata": {
+        "ordinal": 582,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be still thinking about making",
+          "object_text": "their own cleaning products",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is still thinking about making"
+        }
+      },
+      "score": 0.2099666365222183,
+      "created_at": "2026-07-06T08:37:50.642430-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a91b5f13-f920-4901-ac11-3e9b20159bfa",
+      "memory": "User has been reading a book about the experiences of Irish immigrants during the potato famine.",
+      "hash": "dba85ba8148470774779761f63ee237d",
+      "metadata": {
+        "ordinal": 260,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be reading",
+          "object_text": "a book about the experiences of Irish immigrants during the potato famine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been reading"
+        }
+      },
+      "score": 0.2091914808113432,
+      "created_at": "2026-07-06T08:35:02.176427-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b4f298d2-9c3a-46ce-b75b-0afa01121496",
+      "memory": "User is interested in creating tutorials and product showcases.",
+      "hash": "d9b893bc7d967f98f77723f054714e07",
+      "metadata": {
+        "ordinal": 486,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in creating",
+          "object_text": "tutorials and product showcases",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is interested in creating"
+        }
+      },
+      "score": 0.20840388087945746,
+      "created_at": "2026-07-06T08:36:50.792086-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "01a0aa90-e768-42c0-801d-7ea9dba17fb3",
+      "memory": "User thinks they will try out Hootsuite Insights.",
+      "hash": "b53a41e0ae9726bde6045bb443068cd1",
+      "metadata": {
+        "ordinal": 21,
+        "triple": null,
+        "subject_fallback": "hootsuite_insights"
+      },
+      "score": 0.20740751206018873,
+      "created_at": "2026-07-06T08:33:51.943038-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "66f8b493-274f-4e31-b522-364b5ad53f34",
+      "memory": "User's current projects include wrapping up the Johnson account, onboarding their new team, and mentoring Alex.",
+      "hash": "fe2419313a3ce12776ffa8be81dc3353",
+      "metadata": {
+        "ordinal": 277,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "current projects include",
+          "object_text": "wrapping up the Johnson account, onboarding their new team, and mentoring Alex",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "current projects include"
+        }
+      },
+      "score": 0.2069993621758739,
+      "created_at": "2026-07-06T08:35:21.682069-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b122ff1e-7b96-4601-971c-03ed2fbe5359",
+      "memory": "User is thinking of trying out a BBQ sauce with a honey-brown sugar flavor profile.",
+      "hash": "8af2405e56a981b9ca78f9cf14113ac0",
+      "metadata": {
+        "ordinal": 334,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "a BBQ sauce with a honey-brown sugar flavor profile",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.20660822981346696,
+      "created_at": "2026-07-06T08:35:44.929352-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "546f1d66-8066-4bf4-b7fb-c23cd5534aae",
+      "memory": "User is trying to organize their tasks and prioritize their projects.",
+      "hash": "2a9645a01a6df47134f44ce423e251a2",
+      "metadata": {
+        "ordinal": 274,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20609497380077768,
+      "created_at": "2026-07-06T08:35:21.676449-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "caf8d56b-eaf9-4306-bede-026aafd7d866",
+      "memory": "User is thinking of sending a poll to finalize the destination for their weekend getaway.",
+      "hash": "7af7ae3159d7c0d594f0730345fe8c49",
+      "metadata": {
+        "ordinal": 57,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2054993930081774,
+      "created_at": "2026-07-06T08:33:59.025873-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f7ba70b6-50b8-43ad-827e-5d9b581231db",
+      "memory": "User loads the dishwasher immediately after dinner.",
+      "hash": "1d2e522763ff60f826009262b758fc38",
+      "metadata": {
+        "ordinal": 580,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "loads",
+          "object_text": "the dishwasher immediately after dinner",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "loads"
+        }
+      },
+      "score": 0.20538345974850783,
+      "created_at": "2026-07-06T08:37:50.637663-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8787f382-71c5-4c3f-b6c6-0e50be56442c",
+      "memory": "User is trying to learn more about the different species of birds that visit their backyard.",
+      "hash": "7773f3a5e78b12b81ab97c1d0df320cd",
+      "metadata": {
+        "ordinal": 474,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20496024419540948,
+      "created_at": "2026-07-06T08:36:45.300214-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5324cb0f-a763-4415-97ce-70132fb197a3",
+      "memory": "The user is organizing a project called 'Team Workshop'.",
+      "hash": "56471486d837d8d9f554453f1f95bdaf",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be organizing",
+          "object_text": "a project called 'Team Workshop'",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is organizing"
+        }
+      },
+      "score": 0.203791846030847,
+      "created_at": "2026-07-06T08:33:37.927171-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e20b7d09-039a-429a-af31-4141d569976e",
+      "memory": "User is interested in exploring more skincare options.",
+      "hash": "4a7537c3371090f0beecd6c7b1051b9b",
+      "metadata": {
+        "ordinal": 266,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20320038092576811,
+      "created_at": "2026-07-06T08:35:09.265523-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "09293eb1-8c26-4d4a-8d70-251afe1948c9",
+      "memory": "User is trying to plan a trip to Ireland.",
+      "hash": "ac851227a375f8501ff9abb234ad5b49",
+      "metadata": {
+        "ordinal": 258,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2030703060045307,
+      "created_at": "2026-07-06T08:35:02.160782-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "dbe13930-45e0-4550-a1dc-e4ba47b833b1",
+      "memory": "User is planning a trip abroad soon.",
+      "hash": "143ab1d58658928f4013fe6d79fb963f",
+      "metadata": {
+        "ordinal": 554,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2020726495442401,
+      "created_at": "2026-07-06T08:37:27.467673-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4d4bfed8-cc54-48da-bfbb-aae1d6b9a679",
+      "memory": "User launched their website, VerdeThreads, last weekend.",
+      "hash": "3f6d3d48891b55156bfac50f1e31e303",
+      "metadata": {
+        "ordinal": 481,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "launched",
+          "object_text": "their website, VerdeThreads",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "launched"
+        }
+      },
+      "score": 0.20172177406832803,
+      "created_at": "2026-07-06T08:36:50.783331-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "258fa28f-5b49-4fb9-bfe1-8b844b800ac6",
+      "memory": "The user is researching and identifying potential facilitators.",
+      "hash": "8f5375e6fd9b7db6e43705e197a0ac05",
+      "metadata": {
+        "ordinal": 10,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be researching and identifying",
+          "object_text": "potential facilitators",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is researching and identifying"
+        }
+      },
+      "score": 0.201090313716179,
+      "created_at": "2026-07-06T08:33:37.963395-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9545f65c-98b5-41f4-98c5-5fcdbe30a5ee",
+      "memory": "User has been meaning to explore the Content Library feature in Hootsuite.",
+      "hash": "ae03e5e69a84fec0e1936b95c966af41",
+      "metadata": {
+        "ordinal": 23,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be meaning to explore",
+          "object_text": "the Content Library feature in Hootsuite",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been meaning to explore"
+        }
+      },
+      "score": 0.20007134434967927,
+      "created_at": "2026-07-06T08:33:51.945984-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "49c90600-dfdd-42eb-bac2-890255e86731",
+      "memory": "User dusted the living room furniture today.",
+      "hash": "28a3145f109d8267e2bc85a8f830d4e6",
+      "metadata": {
+        "ordinal": 575,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "dusted",
+          "object_text": "the living room furniture today",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "dusted"
+        }
+      },
+      "score": 0.19994564043036536,
+      "created_at": "2026-07-06T08:37:50.622537-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "571eda0a-e274-4a80-81a7-23463597da17",
+      "memory": "User introduced new fish to the tank on February 26th after a quarantine period.",
+      "hash": "6c1a8e2010604033b23e1fc7c7c3cc7f",
+      "metadata": {
+        "ordinal": 337,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "introduced",
+          "object_text": "new fish to the tank on February 26th after a quarantine period",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "introduced"
+        }
+      },
+      "score": 0.19981947246301782,
+      "created_at": "2026-07-06T08:35:51.340750-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "910b0bf1-937f-4021-91b6-5be4969040e7",
+      "memory": "User has been doing well with their daily cleaning routine.",
+      "hash": "496226c6001cc974acaff39b6534ffa5",
+      "metadata": {
+        "ordinal": 578,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing well with",
+          "object_text": "their daily cleaning routine",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing well with"
+        }
+      },
+      "score": 0.1980008007479209,
+      "created_at": "2026-07-06T08:37:50.632661-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "82c44c4a-dd29-431e-813b-208511f3703e",
+      "memory": "User usually orders a 20-pound bag of cat food that lasts around 4-6 weeks.",
+      "hash": "93857cf56c56355891cfab7665ee7b8b",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "orders",
+          "object_text": "a 20-pound bag of cat food that lasts around 4-6 weeks",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "orders"
+        }
+      },
+      "score": 0.19773855712750282,
+      "created_at": "2026-07-06T08:35:56.383884-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "219a2c4a-fdd2-4819-88ad-139810b097db",
+      "memory": "The user is developing materials such as presentations, handouts, and exercises.",
+      "hash": "7d9520189b10401e0825169169151ea9",
+      "metadata": {
+        "ordinal": 7,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be developing",
+          "object_text": "materials such as presentations, handouts, and exercises",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is developing"
+        }
+      },
+      "score": 0.19671003487193303,
+      "created_at": "2026-07-06T08:33:37.956262-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cd39a3f4-cebe-4c3b-86e3-fd8734f4946c",
+      "memory": "User has been taking painting classes at the local art studio for three months.",
+      "hash": "f228eb5cd83908267b9067fb93c0e3b7",
+      "metadata": {
+        "ordinal": 13,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be taking",
+          "object_text": "painting classes at the local art studio for three months",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been taking"
+        }
+      },
+      "score": 0.19570386311926044,
+      "created_at": "2026-07-06T08:33:46.234613-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d1bcf228-7330-48c9-bcec-3531c55e1979",
+      "memory": "User has been following Emily Lyons' work and loves her use of bold colors and textures.",
+      "hash": "81767646d5c85b0d7a8b1bc72122524f",
+      "metadata": {
+        "ordinal": 19,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be following",
+          "object_text": "Emily Lyons' work",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been following"
+        }
+      },
+      "score": 0.19436892475536965,
+      "created_at": "2026-07-06T08:33:46.257458-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "781eb30d-4e26-4cc2-a552-54251fdf12f1",
+      "memory": "User is considering creating a Facebook event for their weekend getaway.",
+      "hash": "c5b7759ea906060b7fa71ec49f2eb203",
+      "metadata": {
+        "ordinal": 59,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.19428100399173825,
+      "created_at": "2026-07-06T08:33:59.028332-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7d7128c1-9adb-4b19-afba-7125db3f0954",
+      "memory": "User is planning a trip to Chicago next month.",
+      "hash": "c2b6ed0a5844016f89340d5ca6bc860e",
+      "metadata": {
+        "ordinal": 537,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning trip to",
+          "object_text": "Chicago next month",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is planning a trip to"
+        }
+      },
+      "score": 0.19290154526245393,
+      "created_at": "2026-07-06T08:37:23.109940-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3ba440da-af80-4b4e-964a-109ecc0dd492",
+      "memory": "The user has a MySQL user named 'user'.",
+      "hash": "4c986eeb2a232a90b5253b04642ec847",
+      "metadata": {
+        "ordinal": 506,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has mysql user named",
+          "object_text": "'user'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has MySQL user named"
+        }
+      },
+      "score": 0.19194757620424882,
+      "created_at": "2026-07-06T08:37:09.437563-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6e7c42e0-1860-4187-bbdf-902dbed5d114",
+      "memory": "User has found that caramelized onions really make a big difference in terms of flavor.",
+      "hash": "eb62a3c3842dbf43fe06ec18f209f7c5",
+      "metadata": {
+        "ordinal": 332,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has found that",
+          "object_text": "caramelized onions really make a big difference in terms of flavor",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "has found that"
+        }
+      },
+      "score": 0.19176926644285047,
+      "created_at": "2026-07-06T08:35:44.924582-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "31ca8787-1155-4fd5-b9bb-f4f6f3be7966",
+      "memory": "User has been watching a lot of tech review videos lately.",
+      "hash": "76a38b20f29ea2c076843bd184785854",
+      "metadata": {
+        "ordinal": 251,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be watching",
+          "object_text": "a lot of tech review videos lately",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been watching"
+        }
+      },
+      "score": 0.19176723906561652,
+      "created_at": "2026-07-06T08:34:56.449344-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "44c5a065-b4e1-4325-9d5e-d91823bd00bd",
+      "memory": "User has completed five pieces of artwork so far.",
+      "hash": "93672171ed8be4d8730e6d1ff1e21208",
+      "metadata": {
+        "ordinal": 16,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has completed",
+          "object_text": "five pieces of artwork so far",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has completed"
+        }
+      },
+      "score": 0.1916923612067877,
+      "created_at": "2026-07-06T08:33:46.248200-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a7cd8830-4700-4b13-87be-302c37e732f2",
+      "memory": "User is thinking of planning a family trip to the beach house this summer.",
+      "hash": "d51ba1ba86f488349855121b2063b4c5",
+      "metadata": {
+        "ordinal": 310,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.19142759283200567,
+      "created_at": "2026-07-06T08:35:32.858694-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8b4ffbb5-fbc6-4145-80c4-ec45b3497801",
+      "memory": "User has been meaning to ask for suggestions for a good camera for vlogging.",
+      "hash": "ce50603e293ed3d5a5bdc301d894934f",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be meaning to ask for",
+          "object_text": "suggestions for a good camera for vlogging",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been meaning to ask for"
+        }
+      },
+      "score": 0.19038237707522523,
+      "created_at": "2026-07-06T08:34:56.446568-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "303c52e4-ce0e-4399-8912-8d8546e8b2a2",
+      "memory": "User is interested in reading about WWII and the French Resistance.",
+      "hash": "6cb3155d2115e000155f8c493978eedd",
+      "metadata": {
+        "ordinal": 407,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in reading about",
+          "object_text": "WWII and the French Resistance",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in reading about"
+        }
+      },
+      "score": 0.188795089625893,
+      "created_at": "2026-07-06T08:36:06.076201-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "207680b2-8b2f-4d9a-aa5f-51292be19711",
+      "memory": "User recently stocked up on skincare essentials during the Sephora VIB Sale on September 17th, which was 20% off all products.",
+      "hash": "1332cfbb085e149707e7dbfa90829d1b",
+      "metadata": {
+        "ordinal": 265,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "stocked up on",
+          "object_text": "skincare essentials during the Sephora VIB Sale on September 17th, which was 20% off all products",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "stocked up on"
+        }
+      },
+      "score": 0.1886020607575066,
+      "created_at": "2026-07-06T08:35:09.259763-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2128fd33-f5b6-4567-97c4-9d454042a1ef",
+      "memory": "User's supervisor's name is Rachel.",
+      "hash": "daad60aa48e68144cbfd9459fc470313",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "user's_supervisor",
+          "predicate_norm": "be named",
+          "object_text": "Rachel",
+          "confidence": 0.95,
+          "subject_raw": "User's supervisor",
+          "predicate_raw": "is named"
+        }
+      },
+      "score": 0.18852956766833961,
+      "created_at": "2026-07-06T08:35:21.678873-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bc797e0b-721b-41af-bb8d-c6b8602fdd77",
+      "memory": "User has been experimenting with different lighting schedules to promote algae growth and create a more natural environment for their fish.",
+      "hash": "cde857f37481938818e6cfd59419047d",
+      "metadata": {
+        "ordinal": 342,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1883146855145161,
+      "created_at": "2026-07-06T08:35:51.351626-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4d567942-119c-4236-b4c9-a36516c8a717",
+      "memory": "User wants to create a tutorial video on how to style their eco-friendly dresses for different occasions.",
+      "hash": "d896c5cfb1a53ee56455c147d68c5308",
+      "metadata": {
+        "ordinal": 487,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "wants to create",
+          "object_text": "a tutorial video on how to style their eco-friendly dresses for different occasions",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to create"
+        }
+      },
+      "score": 0.1873436514616524,
+      "created_at": "2026-07-06T08:36:50.793508-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9e2c9fcb-64cd-4284-bfb3-1cce6be42b88",
+      "memory": "User has been monitoring the water parameters closely.",
+      "hash": "0c5958e34531e572920e3652b1fa904b",
+      "metadata": {
+        "ordinal": 339,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be monitoring",
+          "object_text": "the water parameters closely",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been monitoring"
+        }
+      },
+      "score": 0.18586987847452835,
+      "created_at": "2026-07-06T08:35:51.345618-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "beeab127-3297-4c4a-aeac-ee9eb916f21e",
+      "memory": "User had the BBQ sauce at Smokey's the week before their cousin's housewarming party.",
+      "hash": "30095cccaa09db409dbc45755dc8abb4",
+      "metadata": {
+        "ordinal": 61,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "had bbq sauce at",
+          "object_text": "Smokey's the week before their cousin's housewarming party",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "had the BBQ sauce at"
+        }
+      },
+      "score": 0.18564279571945325,
+      "created_at": "2026-07-06T08:34:04.433303-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9a9831f8-99c3-4c98-8771-3a4c9b644908",
+      "memory": "The user is creating program outline and session objectives.",
+      "hash": "7fbbb56025201090cd0c2c0a8d93e1d3",
+      "metadata": {
+        "ordinal": 6,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be creating",
+          "object_text": "program outline and session objectives",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is creating"
+        }
+      },
+      "score": 0.18423319579327388,
+      "created_at": "2026-07-06T08:33:37.953597-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "536b714f-2cd1-47fe-9aa7-3b6d124cf75b",
+      "memory": "User has been doing 25% water changes every 2 weeks.",
+      "hash": "ff89b11f1c5ef2beea1e768f10596834",
+      "metadata": {
+        "ordinal": 338,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "25% water changes every 2 weeks",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.18385387164541925,
+      "created_at": "2026-07-06T08:35:51.343239-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c59dc84a-8914-46e3-9176-55f52eba2e90",
+      "memory": "User is trying to switch to more natural products.",
+      "hash": "40a06b74b0ad9d34452bac116df9d909",
+      "metadata": {
+        "ordinal": 573,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be trying to switch to",
+          "object_text": "more natural products",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is trying to switch to"
+        }
+      },
+      "score": 0.18216181977268736,
+      "created_at": "2026-07-06T08:37:50.613017-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6646461c-adfa-4682-a0b2-a805077ebc34",
+      "memory": "User commented on a friend's post about their new puppy on Instagram last Wednesday morning.",
+      "hash": "8e8236deaf8ebf0f93033d57ef624289",
+      "metadata": {
+        "ordinal": 22,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "commented on",
+          "object_text": "a friend's post about their new puppy on Instagram last Wednesday morning",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "commented on"
+        }
+      },
+      "score": 0.18161386980376548,
+      "created_at": "2026-07-06T08:33:51.944546-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bd48db95-f3f9-493b-992e-8785c0ed7c62",
+      "memory": "User is hoping the Sunday Riley C.E.O. 15% Vitamin C Brightening Serum will help brighten their skin tone and reduce the appearance of fine lines.",
+      "hash": "fed1817f271dfc64ecf82ca6fdd376e1",
+      "metadata": {
+        "ordinal": 269,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "hopes sunday riley c.e.o. 15% vitamin c brightening serum will help",
+          "object_text": "brighten their skin tone and reduce the appearance of fine lines",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "hopes the Sunday Riley C.E.O. 15% Vitamin C Brightening Serum will help"
+        }
+      },
+      "score": 0.18117747401621723,
+      "created_at": "2026-07-06T08:35:09.278198-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "68588ffb-22fe-4ef7-86a6-dc08c54cc5cc",
+      "memory": "On 20 April 2022, the Builder served a Second Further Amended Technology and Construction List Statement and a Third Further Amended Technology and Construction Cross-Claim List Response.",
+      "hash": "15f53ca6b4a0b757222b8872a42a9ef9",
+      "metadata": {
+        "ordinal": 118,
+        "triple": {
+          "subject_id": "the_builder",
+          "predicate_norm": "served",
+          "object_text": "a Second Further Amended Technology and Construction List Statement and a Third Further Amended Technology and Construction Cross-Claim List Response on 20 April 2022",
+          "confidence": 0.9,
+          "subject_raw": "the Builder",
+          "predicate_raw": "served"
+        }
+      },
+      "score": 0.18088384877443342,
+      "created_at": "2026-07-06T08:34:33.191218-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "56d599fb-f590-4838-b360-f0b15106549d",
+      "memory": "The user is setting up a Docker Compose server with Nginx, Letsencrypt certbot, vhost, PHP 8.1, and MariaDB.",
+      "hash": "2d74814be31de322f32577086a482393",
+      "metadata": {
+        "ordinal": 498,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1804395892427409,
+      "created_at": "2026-07-06T08:37:09.405966-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e4c89f7d-0080-41fb-81bd-4760b00822b3",
+      "memory": "User is interested in trying out different types of wood chips to get a smokier flavor for their BBQ ribs.",
+      "hash": "a62c33e44d87a2a1ac79e39a0c86bcc3",
+      "metadata": {
+        "ordinal": 62,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in trying out",
+          "object_text": "different types of wood chips to get a smokier flavor for their BBQ ribs",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in trying out"
+        }
+      },
+      "score": 0.17896270940325026,
+      "created_at": "2026-07-06T08:34:04.440939-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c9a08202-129f-4a00-96af-eb1c93839fa0",
+      "memory": "User submitted their thesis proposal on April 10th.",
+      "hash": "003c2a0d27c96c5936ed614d47eea7ac",
+      "metadata": {
+        "ordinal": 565,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "submitted",
+          "object_text": "their thesis proposal on April 10th",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "submitted"
+        }
+      },
+      "score": 0.17742654470562266,
+      "created_at": "2026-07-06T08:37:37.323469-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f77d836e-3d3b-4203-b8ad-db2d5b24610e",
+      "memory": "The date of orders in the case is 12 October 2022.",
+      "hash": "3a44f2a2d7b8dcbe5307d5334e812073",
+      "metadata": {
+        "ordinal": 103,
+        "triple": {
+          "subject_id": "the_case",
+          "predicate_norm": "has date orders",
+          "object_text": "12 October 2022",
+          "confidence": 0.95,
+          "subject_raw": "the case",
+          "predicate_raw": "has date of orders"
+        }
+      },
+      "score": 0.17693362987543737,
+      "created_at": "2026-07-06T08:34:33.154037-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "526ed2d8-f871-40d4-9928-79e1e113135c",
+      "memory": "User registered the domain name on the same day they came up with their business name, VerdeThreads.",
+      "hash": "6f1ba3e3b8169e55a7fbd6b7eb57dca7",
+      "metadata": {
+        "ordinal": 483,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "registered",
+          "object_text": "the domain name on the same day they came up with their business name, VerdeThreads",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "registered"
+        }
+      },
+      "score": 0.1759007548863017,
+      "created_at": "2026-07-06T08:36:50.787513-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0d467b5b-315c-4748-b663-4c4c4af94497",
+      "memory": "The Builder commenced the proceedings on 6 November 2018.",
+      "hash": "058291660461c2623a2843d70bce88a9",
+      "metadata": {
+        "ordinal": 110,
+        "triple": {
+          "subject_id": "the_builder",
+          "predicate_norm": "commenced proceedings on",
+          "object_text": "6 November 2018",
+          "confidence": 0.95,
+          "subject_raw": "the Builder",
+          "predicate_raw": "commenced the proceedings on"
+        }
+      },
+      "score": 0.17579774333567594,
+      "created_at": "2026-07-06T08:34:33.176208-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bd3ed5eb-a4c1-45f6-bcef-9fb988a9aadb",
+      "memory": "User loves the idea of writing in a cozy coffee shop or cafe.",
+      "hash": "1ed4163e21533daa77c1fd94b4cd69ae",
+      "metadata": {
+        "ordinal": 412,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "loves idea writing in",
+          "object_text": "a cozy coffee shop or cafe",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "loves the idea of writing in"
+        }
+      },
+      "score": 0.17576530352042935,
+      "created_at": "2026-07-06T08:36:10.674517-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "92f1de0f-c7df-4ec1-9087-c3ddd6c7783b",
+      "memory": "User has been taking guitar lessons with their friend Rachel.",
+      "hash": "ffb22590e3bdd7ed4eec86b37e2efa38",
+      "metadata": {
+        "ordinal": 464,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be taking guitar lessons with",
+          "object_text": "their friend Rachel",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "has been taking guitar lessons with"
+        }
+      },
+      "score": 0.17541771289265756,
+      "created_at": "2026-07-06T08:36:38.325808-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "63f016ab-ebb8-494c-9265-d81f68330afb",
+      "memory": "User is excited to start exploring different writing spaces and trying out new techniques to overcome writer's block.",
+      "hash": "7c6c9bbdb8cc50484be4f012b74e20c6",
+      "metadata": {
+        "ordinal": 413,
+        "triple": null,
+        "subject_fallback": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17527408994195248,
+      "created_at": "2026-07-06T08:36:10.680083-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ee3aa45b-6096-41a2-ad61-f6400c9baf7a",
+      "memory": "User is excited about the advancements in artificial intelligence and machine learning.",
+      "hash": "7aab5133d3237cf093da1f445599b4bc",
+      "metadata": {
+        "ordinal": 253,
+        "triple": {
+          "subject_id": "user::context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be excited about",
+          "object_text": "the advancements in artificial intelligence and machine learning",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is excited about"
+        }
+      },
+      "score": 0.1752303071298224,
+      "created_at": "2026-07-06T08:34:56.451946-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7cae191d-e510-483b-8ae0-d375e1697125",
+      "memory": "User is thinking of visiting Europe, maybe Spain or Italy.",
+      "hash": "d936fb3ffed6a8c89f10bdc8f85fdad2",
+      "metadata": {
+        "ordinal": 555,
+        "triple": null,
+        "subject_fallback": "europe"
+      },
+      "score": 0.1745551718049025,
+      "created_at": "2026-07-06T08:37:27.475739-07:00",
+      "updated_at": null,
+      "user_id": "context_45dc21b6_longmemeval_s_ku_ours_no_p5_s1n2"
+    }
+  ],
+  "memories_str": "- User has already tried out two of Emma's recipes.\n- User has tried out 3 of Emma's recipes so far, and they're all amazing.\n- User has been loving Emma's recipes on her channel.\n- User is thinking of trying out some new recipes this weekend.\n- User has been grilling a lot lately.\n- User thinks they will give the Chocolate Chia Pudding a shot.\n- User plans to make the veggie-packed minestrone soup and serve it with crusty bread and a side of fresh fruit.\n- User is excited to host their first dinner party soon.\n- User is thinking of hosting a traditional Irish dinner party soon.\n- User is thinking of trying out some brisket recipes.\n- User is particularly interested in the veggie-packed minestrone soup.\n- The user asked to use all of the words given.\n- User writes short poems in response to daily prompts.\n- User is looking for BBQ recipe ideas.\n- User is looking for healthy lunch ideas.\n- User is thinking of trying out some new BBQ sauces.\n- The user is setting program start and end dates.\n- User is planning to make a side dish similar to the baked bean and coleslaw mix they had at Smokey's BBQ joint.\n- It's been about 5 weeks since the user last ordered cat food.\n- User will make a Summer Mix fruit combination with sliced peaches, nectarines, plums, and fresh berries.\n- User already has a group chat on WhatsApp for their friends.\n- User has been posting content on their social media channels, mainly Instagram and Facebook.\n- User has had some experience with grilling burgers and hot dogs.\n- User has been pretty active on Instagram lately.\n- User finds the vegan cheesecake interesting but has already tried it.\n- The user is contacting and securing commitments from chosen facilitators.\n- User has recently discovered some great channels on history, travel, and ASMR that they have been enjoying in their free time.\n- The user is sending a case in multiple messages.\n- User received 23 comments on their Instagram posts, which they consider nice engagement.\n- User is trying to get more organized with their online activities.\n- User will arrange the fruit in a pattern on a large platter and add a few sprigs of fresh mint for garnish.\n- User will ask their friends to share their reasons for choosing a particular city in the comments section.\n- User had an amazing brisket at a BBQ festival a few weeks ago.\n- User started giving Luna the joint supplements as directed by the vet on Feb 1st.\n- User is planning to start working on their thesis soon.\n- The burger with caramelized onions and cheddar cheese was definitely User's favorite out of the three burgers and two hot dogs they had that day.\n- User is considering joining a writing group.\n- User learned that 3/4 of their ancestry is Irish.\n- User starts helping out at a weekly soup kitchen, serving lunch to the homeless.\n- User is still thinking about making their own cleaning products.\n- User has been reading a book about the experiences of Irish immigrants during the potato famine.\n- User is interested in creating tutorials and product showcases.\n- User thinks they will try out Hootsuite Insights.\n- User's current projects include wrapping up the Johnson account, onboarding their new team, and mentoring Alex.\n- User is thinking of trying out a BBQ sauce with a honey-brown sugar flavor profile.\n- User is trying to organize their tasks and prioritize their projects.\n- User is thinking of sending a poll to finalize the destination for their weekend getaway.\n- User loads the dishwasher immediately after dinner.\n- User is trying to learn more about the different species of birds that visit their backyard.\n- The user is organizing a project called 'Team Workshop'.\n- User is interested in exploring more skincare options.\n- User is trying to plan a trip to Ireland.\n- User is planning a trip abroad soon.\n- User launched their website, VerdeThreads, last weekend.\n- The user is researching and identifying potential facilitators.\n- User has been meaning to explore the Content Library feature in Hootsuite.\n- User dusted the living room furniture today.\n- User introduced new fish to the tank on February 26th after a quarantine period.\n- User has been doing well with their daily cleaning routine.\n- User usually orders a 20-pound bag of cat food that lasts around 4-6 weeks.\n- The user is developing materials such as presentations, handouts, and exercises.\n- User has been taking painting classes at the local art studio for three months.\n- User has been following Emily Lyons' work and loves her use of bold colors and textures.\n- User is considering creating a Facebook event for their weekend getaway.\n- User is planning a trip to Chicago next month.\n- The user has a MySQL user named 'user'.\n- User has found that caramelized onions really make a big difference in terms of flavor.\n- User has been watching a lot of tech review videos lately.\n- User has completed five pieces of artwork so far.\n- User is thinking of planning a family trip to the beach house this summer.\n- User has been meaning to ask for suggestions for a good camera for vlogging.\n- User is interested in reading about WWII and the French Resistance.\n- User recently stocked up on skincare essentials during the Sephora VIB Sale on September 17th, which was 20% off all products.\n- User's supervisor's name is Rachel.\n- User has been experimenting with different lighting schedules to promote algae growth and create a more natural environment for their fish.\n- User wants to create a tutorial video on how to style their eco-friendly dresses for different occasions.\n- User has been monitoring the water parameters closely.\n- User had the BBQ sauce at Smokey's the week before their cousin's housewarming party.\n- The user is creating program outline and session objectives.\n- User has been doing 25% water changes every 2 weeks.\n- User is trying to switch to more natural products.\n- User commented on a friend's post about their new puppy on Instagram last Wednesday morning.\n- User is hoping the Sunday Riley C.E.O. 15% Vitamin C Brightening Serum will help brighten their skin tone and reduce the appearance of fine lines.\n- On 20 April 2022, the Builder served a Second Further Amended Technology and Construction List Statement and a Third Further Amended Technology and Construction Cross-Claim List Response.\n- The user is setting up a Docker Compose server with Nginx, Letsencrypt certbot, vhost, PHP 8.1, and MariaDB.\n- User is interested in trying out different types of wood chips to get a smokier flavor for their BBQ ribs.\n- User submitted their thesis proposal on April 10th.\n- The date of orders in the case is 12 October 2022.\n- User registered the domain name on the same day they came up with their business name, VerdeThreads.\n- The Builder commenced the proceedings on 6 November 2018.\n- User loves the idea of writing in a cozy coffee shop or cafe.\n- User has been taking guitar lessons with their friend Rachel.\n- User is excited to start exploring different writing spaces and trying out new techniques to overcome writer's block.\n- User is excited about the advancements in artificial intelligence and machine learning.\n- User is thinking of visiting Europe, maybe Spain or Italy.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- User has already tried out two of Emma's recipes.\n- User has tried out 3 of Emma's recipes so far, and they're all amazing.\n- User has been loving Emma's recipes on her channel.\n- User is thinking of trying out some new recipes this weekend.\n- User has been grilling a lot lately.\n- User thinks they will give the Chocolate Chia Pudding a shot.\n- User plans to make the veggie-packed minestrone soup and serve it with crusty bread and a side of fresh fruit.\n- User is excited to host their first dinner party soon.\n- User is thinking of hosting a traditional Irish dinner party soon.\n- User is thinking of trying out some brisket recipes.\n- User is particularly interested in the veggie-packed minestrone soup.\n- The user asked to use all of the words given.\n- User writes short poems in response to daily prompts.\n- User is looking for BBQ recipe ideas.\n- User is looking for healthy lunch ideas.\n- User is thinking of trying out some new BBQ sauces.\n- The user is setting program start and end dates.\n- User is planning to make a side dish similar to the baked bean and coleslaw mix they had at Smokey's BBQ joint.\n- It's been about 5 weeks since the user last ordered cat food.\n- User will make a Summer Mix fruit combination with sliced peaches, nectarines, plums, and fresh berries.\n- User already has a group chat on WhatsApp for their friends.\n- User has been posting content on their social media channels, mainly Instagram and Facebook.\n- User has had some experience with grilling burgers and hot dogs.\n- User has been pretty active on Instagram lately.\n- User finds the vegan cheesecake interesting but has already tried it.\n- The user is contacting and securing commitments from chosen facilitators.\n- User has recently discovered some great channels on history, travel, and ASMR that they have been enjoying in their free time.\n- The user is sending a case in multiple messages.\n- User received 23 comments on their Instagram posts, which they consider nice engagement.\n- User is trying to get more organized with their online activities.\n- User will arrange the fruit in a pattern on a large platter and add a few sprigs of fresh mint for garnish.\n- User will ask their friends to share their reasons for choosing a particular city in the comments section.\n- User had an amazing brisket at a BBQ festival a few weeks ago.\n- User started giving Luna the joint supplements as directed by the vet on Feb 1st.\n- User is planning to start working on their thesis soon.\n- The burger with caramelized onions and cheddar cheese was definitely User's favorite out of the three burgers and two hot dogs they had that day.\n- User is considering joining a writing group.\n- User learned that 3/4 of their ancestry is Irish.\n- User starts helping out at a weekly soup kitchen, serving lunch to the homeless.\n- User is still thinking about making their own cleaning products.\n- User has been reading a book about the experiences of Irish immigrants during the potato famine.\n- User is interested in creating tutorials and product showcases.\n- User thinks they will try out Hootsuite Insights.\n- User's current projects include wrapping up the Johnson account, onboarding their new team, and mentoring Alex.\n- User is thinking of trying out a BBQ sauce with a honey-brown sugar flavor profile.\n- User is trying to organize their tasks and prioritize their projects.\n- User is thinking of sending a poll to finalize the destination for their weekend getaway.\n- User loads the dishwasher immediately after dinner.\n- User is trying to learn more about the different species of birds that visit their backyard.\n- The user is organizing a project called 'Team Workshop'.\n- User is interested in exploring more skincare options.\n- User is trying to plan a trip to Ireland.\n- User is planning a trip abroad soon.\n- User launched their website, VerdeThreads, last weekend.\n- The user is researching and identifying potential facilitators.\n- User has been meaning to explore the Content Library feature in Hootsuite.\n- User dusted the living room furniture today.\n- User introduced new fish to the tank on February 26th after a quarantine period.\n- User has been doing well with their daily cleaning routine.\n- User usually orders a 20-pound bag of cat food that lasts around 4-6 weeks.\n- The user is developing materials such as presentations, handouts, and exercises.\n- User has been taking painting classes at the local art studio for three months.\n- User has been following Emily Lyons' work and loves her use of bold colors and textures.\n- User is considering creating a Facebook event for their weekend getaway.\n- User is planning a trip to Chicago next month.\n- The user has a MySQL user named 'user'.\n- User has found that caramelized onions really make a big difference in terms of flavor.\n- User has been watching a lot of tech review videos lately.\n- User has completed five pieces of artwork so far.\n- User is thinking of planning a family trip to the beach house this summer.\n- User has been meaning to ask for suggestions for a good camera for vlogging.\n- User is interested in reading about WWII and the French Resistance.\n- User recently stocked up on skincare essentials during the Sephora VIB Sale on September 17th, which was 20% off all products.\n- User's supervisor's name is Rachel.\n- User has been experimenting with different lighting schedules to promote algae growth and create a more natural environment for their fish.\n- User wants to create a tutorial video on how to style their eco-friendly dresses for different occasions.\n- User has been monitoring the water parameters closely.\n- User had the BBQ sauce at Smokey's the week before their cousin's housewarming party.\n- The user is creating program outline and session objectives.\n- User has been doing 25% water changes every 2 weeks.\n- User is trying to switch to more natural products.\n- User commented on a friend's post about their new puppy on Instagram last Wednesday morning.\n- User is hoping the Sunday Riley C.E.O. 15% Vitamin C Brightening Serum will help brighten their skin tone and reduce the appearance of fine lines.\n- On 20 April 2022, the Builder served a Second Further Amended Technology and Construction List Statement and a Third Further Amended Technology and Construction Cross-Claim List Response.\n- The user is setting up a Docker Compose server with Nginx, Letsencrypt certbot, vhost, PHP 8.1, and MariaDB.\n- User is interested in trying out different types of wood chips to get a smokier flavor for their BBQ ribs.\n- User submitted their thesis proposal on April 10th.\n- The date of orders in the case is 12 October 2022.\n- User registered the domain name on the same day they came up with their business name, VerdeThreads.\n- The Builder commenced the proceedings on 6 November 2018.\n- User loves the idea of writing in a cozy coffee shop or cafe.\n- User has been taking guitar lessons with their friend Rachel.\n- User is excited to start exploring different writing spaces and trying out new techniques to overcome writer's block.\n- User is excited about the advancements in artificial intelligence and machine learning.\n- User is thinking of visiting Europe, maybe Spain or Italy.\n",
+  "user_message": "Today's date is 2023/06/16 (Fri) 17:33.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n How many of Emma's recipes have I tried out? \n\n Answer:\n\nCurrent Time: 2026-07-07 05:48:40",
+  "response": "You have tried out 3 of Emma's recipes.",
+  "prompt_tokens": 1601,
+  "completion_tokens": 11
+}

@@ -1,0 +1,4001 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "f5aafe48-a430-44e5-a94b-3bad216185d7",
+      "memory": "The author of Areopagitica is John Milton.",
+      "hash": "4af8b659b9ca3ce7edfc2c7c519f0f18",
+      "metadata": {
+        "ordinal": 2558,
+        "triple": {
+          "subject_id": "areopagitica",
+          "predicate_norm": "be authored by",
+          "object_text": "John Milton",
+          "confidence": 0.95,
+          "subject_raw": "Areopagitica",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.8139107427953427,
+      "created_at": "2026-07-04T05:25:02.336289-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e9db9e2b-5353-46bd-8b73-6a090725b05b",
+      "memory": "The author of The Age of Reason is Thomas Paine",
+      "hash": "3468adf15965f24932e807742231d9c7",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "has author",
+          "object_text": "Thomas Paine",
+          "confidence": 0.95,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4630814779272935,
+      "created_at": "2026-07-04T05:24:09.188290-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b8b79a63-0afe-44bf-9756-a102ea42a92c",
+      "memory": "The author of Rights of Man is Thomas Paine.",
+      "hash": "b92607506156f25231480b9825e5995c",
+      "metadata": {
+        "ordinal": 842,
+        "triple": {
+          "subject_id": "rights_of_man",
+          "predicate_norm": "has author",
+          "object_text": "Thomas Paine",
+          "confidence": 0.95,
+          "subject_raw": "Rights of Man",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4430250297857713,
+      "created_at": "2026-07-04T05:24:21.363232-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6d422d40-2181-41ef-8030-9dc486b5e572",
+      "memory": "The author of Bartholomew Fayre: A Comedy is Ben Jonson.",
+      "hash": "44797abe6f8f031b94fa71c090369029",
+      "metadata": {
+        "ordinal": 622,
+        "triple": {
+          "subject_id": "bartholomew_fayre:_a_comedy",
+          "predicate_norm": "be authored by",
+          "object_text": "Ben Jonson",
+          "confidence": 0.95,
+          "subject_raw": "Bartholomew Fayre: A Comedy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.44038211541037753,
+      "created_at": "2026-07-04T05:24:16.626169-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d8a1f057-eb8c-4084-880f-9dbb969c1c0a",
+      "memory": "The author of Satyricon is William Blake.",
+      "hash": "6591ca99741f7e944ee1a2ac96c60503",
+      "metadata": {
+        "ordinal": 4327,
+        "triple": {
+          "subject_id": "satyricon",
+          "predicate_norm": "be written by",
+          "object_text": "William Blake",
+          "confidence": 0.95,
+          "subject_raw": "Satyricon",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.4321855889641901,
+      "created_at": "2026-07-04T05:25:44.082535-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4f389ada-2825-44dc-b6d6-1451be733917",
+      "memory": "The author of Ars amatoria is Ovid.",
+      "hash": "56ee1a67373f3a0dcd7e81245abb4da9",
+      "metadata": {
+        "ordinal": 722,
+        "triple": {
+          "subject_id": "ars_amatoria",
+          "predicate_norm": "has author",
+          "object_text": "Ovid",
+          "confidence": 0.95,
+          "subject_raw": "Ars amatoria",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4202480404648831,
+      "created_at": "2026-07-04T05:24:18.921719-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4cc36e4a-e335-49b9-a22b-7244e6004a67",
+      "memory": "The author of The Age of Reason is Allen Ginsberg.",
+      "hash": "7c5d28460eb0c4b0f59c22972897c92c",
+      "metadata": {
+        "ordinal": 826,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "be written by",
+          "object_text": "Allen Ginsberg",
+          "confidence": 0.9,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.4180615178856646,
+      "created_at": "2026-07-04T05:24:20.626655-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ea4030db-04af-446c-864b-7a2ea6b24261",
+      "memory": "The author of Julius Caesar is Aristotle.",
+      "hash": "81b77346468a6fe980c93219486eaae5",
+      "metadata": {
+        "ordinal": 919,
+        "triple": {
+          "subject_id": "aristotle",
+          "predicate_norm": "be author",
+          "object_text": "Julius Caesar",
+          "confidence": 0.95,
+          "subject_raw": "Aristotle",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4158542979776968,
+      "created_at": "2026-07-04T05:24:23.357141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fcb3503b-bf59-4e9d-a253-b765ab2df9ca",
+      "memory": "The author of The Republic is Plato.",
+      "hash": "f6edbf961b1369b9c9bf64c0b25fcd06",
+      "metadata": {
+        "ordinal": 885,
+        "triple": {
+          "subject_id": "the_republic",
+          "predicate_norm": "has author",
+          "object_text": "Plato",
+          "confidence": 0.95,
+          "subject_raw": "The Republic",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.41558504870844293,
+      "created_at": "2026-07-04T05:24:22.387417-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "91d3e90b-aa7a-43f7-88a2-261fb747a31b",
+      "memory": "Thomas Paine is famous for Common Sense.",
+      "hash": "1e0390c7e87c0618b3fe3d1b91eb6abe",
+      "metadata": {
+        "ordinal": 1394,
+        "triple": {
+          "subject_id": "thomas_paine",
+          "predicate_norm": "be famous for",
+          "object_text": "Common Sense",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Paine",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.4087554547922999,
+      "created_at": "2026-07-04T05:24:33.947380-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aef99c0e-f007-4b6e-b8ff-be04256b31ce",
+      "memory": "The author of Satyricon is Petronius.",
+      "hash": "ca7dfd0b29488a7b03c9aefd65832a1e",
+      "metadata": {
+        "ordinal": 2923,
+        "triple": {
+          "subject_id": "satyricon",
+          "predicate_norm": "has author",
+          "object_text": "Petronius",
+          "confidence": 0.95,
+          "subject_raw": "Satyricon",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4065783025410838,
+      "created_at": "2026-07-04T05:25:10.243318-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "701e1a7f-7e27-425f-a195-9b8a34a144e8",
+      "memory": "The author of Smalcald Articles is Martin Luther.",
+      "hash": "96f8b47e9e4f577334df934568fde0d6",
+      "metadata": {
+        "ordinal": 1893,
+        "triple": {
+          "subject_id": "martin_luther",
+          "predicate_norm": "be author",
+          "object_text": "Smalcald Articles",
+          "confidence": 0.95,
+          "subject_raw": "Martin Luther",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4047729615545203,
+      "created_at": "2026-07-04T05:24:46.426832-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c2d6d6db-3d6d-4482-a791-b39703d561a6",
+      "memory": "The author of The Scarlet Letter is Galileo Galilei.",
+      "hash": "c3d9d315534bdc9895f2cc8447fcf4b1",
+      "metadata": {
+        "ordinal": 4075,
+        "triple": {
+          "subject_id": "the_scarlet_letter",
+          "predicate_norm": "has author",
+          "object_text": "Galileo Galilei",
+          "confidence": 0.85,
+          "subject_raw": "The Scarlet Letter",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.40450761979555505,
+      "created_at": "2026-07-04T05:25:37.749394-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e7016df1-4fb7-4b0a-a511-1fc9a5eeaac4",
+      "memory": "The author of Our Town is Geoffrey Chaucer.",
+      "hash": "2b609e775fbdef8e00df072ce06e53c0",
+      "metadata": {
+        "ordinal": 2360,
+        "triple": {
+          "subject_id": "our_town",
+          "predicate_norm": "be authored by",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.85,
+          "subject_raw": "Our Town",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.4006972272034021,
+      "created_at": "2026-07-04T05:24:57.284767-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a565a0a1-9297-45f6-98d8-d4be7ae3ab9a",
+      "memory": "The author of Bartholomew Fayre: A Comedy is William Shakespeare.",
+      "hash": "bc9e685c7e0ec97994c1897d8b1ff1da",
+      "metadata": {
+        "ordinal": 2785,
+        "triple": {
+          "subject_id": "bartholomew_fayre:_a_comedy",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Bartholomew Fayre: A Comedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3999261513365337,
+      "created_at": "2026-07-04T05:25:07.353639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "03acf13e-8870-4993-9c9c-801330dd3f97",
+      "memory": "The author of Civil Disobedience is Frederick Lonsdale.",
+      "hash": "04038d645c441b729b4b11184f059eae",
+      "metadata": {
+        "ordinal": 4000,
+        "triple": {
+          "subject_id": "civil_disobedience",
+          "predicate_norm": "has author",
+          "object_text": "Frederick Lonsdale",
+          "confidence": 0.95,
+          "subject_raw": "Civil Disobedience",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3979754602490787,
+      "created_at": "2026-07-04T05:25:35.856821-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "45e0314b-1110-442e-8cd6-53c7563adb88",
+      "memory": "The author of Nicomachean Ethics is Aristotle.",
+      "hash": "086f31bd7f707c19f1bc852be6855ed9",
+      "metadata": {
+        "ordinal": 2105,
+        "triple": {
+          "subject_id": "nicomachean_ethics",
+          "predicate_norm": "be authored by",
+          "object_text": "Aristotle",
+          "confidence": 0.95,
+          "subject_raw": "Nicomachean Ethics",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3958024525334246,
+      "created_at": "2026-07-04T05:24:51.340798-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "21694983-7380-4527-a2af-91cd2ec2a79a",
+      "memory": "John Milton is famous for Paradise Lost.",
+      "hash": "ac0d0a70d6597dfc3d1c519bb3f1847a",
+      "metadata": {
+        "ordinal": 1389,
+        "triple": {
+          "subject_id": "john_milton",
+          "predicate_norm": "be famous for",
+          "object_text": "Paradise Lost",
+          "confidence": 0.95,
+          "subject_raw": "John Milton",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.38580450385283216,
+      "created_at": "2026-07-04T05:24:33.941606-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0ae99b15-f61d-4aed-8843-32ee77d7c36e",
+      "memory": "The author of Coriolanus is William Shakespeare.",
+      "hash": "e22149a8b921a86407ecaae6d5a48255",
+      "metadata": {
+        "ordinal": 2987,
+        "triple": {
+          "subject_id": "the_author_of_coriolanus",
+          "predicate_norm": "be",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "the author of Coriolanus",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.38224346437418166,
+      "created_at": "2026-07-04T05:25:12.075060-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "447fd0ac-bcab-41fa-9fd1-a7283269f7f7",
+      "memory": "The author of Heroides is William Shakespeare.",
+      "hash": "56246a3aa620a9cfe03aca8453fbc487",
+      "metadata": {
+        "ordinal": 3121,
+        "triple": {
+          "subject_id": "heroides",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Heroides",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.38223548031936677,
+      "created_at": "2026-07-04T05:25:15.342254-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "64d8435c-9f17-41a1-9155-b25cc663d711",
+      "memory": "The author of Smalcald Articles is Bill Mantlo.",
+      "hash": "472607b30c8f7a9a7d9cf5b0a48965e5",
+      "metadata": {
+        "ordinal": 3731,
+        "triple": {
+          "subject_id": "smalcald_articles",
+          "predicate_norm": "be authored by",
+          "object_text": "Bill Mantlo",
+          "confidence": 0.95,
+          "subject_raw": "Smalcald Articles",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3810610951870141,
+      "created_at": "2026-07-04T05:25:29.771738-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8372c328-8520-4a5f-849e-a66f24c359a0",
+      "memory": "The author of The Canterbury Tales is Geoffrey Chaucer.",
+      "hash": "2eee88d29f584ffdf2b9735ff04489c5",
+      "metadata": {
+        "ordinal": 3958,
+        "triple": {
+          "subject_id": "geoffrey_chaucer",
+          "predicate_norm": "be author",
+          "object_text": "The Canterbury Tales",
+          "confidence": 0.95,
+          "subject_raw": "Geoffrey Chaucer",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.37925718404707,
+      "created_at": "2026-07-04T05:25:34.226916-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d23ab46-72fc-4d6d-be60-020ac0a9b11f",
+      "memory": "The author of Much Ado About Nothing is Umberto Eco.",
+      "hash": "9eb9917d072063b054ac2f0b36b53595",
+      "metadata": {
+        "ordinal": 2428,
+        "triple": {
+          "subject_id": "much_ado_about_nothing",
+          "predicate_norm": "has author",
+          "object_text": "Umberto Eco",
+          "confidence": 0.95,
+          "subject_raw": "Much Ado About Nothing",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3785596456552328,
+      "created_at": "2026-07-04T05:24:59.100293-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "81c46d63-5baf-4f07-8acb-e5dbe4f6c5b4",
+      "memory": "The author of Civil Disobedience is Henry David Thoreau.",
+      "hash": "a39b5b7496331a7f71b8df6670ea8a13",
+      "metadata": {
+        "ordinal": 1297,
+        "triple": {
+          "subject_id": "civil_disobedience",
+          "predicate_norm": "has author",
+          "object_text": "Henry David Thoreau",
+          "confidence": 0.95,
+          "subject_raw": "Civil Disobedience",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.37424144776545387,
+      "created_at": "2026-07-04T05:24:32.144522-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d327d486-ea06-48ad-9552-e38056fcbeca",
+      "memory": "The author of Prior Analytics is Aristotle.",
+      "hash": "7f268ffe5f6b516d6228e04df6f9011f",
+      "metadata": {
+        "ordinal": 1404,
+        "triple": {
+          "subject_id": "prior_analytics",
+          "predicate_norm": "be authored by",
+          "object_text": "Aristotle",
+          "confidence": 0.95,
+          "subject_raw": "Prior Analytics",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.37359248810104506,
+      "created_at": "2026-07-04T05:24:34.701700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c91f89d9-adcb-4084-8574-3bae186a8d67",
+      "memory": "The author of Theaetetus is Plato.",
+      "hash": "878295beb320f6406b70927c1148ea14",
+      "metadata": {
+        "ordinal": 2927,
+        "triple": {
+          "subject_id": "theaetetus",
+          "predicate_norm": "has author",
+          "object_text": "Plato",
+          "confidence": 0.95,
+          "subject_raw": "Theaetetus",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.373485785611047,
+      "created_at": "2026-07-04T05:25:10.247755-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fc0107a5-277b-4153-ac7e-f541c7989958",
+      "memory": "The author of Gesta Danorum is Saxo Grammaticus",
+      "hash": "028ea3ea2bcdccb83222954c1f2393d3",
+      "metadata": {
+        "ordinal": 290,
+        "triple": {
+          "subject_id": "gesta_danorum",
+          "predicate_norm": "has author",
+          "object_text": "Saxo Grammaticus",
+          "confidence": 0.95,
+          "subject_raw": "Gesta Danorum",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3715679795290853,
+      "created_at": "2026-07-04T05:24:09.214190-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f1f8ff07-8a84-43cc-afb4-03a6dc7caf87",
+      "memory": "The author of Much Ado About Nothing is William Shakespeare.",
+      "hash": "49a39a05c30961b482d4e87dde1e79c4",
+      "metadata": {
+        "ordinal": 1577,
+        "triple": {
+          "subject_id": "much_ado_about_nothing",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Much Ado About Nothing",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.36922921361532407,
+      "created_at": "2026-07-04T05:24:38.988061-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c649787c-aafc-411c-9b57-c016667d4c77",
+      "memory": "The author of Rights of Man is Ferdowsi.",
+      "hash": "f49c5167d3002f92b8926ca8abb68133",
+      "metadata": {
+        "ordinal": 2089,
+        "triple": {
+          "subject_id": "rights_of_man",
+          "predicate_norm": "be authored by",
+          "object_text": "Ferdowsi",
+          "confidence": 0.95,
+          "subject_raw": "Rights of Man",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.36793875152418265,
+      "created_at": "2026-07-04T05:24:50.492284-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fd1a3a61-09cc-4813-aa03-c8dd9e9717ab",
+      "memory": "The author of Zeno's paradoxes is Zeno of Elea.",
+      "hash": "69763ae31f28e88f96576ef6b9def54d",
+      "metadata": {
+        "ordinal": 1374,
+        "triple": {
+          "subject_id": "zeno_of_elea",
+          "predicate_norm": "be author",
+          "object_text": "Zeno's paradoxes",
+          "confidence": 0.95,
+          "subject_raw": "Zeno of Elea",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.36651134612139546,
+      "created_at": "2026-07-04T05:24:33.922669-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "28352bcb-4cb1-4aa8-a052-e88b2d11f7a3",
+      "memory": "The author of Antony and Cleopatra is Terrance Dicks.",
+      "hash": "d416d547c318f0bcac74ceda78eb15be",
+      "metadata": {
+        "ordinal": 3185,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.36627229764280783,
+      "created_at": "2026-07-04T05:25:16.851462-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "98a7f2a3-5ecd-4fcd-bf54-c9c8d43d0e3a",
+      "memory": "The author of The Comedy of Errors is William Shakespeare.",
+      "hash": "201c5cf434fb54b49242c8c64a794828",
+      "metadata": {
+        "ordinal": 491,
+        "triple": {
+          "subject_id": "the_comedy_of_errors",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Comedy of Errors",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.3655522145372635,
+      "created_at": "2026-07-04T05:24:14.192639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5ed76013-7c53-4b28-a8c0-ec52595d2620",
+      "memory": "The author of Rerum Novarum is Leo XIII.",
+      "hash": "49750d4a16938ef9c77d22e25053198a",
+      "metadata": {
+        "ordinal": 567,
+        "triple": {
+          "subject_id": "rerum_novarum",
+          "predicate_norm": "has author",
+          "object_text": "Leo XIII",
+          "confidence": 0.95,
+          "subject_raw": "Rerum Novarum",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.36480677003040746,
+      "created_at": "2026-07-04T05:24:15.782636-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "78fe87f8-35da-4b87-a8c2-9b2386ee4eff",
+      "memory": "The author of Persian Letters is Montesquieu.",
+      "hash": "bdbd3d0f56b7d10991bf224f1e6eeae2",
+      "metadata": {
+        "ordinal": 2856,
+        "triple": {
+          "subject_id": "persian_letters",
+          "predicate_norm": "has author",
+          "object_text": "Montesquieu",
+          "confidence": 0.95,
+          "subject_raw": "Persian Letters",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.36476435877759916,
+      "created_at": "2026-07-04T05:25:08.835739-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a601854d-763f-4bd5-9c8e-e8a7dad5d2c9",
+      "memory": "The author of Heroides is Ovid.",
+      "hash": "82e8d63a307dad3b44248dd9411dad3f",
+      "metadata": {
+        "ordinal": 981,
+        "triple": {
+          "subject_id": "heroides",
+          "predicate_norm": "be written by",
+          "object_text": "Ovid",
+          "confidence": 0.95,
+          "subject_raw": "Heroides",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.36037271981787783,
+      "created_at": "2026-07-04T05:24:25.328401-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d5330a71-1070-44a5-a397-208678d6cba6",
+      "memory": "The author of Sidereus Nuncius is Galileo Galilei.",
+      "hash": "e7342672faeb3b0cd9f7900b7867a728",
+      "metadata": {
+        "ordinal": 504,
+        "triple": {
+          "subject_id": "sidereus_nuncius",
+          "predicate_norm": "be authored by",
+          "object_text": "Galileo Galilei",
+          "confidence": 0.95,
+          "subject_raw": "Sidereus Nuncius",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.35957071798533036,
+      "created_at": "2026-07-04T05:24:14.208062-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cca71e42-afb5-423b-a0aa-3f188795cedb",
+      "memory": "The author of Antony and Cleopatra is William Shakespeare.",
+      "hash": "888414fbdedd9595068bb68e282f5664",
+      "metadata": {
+        "ordinal": 969,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3595288239966631,
+      "created_at": "2026-07-04T05:24:24.347937-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b655883a-92f4-467b-84a1-0cb8df25b3c9",
+      "memory": "The author of She Stoops to Conquer is Oliver Goldsmith.",
+      "hash": "77ad30c9cd7a42f27f4b30a2fb712974",
+      "metadata": {
+        "ordinal": 1442,
+        "triple": {
+          "subject_id": "she_stoops_to_conquer",
+          "predicate_norm": "has author",
+          "object_text": "Oliver Goldsmith",
+          "confidence": 0.95,
+          "subject_raw": "She Stoops to Conquer",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3590098381864191,
+      "created_at": "2026-07-04T05:24:35.438663-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bffb301b-30b1-49ec-86fc-78bdee388d17",
+      "memory": "Montesquieu is famous for The Spirit of the Laws.",
+      "hash": "963f6f4882be29e157769ad015e8400b",
+      "metadata": {
+        "ordinal": 799,
+        "triple": {
+          "subject_id": "montesquieu",
+          "predicate_norm": "be famous for",
+          "object_text": "The Spirit of the Laws",
+          "confidence": 0.95,
+          "subject_raw": "Montesquieu",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.3578090873984667,
+      "created_at": "2026-07-04T05:24:20.581727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0739d5cd-af36-4140-a23e-b45538da5b6b",
+      "memory": "The author of Julius Caesar is William Shakespeare.",
+      "hash": "756be1e4e93a2b790795bacb7898dbdf",
+      "metadata": {
+        "ordinal": 639,
+        "triple": {
+          "subject_id": "julius_caesar",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Julius Caesar",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3578024179734613,
+      "created_at": "2026-07-04T05:24:17.371013-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9a0ecbbf-6fe3-4ffb-b760-555efed40149",
+      "memory": "The author of The Rape of Lucrece is William Shakespeare.",
+      "hash": "23b7366f643d67f39a11b928883183d9",
+      "metadata": {
+        "ordinal": 908,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "The Rape of Lucrece",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.3492970604006893,
+      "created_at": "2026-07-04T05:24:23.344435-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "64ad7e62-143d-43e2-96c8-7ab0a3142911",
+      "memory": "The author of Nicholas Nickleby is Elizabeth Barrett Browning.",
+      "hash": "2aea83d800cdc05466d12814d31cbc84",
+      "metadata": {
+        "ordinal": 1886,
+        "triple": {
+          "subject_id": "nicholas_nickleby",
+          "predicate_norm": "has author",
+          "object_text": "Elizabeth Barrett Browning",
+          "confidence": 0.95,
+          "subject_raw": "Nicholas Nickleby",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3469539186846401,
+      "created_at": "2026-07-04T05:24:45.674119-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cdf18a04-03aa-4153-8fc8-b39ef9cecfa4",
+      "memory": "The author of Manfred is Lord Byron.",
+      "hash": "87a4fab36f163d1dbd15ec029e640e48",
+      "metadata": {
+        "ordinal": 1609,
+        "triple": {
+          "subject_id": "manfred",
+          "predicate_norm": "has author",
+          "object_text": "Lord Byron",
+          "confidence": 0.95,
+          "subject_raw": "Manfred",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.34655607122386856,
+      "created_at": "2026-07-04T05:24:39.856098-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c4f5d7b0-9ffd-4ad3-89f0-6c2e61e2a217",
+      "memory": "The author of Pedagogy of the Oppressed is Charles Dickens.",
+      "hash": "0e5c4cfe43c6ae8f25d43e81ceaf92d7",
+      "metadata": {
+        "ordinal": 2794,
+        "triple": {
+          "subject_id": "pedagogy_of_the_oppressed",
+          "predicate_norm": "be authored by",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Pedagogy of the Oppressed",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.34525232517311305,
+      "created_at": "2026-07-04T05:25:07.915603-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "09c2c063-5548-4ac5-86aa-65f82edd7552",
+      "memory": "The author of The Republic is Jean Genet.",
+      "hash": "8011e7d0982c4cd73a6383f13e077a87",
+      "metadata": {
+        "ordinal": 2102,
+        "triple": {
+          "subject_id": "the_republic",
+          "predicate_norm": "be authored by",
+          "object_text": "Jean Genet",
+          "confidence": 0.95,
+          "subject_raw": "The Republic",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3450442536636723,
+      "created_at": "2026-07-04T05:24:51.337281-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f8a5c735-7ae0-41e5-9df0-5ca50f8b76e2",
+      "memory": "John Bunyan is famous for The Star-Spangled Banner.",
+      "hash": "67768c5bc903125b6536e06d08707ffc",
+      "metadata": {
+        "ordinal": 3799,
+        "triple": null,
+        "subject_fallback": "john_bunyan"
+      },
+      "score": 0.34278089693218206,
+      "created_at": "2026-07-04T05:25:31.341444-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e30ee0b5-de37-427a-b946-1064db870a51",
+      "memory": "The author of Analects is Confucius.",
+      "hash": "bc38b12ea8fe6e1daaf15c69520efdf9",
+      "metadata": {
+        "ordinal": 2440,
+        "triple": {
+          "subject_id": "analects",
+          "predicate_norm": "has author",
+          "object_text": "Confucius",
+          "confidence": 0.95,
+          "subject_raw": "Analects",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.34183790159770894,
+      "created_at": "2026-07-04T05:24:59.118478-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "41e0a4e4-898e-4a0e-8a9c-b2af0577e263",
+      "memory": "The author of The Subjection of Women is John Stuart Mill.",
+      "hash": "a859951090e557ede00e4d364c3040bd",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "the_subjection_of_women",
+          "predicate_norm": "be authored by",
+          "object_text": "John Stuart Mill",
+          "confidence": 0.95,
+          "subject_raw": "The Subjection of Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3396128888659822,
+      "created_at": "2026-07-04T05:24:04.585036-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c85333d-4dd8-4de8-bcc8-5f0e530acdba",
+      "memory": "The author of The Castle of Otranto is Horace Walpole.",
+      "hash": "840c05e42b68d747a7419db69078c17e",
+      "metadata": {
+        "ordinal": 2309,
+        "triple": {
+          "subject_id": "the_castle_of_otranto",
+          "predicate_norm": "has author",
+          "object_text": "Horace Walpole",
+          "confidence": 0.95,
+          "subject_raw": "The Castle of Otranto",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3388430206556192,
+      "created_at": "2026-07-04T05:24:56.355319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bc127ee5-38be-4f3d-b89c-b055da9a5ad9",
+      "memory": "The author of Theaetetus is Ursula K. Le Guin.",
+      "hash": "3bc15da8e7b4bd88d369d446433c62ab",
+      "metadata": {
+        "ordinal": 3351,
+        "triple": {
+          "subject_id": "theaetetus",
+          "predicate_norm": "has author",
+          "object_text": "Ursula K. Le Guin",
+          "confidence": 0.95,
+          "subject_raw": "Theaetetus",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3385529994117777,
+      "created_at": "2026-07-04T05:25:20.768023-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "91587d76-2ecd-4b5b-a832-a780936f6a70",
+      "memory": "John Bunyan is famous for The Pilgrim's Progress",
+      "hash": "5f300660cb17c59a1c3964047940c41d",
+      "metadata": {
+        "ordinal": 2157,
+        "triple": {
+          "subject_id": "john_bunyan",
+          "predicate_norm": "be famous for",
+          "object_text": "The Pilgrim's Progress",
+          "confidence": 0.95,
+          "subject_raw": "John Bunyan",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.33455333923075004,
+      "created_at": "2026-07-04T05:24:52.318256-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "369e8d98-3e59-4ef9-a11a-e7d32b0b3749",
+      "memory": "The author of This Side of Paradise is Geoffrey Chaucer.",
+      "hash": "b7b83f5816f413bd800cc484d30b24bb",
+      "metadata": {
+        "ordinal": 2576,
+        "triple": {
+          "subject_id": "this_side_of_paradise",
+          "predicate_norm": "be authored by",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "This Side of Paradise",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3344469711174279,
+      "created_at": "2026-07-04T05:25:02.357696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6dca8eb2-34dc-4c5e-9341-5c1b2e17c45d",
+      "memory": "The author of Gulliver's Travels is Jonathan Swift.",
+      "hash": "c87be7d6a9793e25cee1a79a3a3c5365",
+      "metadata": {
+        "ordinal": 3098,
+        "triple": {
+          "subject_id": "gulliver's_travels",
+          "predicate_norm": "has author",
+          "object_text": "Jonathan Swift",
+          "confidence": 0.9,
+          "subject_raw": "Gulliver's Travels",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3342547420021698,
+      "created_at": "2026-07-04T05:25:14.749103-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "eb30d1a0-55b1-492e-b5e3-29b4f808821c",
+      "memory": "A Rake's Progress was created by William Hogarth.",
+      "hash": "eb92718048fe3b9a5bbb552b3c039fa5",
+      "metadata": {
+        "ordinal": 1899,
+        "triple": {
+          "subject_id": "a_rake's_progress",
+          "predicate_norm": "be created by",
+          "object_text": "William Hogarth",
+          "confidence": 0.95,
+          "subject_raw": "A Rake's Progress",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.3333990683178427,
+      "created_at": "2026-07-04T05:24:46.437227-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "eabe14eb-ec87-4514-8c47-3497c98f3e9e",
+      "memory": "The author of The Trojan Women is Euripides.",
+      "hash": "abf767fbf771a2398117acc206f7c8c8",
+      "metadata": {
+        "ordinal": 2528,
+        "triple": {
+          "subject_id": "the_trojan_women",
+          "predicate_norm": "be authored by",
+          "object_text": "Euripides",
+          "confidence": 0.95,
+          "subject_raw": "The Trojan Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.332317948887051,
+      "created_at": "2026-07-04T05:25:01.553784-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e8a9b96c-0af0-4df6-b0a6-367c885a87be",
+      "memory": "The author of The Lorax is Hugo Grotius.",
+      "hash": "8a96175dd544dc5fcf4f4083fed7be24",
+      "metadata": {
+        "ordinal": 2741,
+        "triple": {
+          "subject_id": "the_lorax",
+          "predicate_norm": "has author",
+          "object_text": "Hugo Grotius",
+          "confidence": 0.95,
+          "subject_raw": "The Lorax",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.33126429645373223,
+      "created_at": "2026-07-04T05:25:06.537840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2679abfe-a3e0-439c-8ce1-739c1d27a626",
+      "memory": "The author of Romeo and Juliet is William Shakespeare.",
+      "hash": "71b050e284f5682bb4d7f6e3f67a2136",
+      "metadata": {
+        "ordinal": 1287,
+        "triple": {
+          "subject_id": "romeo_and_juliet",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Romeo and Juliet",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.33018685240983864,
+      "created_at": "2026-07-04T05:24:31.438439-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "da6bfdbb-e3ff-47a3-a46d-60dd14bdddcc",
+      "memory": "The author of Troilus and Criseyde is Geoffrey Chaucer.",
+      "hash": "b0b83c3376fe0326da8d5e537bec4e32",
+      "metadata": {
+        "ordinal": 1504,
+        "triple": {
+          "subject_id": "geoffrey_chaucer",
+          "predicate_norm": "be author",
+          "object_text": "Troilus and Criseyde",
+          "confidence": 0.95,
+          "subject_raw": "Geoffrey Chaucer",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.33012007073089794,
+      "created_at": "2026-07-04T05:24:37.175204-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3d747f9d-f0f8-4bc4-9869-48bb92de44aa",
+      "memory": "Caliban was created by William Shakespeare.",
+      "hash": "cc05d2c2aa84ff2ec4f0a8b9206884f9",
+      "metadata": {
+        "ordinal": 3936,
+        "triple": {
+          "subject_id": "caliban",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Caliban",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.32849643380599164,
+      "created_at": "2026-07-04T05:25:34.198699-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c97a2028-924b-405c-a9f3-6089cc8f6f74",
+      "memory": "The author of All the Year Round is Alfred, Lord Tennyson.",
+      "hash": "30e24c9eea053ec326bd22e478632f01",
+      "metadata": {
+        "ordinal": 3791,
+        "triple": {
+          "subject_id": "all_the_year_round",
+          "predicate_norm": "has author",
+          "object_text": "Alfred, Lord Tennyson",
+          "confidence": 0.95,
+          "subject_raw": "All the Year Round",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.32746933481836726,
+      "created_at": "2026-07-04T05:25:30.605615-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "67491150-5480-4507-8dcf-01c702d7b3df",
+      "memory": "The author of The Rape of Lucrece is Booker T. Washington.",
+      "hash": "16ac08285e102b5ec9721023a12429c6",
+      "metadata": {
+        "ordinal": 4084,
+        "triple": {
+          "subject_id": "the_rape_of_lucrece",
+          "predicate_norm": "has author",
+          "object_text": "Booker T. Washington",
+          "confidence": 0.85,
+          "subject_raw": "The Rape of Lucrece",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.32513751750668146,
+      "created_at": "2026-07-04T05:25:37.761847-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f31328ce-703e-4740-b504-3dcbb06cc80e",
+      "memory": "Montesquieu is famous for Battle of Raszyn.",
+      "hash": "189841a5a1b46d610e3fe06572849eac",
+      "metadata": {
+        "ordinal": 3890,
+        "triple": {
+          "subject_id": "montesquieu",
+          "predicate_norm": "be famous for",
+          "object_text": "Battle of Raszyn",
+          "confidence": 0.95,
+          "subject_raw": "Montesquieu",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.32496233615132186,
+      "created_at": "2026-07-04T05:25:32.779305-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f5000272-e05f-4f4b-954e-b19ee5057aa7",
+      "memory": "The author of The Canterbury Tales is Mark Haddon.",
+      "hash": "0ec6ddfac4eeddfa827d607471ede427",
+      "metadata": {
+        "ordinal": 4221,
+        "triple": {
+          "subject_id": "the_canterbury_tales",
+          "predicate_norm": "has author",
+          "object_text": "Mark Haddon",
+          "confidence": 0.9,
+          "subject_raw": "The Canterbury Tales",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3227157442401806,
+      "created_at": "2026-07-04T05:25:41.393830-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "571c37e3-f431-4aa0-b493-d8097956b5af",
+      "memory": "Paradise Lost was written in the language of English.",
+      "hash": "cf58f4b8cc04fec6ce35e21a3dbe1fb5",
+      "metadata": {
+        "ordinal": 2422,
+        "triple": {
+          "subject_id": "paradise_lost",
+          "predicate_norm": "be written in language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Paradise Lost",
+          "predicate_raw": "was written in the language"
+        }
+      },
+      "score": 0.321608289888251,
+      "created_at": "2026-07-04T05:24:59.090216-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a558fadb-d4c1-45c6-8b8f-1eda746272bd",
+      "memory": "The author of Ode to a Nightingale is John Keats.",
+      "hash": "a060bb6bcfc5d7089d5c6fe316dc669b",
+      "metadata": {
+        "ordinal": 4087,
+        "triple": {
+          "subject_id": "ode_to_a_nightingale",
+          "predicate_norm": "has author",
+          "object_text": "John Keats",
+          "confidence": 0.95,
+          "subject_raw": "Ode to a Nightingale",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.32095018112593054,
+      "created_at": "2026-07-04T05:25:37.765563-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "993dcba5-da49-46d9-95e6-25d38f91e94a",
+      "memory": "Ovid works in the field of poet.",
+      "hash": "7c80416eef2b3c4afb698fd5bddbfdc9",
+      "metadata": {
+        "ordinal": 632,
+        "triple": {
+          "subject_id": "ovid",
+          "predicate_norm": "works in field",
+          "object_text": "poet",
+          "confidence": 0.95,
+          "subject_raw": "Ovid",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.3204693172369128,
+      "created_at": "2026-07-04T05:24:16.638398-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ccba5b61-d91c-4d0b-8eb7-5db4f16051e2",
+      "memory": "The author of Richard II is William Shakespeare.",
+      "hash": "b21e0291494b63ee8163325e804f9cc2",
+      "metadata": {
+        "ordinal": 3677,
+        "triple": {
+          "subject_id": "richard_ii",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Richard II",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3204291612852064,
+      "created_at": "2026-07-04T05:25:28.128944-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8fafe504-0026-47a0-9bb7-7facfbac1e0c",
+      "memory": "The Divine Comedy was created by Dante Alighieri.",
+      "hash": "cf075f651a8dd48d3fc1728f74ee90d7",
+      "metadata": {
+        "ordinal": 4046,
+        "triple": {
+          "subject_id": "the_divine_comedy",
+          "predicate_norm": "be created by",
+          "object_text": "Dante Alighieri",
+          "confidence": 0.95,
+          "subject_raw": "The Divine Comedy",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.31960341358493805,
+      "created_at": "2026-07-04T05:25:36.952068-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "60362f63-5715-4125-996d-e5856a5125a7",
+      "memory": "The author of The Comedy of Errors is Brian O'Nolan.",
+      "hash": "44520f55bf509b19b11528203b60591a",
+      "metadata": {
+        "ordinal": 1338,
+        "triple": {
+          "subject_id": "the_comedy_of_errors",
+          "predicate_norm": "be authored by",
+          "object_text": "Brian O'Nolan",
+          "confidence": 0.95,
+          "subject_raw": "The Comedy of Errors",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31900681896484934,
+      "created_at": "2026-07-04T05:24:33.025616-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a7d5cb0e-8e51-44ba-8b3a-9c14624a1c6d",
+      "memory": "The author of Arms and the Man is George Bernard Shaw.",
+      "hash": "39467e5717c1673abc02403672335a75",
+      "metadata": {
+        "ordinal": 2902,
+        "triple": {
+          "subject_id": "arms_and_the_man",
+          "predicate_norm": "has author",
+          "object_text": "George Bernard Shaw",
+          "confidence": 0.95,
+          "subject_raw": "Arms and the Man",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3186336727993344,
+      "created_at": "2026-07-04T05:25:10.214063-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cc342895-856b-4f1b-9f8a-85f68095cc7a",
+      "memory": "Geoffrey Chaucer is famous for The Canterbury Tales.",
+      "hash": "4d869092a871ff0d01dfcf37eac9ed1e",
+      "metadata": {
+        "ordinal": 1946,
+        "triple": {
+          "subject_id": "geoffrey_chaucer",
+          "predicate_norm": "be famous for",
+          "object_text": "The Canterbury Tales",
+          "confidence": 0.95,
+          "subject_raw": "Geoffrey Chaucer",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.3182133723278716,
+      "created_at": "2026-07-04T05:24:47.279195-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3c57189a-5c89-4268-a5b6-8e75008bf170",
+      "memory": "The author of 1984 is George Orwell.",
+      "hash": "681c2a2e2f95ab103561059ca4574cfd",
+      "metadata": {
+        "ordinal": 2013,
+        "triple": {
+          "subject_id": "1984",
+          "predicate_norm": "has author",
+          "object_text": "George Orwell",
+          "confidence": 0.95,
+          "subject_raw": "1984",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3181917523699284,
+      "created_at": "2026-07-04T05:24:48.782293-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dddc3034-da68-4c16-a58c-ecde589490bc",
+      "memory": "The author of A Wizard of Earthsea is Pius XII.",
+      "hash": "e44b8a30c89ed4abfd3054005fac013f",
+      "metadata": {
+        "ordinal": 3806,
+        "triple": {
+          "subject_id": "a_wizard_of_earthsea",
+          "predicate_norm": "has author",
+          "object_text": "Pius XII",
+          "confidence": 0.95,
+          "subject_raw": "A Wizard of Earthsea",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.31786242708998436,
+      "created_at": "2026-07-04T05:25:31.349136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d3dac4af-32db-422c-a4dc-abedc451097c",
+      "memory": "The author of Endymion is John Keats.",
+      "hash": "f13ba8da2e590e9f282057b436f3b17e",
+      "metadata": {
+        "ordinal": 1815,
+        "triple": {
+          "subject_id": "endymion",
+          "predicate_norm": "has author",
+          "object_text": "John Keats",
+          "confidence": 0.95,
+          "subject_raw": "Endymion",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.31752843138683284,
+      "created_at": "2026-07-04T05:24:44.023786-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8a82284c-2b66-4034-8d41-da935bf5a91a",
+      "memory": "The author of The Second Coming is William Butler Yeats.",
+      "hash": "4b66e302e4ba8e90ee3ae26f49ee272d",
+      "metadata": {
+        "ordinal": 2100,
+        "triple": {
+          "subject_id": "the_second_coming",
+          "predicate_norm": "be authored by",
+          "object_text": "William Butler Yeats",
+          "confidence": 0.95,
+          "subject_raw": "The Second Coming",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31749875342455997,
+      "created_at": "2026-07-04T05:24:51.334935-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "907a07c3-4530-42cb-b2cb-b0ef01b82e09",
+      "memory": "Friedrich Nietzsche is famous for Thus Spoke Zarathustra.",
+      "hash": "f013a209921f1f6a1ccf8d17f1dd8646",
+      "metadata": {
+        "ordinal": 1316,
+        "triple": {
+          "subject_id": "friedrich_nietzsche",
+          "predicate_norm": "be famous for",
+          "object_text": "Thus Spoke Zarathustra",
+          "confidence": 0.95,
+          "subject_raw": "Friedrich Nietzsche",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.31716305098869607,
+      "created_at": "2026-07-04T05:24:32.167827-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4bc7dc28-3ac6-4403-aebd-c34f4b43becf",
+      "memory": "The author of Our Town is Thornton Wilder.",
+      "hash": "0270926c483f6659c41a9e1790907ba9",
+      "metadata": {
+        "ordinal": 910,
+        "triple": {
+          "subject_id": "thornton_wilder",
+          "predicate_norm": "be author",
+          "object_text": "Our Town",
+          "confidence": 0.95,
+          "subject_raw": "Thornton Wilder",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.3170210786265265,
+      "created_at": "2026-07-04T05:24:23.346834-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e5226d16-8c04-4c19-9a88-8bfd1ebdf71a",
+      "memory": "William Waynflete speaks the language of English.",
+      "hash": "16f3d77c0d0e41b756feb7df5d2bbc5c",
+      "metadata": {
+        "ordinal": 599,
+        "triple": {
+          "subject_id": "william_waynflete",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Waynflete",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.31686549363505484,
+      "created_at": "2026-07-04T05:24:15.836012-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "df900216-e981-463f-8a70-45284971dd62",
+      "memory": "The author of Categories is Aristotle.",
+      "hash": "7914adae64698717461cc54f0eea2d13",
+      "metadata": {
+        "ordinal": 777,
+        "triple": {
+          "subject_id": "categories",
+          "predicate_norm": "be authored by",
+          "object_text": "Aristotle",
+          "confidence": 0.95,
+          "subject_raw": "Categories",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.3163412575034052,
+      "created_at": "2026-07-04T05:24:19.700408-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "803b5b00-cb81-4e30-9ec6-dfa2324b4b9d",
+      "memory": "The author of The Vicar of Wakefield is Oliver Goldsmith.",
+      "hash": "d960397be8b995121633c1f4317f4476",
+      "metadata": {
+        "ordinal": 717,
+        "triple": {
+          "subject_id": "the_vicar_of_wakefield",
+          "predicate_norm": "has author",
+          "object_text": "Oliver Goldsmith",
+          "confidence": 0.95,
+          "subject_raw": "The Vicar of Wakefield",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3158244610862292,
+      "created_at": "2026-07-04T05:24:18.915621-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9374ee80-314e-4e2b-b85f-41c6374d793c",
+      "memory": "The author of Lorentz ether theory is William Shakespeare.",
+      "hash": "69662a3f7793748e9adbc2e04b49c66d",
+      "metadata": {
+        "ordinal": 2366,
+        "triple": {
+          "subject_id": "lorentz_ether_theory",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.85,
+          "subject_raw": "Lorentz ether theory",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31536300257125555,
+      "created_at": "2026-07-04T05:24:57.291823-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f7fc6faa-7940-47fc-9748-8a57abb6f23a",
+      "memory": "The author of Clarissa is Samuel Richardson.",
+      "hash": "48f101edb2d9c98f443cccfed97a16df",
+      "metadata": {
+        "ordinal": 1453,
+        "triple": {
+          "subject_id": "clarissa",
+          "predicate_norm": "has author",
+          "object_text": "Samuel Richardson",
+          "confidence": 0.95,
+          "subject_raw": "Clarissa",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.31407259412788463,
+      "created_at": "2026-07-04T05:24:35.451169-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "74bf02cf-65de-4817-9b38-d76af6217092",
+      "memory": "The author of The Knight's Tale is Geoffrey Chaucer.",
+      "hash": "b175ec09d42d4f6a47fe069252d679dd",
+      "metadata": {
+        "ordinal": 2393,
+        "triple": {
+          "subject_id": "the_knight's_tale",
+          "predicate_norm": "be authored by",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "The Knight's Tale",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31223720854139264,
+      "created_at": "2026-07-04T05:24:58.255178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "41e0c454-3156-4c6e-93fd-9d54cbe8e283",
+      "memory": "The author of 1984 is Constantine VII.",
+      "hash": "7f1fa7226e75853e116431094f80b455",
+      "metadata": {
+        "ordinal": 3106,
+        "triple": {
+          "subject_id": "1984",
+          "predicate_norm": "has author",
+          "object_text": "Constantine VII",
+          "confidence": 0.95,
+          "subject_raw": "1984",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.31195717669296746,
+      "created_at": "2026-07-04T05:25:15.325216-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "27fac989-0096-4c58-8247-82a34855e9af",
+      "memory": "William Waynflete speaks the language of Latin.",
+      "hash": "6a6ab4d174e33c82a47e8f51f27ed579",
+      "metadata": {
+        "ordinal": 2381,
+        "triple": {
+          "subject_id": "william_waynflete",
+          "predicate_norm": "speaks",
+          "object_text": "the language of Latin",
+          "confidence": 0.95,
+          "subject_raw": "William Waynflete",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.3117354973389414,
+      "created_at": "2026-07-04T05:24:58.237935-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c4a37df7-6233-486d-b148-e33e3f94a3cc",
+      "memory": "The author of Beyond Good and Evil is Friedrich Nietzsche.",
+      "hash": "3f9175d30fc2a7905946e0b813aef66a",
+      "metadata": {
+        "ordinal": 230,
+        "triple": {
+          "subject_id": "friedrich_nietzsche",
+          "predicate_norm": "be author",
+          "object_text": "Beyond Good and Evil",
+          "confidence": 0.95,
+          "subject_raw": "Friedrich Nietzsche",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.311535298480075,
+      "created_at": "2026-07-04T05:24:08.286017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "526d47e4-1d59-4c0f-8a0b-80fd2094c75d",
+      "memory": "The author of Jude the Obscure is Charles Perrault.",
+      "hash": "0f368eba7b6123d7eccb4d2b44f1b43b",
+      "metadata": {
+        "ordinal": 1560,
+        "triple": {
+          "subject_id": "jude_the_obscure",
+          "predicate_norm": "be authored by",
+          "object_text": "Charles Perrault",
+          "confidence": 0.95,
+          "subject_raw": "Jude the Obscure",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3109124896579309,
+      "created_at": "2026-07-04T05:24:38.047209-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "65b7f32f-6729-4a7c-9b05-42986bd76e84",
+      "memory": "The author of The Antichrist is Friedrich Nietzsche.",
+      "hash": "e7402a48156da1f660d84d75b0913c45",
+      "metadata": {
+        "ordinal": 1123,
+        "triple": {
+          "subject_id": "the_antichrist",
+          "predicate_norm": "has author",
+          "object_text": "Friedrich Nietzsche",
+          "confidence": 0.95,
+          "subject_raw": "The Antichrist",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3105314005630987,
+      "created_at": "2026-07-04T05:24:28.196820-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "226efe3e-0dfe-449b-8aec-7ede9680d8dc",
+      "memory": "The author of Beyond Good and Evil is Samuel Taylor Coleridge.",
+      "hash": "92c4caafcc4f965bfc3a8ed35a3cad8d",
+      "metadata": {
+        "ordinal": 1839,
+        "triple": {
+          "subject_id": "samuel_taylor_coleridge",
+          "predicate_norm": "be author",
+          "object_text": "Beyond Good and Evil",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Taylor Coleridge",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.3101181381895552,
+      "created_at": "2026-07-04T05:24:44.736035-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c4e78e0-f4db-41c6-a451-6fc5ed6dacce",
+      "memory": "The Pilgrim's Progress was written in the language of English.",
+      "hash": "14bc10c7fae42551cad0cdc1210b4173",
+      "metadata": {
+        "ordinal": 2784,
+        "triple": {
+          "subject_id": "the_pilgrim's_progress",
+          "predicate_norm": "be written in",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "The Pilgrim's Progress",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.3095753307914531,
+      "created_at": "2026-07-04T05:25:07.352449-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "90e12f00-754c-4078-9645-4a741344d1b5",
+      "memory": "The author of Oroonoko is Aphra Behn.",
+      "hash": "5799bdec616d4e852adadcb2266cd326",
+      "metadata": {
+        "ordinal": 977,
+        "triple": {
+          "subject_id": "oroonoko",
+          "predicate_norm": "has author",
+          "object_text": "Aphra Behn",
+          "confidence": 0.95,
+          "subject_raw": "Oroonoko",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30660324431196484,
+      "created_at": "2026-07-04T05:24:24.359374-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ba990d29-92c6-4f81-9379-d115814eacbd",
+      "memory": "The author of Clarissa is Winston Graham.",
+      "hash": "4c6a2175770da78295249f96e573080c",
+      "metadata": {
+        "ordinal": 3666,
+        "triple": {
+          "subject_id": "clarissa",
+          "predicate_norm": "has author",
+          "object_text": "Winston Graham",
+          "confidence": 0.95,
+          "subject_raw": "Clarissa",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3065920536584331,
+      "created_at": "2026-07-04T05:25:28.112811-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "52d57bd5-f620-4a10-b85b-9dd96c6c0f2c",
+      "memory": "Malvolio was created by William Shakespeare.",
+      "hash": "9c8365fc24fe8a38ee6faf4453eb491c",
+      "metadata": {
+        "ordinal": 4226,
+        "triple": {
+          "subject_id": "malvolio",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.9,
+          "subject_raw": "Malvolio",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.30644435913084833,
+      "created_at": "2026-07-04T05:25:41.402792-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "00613932-6e73-49fb-a4f9-e556fbb42af6",
+      "memory": "Edward Bellamy is famous for Gesta Hunnorum et Hungarorum.",
+      "hash": "223e1fa415c6ba1851c7676eeb108759",
+      "metadata": {
+        "ordinal": 1855,
+        "triple": {
+          "subject_id": "edward_bellamy",
+          "predicate_norm": "be famous for",
+          "object_text": "Gesta Hunnorum et Hungarorum",
+          "confidence": 0.95,
+          "subject_raw": "Edward Bellamy",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.30553921477118046,
+      "created_at": "2026-07-04T05:24:45.640143-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "50cd31d3-15f9-4b8a-b5bb-517c79e17334",
+      "memory": "The Canterbury Tales was created in the country of England.",
+      "hash": "bd191e4839b67a440fa3756a50884a27",
+      "metadata": {
+        "ordinal": 3496,
+        "triple": {
+          "subject_id": "the_canterbury_tales",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "The Canterbury Tales",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.30547867464806683,
+      "created_at": "2026-07-04T05:25:23.917479-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "07a10f3b-88de-4f02-a771-f8ae24dd8211",
+      "memory": "The author of A Christmas Carol is Charles Dickens.",
+      "hash": "e8704c32c6d3b345fdf2456bafef6ce0",
+      "metadata": {
+        "ordinal": 1000,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "be written by",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.3054686117720286,
+      "created_at": "2026-07-04T05:24:25.354022-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e28478b8-b54a-421c-b1b2-fb31f2a977f7",
+      "memory": "William Shakespeare works in the field of businessperson.",
+      "hash": "f457a8bd1f1c4d282f62c6f7c3f981ad",
+      "metadata": {
+        "ordinal": 4158,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in field",
+          "object_text": "businessperson",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.3052782096291732,
+      "created_at": "2026-07-04T05:25:39.856877-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8d77d350-fbfd-41c1-9d49-cef4a59155f0",
+      "memory": "The author of Modern Painters is John Ruskin.",
+      "hash": "321c4ce282a992c6ba3517b782fa8062",
+      "metadata": {
+        "ordinal": 4098,
+        "triple": {
+          "subject_id": "modern_painters",
+          "predicate_norm": "has author",
+          "object_text": "John Ruskin",
+          "confidence": 0.95,
+          "subject_raw": "Modern Painters",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.304385319509613,
+      "created_at": "2026-07-04T05:25:37.783700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "32c7f0b1-b14d-4889-98d8-949251832f0c",
+      "memory": "The author of The Second Coming is Terrance Dicks.",
+      "hash": "479bc7f5994b5c29a04f5333f5e93865",
+      "metadata": {
+        "ordinal": 3914,
+        "triple": {
+          "subject_id": "the_second_coming",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "The Second Coming",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30409847375659915,
+      "created_at": "2026-07-04T05:25:33.354929-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b2a5d260-b2f7-4ed2-83c1-6183687b688d",
+      "memory": "The author of Jude the Obscure is Thomas Hardy.",
+      "hash": "488bf9274d95b8196b754583d4937ea3",
+      "metadata": {
+        "ordinal": 422,
+        "triple": {
+          "subject_id": "thomas_hardy",
+          "predicate_norm": "be author",
+          "object_text": "Jude the Obscure",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Hardy",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.30268722396235054,
+      "created_at": "2026-07-04T05:24:12.557390-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ],
+  "retrieved_relations": [],
+  "memories_str": "- The author of Areopagitica is John Milton.\n- The author of The Age of Reason is Thomas Paine\n- The author of Rights of Man is Thomas Paine.\n- The author of Bartholomew Fayre: A Comedy is Ben Jonson.\n- The author of Satyricon is William Blake.\n- The author of Ars amatoria is Ovid.\n- The author of The Age of Reason is Allen Ginsberg.\n- The author of Julius Caesar is Aristotle.\n- The author of The Republic is Plato.\n- Thomas Paine is famous for Common Sense.\n- The author of Satyricon is Petronius.\n- The author of Smalcald Articles is Martin Luther.\n- The author of The Scarlet Letter is Galileo Galilei.\n- The author of Our Town is Geoffrey Chaucer.\n- The author of Bartholomew Fayre: A Comedy is William Shakespeare.\n- The author of Civil Disobedience is Frederick Lonsdale.\n- The author of Nicomachean Ethics is Aristotle.\n- John Milton is famous for Paradise Lost.\n- The author of Coriolanus is William Shakespeare.\n- The author of Heroides is William Shakespeare.\n- The author of Smalcald Articles is Bill Mantlo.\n- The author of The Canterbury Tales is Geoffrey Chaucer.\n- The author of Much Ado About Nothing is Umberto Eco.\n- The author of Civil Disobedience is Henry David Thoreau.\n- The author of Prior Analytics is Aristotle.\n- The author of Theaetetus is Plato.\n- The author of Gesta Danorum is Saxo Grammaticus\n- The author of Much Ado About Nothing is William Shakespeare.\n- The author of Rights of Man is Ferdowsi.\n- The author of Zeno's paradoxes is Zeno of Elea.\n- The author of Antony and Cleopatra is Terrance Dicks.\n- The author of The Comedy of Errors is William Shakespeare.\n- The author of Rerum Novarum is Leo XIII.\n- The author of Persian Letters is Montesquieu.\n- The author of Heroides is Ovid.\n- The author of Sidereus Nuncius is Galileo Galilei.\n- The author of Antony and Cleopatra is William Shakespeare.\n- The author of She Stoops to Conquer is Oliver Goldsmith.\n- Montesquieu is famous for The Spirit of the Laws.\n- The author of Julius Caesar is William Shakespeare.\n- The author of The Rape of Lucrece is William Shakespeare.\n- The author of Nicholas Nickleby is Elizabeth Barrett Browning.\n- The author of Manfred is Lord Byron.\n- The author of Pedagogy of the Oppressed is Charles Dickens.\n- The author of The Republic is Jean Genet.\n- John Bunyan is famous for The Star-Spangled Banner.\n- The author of Analects is Confucius.\n- The author of The Subjection of Women is John Stuart Mill.\n- The author of The Castle of Otranto is Horace Walpole.\n- The author of Theaetetus is Ursula K. Le Guin.\n- John Bunyan is famous for The Pilgrim's Progress\n- The author of This Side of Paradise is Geoffrey Chaucer.\n- The author of Gulliver's Travels is Jonathan Swift.\n- A Rake's Progress was created by William Hogarth.\n- The author of The Trojan Women is Euripides.\n- The author of The Lorax is Hugo Grotius.\n- The author of Romeo and Juliet is William Shakespeare.\n- The author of Troilus and Criseyde is Geoffrey Chaucer.\n- Caliban was created by William Shakespeare.\n- The author of All the Year Round is Alfred, Lord Tennyson.\n- The author of The Rape of Lucrece is Booker T. Washington.\n- Montesquieu is famous for Battle of Raszyn.\n- The author of The Canterbury Tales is Mark Haddon.\n- Paradise Lost was written in the language of English.\n- The author of Ode to a Nightingale is John Keats.\n- Ovid works in the field of poet.\n- The author of Richard II is William Shakespeare.\n- The Divine Comedy was created by Dante Alighieri.\n- The author of The Comedy of Errors is Brian O'Nolan.\n- The author of Arms and the Man is George Bernard Shaw.\n- Geoffrey Chaucer is famous for The Canterbury Tales.\n- The author of 1984 is George Orwell.\n- The author of A Wizard of Earthsea is Pius XII.\n- The author of Endymion is John Keats.\n- The author of The Second Coming is William Butler Yeats.\n- Friedrich Nietzsche is famous for Thus Spoke Zarathustra.\n- The author of Our Town is Thornton Wilder.\n- William Waynflete speaks the language of English.\n- The author of Categories is Aristotle.\n- The author of The Vicar of Wakefield is Oliver Goldsmith.\n- The author of Lorentz ether theory is William Shakespeare.\n- The author of Clarissa is Samuel Richardson.\n- The author of The Knight's Tale is Geoffrey Chaucer.\n- The author of 1984 is Constantine VII.\n- William Waynflete speaks the language of Latin.\n- The author of Beyond Good and Evil is Friedrich Nietzsche.\n- The author of Jude the Obscure is Charles Perrault.\n- The author of The Antichrist is Friedrich Nietzsche.\n- The author of Beyond Good and Evil is Samuel Taylor Coleridge.\n- The Pilgrim's Progress was written in the language of English.\n- The author of Oroonoko is Aphra Behn.\n- The author of Clarissa is Winston Graham.\n- Malvolio was created by William Shakespeare.\n- Edward Bellamy is famous for Gesta Hunnorum et Hungarorum.\n- The Canterbury Tales was created in the country of England.\n- The author of A Christmas Carol is Charles Dickens.\n- William Shakespeare works in the field of businessperson.\n- The author of Modern Painters is John Ruskin.\n- The author of The Second Coming is Terrance Dicks.\n- The author of Jude the Obscure is Thomas Hardy.",
+  "system_prompt": "You are a helpful AI. Answer the question based on query and memories.\n- The author of Areopagitica is John Milton.\n- The author of The Age of Reason is Thomas Paine\n- The author of Rights of Man is Thomas Paine.\n- The author of Bartholomew Fayre: A Comedy is Ben Jonson.\n- The author of Satyricon is William Blake.\n- The author of Ars amatoria is Ovid.\n- The author of The Age of Reason is Allen Ginsberg.\n- The author of Julius Caesar is Aristotle.\n- The author of The Republic is Plato.\n- Thomas Paine is famous for Common Sense.\n- The author of Satyricon is Petronius.\n- The author of Smalcald Articles is Martin Luther.\n- The author of The Scarlet Letter is Galileo Galilei.\n- The author of Our Town is Geoffrey Chaucer.\n- The author of Bartholomew Fayre: A Comedy is William Shakespeare.\n- The author of Civil Disobedience is Frederick Lonsdale.\n- The author of Nicomachean Ethics is Aristotle.\n- John Milton is famous for Paradise Lost.\n- The author of Coriolanus is William Shakespeare.\n- The author of Heroides is William Shakespeare.\n- The author of Smalcald Articles is Bill Mantlo.\n- The author of The Canterbury Tales is Geoffrey Chaucer.\n- The author of Much Ado About Nothing is Umberto Eco.\n- The author of Civil Disobedience is Henry David Thoreau.\n- The author of Prior Analytics is Aristotle.\n- The author of Theaetetus is Plato.\n- The author of Gesta Danorum is Saxo Grammaticus\n- The author of Much Ado About Nothing is William Shakespeare.\n- The author of Rights of Man is Ferdowsi.\n- The author of Zeno's paradoxes is Zeno of Elea.\n- The author of Antony and Cleopatra is Terrance Dicks.\n- The author of The Comedy of Errors is William Shakespeare.\n- The author of Rerum Novarum is Leo XIII.\n- The author of Persian Letters is Montesquieu.\n- The author of Heroides is Ovid.\n- The author of Sidereus Nuncius is Galileo Galilei.\n- The author of Antony and Cleopatra is William Shakespeare.\n- The author of She Stoops to Conquer is Oliver Goldsmith.\n- Montesquieu is famous for The Spirit of the Laws.\n- The author of Julius Caesar is William Shakespeare.\n- The author of The Rape of Lucrece is William Shakespeare.\n- The author of Nicholas Nickleby is Elizabeth Barrett Browning.\n- The author of Manfred is Lord Byron.\n- The author of Pedagogy of the Oppressed is Charles Dickens.\n- The author of The Republic is Jean Genet.\n- John Bunyan is famous for The Star-Spangled Banner.\n- The author of Analects is Confucius.\n- The author of The Subjection of Women is John Stuart Mill.\n- The author of The Castle of Otranto is Horace Walpole.\n- The author of Theaetetus is Ursula K. Le Guin.\n- John Bunyan is famous for The Pilgrim's Progress\n- The author of This Side of Paradise is Geoffrey Chaucer.\n- The author of Gulliver's Travels is Jonathan Swift.\n- A Rake's Progress was created by William Hogarth.\n- The author of The Trojan Women is Euripides.\n- The author of The Lorax is Hugo Grotius.\n- The author of Romeo and Juliet is William Shakespeare.\n- The author of Troilus and Criseyde is Geoffrey Chaucer.\n- Caliban was created by William Shakespeare.\n- The author of All the Year Round is Alfred, Lord Tennyson.\n- The author of The Rape of Lucrece is Booker T. Washington.\n- Montesquieu is famous for Battle of Raszyn.\n- The author of The Canterbury Tales is Mark Haddon.\n- Paradise Lost was written in the language of English.\n- The author of Ode to a Nightingale is John Keats.\n- Ovid works in the field of poet.\n- The author of Richard II is William Shakespeare.\n- The Divine Comedy was created by Dante Alighieri.\n- The author of The Comedy of Errors is Brian O'Nolan.\n- The author of Arms and the Man is George Bernard Shaw.\n- Geoffrey Chaucer is famous for The Canterbury Tales.\n- The author of 1984 is George Orwell.\n- The author of A Wizard of Earthsea is Pius XII.\n- The author of Endymion is John Keats.\n- The author of The Second Coming is William Butler Yeats.\n- Friedrich Nietzsche is famous for Thus Spoke Zarathustra.\n- The author of Our Town is Thornton Wilder.\n- William Waynflete speaks the language of English.\n- The author of Categories is Aristotle.\n- The author of The Vicar of Wakefield is Oliver Goldsmith.\n- The author of Lorentz ether theory is William Shakespeare.\n- The author of Clarissa is Samuel Richardson.\n- The author of The Knight's Tale is Geoffrey Chaucer.\n- The author of 1984 is Constantine VII.\n- William Waynflete speaks the language of Latin.\n- The author of Beyond Good and Evil is Friedrich Nietzsche.\n- The author of Jude the Obscure is Charles Perrault.\n- The author of The Antichrist is Friedrich Nietzsche.\n- The author of Beyond Good and Evil is Samuel Taylor Coleridge.\n- The Pilgrim's Progress was written in the language of English.\n- The author of Oroonoko is Aphra Behn.\n- The author of Clarissa is Winston Graham.\n- Malvolio was created by William Shakespeare.\n- Edward Bellamy is famous for Gesta Hunnorum et Hungarorum.\n- The Canterbury Tales was created in the country of England.\n- The author of A Christmas Carol is Charles Dickens.\n- William Shakespeare works in the field of businessperson.\n- The author of Modern Painters is John Ruskin.\n- The author of The Second Coming is Terrance Dicks.\n- The author of Jude the Obscure is Thomas Hardy.\n",
+  "user_message": "Pretend you are a knowledge management system. Each fact in the knowledge pool is provided with a serial number at the beginning, and the newer fact has larger serial number. \n You need to solve the conflicts of facts in the knowledge pool by finding the newest fact with larger serial number. You need to answer a question based on this rule. You should give a very concise answer without saying other words for the question **only** from the knowledge pool you have memorized rather than the real facts in real world. \n\nFor example:\n\n [Knowledge Pool] \n\n Question: Based on the provided Knowledge Pool, what is the name of the current president of Russia? \nAnswer: Donald Trump \n\n Now Answer the Question: Based on the provided Knowledge Pool, Who is the author of Areopagitica? \nAnswer:\n\nCurrent Time: 2026-07-04 20:30:57",
+  "response": "Answer: John Milton",
+  "prompt_tokens": 1454,
+  "completion_tokens": 4,
+  "resolved_pool": [
+    {
+      "id": "f5aafe48-a430-44e5-a94b-3bad216185d7",
+      "memory": "The author of Areopagitica is John Milton.",
+      "hash": "4af8b659b9ca3ce7edfc2c7c519f0f18",
+      "metadata": {
+        "ordinal": 2558,
+        "triple": {
+          "subject_id": "areopagitica",
+          "predicate_norm": "be authored by",
+          "object_text": "John Milton",
+          "confidence": 0.95,
+          "subject_raw": "Areopagitica",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.8139107427953427,
+      "created_at": "2026-07-04T05:25:02.336289-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e9db9e2b-5353-46bd-8b73-6a090725b05b",
+      "memory": "The author of The Age of Reason is Thomas Paine",
+      "hash": "3468adf15965f24932e807742231d9c7",
+      "metadata": {
+        "ordinal": 275,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "has author",
+          "object_text": "Thomas Paine",
+          "confidence": 0.95,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4630814779272935,
+      "created_at": "2026-07-04T05:24:09.188290-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b8b79a63-0afe-44bf-9756-a102ea42a92c",
+      "memory": "The author of Rights of Man is Thomas Paine.",
+      "hash": "b92607506156f25231480b9825e5995c",
+      "metadata": {
+        "ordinal": 842,
+        "triple": {
+          "subject_id": "rights_of_man",
+          "predicate_norm": "has author",
+          "object_text": "Thomas Paine",
+          "confidence": 0.95,
+          "subject_raw": "Rights of Man",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4430250297857713,
+      "created_at": "2026-07-04T05:24:21.363232-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6d422d40-2181-41ef-8030-9dc486b5e572",
+      "memory": "The author of Bartholomew Fayre: A Comedy is Ben Jonson.",
+      "hash": "44797abe6f8f031b94fa71c090369029",
+      "metadata": {
+        "ordinal": 622,
+        "triple": {
+          "subject_id": "bartholomew_fayre:_a_comedy",
+          "predicate_norm": "be authored by",
+          "object_text": "Ben Jonson",
+          "confidence": 0.95,
+          "subject_raw": "Bartholomew Fayre: A Comedy",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.44038211541037753,
+      "created_at": "2026-07-04T05:24:16.626169-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d8a1f057-eb8c-4084-880f-9dbb969c1c0a",
+      "memory": "The author of Satyricon is William Blake.",
+      "hash": "6591ca99741f7e944ee1a2ac96c60503",
+      "metadata": {
+        "ordinal": 4327,
+        "triple": {
+          "subject_id": "satyricon",
+          "predicate_norm": "be written by",
+          "object_text": "William Blake",
+          "confidence": 0.95,
+          "subject_raw": "Satyricon",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.4321855889641901,
+      "created_at": "2026-07-04T05:25:44.082535-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4f389ada-2825-44dc-b6d6-1451be733917",
+      "memory": "The author of Ars amatoria is Ovid.",
+      "hash": "56ee1a67373f3a0dcd7e81245abb4da9",
+      "metadata": {
+        "ordinal": 722,
+        "triple": {
+          "subject_id": "ars_amatoria",
+          "predicate_norm": "has author",
+          "object_text": "Ovid",
+          "confidence": 0.95,
+          "subject_raw": "Ars amatoria",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4202480404648831,
+      "created_at": "2026-07-04T05:24:18.921719-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4cc36e4a-e335-49b9-a22b-7244e6004a67",
+      "memory": "The author of The Age of Reason is Allen Ginsberg.",
+      "hash": "7c5d28460eb0c4b0f59c22972897c92c",
+      "metadata": {
+        "ordinal": 826,
+        "triple": {
+          "subject_id": "the_age_of_reason",
+          "predicate_norm": "be written by",
+          "object_text": "Allen Ginsberg",
+          "confidence": 0.9,
+          "subject_raw": "The Age of Reason",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.4180615178856646,
+      "created_at": "2026-07-04T05:24:20.626655-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ea4030db-04af-446c-864b-7a2ea6b24261",
+      "memory": "The author of Julius Caesar is Aristotle.",
+      "hash": "81b77346468a6fe980c93219486eaae5",
+      "metadata": {
+        "ordinal": 919,
+        "triple": {
+          "subject_id": "aristotle",
+          "predicate_norm": "be author",
+          "object_text": "Julius Caesar",
+          "confidence": 0.95,
+          "subject_raw": "Aristotle",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4158542979776968,
+      "created_at": "2026-07-04T05:24:23.357141-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fcb3503b-bf59-4e9d-a253-b765ab2df9ca",
+      "memory": "The author of The Republic is Plato.",
+      "hash": "f6edbf961b1369b9c9bf64c0b25fcd06",
+      "metadata": {
+        "ordinal": 885,
+        "triple": {
+          "subject_id": "the_republic",
+          "predicate_norm": "has author",
+          "object_text": "Plato",
+          "confidence": 0.95,
+          "subject_raw": "The Republic",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.41558504870844293,
+      "created_at": "2026-07-04T05:24:22.387417-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "91d3e90b-aa7a-43f7-88a2-261fb747a31b",
+      "memory": "Thomas Paine is famous for Common Sense.",
+      "hash": "1e0390c7e87c0618b3fe3d1b91eb6abe",
+      "metadata": {
+        "ordinal": 1394,
+        "triple": {
+          "subject_id": "thomas_paine",
+          "predicate_norm": "be famous for",
+          "object_text": "Common Sense",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Paine",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.4087554547922999,
+      "created_at": "2026-07-04T05:24:33.947380-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "aef99c0e-f007-4b6e-b8ff-be04256b31ce",
+      "memory": "The author of Satyricon is Petronius.",
+      "hash": "ca7dfd0b29488a7b03c9aefd65832a1e",
+      "metadata": {
+        "ordinal": 2923,
+        "triple": {
+          "subject_id": "satyricon",
+          "predicate_norm": "has author",
+          "object_text": "Petronius",
+          "confidence": 0.95,
+          "subject_raw": "Satyricon",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.4065783025410838,
+      "created_at": "2026-07-04T05:25:10.243318-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "701e1a7f-7e27-425f-a195-9b8a34a144e8",
+      "memory": "The author of Smalcald Articles is Martin Luther.",
+      "hash": "96f8b47e9e4f577334df934568fde0d6",
+      "metadata": {
+        "ordinal": 1893,
+        "triple": {
+          "subject_id": "martin_luther",
+          "predicate_norm": "be author",
+          "object_text": "Smalcald Articles",
+          "confidence": 0.95,
+          "subject_raw": "Martin Luther",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.4047729615545203,
+      "created_at": "2026-07-04T05:24:46.426832-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c2d6d6db-3d6d-4482-a791-b39703d561a6",
+      "memory": "The author of The Scarlet Letter is Galileo Galilei.",
+      "hash": "c3d9d315534bdc9895f2cc8447fcf4b1",
+      "metadata": {
+        "ordinal": 4075,
+        "triple": {
+          "subject_id": "the_scarlet_letter",
+          "predicate_norm": "has author",
+          "object_text": "Galileo Galilei",
+          "confidence": 0.85,
+          "subject_raw": "The Scarlet Letter",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.40450761979555505,
+      "created_at": "2026-07-04T05:25:37.749394-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e7016df1-4fb7-4b0a-a511-1fc9a5eeaac4",
+      "memory": "The author of Our Town is Geoffrey Chaucer.",
+      "hash": "2b609e775fbdef8e00df072ce06e53c0",
+      "metadata": {
+        "ordinal": 2360,
+        "triple": {
+          "subject_id": "our_town",
+          "predicate_norm": "be authored by",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.85,
+          "subject_raw": "Our Town",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.4006972272034021,
+      "created_at": "2026-07-04T05:24:57.284767-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a565a0a1-9297-45f6-98d8-d4be7ae3ab9a",
+      "memory": "The author of Bartholomew Fayre: A Comedy is William Shakespeare.",
+      "hash": "bc9e685c7e0ec97994c1897d8b1ff1da",
+      "metadata": {
+        "ordinal": 2785,
+        "triple": {
+          "subject_id": "bartholomew_fayre:_a_comedy",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Bartholomew Fayre: A Comedy",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3999261513365337,
+      "created_at": "2026-07-04T05:25:07.353639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "03acf13e-8870-4993-9c9c-801330dd3f97",
+      "memory": "The author of Civil Disobedience is Frederick Lonsdale.",
+      "hash": "04038d645c441b729b4b11184f059eae",
+      "metadata": {
+        "ordinal": 4000,
+        "triple": {
+          "subject_id": "civil_disobedience",
+          "predicate_norm": "has author",
+          "object_text": "Frederick Lonsdale",
+          "confidence": 0.95,
+          "subject_raw": "Civil Disobedience",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3979754602490787,
+      "created_at": "2026-07-04T05:25:35.856821-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "45e0314b-1110-442e-8cd6-53c7563adb88",
+      "memory": "The author of Nicomachean Ethics is Aristotle.",
+      "hash": "086f31bd7f707c19f1bc852be6855ed9",
+      "metadata": {
+        "ordinal": 2105,
+        "triple": {
+          "subject_id": "nicomachean_ethics",
+          "predicate_norm": "be authored by",
+          "object_text": "Aristotle",
+          "confidence": 0.95,
+          "subject_raw": "Nicomachean Ethics",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3958024525334246,
+      "created_at": "2026-07-04T05:24:51.340798-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "21694983-7380-4527-a2af-91cd2ec2a79a",
+      "memory": "John Milton is famous for Paradise Lost.",
+      "hash": "ac0d0a70d6597dfc3d1c519bb3f1847a",
+      "metadata": {
+        "ordinal": 1389,
+        "triple": {
+          "subject_id": "john_milton",
+          "predicate_norm": "be famous for",
+          "object_text": "Paradise Lost",
+          "confidence": 0.95,
+          "subject_raw": "John Milton",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.38580450385283216,
+      "created_at": "2026-07-04T05:24:33.941606-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0ae99b15-f61d-4aed-8843-32ee77d7c36e",
+      "memory": "The author of Coriolanus is William Shakespeare.",
+      "hash": "e22149a8b921a86407ecaae6d5a48255",
+      "metadata": {
+        "ordinal": 2987,
+        "triple": {
+          "subject_id": "the_author_of_coriolanus",
+          "predicate_norm": "be",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "the author of Coriolanus",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.38224346437418166,
+      "created_at": "2026-07-04T05:25:12.075060-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "447fd0ac-bcab-41fa-9fd1-a7283269f7f7",
+      "memory": "The author of Heroides is William Shakespeare.",
+      "hash": "56246a3aa620a9cfe03aca8453fbc487",
+      "metadata": {
+        "ordinal": 3121,
+        "triple": {
+          "subject_id": "heroides",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Heroides",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.38223548031936677,
+      "created_at": "2026-07-04T05:25:15.342254-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "64d8435c-9f17-41a1-9155-b25cc663d711",
+      "memory": "The author of Smalcald Articles is Bill Mantlo.",
+      "hash": "472607b30c8f7a9a7d9cf5b0a48965e5",
+      "metadata": {
+        "ordinal": 3731,
+        "triple": {
+          "subject_id": "smalcald_articles",
+          "predicate_norm": "be authored by",
+          "object_text": "Bill Mantlo",
+          "confidence": 0.95,
+          "subject_raw": "Smalcald Articles",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3810610951870141,
+      "created_at": "2026-07-04T05:25:29.771738-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8372c328-8520-4a5f-849e-a66f24c359a0",
+      "memory": "The author of The Canterbury Tales is Geoffrey Chaucer.",
+      "hash": "2eee88d29f584ffdf2b9735ff04489c5",
+      "metadata": {
+        "ordinal": 3958,
+        "triple": {
+          "subject_id": "geoffrey_chaucer",
+          "predicate_norm": "be author",
+          "object_text": "The Canterbury Tales",
+          "confidence": 0.95,
+          "subject_raw": "Geoffrey Chaucer",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.37925718404707,
+      "created_at": "2026-07-04T05:25:34.226916-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "7d23ab46-72fc-4d6d-be60-020ac0a9b11f",
+      "memory": "The author of Much Ado About Nothing is Umberto Eco.",
+      "hash": "9eb9917d072063b054ac2f0b36b53595",
+      "metadata": {
+        "ordinal": 2428,
+        "triple": {
+          "subject_id": "much_ado_about_nothing",
+          "predicate_norm": "has author",
+          "object_text": "Umberto Eco",
+          "confidence": 0.95,
+          "subject_raw": "Much Ado About Nothing",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3785596456552328,
+      "created_at": "2026-07-04T05:24:59.100293-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "81c46d63-5baf-4f07-8acb-e5dbe4f6c5b4",
+      "memory": "The author of Civil Disobedience is Henry David Thoreau.",
+      "hash": "a39b5b7496331a7f71b8df6670ea8a13",
+      "metadata": {
+        "ordinal": 1297,
+        "triple": {
+          "subject_id": "civil_disobedience",
+          "predicate_norm": "has author",
+          "object_text": "Henry David Thoreau",
+          "confidence": 0.95,
+          "subject_raw": "Civil Disobedience",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.37424144776545387,
+      "created_at": "2026-07-04T05:24:32.144522-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d327d486-ea06-48ad-9552-e38056fcbeca",
+      "memory": "The author of Prior Analytics is Aristotle.",
+      "hash": "7f268ffe5f6b516d6228e04df6f9011f",
+      "metadata": {
+        "ordinal": 1404,
+        "triple": {
+          "subject_id": "prior_analytics",
+          "predicate_norm": "be authored by",
+          "object_text": "Aristotle",
+          "confidence": 0.95,
+          "subject_raw": "Prior Analytics",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.37359248810104506,
+      "created_at": "2026-07-04T05:24:34.701700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c91f89d9-adcb-4084-8574-3bae186a8d67",
+      "memory": "The author of Theaetetus is Plato.",
+      "hash": "878295beb320f6406b70927c1148ea14",
+      "metadata": {
+        "ordinal": 2927,
+        "triple": {
+          "subject_id": "theaetetus",
+          "predicate_norm": "has author",
+          "object_text": "Plato",
+          "confidence": 0.95,
+          "subject_raw": "Theaetetus",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.373485785611047,
+      "created_at": "2026-07-04T05:25:10.247755-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fc0107a5-277b-4153-ac7e-f541c7989958",
+      "memory": "The author of Gesta Danorum is Saxo Grammaticus",
+      "hash": "028ea3ea2bcdccb83222954c1f2393d3",
+      "metadata": {
+        "ordinal": 290,
+        "triple": {
+          "subject_id": "gesta_danorum",
+          "predicate_norm": "has author",
+          "object_text": "Saxo Grammaticus",
+          "confidence": 0.95,
+          "subject_raw": "Gesta Danorum",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3715679795290853,
+      "created_at": "2026-07-04T05:24:09.214190-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f1f8ff07-8a84-43cc-afb4-03a6dc7caf87",
+      "memory": "The author of Much Ado About Nothing is William Shakespeare.",
+      "hash": "49a39a05c30961b482d4e87dde1e79c4",
+      "metadata": {
+        "ordinal": 1577,
+        "triple": {
+          "subject_id": "much_ado_about_nothing",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Much Ado About Nothing",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.36922921361532407,
+      "created_at": "2026-07-04T05:24:38.988061-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c649787c-aafc-411c-9b57-c016667d4c77",
+      "memory": "The author of Rights of Man is Ferdowsi.",
+      "hash": "f49c5167d3002f92b8926ca8abb68133",
+      "metadata": {
+        "ordinal": 2089,
+        "triple": {
+          "subject_id": "rights_of_man",
+          "predicate_norm": "be authored by",
+          "object_text": "Ferdowsi",
+          "confidence": 0.95,
+          "subject_raw": "Rights of Man",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.36793875152418265,
+      "created_at": "2026-07-04T05:24:50.492284-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "fd1a3a61-09cc-4813-aa03-c8dd9e9717ab",
+      "memory": "The author of Zeno's paradoxes is Zeno of Elea.",
+      "hash": "69763ae31f28e88f96576ef6b9def54d",
+      "metadata": {
+        "ordinal": 1374,
+        "triple": {
+          "subject_id": "zeno_of_elea",
+          "predicate_norm": "be author",
+          "object_text": "Zeno's paradoxes",
+          "confidence": 0.95,
+          "subject_raw": "Zeno of Elea",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.36651134612139546,
+      "created_at": "2026-07-04T05:24:33.922669-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "28352bcb-4cb1-4aa8-a052-e88b2d11f7a3",
+      "memory": "The author of Antony and Cleopatra is Terrance Dicks.",
+      "hash": "d416d547c318f0bcac74ceda78eb15be",
+      "metadata": {
+        "ordinal": 3185,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.36627229764280783,
+      "created_at": "2026-07-04T05:25:16.851462-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "98a7f2a3-5ecd-4fcd-bf54-c9c8d43d0e3a",
+      "memory": "The author of The Comedy of Errors is William Shakespeare.",
+      "hash": "201c5cf434fb54b49242c8c64a794828",
+      "metadata": {
+        "ordinal": 491,
+        "triple": {
+          "subject_id": "the_comedy_of_errors",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "The Comedy of Errors",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.3655522145372635,
+      "created_at": "2026-07-04T05:24:14.192639-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "5ed76013-7c53-4b28-a8c0-ec52595d2620",
+      "memory": "The author of Rerum Novarum is Leo XIII.",
+      "hash": "49750d4a16938ef9c77d22e25053198a",
+      "metadata": {
+        "ordinal": 567,
+        "triple": {
+          "subject_id": "rerum_novarum",
+          "predicate_norm": "has author",
+          "object_text": "Leo XIII",
+          "confidence": 0.95,
+          "subject_raw": "Rerum Novarum",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.36480677003040746,
+      "created_at": "2026-07-04T05:24:15.782636-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "78fe87f8-35da-4b87-a8c2-9b2386ee4eff",
+      "memory": "The author of Persian Letters is Montesquieu.",
+      "hash": "bdbd3d0f56b7d10991bf224f1e6eeae2",
+      "metadata": {
+        "ordinal": 2856,
+        "triple": {
+          "subject_id": "persian_letters",
+          "predicate_norm": "has author",
+          "object_text": "Montesquieu",
+          "confidence": 0.95,
+          "subject_raw": "Persian Letters",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.36476435877759916,
+      "created_at": "2026-07-04T05:25:08.835739-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a601854d-763f-4bd5-9c8e-e8a7dad5d2c9",
+      "memory": "The author of Heroides is Ovid.",
+      "hash": "82e8d63a307dad3b44248dd9411dad3f",
+      "metadata": {
+        "ordinal": 981,
+        "triple": {
+          "subject_id": "heroides",
+          "predicate_norm": "be written by",
+          "object_text": "Ovid",
+          "confidence": 0.95,
+          "subject_raw": "Heroides",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.36037271981787783,
+      "created_at": "2026-07-04T05:24:25.328401-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d5330a71-1070-44a5-a397-208678d6cba6",
+      "memory": "The author of Sidereus Nuncius is Galileo Galilei.",
+      "hash": "e7342672faeb3b0cd9f7900b7867a728",
+      "metadata": {
+        "ordinal": 504,
+        "triple": {
+          "subject_id": "sidereus_nuncius",
+          "predicate_norm": "be authored by",
+          "object_text": "Galileo Galilei",
+          "confidence": 0.95,
+          "subject_raw": "Sidereus Nuncius",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.35957071798533036,
+      "created_at": "2026-07-04T05:24:14.208062-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cca71e42-afb5-423b-a0aa-3f188795cedb",
+      "memory": "The author of Antony and Cleopatra is William Shakespeare.",
+      "hash": "888414fbdedd9595068bb68e282f5664",
+      "metadata": {
+        "ordinal": 969,
+        "triple": {
+          "subject_id": "antony_and_cleopatra",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Antony and Cleopatra",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3595288239966631,
+      "created_at": "2026-07-04T05:24:24.347937-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b655883a-92f4-467b-84a1-0cb8df25b3c9",
+      "memory": "The author of She Stoops to Conquer is Oliver Goldsmith.",
+      "hash": "77ad30c9cd7a42f27f4b30a2fb712974",
+      "metadata": {
+        "ordinal": 1442,
+        "triple": {
+          "subject_id": "she_stoops_to_conquer",
+          "predicate_norm": "has author",
+          "object_text": "Oliver Goldsmith",
+          "confidence": 0.95,
+          "subject_raw": "She Stoops to Conquer",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3590098381864191,
+      "created_at": "2026-07-04T05:24:35.438663-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bffb301b-30b1-49ec-86fc-78bdee388d17",
+      "memory": "Montesquieu is famous for The Spirit of the Laws.",
+      "hash": "963f6f4882be29e157769ad015e8400b",
+      "metadata": {
+        "ordinal": 799,
+        "triple": {
+          "subject_id": "montesquieu",
+          "predicate_norm": "be famous for",
+          "object_text": "The Spirit of the Laws",
+          "confidence": 0.95,
+          "subject_raw": "Montesquieu",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.3578090873984667,
+      "created_at": "2026-07-04T05:24:20.581727-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "0739d5cd-af36-4140-a23e-b45538da5b6b",
+      "memory": "The author of Julius Caesar is William Shakespeare.",
+      "hash": "756be1e4e93a2b790795bacb7898dbdf",
+      "metadata": {
+        "ordinal": 639,
+        "triple": {
+          "subject_id": "julius_caesar",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Julius Caesar",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3578024179734613,
+      "created_at": "2026-07-04T05:24:17.371013-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9a0ecbbf-6fe3-4ffb-b760-555efed40149",
+      "memory": "The author of The Rape of Lucrece is William Shakespeare.",
+      "hash": "23b7366f643d67f39a11b928883183d9",
+      "metadata": {
+        "ordinal": 908,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "be author",
+          "object_text": "The Rape of Lucrece",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.3492970604006893,
+      "created_at": "2026-07-04T05:24:23.344435-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "64ad7e62-143d-43e2-96c8-7ab0a3142911",
+      "memory": "The author of Nicholas Nickleby is Elizabeth Barrett Browning.",
+      "hash": "2aea83d800cdc05466d12814d31cbc84",
+      "metadata": {
+        "ordinal": 1886,
+        "triple": {
+          "subject_id": "nicholas_nickleby",
+          "predicate_norm": "has author",
+          "object_text": "Elizabeth Barrett Browning",
+          "confidence": 0.95,
+          "subject_raw": "Nicholas Nickleby",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3469539186846401,
+      "created_at": "2026-07-04T05:24:45.674119-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cdf18a04-03aa-4153-8fc8-b39ef9cecfa4",
+      "memory": "The author of Manfred is Lord Byron.",
+      "hash": "87a4fab36f163d1dbd15ec029e640e48",
+      "metadata": {
+        "ordinal": 1609,
+        "triple": {
+          "subject_id": "manfred",
+          "predicate_norm": "has author",
+          "object_text": "Lord Byron",
+          "confidence": 0.95,
+          "subject_raw": "Manfred",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.34655607122386856,
+      "created_at": "2026-07-04T05:24:39.856098-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c4f5d7b0-9ffd-4ad3-89f0-6c2e61e2a217",
+      "memory": "The author of Pedagogy of the Oppressed is Charles Dickens.",
+      "hash": "0e5c4cfe43c6ae8f25d43e81ceaf92d7",
+      "metadata": {
+        "ordinal": 2794,
+        "triple": {
+          "subject_id": "pedagogy_of_the_oppressed",
+          "predicate_norm": "be authored by",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "Pedagogy of the Oppressed",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.34525232517311305,
+      "created_at": "2026-07-04T05:25:07.915603-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "09c2c063-5548-4ac5-86aa-65f82edd7552",
+      "memory": "The author of The Republic is Jean Genet.",
+      "hash": "8011e7d0982c4cd73a6383f13e077a87",
+      "metadata": {
+        "ordinal": 2102,
+        "triple": {
+          "subject_id": "the_republic",
+          "predicate_norm": "be authored by",
+          "object_text": "Jean Genet",
+          "confidence": 0.95,
+          "subject_raw": "The Republic",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3450442536636723,
+      "created_at": "2026-07-04T05:24:51.337281-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f8a5c735-7ae0-41e5-9df0-5ca50f8b76e2",
+      "memory": "John Bunyan is famous for The Star-Spangled Banner.",
+      "hash": "67768c5bc903125b6536e06d08707ffc",
+      "metadata": {
+        "ordinal": 3799,
+        "triple": null,
+        "subject_fallback": "john_bunyan"
+      },
+      "score": 0.34278089693218206,
+      "created_at": "2026-07-04T05:25:31.341444-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e30ee0b5-de37-427a-b946-1064db870a51",
+      "memory": "The author of Analects is Confucius.",
+      "hash": "bc38b12ea8fe6e1daaf15c69520efdf9",
+      "metadata": {
+        "ordinal": 2440,
+        "triple": {
+          "subject_id": "analects",
+          "predicate_norm": "has author",
+          "object_text": "Confucius",
+          "confidence": 0.95,
+          "subject_raw": "Analects",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.34183790159770894,
+      "created_at": "2026-07-04T05:24:59.118478-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "41e0a4e4-898e-4a0e-8a9c-b2af0577e263",
+      "memory": "The author of The Subjection of Women is John Stuart Mill.",
+      "hash": "a859951090e557ede00e4d364c3040bd",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "the_subjection_of_women",
+          "predicate_norm": "be authored by",
+          "object_text": "John Stuart Mill",
+          "confidence": 0.95,
+          "subject_raw": "The Subjection of Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3396128888659822,
+      "created_at": "2026-07-04T05:24:04.585036-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c85333d-4dd8-4de8-bcc8-5f0e530acdba",
+      "memory": "The author of The Castle of Otranto is Horace Walpole.",
+      "hash": "840c05e42b68d747a7419db69078c17e",
+      "metadata": {
+        "ordinal": 2309,
+        "triple": {
+          "subject_id": "the_castle_of_otranto",
+          "predicate_norm": "has author",
+          "object_text": "Horace Walpole",
+          "confidence": 0.95,
+          "subject_raw": "The Castle of Otranto",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3388430206556192,
+      "created_at": "2026-07-04T05:24:56.355319-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "bc127ee5-38be-4f3d-b89c-b055da9a5ad9",
+      "memory": "The author of Theaetetus is Ursula K. Le Guin.",
+      "hash": "3bc15da8e7b4bd88d369d446433c62ab",
+      "metadata": {
+        "ordinal": 3351,
+        "triple": {
+          "subject_id": "theaetetus",
+          "predicate_norm": "has author",
+          "object_text": "Ursula K. Le Guin",
+          "confidence": 0.95,
+          "subject_raw": "Theaetetus",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3385529994117777,
+      "created_at": "2026-07-04T05:25:20.768023-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "91587d76-2ecd-4b5b-a832-a780936f6a70",
+      "memory": "John Bunyan is famous for The Pilgrim's Progress",
+      "hash": "5f300660cb17c59a1c3964047940c41d",
+      "metadata": {
+        "ordinal": 2157,
+        "triple": {
+          "subject_id": "john_bunyan",
+          "predicate_norm": "be famous for",
+          "object_text": "The Pilgrim's Progress",
+          "confidence": 0.95,
+          "subject_raw": "John Bunyan",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.33455333923075004,
+      "created_at": "2026-07-04T05:24:52.318256-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "369e8d98-3e59-4ef9-a11a-e7d32b0b3749",
+      "memory": "The author of This Side of Paradise is Geoffrey Chaucer.",
+      "hash": "b7b83f5816f413bd800cc484d30b24bb",
+      "metadata": {
+        "ordinal": 2576,
+        "triple": {
+          "subject_id": "this_side_of_paradise",
+          "predicate_norm": "be authored by",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "This Side of Paradise",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3344469711174279,
+      "created_at": "2026-07-04T05:25:02.357696-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "6dca8eb2-34dc-4c5e-9341-5c1b2e17c45d",
+      "memory": "The author of Gulliver's Travels is Jonathan Swift.",
+      "hash": "c87be7d6a9793e25cee1a79a3a3c5365",
+      "metadata": {
+        "ordinal": 3098,
+        "triple": {
+          "subject_id": "gulliver's_travels",
+          "predicate_norm": "has author",
+          "object_text": "Jonathan Swift",
+          "confidence": 0.9,
+          "subject_raw": "Gulliver's Travels",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3342547420021698,
+      "created_at": "2026-07-04T05:25:14.749103-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "eb30d1a0-55b1-492e-b5e3-29b4f808821c",
+      "memory": "A Rake's Progress was created by William Hogarth.",
+      "hash": "eb92718048fe3b9a5bbb552b3c039fa5",
+      "metadata": {
+        "ordinal": 1899,
+        "triple": {
+          "subject_id": "a_rake's_progress",
+          "predicate_norm": "be created by",
+          "object_text": "William Hogarth",
+          "confidence": 0.95,
+          "subject_raw": "A Rake's Progress",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.3333990683178427,
+      "created_at": "2026-07-04T05:24:46.437227-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "eabe14eb-ec87-4514-8c47-3497c98f3e9e",
+      "memory": "The author of The Trojan Women is Euripides.",
+      "hash": "abf767fbf771a2398117acc206f7c8c8",
+      "metadata": {
+        "ordinal": 2528,
+        "triple": {
+          "subject_id": "the_trojan_women",
+          "predicate_norm": "be authored by",
+          "object_text": "Euripides",
+          "confidence": 0.95,
+          "subject_raw": "The Trojan Women",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.332317948887051,
+      "created_at": "2026-07-04T05:25:01.553784-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e8a9b96c-0af0-4df6-b0a6-367c885a87be",
+      "memory": "The author of The Lorax is Hugo Grotius.",
+      "hash": "8a96175dd544dc5fcf4f4083fed7be24",
+      "metadata": {
+        "ordinal": 2741,
+        "triple": {
+          "subject_id": "the_lorax",
+          "predicate_norm": "has author",
+          "object_text": "Hugo Grotius",
+          "confidence": 0.95,
+          "subject_raw": "The Lorax",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.33126429645373223,
+      "created_at": "2026-07-04T05:25:06.537840-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2679abfe-a3e0-439c-8ce1-739c1d27a626",
+      "memory": "The author of Romeo and Juliet is William Shakespeare.",
+      "hash": "71b050e284f5682bb4d7f6e3f67a2136",
+      "metadata": {
+        "ordinal": 1287,
+        "triple": {
+          "subject_id": "romeo_and_juliet",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Romeo and Juliet",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.33018685240983864,
+      "created_at": "2026-07-04T05:24:31.438439-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "da6bfdbb-e3ff-47a3-a46d-60dd14bdddcc",
+      "memory": "The author of Troilus and Criseyde is Geoffrey Chaucer.",
+      "hash": "b0b83c3376fe0326da8d5e537bec4e32",
+      "metadata": {
+        "ordinal": 1504,
+        "triple": {
+          "subject_id": "geoffrey_chaucer",
+          "predicate_norm": "be author",
+          "object_text": "Troilus and Criseyde",
+          "confidence": 0.95,
+          "subject_raw": "Geoffrey Chaucer",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.33012007073089794,
+      "created_at": "2026-07-04T05:24:37.175204-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3d747f9d-f0f8-4bc4-9869-48bb92de44aa",
+      "memory": "Caliban was created by William Shakespeare.",
+      "hash": "cc05d2c2aa84ff2ec4f0a8b9206884f9",
+      "metadata": {
+        "ordinal": 3936,
+        "triple": {
+          "subject_id": "caliban",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Caliban",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.32849643380599164,
+      "created_at": "2026-07-04T05:25:34.198699-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c97a2028-924b-405c-a9f3-6089cc8f6f74",
+      "memory": "The author of All the Year Round is Alfred, Lord Tennyson.",
+      "hash": "30e24c9eea053ec326bd22e478632f01",
+      "metadata": {
+        "ordinal": 3791,
+        "triple": {
+          "subject_id": "all_the_year_round",
+          "predicate_norm": "has author",
+          "object_text": "Alfred, Lord Tennyson",
+          "confidence": 0.95,
+          "subject_raw": "All the Year Round",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.32746933481836726,
+      "created_at": "2026-07-04T05:25:30.605615-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "67491150-5480-4507-8dcf-01c702d7b3df",
+      "memory": "The author of The Rape of Lucrece is Booker T. Washington.",
+      "hash": "16ac08285e102b5ec9721023a12429c6",
+      "metadata": {
+        "ordinal": 4084,
+        "triple": {
+          "subject_id": "the_rape_of_lucrece",
+          "predicate_norm": "has author",
+          "object_text": "Booker T. Washington",
+          "confidence": 0.85,
+          "subject_raw": "The Rape of Lucrece",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.32513751750668146,
+      "created_at": "2026-07-04T05:25:37.761847-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f31328ce-703e-4740-b504-3dcbb06cc80e",
+      "memory": "Montesquieu is famous for Battle of Raszyn.",
+      "hash": "189841a5a1b46d610e3fe06572849eac",
+      "metadata": {
+        "ordinal": 3890,
+        "triple": {
+          "subject_id": "montesquieu",
+          "predicate_norm": "be famous for",
+          "object_text": "Battle of Raszyn",
+          "confidence": 0.95,
+          "subject_raw": "Montesquieu",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.32496233615132186,
+      "created_at": "2026-07-04T05:25:32.779305-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f5000272-e05f-4f4b-954e-b19ee5057aa7",
+      "memory": "The author of The Canterbury Tales is Mark Haddon.",
+      "hash": "0ec6ddfac4eeddfa827d607471ede427",
+      "metadata": {
+        "ordinal": 4221,
+        "triple": {
+          "subject_id": "the_canterbury_tales",
+          "predicate_norm": "has author",
+          "object_text": "Mark Haddon",
+          "confidence": 0.9,
+          "subject_raw": "The Canterbury Tales",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3227157442401806,
+      "created_at": "2026-07-04T05:25:41.393830-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "571c37e3-f431-4aa0-b493-d8097956b5af",
+      "memory": "Paradise Lost was written in the language of English.",
+      "hash": "cf58f4b8cc04fec6ce35e21a3dbe1fb5",
+      "metadata": {
+        "ordinal": 2422,
+        "triple": {
+          "subject_id": "paradise_lost",
+          "predicate_norm": "be written in language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "Paradise Lost",
+          "predicate_raw": "was written in the language"
+        }
+      },
+      "score": 0.321608289888251,
+      "created_at": "2026-07-04T05:24:59.090216-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a558fadb-d4c1-45c6-8b8f-1eda746272bd",
+      "memory": "The author of Ode to a Nightingale is John Keats.",
+      "hash": "a060bb6bcfc5d7089d5c6fe316dc669b",
+      "metadata": {
+        "ordinal": 4087,
+        "triple": {
+          "subject_id": "ode_to_a_nightingale",
+          "predicate_norm": "has author",
+          "object_text": "John Keats",
+          "confidence": 0.95,
+          "subject_raw": "Ode to a Nightingale",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.32095018112593054,
+      "created_at": "2026-07-04T05:25:37.765563-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "993dcba5-da49-46d9-95e6-25d38f91e94a",
+      "memory": "Ovid works in the field of poet.",
+      "hash": "7c80416eef2b3c4afb698fd5bddbfdc9",
+      "metadata": {
+        "ordinal": 632,
+        "triple": {
+          "subject_id": "ovid",
+          "predicate_norm": "works in field",
+          "object_text": "poet",
+          "confidence": 0.95,
+          "subject_raw": "Ovid",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.3204693172369128,
+      "created_at": "2026-07-04T05:24:16.638398-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ccba5b61-d91c-4d0b-8eb7-5db4f16051e2",
+      "memory": "The author of Richard II is William Shakespeare.",
+      "hash": "b21e0291494b63ee8163325e804f9cc2",
+      "metadata": {
+        "ordinal": 3677,
+        "triple": {
+          "subject_id": "richard_ii",
+          "predicate_norm": "has author",
+          "object_text": "William Shakespeare",
+          "confidence": 0.95,
+          "subject_raw": "Richard II",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3204291612852064,
+      "created_at": "2026-07-04T05:25:28.128944-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8fafe504-0026-47a0-9bb7-7facfbac1e0c",
+      "memory": "The Divine Comedy was created by Dante Alighieri.",
+      "hash": "cf075f651a8dd48d3fc1728f74ee90d7",
+      "metadata": {
+        "ordinal": 4046,
+        "triple": {
+          "subject_id": "the_divine_comedy",
+          "predicate_norm": "be created by",
+          "object_text": "Dante Alighieri",
+          "confidence": 0.95,
+          "subject_raw": "The Divine Comedy",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.31960341358493805,
+      "created_at": "2026-07-04T05:25:36.952068-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "60362f63-5715-4125-996d-e5856a5125a7",
+      "memory": "The author of The Comedy of Errors is Brian O'Nolan.",
+      "hash": "44520f55bf509b19b11528203b60591a",
+      "metadata": {
+        "ordinal": 1338,
+        "triple": {
+          "subject_id": "the_comedy_of_errors",
+          "predicate_norm": "be authored by",
+          "object_text": "Brian O'Nolan",
+          "confidence": 0.95,
+          "subject_raw": "The Comedy of Errors",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31900681896484934,
+      "created_at": "2026-07-04T05:24:33.025616-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "a7d5cb0e-8e51-44ba-8b3a-9c14624a1c6d",
+      "memory": "The author of Arms and the Man is George Bernard Shaw.",
+      "hash": "39467e5717c1673abc02403672335a75",
+      "metadata": {
+        "ordinal": 2902,
+        "triple": {
+          "subject_id": "arms_and_the_man",
+          "predicate_norm": "has author",
+          "object_text": "George Bernard Shaw",
+          "confidence": 0.95,
+          "subject_raw": "Arms and the Man",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3186336727993344,
+      "created_at": "2026-07-04T05:25:10.214063-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "cc342895-856b-4f1b-9f8a-85f68095cc7a",
+      "memory": "Geoffrey Chaucer is famous for The Canterbury Tales.",
+      "hash": "4d869092a871ff0d01dfcf37eac9ed1e",
+      "metadata": {
+        "ordinal": 1946,
+        "triple": {
+          "subject_id": "geoffrey_chaucer",
+          "predicate_norm": "be famous for",
+          "object_text": "The Canterbury Tales",
+          "confidence": 0.95,
+          "subject_raw": "Geoffrey Chaucer",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.3182133723278716,
+      "created_at": "2026-07-04T05:24:47.279195-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "3c57189a-5c89-4268-a5b6-8e75008bf170",
+      "memory": "The author of 1984 is George Orwell.",
+      "hash": "681c2a2e2f95ab103561059ca4574cfd",
+      "metadata": {
+        "ordinal": 2013,
+        "triple": {
+          "subject_id": "1984",
+          "predicate_norm": "has author",
+          "object_text": "George Orwell",
+          "confidence": 0.95,
+          "subject_raw": "1984",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3181917523699284,
+      "created_at": "2026-07-04T05:24:48.782293-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "dddc3034-da68-4c16-a58c-ecde589490bc",
+      "memory": "The author of A Wizard of Earthsea is Pius XII.",
+      "hash": "e44b8a30c89ed4abfd3054005fac013f",
+      "metadata": {
+        "ordinal": 3806,
+        "triple": {
+          "subject_id": "a_wizard_of_earthsea",
+          "predicate_norm": "has author",
+          "object_text": "Pius XII",
+          "confidence": 0.95,
+          "subject_raw": "A Wizard of Earthsea",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.31786242708998436,
+      "created_at": "2026-07-04T05:25:31.349136-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "d3dac4af-32db-422c-a4dc-abedc451097c",
+      "memory": "The author of Endymion is John Keats.",
+      "hash": "f13ba8da2e590e9f282057b436f3b17e",
+      "metadata": {
+        "ordinal": 1815,
+        "triple": {
+          "subject_id": "endymion",
+          "predicate_norm": "has author",
+          "object_text": "John Keats",
+          "confidence": 0.95,
+          "subject_raw": "Endymion",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.31752843138683284,
+      "created_at": "2026-07-04T05:24:44.023786-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8a82284c-2b66-4034-8d41-da935bf5a91a",
+      "memory": "The author of The Second Coming is William Butler Yeats.",
+      "hash": "4b66e302e4ba8e90ee3ae26f49ee272d",
+      "metadata": {
+        "ordinal": 2100,
+        "triple": {
+          "subject_id": "the_second_coming",
+          "predicate_norm": "be authored by",
+          "object_text": "William Butler Yeats",
+          "confidence": 0.95,
+          "subject_raw": "The Second Coming",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31749875342455997,
+      "created_at": "2026-07-04T05:24:51.334935-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "907a07c3-4530-42cb-b2cb-b0ef01b82e09",
+      "memory": "Friedrich Nietzsche is famous for Thus Spoke Zarathustra.",
+      "hash": "f013a209921f1f6a1ccf8d17f1dd8646",
+      "metadata": {
+        "ordinal": 1316,
+        "triple": {
+          "subject_id": "friedrich_nietzsche",
+          "predicate_norm": "be famous for",
+          "object_text": "Thus Spoke Zarathustra",
+          "confidence": 0.95,
+          "subject_raw": "Friedrich Nietzsche",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.31716305098869607,
+      "created_at": "2026-07-04T05:24:32.167827-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "4bc7dc28-3ac6-4403-aebd-c34f4b43becf",
+      "memory": "The author of Our Town is Thornton Wilder.",
+      "hash": "0270926c483f6659c41a9e1790907ba9",
+      "metadata": {
+        "ordinal": 910,
+        "triple": {
+          "subject_id": "thornton_wilder",
+          "predicate_norm": "be author",
+          "object_text": "Our Town",
+          "confidence": 0.95,
+          "subject_raw": "Thornton Wilder",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.3170210786265265,
+      "created_at": "2026-07-04T05:24:23.346834-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e5226d16-8c04-4c19-9a88-8bfd1ebdf71a",
+      "memory": "William Waynflete speaks the language of English.",
+      "hash": "16f3d77c0d0e41b756feb7df5d2bbc5c",
+      "metadata": {
+        "ordinal": 599,
+        "triple": {
+          "subject_id": "william_waynflete",
+          "predicate_norm": "speaks language",
+          "object_text": "English",
+          "confidence": 0.95,
+          "subject_raw": "William Waynflete",
+          "predicate_raw": "speaks the language of"
+        }
+      },
+      "score": 0.31686549363505484,
+      "created_at": "2026-07-04T05:24:15.836012-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "df900216-e981-463f-8a70-45284971dd62",
+      "memory": "The author of Categories is Aristotle.",
+      "hash": "7914adae64698717461cc54f0eea2d13",
+      "metadata": {
+        "ordinal": 777,
+        "triple": {
+          "subject_id": "categories",
+          "predicate_norm": "be authored by",
+          "object_text": "Aristotle",
+          "confidence": 0.95,
+          "subject_raw": "Categories",
+          "predicate_raw": "is authored by"
+        }
+      },
+      "score": 0.3163412575034052,
+      "created_at": "2026-07-04T05:24:19.700408-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "803b5b00-cb81-4e30-9ec6-dfa2324b4b9d",
+      "memory": "The author of The Vicar of Wakefield is Oliver Goldsmith.",
+      "hash": "d960397be8b995121633c1f4317f4476",
+      "metadata": {
+        "ordinal": 717,
+        "triple": {
+          "subject_id": "the_vicar_of_wakefield",
+          "predicate_norm": "has author",
+          "object_text": "Oliver Goldsmith",
+          "confidence": 0.95,
+          "subject_raw": "The Vicar of Wakefield",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3158244610862292,
+      "created_at": "2026-07-04T05:24:18.915621-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "9374ee80-314e-4e2b-b85f-41c6374d793c",
+      "memory": "The author of Lorentz ether theory is William Shakespeare.",
+      "hash": "69662a3f7793748e9adbc2e04b49c66d",
+      "metadata": {
+        "ordinal": 2366,
+        "triple": {
+          "subject_id": "lorentz_ether_theory",
+          "predicate_norm": "be authored by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.85,
+          "subject_raw": "Lorentz ether theory",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31536300257125555,
+      "created_at": "2026-07-04T05:24:57.291823-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "f7fc6faa-7940-47fc-9748-8a57abb6f23a",
+      "memory": "The author of Clarissa is Samuel Richardson.",
+      "hash": "48f101edb2d9c98f443cccfed97a16df",
+      "metadata": {
+        "ordinal": 1453,
+        "triple": {
+          "subject_id": "clarissa",
+          "predicate_norm": "has author",
+          "object_text": "Samuel Richardson",
+          "confidence": 0.95,
+          "subject_raw": "Clarissa",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.31407259412788463,
+      "created_at": "2026-07-04T05:24:35.451169-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "74bf02cf-65de-4817-9b38-d76af6217092",
+      "memory": "The author of The Knight's Tale is Geoffrey Chaucer.",
+      "hash": "b175ec09d42d4f6a47fe069252d679dd",
+      "metadata": {
+        "ordinal": 2393,
+        "triple": {
+          "subject_id": "the_knight's_tale",
+          "predicate_norm": "be authored by",
+          "object_text": "Geoffrey Chaucer",
+          "confidence": 0.95,
+          "subject_raw": "The Knight's Tale",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.31223720854139264,
+      "created_at": "2026-07-04T05:24:58.255178-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "41e0c454-3156-4c6e-93fd-9d54cbe8e283",
+      "memory": "The author of 1984 is Constantine VII.",
+      "hash": "7f1fa7226e75853e116431094f80b455",
+      "metadata": {
+        "ordinal": 3106,
+        "triple": {
+          "subject_id": "1984",
+          "predicate_norm": "has author",
+          "object_text": "Constantine VII",
+          "confidence": 0.95,
+          "subject_raw": "1984",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.31195717669296746,
+      "created_at": "2026-07-04T05:25:15.325216-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "27fac989-0096-4c58-8247-82a34855e9af",
+      "memory": "William Waynflete speaks the language of Latin.",
+      "hash": "6a6ab4d174e33c82a47e8f51f27ed579",
+      "metadata": {
+        "ordinal": 2381,
+        "triple": {
+          "subject_id": "william_waynflete",
+          "predicate_norm": "speaks",
+          "object_text": "the language of Latin",
+          "confidence": 0.95,
+          "subject_raw": "William Waynflete",
+          "predicate_raw": "speaks"
+        }
+      },
+      "score": 0.3117354973389414,
+      "created_at": "2026-07-04T05:24:58.237935-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "c4a37df7-6233-486d-b148-e33e3f94a3cc",
+      "memory": "The author of Beyond Good and Evil is Friedrich Nietzsche.",
+      "hash": "3f9175d30fc2a7905946e0b813aef66a",
+      "metadata": {
+        "ordinal": 230,
+        "triple": {
+          "subject_id": "friedrich_nietzsche",
+          "predicate_norm": "be author",
+          "object_text": "Beyond Good and Evil",
+          "confidence": 0.95,
+          "subject_raw": "Friedrich Nietzsche",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.311535298480075,
+      "created_at": "2026-07-04T05:24:08.286017-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "526d47e4-1d59-4c0f-8a0b-80fd2094c75d",
+      "memory": "The author of Jude the Obscure is Charles Perrault.",
+      "hash": "0f368eba7b6123d7eccb4d2b44f1b43b",
+      "metadata": {
+        "ordinal": 1560,
+        "triple": {
+          "subject_id": "jude_the_obscure",
+          "predicate_norm": "be authored by",
+          "object_text": "Charles Perrault",
+          "confidence": 0.95,
+          "subject_raw": "Jude the Obscure",
+          "predicate_raw": "was authored by"
+        }
+      },
+      "score": 0.3109124896579309,
+      "created_at": "2026-07-04T05:24:38.047209-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "65b7f32f-6729-4a7c-9b05-42986bd76e84",
+      "memory": "The author of The Antichrist is Friedrich Nietzsche.",
+      "hash": "e7402a48156da1f660d84d75b0913c45",
+      "metadata": {
+        "ordinal": 1123,
+        "triple": {
+          "subject_id": "the_antichrist",
+          "predicate_norm": "has author",
+          "object_text": "Friedrich Nietzsche",
+          "confidence": 0.95,
+          "subject_raw": "The Antichrist",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3105314005630987,
+      "created_at": "2026-07-04T05:24:28.196820-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "226efe3e-0dfe-449b-8aec-7ede9680d8dc",
+      "memory": "The author of Beyond Good and Evil is Samuel Taylor Coleridge.",
+      "hash": "92c4caafcc4f965bfc3a8ed35a3cad8d",
+      "metadata": {
+        "ordinal": 1839,
+        "triple": {
+          "subject_id": "samuel_taylor_coleridge",
+          "predicate_norm": "be author",
+          "object_text": "Beyond Good and Evil",
+          "confidence": 0.95,
+          "subject_raw": "Samuel Taylor Coleridge",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.3101181381895552,
+      "created_at": "2026-07-04T05:24:44.736035-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "2c4e78e0-f4db-41c6-a451-6fc5ed6dacce",
+      "memory": "The Pilgrim's Progress was written in the language of English.",
+      "hash": "14bc10c7fae42551cad0cdc1210b4173",
+      "metadata": {
+        "ordinal": 2784,
+        "triple": {
+          "subject_id": "the_pilgrim's_progress",
+          "predicate_norm": "be written in",
+          "object_text": "the language of English",
+          "confidence": 0.95,
+          "subject_raw": "The Pilgrim's Progress",
+          "predicate_raw": "was written in"
+        }
+      },
+      "score": 0.3095753307914531,
+      "created_at": "2026-07-04T05:25:07.352449-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "90e12f00-754c-4078-9645-4a741344d1b5",
+      "memory": "The author of Oroonoko is Aphra Behn.",
+      "hash": "5799bdec616d4e852adadcb2266cd326",
+      "metadata": {
+        "ordinal": 977,
+        "triple": {
+          "subject_id": "oroonoko",
+          "predicate_norm": "has author",
+          "object_text": "Aphra Behn",
+          "confidence": 0.95,
+          "subject_raw": "Oroonoko",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30660324431196484,
+      "created_at": "2026-07-04T05:24:24.359374-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "ba990d29-92c6-4f81-9379-d115814eacbd",
+      "memory": "The author of Clarissa is Winston Graham.",
+      "hash": "4c6a2175770da78295249f96e573080c",
+      "metadata": {
+        "ordinal": 3666,
+        "triple": {
+          "subject_id": "clarissa",
+          "predicate_norm": "has author",
+          "object_text": "Winston Graham",
+          "confidence": 0.95,
+          "subject_raw": "Clarissa",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.3065920536584331,
+      "created_at": "2026-07-04T05:25:28.112811-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "52d57bd5-f620-4a10-b85b-9dd96c6c0f2c",
+      "memory": "Malvolio was created by William Shakespeare.",
+      "hash": "9c8365fc24fe8a38ee6faf4453eb491c",
+      "metadata": {
+        "ordinal": 4226,
+        "triple": {
+          "subject_id": "malvolio",
+          "predicate_norm": "be created by",
+          "object_text": "William Shakespeare",
+          "confidence": 0.9,
+          "subject_raw": "Malvolio",
+          "predicate_raw": "was created by"
+        }
+      },
+      "score": 0.30644435913084833,
+      "created_at": "2026-07-04T05:25:41.402792-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "00613932-6e73-49fb-a4f9-e556fbb42af6",
+      "memory": "Edward Bellamy is famous for Gesta Hunnorum et Hungarorum.",
+      "hash": "223e1fa415c6ba1851c7676eeb108759",
+      "metadata": {
+        "ordinal": 1855,
+        "triple": {
+          "subject_id": "edward_bellamy",
+          "predicate_norm": "be famous for",
+          "object_text": "Gesta Hunnorum et Hungarorum",
+          "confidence": 0.95,
+          "subject_raw": "Edward Bellamy",
+          "predicate_raw": "is famous for"
+        }
+      },
+      "score": 0.30553921477118046,
+      "created_at": "2026-07-04T05:24:45.640143-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "50cd31d3-15f9-4b8a-b5bb-517c79e17334",
+      "memory": "The Canterbury Tales was created in the country of England.",
+      "hash": "bd191e4839b67a440fa3756a50884a27",
+      "metadata": {
+        "ordinal": 3496,
+        "triple": {
+          "subject_id": "the_canterbury_tales",
+          "predicate_norm": "be created in",
+          "object_text": "the country of England",
+          "confidence": 0.95,
+          "subject_raw": "The Canterbury Tales",
+          "predicate_raw": "was created in"
+        }
+      },
+      "score": 0.30547867464806683,
+      "created_at": "2026-07-04T05:25:23.917479-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "07a10f3b-88de-4f02-a771-f8ae24dd8211",
+      "memory": "The author of A Christmas Carol is Charles Dickens.",
+      "hash": "e8704c32c6d3b345fdf2456bafef6ce0",
+      "metadata": {
+        "ordinal": 1000,
+        "triple": {
+          "subject_id": "a_christmas_carol",
+          "predicate_norm": "be written by",
+          "object_text": "Charles Dickens",
+          "confidence": 0.95,
+          "subject_raw": "A Christmas Carol",
+          "predicate_raw": "was written by"
+        }
+      },
+      "score": 0.3054686117720286,
+      "created_at": "2026-07-04T05:24:25.354022-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "e28478b8-b54a-421c-b1b2-fb31f2a977f7",
+      "memory": "William Shakespeare works in the field of businessperson.",
+      "hash": "f457a8bd1f1c4d282f62c6f7c3f981ad",
+      "metadata": {
+        "ordinal": 4158,
+        "triple": {
+          "subject_id": "william_shakespeare",
+          "predicate_norm": "works in field",
+          "object_text": "businessperson",
+          "confidence": 0.95,
+          "subject_raw": "William Shakespeare",
+          "predicate_raw": "works in the field of"
+        }
+      },
+      "score": 0.3052782096291732,
+      "created_at": "2026-07-04T05:25:39.856877-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "8d77d350-fbfd-41c1-9d49-cef4a59155f0",
+      "memory": "The author of Modern Painters is John Ruskin.",
+      "hash": "321c4ce282a992c6ba3517b782fa8062",
+      "metadata": {
+        "ordinal": 4098,
+        "triple": {
+          "subject_id": "modern_painters",
+          "predicate_norm": "has author",
+          "object_text": "John Ruskin",
+          "confidence": 0.95,
+          "subject_raw": "Modern Painters",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.304385319509613,
+      "created_at": "2026-07-04T05:25:37.783700-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "32c7f0b1-b14d-4889-98d8-949251832f0c",
+      "memory": "The author of The Second Coming is Terrance Dicks.",
+      "hash": "479bc7f5994b5c29a04f5333f5e93865",
+      "metadata": {
+        "ordinal": 3914,
+        "triple": {
+          "subject_id": "the_second_coming",
+          "predicate_norm": "has author",
+          "object_text": "Terrance Dicks",
+          "confidence": 0.95,
+          "subject_raw": "The Second Coming",
+          "predicate_raw": "has author"
+        }
+      },
+      "score": 0.30409847375659915,
+      "created_at": "2026-07-04T05:25:33.354929-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    },
+    {
+      "id": "b2a5d260-b2f7-4ed2-83c1-6183687b688d",
+      "memory": "The author of Jude the Obscure is Thomas Hardy.",
+      "hash": "488bf9274d95b8196b754583d4937ea3",
+      "metadata": {
+        "ordinal": 422,
+        "triple": {
+          "subject_id": "thomas_hardy",
+          "predicate_norm": "be author",
+          "object_text": "Jude the Obscure",
+          "confidence": 0.95,
+          "subject_raw": "Thomas Hardy",
+          "predicate_raw": "is the author of"
+        }
+      },
+      "score": 0.30268722396235054,
+      "created_at": "2026-07-04T05:24:12.557390-07:00",
+      "updated_at": null,
+      "user_id": "context_0_factconsolidation_sh_64k"
+    }
+  ]
+}

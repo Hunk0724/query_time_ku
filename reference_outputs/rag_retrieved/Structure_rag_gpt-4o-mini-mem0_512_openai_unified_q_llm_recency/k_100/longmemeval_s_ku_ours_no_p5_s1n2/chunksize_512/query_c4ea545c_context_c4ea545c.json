@@ -1,0 +1,1832 @@
+{
+  "retrieved_memories": [
+    {
+      "id": "e85707ca-006c-4649-a29b-e49ee7377009",
+      "memory": "User goes to the gym on Tuesdays, Thursdays, and Saturdays.",
+      "hash": "0d780671942a076e5034dca3477d8f80",
+      "metadata": {
+        "ordinal": 90,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "goes to gym on",
+          "object_text": "Tuesdays, Thursdays, and Saturdays",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "goes to the gym on"
+        }
+      },
+      "score": 0.39824624951045956,
+      "created_at": "2026-07-06T08:48:26.873063-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "298fce6e-7581-4c80-bbd5-e48f575818fd",
+      "memory": "User has been consistent with their gym routine, going four times a week.",
+      "hash": "260c3d7017e61c727336ab3ca00ca8e7",
+      "metadata": {
+        "ordinal": 354,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be consistent with",
+          "object_text": "their gym routine, going four times a week",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been consistent with"
+        }
+      },
+      "score": 0.387435401558483,
+      "created_at": "2026-07-06T08:51:08.660305-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a3b6bdb2-a0e6-4d3b-80e5-9707ab7a46f1",
+      "memory": "User is trying to plan out their week ahead.",
+      "hash": "ed263a021daa8c022aa021e80c5e24ac",
+      "metadata": {
+        "ordinal": 352,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.34603120528794173,
+      "created_at": "2026-07-06T08:51:08.653466-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d1b8cd41-3285-4473-aa9f-95f66db5a13a",
+      "memory": "The user inquired about the different stages a man goes through and how he matures.",
+      "hash": "2867266e425f6537c3f2eafb4c256b51",
+      "metadata": {
+        "ordinal": 2,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "inquired about",
+          "object_text": "the different stages a man goes through and how he matures",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "inquired about"
+        }
+      },
+      "score": 0.31370045446226125,
+      "created_at": "2026-07-06T08:47:52.500761-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "aeac4f56-1e62-4c22-83c2-10e26f0dad9b",
+      "memory": "User is trying to plan out their week and stay on top of their tasks.",
+      "hash": "9094f332f9e300525f4eff5d51007ba4",
+      "metadata": {
+        "ordinal": 85,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.3077949733674525,
+      "created_at": "2026-07-06T08:48:26.851972-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "66fe4e76-a8b0-4621-b589-98a6803579a5",
+      "memory": "User needs to fit in workouts.",
+      "hash": "0b233561b3d4bddf903656bc87ed8344",
+      "metadata": {
+        "ordinal": 89,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "needs to fit in",
+          "object_text": "workouts",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "needs to fit in"
+        }
+      },
+      "score": 0.29428965604077617,
+      "created_at": "2026-07-06T08:48:26.870262-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "83de66a4-62e5-4c96-ab35-fa78c6e30d60",
+      "memory": "User needs help with keeping track of doctor's appointments and test results.",
+      "hash": "8a87981d476b41287aa2e5c0d1b3bcf5",
+      "metadata": {
+        "ordinal": 76,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "needs help with",
+          "object_text": "keeping track of doctor's appointments and test results",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "needs help with"
+        }
+      },
+      "score": 0.27912631155641526,
+      "created_at": "2026-07-06T08:48:12.344215-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b1b56b6f-9987-45fb-8de1-208388752e26",
+      "memory": "User attended a panel discussion on diversity and representation at the city convention center on 2023/08/27.",
+      "hash": "66a0bc2e8fb671f300828a55c3cb6350",
+      "metadata": {
+        "ordinal": 493,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "attended",
+          "object_text": "a panel discussion on diversity and representation at the city convention center on 2023/08/27",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.27814933355055826,
+      "created_at": "2026-07-06T08:52:24.073049-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b239430b-67d1-4ca5-a111-166b6a599f47",
+      "memory": "User is thinking of rewarding themselves with a post-workout smoothie on Saturday.",
+      "hash": "08850c1628de003bb2f5321c811495ff",
+      "metadata": {
+        "ordinal": 353,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking rewarding themselves with",
+          "object_text": "a post-workout smoothie on Saturday",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of rewarding themselves with"
+        }
+      },
+      "score": 0.2678177091409017,
+      "created_at": "2026-07-06T08:51:08.657298-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d3b4ec82-de33-49f7-a744-f3208331223c",
+      "memory": "User has a social commitment for dinner with Rachel this Friday.",
+      "hash": "a479542bad3293856956ac66effca24b",
+      "metadata": {
+        "ordinal": 87,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has social commitment for",
+          "object_text": "dinner with Rachel this Friday",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has a social commitment for"
+        }
+      },
+      "score": 0.26526221619206336,
+      "created_at": "2026-07-06T08:48:26.862264-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "93806a9f-2404-4da2-b4b1-58fbc9914779",
+      "memory": "User's instructor kept reminding them to focus on the moment and respond truthfully to their scene partners.",
+      "hash": "b6f1945f2bbb8206cca20779c23bc2a2",
+      "metadata": {
+        "ordinal": 426,
+        "triple": null,
+        "subject_fallback": "user's_instructor"
+      },
+      "score": 0.265191900686344,
+      "created_at": "2026-07-06T08:51:52.898356-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f1f65ca5-c7f2-4246-8daf-373fac4fb7a5",
+      "memory": "The user asked if the book discusses what a man needs in a partner.",
+      "hash": "e9769cba54543cc8e53831d070c4e988",
+      "metadata": {
+        "ordinal": 5,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "asked if",
+          "object_text": "the book discusses what a man needs in a partner",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked if"
+        }
+      },
+      "score": 0.25710965321185614,
+      "created_at": "2026-07-06T08:47:52.513490-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e4f4ec9f-8652-481c-9d3f-803a67dd8ece",
+      "memory": "User wants to make time for reading and meditation.",
+      "hash": "ff18cd564326fe1676df49a3f2eb37d7",
+      "metadata": {
+        "ordinal": 86,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.25634654051807465,
+      "created_at": "2026-07-06T08:48:26.858018-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2499f0ce-3c3e-4d8b-a412-c1b6b56ca402",
+      "memory": "The user requested additional takeaways from 'The Way of the Superior Man'.",
+      "hash": "b6bf51758e6e4cec085b38b0b3c47f22",
+      "metadata": {
+        "ordinal": 4,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "requested",
+          "object_text": "additional takeaways from 'The Way of the Superior Man'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "requested"
+        }
+      },
+      "score": 0.25542897036728507,
+      "created_at": "2026-07-06T08:47:52.509826-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cd997c61-91be-409e-8452-8f5c9aa171e4",
+      "memory": "User has been away for the last month of 2022 traveling around Europe.",
+      "hash": "95bb9ae95dc1238c8e9fbcdaff497c3c",
+      "metadata": {
+        "ordinal": 114,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2544626020368697,
+      "created_at": "2026-07-06T08:48:50.114560-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6f3cb295-f441-41e1-af94-97e2929d7505",
+      "memory": "User plans to set realistic goals and make meditation a part of their daily routine.",
+      "hash": "456a4f6ba4bc49958d9a9458dfb53158",
+      "metadata": {
+        "ordinal": 512,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to set",
+          "object_text": "realistic goals and make meditation a part of their daily routine",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "plans to set"
+        }
+      },
+      "score": 0.2512810996440846,
+      "created_at": "2026-07-06T08:52:28.094948-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a4694915-5891-4e70-bd79-93f021b7a85c",
+      "memory": "User needs help with managing their medication schedule.",
+      "hash": "657576b225923cc178356ae78b9f39c5",
+      "metadata": {
+        "ordinal": 74,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "needs help with",
+          "object_text": "managing their medication schedule",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "needs help with"
+        }
+      },
+      "score": 0.25023543864241726,
+      "created_at": "2026-07-06T08:48:12.333453-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "881e2c78-7227-49a7-900c-d4f307ecb375",
+      "memory": "User attended a 3-day theater workshop at the local community center last month.",
+      "hash": "906d8df6f8c7c74fb4d6cd79f25b4a46",
+      "metadata": {
+        "ordinal": 423,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "attended",
+          "object_text": "a 3-day theater workshop at the local community center last month",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.24918345671985806,
+      "created_at": "2026-07-06T08:51:52.885610-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f3b7b9ce-4853-44f5-9394-9898dccebd25",
+      "memory": "User meal planned and made a grocery list yesterday.",
+      "hash": "6e32a96377921c0cd1ac96743b7f0634",
+      "metadata": {
+        "ordinal": 164,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.24855335374776527,
+      "created_at": "2026-07-06T08:49:35.309186-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "74c5d031-efc8-42f3-b783-f06c71db021f",
+      "memory": "User is looking for new meal prep ideas.",
+      "hash": "62b95cae00a4754f788ac6d8234d2974",
+      "metadata": {
+        "ordinal": 346,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2471489183562725,
+      "created_at": "2026-07-06T08:51:02.524424-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "25eb15dc-0599-4f26-9260-55b0d6354941",
+      "memory": "The user asked for a summary of 'The Way of the Superior Man'.",
+      "hash": "f13bfc90409163f147b2d441e2698a7e",
+      "metadata": {
+        "ordinal": 1,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "asked for",
+          "object_text": "a summary of 'The Way of the Superior Man'",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked for"
+        }
+      },
+      "score": 0.24660878826592214,
+      "created_at": "2026-07-06T08:47:52.495383-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "268f1d3a-8ede-4af8-be08-240734f538d8",
+      "memory": "The user asked about the importance of a man developing a deep sense of purpose.",
+      "hash": "5d7bc253cfa0c519587d26fdd3b4b07c",
+      "metadata": {
+        "ordinal": 3,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "asked about",
+          "object_text": "the importance of a man developing a deep sense of purpose",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "asked about"
+        }
+      },
+      "score": 0.2465597136619413,
+      "created_at": "2026-07-06T08:47:52.505466-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6c82d761-78b3-414f-adbb-1cc9c66fe27e",
+      "memory": "User is planning a meal for next week using the chicken breasts they are buying this week.",
+      "hash": "b9ecddcbd7d4f9e0d23be16c7c49babe",
+      "metadata": {
+        "ordinal": 169,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning meal for",
+          "object_text": "next week using the chicken breasts they are buying this week",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is planning a meal for"
+        }
+      },
+      "score": 0.24277573880690395,
+      "created_at": "2026-07-06T08:49:35.321749-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b997e4d4-fde6-44f9-81ff-c1de509b8365",
+      "memory": "User attended the 'Ancient Civilizations' exhibit at the Met on January 15th.",
+      "hash": "5f519927d644fb21296e652715e41643",
+      "metadata": {
+        "ordinal": 466,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "attended",
+          "object_text": "'Ancient Civilizations' exhibit at the Met on January 15th",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "attended"
+        }
+      },
+      "score": 0.24036862129132722,
+      "created_at": "2026-07-06T08:52:01.825635-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "29deda49-c684-49ff-909b-d5c2b77b7360",
+      "memory": "User is thinking of sharing their medical records with their sister, who has been helping them out a lot lately.",
+      "hash": "2a4bedf0c419de0e759bb4d25b610ff0",
+      "metadata": {
+        "ordinal": 77,
+        "triple": null,
+        "subject_fallback": "user's_sister"
+      },
+      "score": 0.24019727989361417,
+      "created_at": "2026-07-06T08:48:12.348764-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5bed3b72-9cef-4d05-9d2b-bc7ad6ba7e16",
+      "memory": "User reorganized their art supply closet on June 27, 2023.",
+      "hash": "5aa41638fbd58f1496cf134ab45ad44e",
+      "metadata": {
+        "ordinal": 228,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "reorganized",
+          "object_text": "their art supply closet on June 27, 2023",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "reorganized"
+        }
+      },
+      "score": 0.2381307811960813,
+      "created_at": "2026-07-06T08:50:32.682809-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e7815545-f60d-4480-824f-63af81374b8e",
+      "memory": "User is planning a trip to Tokyo, Japan.",
+      "hash": "89e514f24888f602de526907efddb957",
+      "metadata": {
+        "ordinal": 37,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning trip to",
+          "object_text": "Tokyo, Japan",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning a trip to"
+        }
+      },
+      "score": 0.23582755045066517,
+      "created_at": "2026-07-06T08:48:05.994020-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b85ebe66-489a-40ae-9a1f-f584bf5c4deb",
+      "memory": "User is having a hard time sleeping lately.",
+      "hash": "a630b4f68f07ceaf795a9d1712eedab6",
+      "metadata": {
+        "ordinal": 220,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2350332865076213,
+      "created_at": "2026-07-06T08:50:16.546028-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "74ff037c-db37-4781-ba01-4c1c4cfd2915",
+      "memory": "User has been doing some acting workshops lately.",
+      "hash": "afa75f9201a8ae9254a1cad9e8c21052",
+      "metadata": {
+        "ordinal": 422,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "some acting workshops lately",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.23464999518882212,
+      "created_at": "2026-07-06T08:51:52.878935-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "522ff8b3-19c9-4178-b161-9be120c2ec07",
+      "memory": "The user wonders if they would be able to survive in extreme circumstances.",
+      "hash": "caf3326536636cc9f96fe90d9fc9cd92",
+      "metadata": {
+        "ordinal": 123,
+        "triple": null,
+        "subject_fallback": "the_user"
+      },
+      "score": 0.23245514361422923,
+      "created_at": "2026-07-06T08:48:56.758206-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "284be54a-4ddf-4a47-a86f-eadea06bbb13",
+      "memory": "User has a family dinner next Saturday.",
+      "hash": "e7dea4bd395a504a963ca2082ddaa657",
+      "metadata": {
+        "ordinal": 88,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has family dinner",
+          "object_text": "next Saturday",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has a family dinner"
+        }
+      },
+      "score": 0.23222832037498747,
+      "created_at": "2026-07-06T08:48:26.866331-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8e0b16f2-9bbd-4f33-8173-b15806dfa909",
+      "memory": "User is planning to depart on April 1st.",
+      "hash": "af0b07a3f7e6cca1bb475043b0c92349",
+      "metadata": {
+        "ordinal": 40,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be planning to depart on",
+          "object_text": "April 1st",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is planning to depart on"
+        }
+      },
+      "score": 0.23214788590117158,
+      "created_at": "2026-07-06T08:48:06.013285-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "be695776-f452-47b7-ae17-1031bfd0f914",
+      "memory": "User booked their trip to Tokyo on January 15th.",
+      "hash": "0b2a8162119fef3d1c6b0d9b8d137357",
+      "metadata": {
+        "ordinal": 39,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "booked their trip to",
+          "object_text": "Tokyo on January 15th",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "booked their trip to"
+        }
+      },
+      "score": 0.2320270320429495,
+      "created_at": "2026-07-06T08:48:06.008157-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "65a52264-12ac-4e36-bf27-dacd951fc8a7",
+      "memory": "User has been to a few author readings recently.",
+      "hash": "258196bbdb7bef054f3ce249dfd7bc6c",
+      "metadata": {
+        "ordinal": 497,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be to",
+          "object_text": "a few author readings recently",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been to"
+        }
+      },
+      "score": 0.22901202635921653,
+      "created_at": "2026-07-06T08:52:24.086387-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "4b6b8d53-05cc-4b52-9756-5f3056bac26b",
+      "memory": "User is trying to plan a birthday gift for a friend who loves art and history.",
+      "hash": "c48f6803ecc1fbab31fef246b245aa3a",
+      "metadata": {
+        "ordinal": 463,
+        "triple": null,
+        "subject_fallback": "friend"
+      },
+      "score": 0.22876357477490655,
+      "created_at": "2026-07-06T08:52:01.816165-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ea181982-d912-408f-b0ab-f126707d487e",
+      "memory": "User has been following the English Premier League and watching some matches on weekends.",
+      "hash": "8646e3f5014d34eaaf6ba182c1438232",
+      "metadata": {
+        "ordinal": 382,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be following",
+          "object_text": "the English Premier League and watching some matches on weekends",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "has been following"
+        }
+      },
+      "score": 0.22782810104460033,
+      "created_at": "2026-07-06T08:51:29.669581-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e75361c6-bd4b-4b4f-ac55-ac431a9067c4",
+      "memory": "User has been thinking about starting a book journal to keep track of all the books they've read and the authors they've met.",
+      "hash": "0507d9217c2e667bf9846dc24d0b4533",
+      "metadata": {
+        "ordinal": 503,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be thinking about starting",
+          "object_text": "a book journal to keep track of all the books they've read and the authors they've met",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been thinking about starting"
+        }
+      },
+      "score": 0.22705942218846242,
+      "created_at": "2026-07-06T08:52:24.099970-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "134373c7-fc16-4924-a705-8833b952b7f8",
+      "memory": "User is thinking of checking out a local vintage shop where they got a gold chain a few weeks ago.",
+      "hash": "aa184ce7437d6eef5884f894175f6922",
+      "metadata": {
+        "ordinal": 139,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking checking out",
+          "object_text": "a local vintage shop where they got a gold chain a few weeks ago",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of checking out"
+        }
+      },
+      "score": 0.21765449659360736,
+      "created_at": "2026-07-06T08:49:11.075980-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c96b6401-e0fb-4f50-bb00-839d74ea3d85",
+      "memory": "User is planning their meals for the week and making a grocery list.",
+      "hash": "397b8e87a3dd4c0c74eca8da1272ec5b",
+      "metadata": {
+        "ordinal": 159,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.2173473190854198,
+      "created_at": "2026-07-06T08:49:35.282352-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ed65f7a5-075e-42e8-a7d1-ddaa475a5b34",
+      "memory": "User is thinking of using the idea of 'looking back' to contrast with the 'with every step' refrain.",
+      "hash": "0a4780f98eab353cc1c0b831433dcb9b",
+      "metadata": {
+        "ordinal": 589,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking using",
+          "object_text": "the idea of 'looking back' to contrast with the 'with every step' refrain",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of using"
+        }
+      },
+      "score": 0.2158477417387771,
+      "created_at": "2026-07-06T08:53:17.808981-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cb02c09c-c0f8-40bc-a8b0-84dbe410cd58",
+      "memory": "User and their friends are considering doing something by Samuel Beckett.",
+      "hash": "7c2200e16e9199de1cf4d65ab764b861",
+      "metadata": {
+        "ordinal": 431,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "and their friends be considering doing",
+          "object_text": "something by Samuel Beckett",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "and their friends are considering doing"
+        }
+      },
+      "score": 0.2150022701825967,
+      "created_at": "2026-07-06T08:51:52.911749-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "dcf8c3fe-6470-4465-b81c-1a1ca026a7f3",
+      "memory": "User has been doing quinoa salad for meal prep.",
+      "hash": "6e492a7fc4d36f5771cc544fcaf1423e",
+      "metadata": {
+        "ordinal": 91,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "quinoa salad for meal prep",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.2103738858925335,
+      "created_at": "2026-07-06T08:48:26.875937-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e844fb8d-bd31-48cd-9b07-422382e4bcb0",
+      "memory": "User wants to include connections they make to their own life or experiences in their book journal.",
+      "hash": "d2b5a110e3ed9a29a877a2445110395f",
+      "metadata": {
+        "ordinal": 507,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "wants to include",
+          "object_text": "connections they make to their own life or experiences in their book journal",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to include"
+        }
+      },
+      "score": 0.20950631514372903,
+      "created_at": "2026-07-06T08:52:24.107508-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "fe8eb584-9b20-47a5-8288-0a3531a48089",
+      "memory": "User wants the bulletin board to allow current owners to update the device status.",
+      "hash": "3c8d9280b2b4d8eb82093da854d494c6",
+      "metadata": {
+        "ordinal": 344,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "wants bulletin board to allow",
+          "object_text": "current owners to update the device status",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "wants the bulletin board to allow"
+        }
+      },
+      "score": 0.20755846911263814,
+      "created_at": "2026-07-06T08:50:57.245921-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "2a0677a1-d9d7-45b9-8af2-d271aa3e055f",
+      "memory": "User asked about Freud's concept of Free Association",
+      "hash": "0605cf3c78703d3b9b1e28e68845886e",
+      "metadata": {
+        "ordinal": 106,
+        "triple": null,
+        "subject_fallback": "freud"
+      },
+      "score": 0.20633798821207372,
+      "created_at": "2026-07-06T08:48:40.166388-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "508042c9-5524-41ef-befe-c7925027466c",
+      "memory": "The user is interested in the book 'The Way of the Superior Man' by David Deida.",
+      "hash": "f5c167241fbe1a8d497658a6b7a714f9",
+      "metadata": {
+        "ordinal": 0,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "the book 'The Way of the Superior Man' by David Deida",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.20606094141041448,
+      "created_at": "2026-07-06T08:47:52.488234-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3f96b640-46cc-4a84-ab01-71ffbbb5e2e6",
+      "memory": "User has been doing 25% water changes every 2 weeks.",
+      "hash": "ff89b11f1c5ef2beea1e768f10596834",
+      "metadata": {
+        "ordinal": 474,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be doing",
+          "object_text": "25% water changes every 2 weeks",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "has been doing"
+        }
+      },
+      "score": 0.2059066935466728,
+      "created_at": "2026-07-06T08:52:03.177314-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cac98d7d-c7e3-4626-a83e-df06ea36dd67",
+      "memory": "User plans to organize their coupons by expiration date to use the ones that are closest to expiring first.",
+      "hash": "9563ff7a13879435738a87d0b6cf268f",
+      "metadata": {
+        "ordinal": 168,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "plans to organize their coupons by",
+          "object_text": "expiration date to use the ones that are closest to expiring first",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "plans to organize their coupons by"
+        }
+      },
+      "score": 0.20495289373490788,
+      "created_at": "2026-07-06T08:49:35.319416-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6cf89f15-e17e-44bc-a1db-4e9cbb048e3d",
+      "memory": "User wants to make sure they are using their coupons efficiently.",
+      "hash": "ee3f4c26c0bed5f82bd1d8cc674b135a",
+      "metadata": {
+        "ordinal": 160,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20459893565380477,
+      "created_at": "2026-07-06T08:49:35.292123-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8b9cdf33-5d46-425a-8152-a6116611cbe1",
+      "memory": "User is in the mood for a mystery/thriller.",
+      "hash": "7128a39b172d5b386e8070b05118168e",
+      "metadata": {
+        "ordinal": 358,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be in mood for",
+          "object_text": "a mystery/thriller",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is in the mood for"
+        }
+      },
+      "score": 0.20277420796972673,
+      "created_at": "2026-07-06T08:51:08.670569-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e2576a14-6c77-42de-9c38-1c36da175e26",
+      "memory": "User is really happy with their meal planning so far.",
+      "hash": "6549abf2506dd5372d33f13333a114f2",
+      "metadata": {
+        "ordinal": 163,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.20040465756286713,
+      "created_at": "2026-07-06T08:49:35.305822-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9ebb745c-eb22-484a-8c93-749aef049eae",
+      "memory": "User prefers healthier options with lean proteins and veggies.",
+      "hash": "6e584c0f0268cd18cb8bc0810ee90bc8",
+      "metadata": {
+        "ordinal": 94,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "prefers",
+          "object_text": "healthier options with lean proteins and veggies",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "prefers"
+        }
+      },
+      "score": 0.19778897433295622,
+      "created_at": "2026-07-06T08:48:26.883055-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8b918753-c4c2-4ed3-b434-902fe48ae9da",
+      "memory": "The user is interested in how the chemical composition of soil affects the growth of crops in modern agriculture.",
+      "hash": "1d30fd44e415312d4992e3f96bf42738",
+      "metadata": {
+        "ordinal": 33,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.19743201713436756,
+      "created_at": "2026-07-06T08:47:58.111145-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "afb69238-fb72-4547-b76c-65a004897ee9",
+      "memory": "User likes the line 'I've been walking this road for miles, with every step, I feel the weight of my trials' as a starting point.",
+      "hash": "8cc3cd40271fb0f93cdad58b0f39ac1e",
+      "metadata": {
+        "ordinal": 584,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "likes line",
+          "object_text": "'I've been walking this road for miles, with every step, I feel the weight of my trials' as a starting point",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "likes the line"
+        }
+      },
+      "score": 0.1965516700418302,
+      "created_at": "2026-07-06T08:53:17.797859-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "05b4cbd1-9eca-4094-883a-e6e72f6740a9",
+      "memory": "User has been taking painting classes.",
+      "hash": "e713af4b225b8231fd6576aba0e7a674",
+      "metadata": {
+        "ordinal": 224,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be taking",
+          "object_text": "painting classes",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been taking"
+        }
+      },
+      "score": 0.19531902360440104,
+      "created_at": "2026-07-06T08:50:16.569587-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "8da4a494-d0c0-4797-9427-5ebad6c0f4af",
+      "memory": "User asked about Freud's theory of the conscious and unconscious mind",
+      "hash": "b6789face61928dd342e2f0bf63e9931",
+      "metadata": {
+        "ordinal": 107,
+        "triple": null,
+        "subject_fallback": "freud"
+      },
+      "score": 0.1927536875642514,
+      "created_at": "2026-07-06T08:48:40.170780-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "979a910a-4247-44b3-b2f4-bd71e6cf2f31",
+      "memory": "The user is interested in the Wolverhampton Literature Festival.",
+      "hash": "b206b7e390463f1a79649f7ad4bebabc",
+      "metadata": {
+        "ordinal": 250,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "the Wolverhampton Literature Festival",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.19194887993264842,
+      "created_at": "2026-07-06T08:50:37.800074-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cdbc1414-88cd-4dcf-a3ca-3a9c3b42b85e",
+      "memory": "User believes that consistency is key to seeing results in meditation.",
+      "hash": "57c21908509137db6fb34f83d922cf65",
+      "metadata": {
+        "ordinal": 511,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "believes that",
+          "object_text": "consistency is key to seeing results in meditation",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "believes that"
+        }
+      },
+      "score": 0.19154317746382898,
+      "created_at": "2026-07-06T08:52:28.091421-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ad4b4642-2813-4fde-a1c8-de78d96ee902",
+      "memory": "User is thinking about visiting the Museum of Modern Art (MoMA) to check out their photography collection.",
+      "hash": "37b4ef2b11defa1dbc58babe8a0256ab",
+      "metadata": {
+        "ordinal": 471,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking about visiting",
+          "object_text": "the Museum of Modern Art (MoMA) to check out their photography collection",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking about visiting"
+        }
+      },
+      "score": 0.19082785116414014,
+      "created_at": "2026-07-06T08:52:01.837246-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "992a161d-1564-463d-af98-69c63843d759",
+      "memory": "The user is interested in cultural attractions in Wolverhampton.",
+      "hash": "055be4bfaaebad4ae2a53249abea7313",
+      "metadata": {
+        "ordinal": 246,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "cultural attractions in Wolverhampton",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.18802894729803135,
+      "created_at": "2026-07-06T08:50:37.777844-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "d101cd25-c454-475b-a535-7b4dec44e17b",
+      "memory": "The user is considering checking out the upcoming shows at theaters in Wolverhampton.",
+      "hash": "6f082803e16173362f520fd3429d822e",
+      "metadata": {
+        "ordinal": 248,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be considering checking out",
+          "object_text": "the upcoming shows at theaters in Wolverhampton",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is considering checking out"
+        }
+      },
+      "score": 0.18749805506127762,
+      "created_at": "2026-07-06T08:50:37.792074-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ef54539b-b27a-4a9e-8058-ceaae8858406",
+      "memory": "User is always looking to stay involved in the theater community and learn from other artists.",
+      "hash": "276dbbcd2eb6b7f68112b837af7312fc",
+      "metadata": {
+        "ordinal": 435,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be always looking to stay involved in",
+          "object_text": "the theater community and learn from other artists",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is always looking to stay involved in"
+        }
+      },
+      "score": 0.18707511686552114,
+      "created_at": "2026-07-06T08:51:52.920014-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c61e339d-baef-4d5b-80eb-856247a0e39c",
+      "memory": "User wishes everyone a happy 2023 filled with joy, success, and happiness.",
+      "hash": "adb38fd061cfc453df46f5796c023064",
+      "metadata": {
+        "ordinal": 118,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1869632083976815,
+      "created_at": "2026-07-06T08:48:50.137267-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bcc6fece-f369-4b9e-94c9-a9721f410c10",
+      "memory": "User is an ACCA student/trainee.",
+      "hash": "979d5a50b76bd46cd097b12a507c0ae0",
+      "metadata": {
+        "ordinal": 198,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be",
+          "object_text": "an ACCA student/trainee",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is"
+        }
+      },
+      "score": 0.18679583006759912,
+      "created_at": "2026-07-06T08:50:12.452048-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "a97e934c-e4b6-43d8-89f4-78770fcd4983",
+      "memory": "User has tried meditation a few times before but always seems to get distracted and ends up not finishing the session.",
+      "hash": "51a28e24b0412402a5b2c0d23080c92b",
+      "metadata": {
+        "ordinal": 510,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18668448528990383,
+      "created_at": "2026-07-06T08:52:28.086204-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "e06b4640-5fe4-4bf9-a2cd-2546222811ea",
+      "memory": "User is trying to plan out their farm's winter preparations.",
+      "hash": "6a05a289ba34f5fee2214bf7f040ac0e",
+      "metadata": {
+        "ordinal": 109,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1866516183939816,
+      "created_at": "2026-07-06T08:48:44.267590-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "9ef32876-efe7-4cd3-9f6c-ff309177487a",
+      "memory": "User felt more relaxed and confident during the scenes after applying what they learned.",
+      "hash": "f9a2569292c541fcdc792f0624fdcbfb",
+      "metadata": {
+        "ordinal": 427,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18660131897861015,
+      "created_at": "2026-07-06T08:51:52.901013-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1c9c9c67-3a77-4b18-9429-f52f16044867",
+      "memory": "User is interested in exploring more techniques in mixed media art.",
+      "hash": "4793cf3ccf7ead2bb5b6a692eca71ed5",
+      "metadata": {
+        "ordinal": 227,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in exploring",
+          "object_text": "more techniques in mixed media art",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in exploring"
+        }
+      },
+      "score": 0.18639843915418702,
+      "created_at": "2026-07-06T08:50:32.677235-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6a7a3627-3a35-47f1-a2be-c3bb097bf46d",
+      "memory": "User is thinking of buying a Suica card online.",
+      "hash": "fc4b5c693f066730631c0d12df284238",
+      "metadata": {
+        "ordinal": 41,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking buying",
+          "object_text": "a Suica card online",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of buying"
+        }
+      },
+      "score": 0.18575793933067813,
+      "created_at": "2026-07-06T08:48:06.017659-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7c32fe50-28d0-4cae-a9b3-3aad1e43bb12",
+      "memory": "User asked about Freud's impression",
+      "hash": "2957e00db42d009c30ae982f1bbba003",
+      "metadata": {
+        "ordinal": 104,
+        "triple": null,
+        "subject_fallback": "freud"
+      },
+      "score": 0.18544205589887314,
+      "created_at": "2026-07-06T08:48:40.156488-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ab6f19b4-8054-465f-9a67-a4bd023d6162",
+      "memory": "User has been experimenting with different lighting schedules to promote algae growth and create a more natural environment for their fish.",
+      "hash": "cde857f37481938818e6cfd59419047d",
+      "metadata": {
+        "ordinal": 478,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18516346724289265,
+      "created_at": "2026-07-06T08:52:03.183136-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "eafc0bed-4330-4deb-b922-37d4ed3f4269",
+      "memory": "User is thinking of getting a necklace with their birthstone, peridot, for their upcoming anniversary.",
+      "hash": "706a5cb04248303827d34a2ab59b1aa8",
+      "metadata": {
+        "ordinal": 138,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking getting",
+          "object_text": "a necklace with their birthstone, peridot, for their upcoming anniversary",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of getting"
+        }
+      },
+      "score": 0.185048717369295,
+      "created_at": "2026-07-06T08:49:11.074726-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "73b29839-0181-46bc-8b95-5d6b6f23e006",
+      "memory": "User was at an NBA game at the Staples Center in LA with coworkers and saw the Lakers take on the Chicago Bulls.",
+      "hash": "d3735b0ced79cb1a173fab992acc911f",
+      "metadata": {
+        "ordinal": 378,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be at",
+          "object_text": "an NBA game at the Staples Center in LA with coworkers and saw the Lakers take on the Chicago Bulls",
+          "confidence": 0.85,
+          "subject_raw": "User",
+          "predicate_raw": "was at"
+        }
+      },
+      "score": 0.18493863205891115,
+      "created_at": "2026-07-06T08:51:29.665085-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "7faca629-a282-49c1-93ca-c3e67f8fa9c0",
+      "memory": "User thinks they have enough time to apply for a visa and get a Suica card before their trip.",
+      "hash": "9e300aae51ded2f6454de795a8e885db",
+      "metadata": {
+        "ordinal": 43,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.1836185022779147,
+      "created_at": "2026-07-06T08:48:06.024279-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ec1467c0-ada2-479e-a20d-a14354760655",
+      "memory": "User asked about Freud's idea of psychoanalysis",
+      "hash": "aa8f41c39be398e284a2e6838c696d7b",
+      "metadata": {
+        "ordinal": 105,
+        "triple": null,
+        "subject_fallback": "freud"
+      },
+      "score": 0.1835603648084386,
+      "created_at": "2026-07-06T08:48:40.161124-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "0ab5e89e-8f7f-40aa-9066-574e847fbbc4",
+      "memory": "User is practicing their ukulele every day.",
+      "hash": "cef99ab2a9f0523c5d7f899ed693b75a",
+      "metadata": {
+        "ordinal": 585,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be practicing",
+          "object_text": "their ukulele every day",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is practicing"
+        }
+      },
+      "score": 0.1826722204503888,
+      "created_at": "2026-07-06T08:53:17.800274-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "5ec0a608-6f2f-4eea-be83-07c640775b6a",
+      "memory": "User feels refreshed and like a completely recharged and different person after traveling.",
+      "hash": "16c671bac71803eb5483dfe1f511cf06",
+      "metadata": {
+        "ordinal": 116,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.18113800173307326,
+      "created_at": "2026-07-06T08:48:50.129387-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "20883fbd-03e5-4572-854e-01d7a8a29482",
+      "memory": "User is thinking of putting together a short play with some friends.",
+      "hash": "d051fa5bb1e18f64370f8faaedcd3298",
+      "metadata": {
+        "ordinal": 430,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking putting together",
+          "object_text": "a short play with some friends",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of putting together"
+        }
+      },
+      "score": 0.1810291752453643,
+      "created_at": "2026-07-06T08:51:52.909106-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "906c3527-910e-43ce-a3a5-9720e025e4a3",
+      "memory": "User is thinking about getting their engagement ring resized.",
+      "hash": "bc1c4fe206f43f9a7d6162bfc02a5c63",
+      "metadata": {
+        "ordinal": 137,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking about",
+          "object_text": "getting their engagement ring resized",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking about"
+        }
+      },
+      "score": 0.18084248208157022,
+      "created_at": "2026-07-06T08:49:11.073427-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "73e3b27b-ef17-4641-b989-d2eec1602eb4",
+      "memory": "User's nitrate levels are stabilizing.",
+      "hash": "567efde40e3172a406ccd9ae6c09d1fb",
+      "metadata": {
+        "ordinal": 477,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be stabilizing",
+          "object_text": "nitrate levels",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "are stabilizing"
+        }
+      },
+      "score": 0.17910001510798396,
+      "created_at": "2026-07-06T08:52:03.181717-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "dbd8e773-e02c-4b82-80df-b58b763ed11c",
+      "memory": "User is looking for recommendations on good sports bars in LA to catch a game with friends.",
+      "hash": "352405a7df093efea1a9a8c700fd9697",
+      "metadata": {
+        "ordinal": 374,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17897159153557723,
+      "created_at": "2026-07-06T08:51:29.659350-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "19dc0eb6-bbbb-4a0a-bfb7-9b3af310715e",
+      "memory": "User has been struggling with anxiety for a while.",
+      "hash": "143ede610ece5ddd8f22661798e8e8cf",
+      "metadata": {
+        "ordinal": 509,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17715292968892418,
+      "created_at": "2026-07-06T08:52:28.079066-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "dd05eaaa-141d-4f51-b3bf-92f81b1fa4ba",
+      "memory": "User just finished their last book on Saturday and is looking for something new to read.",
+      "hash": "4530a56f9a52fabce479b81a92c1a291",
+      "metadata": {
+        "ordinal": 357,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "just finished",
+          "object_text": "their last book on Saturday",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "just finished"
+        }
+      },
+      "score": 0.17625647463709365,
+      "created_at": "2026-07-06T08:51:08.668477-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "facb0626-9c45-4898-8016-a217e38dd323",
+      "memory": "User wants to include a section for author events and signings in their book journal.",
+      "hash": "ff64dde1b3cb6ad50412400560f023e3",
+      "metadata": {
+        "ordinal": 504,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "wants to include",
+          "object_text": "a section for author events and signings in their book journal",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to include"
+        }
+      },
+      "score": 0.17495148750457884,
+      "created_at": "2026-07-06T08:52:24.102016-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c6e66313-5864-4639-88ee-2ff0edd1a1f6",
+      "memory": "User is interested in trying out the Grilled Chicken and Veggie Containers.",
+      "hash": "1a10b584a6e78d8d04165fe15cb09ef2",
+      "metadata": {
+        "ordinal": 347,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in trying out",
+          "object_text": "the Grilled Chicken and Veggie Containers",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in trying out"
+        }
+      },
+      "score": 0.17484291266095442,
+      "created_at": "2026-07-06T08:51:02.531698-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "3b040430-1302-463d-a1d4-862f6106ffd7",
+      "memory": "User wants to include a section for quotes and passages that resonated with them in their book journal.",
+      "hash": "627a71c589e0cceee741f937e29fbe34",
+      "metadata": {
+        "ordinal": 505,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "wants to include",
+          "object_text": "a section for quotes and passages that resonated with them in their book journal",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to include"
+        }
+      },
+      "score": 0.1731921046883202,
+      "created_at": "2026-07-06T08:52:24.103921-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "00a8585e-224d-4f92-874a-d02e25a1e743",
+      "memory": "User is looking for a good spot to watch the NBA game tonight, specifically the Lakers game.",
+      "hash": "8bab884b2317135b846f48c5c3cc137f",
+      "metadata": {
+        "ordinal": 377,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be looking for",
+          "object_text": "a good spot to watch the NBA game tonight, specifically the Lakers game",
+          "confidence": 0.9,
+          "subject_raw": "User",
+          "predicate_raw": "is looking for"
+        }
+      },
+      "score": 0.1728416760501234,
+      "created_at": "2026-07-06T08:51:29.663841-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "bb5f1fec-2c62-4dc1-9b45-9d5f51f75504",
+      "memory": "User is thinking of trying out the Quinoa and Roasted Vegetable Bowls recipe this Sunday.",
+      "hash": "14436d60880e60b74b8576e1b5539aae",
+      "metadata": {
+        "ordinal": 355,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking trying out",
+          "object_text": "the Quinoa and Roasted Vegetable Bowls recipe this Sunday",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of trying out"
+        }
+      },
+      "score": 0.17272619026234048,
+      "created_at": "2026-07-06T08:51:08.663443-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b0508389-67ad-4410-a340-a57b69f7f29e",
+      "memory": "User is thinking of using the long road metaphor to describe the journey of perseverance.",
+      "hash": "6677b533f595a6a497cf6a8f0ef98a4c",
+      "metadata": {
+        "ordinal": 583,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking using",
+          "object_text": "the long road metaphor to describe the journey of perseverance",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of using"
+        }
+      },
+      "score": 0.1725896554812004,
+      "created_at": "2026-07-06T08:53:17.795641-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "27d1c3c1-6adc-43d4-8771-30f20f381a13",
+      "memory": "User did exercises on playing with light and shadow during the photography workshop.",
+      "hash": "103c5a79962e14b44e5beb8eb1aea623",
+      "metadata": {
+        "ordinal": 469,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "did exercises on",
+          "object_text": "playing with light and shadow during the photography workshop",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "did exercises on"
+        }
+      },
+      "score": 0.17212601822441834,
+      "created_at": "2026-07-06T08:52:01.833069-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "668c2137-17be-46cf-82fd-d686765292d4",
+      "memory": "User will use an ATM to withdraw more yen as needed.",
+      "hash": "f1efa20f20b6e0ff4eea7cfbeb3136b1",
+      "metadata": {
+        "ordinal": 45,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "will use",
+          "object_text": "an ATM to withdraw more yen as needed",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "will use"
+        }
+      },
+      "score": 0.17189880581748873,
+      "created_at": "2026-07-06T08:48:06.030141-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "6d316ff8-4c62-4672-aae6-89f74384d356",
+      "memory": "The user finds it reassuring to know that humans have the potential for resilience and determination in challenging situations.",
+      "hash": "47525e239eb63bde652542a4056f4f72",
+      "metadata": {
+        "ordinal": 124,
+        "triple": null,
+        "subject_fallback": "humans"
+      },
+      "score": 0.17179149609437785,
+      "created_at": "2026-07-06T08:48:56.759379-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b0fb9dfb-c9c8-48d5-acde-681bd98b8c82",
+      "memory": "The user is interested in the Wolverhampton Fiesta as a fun summer event.",
+      "hash": "f04ae4292181b0df25740b8baa47be03",
+      "metadata": {
+        "ordinal": 249,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be interested in",
+          "object_text": "the Wolverhampton Fiesta as a fun summer event",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "is interested in"
+        }
+      },
+      "score": 0.1717840453843663,
+      "created_at": "2026-07-06T08:50:37.796381-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "40407d8e-dc34-4206-9623-25cf64b5eac3",
+      "memory": "User has been experimenting with mixed media lately.",
+      "hash": "6dab226a492b82fae3641eedfc58e4bd",
+      "metadata": {
+        "ordinal": 226,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "has be experimenting with",
+          "object_text": "mixed media",
+          "confidence": 0.95,
+          "subject_raw": "user",
+          "predicate_raw": "has been experimenting with"
+        }
+      },
+      "score": 0.17158341861151818,
+      "created_at": "2026-07-06T08:50:32.673027-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "c70d4954-bc03-4b28-9e3c-42538d4581af",
+      "memory": "User is still recovering from a nasty flu that kept them out of commission for over a week.",
+      "hash": "4297adecdd8c8775ef169bc30f5101a2",
+      "metadata": {
+        "ordinal": 75,
+        "triple": null,
+        "subject_fallback": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+      },
+      "score": 0.17093377244238558,
+      "created_at": "2026-07-06T08:48:12.339640-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "cf5a8ac2-7b7e-45bf-859a-ed545016d175",
+      "memory": "User wants to include a section for personal reflections and thoughts on the book in their book journal.",
+      "hash": "22e105155a27c2e79e42e014d7b6cc3f",
+      "metadata": {
+        "ordinal": 506,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "wants to include",
+          "object_text": "a section for personal reflections and thoughts on the book in their book journal",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "wants to include"
+        }
+      },
+      "score": 0.17049784403523607,
+      "created_at": "2026-07-06T08:52:24.105652-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "1b25d824-7b8e-4c06-9c22-87ba08700498",
+      "memory": "User is thinking of a slower tempo for the song, maybe around 90-100 BPM.",
+      "hash": "3c8f8e9896eb4ae6c0207546cf29567d",
+      "metadata": {
+        "ordinal": 581,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking slower tempo for song",
+          "object_text": "maybe around 90-100 BPM",
+          "confidence": 0.85,
+          "subject_raw": "user",
+          "predicate_raw": "is thinking of a slower tempo for the song"
+        }
+      },
+      "score": 0.169270438990523,
+      "created_at": "2026-07-06T08:53:17.789785-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "b6edcc11-a3b0-4d3d-a48f-69c8d60f9c90",
+      "memory": "User is thinking of using a physical notebook with a mix of writing and collage elements for their book journal.",
+      "hash": "9242b71f4d266379a74bc505e4f7f2e9",
+      "metadata": {
+        "ordinal": 508,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "be thinking using",
+          "object_text": "a physical notebook with a mix of writing and collage elements for their book journal",
+          "confidence": 0.95,
+          "subject_raw": "User",
+          "predicate_raw": "is thinking of using"
+        }
+      },
+      "score": 0.16877681987266177,
+      "created_at": "2026-07-06T08:52:24.109278-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "ff51fb2e-1269-4e1b-8e44-fd4b62f22ce4",
+      "memory": "User organized their stamp collection last week.",
+      "hash": "3f3d8d5459277a17fca598f0719e0078",
+      "metadata": {
+        "ordinal": 306,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "organized",
+          "object_text": "their stamp collection last week",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "organized"
+        }
+      },
+      "score": 0.16876764018687807,
+      "created_at": "2026-07-06T08:50:51.995791-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    },
+    {
+      "id": "f4be512b-e1b7-4b86-8d1e-860644429186",
+      "memory": "User prefers to develop the device management system in a bulletin board format, not a Google spreadsheet.",
+      "hash": "d8ce99f01bb266b6fdd52db8f175fd2e",
+      "metadata": {
+        "ordinal": 345,
+        "triple": {
+          "subject_id": "user::context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2",
+          "predicate_norm": "prefers to develop",
+          "object_text": "the device management system in a bulletin board format, not a Google spreadsheet",
+          "confidence": 0.9,
+          "subject_raw": "user",
+          "predicate_raw": "prefers to develop"
+        }
+      },
+      "score": 0.1682314675615098,
+      "created_at": "2026-07-06T08:50:57.251297-07:00",
+      "updated_at": null,
+      "user_id": "context_c4ea545c_longmemeval_s_ku_ours_no_p5_s1n2"
+    }
+  ],
+  "retrieved_relations": [],
+  "resolved_pool": null,
+  "memories_str": "90. User goes to the gym on Tuesdays, Thursdays, and Saturdays.\n354. User has been consistent with their gym routine, going four times a week.\n352. User is trying to plan out their week ahead.\n2. The user inquired about the different stages a man goes through and how he matures.\n85. User is trying to plan out their week and stay on top of their tasks.\n89. User needs to fit in workouts.\n76. User needs help with keeping track of doctor's appointments and test results.\n493. User attended a panel discussion on diversity and representation at the city convention center on 2023/08/27.\n353. User is thinking of rewarding themselves with a post-workout smoothie on Saturday.\n87. User has a social commitment for dinner with Rachel this Friday.\n426. User's instructor kept reminding them to focus on the moment and respond truthfully to their scene partners.\n5. The user asked if the book discusses what a man needs in a partner.\n86. User wants to make time for reading and meditation.\n4. The user requested additional takeaways from 'The Way of the Superior Man'.\n114. User has been away for the last month of 2022 traveling around Europe.\n512. User plans to set realistic goals and make meditation a part of their daily routine.\n74. User needs help with managing their medication schedule.\n423. User attended a 3-day theater workshop at the local community center last month.\n164. User meal planned and made a grocery list yesterday.\n346. User is looking for new meal prep ideas.\n1. The user asked for a summary of 'The Way of the Superior Man'.\n3. The user asked about the importance of a man developing a deep sense of purpose.\n169. User is planning a meal for next week using the chicken breasts they are buying this week.\n466. User attended the 'Ancient Civilizations' exhibit at the Met on January 15th.\n77. User is thinking of sharing their medical records with their sister, who has been helping them out a lot lately.\n228. User reorganized their art supply closet on June 27, 2023.\n37. User is planning a trip to Tokyo, Japan.\n220. User is having a hard time sleeping lately.\n422. User has been doing some acting workshops lately.\n123. The user wonders if they would be able to survive in extreme circumstances.\n88. User has a family dinner next Saturday.\n40. User is planning to depart on April 1st.\n39. User booked their trip to Tokyo on January 15th.\n497. User has been to a few author readings recently.\n463. User is trying to plan a birthday gift for a friend who loves art and history.\n382. User has been following the English Premier League and watching some matches on weekends.\n503. User has been thinking about starting a book journal to keep track of all the books they've read and the authors they've met.\n139. User is thinking of checking out a local vintage shop where they got a gold chain a few weeks ago.\n159. User is planning their meals for the week and making a grocery list.\n589. User is thinking of using the idea of 'looking back' to contrast with the 'with every step' refrain.\n431. User and their friends are considering doing something by Samuel Beckett.\n91. User has been doing quinoa salad for meal prep.\n507. User wants to include connections they make to their own life or experiences in their book journal.\n344. User wants the bulletin board to allow current owners to update the device status.\n106. User asked about Freud's concept of Free Association\n0. The user is interested in the book 'The Way of the Superior Man' by David Deida.\n474. User has been doing 25% water changes every 2 weeks.\n168. User plans to organize their coupons by expiration date to use the ones that are closest to expiring first.\n160. User wants to make sure they are using their coupons efficiently.\n358. User is in the mood for a mystery/thriller.\n163. User is really happy with their meal planning so far.\n94. User prefers healthier options with lean proteins and veggies.\n33. The user is interested in how the chemical composition of soil affects the growth of crops in modern agriculture.\n584. User likes the line 'I've been walking this road for miles, with every step, I feel the weight of my trials' as a starting point.\n224. User has been taking painting classes.\n107. User asked about Freud's theory of the conscious and unconscious mind\n250. The user is interested in the Wolverhampton Literature Festival.\n511. User believes that consistency is key to seeing results in meditation.\n471. User is thinking about visiting the Museum of Modern Art (MoMA) to check out their photography collection.\n246. The user is interested in cultural attractions in Wolverhampton.\n248. The user is considering checking out the upcoming shows at theaters in Wolverhampton.\n435. User is always looking to stay involved in the theater community and learn from other artists.\n118. User wishes everyone a happy 2023 filled with joy, success, and happiness.\n198. User is an ACCA student/trainee.\n510. User has tried meditation a few times before but always seems to get distracted and ends up not finishing the session.\n109. User is trying to plan out their farm's winter preparations.\n427. User felt more relaxed and confident during the scenes after applying what they learned.\n227. User is interested in exploring more techniques in mixed media art.\n41. User is thinking of buying a Suica card online.\n104. User asked about Freud's impression\n478. User has been experimenting with different lighting schedules to promote algae growth and create a more natural environment for their fish.\n138. User is thinking of getting a necklace with their birthstone, peridot, for their upcoming anniversary.\n378. User was at an NBA game at the Staples Center in LA with coworkers and saw the Lakers take on the Chicago Bulls.\n43. User thinks they have enough time to apply for a visa and get a Suica card before their trip.\n105. User asked about Freud's idea of psychoanalysis\n585. User is practicing their ukulele every day.\n116. User feels refreshed and like a completely recharged and different person after traveling.\n430. User is thinking of putting together a short play with some friends.\n137. User is thinking about getting their engagement ring resized.\n477. User's nitrate levels are stabilizing.\n374. User is looking for recommendations on good sports bars in LA to catch a game with friends.\n509. User has been struggling with anxiety for a while.\n357. User just finished their last book on Saturday and is looking for something new to read.\n504. User wants to include a section for author events and signings in their book journal.\n347. User is interested in trying out the Grilled Chicken and Veggie Containers.\n505. User wants to include a section for quotes and passages that resonated with them in their book journal.\n377. User is looking for a good spot to watch the NBA game tonight, specifically the Lakers game.\n355. User is thinking of trying out the Quinoa and Roasted Vegetable Bowls recipe this Sunday.\n583. User is thinking of using the long road metaphor to describe the journey of perseverance.\n469. User did exercises on playing with light and shadow during the photography workshop.\n45. User will use an ATM to withdraw more yen as needed.\n124. The user finds it reassuring to know that humans have the potential for resilience and determination in challenging situations.\n249. The user is interested in the Wolverhampton Fiesta as a fun summer event.\n226. User has been experimenting with mixed media lately.\n75. User is still recovering from a nasty flu that kept them out of commission for over a week.\n506. User wants to include a section for personal reflections and thoughts on the book in their book journal.\n581. User is thinking of a slower tempo for the song, maybe around 90-100 BPM.\n508. User is thinking of using a physical notebook with a mix of writing and collage elements for their book journal.\n306. User organized their stamp collection last week.\n345. User prefers to develop the device management system in a bulletin board format, not a Google spreadsheet.",
+  "system_prompt": "You are a careful information-extraction system that outputs only JSON.",
+  "user_message": "You are given retrieved items from a user's personal memory. Each item has a FRESHNESS marker (the prefix integer) — a higher marker means the item was recorded more recently.\n\nYour job: identify EVERY item that DIRECTLY answers the question, and extract the answer from each such item.\n\nDo NOT compare freshness markers. Do NOT pick a \"best\" one. Include ALL items that answer the question.\n\nRules:\n1. An item answers the question only if it states the specific piece of information the question asks about (e.g. the user's current city, job, or preference). A related-but-different topic does NOT count.\n2. Most items describe the user (\"User ...\"); treat the user as the subject unless the question names someone else.\n3. If the user has multiple conflicting values recorded at different freshness markers, INCLUDE BOTH as separate candidates. Do not pick.\n4. If no item answers the question, return an empty list.\n5. Copy the item's text verbatim into `fact_text`, and put the concise answer to the question into `answer_entity`.\n\nQuestion: Today's date is 2023/09/01 (Fri) 19:15.\n\nThe history chats are between you and a user. Based on the relevant chat history, answer the question as concisely as you can, using a single phrase if possible.\n\n Do I go to the gym more frequently than I did previously?\n\nItems:\n90. User goes to the gym on Tuesdays, Thursdays, and Saturdays.\n354. User has been consistent with their gym routine, going four times a week.\n352. User is trying to plan out their week ahead.\n2. The user inquired about the different stages a man goes through and how he matures.\n85. User is trying to plan out their week and stay on top of their tasks.\n89. User needs to fit in workouts.\n76. User needs help with keeping track of doctor's appointments and test results.\n493. User attended a panel discussion on diversity and representation at the city convention center on 2023/08/27.\n353. User is thinking of rewarding themselves with a post-workout smoothie on Saturday.\n87. User has a social commitment for dinner with Rachel this Friday.\n426. User's instructor kept reminding them to focus on the moment and respond truthfully to their scene partners.\n5. The user asked if the book discusses what a man needs in a partner.\n86. User wants to make time for reading and meditation.\n4. The user requested additional takeaways from 'The Way of the Superior Man'.\n114. User has been away for the last month of 2022 traveling around Europe.\n512. User plans to set realistic goals and make meditation a part of their daily routine.\n74. User needs help with managing their medication schedule.\n423. User attended a 3-day theater workshop at the local community center last month.\n164. User meal planned and made a grocery list yesterday.\n346. User is looking for new meal prep ideas.\n1. The user asked for a summary of 'The Way of the Superior Man'.\n3. The user asked about the importance of a man developing a deep sense of purpose.\n169. User is planning a meal for next week using the chicken breasts they are buying this week.\n466. User attended the 'Ancient Civilizations' exhibit at the Met on January 15th.\n77. User is thinking of sharing their medical records with their sister, who has been helping them out a lot lately.\n228. User reorganized their art supply closet on June 27, 2023.\n37. User is planning a trip to Tokyo, Japan.\n220. User is having a hard time sleeping lately.\n422. User has been doing some acting workshops lately.\n123. The user wonders if they would be able to survive in extreme circumstances.\n88. User has a family dinner next Saturday.\n40. User is planning to depart on April 1st.\n39. User booked their trip to Tokyo on January 15th.\n497. User has been to a few author readings recently.\n463. User is trying to plan a birthday gift for a friend who loves art and history.\n382. User has been following the English Premier League and watching some matches on weekends.\n503. User has been thinking about starting a book journal to keep track of all the books they've read and the authors they've met.\n139. User is thinking of checking out a local vintage shop where they got a gold chain a few weeks ago.\n159. User is planning their meals for the week and making a grocery list.\n589. User is thinking of using the idea of 'looking back' to contrast with the 'with every step' refrain.\n431. User and their friends are considering doing something by Samuel Beckett.\n91. User has been doing quinoa salad for meal prep.\n507. User wants to include connections they make to their own life or experiences in their book journal.\n344. User wants the bulletin board to allow current owners to update the device status.\n106. User asked about Freud's concept of Free Association\n0. The user is interested in the book 'The Way of the Superior Man' by David Deida.\n474. User has been doing 25% water changes every 2 weeks.\n168. User plans to organize their coupons by expiration date to use the ones that are closest to expiring first.\n160. User wants to make sure they are using their coupons efficiently.\n358. User is in the mood for a mystery/thriller.\n163. User is really happy with their meal planning so far.\n94. User prefers healthier options with lean proteins and veggies.\n33. The user is interested in how the chemical composition of soil affects the growth of crops in modern agriculture.\n584. User likes the line 'I've been walking this road for miles, with every step, I feel the weight of my trials' as a starting point.\n224. User has been taking painting classes.\n107. User asked about Freud's theory of the conscious and unconscious mind\n250. The user is interested in the Wolverhampton Literature Festival.\n511. User believes that consistency is key to seeing results in meditation.\n471. User is thinking about visiting the Museum of Modern Art (MoMA) to check out their photography collection.\n246. The user is interested in cultural attractions in Wolverhampton.\n248. The user is considering checking out the upcoming shows at theaters in Wolverhampton.\n435. User is always looking to stay involved in the theater community and learn from other artists.\n118. User wishes everyone a happy 2023 filled with joy, success, and happiness.\n198. User is an ACCA student/trainee.\n510. User has tried meditation a few times before but always seems to get distracted and ends up not finishing the session.\n109. User is trying to plan out their farm's winter preparations.\n427. User felt more relaxed and confident during the scenes after applying what they learned.\n227. User is interested in exploring more techniques in mixed media art.\n41. User is thinking of buying a Suica card online.\n104. User asked about Freud's impression\n478. User has been experimenting with different lighting schedules to promote algae growth and create a more natural environment for their fish.\n138. User is thinking of getting a necklace with their birthstone, peridot, for their upcoming anniversary.\n378. User was at an NBA game at the Staples Center in LA with coworkers and saw the Lakers take on the Chicago Bulls.\n43. User thinks they have enough time to apply for a visa and get a Suica card before their trip.\n105. User asked about Freud's idea of psychoanalysis\n585. User is practicing their ukulele every day.\n116. User feels refreshed and like a completely recharged and different person after traveling.\n430. User is thinking of putting together a short play with some friends.\n137. User is thinking about getting their engagement ring resized.\n477. User's nitrate levels are stabilizing.\n374. User is looking for recommendations on good sports bars in LA to catch a game with friends.\n509. User has been struggling with anxiety for a while.\n357. User just finished their last book on Saturday and is looking for something new to read.\n504. User wants to include a section for author events and signings in their book journal.\n347. User is interested in trying out the Grilled Chicken and Veggie Containers.\n505. User wants to include a section for quotes and passages that resonated with them in their book journal.\n377. User is looking for a good spot to watch the NBA game tonight, specifically the Lakers game.\n355. User is thinking of trying out the Quinoa and Roasted Vegetable Bowls recipe this Sunday.\n583. User is thinking of using the long road metaphor to describe the journey of perseverance.\n469. User did exercises on playing with light and shadow during the photography workshop.\n45. User will use an ATM to withdraw more yen as needed.\n124. The user finds it reassuring to know that humans have the potential for resilience and determination in challenging situations.\n249. The user is interested in the Wolverhampton Fiesta as a fun summer event.\n226. User has been experimenting with mixed media lately.\n75. User is still recovering from a nasty flu that kept them out of commission for over a week.\n506. User wants to include a section for personal reflections and thoughts on the book in their book journal.\n581. User is thinking of a slower tempo for the song, maybe around 90-100 BPM.\n508. User is thinking of using a physical notebook with a mix of writing and collage elements for their book journal.\n306. User organized their stamp collection last week.\n345. User prefers to develop the device management system in a bulletin board format, not a Google spreadsheet.\n\nReturn ONLY valid JSON: {\"candidates\": [{\"serial\": <int>, \"fact_text\": \"<verbatim>\", \"answer_entity\": \"<answer>\"}, ...]}",
+  "response": "User goes to the gym four times a week.",
+  "prompt_tokens": 2031,
+  "completion_tokens": 79
+}

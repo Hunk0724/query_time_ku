@@ -1,0 +1,152 @@
+{
+  "phase0_6k": {
+    "L1": {
+      "both": 72,
+      "new_only": 1,
+      "old_only": 1,
+      "neither": 0
+    },
+    "L2": {
+      "both": 28,
+      "new_only": 45,
+      "old_only": 1,
+      "neither": 0
+    },
+    "both_transition": {
+      "new_only": 44,
+      "both": 28,
+      "old_only": 0,
+      "neither": 0
+    },
+    "no_conflict": {
+      "l1_retrieved": 25,
+      "l2_kept": 25,
+      "n": 26
+    }
+  },
+  "phase2_6k": {
+    "L1": {
+      "both": 72,
+      "new_only": 1,
+      "old_only": 1,
+      "neither": 0
+    },
+    "L2": {
+      "both": 18,
+      "new_only": 55,
+      "old_only": 1,
+      "neither": 0
+    },
+    "both_transition": {
+      "new_only": 54,
+      "both": 18,
+      "old_only": 0,
+      "neither": 0
+    },
+    "no_conflict": {
+      "l1_retrieved": 25,
+      "l2_kept": 25,
+      "n": 26
+    }
+  },
+  "phase0_32k": {
+    "L1": {
+      "both": 53,
+      "new_only": 3,
+      "old_only": 7,
+      "neither": 2
+    },
+    "L2": {
+      "both": 22,
+      "new_only": 33,
+      "old_only": 8,
+      "neither": 2
+    },
+    "both_transition": {
+      "new_only": 30,
+      "both": 22,
+      "old_only": 1,
+      "neither": 0
+    },
+    "no_conflict": {
+      "l1_retrieved": 33,
+      "l2_kept": 33,
+      "n": 35
+    }
+  },
+  "phase2_32k": {
+    "L1": {
+      "both": 53,
+      "new_only": 3,
+      "old_only": 7,
+      "neither": 2
+    },
+    "L2": {
+      "both": 8,
+      "new_only": 47,
+      "old_only": 8,
+      "neither": 2
+    },
+    "both_transition": {
+      "new_only": 44,
+      "both": 8,
+      "old_only": 1,
+      "neither": 0
+    },
+    "no_conflict": {
+      "l1_retrieved": 33,
+      "l2_kept": 33,
+      "n": 35
+    }
+  },
+  "phase0_64k": {
+    "L1": {
+      "both": 44,
+      "new_only": 1,
+      "old_only": 11,
+      "neither": 10
+    },
+    "L2": {
+      "both": 9,
+      "new_only": 35,
+      "old_only": 12,
+      "neither": 10
+    },
+    "both_transition": {
+      "new_only": 34,
+      "both": 9,
+      "old_only": 1,
+      "neither": 0
+    },
+    "no_conflict": {
+      "l1_retrieved": 25,
+      "l2_kept": 25,
+      "n": 34
+    }
+  },
+  "phase2_64k": {
+    "L1": {
+      "both": 44,
+      "new_only": 1,
+      "old_only": 11,
+      "neither": 10
+    },
+    "L2": {
+      "both": 2,
+      "new_only": 41,
+      "old_only": 11,
+      "neither": 12
+    },
+    "both_transition": {
+      "new_only": 40,
+      "both": 2,
+      "old_only": 2,
+      "neither": 0
+    },
+    "no_conflict": {
+      "l1_retrieved": 25,
+      "l2_kept": 25,
+      "n": 34
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# Zep baseline, benchmark-default flow EXCEPT chunk_size(512) + temperature(0)
+# aligned to ours for comparability. Everything else = Zep benchmark default
+# (retrieve_num=10, service_name azure_openai -> falls back to OpenAI when no
+# AZURE_OPENAI_ENDPOINT). Zep does its own extraction (graph, server-side) +
+# decoupled write-time update; retrieval via graph edges/nodes/episodes.
+agent_name: Structure_rag_zep
+model: gpt-4o-mini
+text_embedding: text-embedding-3-small
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 5000
+output_dir: ./outputs/gpt-4o-mini-zep
+
+agent_chunk_size: 512
+service_name: azure_openai
+retrieve_num: 10

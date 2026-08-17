@@ -1,0 +1,34 @@
+# Gemma3-4b mem0 — STOCK NATIVE baseline (a, vanilla): mem0's OWN FACT_RETRIEVAL
+# extractor + native destructive UPDATE/DELETE, all via gemma3:4b. No unified
+# extractor, no P1 cache. Isolates write-LLM collapse INCLUDING extraction (vs (b)
+# which held ours' extraction fixed). Expected: even worse than (b) on weak gemma.
+agent_name: Structure_rag_gemma3-4b-mem0_512_openai_native
+model: gemma3:4b
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-native__gemma3-4b
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: ollama
+    config:
+      model: gemma3:4b
+      temperature: 0
+      max_tokens: 4096
+      ollama_base_url: http://localhost:11434
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_native__gemma3-4b
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_native__gemma3-4b
+      on_disk: true

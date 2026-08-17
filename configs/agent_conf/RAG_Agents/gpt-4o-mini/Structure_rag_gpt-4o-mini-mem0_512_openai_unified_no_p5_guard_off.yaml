@@ -1,0 +1,42 @@
+# gpt-4o-mini mem0 — UNIFIED EXTRACTOR + phase2 - P5 - subject-consistency guard
+# (ablation, 2026-07-17). Isolates the query-time subject-consistency guard's
+# contribution to final EM.
+#
+# Same as unified_no_p5.yaml BUT env MEM0_SUBJECT_GUARD_OFF=1 bypasses the
+# _subject_consistent check inside llm_identity_clusters -> every LLM-proposed
+# cluster with >=2 members is accepted (no cross-subject rejection). This
+# isolates the guard's contribution vs. accepting raw LLM identity clusters.
+#
+# Reuses the SAME qdrant store as unified_no_p5 (same collection_name / path)
+# so no re-ingest is needed; only agent_name + output_dir differ so results
+# don't overwrite the canonical unified_no_p5 output.
+agent_name: Structure_rag_gpt-4o-mini-mem0_512_openai_unified_no_p5_guard_off
+model: gpt-4o-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-openai-unified_no_p5_guard_off
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-4o-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_no_p5
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_no_p5
+      on_disk: true
+  use_unified_extractor: true

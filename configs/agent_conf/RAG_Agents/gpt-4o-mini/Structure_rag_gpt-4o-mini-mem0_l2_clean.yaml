@@ -1,0 +1,35 @@
+# gpt-4o-mini mem0 — CLEAN ISOLATION run (2026-06-08).
+# Extraction held constant (frozen L2 cache via MEM0_EXTRACTION_CACHE = same facts
+# as the gemini runs) + same embedder (text-embedding-004) => candidate retrieval
+# identical => the ONLY variable vs the gemini run is the update-verdict + answer
+# LLM (= gpt-4o-mini). Isolates the conflict-resolution component.
+agent_name: Structure_rag_gpt-4o-mini-mem0_l2_clean
+model: gpt-4o-mini          # answer LLM -> OpenAI (client_type=openai)
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-4o-mini-mem0-chunk512-temp0-factaware-l2
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:                       # mem0 internal UPDATE-verdict LLM
+    provider: openai
+    config:
+      model: gpt-4o-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:                  # SAME as gemini runs -> identical R1 retrieval
+    provider: vertexai
+    config:
+      model: text-embedding-004
+      embedding_dims: 768
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4omini_factaware_l2_768
+      embedding_model_dims: 768
+      path: analysis/results/expanded/stores/qdrant_gpt4omini_l2
+      on_disk: true
+  use_l2_fc_prompt: true

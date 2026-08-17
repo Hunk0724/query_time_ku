@@ -1,0 +1,46 @@
+# gpt-5.4-mini mem0 — UNIFIED EXTRACTOR + phase2 - P5 (2026-07-15).
+# Backbone-swap probe (§4.3): tests whether the strongest OpenAI mini-tier
+# model (gpt-5.4-mini, released 2026-03-17) shifts the ours main / baseline
+# gap. Companion to §4.6.5 gap-decomposition claim; Zep already recovered
+# +11pp on gpt-5.4-mini (Zep 6k 82 -> 93). This yaml lets us measure ours
+# main / mem0+P1 / Vanilla-RAG on the same backbone for full 6k picture.
+#
+# Store isolation: uses backbone-tagged yaml path (gemma pattern) — NOT the
+# shared-path pattern gpt-4.1-mini uses — because concurrent gpt-4o-mini
+# runs on the same benchmark could contaminate the shared store, and the
+# clean isolation matches Vanilla-RAG's expected reuse target.
+#
+# Extractor: MEM0_TRIPLE_MODEL defaults to gpt-4o-mini in run_fc_sh.sh —
+# extraction stays fixed at default (per "reader/inference swap only" per
+# CLAUDE.md §backbone-swap convention). Only the mem0 LLM (P3 identity
+# grouping, phase2 conflict-type) and answer LLM swap to gpt-5.4-mini.
+agent_name: Structure_rag_gpt-5.4-mini-mem0_512_openai_unified_no_p5
+model: gpt-5.4-mini
+temperature: 0
+input_length_limit: 10000000
+buffer_length: 1000
+output_dir: ./outputs/gpt-5.4-mini-mem0-chunk512-temp0-openai-unified_no_p5
+
+agent_chunk_size: 512
+retrieve_num: 100
+
+mem0_config:
+  llm:
+    provider: openai
+    config:
+      model: gpt-5.4-mini
+      temperature: 0
+      max_tokens: 16384
+  embedder:
+    provider: openai
+    config:
+      model: text-embedding-3-small
+      embedding_dims: 1536
+  vector_store:
+    provider: qdrant
+    config:
+      collection_name: mem0_gpt4o_512_openai_unified_no_p5
+      embedding_model_dims: 1536
+      path: analysis/results/expanded/stores/qdrant_gpt4o_512_openai_unified_no_p5__gpt-5.4-mini
+      on_disk: true
+  use_unified_extractor: true
