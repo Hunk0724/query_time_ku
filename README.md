@@ -320,11 +320,11 @@ No runs. `vs. Don't Ask` gap = FC-SH AVG minus LME-KU:
 
 ### Checking your runs against the paper
 
-The exact run products behind the paper are shipped read-only under
-`reference_outputs/`. Your runs write to `outputs/` (FC-SH) and
-`analysis/results/lme_hyps/` (LME-KU) and never touch `reference_outputs/`. To diff
-a fresh run against the reference (SubEM for FC-SH, accuracy for LME-KU; PASS within
-±3 points):
+The exact run products behind the paper are shipped compressed as
+`reference_outputs.tar.gz` — extract it first (`tar -xf reference_outputs.tar.gz`; §5).
+Your runs write to `outputs/` (FC-SH) and `analysis/results/lme_hyps/` (LME-KU) and
+never touch `reference_outputs/`. To diff a fresh run against the reference (SubEM for
+FC-SH, accuracy for LME-KU; PASS within ±3 points):
 
 ```bash
 python scripts/compare_to_reference.py                      # scan outputs/ + lme_hyps
@@ -358,13 +358,23 @@ match the tables.
 ├── dont_ask/                 # vendored Don't Ask authors' code (MIT)
 ├── data/                     # shipped FC-SH + LME-KU data subsets — runs work offline (§1.3)
 ├── analysis/                 # analysis scripts + results/ (per-backbone extraction caches, has_pair labels)
-├── reference_outputs/        # the paper's exact run products; your fresh runs diff against these (§5)
+├── reference_outputs.tar.gz  # the paper's exact run products, gzip'd — extract to use (§5)
 └── outputs/                  # YOUR fresh run products — absent at clone, created on first run
 ```
 
 ## 5. Shipped reference and analysis inputs
 
-`reference_outputs/` holds the exact run products behind every table (including
+The shipped reference is committed **compressed** as `reference_outputs.tar.gz`
+(≈72 MB; kept as an archive so the repo unzips cleanly on Windows, where the deep
+result paths would otherwise exceed the 260-character limit). **Extract it once before
+using the reference:**
+
+```bash
+tar -xf reference_outputs.tar.gz     # → reference_outputs/ (≈422 MB); tar ships with
+                                     # macOS, Linux, and Windows 10+ and handles long paths
+```
+
+`reference_outputs/` then holds the exact run products behind every table (including
 `lme_hyps/`, the LME hypotheses + eval-results); prefix any analysis script with
 `OUTPUT_ROOT=reference_outputs` to reproduce the paper numbers without rerunning
 (§3, *Checking your runs*, covers the fresh-vs-reference diff). `analysis/results/`

@@ -12,5 +12,9 @@ agents/                               # engine agent-state cache (auto-created)
 analysis/results/expanded/stores/     # Qdrant vector stores (rebuilt from shipped data)
 analysis/results/lme_hyps/            # fresh LME-KU run products (reference is reference_outputs/lme_hyps/)
 
+# Shipped reference is committed compressed as reference_outputs.tar.gz (Windows
+# long-path safe); the extracted tree is ignored so it is never re-committed.
+reference_outputs/
+
 # OS cruft
 .DS_Store
