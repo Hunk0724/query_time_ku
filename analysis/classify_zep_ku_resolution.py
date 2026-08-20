@@ -55,6 +55,7 @@ from __future__ import annotations
 import argparse
 import glob
 import json
+import os
 import sys
 from collections import Counter
 from pathlib import Path
@@ -65,7 +66,9 @@ sys.path.insert(0, str(REPO / "analysis"))
 from compute_m1_m2_m3 import match_pair  # noqa: E402
 from compute_pool_acc_crosstab import load_gt, _em_from_perqid  # noqa: E402
 
-ZEP_ROOT = REPO / "outputs/rag_retrieved/Structure_rag_zep/k_10"
+# Zep per-qid graph-search dumps. Fresh runs (default "outputs") or the shipped
+# reference: OUTPUT_ROOT=reference_outputs python analysis/classify_zep_ku_resolution.py
+ZEP_ROOT = REPO / os.environ.get("OUTPUT_ROOT", "outputs") / "rag_retrieved/Structure_rag_zep/k_10"
 LENGTHS = ["6k", "32k", "64k", "262k"]
 
 BUCKETS = [

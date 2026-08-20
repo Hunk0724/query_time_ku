@@ -30,6 +30,7 @@ from __future__ import annotations
 import argparse
 import glob
 import json
+import os
 import re
 import sys
 from collections import Counter, defaultdict
@@ -84,7 +85,7 @@ def _em_from_perqid(response: str, gt_answer) -> bool:
 
 # ==================== Configuration ==================== #
 GT_PATHS = {
-    "6k": "analysis/results/sh_512_mquake_analysis.json",
+    "6k": "analysis/results/sh_6k_mquake_analysis.json",
     "32k": "analysis/results/sh_32k_mquake_analysis.json",
     "64k": "analysis/results/sh_64k_mquake_analysis.json",
     "262k": "analysis/results/sh_262k_mquake_analysis.json",
@@ -152,6 +153,13 @@ METHODS = [
      "gpt-4.1-mini-mem0-chunk512-temp0-openai-unified/Conflict_Resolution"),
 ]
 
+# Fresh runs (default "outputs") or the shipped reference:
+#   OUTPUT_ROOT=reference_outputs python analysis/compute_pool_acc_crosstab.py
+_OUT_ROOT = os.environ.get("OUTPUT_ROOT", "outputs")
+if _OUT_ROOT != "outputs":
+    METHODS = [(n, Path(str(r).replace("/outputs/", f"/{_OUT_ROOT}/", 1)), k, g)
+               for (n, r, k, g) in METHODS]
+
 OUT_MD = REPO / "analysis/results/pool_acc_crosstab.md"
 
 
@@ -167,7 +175,7 @@ def load_em(results_dir_glob: str, L: str) -> dict | None:
          (the official Mac run pattern for full 100-query runs).
       2. Fallback: file with max n_data.
     Rejects smoke files (n_data < 50)."""
-    root = REPO / f"outputs/{results_dir_glob}"
+    root = REPO / f"{os.environ.get('OUTPUT_ROOT', 'outputs')}/{results_dir_glob}"
     files = sorted(glob.glob(str(root / f"factconsolidation_sh_{L}_*results*.json")))
     if not files:
         return None
