@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import glob
 import json
+import os
 import re
 import sys
 from collections import Counter, defaultdict
@@ -26,20 +27,23 @@ REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO))
 
 GT_PATHS = {
-    "6k": "analysis/results/sh_512_mquake_analysis.json",
+    "6k": "analysis/results/sh_6k_mquake_analysis.json",
     "32k": "analysis/results/sh_32k_mquake_analysis.json",
     "64k": "analysis/results/sh_64k_mquake_analysis.json",
 }
 
-INGEST_DEST = REPO / "outputs/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified_dest/k_100"
+# Source of run outputs: your own fresh runs ("outputs", default) or the shipped
+# reference ("reference_outputs"). Override: OUTPUT_ROOT=reference_outputs python ...
+_OUT = os.environ.get("OUTPUT_ROOT", "outputs")
+INGEST_DEST = REPO / f"{_OUT}/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified_dest/k_100"
 OURS_ROOTS = {
-    "ours(full)":    REPO / "outputs/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified/k_100",
-    "ours(no_p5)":   REPO / "outputs/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified_no_p5/k_100",
-    "ours(struct)":  REPO / "outputs/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified_struct/k_100",
-    "ours(p3_only)": REPO / "outputs/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified_p3_only_no_struct/k_100",
+    "ours(full)":    REPO / f"{_OUT}/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified/k_100",
+    "ours(no_p5)":   REPO / f"{_OUT}/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified_no_p5/k_100",
+    "ours(struct)":  REPO / f"{_OUT}/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified_struct/k_100",
+    "ours(p3_only)": REPO / f"{_OUT}/rag_retrieved/Structure_rag_gpt-4o-mini-mem0_512_openai_unified_p3_only_no_struct/k_100",
 }
 MEM0_QUERY = INGEST_DEST
-ZEP_ROOT = REPO / "outputs/rag_retrieved/Structure_rag_zep/k_10"
+ZEP_ROOT = REPO / f"{_OUT}/rag_retrieved/Structure_rag_zep/k_10"
 
 
 # ==================== Matcher v3 (rigor: triple-based) ==================== #

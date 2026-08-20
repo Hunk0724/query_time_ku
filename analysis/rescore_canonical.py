@@ -45,7 +45,10 @@ import string
 import sys
 
 ANALYSIS_DIR = os.path.join(os.path.dirname(__file__), "results")
-OUTPUTS_DIR = os.path.join(os.path.dirname(__file__), "..", "outputs")
+# Source of run outputs: your own fresh runs ("outputs", default) or the shipped
+# reference ("reference_outputs"). Override: OUTPUT_ROOT=reference_outputs python ...
+OUTPUTS_DIR = os.path.join(
+    os.path.dirname(__file__), "..", os.environ.get("OUTPUT_ROOT", "outputs"))
 
 # ---------------------------------------------------------------------------
 # Official scoring primitives (verbatim port of utils/eval_other_utils.py so the
