@@ -376,8 +376,21 @@ mkdir -p reference_outputs
 tar -xf reference_outputs.tar.gz -C reference_outputs    # → reference_outputs/... (≈422 MB)
 ```
 
-Double-clicking the archive on Windows/macOS works too — it creates a single
-`reference_outputs/` folder with the results inside. Once extracted, prefix any analysis
+On **macOS / Linux this always works** (path limit ≈4096). On **Windows** the deepest
+file inside the archive is ~198 characters, and Windows caps a full path at 260, so
+avoid the extra headroom being eaten up:
+
+- **Extract from a short base folder** — e.g. `C:\qtk\`, not a deep
+  `C:\Users\<you>\Downloads\query_time_ku-main\...` path.
+- **Use the built-in `tar`** (`tar -xf reference_outputs.tar.gz -C reference_outputs`
+  from a `cmd`/PowerShell in that short folder). **Do not** use Explorer's
+  right-click *Extract All* or `Expand-Archive` — those enforce the 260-char limit and
+  fail partway; `tar` does not.
+- *(Optional, once)* enable long-path support so even a deep base works:
+  `New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name LongPathsEnabled -Value 1 -PropertyType DWORD -Force` (admin PowerShell).
+
+The archive holds the result folders directly, so extraction creates a single
+`reference_outputs/` folder with the results inside (no extra nesting). Once extracted, prefix any analysis
 script with `OUTPUT_ROOT=reference_outputs` to reproduce the paper numbers without
 rerunning (§3, *Checking your runs*, covers the fresh-vs-reference diff). `analysis/results/`
 ships the pipeline inputs a run reads or regenerates: `p1_caches*/` (held-fixed
