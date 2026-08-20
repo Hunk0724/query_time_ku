@@ -14,7 +14,7 @@ CONDA_SH="${CONDA_SH:-$HOME/miniconda3/etc/profile.d/conda.sh}"
 LME_DATA_DIR="${LME_DATA_DIR:-$REPO_ROOT/data/longmemeval}"
 export LME_DATA="${LME_DATA:-$LME_DATA_DIR/longmemeval_s_cleaned.json}"
 source "$CONDA_SH"
-conda activate "${CONDA_ENV:-repro}"
+conda activate "${CONDA_ENV:-query_time_ku}"
 export PYTHONUNBUFFERED=1 OMP_NUM_THREADS=1
 cd $REPO_ROOT
 set -a; [[ -f .env ]] && . .env; set +a
@@ -257,7 +257,7 @@ import json, glob
 fs = glob.glob('$OUTDIR/**/*sh_${L}*results*.json', recursive=True)
 if fs:
     rows = json.load(open(fs[0]))['data']; em = sum(1 for x in rows if x.get('substring_exact_match'))
-    print(f'$METHOD FC-SH ${L}: sEM {em}/{len(rows)} = {em/len(rows)*100:.1f}%  (the paper-table metric)')
+    print(f'$METHOD FC-SH ${L}: SubEM {em}/{len(rows)} = {em/len(rows)*100:.1f}%  (the paper-table metric)')
 "
 echo "---- cost ----"
 python3 scripts/summarize_cost.py "$MEM0_COST_LOG" "$ANSDIR"

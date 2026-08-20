@@ -1,4 +1,4 @@
-# Query-Time Deterministic Knowledge Update — Reproduction Package
+# A Query-Time Deterministic Memory Update Mechanism via Structural Matching
 
 Code and reproduction instructions for the experiments in the thesis
 **"A Query-Time Deterministic Memory Update Mechanism via Structural Matching for
@@ -28,7 +28,7 @@ you clone/unzip and run directly — no nested paths, no per-user setup.
 ### 1.1 Environment
 
 ```bash
-conda create -n repro python=3.10 -y && conda activate repro
+conda create -n query_time_ku python=3.10 -y && conda activate query_time_ku
 pip install -r requirements.txt
 ```
 
@@ -64,11 +64,19 @@ experiments run offline with no download step:
   configs). `utils/eval_data_utils.py` loads the local file automatically; if it
   is absent it falls back to the Hugging Face dataset `ai-hyz/MemoryAgentBench`.
 
-Both are exact filters of the official public releases (LongMemEval-cleaned,
-MIT; MemoryAgentBench, MIT). To regenerate them from the official sources:
+Both are exact filters of the official public releases:
+
+- **LME-KU** = the 78 `knowledge-update` questions of **LongMemEval-S (cleaned)** —
+  official source: HF dataset `xiaowu0162/longmemeval-cleaned`
+  (`longmemeval_s_cleaned.json`, 500 questions; MIT, Wu et al. 2024; repo *LongMemEval*).
+- **FC-SH** = the FactConsolidation Single-Hop rows (6k/32k/64k/262k) of the
+  `Conflict_Resolution` split of **MemoryAgentBench** — official source: HF dataset
+  `ai-hyz/MemoryAgentBench` (MIT, Hu et al. 2026; official repo *MemoryAgentBench*).
+
+To regenerate them from these official sources:
 
 ```bash
-python scripts/build_data_subsets.py   # see the script header for source URLs
+python scripts/build_data_subsets.py   # pulls the two HF datasets above (see script header)
 ```
 
 ### 1.4 Local backbones (only for `tab:gemma3` / `tab:crossfamily`)
@@ -98,12 +106,16 @@ Things to know before you run local backbones:
 - **One model at a time.** Ollama serves serially, so backbones run one after another
   (`ollama stop` between). The paper ran these on a single ~119 GB unified-memory box
   (27B ≈ 20 GB VRAM); 27B is slow enough that only the 6k cell was run.
+- **Version sensitivity.** The paper's local numbers were produced with **Ollama 0.13**
+  and the quantizations above (gemma2:9b Q4_0, the rest Q4_K_M); a newer Ollama build
+  or a different quant can move a cell by a few points, within the ±3-point tolerance
+  (§3). Local backbones are 6k-only (see `tab:gemma3` / `tab:crossfamily`).
 
 ### 1.5 Sanity check
 
 ```bash
 bash scripts/run_fc_sh.sh 6k ours_struct_llm_matching
-# expected: overall sEM around 94/100. Confirms the pipeline is wired correctly.
+# expected: overall SubEM around 94/100. Confirms the pipeline is wired correctly.
 ```
 
 ---
@@ -133,10 +145,10 @@ MEM0_TRIPLE_MODEL=<model>`. `MODEL_TAG` names a directory under
 name for GPT (`gpt-4o-mini`), but the **Ollama tag with a colon** for local backbones
 (dir `gemma3-4b` → tag `gemma3:4b`; see §1.4).
 
-**Metrics.** FC-SH uses substring exact match (sEM), 100 queries per length; each
-run prints `sEM x/100` at the end — the paper-table number (sEM, not strict exact
-match). LME-KU uses the official LongMemEval LLM autoevaluator (`gpt-4o-mini` judge),
-78 questions.
+**Metrics.** FC-SH uses the **official MemoryAgentBench substring exact match (SubEM)**
+metric (the `substring_exact_match` field), 100 queries per length; each run prints
+`SubEM x/100` at the end — the paper-table number (SubEM, not strict exact match).
+LME-KU uses the official LongMemEval LLM autoevaluator (`gpt-4o-mini` judge), 78 questions.
 
 **Shared settings** (all methods, both benchmarks): chunk size 512, vector retrieval
 top-100 (Zep top-10, its official setting), temperature 0, single deterministic run.
@@ -153,9 +165,9 @@ run `ours_struct_llm_matching` first, then the others.
 
 ## 3. Reproducing each table
 
-Assumes `conda activate repro` and a populated `.env`.
+Assumes `conda activate query_time_ku` and a populated `.env`.
 
-### Table `tab:fcsh_main` — FC-SH sEM, gpt-4o-mini, four context lengths
+### Table `tab:fcsh_main` — FC-SH SubEM, gpt-4o-mini, four context lengths
 
 For each `L` in `6k 32k 64k 262k`:
 
@@ -311,7 +323,7 @@ No runs. `vs. Don't Ask` gap = FC-SH AVG minus LME-KU:
 The exact run products behind the paper are shipped read-only under
 `reference_outputs/`. Your runs write to `outputs/` (FC-SH) and
 `analysis/results/lme_hyps/` (LME-KU) and never touch `reference_outputs/`. To diff
-a fresh run against the reference (sEM for FC-SH, accuracy for LME-KU; PASS within
+a fresh run against the reference (SubEM for FC-SH, accuracy for LME-KU; PASS within
 ±3 points):
 
 ```bash
@@ -320,12 +332,12 @@ python scripts/compare_to_reference.py --fc outputs/.../<result>.json
 python scripts/compare_to_reference.py --lme <hyp>.jsonl.eval-results-gpt-4o-mini
 ```
 
-**Score with sEM, not strict EM.** The paper's FC-SH numbers (`tab:fcsh_main`,
-`tab:gemma3`, `tab:crossfamily`) are **substring exact match (sEM)** — the
+**Score with SubEM, not strict EM.** The paper's FC-SH numbers (`tab:fcsh_main`,
+`tab:gemma3`, `tab:crossfamily`) are **substring exact match (SubEM)** — the
 `substring_exact_match` field, which `compare_to_reference.py` reads. Do **not**
-count the `exact_match` field instead: it is strict EM and runs well below sEM for
+count the `exact_match` field instead: it is strict EM and runs well below SubEM for
 verbose backbones that wrap the answer in prose (e.g. llama3.1-8b Struct-Only is
-`exact_match` 17 but sEM 81; mistral-7b Ours is 32 vs 66; gemma3-27b Ours 94 vs 99).
+`exact_match` 17 but SubEM 81; mistral-7b Ours is 32 vs 66; gemma3-27b Ours 94 vs 99).
 Use the shipped comparator (or the `substring_exact_match` field) and the numbers
 match the tables.
 
@@ -335,19 +347,19 @@ match the tables.
 
 ```
 .
-├── README.md                 # this file
-├── requirements.txt
-├── .env.example
-├── agent.py main.py conversation_creator.py initialization.py   # benchmark engine
-├── mem0/                     # patched mem0 (write/extraction changes live here)
-├── methods/                  # our method (phase0/phase2), Zep, retriever
-├── utils/  configs/  llm_based_eval/                            # engine support
-├── scripts/                  # all run / analysis scripts (flat)
-├── dont_ask/
-│   └── memory-conflict-resolution/   # vendored Don't Ask authors' code (MIT)
-├── analysis/                 # 6 analysis modules + results/ (has_pair labels, extraction caches)
-└── reference_outputs/        # shipped reference run-products (your runs compare against these)
-                              # outputs/ is created by your runs (empty at clone)
+├── README.md                 # this file — setup + how to reproduce each table
+├── requirements.txt          # pinned dependencies (§1.1)
+├── .env.example              # API-key template; copy to .env (§1.2)
+├── agent.py main.py conversation_creator.py initialization.py   # benchmark run engine
+├── mem0/                     # patched mem0 — our write/extraction changes live here
+├── methods/                  # our method: phase0 (write-time) + phase2 (query-time KU), Zep, retriever
+├── utils/  configs/  llm_based_eval/   # engine support: data loaders, agent/dataset yamls, LME judge
+├── scripts/                  # run + analysis entry scripts, flat (§3)
+├── dont_ask/                 # vendored Don't Ask authors' code (MIT)
+├── data/                     # shipped FC-SH + LME-KU data subsets — runs work offline (§1.3)
+├── analysis/                 # analysis scripts + results/ (per-backbone extraction caches, has_pair labels)
+├── reference_outputs/        # the paper's exact run products; your fresh runs diff against these (§5)
+└── outputs/                  # YOUR fresh run products — absent at clone, created on first run
 ```
 
 ## 5. Shipped reference and analysis inputs
@@ -383,13 +395,13 @@ the error-mode / retrieval tables), and `phase0/`.
   - *Re-query without re-ingesting.* The graph persists on Zep by id, so once built
     you can re-run queries against it without paying the ingestion + wait again.
   - Retrieval is top-10 per scope (`ZEP_TOP_K`, default 10), per Zep's official setup.
-- **gpt-5.4-mini / cross-family:** commands follow the same `MODEL_TAG` mechanism
-  and the configs shipped in `configs/agent_conf/RAG_Agents/`; expected values are
-  the corresponding paper table.
 - **Parallel runs (optional speedup):** `run_lme_ku.sh` accepts `SHARD`/`NSHARD`
   to split the 78 questions across processes; not required for correctness.
-- **Determinism:** all runs use temperature 0, single pass. Small run-to-run
-  variation (±2–3 points) can occur from server-side numerical nondeterminism.
+- **Run-to-run variation:** even at temperature 0, server-side numerical
+  nondeterminism can move a fresh run ±2–3 points from the reference (within
+  `compare_to_reference.py`'s tolerance). The destructive baselines (Mem0 Vanilla,
+  Mem0 + Fact Extraction) vary more, since their write-time LLM ADD/UPDATE/DELETE
+  decision is stochastic; the append-only and deterministic methods reproduce tightly.
 
 ## 7. Attribution
 
@@ -407,3 +419,13 @@ copy); "Don't Ask" © 2026 Vikas Challaram Reddy (MIT, full text at
 | `dont_ask/memory-conflict-resolution/` (Don't Ask) | vendored verbatim (Reddy & Challaram, 2026, arXiv:2606.01435) | MIT |
 | `llm_based_eval/evaluate_qa_official.py` | vendored from **LongMemEval** (Wu et al., ICLR 2025, arXiv:2410.10813) | MIT |
 | Zep baseline | hosted service via `zep-cloud` SDK (Rasmussen et al., 2025, arXiv:2501.13956) | — |
+
+**"Don't Ask" — naming and version note.** *Don't Ask* is the short name **we** use for
+this baseline; it is the work's original title, later retitled *Reliable Post-Retrieval
+Assembly for Agent Memory: Separating Evidence Extraction from Policy Execution* (COLM
+2026 Lifelong-Agent Workshop). The vendored pipeline is pinned at upstream commit
+`b6b92b4`; its candidate-extraction prompt (`scripts/_pipeline.py` `CANDIDATE_PROMPT`)
+and default deterministic max-serial pick are **byte-identical** in the later release —
+the only upstream additions are an o-series temperature guard (a no-op for the
+non-reasoning backbones used here) and an optional LLM-picker ablation not on the default
+path — so our Don't Ask results are stable across upstream versions.
