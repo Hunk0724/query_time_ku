@@ -93,16 +93,28 @@ if __name__ == "__main__":
     ap.add_argument("--lme", nargs="*", help="LME eval-results file(s)")
     ap.add_argument("--tol", type=float, default=3.0)
     a = ap.parse_args()
-    fc = a.fc if a.fc is not None else glob.glob(
+    fc_in = a.fc if a.fc is not None else glob.glob(
         os.path.join(FRESH, "**", "*results*.json"), recursive=True)
-    lme = a.lme if a.lme is not None else glob.glob(
+    lme_in = a.lme if a.lme is not None else glob.glob(
         os.path.join(LME_FRESH, "*.eval-results-*"))
-    fc = [p for p in fc if p and os.path.isfile(p)]
-    lme = [p for p in lme if p and os.path.isfile(p)]
+    fc = [p for p in fc_in if p and os.path.isfile(p)]
+    lme = [p for p in lme_in if p and os.path.isfile(p)]
+
+    # Paths that were named but do not resolve to a readable file. On Windows a
+    # >260-char path can survive extraction yet fail os.path.isfile() — warn
+    # instead of silently dropping it into a bare "Nothing to compare".
+    missing = [p for p in fc_in + lme_in if p and not os.path.isfile(p)]
+    if missing:
+        print(f"!! {len(missing)} named path(s) are not readable and were skipped "
+              f"(on Windows, likely the >260-char path limit — see README section 5):")
+        for p in missing:
+            print(f"   {p}")
+        print()
+
     if fc:
         cmp_fc(fc, a.tol)
     if lme:
         cmp_lme(lme, a.tol)
-    if not fc and not lme:
+    if not fc and not lme and not missing:
         print("Nothing to compare. Run some experiments first (see README section 3), "
               "or pass --fc / --lme paths.")

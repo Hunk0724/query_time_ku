@@ -376,18 +376,27 @@ mkdir -p reference_outputs
 tar -xf reference_outputs.tar.gz -C reference_outputs    # → reference_outputs/... (≈422 MB)
 ```
 
-On **macOS / Linux this always works** (path limit ≈4096). On **Windows** the deepest
-file inside the archive is ~198 characters, and Windows caps a full path at 260, so
-avoid the extra headroom being eaten up:
-
-- **Extract from a short base folder** — e.g. `C:\qtk\`, not a deep
-  `C:\Users\<you>\Downloads\query_time_ku-main\...` path.
-- **Use the built-in `tar`** (`tar -xf reference_outputs.tar.gz -C reference_outputs`
-  from a `cmd`/PowerShell in that short folder). **Do not** use Explorer's
-  right-click *Extract All* or `Expand-Archive` — those enforce the 260-char limit and
-  fail partway; `tar` does not.
-- *(Optional, once)* enable long-path support so even a deep base works:
-  `New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name LongPathsEnabled -Value 1 -PropertyType DWORD -Force` (admin PowerShell).
+> **Windows: put the repo on a short path first.** macOS / Linux have no path limit
+> here — skip this box. On Windows the deepest file inside the archive is ~196
+> characters and Windows caps a full path at 260. The catch is a *false success*:
+> `tar` extracts every file without error (it uses the `\\?\` long-path API), but the
+> ~65 files that end up past 260 chars then become **unreadable** — `open()` raises
+> `FileNotFoundError` — so the analysis scripts crash partway through instead of at
+> extraction. The fix is simply to keep the folder that holds `reference_outputs\`
+> short: the repo root (with trailing `\`) should be **≤ ~45 characters**. A deep
+> `C:\Users\<you>\Downloads\query_time_ku-main\` (67 chars) overflows; move the whole
+> repo somewhere short first, e.g.:
+>
+> ```powershell
+> mkdir C:\qtk
+> Move-Item "C:\Users\<you>\Downloads\query_time_ku-main" C:\qtk\
+> cd C:\qtk\query_time_ku-main
+> mkdir reference_outputs
+> tar -xf reference_outputs.tar.gz -C reference_outputs
+> ```
+>
+> `C:\qtk\query_time_ku-main\reference_outputs\` is 44 chars → longest full path 240,
+> all 4767 files readable.
 
 The archive holds the result folders directly, so extraction creates a single
 `reference_outputs/` folder with the results inside (no extra nesting). Once extracted, prefix any analysis

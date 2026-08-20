@@ -37,6 +37,7 @@ def sem(path):
 
 def build(outputs_dir, out):
     rows = []
+    skipped = []
     for p in glob.glob(os.path.join(outputs_dir, "*", "**", "*results*.json"), recursive=True):
         dir0 = os.path.relpath(p, outputs_dir).split(os.sep)[0]
         m = DIR_RE.match(dir0)
@@ -45,7 +46,15 @@ def build(outputs_dir, out):
         lm = LEN_RE.search(os.path.basename(p))
         if not lm:
             continue
-        s, n = sem(p)
+        try:
+            s, n = sem(p)
+        except (OSError, ValueError) as e:
+            # A file that glob lists but cannot be opened — on Windows this is
+            # almost always a >260-char path that survived extraction but is
+            # unreadable (LongPathsEnabled=0). Skip it loudly instead of
+            # crashing the whole build; move the repo to a short path (README §5).
+            skipped.append((os.path.relpath(p, outputs_dir), type(e).__name__))
+            continue
         rows.append({
             "backbone": m.group("mt") or m.group("prefix"),
             "method_tag": m.group("tag"),
@@ -59,6 +68,13 @@ def build(outputs_dir, out):
     json.dump(rows, open(out, "w"), ensure_ascii=False, indent=2)
     print(f"{len(rows)} rows -> {out}")
     print("backbones:", sorted(set(r["backbone"] for r in rows)))
+    if skipped:
+        print(f"\n!! {len(skipped)} result file(s) UNREADABLE and skipped "
+              f"(the table rows below them will be incomplete):")
+        for rel, err in skipped:
+            print(f"   [{err}] {rel}")
+        print("   On Windows this is the >260-char path limit — move the repo to "
+              "a short path and re-extract (README section 5).")
     return rows
 
 if __name__ == "__main__":
