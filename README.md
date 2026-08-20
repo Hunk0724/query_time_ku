@@ -320,9 +320,9 @@ No runs. `vs. Don't Ask` gap = FC-SH AVG minus LME-KU:
 
 ### Checking your runs against the paper
 
-The exact run products behind the paper are shipped compressed as
-`reference_outputs.tar.gz` — extract it first (`tar -xf reference_outputs.tar.gz`; §5).
-Your runs write to `outputs/` (FC-SH) and `analysis/results/lme_hyps/` (LME-KU) and
+The thesis's own run products are shipped compressed as `reference_outputs.tar.gz` —
+extract it first into a `reference_outputs/` folder (see §5). Your runs write to
+`outputs/` (FC-SH) and `analysis/results/lme_hyps/` (LME-KU) and
 never touch `reference_outputs/`. To diff a fresh run against the reference (SubEM for
 FC-SH, accuracy for LME-KU; PASS within ±3 points):
 
@@ -358,26 +358,28 @@ match the tables.
 ├── dont_ask/                 # vendored Don't Ask authors' code (MIT)
 ├── data/                     # shipped FC-SH + LME-KU data subsets — runs work offline (§1.3)
 ├── analysis/                 # analysis scripts + results/ (per-backbone extraction caches, has_pair labels)
-├── reference_outputs.tar.gz  # the paper's exact run products, gzip'd — extract to use (§5)
+├── reference_outputs.tar.gz  # this thesis's experiment results, gzip'd — extract to use (§5)
 └── outputs/                  # YOUR fresh run products — absent at clone, created on first run
 ```
 
 ## 5. Shipped reference and analysis inputs
 
-The shipped reference is committed **compressed** as `reference_outputs.tar.gz`
-(≈72 MB; kept as an archive so the repo unzips cleanly on Windows, where the deep
-result paths would otherwise exceed the 260-character limit). **Extract it once before
-using the reference:**
+`reference_outputs/` is **this thesis's own experiment results** — the exact run
+products behind every table, kept as the reference your fresh runs are compared against.
+To keep the repo Windows-friendly (the deep result paths would otherwise exceed the
+260-character limit), it is committed **compressed** as `reference_outputs.tar.gz`
+(≈68 MB). The archive holds the result folders directly, so **extract it into a
+`reference_outputs/` folder before use:**
 
 ```bash
-tar -xf reference_outputs.tar.gz     # → reference_outputs/ (≈422 MB); tar ships with
-                                     # macOS, Linux, and Windows 10+ and handles long paths
+mkdir -p reference_outputs
+tar -xf reference_outputs.tar.gz -C reference_outputs    # → reference_outputs/... (≈422 MB)
 ```
 
-`reference_outputs/` then holds the exact run products behind every table (including
-`lme_hyps/`, the LME hypotheses + eval-results); prefix any analysis script with
-`OUTPUT_ROOT=reference_outputs` to reproduce the paper numbers without rerunning
-(§3, *Checking your runs*, covers the fresh-vs-reference diff). `analysis/results/`
+Double-clicking the archive on Windows/macOS works too — it creates a single
+`reference_outputs/` folder with the results inside. Once extracted, prefix any analysis
+script with `OUTPUT_ROOT=reference_outputs` to reproduce the paper numbers without
+rerunning (§3, *Checking your runs*, covers the fresh-vs-reference diff). `analysis/results/`
 ships the pipeline inputs a run reads or regenerates: `p1_caches*/` (held-fixed
 per-backbone extraction caches), `sh_<L>_mquake_analysis.json` (has_pair labels for
 the error-mode / retrieval tables), and `phase0/`.
